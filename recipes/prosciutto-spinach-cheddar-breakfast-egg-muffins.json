@@ -1,0 +1,601 @@
+{
+  "props": {
+    "pageProps": {
+      "publishedRecipe": {
+        "id": 7084,
+        "recipe_id": 809,
+        "serving_count": 4,
+        "cooking_minutes": 25,
+        "name": "Prosciutto, Spinach & Cheddar Breakfast Egg Muffins",
+        "slug": "prosciutto-spinach-cheddar-breakfast-egg-muffins",
+        "units": "US",
+        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/thumbnail_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/presentation_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+        "cookwares": [
+          {
+            "id": 2,
+            "name": "chef's knife",
+            "slug": "chef-s-knife"
+          },
+          {
+            "id": 1,
+            "name": "cutting board",
+            "slug": "cutting-board"
+          },
+          {
+            "id": 15,
+            "name": "grater",
+            "slug": "grater"
+          },
+          {
+            "id": 5,
+            "name": "measuring spoons",
+            "slug": "measuring-spoons"
+          },
+          {
+            "id": 23,
+            "name": "mixing bowls",
+            "slug": "mixing-bowls"
+          },
+          {
+            "id": 124,
+            "name": "muffin pan",
+            "slug": "muffin-pan"
+          },
+          {
+            "id": 91,
+            "name": "nonstick skillet",
+            "slug": "nonstick-skillet"
+          },
+          {
+            "id": 34,
+            "name": "oven mitts",
+            "slug": "oven-mitts"
+          },
+          {
+            "id": 18,
+            "name": "spatula",
+            "slug": "spatula"
+          },
+          {
+            "id": 42,
+            "name": "whisk or fork",
+            "slug": "whisk-or-fork"
+          }
+        ],
+        "instructions": [
+          {
+            "id": 194192,
+            "primary_message": "Preheat oven to 400°F and position a rack near the bottom of the oven; grease 12 muffin cups with butter.",
+            "secondary_message": "2 tbsp butter, unsalted"
+          },
+          {
+            "id": 194193,
+            "primary_message": "Chop the prosciutto into ½-inch pieces.",
+            "secondary_message": "8 slices prosciutto"
+          },
+          {
+            "id": 194194,
+            "primary_message": "Preheat a skillet over medium heat.",
+            "secondary_message": null
+          },
+          {
+            "id": 194195,
+            "primary_message": "Wash and chop the spinach. Add to the skillet and wilt for 1-2 minutes.",
+            "secondary_message": "1 (5 oz) pkg baby spinach"
+          },
+          {
+            "id": 194196,
+            "primary_message": "Divide the prosciutto and spinach between the greased muffin tins.",
+            "secondary_message": null
+          },
+          {
+            "id": 194197,
+            "primary_message": "Crack the eggs into a medium bowl and season pepper; whisk together and pour on top of the prosciutto and spinach.",
+            "secondary_message": "10 eggs\n½ tsp black pepper"
+          },
+          {
+            "id": 194198,
+            "primary_message": "Coarsely grate the cheddar and add to the muffin tins. ",
+            "secondary_message": "½ (8 oz) block cheddar cheese"
+          },
+          {
+            "id": 194199,
+            "primary_message": "Bake for 12-15 minutes, until eggs are no longer soft in the center. Remove from the oven and let cool for 1 minute. Use a spatula to wedge each egg muffin out of its cup.",
+            "secondary_message": null
+          },
+          {
+            "id": 194200,
+            "primary_message": "Serve warm or cool for breakfast on the go. Enjoy! ",
+            "secondary_message": null
+          }
+        ],
+        "ingredients": [
+          {
+            "id": 202577,
+            "quantity": "1 (5 oz) pkg",
+            "ingredient_name": "baby spinach"
+          },
+          {
+            "id": 202578,
+            "quantity": "½ (8 oz) block",
+            "ingredient_name": "cheddar cheese"
+          },
+          {
+            "id": 202581,
+            "quantity": "10",
+            "ingredient_name": "eggs"
+          },
+          {
+            "id": 202582,
+            "quantity": "8 slices",
+            "ingredient_name": "prosciutto"
+          },
+          {
+            "id": 202579,
+            "quantity": "",
+            "ingredient_name": "black pepper"
+          },
+          {
+            "id": 202580,
+            "quantity": "",
+            "ingredient_name": "butter, unsalted"
+          }
+        ],
+        "nutrition": {
+          "energy": 392.92,
+          "alcohol": 0,
+          "ash": 2.85,
+          "caffeine": 0,
+          "water": 128.07,
+          "carbs": 3.65,
+          "fiber": 0.85,
+          "starch": 0.15,
+          "sugars": 1.64,
+          "fructose": 0.05,
+          "galactose": 0.06,
+          "glucose": 0.45,
+          "lactose": 0.09,
+          "maltose": 0,
+          "sucrose": 0.02,
+          "sugar_alcohol": 0,
+          "fat": 29.54,
+          "monounsaturated": 7.93,
+          "polyunsaturated": 2.79,
+          "omega_3": 0.23,
+          "omega_6": 2.56,
+          "saturated": 14.16,
+          "transfats": 0.61,
+          "cholesterol": 473.49,
+          "protein": 28.74,
+          "alanine": 1.08,
+          "arginine": 1.12,
+          "aspartic_acid": 2.06,
+          "cystine": 0.35,
+          "glutamic_acid": 3.35,
+          "glycine": 0.68,
+          "histidine": 0.52,
+          "isoleucine": 1.14,
+          "leucine": 1.84,
+          "lysine": 1.37,
+          "methionine": 0.6,
+          "phenylalanine": 1.11,
+          "proline": 1.34,
+          "serine": 1.34,
+          "threonine": 0.96,
+          "tryptophan": 0.36,
+          "tyrosine": 0.91,
+          "valine": 1.41,
+          "b1_thiamine": 0.08,
+          "b2_riboflavin": 0.7,
+          "b3_niacin": 0.36,
+          "b5_pantothenic_acid": 1.86,
+          "b6_pyridoxine": 0.27,
+          "b12_cobalamin": 1.24,
+          "choline": 336.1,
+          "folate": 128.21,
+          "vitamin_a": 880.98,
+          "vitamin_c": 9.98,
+          "vitamin_d": 101.33,
+          "vitamin_e": 2.27,
+          "vitamin_k": 173.56,
+          "calcium": 291.3,
+          "copper": 0.15,
+          "iron": 3.32,
+          "magnesium": 49.55,
+          "manganese": 0.4,
+          "phosphorus": 371.6,
+          "potassium": 373.18,
+          "selenium": 42.24,
+          "sodium": 887.79,
+          "zinc": 2.59
+        }
+      },
+      "canonicalVariantUrl": "https://www.mealime.com/recipes/prosciutto-spinach-cheddar-breakfast-egg-muffins/7084",
+      "altVariants": [
+        {
+          "id": 7085,
+          "recipe_id": 809,
+          "group_label": "Default",
+          "name": "Prosciutto, Spinach & Cheddar Breakfast Egg Muffins",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/thumbnail_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/presentation_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "published_recipe_uuid": "293b781f-867e-4906-8796-994e8bd4e045",
+          "fallback_published_recipe_uuids": [
+            "4003a948-946d-4c54-bc03-c06ea89bc6b1",
+            "62e93e38-6b96-4188-a1cc-fe7b5c52d36b",
+            "e5d46dd2-5804-4768-baf2-c6ebe3c09fef"
+          ],
+          "first_published_at": 1561573690000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            11
+          ],
+          "ingredient_ids": [
+            33,
+            43,
+            121,
+            329,
+            72,
+            115
+          ],
+          "ingredient_amounts": [
+            1.5,
+            0.75,
+            15,
+            12,
+            3.75,
+            45
+          ],
+          "average_rating": 0.785,
+          "rating_count": 36,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 7084,
+          "recipe_id": 809,
+          "group_label": "Default",
+          "name": "Prosciutto, Spinach & Cheddar Breakfast Egg Muffins",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/thumbnail_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/presentation_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "published_recipe_uuid": "bdd6d06c-63ea-409d-a8d5-35d6f8d39360",
+          "fallback_published_recipe_uuids": [
+            "b1491c56-f8b6-438a-a63d-b4ddd63ce294",
+            "fc759675-e49d-444c-8f40-eaf569578a13",
+            "215294c2-1f1c-4660-9f9d-dc6dfefe394c"
+          ],
+          "first_published_at": 1561573689000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            11
+          ],
+          "ingredient_ids": [
+            33,
+            43,
+            121,
+            329,
+            72,
+            115
+          ],
+          "ingredient_amounts": [
+            1,
+            0.5,
+            10,
+            8,
+            2.5,
+            30
+          ],
+          "average_rating": 0.785,
+          "rating_count": 36,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 7083,
+          "recipe_id": 809,
+          "group_label": "Default",
+          "name": "Prosciutto, Spinach & Cheddar Breakfast Egg Muffins",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/thumbnail_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/presentation_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "published_recipe_uuid": "228518dc-0bc6-4e96-9993-571fbd541f39",
+          "fallback_published_recipe_uuids": [
+            "61dedaaf-a84c-4f72-baca-60b3b0564454",
+            "6d1a576c-57be-4d75-895e-6ba0bb56e1e1",
+            "d6cdb47a-9f6d-422f-9b9a-7cabe0fecb87"
+          ],
+          "first_published_at": 1561573688000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            11
+          ],
+          "ingredient_ids": [
+            33,
+            43,
+            121,
+            329,
+            72,
+            115
+          ],
+          "ingredient_amounts": [
+            0.5,
+            0.25,
+            5,
+            4,
+            1.25,
+            15
+          ],
+          "average_rating": 0.785,
+          "rating_count": 36,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 7088,
+          "recipe_id": 809,
+          "group_label": "Default",
+          "name": "Prosciutto, Spinach & Cheddar Breakfast Egg Muffins",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/thumbnail_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/presentation_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "published_recipe_uuid": "43d06333-9897-49f6-9185-ad72a8b96a5d",
+          "fallback_published_recipe_uuids": [
+            "2af835cb-6e24-48d1-a468-563e69d25a83",
+            "e2457fc2-ec79-4664-9574-60933c5ec896",
+            "74970154-6016-4cec-bb56-002741430250"
+          ],
+          "first_published_at": 1561573692000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            11
+          ],
+          "ingredient_ids": [
+            33,
+            43,
+            121,
+            329,
+            72,
+            115
+          ],
+          "ingredient_amounts": [
+            1.5,
+            0.75,
+            15,
+            12,
+            3.75,
+            45
+          ],
+          "average_rating": 0.785,
+          "rating_count": 36,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 7087,
+          "recipe_id": 809,
+          "group_label": "Default",
+          "name": "Prosciutto, Spinach & Cheddar Breakfast Egg Muffins",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/thumbnail_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/presentation_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "published_recipe_uuid": "7b10b344-c126-4e0f-83b7-a87f84fd72ba",
+          "fallback_published_recipe_uuids": [
+            "96a61731-7fd1-4651-b57c-09968ae7be59",
+            "1c07b2b5-91c5-46df-9e2f-c9283a3b4126",
+            "cfdc416c-8cbc-4966-a325-9ec2c8a1bfef"
+          ],
+          "first_published_at": 1561573691000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            11
+          ],
+          "ingredient_ids": [
+            33,
+            43,
+            121,
+            329,
+            72,
+            115
+          ],
+          "ingredient_amounts": [
+            1,
+            0.5,
+            10,
+            8,
+            2.5,
+            30
+          ],
+          "average_rating": 0.785,
+          "rating_count": 36,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 7086,
+          "recipe_id": 809,
+          "group_label": "Default",
+          "name": "Prosciutto, Spinach & Cheddar Breakfast Egg Muffins",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/thumbnail_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/809/presentation_e4bb8b0c-98ac-4725-893a-e3f2ae879e6d.jpeg",
+          "published_recipe_uuid": "afe91d62-ff3f-41b2-80fe-0bff21756ca7",
+          "fallback_published_recipe_uuids": [
+            "d8a7b639-aafc-4753-9a43-c9a62dc5d2d2",
+            "a47f3751-0585-4330-937b-0fef61c43b44",
+            "a4679844-25b6-48db-860b-25e68631ca70"
+          ],
+          "first_published_at": 1561573691000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            11
+          ],
+          "ingredient_ids": [
+            33,
+            43,
+            121,
+            329,
+            72,
+            115
+          ],
+          "ingredient_amounts": [
+            0.5,
+            0.25,
+            5,
+            4,
+            1.25,
+            15
+          ],
+          "average_rating": 0.785,
+          "rating_count": 36,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        }
+      ],
+      "schemaMetadata": {
+        "category": "Breakfast",
+        "description": null,
+        "keywords": [
+
+        ],
+        "cuisine": "",
+        "reviewCount": null,
+        "reviewScore": null
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/recipes/[slug]/[variantId]",
+  "query": {
+    "slug": "prosciutto-spinach-cheddar-breakfast-egg-muffins",
+    "variantId": "7084"
+  },
+  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": [
+
+  ]
+}

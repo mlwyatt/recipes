@@ -1,0 +1,968 @@
+{
+  "props": {
+    "pageProps": {
+      "publishedRecipe": {
+        "id": 20235,
+        "recipe_id": 2317,
+        "serving_count": 4,
+        "cooking_minutes": 25,
+        "name": "Pan-Fried Zucchini Egg Nests with Bacon & Tomato",
+        "slug": "pan-fried-zucchini-egg-nests-bacon-tomato",
+        "units": "US",
+        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/thumbnail_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/presentation_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+        "cookwares": [
+          {
+            "id": 2,
+            "name": "chef's knife",
+            "slug": "chef-s-knife"
+          },
+          {
+            "id": 11,
+            "name": "colander",
+            "slug": "colander"
+          },
+          {
+            "id": 1,
+            "name": "cutting board",
+            "slug": "cutting-board"
+          },
+          {
+            "id": 86,
+            "name": "julienne peeler (optional)",
+            "slug": "julienne-peeler"
+          },
+          {
+            "id": 5,
+            "name": "measuring spoons",
+            "slug": "measuring-spoons"
+          },
+          {
+            "id": 91,
+            "name": "nonstick skillet",
+            "slug": "nonstick-skillet"
+          },
+          {
+            "id": 18,
+            "name": "spatula",
+            "slug": "spatula"
+          },
+          {
+            "id": 13,
+            "name": "stirring spoon",
+            "slug": "stirring-spoon"
+          },
+          {
+            "id": 35,
+            "name": "tongs",
+            "slug": "tongs"
+          }
+        ],
+        "instructions": [
+          {
+            "id": 337672,
+            "primary_message": "Preheat two skillets over medium-high heat.",
+            "secondary_message": null
+          },
+          {
+            "id": 337673,
+            "primary_message": "Once the skillets are hot, divide bacon between them and cook until crispy, 3-5 minutes per side. Remove bacon to a paper towel-lined plate. (Reserve both skillets with drippings for later use.)",
+            "secondary_message": "8 slices bacon"
+          },
+          {
+            "id": 337674,
+            "primary_message": "Meanwhile, wash, dry, and trim zucchini; use a julienne (or regular) peeler to make noodles. ",
+            "secondary_message": "4 medium zucchini squash"
+          },
+          {
+            "id": 337675,
+            "primary_message": "Return both skillets (with drippings) to medium-high heat; divide the zucchini noodles and spices between them. Cook, stirring occasionally, until starting to soften, about 2 minutes.",
+            "secondary_message": "1 tsp Italian seasoning\n½ tsp salt\n¼ tsp black pepper"
+          },
+          {
+            "id": 337676,
+            "primary_message": "When the zucchini noodles are soft, reduce heat to medium-low. Using a spatula, divide and shape noodles into 8 flattened mounds (4 mounds per skillet), making an indent at the center of each to create a \"nest.\"",
+            "secondary_message": null
+          },
+          {
+            "id": 337677,
+            "primary_message": "Gently crack an egg into each \"nest.\" Cover each skillet with a lid and cook until the tops of the whites are set but the yolks are still runny, 3-4 minutes; remove from heat.",
+            "secondary_message": "8 eggs"
+          },
+          {
+            "id": 337678,
+            "primary_message": "Meanwhile, wash, dry, and halve tomatoes.",
+            "secondary_message": "1 pint grape tomatoes"
+          },
+          {
+            "id": 337679,
+            "primary_message": "To serve, divide zucchini egg nests, bacon, and tomatoes between plates; season eggs with salt and pepper. Enjoy!",
+            "secondary_message": "⅛ tsp salt\n⅛ tsp black pepper"
+          }
+        ],
+        "ingredients": [
+          {
+            "id": 360486,
+            "quantity": "8 slices",
+            "ingredient_name": "bacon"
+          },
+          {
+            "id": 360483,
+            "quantity": "8",
+            "ingredient_name": "eggs"
+          },
+          {
+            "id": 360485,
+            "quantity": "1 pint",
+            "ingredient_name": "grape tomatoes"
+          },
+          {
+            "id": 360484,
+            "quantity": "4 medium",
+            "ingredient_name": "zucchini squash"
+          },
+          {
+            "id": 360480,
+            "quantity": "",
+            "ingredient_name": "black pepper"
+          },
+          {
+            "id": 360481,
+            "quantity": "",
+            "ingredient_name": "Italian seasoning"
+          },
+          {
+            "id": 360482,
+            "quantity": "",
+            "ingredient_name": "salt"
+          }
+        ],
+        "nutrition": {
+          "energy": 406.64,
+          "alcohol": 0,
+          "ash": 4.64,
+          "caffeine": 0,
+          "water": 344.5,
+          "carbs": 10.49,
+          "fiber": 2.96,
+          "starch": 0.1,
+          "sugars": 7.81,
+          "fructose": 3.68,
+          "galactose": 0,
+          "glucose": 3.31,
+          "lactose": 0,
+          "maltose": 0,
+          "sucrose": 0.82,
+          "sugar_alcohol": 0,
+          "fat": 31.39,
+          "monounsaturated": 13.03,
+          "polyunsaturated": 5.54,
+          "omega_3": 0.38,
+          "omega_6": 5.16,
+          "saturated": 10.39,
+          "transfats": 0.11,
+          "cholesterol": 364.32,
+          "protein": 21.17,
+          "alanine": 1.2,
+          "arginine": 1.29,
+          "aspartic_acid": 2.22,
+          "cystine": 0.35,
+          "glutamic_acid": 3.12,
+          "glycine": 0.81,
+          "histidine": 0.62,
+          "isoleucine": 1.03,
+          "leucine": 1.7,
+          "lysine": 1.58,
+          "methionine": 0.57,
+          "phenylalanine": 1,
+          "proline": 0.82,
+          "serine": 1.27,
+          "threonine": 0.88,
+          "tryptophan": 0.26,
+          "tyrosine": 0.79,
+          "valine": 1.23,
+          "b1_thiamine": 0.31,
+          "b2_riboflavin": 0.65,
+          "b3_niacin": 3.64,
+          "b5_pantothenic_acid": 2.13,
+          "b6_pyridoxine": 0.68,
+          "b12_cobalamin": 1.06,
+          "choline": 308.81,
+          "folate": 99.73,
+          "vitamin_a": 1478.47,
+          "vitamin_c": 44.85,
+          "vitamin_d": 81.12,
+          "vitamin_e": 1.81,
+          "vitamin_k": 14.64,
+          "calcium": 91.72,
+          "copper": 0.24,
+          "iron": 2.89,
+          "magnesium": 61.71,
+          "manganese": 0.5,
+          "phosphorus": 347.2,
+          "potassium": 911.64,
+          "selenium": 38.69,
+          "sodium": 515.43,
+          "zinc": 2.56
+        }
+      },
+      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-fried-zucchini-egg-nests-bacon-tomato/20235",
+      "altVariants": [
+        {
+          "id": 20235,
+          "recipe_id": 2317,
+          "group_label": "Default",
+          "name": "Pan-Fried Zucchini Egg Nests with Bacon & Tomato",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/thumbnail_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/presentation_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "published_recipe_uuid": "fb517428-f7a4-4935-ba49-ab641dac9b22",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619746000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            302,
+            121,
+            277,
+            140,
+            72,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            8,
+            8,
+            1,
+            4,
+            1.875,
+            5,
+            3.125
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20234,
+          "recipe_id": 2317,
+          "group_label": "Default",
+          "name": "Pan-Fried Zucchini Egg Nests with Bacon & Tomato",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/thumbnail_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/presentation_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "published_recipe_uuid": "12cb7fe4-d564-4546-83ee-d54cf87c42ab",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619746000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            302,
+            121,
+            277,
+            140,
+            72,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            4,
+            4,
+            0.5,
+            2,
+            0.9375,
+            2.5,
+            1.5625
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20238,
+          "recipe_id": 2317,
+          "group_label": "Vegetarian",
+          "name": "Pan-Fried Zucchini Egg Nests with Veggie Sausage & Tomato",
+          "position": 4,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20238/thumbnail_026cac66-6f2d-4807-9c35-fd69a731a2a2.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20238/presentation_026cac66-6f2d-4807-9c35-fd69a731a2a2.jpeg",
+          "published_recipe_uuid": "c84fafe1-c727-4276-86f4-af18cf494ade",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619745000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            121,
+            277,
+            345,
+            140,
+            72,
+            47,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            8,
+            1,
+            4,
+            4,
+            1.875,
+            40,
+            5,
+            3.125
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20237,
+          "recipe_id": 2317,
+          "group_label": "Vegetarian",
+          "name": "Pan-Fried Zucchini Egg Nests with Veggie Sausage & Tomato",
+          "position": 3,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20237/thumbnail_76e79b2b-4782-4b3e-88f5-fc3600c5efa7.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20237/presentation_76e79b2b-4782-4b3e-88f5-fc3600c5efa7.jpeg",
+          "published_recipe_uuid": "764cb899-be7d-4ed3-a3c6-49cdd7b74622",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619746000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            121,
+            277,
+            345,
+            140,
+            72,
+            47,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            4,
+            0.5,
+            2,
+            2,
+            0.9375,
+            20,
+            2.5,
+            1.5625
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20239,
+          "recipe_id": 2317,
+          "group_label": "Vegetarian",
+          "name": "Pan-Fried Zucchini Egg Nests with Veggie Sausage & Tomato",
+          "position": 5,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20239/thumbnail_a7a98231-c13b-445b-9cc3-96720811afd3.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20239/presentation_a7a98231-c13b-445b-9cc3-96720811afd3.jpeg",
+          "published_recipe_uuid": "2aaa15de-860b-4556-96f3-064396243382",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619745000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            121,
+            277,
+            345,
+            140,
+            72,
+            47,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            12,
+            1.5,
+            6,
+            6,
+            3.4375,
+            60,
+            7.5,
+            4.6875
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20236,
+          "recipe_id": 2317,
+          "group_label": "Default",
+          "name": "Pan-Fried Zucchini Egg Nests with Bacon & Tomato",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/thumbnail_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/presentation_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "published_recipe_uuid": "6bc96633-8812-4a83-87da-97d68e3c1885",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619746000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            302,
+            121,
+            277,
+            140,
+            72,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            12,
+            12,
+            1.5,
+            6,
+            3.4375,
+            7.5,
+            4.6875
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20245,
+          "recipe_id": 2317,
+          "group_label": "Vegetarian",
+          "name": "Pan-Fried Zucchini Egg Nests with Veggie Sausage & Tomato",
+          "position": 5,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20245/thumbnail_6af20346-5aa9-45eb-bf7f-ac0d23dcbace.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20245/presentation_6af20346-5aa9-45eb-bf7f-ac0d23dcbace.jpeg",
+          "published_recipe_uuid": "75e531e1-6ca1-41aa-9728-b58a4da777a5",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619743000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            121,
+            277,
+            345,
+            140,
+            72,
+            47,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            12,
+            1.5,
+            6,
+            6,
+            3.4375,
+            60,
+            7.5,
+            4.6875
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20244,
+          "recipe_id": 2317,
+          "group_label": "Vegetarian",
+          "name": "Pan-Fried Zucchini Egg Nests with Veggie Sausage & Tomato",
+          "position": 4,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20244/thumbnail_0330a186-fb6a-4341-b0b1-06fa5f4e7828.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20244/presentation_0330a186-fb6a-4341-b0b1-06fa5f4e7828.jpeg",
+          "published_recipe_uuid": "0b79cdda-8e57-4371-b0d8-36a2fa1b4b5e",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619743000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            121,
+            277,
+            345,
+            140,
+            72,
+            47,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            8,
+            1,
+            4,
+            4,
+            1.875,
+            40,
+            5,
+            3.125
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20243,
+          "recipe_id": 2317,
+          "group_label": "Vegetarian",
+          "name": "Pan-Fried Zucchini Egg Nests with Veggie Sausage & Tomato",
+          "position": 3,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20243/thumbnail_f244b205-4a86-47b8-92ec-84b9340d941d.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/20243/presentation_f244b205-4a86-47b8-92ec-84b9340d941d.jpeg",
+          "published_recipe_uuid": "e2145744-f38e-4fc2-afdc-438a076c26ee",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619744000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            121,
+            277,
+            345,
+            140,
+            72,
+            47,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            4,
+            0.5,
+            2,
+            2,
+            0.9375,
+            20,
+            2.5,
+            1.5625
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20242,
+          "recipe_id": 2317,
+          "group_label": "Default",
+          "name": "Pan-Fried Zucchini Egg Nests with Bacon & Tomato",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/thumbnail_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/presentation_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "published_recipe_uuid": "09dcd2eb-625c-486b-9597-3722654a8c97",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619744000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            302,
+            121,
+            277,
+            140,
+            72,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            12,
+            12,
+            1.5,
+            6,
+            3.4375,
+            7.5,
+            4.6875
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20241,
+          "recipe_id": 2317,
+          "group_label": "Default",
+          "name": "Pan-Fried Zucchini Egg Nests with Bacon & Tomato",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/thumbnail_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/presentation_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "published_recipe_uuid": "627d060c-d321-43ea-92ef-0f1462cb95da",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619745000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            302,
+            121,
+            277,
+            140,
+            72,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            8,
+            8,
+            1,
+            4,
+            1.875,
+            5,
+            3.125
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        },
+        {
+          "id": 20240,
+          "recipe_id": 2317,
+          "group_label": "Default",
+          "name": "Pan-Fried Zucchini Egg Nests with Bacon & Tomato",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/thumbnail_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2317/presentation_4b51e140-c5e3-4a3d-8452-bb07482f71f6.jpeg",
+          "published_recipe_uuid": "f5c456ad-79da-4816-bbff-ed8d05d9edae",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1654619745000,
+          "allowed_type_ids": [
+            7,
+            8,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            11,
+            10
+          ],
+          "ingredient_ids": [
+            302,
+            121,
+            277,
+            140,
+            72,
+            81,
+            88
+          ],
+          "ingredient_amounts": [
+            4,
+            4,
+            0.5,
+            2,
+            0.9375,
+            2.5,
+            1.5625
+          ],
+          "average_rating": 0.917,
+          "rating_count": 3,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "breakfast",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": "Eggs and bacon Picasso style!"
+        }
+      ],
+      "schemaMetadata": {
+        "category": "Breakfast",
+        "description": "Eggs and bacon Picasso style!",
+        "keywords": [
+
+        ],
+        "cuisine": "",
+        "reviewCount": null,
+        "reviewScore": 4.6
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/recipes/[slug]/[variantId]",
+  "query": {
+    "slug": "pan-fried-zucchini-egg-nests-bacon-tomato",
+    "variantId": "20235"
+  },
+  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": [
+
+  ]
+}

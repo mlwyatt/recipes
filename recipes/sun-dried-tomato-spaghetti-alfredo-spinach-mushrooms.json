@@ -1,0 +1,989 @@
+{
+  "props": {
+    "pageProps": {
+      "publishedRecipe": {
+        "id": 22751,
+        "recipe_id": 2569,
+        "serving_count": 4,
+        "cooking_minutes": 25,
+        "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+        "slug": "sun-dried-tomato-spaghetti-alfredo-spinach-mushrooms",
+        "units": "US",
+        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+        "cookwares": [
+          {
+            "id": 11,
+            "name": "colander",
+            "slug": "colander"
+          },
+          {
+            "id": 78,
+            "name": "large pot",
+            "slug": "large-pot"
+          },
+          {
+            "id": 22,
+            "name": "measuring cups",
+            "slug": "measuring-cups"
+          },
+          {
+            "id": 5,
+            "name": "measuring spoons",
+            "slug": "measuring-spoons"
+          },
+          {
+            "id": 91,
+            "name": "nonstick skillet",
+            "slug": "nonstick-skillet"
+          },
+          {
+            "id": 13,
+            "name": "stirring spoon",
+            "slug": "stirring-spoon"
+          },
+          {
+            "id": 35,
+            "name": "tongs",
+            "slug": "tongs"
+          }
+        ],
+        "instructions": [
+          {
+            "id": 377014,
+            "primary_message": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes.",
+            "secondary_message": "1 tsp salt\n10 oz spaghetti pasta"
+          },
+          {
+            "id": 377015,
+            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+            "secondary_message": null
+          },
+          {
+            "id": 377016,
+            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add mushrooms, salt, and pepper; cook, stirring occasionally, until softened, 4-5 minutes.",
+            "secondary_message": "4 tsp extra virgin olive oil\n2 (8 oz) pkg sliced white mushrooms\n½ tsp salt\n½ tsp black pepper"
+          },
+          {
+            "id": 377017,
+            "primary_message": "Add spinach, Alfredo sauce, pesto, and water to the skillet; cook, stirring often, until heated through, about 5 minutes. Reduce heat to low and allow to simmer gently until the pasta is finished cooking.",
+            "secondary_message": "1 (16oz) bag frozen chopped spinach\n1 (16 oz) jar Alfredo sauce\n⅔ cup sun-dried tomato pesto\n¼ cup water"
+          },
+          {
+            "id": 377018,
+            "primary_message": "When the pasta is done, drain in a colander and add to the skillet with the sauce. Toss to combine and remove from heat.",
+            "secondary_message": null
+          },
+          {
+            "id": 377019,
+            "primary_message": "To serve, divide pasta between plates or bowls. Enjoy!",
+            "secondary_message": null
+          }
+        ],
+        "ingredients": [
+          {
+            "id": 402258,
+            "quantity": "1 (16 oz) jar",
+            "ingredient_name": "Alfredo sauce"
+          },
+          {
+            "id": 402260,
+            "quantity": "1 (16oz) bag",
+            "ingredient_name": "frozen chopped spinach"
+          },
+          {
+            "id": 402261,
+            "quantity": "2 (8 oz) pkg",
+            "ingredient_name": "sliced white mushrooms"
+          },
+          {
+            "id": 402255,
+            "quantity": "10 oz",
+            "ingredient_name": "spaghetti pasta"
+          },
+          {
+            "id": 402259,
+            "quantity": "160 ml",
+            "ingredient_name": "sun-dried tomato pesto"
+          },
+          {
+            "id": 402256,
+            "quantity": "",
+            "ingredient_name": "black pepper"
+          },
+          {
+            "id": 402254,
+            "quantity": "",
+            "ingredient_name": "extra virgin olive oil"
+          },
+          {
+            "id": 402257,
+            "quantity": "",
+            "ingredient_name": "salt"
+          }
+        ],
+        "nutrition": {
+          "energy": 671.23,
+          "alcohol": 0,
+          "ash": 5.49,
+          "caffeine": 0,
+          "water": 302.9,
+          "carbs": 66.63,
+          "fiber": 7.68,
+          "starch": 44.38,
+          "sugars": 7.06,
+          "fructose": 0.37,
+          "galactose": 0,
+          "glucose": 1.99,
+          "lactose": 0,
+          "maltose": 1.39,
+          "sucrose": 0.58,
+          "sugar_alcohol": 0,
+          "fat": 37.64,
+          "monounsaturated": 7.77,
+          "polyunsaturated": 2.21,
+          "omega_3": 0.54,
+          "omega_6": 1.63,
+          "saturated": 14.56,
+          "transfats": 0.01,
+          "cholesterol": 52.21,
+          "protein": 22.72,
+          "alanine": 0.79,
+          "arginine": 0.98,
+          "aspartic_acid": 1.16,
+          "cystine": 0.23,
+          "glutamic_acid": 4.24,
+          "glycine": 0.67,
+          "histidine": 0.33,
+          "isoleucine": 0.59,
+          "leucine": 1.07,
+          "lysine": 0.62,
+          "methionine": 0.2,
+          "phenylalanine": 0.81,
+          "proline": 1.43,
+          "serine": 0.74,
+          "threonine": 0.7,
+          "tryptophan": 0.29,
+          "tyrosine": 0.47,
+          "valine": 0.89,
+          "b1_thiamine": 0.82,
+          "b2_riboflavin": 1.03,
+          "b3_niacin": 9.71,
+          "b5_pantothenic_acid": 2.09,
+          "b6_pyridoxine": 0.39,
+          "b12_cobalamin": 0.18,
+          "choline": 65.8,
+          "folate": 326.92,
+          "vitamin_a": 13690.83,
+          "vitamin_c": 11.57,
+          "vitamin_d": 0.79,
+          "vitamin_e": 5.2,
+          "vitamin_k": 618.47,
+          "calcium": 269.88,
+          "copper": 0.77,
+          "iron": 6.22,
+          "magnesium": 147.04,
+          "manganese": 1.56,
+          "phosphorus": 345.52,
+          "potassium": 906.25,
+          "selenium": 64.67,
+          "sodium": 956.38,
+          "zinc": 2.49
+        }
+      },
+      "canonicalVariantUrl": "https://www.mealime.com/recipes/sun-dried-tomato-spaghetti-alfredo-spinach-mushrooms/22751",
+      "altVariants": [
+        {
+          "id": 22755,
+          "recipe_id": 2569,
+          "group_label": "Default auto-gluten-free",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 102,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "2aa22998-79c1-4b62-a89e-38b784a9a42a",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353951000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            2,
+            1,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            60,
+            450,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1.5,
+            1.5,
+            15,
+            3,
+            240,
+            3.75,
+            30,
+            11.25
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22754,
+          "recipe_id": 2569,
+          "group_label": "Default auto-gluten-free",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 101,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "061d6062-df37-43f2-8250-e6d04863626d",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353952000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            2,
+            1,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            60,
+            450,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1,
+            1,
+            10,
+            2,
+            160,
+            2.5,
+            20,
+            7.5
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22753,
+          "recipe_id": 2569,
+          "group_label": "Default auto-gluten-free",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 100,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "478d3c5a-adb4-40f9-a7a0-21814e5ba2cb",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353952000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            2,
+            1,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            60,
+            450,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            0.5,
+            0.5,
+            5,
+            1,
+            80,
+            1.25,
+            10,
+            3.75
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22752,
+          "recipe_id": 2569,
+          "group_label": "Default",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "a5a69bd4-35c3-4cf9-8e54-f894fd979638",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353953000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            1,
+            2,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            450,
+            59,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1.5,
+            1.5,
+            3,
+            15,
+            240,
+            3.75,
+            30,
+            11.25
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22751,
+          "recipe_id": 2569,
+          "group_label": "Default",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "e52847d0-2344-4ac1-83dc-bc3b8603d37f",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353953000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            1,
+            2,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            450,
+            59,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1,
+            1,
+            2,
+            10,
+            160,
+            2.5,
+            20,
+            7.5
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22750,
+          "recipe_id": 2569,
+          "group_label": "Default",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "85e9188a-44b5-459e-b5a9-3354ec819d3c",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353953000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            1,
+            2,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            450,
+            59,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            0.5,
+            0.5,
+            1,
+            5,
+            80,
+            1.25,
+            10,
+            3.75
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22761,
+          "recipe_id": 2569,
+          "group_label": "Default auto-gluten-free",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 102,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "40bbf24a-993a-4b99-966a-626995d2a029",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353949000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            2,
+            1,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            60,
+            450,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1.5,
+            1.5,
+            425,
+            3,
+            240,
+            3.75,
+            30,
+            11.25
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22760,
+          "recipe_id": 2569,
+          "group_label": "Default auto-gluten-free",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 101,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "576a62a7-287c-4d72-bf64-e2194d7c3161",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353949000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            2,
+            1,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            60,
+            450,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1,
+            1,
+            283,
+            2,
+            160,
+            2.5,
+            20,
+            7.5
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22759,
+          "recipe_id": 2569,
+          "group_label": "Default auto-gluten-free",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 100,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "97335626-61ae-4d71-86cf-c3f5cec888ad",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353950000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            2,
+            1,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            60,
+            450,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            0.5,
+            0.5,
+            142,
+            1,
+            80,
+            1.25,
+            10,
+            3.75
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22758,
+          "recipe_id": 2569,
+          "group_label": "Default",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "ebde97eb-7883-4462-ae82-28df44303527",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353950000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            1,
+            2,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            450,
+            59,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1.5,
+            1.5,
+            3,
+            425,
+            240,
+            3.75,
+            30,
+            11.25
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22757,
+          "recipe_id": 2569,
+          "group_label": "Default",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "0bbd3c92-9925-41f3-aa96-8260fc4b3dff",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353951000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            1,
+            2,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            450,
+            59,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            1,
+            1,
+            2,
+            283,
+            160,
+            2.5,
+            20,
+            7.5
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        },
+        {
+          "id": 22756,
+          "recipe_id": 2569,
+          "group_label": "Default",
+          "name": "Sun-Dried Tomato Spaghetti Alfredo with Spinach & Mushrooms",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/thumbnail_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2569/presentation_d6665cf3-39f9-43e7-afb3-6eec6b34a1ec.jpeg",
+          "published_recipe_uuid": "e137f2ca-da92-415b-a74a-b9d2cfeb228f",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670353951000,
+          "allowed_type_ids": [
+            4,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            1,
+            2,
+            10,
+            5,
+            6
+          ],
+          "ingredient_ids": [
+            410,
+            449,
+            450,
+            59,
+            421,
+            72,
+            47,
+            88
+          ],
+          "ingredient_amounts": [
+            0.5,
+            0.5,
+            1,
+            142,
+            80,
+            1.25,
+            10,
+            3.75
+          ],
+          "average_rating": 0.802,
+          "rating_count": 43,
+          "variety_tag_ids": [
+            1
+          ],
+          "cuisine_tag_ids": [
+            20
+          ],
+          "ruleset": "simple",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!"
+        }
+      ],
+      "schemaMetadata": {
+        "category": "Simple",
+        "description": "This delicious spinach & mushroom spaghetti with sun-dried tomatoes is cozy, veggie-filled and so simple to make!",
+        "keywords": [
+          "Pasta & Pizza"
+        ],
+        "cuisine": "Italian-American",
+        "reviewCount": null,
+        "reviewScore": null
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/recipes/[slug]/[variantId]",
+  "query": {
+    "slug": "sun-dried-tomato-spaghetti-alfredo-spinach-mushrooms",
+    "variantId": "22751"
+  },
+  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": [
+
+  ]
+}

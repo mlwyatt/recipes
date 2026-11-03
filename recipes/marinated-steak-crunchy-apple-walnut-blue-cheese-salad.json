@@ -1,0 +1,807 @@
+{
+  "props": {
+    "pageProps": {
+      "publishedRecipe": {
+        "id": 4731,
+        "recipe_id": 706,
+        "serving_count": 4,
+        "cooking_minutes": 45,
+        "name": "Marinated Steak with Crunchy Apple, Walnut & Blue Cheese Salad",
+        "slug": "marinated-steak-crunchy-apple-walnut-blue-cheese-salad",
+        "units": "US",
+        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/thumbnail_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/presentation_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+        "cookwares": [
+          {
+            "id": 2,
+            "name": "chef's knife",
+            "slug": "chef-s-knife"
+          },
+          {
+            "id": 37,
+            "name": "citrus juicer (optional)",
+            "slug": "citrus-juicer"
+          },
+          {
+            "id": 11,
+            "name": "colander",
+            "slug": "colander"
+          },
+          {
+            "id": 1,
+            "name": "cutting board",
+            "slug": "cutting-board"
+          },
+          {
+            "id": 3,
+            "name": "garlic press (optional)",
+            "slug": "garlic-press"
+          },
+          {
+            "id": 22,
+            "name": "measuring cups",
+            "slug": "measuring-cups"
+          },
+          {
+            "id": 5,
+            "name": "measuring spoons",
+            "slug": "measuring-spoons"
+          },
+          {
+            "id": 23,
+            "name": "mixing bowls",
+            "slug": "mixing-bowls"
+          },
+          {
+            "id": 59,
+            "name": "stainless steel or cast iron skillet",
+            "slug": "stainless-steel-or-cast-iron-skillet"
+          },
+          {
+            "id": 35,
+            "name": "tongs",
+            "slug": "tongs"
+          },
+          {
+            "id": 42,
+            "name": "whisk or fork",
+            "slug": "whisk-or-fork"
+          }
+        ],
+        "instructions": [
+          {
+            "id": 251836,
+            "primary_message": "Wash and dry the fresh produce.",
+            "secondary_message": "2 lemons\n1 head romaine lettuce\n2 Granny Smith apples"
+          },
+          {
+            "id": 251837,
+            "primary_message": "Peel and mince garlic; transfer to a medium bowl.",
+            "secondary_message": "2 cloves garlic"
+          },
+          {
+            "id": 251838,
+            "primary_message": "Juice lemons into the bowl with the garlic; add soy sauce, vinegar, Worcestershire, Dijon, and pepper. Whisk to combine the marinade.",
+            "secondary_message": "2 tbsp soy sauce\n2 tbsp white wine vinegar\n2 tsp Worcestershire sauce\n1 tsp Dijon mustard\n1 tsp black pepper"
+          },
+          {
+            "id": 251839,
+            "primary_message": "Place the steak in the marinade, turn to coat, and set aside.",
+            "secondary_message": "1 ½ lb striploin (New York strip) steak"
+          },
+          {
+            "id": 251840,
+            "primary_message": "Peel and mince additional garlic; transfer to another medium bowl along with yogurt, blue cheese, water, vinegar, salt, and pepper. Whisk to combine the dressing.",
+            "secondary_message": "2 cloves garlic\n¼ cup plain Greek yogurt\n1 (4 oz) pkg crumbled blue cheese\n4 tsp water\n2 tsp white wine vinegar\n⅛ tsp salt\n⅛ tsp black pepper"
+          },
+          {
+            "id": 251841,
+            "primary_message": "Chop or tear romaine into bite-sized pieces and add to the bowl with the dressing.",
+            "secondary_message": null
+          },
+          {
+            "id": 251842,
+            "primary_message": "Roughly chop walnuts and add to the bowl.",
+            "secondary_message": "½ cup walnuts"
+          },
+          {
+            "id": 251843,
+            "primary_message": "Preheat a large skillet over medium-high heat.",
+            "secondary_message": null
+          },
+          {
+            "id": 251844,
+            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom; add steak to the skillet and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and let rest for 5 minutes.",
+            "secondary_message": "4 tsp virgin coconut oil"
+          },
+          {
+            "id": 251845,
+            "primary_message": "Meanwhile, quarter, core, and cut apples into matchsticks, add to the bowl with the romaine, and toss to combine the salad.",
+            "secondary_message": null
+          },
+          {
+            "id": 251846,
+            "primary_message": "Thinly slice steak against the grain.",
+            "secondary_message": null
+          },
+          {
+            "id": 251847,
+            "primary_message": "To serve, divide salad and steak between plates. Enjoy!",
+            "secondary_message": null
+          }
+        ],
+        "ingredients": [
+          {
+            "id": 264951,
+            "quantity": "1 (4 oz) pkg",
+            "ingredient_name": "crumbled blue cheese"
+          },
+          {
+            "id": 264952,
+            "quantity": "4 cloves",
+            "ingredient_name": "garlic"
+          },
+          {
+            "id": 264957,
+            "quantity": "2",
+            "ingredient_name": "Granny Smith apples"
+          },
+          {
+            "id": 264963,
+            "quantity": "2",
+            "ingredient_name": "lemons"
+          },
+          {
+            "id": 264959,
+            "quantity": "¼ cup",
+            "ingredient_name": "plain Greek yogurt"
+          },
+          {
+            "id": 264953,
+            "quantity": "1 head",
+            "ingredient_name": "romaine lettuce"
+          },
+          {
+            "id": 264965,
+            "quantity": "1 ½ lb",
+            "ingredient_name": "striploin (New York strip) steak"
+          },
+          {
+            "id": 264964,
+            "quantity": "½ cup",
+            "ingredient_name": "walnuts"
+          },
+          {
+            "id": 264955,
+            "quantity": "",
+            "ingredient_name": "black pepper"
+          },
+          {
+            "id": 264958,
+            "quantity": "",
+            "ingredient_name": "Dijon mustard"
+          },
+          {
+            "id": 264956,
+            "quantity": "",
+            "ingredient_name": "salt"
+          },
+          {
+            "id": 264954,
+            "quantity": "",
+            "ingredient_name": "soy sauce"
+          },
+          {
+            "id": 264960,
+            "quantity": "",
+            "ingredient_name": "virgin coconut oil"
+          },
+          {
+            "id": 264961,
+            "quantity": "",
+            "ingredient_name": "white wine vinegar"
+          },
+          {
+            "id": 264962,
+            "quantity": "",
+            "ingredient_name": "Worcestershire sauce"
+          }
+        ],
+        "nutrition": {
+          "energy": 674.62,
+          "alcohol": 0,
+          "ash": 6.33,
+          "caffeine": 0,
+          "water": 404.68,
+          "carbs": 24.83,
+          "fiber": 6.72,
+          "starch": 2.03,
+          "sugars": 13.26,
+          "fructose": 6.96,
+          "galactose": 0.11,
+          "glucose": 3.16,
+          "lactose": 0.53,
+          "maltose": 0,
+          "sucrose": 2.5,
+          "sugar_alcohol": 0,
+          "fat": 44.51,
+          "monounsaturated": 14.66,
+          "polyunsaturated": 7.71,
+          "omega_3": 1.47,
+          "omega_6": 6.24,
+          "saturated": 19.83,
+          "transfats": 1.55,
+          "cholesterol": 125.71,
+          "protein": 48.76,
+          "alanine": 2.69,
+          "arginine": 3.11,
+          "aspartic_acid": 4.63,
+          "cystine": 0.47,
+          "glutamic_acid": 8.45,
+          "glycine": 2.14,
+          "histidine": 1.68,
+          "isoleucine": 2.26,
+          "leucine": 4.11,
+          "lysine": 4.27,
+          "methionine": 1.23,
+          "phenylalanine": 2.04,
+          "proline": 2.53,
+          "serine": 2.11,
+          "threonine": 2.16,
+          "tryptophan": 0.57,
+          "tyrosine": 1.86,
+          "valine": 2.55,
+          "b1_thiamine": 0.28,
+          "b2_riboflavin": 0.64,
+          "b3_niacin": 12.01,
+          "b5_pantothenic_acid": 1.56,
+          "b6_pyridoxine": 1.27,
+          "b12_cobalamin": 3.23,
+          "choline": 125.38,
+          "folate": 250.98,
+          "vitamin_a": 323.47,
+          "vitamin_c": 21.34,
+          "vitamin_d": 12.74,
+          "vitamin_e": 0.99,
+          "vitamin_k": 167.23,
+          "calcium": 279.93,
+          "copper": 0.41,
+          "iron": 5.79,
+          "magnesium": 82.85,
+          "manganese": 0.98,
+          "phosphorus": 575.02,
+          "potassium": 1169.7,
+          "selenium": 40.03,
+          "sodium": 125.04,
+          "zinc": 7.47
+        }
+      },
+      "canonicalVariantUrl": "https://www.mealime.com/recipes/marinated-steak-crunchy-apple-walnut-blue-cheese-salad/4731",
+      "altVariants": [
+        {
+          "id": 4730,
+          "recipe_id": 706,
+          "group_label": "Default",
+          "name": "Marinated Steak with Crunchy Apple, Walnut & Blue Cheese Salad",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/thumbnail_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/presentation_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "published_recipe_uuid": "0da5ba4e-d9a8-405f-ba9a-52464abc7c28",
+          "fallback_published_recipe_uuids": [
+            "f8077265-78d9-42ab-b2c2-8038724619df",
+            "670c89bd-d25d-4c91-bfe0-6c2d5ec326a2",
+            "5d5582d2-fb32-40cc-a47f-54c338192b33"
+          ],
+          "first_published_at": 1550349755000,
+          "allowed_type_ids": [
+            7,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            9,
+            1,
+            14,
+            13,
+            10,
+            3,
+            6
+          ],
+          "ingredient_ids": [
+            9,
+            24,
+            113,
+            192,
+            122,
+            25,
+            279,
+            272,
+            72,
+            117,
+            88,
+            53,
+            129,
+            132,
+            136
+          ],
+          "ingredient_amounts": [
+            0.5,
+            2,
+            1,
+            1,
+            0.125,
+            0.5,
+            0.75,
+            0.25,
+            2.8125,
+            2.5,
+            0.3125,
+            15,
+            10,
+            20,
+            5
+          ],
+          "average_rating": 0.786,
+          "rating_count": 7,
+          "variety_tag_ids": [
+            33,
+            14
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "dinner",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 15276,
+          "recipe_id": 706,
+          "group_label": "Default",
+          "name": "Marinated Steak with Crunchy Apple, Walnut & Blue Cheese Salad",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/thumbnail_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/presentation_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "published_recipe_uuid": "e822ed93-0dd8-477a-be04-cbaa131f2c80",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1622125691000,
+          "allowed_type_ids": [
+            7,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            9,
+            1,
+            14,
+            13,
+            10,
+            3,
+            6
+          ],
+          "ingredient_ids": [
+            9,
+            24,
+            113,
+            192,
+            122,
+            25,
+            279,
+            272,
+            72,
+            117,
+            88,
+            53,
+            129,
+            132,
+            136
+          ],
+          "ingredient_amounts": [
+            1.5,
+            6,
+            3,
+            3,
+            0.3333333333333333,
+            1.5,
+            2.25,
+            0.75,
+            8.4375,
+            7.5,
+            0.9375,
+            45,
+            30,
+            60,
+            15
+          ],
+          "average_rating": 0.786,
+          "rating_count": 7,
+          "variety_tag_ids": [
+            33,
+            14
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "dinner",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 4731,
+          "recipe_id": 706,
+          "group_label": "Default",
+          "name": "Marinated Steak with Crunchy Apple, Walnut & Blue Cheese Salad",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/thumbnail_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/presentation_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "published_recipe_uuid": "0a42af80-d16c-44c6-9ff8-8079e0b4750e",
+          "fallback_published_recipe_uuids": [
+            "43acfe2d-a4b4-41f9-b1a7-83faf11b3291",
+            "34be19bf-6b96-41fe-ba7b-23e7e2ab839e",
+            "8cfe0ef7-f470-47d2-9e66-d0ab54016ab0"
+          ],
+          "first_published_at": 1550349759000,
+          "allowed_type_ids": [
+            7,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            9,
+            1,
+            14,
+            13,
+            10,
+            3,
+            6
+          ],
+          "ingredient_ids": [
+            9,
+            24,
+            113,
+            192,
+            122,
+            25,
+            279,
+            272,
+            72,
+            117,
+            88,
+            53,
+            129,
+            132,
+            136
+          ],
+          "ingredient_amounts": [
+            1,
+            4,
+            2,
+            2,
+            0.25,
+            1,
+            1.5,
+            0.5,
+            5.625,
+            5,
+            0.625,
+            30,
+            20,
+            40,
+            10
+          ],
+          "average_rating": 0.786,
+          "rating_count": 7,
+          "variety_tag_ids": [
+            33,
+            14
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "dinner",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 15277,
+          "recipe_id": 706,
+          "group_label": "Default",
+          "name": "Marinated Steak with Crunchy Apple, Walnut & Blue Cheese Salad",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/thumbnail_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/presentation_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "published_recipe_uuid": "8f599ba0-8f8e-4105-ad2c-176ae80f8514",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1622125693000,
+          "allowed_type_ids": [
+            7,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            9,
+            1,
+            14,
+            13,
+            10,
+            3,
+            6
+          ],
+          "ingredient_ids": [
+            9,
+            24,
+            113,
+            192,
+            122,
+            25,
+            279,
+            272,
+            72,
+            117,
+            88,
+            53,
+            129,
+            132,
+            136
+          ],
+          "ingredient_amounts": [
+            1.5,
+            6,
+            3,
+            3,
+            0.3333333333333333,
+            1.5,
+            1.02,
+            0.75,
+            8.4375,
+            7.5,
+            0.9375,
+            45,
+            30,
+            60,
+            15
+          ],
+          "average_rating": 0.786,
+          "rating_count": 7,
+          "variety_tag_ids": [
+            33,
+            14
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "dinner",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 4733,
+          "recipe_id": 706,
+          "group_label": "Default",
+          "name": "Marinated Steak with Crunchy Apple, Walnut & Blue Cheese Salad",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/thumbnail_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/presentation_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "published_recipe_uuid": "d59472e3-3d29-414a-80d4-5a334ae01374",
+          "fallback_published_recipe_uuids": [
+            "5dda6512-7a88-4b7d-a501-4deb756b64c8",
+            "afce00ea-52c2-471a-9936-3dacbb7ddfaa",
+            "58e263bc-0536-4a03-8495-45baecf0013b"
+          ],
+          "first_published_at": 1550349761000,
+          "allowed_type_ids": [
+            7,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            9,
+            1,
+            14,
+            13,
+            10,
+            3,
+            6
+          ],
+          "ingredient_ids": [
+            9,
+            24,
+            113,
+            192,
+            122,
+            25,
+            279,
+            272,
+            72,
+            117,
+            88,
+            53,
+            129,
+            132,
+            136
+          ],
+          "ingredient_amounts": [
+            1,
+            4,
+            2,
+            2,
+            0.25,
+            1,
+            0.68,
+            0.5,
+            5.625,
+            5,
+            0.625,
+            30,
+            20,
+            40,
+            10
+          ],
+          "average_rating": 0.786,
+          "rating_count": 7,
+          "variety_tag_ids": [
+            33,
+            14
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "dinner",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        },
+        {
+          "id": 4732,
+          "recipe_id": 706,
+          "group_label": "Default",
+          "name": "Marinated Steak with Crunchy Apple, Walnut & Blue Cheese Salad",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/thumbnail_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/706/presentation_b9116487-9362-4a8b-8d3e-d2c743792586.jpeg",
+          "published_recipe_uuid": "55b737fb-1b6c-471b-871f-631f9b7bc2ba",
+          "fallback_published_recipe_uuids": [
+            "9ca683f5-bec5-462b-a595-7fdf35504105",
+            "91c1257a-5b35-4e32-934e-11915b1314c4",
+            "166ab81f-4fa0-4f71-9d78-e1e889caf345"
+          ],
+          "first_published_at": 1550349760000,
+          "allowed_type_ids": [
+            7,
+            5,
+            1,
+            3
+          ],
+          "violated_restriction_ids": [
+            2,
+            9,
+            1,
+            14,
+            13,
+            10,
+            3,
+            6
+          ],
+          "ingredient_ids": [
+            9,
+            24,
+            113,
+            192,
+            122,
+            25,
+            279,
+            272,
+            72,
+            117,
+            88,
+            53,
+            129,
+            132,
+            136
+          ],
+          "ingredient_amounts": [
+            0.5,
+            2,
+            1,
+            1,
+            0.125,
+            0.5,
+            0.34,
+            0.25,
+            2.8125,
+            2.5,
+            0.3125,
+            15,
+            10,
+            20,
+            5
+          ],
+          "average_rating": 0.786,
+          "rating_count": 7,
+          "variety_tag_ids": [
+            33,
+            14
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "dinner",
+          "is_promoted": true,
+          "recipe_category_id": 4,
+          "cooking_tip": null,
+          "blurb": null
+        }
+      ],
+      "schemaMetadata": {
+        "category": "Dinner",
+        "description": null,
+        "keywords": [
+          "Pan-Fried",
+          "Steaks"
+        ],
+        "cuisine": "",
+        "reviewCount": null,
+        "reviewScore": null
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/recipes/[slug]/[variantId]",
+  "query": {
+    "slug": "marinated-steak-crunchy-apple-walnut-blue-cheese-salad",
+    "variantId": "4731"
+  },
+  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": [
+
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "props": {
+    "pageProps": {
+      "publishedRecipe": {
+        "id": 22643,
+        "recipe_id": 2562,
+        "serving_count": 4,
+        "cooking_minutes": 30,
+        "name": "Curried Deviled Eggs with Fresh Dill",
+        "slug": "curried-deviled-eggs-fresh-dill",
+        "units": "US",
+        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+        "cookwares": [
+          {
+            "id": 2,
+            "name": "chef's knife",
+            "slug": "chef-s-knife"
+          },
+          {
+            "id": 11,
+            "name": "colander",
+            "slug": "colander"
+          },
+          {
+            "id": 1,
+            "name": "cutting board",
+            "slug": "cutting-board"
+          },
+          {
+            "id": 22,
+            "name": "measuring cups",
+            "slug": "measuring-cups"
+          },
+          {
+            "id": 5,
+            "name": "measuring spoons",
+            "slug": "measuring-spoons"
+          },
+          {
+            "id": 48,
+            "name": "medium saucepan",
+            "slug": "medium-saucepan"
+          },
+          {
+            "id": 23,
+            "name": "mixing bowls",
+            "slug": "mixing-bowls"
+          },
+          {
+            "id": 13,
+            "name": "stirring spoon",
+            "slug": "stirring-spoon"
+          }
+        ],
+        "instructions": [
+          {
+            "id": 376036,
+            "primary_message": "Place eggs in a medium saucepan, cover with water, and bring to a boil. Reduce heat to a simmer and cook for 8 minutes. Drain hot water and add ice or run under cold water to cool.",
+            "secondary_message": "6 eggs"
+          },
+          {
+            "id": 376037,
+            "primary_message": "Meanwhile, wash, dry and shave dill leaves off the stems; discard stems and mince the leaves. Place in a small bowl and set aside.",
+            "secondary_message": "¼ small bunch fresh dill"
+          },
+          {
+            "id": 376038,
+            "primary_message": "When the eggs are cool enough to handle, peel and halve lengthwise.",
+            "secondary_message": null
+          },
+          {
+            "id": 376039,
+            "primary_message": "Scoop the yolks out into another small bowl (reserve egg whites for the next step). Add mayo, Dijon, and spices. Using a fork, mash to combine, creating a smooth paste.",
+            "secondary_message": "¼ cup mayonnaise\n1 tsp Dijon mustard\n½ tsp curry powder\n⅛ tsp salt\n⅛ tsp black pepper"
+          },
+          {
+            "id": 376040,
+            "primary_message": "Spoon the yolk mixture back into the eggs, then sprinkle with dill.",
+            "secondary_message": null
+          },
+          {
+            "id": 376041,
+            "primary_message": "To serve, divide eggs between plates and enjoy!",
+            "secondary_message": null
+          }
+        ],
+        "ingredients": [
+          {
+            "id": 401237,
+            "quantity": "6",
+            "ingredient_name": "eggs"
+          },
+          {
+            "id": 401239,
+            "quantity": "¼ small bunch",
+            "ingredient_name": "fresh dill"
+          },
+          {
+            "id": 401233,
+            "quantity": "",
+            "ingredient_name": "black pepper"
+          },
+          {
+            "id": 401234,
+            "quantity": "",
+            "ingredient_name": "curry powder"
+          },
+          {
+            "id": 401236,
+            "quantity": "",
+            "ingredient_name": "Dijon mustard"
+          },
+          {
+            "id": 401238,
+            "quantity": "",
+            "ingredient_name": "mayonnaise"
+          },
+          {
+            "id": 401235,
+            "quantity": "",
+            "ingredient_name": "salt"
+          }
+        ],
+        "nutrition": {
+          "energy": 199.57,
+          "alcohol": 0,
+          "ash": 1.15,
+          "caffeine": 0,
+          "water": 54.62,
+          "carbs": 1.24,
+          "fiber": 0.2,
+          "starch": 0.12,
+          "sugars": 0.6,
+          "fructose": 0.04,
+          "galactose": 0,
+          "glucose": 0.3,
+          "lactose": 0,
+          "maltose": 0,
+          "sucrose": 0.25,
+          "sugar_alcohol": 0,
+          "fat": 17.73,
+          "monounsaturated": 5.13,
+          "polyunsaturated": 7.72,
+          "omega_3": 0.83,
+          "omega_6": 6.88,
+          "saturated": 3.89,
+          "transfats": 0.08,
+          "cholesterol": 254.66,
+          "protein": 8.61,
+          "alanine": 0.5,
+          "arginine": 0.56,
+          "aspartic_acid": 0.9,
+          "cystine": 0.18,
+          "glutamic_acid": 1.14,
+          "glycine": 0.3,
+          "histidine": 0.21,
+          "isoleucine": 0.46,
+          "leucine": 0.74,
+          "lysine": 0.62,
+          "methionine": 0.26,
+          "phenylalanine": 0.46,
+          "proline": 0.35,
+          "serine": 0.66,
+          "threonine": 0.38,
+          "tryptophan": 0.11,
+          "tyrosine": 0.34,
+          "valine": 0.58,
+          "b1_thiamine": 0.03,
+          "b2_riboflavin": 0.31,
+          "b3_niacin": 0.11,
+          "b5_pantothenic_acid": 1.05,
+          "b6_pyridoxine": 0.12,
+          "b12_cobalamin": 0.6,
+          "choline": 201.59,
+          "folate": 35.88,
+          "vitamin_a": 518.62,
+          "vitamin_c": 2,
+          "vitamin_d": 55.96,
+          "vitamin_e": 1.73,
+          "vitamin_k": 25.9,
+          "calcium": 44.56,
+          "copper": 0.06,
+          "iron": 1.43,
+          "magnesium": 10.64,
+          "manganese": 0.09,
+          "phosphorus": 138.38,
+          "potassium": 109.77,
+          "selenium": 26.39,
+          "sodium": 125.68,
+          "zinc": 0.92
+        }
+      },
+      "canonicalVariantUrl": "https://www.mealime.com/recipes/curried-deviled-eggs-fresh-dill/22643",
+      "altVariants": [
+        {
+          "id": 22645,
+          "recipe_id": 2562,
+          "group_label": "Keto",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 3,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "59a5f62b-68b3-4ece-ae66-84ac0d318a16",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348783000,
+          "allowed_type_ids": [
+            4,
+            7,
+            8,
+            5,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            268,
+            72,
+            73,
+            117,
+            88
+          ],
+          "ingredient_amounts": [
+            3,
+            0.25,
+            30,
+            0.3125,
+            1.25,
+            2.5,
+            0.3125
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22647,
+          "recipe_id": 2562,
+          "group_label": "Keto",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 5,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "b4a228a0-8963-4086-b55d-7a2018d6f479",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348782000,
+          "allowed_type_ids": [
+            4,
+            7,
+            8,
+            5,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            268,
+            72,
+            73,
+            117,
+            88
+          ],
+          "ingredient_amounts": [
+            9,
+            0.5,
+            90,
+            0.9375,
+            3.75,
+            7.5,
+            0.9375
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22646,
+          "recipe_id": 2562,
+          "group_label": "Keto",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 4,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "45913af3-3076-49ed-b91e-e3b955b0833d",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348782000,
+          "allowed_type_ids": [
+            4,
+            7,
+            8,
+            5,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            268,
+            72,
+            73,
+            117,
+            88
+          ],
+          "ingredient_amounts": [
+            6,
+            0.25,
+            60,
+            0.625,
+            2.5,
+            5,
+            0.625
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22643,
+          "recipe_id": 2562,
+          "group_label": "Default",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "f7233552-fb7b-44f7-84d3-67a128f0d88f",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348783000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            72,
+            73,
+            117,
+            267,
+            88
+          ],
+          "ingredient_amounts": [
+            6,
+            0.25,
+            0.625,
+            2.5,
+            5,
+            60,
+            0.625
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22642,
+          "recipe_id": 2562,
+          "group_label": "Default",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "e4834728-b621-4423-9611-5baae5ee870a",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348783000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            72,
+            73,
+            117,
+            267,
+            88
+          ],
+          "ingredient_amounts": [
+            3,
+            0.25,
+            0.3125,
+            1.25,
+            2.5,
+            30,
+            0.3125
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22644,
+          "recipe_id": 2562,
+          "group_label": "Default",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 2,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "6d1abf67-8860-4e5a-bdc9-8fc7ff371554",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348783000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            72,
+            73,
+            117,
+            267,
+            88
+          ],
+          "ingredient_amounts": [
+            9,
+            0.5,
+            0.9375,
+            3.75,
+            7.5,
+            90,
+            0.9375
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22653,
+          "recipe_id": 2562,
+          "group_label": "Keto",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 5,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "c1f6b360-a3a3-4bc6-a0da-b1e389210f4b",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348781000,
+          "allowed_type_ids": [
+            4,
+            7,
+            8,
+            5,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            268,
+            72,
+            73,
+            117,
+            88
+          ],
+          "ingredient_amounts": [
+            9,
+            0.5,
+            90,
+            0.9375,
+            3.75,
+            7.5,
+            0.9375
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22652,
+          "recipe_id": 2562,
+          "group_label": "Keto",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 4,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "f8ce3a74-ce0a-428e-aa97-863cb5ab6c55",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348781000,
+          "allowed_type_ids": [
+            4,
+            7,
+            8,
+            5,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            268,
+            72,
+            73,
+            117,
+            88
+          ],
+          "ingredient_amounts": [
+            6,
+            0.25,
+            60,
+            0.625,
+            2.5,
+            5,
+            0.625
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22651,
+          "recipe_id": 2562,
+          "group_label": "Keto",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 3,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "bed9f438-a05c-4981-a9bf-ca22b9f90896",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348781000,
+          "allowed_type_ids": [
+            4,
+            7,
+            8,
+            5,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            268,
+            72,
+            73,
+            117,
+            88
+          ],
+          "ingredient_amounts": [
+            3,
+            0.25,
+            30,
+            0.3125,
+            1.25,
+            2.5,
+            0.3125
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22650,
+          "recipe_id": 2562,
+          "group_label": "Default",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 2,
+          "serving_count": 6,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "15491ac0-6213-49c7-8fed-5e733559480a",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348781000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            72,
+            73,
+            117,
+            267,
+            88
+          ],
+          "ingredient_amounts": [
+            9,
+            0.5,
+            0.9375,
+            3.75,
+            7.5,
+            90,
+            0.9375
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22649,
+          "recipe_id": 2562,
+          "group_label": "Default",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 1,
+          "serving_count": 4,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "1d7b2d7b-278c-4621-aa61-017ff2c19c23",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348782000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            72,
+            73,
+            117,
+            267,
+            88
+          ],
+          "ingredient_amounts": [
+            6,
+            0.25,
+            0.625,
+            2.5,
+            5,
+            60,
+            0.625
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        },
+        {
+          "id": 22648,
+          "recipe_id": 2562,
+          "group_label": "Default",
+          "name": "Curried Deviled Eggs with Fresh Dill",
+          "position": 0,
+          "serving_count": 2,
+          "unit_family_id": 1,
+          "is_pro": false,
+          "is_secret": false,
+          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/thumbnail_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2562/presentation_97a2e81b-9025-4805-9fcf-70ae161a0df4.jpeg",
+          "published_recipe_uuid": "55144c5e-37a2-4972-aa61-5bc28ce8233e",
+          "fallback_published_recipe_uuids": [
+
+          ],
+          "first_published_at": 1670348782000,
+          "allowed_type_ids": [
+            4,
+            7,
+            1,
+            3,
+            2
+          ],
+          "violated_restriction_ids": [
+            10,
+            14,
+            13,
+            11
+          ],
+          "ingredient_ids": [
+            121,
+            320,
+            72,
+            73,
+            117,
+            267,
+            88
+          ],
+          "ingredient_amounts": [
+            3,
+            0.25,
+            0.3125,
+            1.25,
+            2.5,
+            30,
+            0.3125
+          ],
+          "average_rating": 0.723,
+          "rating_count": 28,
+          "variety_tag_ids": [
+
+          ],
+          "cuisine_tag_ids": [
+
+          ],
+          "ruleset": "snack",
+          "is_promoted": true,
+          "recipe_category_id": 6,
+          "cooking_tip": null,
+          "blurb": "A perfect little snack or holiday appetizer that packs a flavorful punch!"
+        }
+      ],
+      "schemaMetadata": {
+        "category": "Snack",
+        "description": "A perfect little snack or holiday appetizer that packs a flavorful punch!",
+        "keywords": [
+
+        ],
+        "cuisine": "",
+        "reviewCount": null,
+        "reviewScore": null
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/recipes/[slug]/[variantId]",
+  "query": {
+    "slug": "curried-deviled-eggs-fresh-dill",
+    "variantId": "22643"
+  },
+  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": [
+
+  ]
+}

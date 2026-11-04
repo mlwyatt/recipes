@@ -18,7 +18,7 @@ function list(items, tag = 'ul') {
 }
 
 function show(r, meta) {
-  const data = r.props.pageProps.publishedRecipe;
+  const data = r;
   const title = data.title ?? data.name ?? id;
 
   document.title = title;

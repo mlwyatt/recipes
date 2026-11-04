@@ -1,1693 +1,300 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 11777,
-        "recipe_id": 1375,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-        "slug": "sausage-banh-mi-salad-jalapenos-herbs-garlic-crostini",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 199215,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 199216,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 head butter (Boston) lettuce\n2 medium carrots\n1 bunch radish\n1 English cucumber\n2 jalapeño peppers\n1 small pkg fresh mint\n1 small bunch cilantro\n1 lime"
-          },
-          {
-            "id": 199217,
-            "primary_message": "Place sausages on a baking sheet pan and place in the oven (it doesn't have to be fully heated); bake until sausages are cooked through, 12-15 minutes.",
-            "secondary_message": "4 pork sausages"
-          },
-          {
-            "id": 199218,
-            "primary_message": "Meanwhile, chop or tear lettuce into bite-sized pieces and transfer to a large salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 199219,
-            "primary_message": "Peel and thinly slice carrots into rounds; add to the bowl with the lettuce. ",
-            "secondary_message": null
-          },
-          {
-            "id": 199220,
-            "primary_message": "Trim and thinly slice radishes; add to the bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 199221,
-            "primary_message": "Trim and thinly slice cucumber into rounds; add to the bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 199222,
-            "primary_message": "Trim and thinly slice jalapeños into rounds; add to the bowl. (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
-            "secondary_message": null
-          },
-          {
-            "id": 199223,
-            "primary_message": "Pick mint leaves off the stems. Shave cilantro leaves off the stems; discard stems and add leaves to the bowl. Toss to combine the salad and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 199224,
-            "primary_message": "When the sausages are done cooking, remove to a cutting board. Slice into ½-inch thick pieces, at an angle, and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 199225,
-            "primary_message": "Peel and mince garlic.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 199226,
-            "primary_message": "Slice rolls in half and place on the baking sheet, cut-side up. Drizzle with oil, then sprinkle with minced garlic. Place in the oven and toast until golden, 4-5 minutes. Remove from the oven and cut in half.",
-            "secondary_message": "2 whole grain buns or rolls\n2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 199227,
-            "primary_message": "Meanwhile, juice the lime into a small bowl. Add mayo, honey, chili-garlic sauce, and fish sauce; whisk to combine the dressing. ",
-            "secondary_message": "¼ cup mayonnaise\n4 tsp honey\n4 tsp chili-garlic sauce\n2 tsp fish sauce"
-          },
-          {
-            "id": 199228,
-            "primary_message": "To serve, divide salad, sausage, and crostini between plates or bowls. Drizzle with dressing and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 208138,
-            "quantity": "1 head",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 208132,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 208133,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 208131,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 208135,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh mint"
-          },
-          {
-            "id": 208125,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 208130,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 208134,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 208139,
-            "quantity": "4",
-            "ingredient_name": "pork sausages"
-          },
-          {
-            "id": 208140,
-            "quantity": "1 bunch",
-            "ingredient_name": "radish"
-          },
-          {
-            "id": 208129,
-            "quantity": "2",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 208137,
-            "quantity": "",
-            "ingredient_name": "chili-garlic sauce"
-          },
-          {
-            "id": 208126,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 208127,
-            "quantity": "",
-            "ingredient_name": "fish sauce"
-          },
-          {
-            "id": 208128,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 208136,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          }
-        ],
-        "nutrition": {
-          "energy": 604.62,
-          "alcohol": 0,
-          "ash": 6.17,
-          "caffeine": 0,
-          "water": 295.44,
-          "carbs": 27.88,
-          "fiber": 6.13,
-          "starch": 12.24,
-          "sugars": 13.84,
-          "fructose": 5.71,
-          "galactose": 0.22,
-          "glucose": 5.16,
-          "lactose": 0,
-          "maltose": 0.84,
-          "sucrose": 1.88,
-          "sugar_alcohol": 0,
-          "fat": 45.21,
-          "monounsaturated": 19.33,
-          "polyunsaturated": 11.2,
-          "omega_3": 0.91,
-          "omega_6": 9.66,
-          "saturated": 11.34,
-          "transfats": 0.35,
-          "cholesterol": 85.58,
-          "protein": 23.5,
-          "alanine": 1.18,
-          "arginine": 1.25,
-          "aspartic_acid": 1.83,
-          "cystine": 0.26,
-          "glutamic_acid": 3.43,
-          "glycine": 1.23,
-          "histidine": 0.59,
-          "isoleucine": 0.8,
-          "leucine": 1.43,
-          "lysine": 1.53,
-          "methionine": 0.49,
-          "phenylalanine": 0.76,
-          "proline": 1.05,
-          "serine": 0.85,
-          "threonine": 0.87,
-          "tryptophan": 0.19,
-          "tyrosine": 0.6,
-          "valine": 0.89,
-          "b1_thiamine": 0.44,
-          "b2_riboflavin": 0.39,
-          "b3_niacin": 7.94,
-          "b5_pantothenic_acid": 1.48,
-          "b6_pyridoxine": 0.61,
-          "b12_cobalamin": 1.11,
-          "choline": 94.01,
-          "folate": 94.89,
-          "vitamin_a": 179.41,
-          "vitamin_c": 34.07,
-          "vitamin_d": 26.41,
-          "vitamin_e": 4.06,
-          "vitamin_k": 165.03,
-          "calcium": 122.08,
-          "copper": 0.33,
-          "iron": 4.17,
-          "magnesium": 75.84,
-          "manganese": 0.9,
-          "phosphorus": 271.75,
-          "potassium": 964.03,
-          "selenium": 17.16,
-          "sodium": 873.1,
-          "zinc": 3.01
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sausage-banh-mi-salad-jalapenos-herbs-garlic-crostini/11777",
-      "altVariants": [
-        {
-          "id": 11779,
-          "recipe_id": 1375,
-          "group_label": "Low Carb ",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Cilantro & Mint",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11779/thumbnail_468c8ce5-fb47-468e-aa8b-499567f0eccc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11779/presentation_468c8ce5-fb47-468e-aa8b-499567f0eccc.jpeg",
-          "published_recipe_uuid": "caa9feda-7c21-446b-a8f7-c9beb40ac9c0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266554000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            151,
-            228,
-            313,
-            343,
-            306,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            2,
-            0.5,
-            10,
-            5,
-            10,
-            45
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11784,
-          "recipe_id": 1375,
-          "group_label": "Default auto-gluten-free",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "f755f6b9-a562-4ac8-a576-091ef82af9da",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266552000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            11,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            127,
-            151,
-            228,
-            313,
-            343,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            2,
-            1,
-            3,
-            3,
-            3,
-            1.5,
-            6,
-            1.5,
-            30,
-            45,
-            15,
-            30,
-            90
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11783,
-          "recipe_id": 1375,
-          "group_label": "Default auto-gluten-free",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "58e80d8a-a28d-489a-9a79-9bc1275cf34e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266552000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            11,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            127,
-            151,
-            228,
-            313,
-            343,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            2,
-            2,
-            1,
-            4,
-            1,
-            20,
-            30,
-            10,
-            20,
-            60
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11782,
-          "recipe_id": 1375,
-          "group_label": "Default auto-gluten-free",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "c87568c2-6c75-4ef8-a13d-be10668e56fd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266553000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            11,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            127,
-            151,
-            228,
-            313,
-            343,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            2,
-            0.5,
-            10,
-            15,
-            5,
-            10,
-            30
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11781,
-          "recipe_id": 1375,
-          "group_label": "Low Carb ",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Cilantro & Mint",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11781/thumbnail_7be81622-e15c-482d-83f8-8e7cafe88c72.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11781/presentation_7be81622-e15c-482d-83f8-8e7cafe88c72.jpeg",
-          "published_recipe_uuid": "f578cc75-ab06-46bb-beb6-48c492ba1649",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266553000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            151,
-            228,
-            313,
-            343,
-            306,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            2,
-            1,
-            3,
-            1.5,
-            6,
-            1.5,
-            30,
-            15,
-            30,
-            135
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11780,
-          "recipe_id": 1375,
-          "group_label": "Low Carb ",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Cilantro & Mint",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11780/thumbnail_4c79dc4b-29b3-40af-b6b9-3b35ea712807.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11780/presentation_4c79dc4b-29b3-40af-b6b9-3b35ea712807.jpeg",
-          "published_recipe_uuid": "117357f1-8a12-4272-ab4f-35100102df0f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266553000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            151,
-            228,
-            313,
-            343,
-            306,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            1,
-            4,
-            1,
-            20,
-            10,
-            20,
-            90
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11778,
-          "recipe_id": 1375,
-          "group_label": "Default",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "4f1a7ae0-f7fc-4b6e-925d-9ba7c79b58ec",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266554000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            151,
-            228,
-            313,
-            343,
-            128,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            2,
-            1,
-            3,
-            3,
-            1.5,
-            6,
-            1.5,
-            3,
-            30,
-            45,
-            15,
-            30,
-            90
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11777,
-          "recipe_id": 1375,
-          "group_label": "Default",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "58b5b7c4-ce81-4d33-9528-a3e08438a5e2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266555000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            151,
-            228,
-            313,
-            343,
-            128,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            2,
-            1,
-            4,
-            1,
-            2,
-            20,
-            30,
-            10,
-            20,
-            60
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11776,
-          "recipe_id": 1375,
-          "group_label": "Default",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "0dd7f195-5a69-447a-9c57-ca299ee1d9f3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266555000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            151,
-            228,
-            313,
-            343,
-            128,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1,
-            0.5,
-            2,
-            0.5,
-            1,
-            10,
-            15,
-            5,
-            10,
-            30
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11793,
-          "recipe_id": 1375,
-          "group_label": "Default auto-gluten-free",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "6ca865af-3c20-4b5f-aec3-b729b9c9cc78",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266547000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            11,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            127,
-            151,
-            228,
-            313,
-            343,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            2,
-            1,
-            3,
-            3,
-            3,
-            1.5,
-            6,
-            1.5,
-            30,
-            45,
-            15,
-            30,
-            90
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11792,
-          "recipe_id": 1375,
-          "group_label": "Default auto-gluten-free",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "08eb4b60-4974-463b-9471-40cb3aaf4f80",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266548000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            11,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            127,
-            151,
-            228,
-            313,
-            343,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            2,
-            2,
-            1,
-            4,
-            1,
-            20,
-            30,
-            10,
-            20,
-            60
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11791,
-          "recipe_id": 1375,
-          "group_label": "Default auto-gluten-free",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "eea8be3e-d8d7-4f6e-81b7-bf32e1615545",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266548000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            11,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            127,
-            151,
-            228,
-            313,
-            343,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            2,
-            0.5,
-            10,
-            15,
-            5,
-            10,
-            30
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11790,
-          "recipe_id": 1375,
-          "group_label": "Low Carb ",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Cilantro & Mint",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11790/thumbnail_b3870003-9ea2-4eba-b5ae-accf962faad0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11790/presentation_b3870003-9ea2-4eba-b5ae-accf962faad0.jpeg",
-          "published_recipe_uuid": "018e977d-1183-4230-9cd2-c11a31110d86",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266549000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            151,
-            228,
-            313,
-            343,
-            306,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            2,
-            1,
-            3,
-            1.5,
-            6,
-            1.5,
-            30,
-            15,
-            30,
-            135
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11789,
-          "recipe_id": 1375,
-          "group_label": "Low Carb ",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Cilantro & Mint",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11789/thumbnail_a825eddb-d117-4581-9baa-ec6e185503af.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11789/presentation_a825eddb-d117-4581-9baa-ec6e185503af.jpeg",
-          "published_recipe_uuid": "f731480f-59ef-4891-90fd-9272a017abc9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266549000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            151,
-            228,
-            313,
-            343,
-            306,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            1,
-            4,
-            1,
-            20,
-            10,
-            20,
-            90
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11788,
-          "recipe_id": 1375,
-          "group_label": "Low Carb ",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Cilantro & Mint",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11788/thumbnail_dc382ce4-70b9-4a73-93fe-2df4d3cfd188.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/11788/presentation_dc382ce4-70b9-4a73-93fe-2df4d3cfd188.jpeg",
-          "published_recipe_uuid": "166ddc2a-3cb8-4c79-a1b4-5663b82ed205",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266550000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            151,
-            228,
-            313,
-            343,
-            306,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            2,
-            0.5,
-            10,
-            5,
-            10,
-            45
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11787,
-          "recipe_id": 1375,
-          "group_label": "Default",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "8e1e44bd-bc43-481f-9ff5-d6f318d5f471",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266550000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            151,
-            228,
-            313,
-            343,
-            128,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            2,
-            1,
-            3,
-            3,
-            1.5,
-            6,
-            1.5,
-            3,
-            30,
-            45,
-            15,
-            30,
-            90
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11786,
-          "recipe_id": 1375,
-          "group_label": "Default",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "b989b9ef-b060-43ed-9a50-b8e02f7a9e22",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266550000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            151,
-            228,
-            313,
-            343,
-            128,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            2,
-            1,
-            4,
-            1,
-            2,
-            20,
-            30,
-            10,
-            20,
-            60
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11785,
-          "recipe_id": 1375,
-          "group_label": "Default",
-          "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
-          "published_recipe_uuid": "882ac16c-dd0c-45be-9fad-83b2616231a1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1597266551000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            10,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            188,
-            155,
-            243,
-            24,
-            151,
-            228,
-            313,
-            343,
-            128,
-            306,
-            47,
-            52,
-            103,
-            267
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1,
-            0.5,
-            2,
-            0.5,
-            1,
-            10,
-            15,
-            5,
-            10,
-            30
-          ],
-          "average_rating": 0.773,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            27
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "Vietnamese",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 11777,
+  "recipe_id": 1375,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Sausage Banh Mi Salad with Jalapeños, Herbs & Garlic Crostini",
+  "slug": "sausage-banh-mi-salad-jalapenos-herbs-garlic-crostini",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/thumbnail_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1375/presentation_b69d3daf-7343-4d4f-b01b-6dfb43f168ce.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sausage-banh-mi-salad-jalapenos-herbs-garlic-crostini",
-    "variantId": "11777"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 199215,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 199216,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 head butter (Boston) lettuce\n2 medium carrots\n1 bunch radish\n1 English cucumber\n2 jalapeño peppers\n1 small pkg fresh mint\n1 small bunch cilantro\n1 lime"
+    },
+    {
+      "id": 199217,
+      "primary_message": "Place sausages on a baking sheet pan and place in the oven (it doesn't have to be fully heated); bake until sausages are cooked through, 12-15 minutes.",
+      "secondary_message": "4 pork sausages"
+    },
+    {
+      "id": 199218,
+      "primary_message": "Meanwhile, chop or tear lettuce into bite-sized pieces and transfer to a large salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 199219,
+      "primary_message": "Peel and thinly slice carrots into rounds; add to the bowl with the lettuce. ",
+      "secondary_message": null
+    },
+    {
+      "id": 199220,
+      "primary_message": "Trim and thinly slice radishes; add to the bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 199221,
+      "primary_message": "Trim and thinly slice cucumber into rounds; add to the bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 199222,
+      "primary_message": "Trim and thinly slice jalapeños into rounds; add to the bowl. (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
+      "secondary_message": null
+    },
+    {
+      "id": 199223,
+      "primary_message": "Pick mint leaves off the stems. Shave cilantro leaves off the stems; discard stems and add leaves to the bowl. Toss to combine the salad and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 199224,
+      "primary_message": "When the sausages are done cooking, remove to a cutting board. Slice into ½-inch thick pieces, at an angle, and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 199225,
+      "primary_message": "Peel and mince garlic.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 199226,
+      "primary_message": "Slice rolls in half and place on the baking sheet, cut-side up. Drizzle with oil, then sprinkle with minced garlic. Place in the oven and toast until golden, 4-5 minutes. Remove from the oven and cut in half.",
+      "secondary_message": "2 whole grain buns or rolls\n2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 199227,
+      "primary_message": "Meanwhile, juice the lime into a small bowl. Add mayo, honey, chili-garlic sauce, and fish sauce; whisk to combine the dressing. ",
+      "secondary_message": "¼ cup mayonnaise\n4 tsp honey\n4 tsp chili-garlic sauce\n2 tsp fish sauce"
+    },
+    {
+      "id": 199228,
+      "primary_message": "To serve, divide salad, sausage, and crostini between plates or bowls. Drizzle with dressing and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 208138,
+      "quantity": "1 head",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 208132,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 208133,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 208131,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 208135,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh mint"
+    },
+    {
+      "id": 208125,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 208130,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 208134,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 208139,
+      "quantity": "4",
+      "ingredient_name": "pork sausages"
+    },
+    {
+      "id": 208140,
+      "quantity": "1 bunch",
+      "ingredient_name": "radish"
+    },
+    {
+      "id": 208129,
+      "quantity": "2",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 208137,
+      "quantity": "",
+      "ingredient_name": "chili-garlic sauce"
+    },
+    {
+      "id": 208126,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 208127,
+      "quantity": "",
+      "ingredient_name": "fish sauce"
+    },
+    {
+      "id": 208128,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 208136,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    }
+  ],
+  "nutrition": {
+    "energy": 604.62,
+    "alcohol": 0,
+    "ash": 6.17,
+    "caffeine": 0,
+    "water": 295.44,
+    "carbs": 27.88,
+    "fiber": 6.13,
+    "starch": 12.24,
+    "sugars": 13.84,
+    "fructose": 5.71,
+    "galactose": 0.22,
+    "glucose": 5.16,
+    "lactose": 0,
+    "maltose": 0.84,
+    "sucrose": 1.88,
+    "sugar_alcohol": 0,
+    "fat": 45.21,
+    "monounsaturated": 19.33,
+    "polyunsaturated": 11.2,
+    "omega_3": 0.91,
+    "omega_6": 9.66,
+    "saturated": 11.34,
+    "transfats": 0.35,
+    "cholesterol": 85.58,
+    "protein": 23.5,
+    "alanine": 1.18,
+    "arginine": 1.25,
+    "aspartic_acid": 1.83,
+    "cystine": 0.26,
+    "glutamic_acid": 3.43,
+    "glycine": 1.23,
+    "histidine": 0.59,
+    "isoleucine": 0.8,
+    "leucine": 1.43,
+    "lysine": 1.53,
+    "methionine": 0.49,
+    "phenylalanine": 0.76,
+    "proline": 1.05,
+    "serine": 0.85,
+    "threonine": 0.87,
+    "tryptophan": 0.19,
+    "tyrosine": 0.6,
+    "valine": 0.89,
+    "b1_thiamine": 0.44,
+    "b2_riboflavin": 0.39,
+    "b3_niacin": 7.94,
+    "b5_pantothenic_acid": 1.48,
+    "b6_pyridoxine": 0.61,
+    "b12_cobalamin": 1.11,
+    "choline": 94.01,
+    "folate": 94.89,
+    "vitamin_a": 179.41,
+    "vitamin_c": 34.07,
+    "vitamin_d": 26.41,
+    "vitamin_e": 4.06,
+    "vitamin_k": 165.03,
+    "calcium": 122.08,
+    "copper": 0.33,
+    "iron": 4.17,
+    "magnesium": 75.84,
+    "manganese": 0.9,
+    "phosphorus": 271.75,
+    "potassium": 964.03,
+    "selenium": 17.16,
+    "sodium": 873.1,
+    "zinc": 3.01
+  }
 }

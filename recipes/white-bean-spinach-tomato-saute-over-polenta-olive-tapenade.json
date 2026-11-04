@@ -1,816 +1,305 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 15181,
-        "recipe_id": 1783,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
-        "slug": "white-bean-spinach-tomato-saute-over-polenta-olive-tapenade",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 250418,
-            "primary_message": "In a medium saucepan, bring broth and water to a boil. Reduce heat to low and gradually add polenta in a thin steady stream, while whisking, until the polenta is incorporated into the broth. Cover and cook, stirring occasionally, until polenta is soft and the texture is creamy, 15-25 minutes.",
-            "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n2 cup water\n1 ½ cups polenta (cornmeal)"
-          },
-          {
-            "id": 250419,
-            "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 lemon\n2 yellow bell peppers\n2 (5 oz) pkgs baby spinach\n1 small pkg fresh basil"
-          },
-          {
-            "id": 250420,
-            "primary_message": "Zest lemon into a small bowl. Cut lemon into wedges and set aside for serving.",
-            "secondary_message": null
-          },
-          {
-            "id": 250421,
-            "primary_message": "Mince olives, sun-dried tomatoes, and capers; add to the bowl with the lemon zest.",
-            "secondary_message": "½ cup Kalamata olives, pitted\n8 sun-dried tomatoes, oil-packed\n2 tbsp capers"
-          },
-          {
-            "id": 250422,
-            "primary_message": "Peel and mince garlic; add to the bowl along with the oil. Stir to combine the tapenade and set aside.",
-            "secondary_message": "2 cloves garlic\n2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 250423,
-            "primary_message": "Trim, seed, and medium dice bell peppers; peel and small dice onion.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 250424,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 250425,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell pepper, onion, and spices; cook, stirring occasionally, until soft, 3-4 minutes.",
-            "secondary_message": "4 tsp extra virgin olive oil\n2 tsp oregano, dried\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 250426,
-            "primary_message": "Meanwhile, drain and rinse beans.",
-            "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
-          },
-          {
-            "id": 250427,
-            "primary_message": "Add beans and tomatoes to the skillet; cook, stirring occasionally, until warmed through, about 5 minutes.",
-            "secondary_message": "1 (14.5 oz) can diced tomatoes"
-          },
-          {
-            "id": 250428,
-            "primary_message": "Add spinach to the skillet in handfuls, waiting for the spinach to wilt slightly before adding the next handful. Remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 250429,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
-            "secondary_message": null
-          },
-          {
-            "id": 250430,
-            "primary_message": "Add oil, salt, and pepper to the polenta and stir to combine; if the polenta is too firm, add hot water, a few tablespoons at a time, until you reach a desired consistency.",
-            "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 250431,
-            "primary_message": "To serve, divide polenta and veggie sauté between bowls; top with olive tapenade and fresh basil. Serve with lemon wedges and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 263588,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 263593,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "cannellini (white kidney) beans"
-          },
-          {
-            "id": 263585,
-            "quantity": "2 tbsp",
-            "ingredient_name": "capers"
-          },
-          {
-            "id": 263598,
-            "quantity": "32 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 263594,
-            "quantity": "1 (14.5 oz) can",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 263587,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 263586,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 263599,
-            "quantity": "½ cup",
-            "ingredient_name": "Kalamata olives, pitted"
-          },
-          {
-            "id": 263597,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 263601,
-            "quantity": "1 ½ cups",
-            "ingredient_name": "polenta (cornmeal)"
-          },
-          {
-            "id": 263596,
-            "quantity": "8",
-            "ingredient_name": "sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 263600,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 263595,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 263590,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 263589,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 263591,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 263592,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 605.98,
-          "alcohol": 0,
-          "ash": 7.98,
-          "caffeine": 0,
-          "water": 601.61,
-          "carbs": 85.43,
-          "fiber": 14.64,
-          "starch": 50.83,
-          "sugars": 14.53,
-          "fructose": 4.61,
-          "galactose": 0.1,
-          "glucose": 4.37,
-          "lactose": 0,
-          "maltose": 0.09,
-          "sucrose": 5.33,
-          "sugar_alcohol": 0,
-          "fat": 21.6,
-          "monounsaturated": 9.82,
-          "polyunsaturated": 2.55,
-          "omega_3": 0.36,
-          "omega_6": 2.2,
-          "saturated": 2.62,
-          "transfats": 0.07,
-          "cholesterol": 0,
-          "protein": 23.46,
-          "alanine": 1.2,
-          "arginine": 1.23,
-          "aspartic_acid": 2.52,
-          "cystine": 0.31,
-          "glutamic_acid": 4.16,
-          "glycine": 0.95,
-          "histidine": 0.61,
-          "isoleucine": 1.07,
-          "leucine": 2.01,
-          "lysine": 1.44,
-          "methionine": 0.39,
-          "phenylalanine": 1.16,
-          "proline": 1.34,
-          "serine": 1.15,
-          "threonine": 0.87,
-          "tryptophan": 0.26,
-          "tyrosine": 0.64,
-          "valine": 1.21,
-          "b1_thiamine": 1.04,
-          "b2_riboflavin": 0.53,
-          "b3_niacin": 8.46,
-          "b5_pantothenic_acid": 1.09,
-          "b6_pyridoxine": 0.7,
-          "b12_cobalamin": 0.25,
-          "choline": 88.37,
-          "folate": 310.39,
-          "vitamin_a": 752.22,
-          "vitamin_c": 157.06,
-          "vitamin_d": 0,
-          "vitamin_e": 4.33,
-          "vitamin_k": 400.5,
-          "calcium": 227.83,
-          "copper": 0.83,
-          "iron": 8.16,
-          "magnesium": 147.53,
-          "manganese": 1.79,
-          "phosphorus": 373.05,
-          "potassium": 1411.44,
-          "selenium": 9.21,
-          "sodium": 729.89,
-          "zinc": 2.36
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/white-bean-spinach-tomato-saute-over-polenta-olive-tapenade/15181",
-      "altVariants": [
-        {
-          "id": 15180,
-          "recipe_id": 1783,
-          "group_label": "Default",
-          "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "published_recipe_uuid": "ebc69dfc-ec61-406d-aa09-a8d956f3ef2d",
-          "fallback_published_recipe_uuids": [
-            "1a0e2f08-e752-41bb-8ff8-9a530b668955"
-          ],
-          "first_published_at": 1631032803000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            15,
-            201,
-            97,
-            28,
-            24,
-            203,
-            192,
-            289,
-            162,
-            265,
-            152,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            16,
-            0.5,
-            0.5,
-            1,
-            0.25,
-            0.5,
-            0.75,
-            4,
-            1,
-            0.5,
-            2.5,
-            25,
-            5,
-            3.75
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "We would never say no to a cozy polenta dish to welcome fall"
-        },
-        {
-          "id": 15182,
-          "recipe_id": 1783,
-          "group_label": "Default",
-          "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "published_recipe_uuid": "f8baddf6-cbe5-4068-8bdf-6c8e038f6a6b",
-          "fallback_published_recipe_uuids": [
-            "e26dccec-b9cf-42dc-98c9-e8d0fe73dcf6"
-          ],
-          "first_published_at": 1631032802000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            15,
-            201,
-            97,
-            28,
-            24,
-            203,
-            192,
-            289,
-            162,
-            265,
-            152,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            48,
-            1.5,
-            1,
-            3,
-            0.75,
-            1.5,
-            2.25,
-            12,
-            3,
-            1.5,
-            7.5,
-            75,
-            15,
-            11.25
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "We would never say no to a cozy polenta dish to welcome fall"
-        },
-        {
-          "id": 15181,
-          "recipe_id": 1783,
-          "group_label": "Default",
-          "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "published_recipe_uuid": "0c65aad0-ff0d-4182-9cd3-e1a608eaf5d6",
-          "fallback_published_recipe_uuids": [
-            "13c25adf-08f4-447c-b054-4945110255b2"
-          ],
-          "first_published_at": 1631032802000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            15,
-            201,
-            97,
-            28,
-            24,
-            203,
-            192,
-            289,
-            162,
-            265,
-            152,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            32,
-            1,
-            1,
-            2,
-            0.5,
-            1,
-            1.5,
-            8,
-            2,
-            1,
-            5,
-            50,
-            10,
-            7.5
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "We would never say no to a cozy polenta dish to welcome fall"
-        },
-        {
-          "id": 15185,
-          "recipe_id": 1783,
-          "group_label": "Default",
-          "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "published_recipe_uuid": "fe34a946-ff8b-4ce8-af1c-57959d847c59",
-          "fallback_published_recipe_uuids": [
-            "319cbe35-89ed-45a0-885e-988b1efa7901"
-          ],
-          "first_published_at": 1631032801000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            15,
-            201,
-            97,
-            28,
-            24,
-            203,
-            192,
-            289,
-            162,
-            265,
-            152,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1420,
-            1.5,
-            1,
-            3,
-            0.75,
-            1.5,
-            2.25,
-            12,
-            3,
-            1.5,
-            7.5,
-            75,
-            15,
-            11.25
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "We would never say no to a cozy polenta dish to welcome fall"
-        },
-        {
-          "id": 15184,
-          "recipe_id": 1783,
-          "group_label": "Default",
-          "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "published_recipe_uuid": "8fb8504a-3de4-4d0f-8dcb-fa8f9ea73c9c",
-          "fallback_published_recipe_uuids": [
-            "e3843eb0-8365-4f6f-a5ad-6dfcaee3c8f8"
-          ],
-          "first_published_at": 1631032801000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            15,
-            201,
-            97,
-            28,
-            24,
-            203,
-            192,
-            289,
-            162,
-            265,
-            152,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            946,
-            1,
-            1,
-            2,
-            0.5,
-            1,
-            1.5,
-            8,
-            2,
-            1,
-            5,
-            50,
-            10,
-            7.5
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "We would never say no to a cozy polenta dish to welcome fall"
-        },
-        {
-          "id": 15183,
-          "recipe_id": 1783,
-          "group_label": "Default",
-          "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
-          "published_recipe_uuid": "120f224a-dfa1-4060-8ae8-788e323a9e96",
-          "fallback_published_recipe_uuids": [
-            "d6ca0073-07e7-4b7f-b439-d65151bb5a83"
-          ],
-          "first_published_at": 1631032801000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            15,
-            201,
-            97,
-            28,
-            24,
-            203,
-            192,
-            289,
-            162,
-            265,
-            152,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            473,
-            0.5,
-            0.5,
-            1,
-            0.25,
-            0.5,
-            0.75,
-            4,
-            1,
-            0.5,
-            2.5,
-            25,
-            5,
-            3.75
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "We would never say no to a cozy polenta dish to welcome fall"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "We would never say no to a cozy polenta dish to welcome fall",
-        "keywords": [
-          "Skillets & Sautés"
-        ],
-        "cuisine": "Italian-American",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 15181,
+  "recipe_id": 1783,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "White Bean, Spinach & Tomato Sauté over Polenta with Olive Tapenade ",
+  "slug": "white-bean-spinach-tomato-saute-over-polenta-olive-tapenade",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/thumbnail_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1783/presentation_bbe79bfd-e911-40e7-a480-bc98f3f10eba.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "white-bean-spinach-tomato-saute-over-polenta-olive-tapenade",
-    "variantId": "15181"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 250418,
+      "primary_message": "In a medium saucepan, bring broth and water to a boil. Reduce heat to low and gradually add polenta in a thin steady stream, while whisking, until the polenta is incorporated into the broth. Cover and cook, stirring occasionally, until polenta is soft and the texture is creamy, 15-25 minutes.",
+      "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n2 cup water\n1 ½ cups polenta (cornmeal)"
+    },
+    {
+      "id": 250419,
+      "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 lemon\n2 yellow bell peppers\n2 (5 oz) pkgs baby spinach\n1 small pkg fresh basil"
+    },
+    {
+      "id": 250420,
+      "primary_message": "Zest lemon into a small bowl. Cut lemon into wedges and set aside for serving.",
+      "secondary_message": null
+    },
+    {
+      "id": 250421,
+      "primary_message": "Mince olives, sun-dried tomatoes, and capers; add to the bowl with the lemon zest.",
+      "secondary_message": "½ cup Kalamata olives, pitted\n8 sun-dried tomatoes, oil-packed\n2 tbsp capers"
+    },
+    {
+      "id": 250422,
+      "primary_message": "Peel and mince garlic; add to the bowl along with the oil. Stir to combine the tapenade and set aside.",
+      "secondary_message": "2 cloves garlic\n2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 250423,
+      "primary_message": "Trim, seed, and medium dice bell peppers; peel and small dice onion.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 250424,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 250425,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell pepper, onion, and spices; cook, stirring occasionally, until soft, 3-4 minutes.",
+      "secondary_message": "4 tsp extra virgin olive oil\n2 tsp oregano, dried\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 250426,
+      "primary_message": "Meanwhile, drain and rinse beans.",
+      "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
+    },
+    {
+      "id": 250427,
+      "primary_message": "Add beans and tomatoes to the skillet; cook, stirring occasionally, until warmed through, about 5 minutes.",
+      "secondary_message": "1 (14.5 oz) can diced tomatoes"
+    },
+    {
+      "id": 250428,
+      "primary_message": "Add spinach to the skillet in handfuls, waiting for the spinach to wilt slightly before adding the next handful. Remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 250429,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
+      "secondary_message": null
+    },
+    {
+      "id": 250430,
+      "primary_message": "Add oil, salt, and pepper to the polenta and stir to combine; if the polenta is too firm, add hot water, a few tablespoons at a time, until you reach a desired consistency.",
+      "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 250431,
+      "primary_message": "To serve, divide polenta and veggie sauté between bowls; top with olive tapenade and fresh basil. Serve with lemon wedges and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 263588,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 263593,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "cannellini (white kidney) beans"
+    },
+    {
+      "id": 263585,
+      "quantity": "2 tbsp",
+      "ingredient_name": "capers"
+    },
+    {
+      "id": 263598,
+      "quantity": "32 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 263594,
+      "quantity": "1 (14.5 oz) can",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 263587,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 263586,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 263599,
+      "quantity": "½ cup",
+      "ingredient_name": "Kalamata olives, pitted"
+    },
+    {
+      "id": 263597,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 263601,
+      "quantity": "1 ½ cups",
+      "ingredient_name": "polenta (cornmeal)"
+    },
+    {
+      "id": 263596,
+      "quantity": "8",
+      "ingredient_name": "sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 263600,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 263595,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 263590,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 263589,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 263591,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 263592,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 605.98,
+    "alcohol": 0,
+    "ash": 7.98,
+    "caffeine": 0,
+    "water": 601.61,
+    "carbs": 85.43,
+    "fiber": 14.64,
+    "starch": 50.83,
+    "sugars": 14.53,
+    "fructose": 4.61,
+    "galactose": 0.1,
+    "glucose": 4.37,
+    "lactose": 0,
+    "maltose": 0.09,
+    "sucrose": 5.33,
+    "sugar_alcohol": 0,
+    "fat": 21.6,
+    "monounsaturated": 9.82,
+    "polyunsaturated": 2.55,
+    "omega_3": 0.36,
+    "omega_6": 2.2,
+    "saturated": 2.62,
+    "transfats": 0.07,
+    "cholesterol": 0,
+    "protein": 23.46,
+    "alanine": 1.2,
+    "arginine": 1.23,
+    "aspartic_acid": 2.52,
+    "cystine": 0.31,
+    "glutamic_acid": 4.16,
+    "glycine": 0.95,
+    "histidine": 0.61,
+    "isoleucine": 1.07,
+    "leucine": 2.01,
+    "lysine": 1.44,
+    "methionine": 0.39,
+    "phenylalanine": 1.16,
+    "proline": 1.34,
+    "serine": 1.15,
+    "threonine": 0.87,
+    "tryptophan": 0.26,
+    "tyrosine": 0.64,
+    "valine": 1.21,
+    "b1_thiamine": 1.04,
+    "b2_riboflavin": 0.53,
+    "b3_niacin": 8.46,
+    "b5_pantothenic_acid": 1.09,
+    "b6_pyridoxine": 0.7,
+    "b12_cobalamin": 0.25,
+    "choline": 88.37,
+    "folate": 310.39,
+    "vitamin_a": 752.22,
+    "vitamin_c": 157.06,
+    "vitamin_d": 0,
+    "vitamin_e": 4.33,
+    "vitamin_k": 400.5,
+    "calcium": 227.83,
+    "copper": 0.83,
+    "iron": 8.16,
+    "magnesium": 147.53,
+    "manganese": 1.79,
+    "phosphorus": 373.05,
+    "potassium": 1411.44,
+    "selenium": 9.21,
+    "sodium": 729.89,
+    "zinc": 2.36
+  }
 }

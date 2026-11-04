@@ -1,675 +1,230 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 18417,
-        "recipe_id": 2131,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
-        "slug": "smoked-salmon-salad-egg-roasted-sweet-potato-pistachios",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 301638,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 301639,
-            "primary_message": "Wash, dry, peel, and small dice sweet potatoes. Transfer to a baking sheet pan, drizzle with oil, and season with spices. Toss to coat and spread out in an even layer.",
-            "secondary_message": "1 lb sweet potato\n4 tsp extra virgin olive oil\n½ tsp oregano, dried\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 301640,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing halfway through, until sweet potato is fork-tender, 10-12 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 301641,
-            "primary_message": "Meanwhile, halve eggs and transfer to a large plate.",
-            "secondary_message": "4 hard-cooked eggs, peeled"
-          },
-          {
-            "id": 301642,
-            "primary_message": "Cut or tear salmon into bite-sized pieces and add to the plate with the eggs.",
-            "secondary_message": "2 (4 oz) pkgs smoked salmon"
-          },
-          {
-            "id": 301643,
-            "primary_message": "Peel, halve, and slice shallots into thin half-moons; add to the plate.",
-            "secondary_message": "2 shallots"
-          },
-          {
-            "id": 301644,
-            "primary_message": "Roughly chop pistachios, add to the plate, and set aside.",
-            "secondary_message": "1 cup pistachios, unsalted"
-          },
-          {
-            "id": 301645,
-            "primary_message": "Wash and dry mixed greens. (Skip this step if they came pre-washed.)",
-            "secondary_message": "2 (5 oz) pkgs spring mix (mixed greens)"
-          },
-          {
-            "id": 301646,
-            "primary_message": "To serve, divide mixed greens, shallot, salmon, roasted sweet potato, pistachios, and eggs between plates. Drizzle with vinaigrette and enjoy!",
-            "secondary_message": "⅓ cup French vinaigrette"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 319935,
-            "quantity": "90 ml",
-            "ingredient_name": "French vinaigrette"
-          },
-          {
-            "id": 319934,
-            "quantity": "4",
-            "ingredient_name": "hard-cooked eggs, peeled"
-          },
-          {
-            "id": 319932,
-            "quantity": "1 cup",
-            "ingredient_name": "pistachios, unsalted"
-          },
-          {
-            "id": 319930,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 319933,
-            "quantity": "2 (4 oz) pkgs",
-            "ingredient_name": "smoked salmon"
-          },
-          {
-            "id": 319931,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 319929,
-            "quantity": "1 lb",
-            "ingredient_name": "sweet potato"
-          },
-          {
-            "id": 319926,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 319925,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 319927,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 319928,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 566.35,
-          "alcohol": 0,
-          "ash": 5.56,
-          "caffeine": 0,
-          "water": 238.62,
-          "carbs": 37.24,
-          "fiber": 8.43,
-          "starch": 14.93,
-          "sugars": 9.36,
-          "fructose": 1.22,
-          "galactose": 0.02,
-          "glucose": 1.57,
-          "lactose": 0,
-          "maltose": 0.04,
-          "sucrose": 5.93,
-          "sugar_alcohol": 0.05,
-          "fat": 36.2,
-          "monounsaturated": 13.5,
-          "polyunsaturated": 5.88,
-          "omega_3": 0.18,
-          "omega_6": 5.33,
-          "saturated": 5.04,
-          "transfats": 0.01,
-          "cholesterol": 171.52,
-          "protein": 25.37,
-          "alanine": 1.37,
-          "arginine": 1.76,
-          "aspartic_acid": 2.77,
-          "cystine": 0.38,
-          "glutamic_acid": 3.89,
-          "glycine": 1.11,
-          "histidine": 0.65,
-          "isoleucine": 1.18,
-          "leucine": 1.99,
-          "lysine": 1.85,
-          "methionine": 0.63,
-          "phenylalanine": 1.19,
-          "proline": 0.97,
-          "serine": 1.36,
-          "threonine": 1.08,
-          "tryptophan": 0.31,
-          "tyrosine": 0.8,
-          "valine": 1.42,
-          "b1_thiamine": 0.4,
-          "b2_riboflavin": 0.48,
-          "b3_niacin": 4.06,
-          "b5_pantothenic_acid": 2.39,
-          "b6_pyridoxine": 0.9,
-          "b12_cobalamin": 2.31,
-          "choline": 171.85,
-          "folate": 129.63,
-          "vitamin_a": 16443.86,
-          "vitamin_c": 11.95,
-          "vitamin_d": 0.94,
-          "vitamin_e": 2.58,
-          "vitamin_k": 147.64,
-          "calcium": 134.89,
-          "copper": 0.77,
-          "iron": 4.01,
-          "magnesium": 98.25,
-          "manganese": 1.04,
-          "phosphorus": 394.47,
-          "potassium": 788.22,
-          "selenium": 38.89,
-          "sodium": 1475.23,
-          "zinc": 2.01
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/smoked-salmon-salad-egg-roasted-sweet-potato-pistachios/18417",
-      "altVariants": [
-        {
-          "id": 18416,
-          "recipe_id": 2131,
-          "group_label": "Default",
-          "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "published_recipe_uuid": "90f1576e-f32c-49ea-b742-cc25f8603ac1",
-          "fallback_published_recipe_uuids": [
-            "e522144b-c25b-47fe-8efe-026ba9407ba9"
-          ],
-          "first_published_at": 1646151040000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6,
-            3,
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            432,
-            396,
-            256,
-            144,
-            342,
-            145,
-            143,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            45,
-            2,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            1.25,
-            10,
-            1.25,
-            1.25
-          ],
-          "average_rating": 0.792,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This hearty, colorful salad has all the good things going on..."
-        },
-        {
-          "id": 18418,
-          "recipe_id": 2131,
-          "group_label": "Default",
-          "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "published_recipe_uuid": "a64c1cdb-177f-4eaa-a74b-a8c5368b7088",
-          "fallback_published_recipe_uuids": [
-            "4ffec413-91b9-446e-b2be-b89f6e289974"
-          ],
-          "first_published_at": 1646151039000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6,
-            3,
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            432,
-            396,
-            256,
-            184,
-            342,
-            145,
-            143,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            135,
-            6,
-            1.5,
-            0.5,
-            3,
-            3,
-            1.5,
-            3.75,
-            30,
-            3.75,
-            3.75
-          ],
-          "average_rating": 0.792,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This hearty, colorful salad has all the good things going on..."
-        },
-        {
-          "id": 18417,
-          "recipe_id": 2131,
-          "group_label": "Default",
-          "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "published_recipe_uuid": "722aa556-0eb9-4715-b3f6-649f7af44890",
-          "fallback_published_recipe_uuids": [
-            "93b2cef1-9866-4ae2-a11b-a5796bbae82b"
-          ],
-          "first_published_at": 1646151040000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6,
-            3,
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            432,
-            396,
-            256,
-            144,
-            342,
-            145,
-            143,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            90,
-            4,
-            1,
-            2,
-            2,
-            2,
-            1,
-            2.5,
-            20,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.792,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This hearty, colorful salad has all the good things going on..."
-        },
-        {
-          "id": 18421,
-          "recipe_id": 2131,
-          "group_label": "Default",
-          "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "published_recipe_uuid": "d6de4d5f-f15d-4646-b5a7-1f0f49e99342",
-          "fallback_published_recipe_uuids": [
-            "53bdc3a8-b670-497a-b8cb-da4ab4adb981"
-          ],
-          "first_published_at": 1646151038000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6,
-            3,
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            432,
-            396,
-            256,
-            184,
-            342,
-            145,
-            143,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            135,
-            6,
-            1.5,
-            0.5,
-            3,
-            3,
-            0.68,
-            3.75,
-            30,
-            3.75,
-            3.75
-          ],
-          "average_rating": 0.792,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This hearty, colorful salad has all the good things going on..."
-        },
-        {
-          "id": 18420,
-          "recipe_id": 2131,
-          "group_label": "Default",
-          "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "published_recipe_uuid": "6c9dfe96-3f71-48df-ba27-635bf646b8ce",
-          "fallback_published_recipe_uuids": [
-            "a0ce3289-bbc8-455a-84bd-469e3314932b"
-          ],
-          "first_published_at": 1646151038000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6,
-            3,
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            432,
-            396,
-            256,
-            144,
-            342,
-            145,
-            143,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            90,
-            4,
-            1,
-            2,
-            2,
-            2,
-            0.45,
-            2.5,
-            20,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.792,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This hearty, colorful salad has all the good things going on..."
-        },
-        {
-          "id": 18419,
-          "recipe_id": 2131,
-          "group_label": "Default",
-          "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
-          "published_recipe_uuid": "c5be7d73-423d-4ea3-ba60-449f4e98f0be",
-          "fallback_published_recipe_uuids": [
-            "e5d3dd23-553f-46a7-92dd-af9375099585"
-          ],
-          "first_published_at": 1646151039000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6,
-            3,
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            432,
-            396,
-            256,
-            144,
-            342,
-            145,
-            143,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            45,
-            2,
-            0.5,
-            1,
-            1,
-            1,
-            0.23,
-            1.25,
-            10,
-            1.25,
-            1.25
-          ],
-          "average_rating": 0.792,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This hearty, colorful salad has all the good things going on..."
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "This hearty, colorful salad has all the good things going on...",
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 18417,
+  "recipe_id": 2131,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Smoked Salmon Salad with Egg, Roasted Sweet Potato & Pistachios",
+  "slug": "smoked-salmon-salad-egg-roasted-sweet-potato-pistachios",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/thumbnail_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2131/presentation_65408380-69a9-4256-8281-6e674d4f0f75.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "smoked-salmon-salad-egg-roasted-sweet-potato-pistachios",
-    "variantId": "18417"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 301638,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 301639,
+      "primary_message": "Wash, dry, peel, and small dice sweet potatoes. Transfer to a baking sheet pan, drizzle with oil, and season with spices. Toss to coat and spread out in an even layer.",
+      "secondary_message": "1 lb sweet potato\n4 tsp extra virgin olive oil\n½ tsp oregano, dried\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 301640,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing halfway through, until sweet potato is fork-tender, 10-12 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 301641,
+      "primary_message": "Meanwhile, halve eggs and transfer to a large plate.",
+      "secondary_message": "4 hard-cooked eggs, peeled"
+    },
+    {
+      "id": 301642,
+      "primary_message": "Cut or tear salmon into bite-sized pieces and add to the plate with the eggs.",
+      "secondary_message": "2 (4 oz) pkgs smoked salmon"
+    },
+    {
+      "id": 301643,
+      "primary_message": "Peel, halve, and slice shallots into thin half-moons; add to the plate.",
+      "secondary_message": "2 shallots"
+    },
+    {
+      "id": 301644,
+      "primary_message": "Roughly chop pistachios, add to the plate, and set aside.",
+      "secondary_message": "1 cup pistachios, unsalted"
+    },
+    {
+      "id": 301645,
+      "primary_message": "Wash and dry mixed greens. (Skip this step if they came pre-washed.)",
+      "secondary_message": "2 (5 oz) pkgs spring mix (mixed greens)"
+    },
+    {
+      "id": 301646,
+      "primary_message": "To serve, divide mixed greens, shallot, salmon, roasted sweet potato, pistachios, and eggs between plates. Drizzle with vinaigrette and enjoy!",
+      "secondary_message": "⅓ cup French vinaigrette"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 319935,
+      "quantity": "90 ml",
+      "ingredient_name": "French vinaigrette"
+    },
+    {
+      "id": 319934,
+      "quantity": "4",
+      "ingredient_name": "hard-cooked eggs, peeled"
+    },
+    {
+      "id": 319932,
+      "quantity": "1 cup",
+      "ingredient_name": "pistachios, unsalted"
+    },
+    {
+      "id": 319930,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 319933,
+      "quantity": "2 (4 oz) pkgs",
+      "ingredient_name": "smoked salmon"
+    },
+    {
+      "id": 319931,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 319929,
+      "quantity": "1 lb",
+      "ingredient_name": "sweet potato"
+    },
+    {
+      "id": 319926,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 319925,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 319927,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 319928,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 566.35,
+    "alcohol": 0,
+    "ash": 5.56,
+    "caffeine": 0,
+    "water": 238.62,
+    "carbs": 37.24,
+    "fiber": 8.43,
+    "starch": 14.93,
+    "sugars": 9.36,
+    "fructose": 1.22,
+    "galactose": 0.02,
+    "glucose": 1.57,
+    "lactose": 0,
+    "maltose": 0.04,
+    "sucrose": 5.93,
+    "sugar_alcohol": 0.05,
+    "fat": 36.2,
+    "monounsaturated": 13.5,
+    "polyunsaturated": 5.88,
+    "omega_3": 0.18,
+    "omega_6": 5.33,
+    "saturated": 5.04,
+    "transfats": 0.01,
+    "cholesterol": 171.52,
+    "protein": 25.37,
+    "alanine": 1.37,
+    "arginine": 1.76,
+    "aspartic_acid": 2.77,
+    "cystine": 0.38,
+    "glutamic_acid": 3.89,
+    "glycine": 1.11,
+    "histidine": 0.65,
+    "isoleucine": 1.18,
+    "leucine": 1.99,
+    "lysine": 1.85,
+    "methionine": 0.63,
+    "phenylalanine": 1.19,
+    "proline": 0.97,
+    "serine": 1.36,
+    "threonine": 1.08,
+    "tryptophan": 0.31,
+    "tyrosine": 0.8,
+    "valine": 1.42,
+    "b1_thiamine": 0.4,
+    "b2_riboflavin": 0.48,
+    "b3_niacin": 4.06,
+    "b5_pantothenic_acid": 2.39,
+    "b6_pyridoxine": 0.9,
+    "b12_cobalamin": 2.31,
+    "choline": 171.85,
+    "folate": 129.63,
+    "vitamin_a": 16443.86,
+    "vitamin_c": 11.95,
+    "vitamin_d": 0.94,
+    "vitamin_e": 2.58,
+    "vitamin_k": 147.64,
+    "calcium": 134.89,
+    "copper": 0.77,
+    "iron": 4.01,
+    "magnesium": 98.25,
+    "manganese": 1.04,
+    "phosphorus": 394.47,
+    "potassium": 788.22,
+    "selenium": 38.89,
+    "sodium": 1475.23,
+    "zinc": 2.01
+  }
 }

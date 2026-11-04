@@ -1,728 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 8201,
-        "recipe_id": 900,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
-        "slug": "dijon-caper-potato-salad-pork-chops-green-beans",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 174338,
-            "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 174339,
-            "primary_message": "Wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
-            "secondary_message": "1 lb green beans\n1 lb new potatoes\n1 (5 oz) pkg baby arugula"
-          },
-          {
-            "id": 174340,
-            "primary_message": "Trim ends from the green beans; cut potatoes in half.",
-            "secondary_message": null
-          },
-          {
-            "id": 174341,
-            "primary_message": "Add beans to the boiling water and cook until tender-crisp, 1-2 minutes. Using tongs, remove the beans and transfer to a colander, leaving water on the heat. Rinse under cold water and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 174342,
-            "primary_message": "Add potatoes to the boiling water and cook until fork-tender, about 12 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 174343,
-            "primary_message": "Meanwhile, preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 174344,
-            "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
-            "secondary_message": "4 pork chops, boneless\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 174345,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 174346,
-            "primary_message": "Add chops to the skillet and cook, flipping once, until browned on both sides and cooked through, 6-7 minutes. When done, transfer to a plate and cover with aluminum foil; set aside to rest.",
-            "secondary_message": null
-          },
-          {
-            "id": 174347,
-            "primary_message": "Meanwhile, peel and mince the garlic; rinse and roughly chop the capers. Place both in a medium bowl.",
-            "secondary_message": "2 cloves garlic\n2 tbsp capers"
-          },
-          {
-            "id": 174348,
-            "primary_message": "Add oil, vinegar, Dijon, honey, salt, and pepper to the bowl; whisk to combine the dressing.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n2 tbsp white wine vinegar\n4 tsp Dijon mustard\n2 tsp honey\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 174349,
-            "primary_message": "Drain potatoes and rinse under cold water to cool. Add potatoes and green beans to the bowl with the dressing and toss to combine.",
-            "secondary_message": null
-          },
-          {
-            "id": 174350,
-            "primary_message": "Thinly slice the pork chops crosswise into strips.",
-            "secondary_message": null
-          },
-          {
-            "id": 174351,
-            "primary_message": "To serve, divide arugula between plates, top with potato-bean salad and sliced pork. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 181517,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby arugula"
-          },
-          {
-            "id": 181508,
-            "quantity": "2 tbsp",
-            "ingredient_name": "capers"
-          },
-          {
-            "id": 181509,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 181514,
-            "quantity": "1 lb",
-            "ingredient_name": "green beans"
-          },
-          {
-            "id": 181519,
-            "quantity": "1 lb",
-            "ingredient_name": "new potatoes"
-          },
-          {
-            "id": 181518,
-            "quantity": "4",
-            "ingredient_name": "pork chops, boneless"
-          },
-          {
-            "id": 181511,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 181515,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 181510,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 181513,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 181512,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 181516,
-            "quantity": "",
-            "ingredient_name": "white wine vinegar"
-          }
-        ],
-        "nutrition": {
-          "energy": 556.84,
-          "alcohol": 0.01,
-          "ash": 6.12,
-          "caffeine": 0,
-          "water": 338.07,
-          "carbs": 31.3,
-          "fiber": 6.81,
-          "starch": 19.9,
-          "sugars": 8.76,
-          "fructose": 3.82,
-          "galactose": 0.11,
-          "glucose": 3.95,
-          "lactose": 0,
-          "maltose": 0.05,
-          "sucrose": 0.83,
-          "sugar_alcohol": 0,
-          "fat": 33.45,
-          "monounsaturated": 17.98,
-          "polyunsaturated": 4.79,
-          "omega_3": 0.42,
-          "omega_6": 4.36,
-          "saturated": 8.45,
-          "transfats": 0.14,
-          "cholesterol": 85.55,
-          "protein": 36.03,
-          "alanine": 1.93,
-          "arginine": 2.18,
-          "aspartic_acid": 3.64,
-          "cystine": 0.4,
-          "glutamic_acid": 5.31,
-          "glycine": 1.53,
-          "histidine": 1.33,
-          "isoleucine": 1.61,
-          "leucine": 2.77,
-          "lysine": 2.95,
-          "methionine": 0.9,
-          "phenylalanine": 1.44,
-          "proline": 1.4,
-          "serine": 1.48,
-          "threonine": 1.51,
-          "tryptophan": 0.41,
-          "tyrosine": 1.32,
-          "valine": 1.77,
-          "b1_thiamine": 1.09,
-          "b2_riboflavin": 0.5,
-          "b3_niacin": 13.02,
-          "b5_pantothenic_acid": 1.72,
-          "b6_pyridoxine": 0.93,
-          "b12_cobalamin": 0.62,
-          "choline": 122.11,
-          "folate": 94.66,
-          "vitamin_a": 870.84,
-          "vitamin_c": 30.52,
-          "vitamin_d": 15.95,
-          "vitamin_e": 2.93,
-          "vitamin_k": 67.03,
-          "calcium": 132.79,
-          "copper": 0.35,
-          "iron": 3.36,
-          "magnesium": 107.49,
-          "manganese": 0.7,
-          "phosphorus": 436.29,
-          "potassium": 1355.73,
-          "selenium": 62.69,
-          "sodium": 155.58,
-          "zinc": 2.77
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/dijon-caper-potato-salad-pork-chops-green-beans/8201",
-      "altVariants": [
-        {
-          "id": 8201,
-          "recipe_id": 900,
-          "group_label": "Default",
-          "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "published_recipe_uuid": "b091aa2f-a6e7-45c8-ac79-24498155a5f8",
-          "fallback_published_recipe_uuids": [
-            "7b867aac-add5-4e04-b46a-7e99dab3a7bc"
-          ],
-          "first_published_at": 1569213672000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            15,
-            24,
-            111,
-            238,
-            180,
-            72,
-            117,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            1,
-            1,
-            4,
-            3.75,
-            20,
-            60,
-            10,
-            5,
-            30
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            20,
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8202,
-          "recipe_id": 900,
-          "group_label": "Default",
-          "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "published_recipe_uuid": "5de15a1c-5391-4d41-9655-c89892f692a2",
-          "fallback_published_recipe_uuids": [
-            "ba9f63bd-91ff-47c8-abd9-c7b6a38c9506"
-          ],
-          "first_published_at": 1569213673000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            15,
-            24,
-            111,
-            238,
-            180,
-            72,
-            117,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            1.5,
-            1.5,
-            6,
-            6.25,
-            30,
-            90,
-            15,
-            7.5,
-            45
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            20,
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8200,
-          "recipe_id": 900,
-          "group_label": "Default",
-          "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "published_recipe_uuid": "5f89e45d-72ca-428e-a6ec-6e5ee41e7dfb",
-          "fallback_published_recipe_uuids": [
-            "c4e9dacc-d304-49b6-b283-3f41eae9e353"
-          ],
-          "first_published_at": 1569213672000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            15,
-            24,
-            111,
-            238,
-            180,
-            72,
-            117,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.5,
-            0.5,
-            2,
-            1.875,
-            10,
-            30,
-            5,
-            2.5,
-            15
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            20,
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8205,
-          "recipe_id": 900,
-          "group_label": "Default",
-          "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "published_recipe_uuid": "d59f543a-74a0-4928-8503-aaba9cd68d0d",
-          "fallback_published_recipe_uuids": [
-            "8e603c9e-c88b-41af-a328-c39715083996"
-          ],
-          "first_published_at": 1569213673000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            15,
-            24,
-            111,
-            238,
-            180,
-            72,
-            117,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            0.68,
-            0.68,
-            6,
-            6.25,
-            30,
-            90,
-            15,
-            7.5,
-            45
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            20,
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8204,
-          "recipe_id": 900,
-          "group_label": "Default",
-          "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "published_recipe_uuid": "1b5fe235-9648-4bc0-8f76-ad7d6dacc685",
-          "fallback_published_recipe_uuids": [
-            "c0b9fe3b-db25-45db-a593-c34d52015683"
-          ],
-          "first_published_at": 1569213673000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            15,
-            24,
-            111,
-            238,
-            180,
-            72,
-            117,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            0.45,
-            0.45,
-            4,
-            3.75,
-            20,
-            60,
-            10,
-            5,
-            30
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            20,
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8203,
-          "recipe_id": 900,
-          "group_label": "Default",
-          "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
-          "published_recipe_uuid": "a9911e52-bdcd-42a2-8191-f93efee54515",
-          "fallback_published_recipe_uuids": [
-            "0fc4227e-ea51-42b8-8691-9a2269f06bbe"
-          ],
-          "first_published_at": 1569213673000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            15,
-            24,
-            111,
-            238,
-            180,
-            72,
-            117,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.23,
-            0.23,
-            2,
-            1.875,
-            10,
-            30,
-            5,
-            2.5,
-            15
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            20,
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads",
-          "Chops"
-        ],
-        "cuisine": "Southern",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 8201,
+  "recipe_id": 900,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Dijon-Caper Potato Salad with Pork Chops & Green Beans",
+  "slug": "dijon-caper-potato-salad-pork-chops-green-beans",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/thumbnail_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/900/presentation_058ac8ae-d32d-4626-8f75-fb5a1849f363.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "dijon-caper-potato-salad-pork-chops-green-beans",
-    "variantId": "8201"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 174338,
+      "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 174339,
+      "primary_message": "Wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
+      "secondary_message": "1 lb green beans\n1 lb new potatoes\n1 (5 oz) pkg baby arugula"
+    },
+    {
+      "id": 174340,
+      "primary_message": "Trim ends from the green beans; cut potatoes in half.",
+      "secondary_message": null
+    },
+    {
+      "id": 174341,
+      "primary_message": "Add beans to the boiling water and cook until tender-crisp, 1-2 minutes. Using tongs, remove the beans and transfer to a colander, leaving water on the heat. Rinse under cold water and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 174342,
+      "primary_message": "Add potatoes to the boiling water and cook until fork-tender, about 12 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 174343,
+      "primary_message": "Meanwhile, preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 174344,
+      "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
+      "secondary_message": "4 pork chops, boneless\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 174345,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 174346,
+      "primary_message": "Add chops to the skillet and cook, flipping once, until browned on both sides and cooked through, 6-7 minutes. When done, transfer to a plate and cover with aluminum foil; set aside to rest.",
+      "secondary_message": null
+    },
+    {
+      "id": 174347,
+      "primary_message": "Meanwhile, peel and mince the garlic; rinse and roughly chop the capers. Place both in a medium bowl.",
+      "secondary_message": "2 cloves garlic\n2 tbsp capers"
+    },
+    {
+      "id": 174348,
+      "primary_message": "Add oil, vinegar, Dijon, honey, salt, and pepper to the bowl; whisk to combine the dressing.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n2 tbsp white wine vinegar\n4 tsp Dijon mustard\n2 tsp honey\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 174349,
+      "primary_message": "Drain potatoes and rinse under cold water to cool. Add potatoes and green beans to the bowl with the dressing and toss to combine.",
+      "secondary_message": null
+    },
+    {
+      "id": 174350,
+      "primary_message": "Thinly slice the pork chops crosswise into strips.",
+      "secondary_message": null
+    },
+    {
+      "id": 174351,
+      "primary_message": "To serve, divide arugula between plates, top with potato-bean salad and sliced pork. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 181517,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby arugula"
+    },
+    {
+      "id": 181508,
+      "quantity": "2 tbsp",
+      "ingredient_name": "capers"
+    },
+    {
+      "id": 181509,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 181514,
+      "quantity": "1 lb",
+      "ingredient_name": "green beans"
+    },
+    {
+      "id": 181519,
+      "quantity": "1 lb",
+      "ingredient_name": "new potatoes"
+    },
+    {
+      "id": 181518,
+      "quantity": "4",
+      "ingredient_name": "pork chops, boneless"
+    },
+    {
+      "id": 181511,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 181515,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 181510,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 181513,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 181512,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 181516,
+      "quantity": "",
+      "ingredient_name": "white wine vinegar"
+    }
+  ],
+  "nutrition": {
+    "energy": 556.84,
+    "alcohol": 0.01,
+    "ash": 6.12,
+    "caffeine": 0,
+    "water": 338.07,
+    "carbs": 31.3,
+    "fiber": 6.81,
+    "starch": 19.9,
+    "sugars": 8.76,
+    "fructose": 3.82,
+    "galactose": 0.11,
+    "glucose": 3.95,
+    "lactose": 0,
+    "maltose": 0.05,
+    "sucrose": 0.83,
+    "sugar_alcohol": 0,
+    "fat": 33.45,
+    "monounsaturated": 17.98,
+    "polyunsaturated": 4.79,
+    "omega_3": 0.42,
+    "omega_6": 4.36,
+    "saturated": 8.45,
+    "transfats": 0.14,
+    "cholesterol": 85.55,
+    "protein": 36.03,
+    "alanine": 1.93,
+    "arginine": 2.18,
+    "aspartic_acid": 3.64,
+    "cystine": 0.4,
+    "glutamic_acid": 5.31,
+    "glycine": 1.53,
+    "histidine": 1.33,
+    "isoleucine": 1.61,
+    "leucine": 2.77,
+    "lysine": 2.95,
+    "methionine": 0.9,
+    "phenylalanine": 1.44,
+    "proline": 1.4,
+    "serine": 1.48,
+    "threonine": 1.51,
+    "tryptophan": 0.41,
+    "tyrosine": 1.32,
+    "valine": 1.77,
+    "b1_thiamine": 1.09,
+    "b2_riboflavin": 0.5,
+    "b3_niacin": 13.02,
+    "b5_pantothenic_acid": 1.72,
+    "b6_pyridoxine": 0.93,
+    "b12_cobalamin": 0.62,
+    "choline": 122.11,
+    "folate": 94.66,
+    "vitamin_a": 870.84,
+    "vitamin_c": 30.52,
+    "vitamin_d": 15.95,
+    "vitamin_e": 2.93,
+    "vitamin_k": 67.03,
+    "calcium": 132.79,
+    "copper": 0.35,
+    "iron": 3.36,
+    "magnesium": 107.49,
+    "manganese": 0.7,
+    "phosphorus": 436.29,
+    "potassium": 1355.73,
+    "selenium": 62.69,
+    "sodium": 155.58,
+    "zinc": 2.77
+  }
 }

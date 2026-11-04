@@ -1,854 +1,325 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 15705,
-        "recipe_id": 1861,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
-        "slug": "greek-mushroom-burger-olive-mayo-creamy-sun-dried-tomato-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 258106,
-            "primary_message": "Preheat oven to broil on high and position rack about 6-inches from the top. Line a baking sheet pan with aluminum foil to make clean up easier (optional).",
-            "secondary_message": null
-          },
-          {
-            "id": 258107,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 caps portobello mushrooms\n1 lemon\n1 English cucumber\n2 tomatoes\n1 head butter (Boston) lettuce"
-          },
-          {
-            "id": 258108,
-            "primary_message": "Remove stems from the mushrooms and carefully scrape out the gills. Place on the baking sheet, rub both sides with oil, season with salt and pepper, and arrange gill-side down.",
-            "secondary_message": "4 tsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 258109,
-            "primary_message": "Place mushrooms in the oven and broil until tops are soft, about 4 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 258110,
-            "primary_message": "Meanwhile, mince olives and place in a small bowl.",
-            "secondary_message": "¼ cup Kalamata olives, pitted"
-          },
-          {
-            "id": 258111,
-            "primary_message": "Zest lemon into the bowl with the olives (reserve lemon for later use); add mayo and spices. Stir to combine the olive mayo and set aside.",
-            "secondary_message": "⅓ cup mayonnaise\n½ tsp garlic powder\n⅛ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 258112,
-            "primary_message": "When the tops of the mushrooms are soft, remove from the oven and flip. Fill mushrooms with half the feta (setting remaining feta aside for the dressing), return to the oven, and continue to broil until tender and cheese is golden, 4 minutes more. Remove from oven.",
-            "secondary_message": "2 (4 oz) pkgs crumbled feta cheese"
-          },
-          {
-            "id": 258113,
-            "primary_message": "While the mushrooms are cooking, juice reserved lemon into a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 258114,
-            "primary_message": "Mince sun-dried tomatoes and add to the bowl with the lemon juice. Add reserved feta, yogurt, oil, and spices; whisk to combine the dressing.",
-            "secondary_message": "8 sun-dried tomatoes, oil-packed\n¼ cup plain Greek yogurt\n2 tsp extra virgin olive oil\n½ tsp oregano, dried\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 258115,
-            "primary_message": "Trim and medium dice cucumber; add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 258116,
-            "primary_message": "Medium dice one tomato and add to the bowl. Thinly slice the remaining tomato and set aside for serving.",
-            "secondary_message": null
-          },
-          {
-            "id": 258117,
-            "primary_message": "Separate the lettuce leaves. Set aside 1 leaf per burger and chop or tear remaining leaves into bite-sized pieces. Add chopped lettuce to the bowl, along with pine nuts, and toss to combine the salad.",
-            "secondary_message": "½ cup pine nuts"
-          },
-          {
-            "id": 258118,
-            "primary_message": "Toast buns if desired.",
-            "secondary_message": "4 whole grain buns or rolls"
-          },
-          {
-            "id": 258119,
-            "primary_message": "Spread olive mayo over the bottom half of each bun; top with feta-stuffed mushrooms, tomato, and reserved lettuce. Close with the top half of each bun.",
-            "secondary_message": null
-          },
-          {
-            "id": 258120,
-            "primary_message": "To serve, divide mushroom burgers and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 271704,
-            "quantity": "1 head",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 271688,
-            "quantity": "2 (4 oz) pkgs",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 271696,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 271699,
-            "quantity": "¼ cup",
-            "ingredient_name": "Kalamata olives, pitted"
-          },
-          {
-            "id": 271698,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 271700,
-            "quantity": "½ cup",
-            "ingredient_name": "pine nuts"
-          },
-          {
-            "id": 271694,
-            "quantity": "¼ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 271701,
-            "quantity": "4 caps",
-            "ingredient_name": "portobello mushrooms"
-          },
-          {
-            "id": 271697,
-            "quantity": "8",
-            "ingredient_name": "sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 271702,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 271695,
-            "quantity": "4",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 271690,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 271689,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 271691,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 271703,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 271692,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 271693,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 679.75,
-          "alcohol": 0,
-          "ash": 8.46,
-          "caffeine": 0,
-          "water": 325.15,
-          "carbs": 36.18,
-          "fiber": 7.27,
-          "starch": 11.52,
-          "sugars": 14.65,
-          "fructose": 4.53,
-          "galactose": 0.11,
-          "glucose": 4.85,
-          "lactose": 2.7,
-          "maltose": 1.46,
-          "sucrose": 0.99,
-          "sugar_alcohol": 0,
-          "fat": 52.78,
-          "monounsaturated": 16,
-          "polyunsaturated": 17.73,
-          "omega_3": 1.49,
-          "omega_6": 15.57,
-          "saturated": 13.51,
-          "transfats": 1.06,
-          "cholesterol": 64.75,
-          "protein": 21.55,
-          "alanine": 0.86,
-          "arginine": 1,
-          "aspartic_acid": 1.38,
-          "cystine": 0.21,
-          "glutamic_acid": 3.9,
-          "glycine": 0.45,
-          "histidine": 0.46,
-          "isoleucine": 0.85,
-          "leucine": 1.5,
-          "lysine": 1.18,
-          "methionine": 0.37,
-          "phenylalanine": 0.79,
-          "proline": 1.4,
-          "serine": 1.16,
-          "threonine": 0.72,
-          "tryptophan": 0.25,
-          "tyrosine": 0.65,
-          "valine": 1.06,
-          "b1_thiamine": 0.44,
-          "b2_riboflavin": 0.86,
-          "b3_niacin": 7.98,
-          "b5_pantothenic_acid": 2.31,
-          "b6_pyridoxine": 0.63,
-          "b12_cobalamin": 1.14,
-          "choline": 75.96,
-          "folate": 120.77,
-          "vitamin_a": 859.93,
-          "vitamin_c": 23.54,
-          "vitamin_d": 20.19,
-          "vitamin_e": 4.92,
-          "vitamin_k": 110.16,
-          "calcium": 387.85,
-          "copper": 0.76,
-          "iron": 3.89,
-          "magnesium": 128.79,
-          "manganese": 2.79,
-          "phosphorus": 549.98,
-          "potassium": 940.29,
-          "selenium": 52.37,
-          "sodium": 948.47,
-          "zinc": 4.47
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/greek-mushroom-burger-olive-mayo-creamy-sun-dried-tomato-salad/15705",
-      "altVariants": [
-        {
-          "id": 15705,
-          "recipe_id": 1861,
-          "group_label": "Default",
-          "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "published_recipe_uuid": "d8704e0f-1ed0-4797-9c4d-3aa164662078",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1639771345000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            10,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            308,
-            32,
-            155,
-            203,
-            192,
-            216,
-            122,
-            231,
-            162,
-            260,
-            128,
-            72,
-            47,
-            79,
-            267,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            0.25,
-            1,
-            0.5,
-            0.25,
-            4,
-            8,
-            2,
-            4,
-            4.375,
-            30,
-            2.5,
-            90,
-            2.5,
-            4.375
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Bite into this juicy portobello mushroom burger and forget about all your problems. Your only problem will be, \"Where has this been all my life?\""
-        },
-        {
-          "id": 15704,
-          "recipe_id": 1861,
-          "group_label": "Default",
-          "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "published_recipe_uuid": "c118bbee-7cee-46e1-af38-f1596c0376f8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1639771345000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            10,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            308,
-            32,
-            155,
-            203,
-            192,
-            216,
-            122,
-            231,
-            162,
-            260,
-            128,
-            72,
-            47,
-            79,
-            267,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.125,
-            0.5,
-            0.25,
-            0.125,
-            2,
-            4,
-            1,
-            2,
-            2.1875,
-            15,
-            1.25,
-            45,
-            1.25,
-            2.1875
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Bite into this juicy portobello mushroom burger and forget about all your problems. Your only problem will be, \"Where has this been all my life?\""
-        },
-        {
-          "id": 15706,
-          "recipe_id": 1861,
-          "group_label": "Default",
-          "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "published_recipe_uuid": "323839fb-dfe5-4791-9dc7-194742f48308",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1639771346000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            10,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            308,
-            32,
-            155,
-            203,
-            192,
-            216,
-            122,
-            231,
-            162,
-            260,
-            128,
-            72,
-            47,
-            79,
-            267,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            0.3333333333333333,
-            1.5,
-            0.75,
-            0.3333333333333333,
-            6,
-            12,
-            3,
-            6,
-            7.1875,
-            45,
-            3.75,
-            135,
-            3.75,
-            7.1875
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Bite into this juicy portobello mushroom burger and forget about all your problems. Your only problem will be, \"Where has this been all my life?\""
-        },
-        {
-          "id": 15709,
-          "recipe_id": 1861,
-          "group_label": "Default",
-          "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "published_recipe_uuid": "11e92806-8f4b-4a9d-a03a-b42c4e6d792e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1639771347000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            10,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            308,
-            32,
-            155,
-            203,
-            192,
-            216,
-            122,
-            231,
-            162,
-            260,
-            128,
-            72,
-            47,
-            79,
-            267,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            0.3333333333333333,
-            1.5,
-            0.75,
-            0.3333333333333333,
-            6,
-            12,
-            3,
-            6,
-            7.1875,
-            45,
-            3.75,
-            135,
-            3.75,
-            7.1875
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Bite into this juicy portobello mushroom burger and forget about all your problems. Your only problem will be, \"Where has this been all my life?\""
-        },
-        {
-          "id": 15708,
-          "recipe_id": 1861,
-          "group_label": "Default",
-          "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "published_recipe_uuid": "d6edadb1-681b-4b44-84ab-aa14adff1d36",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1639771346000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            10,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            308,
-            32,
-            155,
-            203,
-            192,
-            216,
-            122,
-            231,
-            162,
-            260,
-            128,
-            72,
-            47,
-            79,
-            267,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            0.25,
-            1,
-            0.5,
-            0.25,
-            4,
-            8,
-            2,
-            4,
-            4.375,
-            30,
-            2.5,
-            90,
-            2.5,
-            4.375
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Bite into this juicy portobello mushroom burger and forget about all your problems. Your only problem will be, \"Where has this been all my life?\""
-        },
-        {
-          "id": 15707,
-          "recipe_id": 1861,
-          "group_label": "Default",
-          "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
-          "published_recipe_uuid": "ed574299-6d6d-44d6-bc07-7579a07ffc87",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1639771346000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            10,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            308,
-            32,
-            155,
-            203,
-            192,
-            216,
-            122,
-            231,
-            162,
-            260,
-            128,
-            72,
-            47,
-            79,
-            267,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.125,
-            0.5,
-            0.25,
-            0.125,
-            2,
-            4,
-            1,
-            2,
-            2.1875,
-            15,
-            1.25,
-            45,
-            1.25,
-            2.1875
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Bite into this juicy portobello mushroom burger and forget about all your problems. Your only problem will be, \"Where has this been all my life?\""
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Bite into this juicy portobello mushroom burger and forget about all your problems. Your only problem will be, \"Where has this been all my life?\"",
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "Greek",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 15705,
+  "recipe_id": 1861,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Greek Mushroom Burger with Olive Mayo & Creamy Sun-Dried Tomato Salad",
+  "slug": "greek-mushroom-burger-olive-mayo-creamy-sun-dried-tomato-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/thumbnail_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1861/presentation_f3337c4a-a0ba-48f1-a8e7-366ac55aef07.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "greek-mushroom-burger-olive-mayo-creamy-sun-dried-tomato-salad",
-    "variantId": "15705"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 258106,
+      "primary_message": "Preheat oven to broil on high and position rack about 6-inches from the top. Line a baking sheet pan with aluminum foil to make clean up easier (optional).",
+      "secondary_message": null
+    },
+    {
+      "id": 258107,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 caps portobello mushrooms\n1 lemon\n1 English cucumber\n2 tomatoes\n1 head butter (Boston) lettuce"
+    },
+    {
+      "id": 258108,
+      "primary_message": "Remove stems from the mushrooms and carefully scrape out the gills. Place on the baking sheet, rub both sides with oil, season with salt and pepper, and arrange gill-side down.",
+      "secondary_message": "4 tsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 258109,
+      "primary_message": "Place mushrooms in the oven and broil until tops are soft, about 4 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 258110,
+      "primary_message": "Meanwhile, mince olives and place in a small bowl.",
+      "secondary_message": "¼ cup Kalamata olives, pitted"
+    },
+    {
+      "id": 258111,
+      "primary_message": "Zest lemon into the bowl with the olives (reserve lemon for later use); add mayo and spices. Stir to combine the olive mayo and set aside.",
+      "secondary_message": "⅓ cup mayonnaise\n½ tsp garlic powder\n⅛ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 258112,
+      "primary_message": "When the tops of the mushrooms are soft, remove from the oven and flip. Fill mushrooms with half the feta (setting remaining feta aside for the dressing), return to the oven, and continue to broil until tender and cheese is golden, 4 minutes more. Remove from oven.",
+      "secondary_message": "2 (4 oz) pkgs crumbled feta cheese"
+    },
+    {
+      "id": 258113,
+      "primary_message": "While the mushrooms are cooking, juice reserved lemon into a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 258114,
+      "primary_message": "Mince sun-dried tomatoes and add to the bowl with the lemon juice. Add reserved feta, yogurt, oil, and spices; whisk to combine the dressing.",
+      "secondary_message": "8 sun-dried tomatoes, oil-packed\n¼ cup plain Greek yogurt\n2 tsp extra virgin olive oil\n½ tsp oregano, dried\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 258115,
+      "primary_message": "Trim and medium dice cucumber; add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 258116,
+      "primary_message": "Medium dice one tomato and add to the bowl. Thinly slice the remaining tomato and set aside for serving.",
+      "secondary_message": null
+    },
+    {
+      "id": 258117,
+      "primary_message": "Separate the lettuce leaves. Set aside 1 leaf per burger and chop or tear remaining leaves into bite-sized pieces. Add chopped lettuce to the bowl, along with pine nuts, and toss to combine the salad.",
+      "secondary_message": "½ cup pine nuts"
+    },
+    {
+      "id": 258118,
+      "primary_message": "Toast buns if desired.",
+      "secondary_message": "4 whole grain buns or rolls"
+    },
+    {
+      "id": 258119,
+      "primary_message": "Spread olive mayo over the bottom half of each bun; top with feta-stuffed mushrooms, tomato, and reserved lettuce. Close with the top half of each bun.",
+      "secondary_message": null
+    },
+    {
+      "id": 258120,
+      "primary_message": "To serve, divide mushroom burgers and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 271704,
+      "quantity": "1 head",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 271688,
+      "quantity": "2 (4 oz) pkgs",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 271696,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 271699,
+      "quantity": "¼ cup",
+      "ingredient_name": "Kalamata olives, pitted"
+    },
+    {
+      "id": 271698,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 271700,
+      "quantity": "½ cup",
+      "ingredient_name": "pine nuts"
+    },
+    {
+      "id": 271694,
+      "quantity": "¼ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 271701,
+      "quantity": "4 caps",
+      "ingredient_name": "portobello mushrooms"
+    },
+    {
+      "id": 271697,
+      "quantity": "8",
+      "ingredient_name": "sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 271702,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 271695,
+      "quantity": "4",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 271690,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 271689,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 271691,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 271703,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 271692,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 271693,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 679.75,
+    "alcohol": 0,
+    "ash": 8.46,
+    "caffeine": 0,
+    "water": 325.15,
+    "carbs": 36.18,
+    "fiber": 7.27,
+    "starch": 11.52,
+    "sugars": 14.65,
+    "fructose": 4.53,
+    "galactose": 0.11,
+    "glucose": 4.85,
+    "lactose": 2.7,
+    "maltose": 1.46,
+    "sucrose": 0.99,
+    "sugar_alcohol": 0,
+    "fat": 52.78,
+    "monounsaturated": 16,
+    "polyunsaturated": 17.73,
+    "omega_3": 1.49,
+    "omega_6": 15.57,
+    "saturated": 13.51,
+    "transfats": 1.06,
+    "cholesterol": 64.75,
+    "protein": 21.55,
+    "alanine": 0.86,
+    "arginine": 1,
+    "aspartic_acid": 1.38,
+    "cystine": 0.21,
+    "glutamic_acid": 3.9,
+    "glycine": 0.45,
+    "histidine": 0.46,
+    "isoleucine": 0.85,
+    "leucine": 1.5,
+    "lysine": 1.18,
+    "methionine": 0.37,
+    "phenylalanine": 0.79,
+    "proline": 1.4,
+    "serine": 1.16,
+    "threonine": 0.72,
+    "tryptophan": 0.25,
+    "tyrosine": 0.65,
+    "valine": 1.06,
+    "b1_thiamine": 0.44,
+    "b2_riboflavin": 0.86,
+    "b3_niacin": 7.98,
+    "b5_pantothenic_acid": 2.31,
+    "b6_pyridoxine": 0.63,
+    "b12_cobalamin": 1.14,
+    "choline": 75.96,
+    "folate": 120.77,
+    "vitamin_a": 859.93,
+    "vitamin_c": 23.54,
+    "vitamin_d": 20.19,
+    "vitamin_e": 4.92,
+    "vitamin_k": 110.16,
+    "calcium": 387.85,
+    "copper": 0.76,
+    "iron": 3.89,
+    "magnesium": 128.79,
+    "manganese": 2.79,
+    "phosphorus": 549.98,
+    "potassium": 940.29,
+    "selenium": 52.37,
+    "sodium": 948.47,
+    "zinc": 4.47
+  }
 }

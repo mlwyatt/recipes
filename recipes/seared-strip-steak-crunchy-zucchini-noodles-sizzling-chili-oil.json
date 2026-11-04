@@ -1,623 +1,220 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 26525,
-        "recipe_id": 3007,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
-        "slug": "seared-strip-steak-crunchy-zucchini-noodles-sizzling-chili-oil",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 86,
-            "name": "julienne peeler (optional)",
-            "slug": "julienne-peeler"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 430163,
-            "primary_message": "Wash, dry, and trim zucchini; use a julienne (or regular) peeler to make noodles. Place in a large bowl and set aside.",
-            "secondary_message": "6 medium zucchini squash"
-          },
-          {
-            "id": 430164,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 430165,
-            "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate; season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 430166,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate and set aside to rest, 5 minutes. (Reserve skillet for later use.)",
-            "secondary_message": "4 tsp toasted sesame oil"
-          },
-          {
-            "id": 430167,
-            "primary_message": "Meanwhile, wash, dry, peel, and mince ginger. Peel and mince garlic. Place both in a small bowl along with oil, crushed red pepper, and salt. Stir to combine the chili oil.",
-            "secondary_message": "2 (1 inch) pieces ginger root\n2 cloves garlic\n⅓ cup toasted sesame oil\n2 tsp crushed red pepper\n¼ tsp salt"
-          },
-          {
-            "id": 430168,
-            "primary_message": "Return skillet to medium heat. Once hot, add chili oil and cook until sizzling and fragrant, about 30 seconds. Remove from heat and immediately drizzle over the zucchini noodles. Toss to coat.",
-            "secondary_message": null
-          },
-          {
-            "id": 430169,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": null
-          },
-          {
-            "id": 430170,
-            "primary_message": "To serve, divide steak and zucchini noodles between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 461006,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 461012,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 461013,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 461011,
-            "quantity": "6 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 461008,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 461009,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 461010,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 461007,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 633.7,
-          "alcohol": 0,
-          "ash": 5.37,
-          "caffeine": 0,
-          "water": 394.77,
-          "carbs": 11.49,
-          "fiber": 3.42,
-          "starch": 1.11,
-          "sugars": 7.57,
-          "fructose": 4.17,
-          "galactose": 0,
-          "glucose": 3.24,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.15,
-          "sugar_alcohol": 0,
-          "fat": 49.23,
-          "monounsaturated": 21.11,
-          "polyunsaturated": 12.07,
-          "omega_3": 0.32,
-          "omega_6": 11.72,
-          "saturated": 13.56,
-          "transfats": 1.35,
-          "cholesterol": 103.76,
-          "protein": 39.85,
-          "alanine": 2.42,
-          "arginine": 2.59,
-          "aspartic_acid": 3.93,
-          "cystine": 0.4,
-          "glutamic_acid": 6.26,
-          "glycine": 1.92,
-          "histidine": 1.41,
-          "isoleucine": 1.81,
-          "leucine": 3.29,
-          "lysine": 3.6,
-          "methionine": 1.02,
-          "phenylalanine": 1.57,
-          "proline": 1.72,
-          "serine": 1.62,
-          "threonine": 1.78,
-          "tryptophan": 0.44,
-          "tyrosine": 1.43,
-          "valine": 1.97,
-          "b1_thiamine": 0.22,
-          "b2_riboflavin": 0.6,
-          "b3_niacin": 12.16,
-          "b5_pantothenic_acid": 1.21,
-          "b6_pyridoxine": 1.45,
-          "b12_cobalamin": 2.77,
-          "choline": 121.36,
-          "folate": 77.42,
-          "vitamin_a": 613.91,
-          "vitamin_c": 54.1,
-          "vitamin_d": 6.8,
-          "vitamin_e": 1.39,
-          "vitamin_k": 19.87,
-          "calcium": 81.09,
-          "copper": 0.25,
-          "iron": 4.45,
-          "magnesium": 74.98,
-          "manganese": 0.62,
-          "phosphorus": 437.39,
-          "potassium": 1230.85,
-          "selenium": 33.26,
-          "sodium": 100.52,
-          "zinc": 6.75
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/seared-strip-steak-crunchy-zucchini-noodles-sizzling-chili-oil/26525",
-      "altVariants": [
-        {
-          "id": 26524,
-          "recipe_id": 3007,
-          "group_label": "Default",
-          "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "published_recipe_uuid": "871f92ff-fea1-4b4f-b659-5e680e138009",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695840025000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            221,
-            279,
-            140,
-            72,
-            85,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.75,
-            3,
-            1.25,
-            5,
-            3.125,
-            55
-          ],
-          "average_rating": 0.799,
-          "rating_count": 36,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26526,
-          "recipe_id": 3007,
-          "group_label": "Default",
-          "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "published_recipe_uuid": "6ca19694-8eae-469b-8c55-00053330c910",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695840024000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            221,
-            279,
-            140,
-            72,
-            85,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            2.25,
-            9,
-            3.75,
-            15,
-            10,
-            165
-          ],
-          "average_rating": 0.799,
-          "rating_count": 36,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26525,
-          "recipe_id": 3007,
-          "group_label": "Default",
-          "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "published_recipe_uuid": "063fc661-d75f-4924-8647-febe1d398586",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695840024000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            221,
-            279,
-            140,
-            72,
-            85,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1.5,
-            6,
-            2.5,
-            10,
-            6.25,
-            110
-          ],
-          "average_rating": 0.799,
-          "rating_count": 36,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26529,
-          "recipe_id": 3007,
-          "group_label": "Default",
-          "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "published_recipe_uuid": "62d607e3-763c-4b8e-80af-0e7242caa4e1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695840023000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            221,
-            279,
-            140,
-            72,
-            85,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.02,
-            9,
-            3.75,
-            15,
-            10,
-            165
-          ],
-          "average_rating": 0.799,
-          "rating_count": 36,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26528,
-          "recipe_id": 3007,
-          "group_label": "Default",
-          "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "published_recipe_uuid": "0b837efa-790e-4d77-aa22-3b3b2a41acd2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695840023000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            221,
-            279,
-            140,
-            72,
-            85,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.68,
-            6,
-            2.5,
-            10,
-            6.25,
-            110
-          ],
-          "average_rating": 0.799,
-          "rating_count": 36,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26527,
-          "recipe_id": 3007,
-          "group_label": "Default",
-          "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
-          "published_recipe_uuid": "35e16bf7-add4-4958-80ad-5a31ec8e1b2f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695840023000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            221,
-            279,
-            140,
-            72,
-            85,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.34,
-            3,
-            1.25,
-            5,
-            3.125,
-            55
-          ],
-          "average_rating": 0.799,
-          "rating_count": 36,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 26525,
+  "recipe_id": 3007,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Seared Strip Steak with Crunchy Zucchini Noodles & Sizzling Chili Oil",
+  "slug": "seared-strip-steak-crunchy-zucchini-noodles-sizzling-chili-oil",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/thumbnail_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3007/presentation_0b44da52-4585-4700-813a-3233860f96e5.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "seared-strip-steak-crunchy-zucchini-noodles-sizzling-chili-oil",
-    "variantId": "26525"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 86,
+      "name": "julienne peeler (optional)",
+      "slug": "julienne-peeler"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 430163,
+      "primary_message": "Wash, dry, and trim zucchini; use a julienne (or regular) peeler to make noodles. Place in a large bowl and set aside.",
+      "secondary_message": "6 medium zucchini squash"
+    },
+    {
+      "id": 430164,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 430165,
+      "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate; season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 430166,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate and set aside to rest, 5 minutes. (Reserve skillet for later use.)",
+      "secondary_message": "4 tsp toasted sesame oil"
+    },
+    {
+      "id": 430167,
+      "primary_message": "Meanwhile, wash, dry, peel, and mince ginger. Peel and mince garlic. Place both in a small bowl along with oil, crushed red pepper, and salt. Stir to combine the chili oil.",
+      "secondary_message": "2 (1 inch) pieces ginger root\n2 cloves garlic\n⅓ cup toasted sesame oil\n2 tsp crushed red pepper\n¼ tsp salt"
+    },
+    {
+      "id": 430168,
+      "primary_message": "Return skillet to medium heat. Once hot, add chili oil and cook until sizzling and fragrant, about 30 seconds. Remove from heat and immediately drizzle over the zucchini noodles. Toss to coat.",
+      "secondary_message": null
+    },
+    {
+      "id": 430169,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": null
+    },
+    {
+      "id": 430170,
+      "primary_message": "To serve, divide steak and zucchini noodles between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 461006,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 461012,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 461013,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 461011,
+      "quantity": "6 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 461008,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 461009,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 461010,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 461007,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 633.7,
+    "alcohol": 0,
+    "ash": 5.37,
+    "caffeine": 0,
+    "water": 394.77,
+    "carbs": 11.49,
+    "fiber": 3.42,
+    "starch": 1.11,
+    "sugars": 7.57,
+    "fructose": 4.17,
+    "galactose": 0,
+    "glucose": 3.24,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.15,
+    "sugar_alcohol": 0,
+    "fat": 49.23,
+    "monounsaturated": 21.11,
+    "polyunsaturated": 12.07,
+    "omega_3": 0.32,
+    "omega_6": 11.72,
+    "saturated": 13.56,
+    "transfats": 1.35,
+    "cholesterol": 103.76,
+    "protein": 39.85,
+    "alanine": 2.42,
+    "arginine": 2.59,
+    "aspartic_acid": 3.93,
+    "cystine": 0.4,
+    "glutamic_acid": 6.26,
+    "glycine": 1.92,
+    "histidine": 1.41,
+    "isoleucine": 1.81,
+    "leucine": 3.29,
+    "lysine": 3.6,
+    "methionine": 1.02,
+    "phenylalanine": 1.57,
+    "proline": 1.72,
+    "serine": 1.62,
+    "threonine": 1.78,
+    "tryptophan": 0.44,
+    "tyrosine": 1.43,
+    "valine": 1.97,
+    "b1_thiamine": 0.22,
+    "b2_riboflavin": 0.6,
+    "b3_niacin": 12.16,
+    "b5_pantothenic_acid": 1.21,
+    "b6_pyridoxine": 1.45,
+    "b12_cobalamin": 2.77,
+    "choline": 121.36,
+    "folate": 77.42,
+    "vitamin_a": 613.91,
+    "vitamin_c": 54.1,
+    "vitamin_d": 6.8,
+    "vitamin_e": 1.39,
+    "vitamin_k": 19.87,
+    "calcium": 81.09,
+    "copper": 0.25,
+    "iron": 4.45,
+    "magnesium": 74.98,
+    "manganese": 0.62,
+    "phosphorus": 437.39,
+    "potassium": 1230.85,
+    "selenium": 33.26,
+    "sodium": 100.52,
+    "zinc": 6.75
+  }
 }

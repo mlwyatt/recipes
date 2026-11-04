@@ -1,1135 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 11873,
-        "recipe_id": 1381,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-        "slug": "prosciutto-strawberry-goat-cheese-toasts-arugula-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 126,
-            "name": "slotted spoon",
-            "slug": "slotted-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 200778,
-            "primary_message": "Preheat oven to broil on high and position rack under the broiler.",
-            "secondary_message": null
-          },
-          {
-            "id": 200779,
-            "primary_message": "Crumble goat cheese into a small bowl and set aside to soften.",
-            "secondary_message": "2 (4 oz) logs goat cheese"
-          },
-          {
-            "id": 200780,
-            "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
-            "secondary_message": "1 small pkg fresh basil\n2 (16 oz) pkg strawberries\n1 (5 oz) pkg baby arugula"
-          },
-          {
-            "id": 200781,
-            "primary_message": "Arrange bread slices on a large baking sheet pan. Place in the oven and broil, flipping halfway through, until toasted, 1-2 minutes. Remove toast from the oven and set aside. (Keep the broiler on.)",
-            "secondary_message": "8 slices whole grain bread"
-          },
-          {
-            "id": 200782,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Transfer to a medium bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 200783,
-            "primary_message": "Add vinegar, oil, honey, and spices to the bowl with the basil; whisk to combine the marinade. ",
-            "secondary_message": "¼ cup rice vinegar\n3 tbsp extra virgin olive oil\n4 tsp honey\n½ tsp salt\n¼ tsp black pepper\n⅛ tsp cinnamon"
-          },
-          {
-            "id": 200784,
-            "primary_message": "Trim and thinly slice strawberries. Add to the bowl with the marinade, toss to combine, and set aside. ",
-            "secondary_message": null
-          },
-          {
-            "id": 200785,
-            "primary_message": "Peel and mince garlic; add to the bowl with the goat cheese and mash with a fork to combine to combine. ",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 200786,
-            "primary_message": "Spread goat cheese mixture evenly over the toast. Return baking sheet to the oven and broil until the cheese browns slightly, 1-2 minutes. Remove from the oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 200787,
-            "primary_message": "Using a slotted spoon, remove strawberries from the marinade and arrange on top of the toast. (Reserve leftover marinade for the salad.)",
-            "secondary_message": null
-          },
-          {
-            "id": 200788,
-            "primary_message": "Chop or tear prosciutto into bite-sized pieces and place on top of toast. ",
-            "secondary_message": "8 slices prosciutto"
-          },
-          {
-            "id": 200789,
-            "primary_message": "Add arugula to the bowl with the reserved marinade and toss to combine the salad. ",
-            "secondary_message": null
-          },
-          {
-            "id": 200790,
-            "primary_message": "To serve, divide toasts and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 209918,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby arugula"
-          },
-          {
-            "id": 209911,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 209910,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 209917,
-            "quantity": "2 (4 oz) logs",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 209922,
-            "quantity": "8 slices",
-            "ingredient_name": "prosciutto"
-          },
-          {
-            "id": 209920,
-            "quantity": "2 (16 oz) pkg",
-            "ingredient_name": "strawberries"
-          },
-          {
-            "id": 209919,
-            "quantity": "8 slices",
-            "ingredient_name": "whole grain bread"
-          },
-          {
-            "id": 209913,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 209914,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          },
-          {
-            "id": 209912,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 209916,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 209921,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 209915,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 571.59,
-          "alcohol": 0,
-          "ash": 4.7,
-          "caffeine": 0,
-          "water": 321.24,
-          "carbs": 53.81,
-          "fiber": 9.19,
-          "starch": 24.87,
-          "sugars": 21.53,
-          "fructose": 10.26,
-          "galactose": 0.26,
-          "glucose": 8.09,
-          "lactose": 0.01,
-          "maltose": 0.76,
-          "sucrose": 1.2,
-          "sugar_alcohol": 0,
-          "fat": 28.89,
-          "monounsaturated": 10.73,
-          "polyunsaturated": 2.88,
-          "omega_3": 0.4,
-          "omega_6": 2.48,
-          "saturated": 11.69,
-          "transfats": 0.43,
-          "cholesterol": 45.87,
-          "protein": 28.22,
-          "alanine": 0.27,
-          "arginine": 0.39,
-          "aspartic_acid": 0.89,
-          "cystine": 0.06,
-          "glutamic_acid": 2.21,
-          "glycine": 0.19,
-          "histidine": 0.32,
-          "isoleucine": 0.48,
-          "leucine": 1,
-          "lysine": 0.82,
-          "methionine": 0.29,
-          "phenylalanine": 0.47,
-          "proline": 1.33,
-          "serine": 0.47,
-          "threonine": 0.45,
-          "tryptophan": 0.13,
-          "tyrosine": 0.47,
-          "valine": 0.78,
-          "b1_thiamine": 0.37,
-          "b2_riboflavin": 0.41,
-          "b3_niacin": 4.15,
-          "b5_pantothenic_acid": 1.27,
-          "b6_pyridoxine": 0.44,
-          "b12_cobalamin": 0.11,
-          "choline": 45.84,
-          "folate": 127.55,
-          "vitamin_a": 31.96,
-          "vitamin_c": 140.57,
-          "vitamin_d": 8.48,
-          "vitamin_e": 4.15,
-          "vitamin_k": 85.07,
-          "calcium": 292.64,
-          "copper": 0.73,
-          "iron": 4.83,
-          "magnesium": 108.69,
-          "manganese": 2.59,
-          "phosphorus": 360.65,
-          "potassium": 686.77,
-          "selenium": 19.42,
-          "sodium": 1032.6,
-          "zinc": 2.23
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/prosciutto-strawberry-goat-cheese-toasts-arugula-salad/11873",
-      "altVariants": [
-        {
-          "id": 11874,
-          "recipe_id": 1381,
-          "group_label": "Default",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "545d44ab-e602-4360-8f4e-30a18d4474dd",
-          "fallback_published_recipe_uuids": [
-            "68ae91fd-b7fb-4da3-89cc-7ac6d8269356"
-          ],
-          "first_published_at": 1598572123000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            126,
-            329,
-            242,
-            191,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            3,
-            12,
-            3,
-            12,
-            1.25,
-            0.9375,
-            67.5,
-            30,
-            90,
-            3.75
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11873,
-          "recipe_id": 1381,
-          "group_label": "Default",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "033b8267-ce56-4e43-b933-5f148dda756d",
-          "fallback_published_recipe_uuids": [
-            "6283ddb9-052a-4899-993a-8f660a84c256"
-          ],
-          "first_published_at": 1598572123000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            126,
-            329,
-            242,
-            191,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            2,
-            8,
-            2,
-            8,
-            1.25,
-            0.625,
-            45,
-            20,
-            60,
-            2.5
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11872,
-          "recipe_id": 1381,
-          "group_label": "Default",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "4de9081b-3711-4ae4-9829-10ab7dddbb5f",
-          "fallback_published_recipe_uuids": [
-            "0c0f6c94-bb4d-4ae5-9735-bc278ff2fcc5"
-          ],
-          "first_published_at": 1598572124000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            126,
-            329,
-            242,
-            191,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            1,
-            4,
-            1,
-            4,
-            0.625,
-            0.3125,
-            22.5,
-            10,
-            30,
-            1.25
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11877,
-          "recipe_id": 1381,
-          "group_label": "Default auto-gluten-free",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "d232f047-7ff5-46ca-8daf-68cfec3e0df9",
-          "fallback_published_recipe_uuids": [
-            "08e9eff1-a224-4bb0-8bd9-6faaf87ddf4d"
-          ],
-          "first_published_at": 1598572122000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            266,
-            126,
-            329,
-            242,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            12,
-            3,
-            12,
-            3,
-            1.25,
-            0.9375,
-            67.5,
-            30,
-            90,
-            3.75
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11876,
-          "recipe_id": 1381,
-          "group_label": "Default auto-gluten-free",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "2d0dc291-25ae-4a23-a2ac-9ea75c14b328",
-          "fallback_published_recipe_uuids": [
-            "4b308410-ac7f-4c16-ac1c-bb1357bd15d5"
-          ],
-          "first_published_at": 1598572121000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            266,
-            126,
-            329,
-            242,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            8,
-            2,
-            8,
-            2,
-            1.25,
-            0.625,
-            45,
-            20,
-            60,
-            2.5
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11875,
-          "recipe_id": 1381,
-          "group_label": "Default auto-gluten-free",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "3fee509c-6e73-435e-b3d7-af01974952b7",
-          "fallback_published_recipe_uuids": [
-            "f88df2f5-64d7-4995-8f98-c0182d705e38"
-          ],
-          "first_published_at": 1598572122000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            266,
-            126,
-            329,
-            242,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            4,
-            1,
-            4,
-            1,
-            0.625,
-            0.3125,
-            22.5,
-            10,
-            30,
-            1.25
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11883,
-          "recipe_id": 1381,
-          "group_label": "Default auto-gluten-free",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "7472cd76-4092-44ec-9df0-7d2798f8aa49",
-          "fallback_published_recipe_uuids": [
-            "691e2c99-8b12-4797-baeb-b5709b700441"
-          ],
-          "first_published_at": 1598572117000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            266,
-            126,
-            329,
-            242,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            12,
-            3,
-            12,
-            3,
-            1.25,
-            0.9375,
-            67.5,
-            30,
-            90,
-            3.75
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11882,
-          "recipe_id": 1381,
-          "group_label": "Default auto-gluten-free",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "67b53ef8-799c-4e51-a24b-6f921bd177b6",
-          "fallback_published_recipe_uuids": [
-            "cbcb6af6-231a-4931-acd4-b7a02e9811d1"
-          ],
-          "first_published_at": 1598572118000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            266,
-            126,
-            329,
-            242,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            8,
-            2,
-            8,
-            2,
-            1.25,
-            0.625,
-            45,
-            20,
-            60,
-            2.5
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11881,
-          "recipe_id": 1381,
-          "group_label": "Default auto-gluten-free",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "09b51589-9d94-42cd-9cef-9f610390f36e",
-          "fallback_published_recipe_uuids": [
-            "3c1587a0-48e8-4b36-a24d-e26765bcfd34"
-          ],
-          "first_published_at": 1598572119000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            266,
-            126,
-            329,
-            242,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            4,
-            1,
-            4,
-            1,
-            0.625,
-            0.3125,
-            22.5,
-            10,
-            30,
-            1.25
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11880,
-          "recipe_id": 1381,
-          "group_label": "Default",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "92783e4e-192d-4938-9f7a-17908c24d086",
-          "fallback_published_recipe_uuids": [
-            "8c356f4f-f623-4469-af0d-ac36573a046d"
-          ],
-          "first_published_at": 1598572120000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            126,
-            329,
-            242,
-            191,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            3,
-            12,
-            3,
-            12,
-            1.25,
-            0.9375,
-            67.5,
-            30,
-            90,
-            3.75
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11879,
-          "recipe_id": 1381,
-          "group_label": "Default",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "f37eb070-020b-49fa-b41f-e5e6cd8c5c0b",
-          "fallback_published_recipe_uuids": [
-            "c4a85783-d59e-4f00-80e7-33089565ad42"
-          ],
-          "first_published_at": 1598572120000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            126,
-            329,
-            242,
-            191,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            2,
-            8,
-            2,
-            8,
-            1.25,
-            0.625,
-            45,
-            20,
-            60,
-            2.5
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11878,
-          "recipe_id": 1381,
-          "group_label": "Default",
-          "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
-          "published_recipe_uuid": "ed69ebda-c37b-4c9d-b527-ee7177589d85",
-          "fallback_published_recipe_uuids": [
-            "0f493dac-e8f3-4309-9415-6cf801cc8cfd"
-          ],
-          "first_published_at": 1598572121000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            139,
-            28,
-            24,
-            126,
-            329,
-            242,
-            191,
-            72,
-            74,
-            47,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            1,
-            4,
-            1,
-            4,
-            0.625,
-            0.3125,
-            22.5,
-            10,
-            30,
-            1.25
-          ],
-          "average_rating": 0.659,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 11873,
+  "recipe_id": 1381,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Prosciutto, Strawberry & Goat Cheese Toasts with Arugula Salad ",
+  "slug": "prosciutto-strawberry-goat-cheese-toasts-arugula-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/thumbnail_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1381/presentation_235491e2-8cf1-4cd0-8c82-01728ce4ad65.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "prosciutto-strawberry-goat-cheese-toasts-arugula-salad",
-    "variantId": "11873"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 126,
+      "name": "slotted spoon",
+      "slug": "slotted-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 200778,
+      "primary_message": "Preheat oven to broil on high and position rack under the broiler.",
+      "secondary_message": null
+    },
+    {
+      "id": 200779,
+      "primary_message": "Crumble goat cheese into a small bowl and set aside to soften.",
+      "secondary_message": "2 (4 oz) logs goat cheese"
+    },
+    {
+      "id": 200780,
+      "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
+      "secondary_message": "1 small pkg fresh basil\n2 (16 oz) pkg strawberries\n1 (5 oz) pkg baby arugula"
+    },
+    {
+      "id": 200781,
+      "primary_message": "Arrange bread slices on a large baking sheet pan. Place in the oven and broil, flipping halfway through, until toasted, 1-2 minutes. Remove toast from the oven and set aside. (Keep the broiler on.)",
+      "secondary_message": "8 slices whole grain bread"
+    },
+    {
+      "id": 200782,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Transfer to a medium bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 200783,
+      "primary_message": "Add vinegar, oil, honey, and spices to the bowl with the basil; whisk to combine the marinade. ",
+      "secondary_message": "¼ cup rice vinegar\n3 tbsp extra virgin olive oil\n4 tsp honey\n½ tsp salt\n¼ tsp black pepper\n⅛ tsp cinnamon"
+    },
+    {
+      "id": 200784,
+      "primary_message": "Trim and thinly slice strawberries. Add to the bowl with the marinade, toss to combine, and set aside. ",
+      "secondary_message": null
+    },
+    {
+      "id": 200785,
+      "primary_message": "Peel and mince garlic; add to the bowl with the goat cheese and mash with a fork to combine to combine. ",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 200786,
+      "primary_message": "Spread goat cheese mixture evenly over the toast. Return baking sheet to the oven and broil until the cheese browns slightly, 1-2 minutes. Remove from the oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 200787,
+      "primary_message": "Using a slotted spoon, remove strawberries from the marinade and arrange on top of the toast. (Reserve leftover marinade for the salad.)",
+      "secondary_message": null
+    },
+    {
+      "id": 200788,
+      "primary_message": "Chop or tear prosciutto into bite-sized pieces and place on top of toast. ",
+      "secondary_message": "8 slices prosciutto"
+    },
+    {
+      "id": 200789,
+      "primary_message": "Add arugula to the bowl with the reserved marinade and toss to combine the salad. ",
+      "secondary_message": null
+    },
+    {
+      "id": 200790,
+      "primary_message": "To serve, divide toasts and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 209918,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby arugula"
+    },
+    {
+      "id": 209911,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 209910,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 209917,
+      "quantity": "2 (4 oz) logs",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 209922,
+      "quantity": "8 slices",
+      "ingredient_name": "prosciutto"
+    },
+    {
+      "id": 209920,
+      "quantity": "2 (16 oz) pkg",
+      "ingredient_name": "strawberries"
+    },
+    {
+      "id": 209919,
+      "quantity": "8 slices",
+      "ingredient_name": "whole grain bread"
+    },
+    {
+      "id": 209913,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 209914,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    },
+    {
+      "id": 209912,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 209916,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 209921,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 209915,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 571.59,
+    "alcohol": 0,
+    "ash": 4.7,
+    "caffeine": 0,
+    "water": 321.24,
+    "carbs": 53.81,
+    "fiber": 9.19,
+    "starch": 24.87,
+    "sugars": 21.53,
+    "fructose": 10.26,
+    "galactose": 0.26,
+    "glucose": 8.09,
+    "lactose": 0.01,
+    "maltose": 0.76,
+    "sucrose": 1.2,
+    "sugar_alcohol": 0,
+    "fat": 28.89,
+    "monounsaturated": 10.73,
+    "polyunsaturated": 2.88,
+    "omega_3": 0.4,
+    "omega_6": 2.48,
+    "saturated": 11.69,
+    "transfats": 0.43,
+    "cholesterol": 45.87,
+    "protein": 28.22,
+    "alanine": 0.27,
+    "arginine": 0.39,
+    "aspartic_acid": 0.89,
+    "cystine": 0.06,
+    "glutamic_acid": 2.21,
+    "glycine": 0.19,
+    "histidine": 0.32,
+    "isoleucine": 0.48,
+    "leucine": 1,
+    "lysine": 0.82,
+    "methionine": 0.29,
+    "phenylalanine": 0.47,
+    "proline": 1.33,
+    "serine": 0.47,
+    "threonine": 0.45,
+    "tryptophan": 0.13,
+    "tyrosine": 0.47,
+    "valine": 0.78,
+    "b1_thiamine": 0.37,
+    "b2_riboflavin": 0.41,
+    "b3_niacin": 4.15,
+    "b5_pantothenic_acid": 1.27,
+    "b6_pyridoxine": 0.44,
+    "b12_cobalamin": 0.11,
+    "choline": 45.84,
+    "folate": 127.55,
+    "vitamin_a": 31.96,
+    "vitamin_c": 140.57,
+    "vitamin_d": 8.48,
+    "vitamin_e": 4.15,
+    "vitamin_k": 85.07,
+    "calcium": 292.64,
+    "copper": 0.73,
+    "iron": 4.83,
+    "magnesium": 108.69,
+    "manganese": 2.59,
+    "phosphorus": 360.65,
+    "potassium": 686.77,
+    "selenium": 19.42,
+    "sodium": 1032.6,
+    "zinc": 2.23
+  }
 }

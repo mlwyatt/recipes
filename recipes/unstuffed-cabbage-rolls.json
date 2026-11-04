@@ -1,656 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3124,
-        "recipe_id": 368,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Unstuffed Cabbage Rolls",
-        "slug": "unstuffed-cabbage-rolls",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 27,
-            "name": "stainless steel skillet",
-            "slug": "stainless-steel-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 31412,
-            "primary_message": "Rinse the rice in a colander and transfer to a small saucepan. Add water and salt; bring to a boil.",
-            "secondary_message": "1 cup basmati rice\n2 cups water\n¼ tsp salt"
-          },
-          {
-            "id": 31413,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 medium head napa cabbage\n2 medium carrots"
-          },
-          {
-            "id": 31414,
-            "primary_message": "Once the water is boiling, reduce the heat to low, stir, and cover. Cook until liquid is absorbed, 10 to 15 minutes. Remove from the heat and let it stand, covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31415,
-            "primary_message": "Trim off and discard the root end of the cabbage; quarter the cabbage lengthwise, then cut crosswise into 1-inch pieces and transfer to a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 31416,
-            "primary_message": "Peel and small dice the onion.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 31417,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 31418,
-            "primary_message": "Peel and mince the garlic.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 31419,
-            "primary_message": "Add the beef, onion, and garlic to the skillet; cook, breaking apart the meat into smaller pieces, until the beef is browned and the onion is tender, 3 to 5 minutes.",
-            "secondary_message": "1 ½ lb lean ground beef"
-          },
-          {
-            "id": 31420,
-            "primary_message": "Add the diced tomatoes and cabbage and season with salt and pepper. If the cabbage doesn't fit, cook it down and add the rest after. Reduce heat to medium and cover. Cook until the cabbage is softened, 10 to 15 minutes.",
-            "secondary_message": "2 (14.5 oz) cans diced tomatoes\n1 tsp salt\n1 tsp black pepper"
-          },
-          {
-            "id": 31421,
-            "primary_message": "Trim the stem ends and peel the carrots; discard the trimmings and coarsely grate the carrots.",
-            "secondary_message": null
-          },
-          {
-            "id": 31422,
-            "primary_message": "Once the cabbage is softened, add the grated carrots and rice to the skillet; stir to combine. Cook until the carrots are softened, 1 to 2 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31423,
-            "primary_message": "Divide the lazy cabbage rolls between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 38443,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 38444,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 38446,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 38448,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 38447,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 38445,
-            "quantity": "1 medium head",
-            "ingredient_name": "napa cabbage"
-          },
-          {
-            "id": 38442,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 38441,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 38440,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 630.42,
-          "alcohol": 0,
-          "ash": 7.78,
-          "caffeine": 0,
-          "water": 563.26,
-          "carbs": 57.74,
-          "fiber": 8.56,
-          "starch": 1.42,
-          "sugars": 10.9,
-          "fructose": 4.5,
-          "galactose": 0,
-          "glucose": 4.97,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 1.42,
-          "sugar_alcohol": 0,
-          "fat": 26.89,
-          "monounsaturated": 11.24,
-          "polyunsaturated": 1.23,
-          "omega_3": 0.34,
-          "omega_6": 0.99,
-          "saturated": 10,
-          "transfats": 1.46,
-          "cholesterol": 115.67,
-          "protein": 39.9,
-          "alanine": 2.43,
-          "arginine": 2.6,
-          "aspartic_acid": 3.76,
-          "cystine": 0.47,
-          "glutamic_acid": 7.13,
-          "glycine": 2.44,
-          "histidine": 1.2,
-          "isoleucine": 1.76,
-          "leucine": 2.99,
-          "lysine": 3,
-          "methionine": 0.93,
-          "phenylalanine": 1.57,
-          "proline": 1.88,
-          "serine": 1.6,
-          "threonine": 1.58,
-          "tryptophan": 0.25,
-          "tyrosine": 1.19,
-          "valine": 1.94,
-          "b1_thiamine": 1.64,
-          "b2_riboflavin": 0.53,
-          "b3_niacin": 12.51,
-          "b5_pantothenic_acid": 2.01,
-          "b6_pyridoxine": 1.49,
-          "b12_cobalamin": 3.69,
-          "choline": 142.25,
-          "folate": 310.59,
-          "vitamin_a": 1606.71,
-          "vitamin_c": 87.36,
-          "vitamin_d": 5.1,
-          "vitamin_e": 2.02,
-          "vitamin_k": 103.44,
-          "calcium": 292.8,
-          "copper": 0.44,
-          "iron": 7.63,
-          "magnesium": 98.19,
-          "manganese": 1.26,
-          "phosphorus": 464.04,
-          "potassium": 1597.22,
-          "selenium": 37.18,
-          "sodium": 177.52,
-          "zinc": 9.02
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/unstuffed-cabbage-rolls/3124",
-      "altVariants": [
-        {
-          "id": 5792,
-          "recipe_id": 368,
-          "group_label": "Classic",
-          "name": "Unstuffed Cabbage Rolls",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "published_recipe_uuid": "3a83b95c-dac7-4784-9c71-c85e853ca948",
-          "fallback_published_recipe_uuids": [
-            "e89b7829-be7f-4d4a-8166-0f4d05e23f4d",
-            "c7d6d8e4-accb-4a61-b635-0117c4e1e9d9"
-          ],
-          "first_published_at": 1550532398000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            159,
-            97,
-            24,
-            168,
-            292,
-            152,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            6,
-            2.25,
-            1.5,
-            1.5,
-            7.39338,
-            9.241725
-          ],
-          "average_rating": 0.723,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            9
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2915,
-          "recipe_id": 368,
-          "group_label": "Classic",
-          "name": "Unstuffed Cabbage Rolls",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "published_recipe_uuid": "d03b2932-df7a-4756-9075-b940f3bf66ed",
-          "fallback_published_recipe_uuids": [
-            "0ead57f0-1577-4a45-84d0-fc9946081ef0",
-            "35f9cf3b-3947-41de-977c-27e37abbef92",
-            "8b2e7665-b54f-4a04-8153-4cab4d330606"
-          ],
-          "first_published_at": 1471638964000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            159,
-            97,
-            24,
-            168,
-            292,
-            152,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            2,
-            0.75,
-            0.5,
-            0.5,
-            2.46446,
-            3.080575
-          ],
-          "average_rating": 0.723,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            9
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3124,
-          "recipe_id": 368,
-          "group_label": "Classic",
-          "name": "Unstuffed Cabbage Rolls",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "published_recipe_uuid": "c7e7db59-8e70-4ed7-bdc6-baab1c9054a2",
-          "fallback_published_recipe_uuids": [
-            "f4f43b87-ddb6-4165-a5a4-0e08ba6ec553",
-            "66d5b3ef-dc98-4d5c-82b4-e6630133e6fc",
-            "5f68b811-3efd-4507-9861-133adfb891ff"
-          ],
-          "first_published_at": 1480394591000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            159,
-            97,
-            24,
-            168,
-            292,
-            152,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            4,
-            1.5,
-            1,
-            1,
-            4.92892,
-            6.16115
-          ],
-          "average_rating": 0.723,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            9
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5933,
-          "recipe_id": 368,
-          "group_label": "Classic",
-          "name": "Unstuffed Cabbage Rolls",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "published_recipe_uuid": "eb8a7842-5db2-465e-9516-053e1cdf0d3e",
-          "fallback_published_recipe_uuids": [
-            "41962e06-3de0-4aa0-986e-ddfa8c949305",
-            "33f78188-fd41-4707-a225-fd3e4324459b"
-          ],
-          "first_published_at": 1550531121000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            159,
-            97,
-            24,
-            168,
-            292,
-            152,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            6,
-            1.02,
-            1.5,
-            1.5,
-            7.39338,
-            9.241725
-          ],
-          "average_rating": 0.723,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            9
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3410,
-          "recipe_id": 368,
-          "group_label": "Classic",
-          "name": "Unstuffed Cabbage Rolls",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "published_recipe_uuid": "dd6a7c15-f81c-4704-ac4d-d631d83b29b8",
-          "fallback_published_recipe_uuids": [
-            "3be9b3c4-695c-4631-9062-90d8bdf53560",
-            "199eaac4-3a21-4ab9-a2dc-d6bc3a70609e",
-            "523e9630-9d4b-46ef-91fb-7bf078b24969"
-          ],
-          "first_published_at": 1485561150000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            159,
-            97,
-            24,
-            168,
-            292,
-            152,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            2,
-            0.34,
-            0.5,
-            0.5,
-            2.46446,
-            3.080575
-          ],
-          "average_rating": 0.723,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            9
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3411,
-          "recipe_id": 368,
-          "group_label": "Classic",
-          "name": "Unstuffed Cabbage Rolls",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
-          "published_recipe_uuid": "3f9e848e-3dea-4cf6-b2db-89a62f78eedb",
-          "fallback_published_recipe_uuids": [
-            "f5ae011a-2aac-4b87-97e8-71fbf0a70bc5",
-            "a4ff5a03-ea5c-47b7-8db6-660b5ae1ae2a",
-            "2ba91580-0528-4d66-8d8a-fd1344f4ab09"
-          ],
-          "first_published_at": 1485561196000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            159,
-            97,
-            24,
-            168,
-            292,
-            152,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            4,
-            0.68,
-            1,
-            1,
-            4.92892,
-            6.16115
-          ],
-          "average_rating": 0.723,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            9
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Skillets & Sautés"
-        ],
-        "cuisine": "East European",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3124,
+  "recipe_id": 368,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Unstuffed Cabbage Rolls",
+  "slug": "unstuffed-cabbage-rolls",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/thumbnail_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/368/presentation_2c664234-b920-49d3-a4bf-7f0da5a77af6.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "unstuffed-cabbage-rolls",
-    "variantId": "3124"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 27,
+      "name": "stainless steel skillet",
+      "slug": "stainless-steel-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 31412,
+      "primary_message": "Rinse the rice in a colander and transfer to a small saucepan. Add water and salt; bring to a boil.",
+      "secondary_message": "1 cup basmati rice\n2 cups water\n¼ tsp salt"
+    },
+    {
+      "id": 31413,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 medium head napa cabbage\n2 medium carrots"
+    },
+    {
+      "id": 31414,
+      "primary_message": "Once the water is boiling, reduce the heat to low, stir, and cover. Cook until liquid is absorbed, 10 to 15 minutes. Remove from the heat and let it stand, covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31415,
+      "primary_message": "Trim off and discard the root end of the cabbage; quarter the cabbage lengthwise, then cut crosswise into 1-inch pieces and transfer to a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 31416,
+      "primary_message": "Peel and small dice the onion.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 31417,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 31418,
+      "primary_message": "Peel and mince the garlic.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 31419,
+      "primary_message": "Add the beef, onion, and garlic to the skillet; cook, breaking apart the meat into smaller pieces, until the beef is browned and the onion is tender, 3 to 5 minutes.",
+      "secondary_message": "1 ½ lb lean ground beef"
+    },
+    {
+      "id": 31420,
+      "primary_message": "Add the diced tomatoes and cabbage and season with salt and pepper. If the cabbage doesn't fit, cook it down and add the rest after. Reduce heat to medium and cover. Cook until the cabbage is softened, 10 to 15 minutes.",
+      "secondary_message": "2 (14.5 oz) cans diced tomatoes\n1 tsp salt\n1 tsp black pepper"
+    },
+    {
+      "id": 31421,
+      "primary_message": "Trim the stem ends and peel the carrots; discard the trimmings and coarsely grate the carrots.",
+      "secondary_message": null
+    },
+    {
+      "id": 31422,
+      "primary_message": "Once the cabbage is softened, add the grated carrots and rice to the skillet; stir to combine. Cook until the carrots are softened, 1 to 2 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31423,
+      "primary_message": "Divide the lazy cabbage rolls between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 38443,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 38444,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 38446,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 38448,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 38447,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 38445,
+      "quantity": "1 medium head",
+      "ingredient_name": "napa cabbage"
+    },
+    {
+      "id": 38442,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 38441,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 38440,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 630.42,
+    "alcohol": 0,
+    "ash": 7.78,
+    "caffeine": 0,
+    "water": 563.26,
+    "carbs": 57.74,
+    "fiber": 8.56,
+    "starch": 1.42,
+    "sugars": 10.9,
+    "fructose": 4.5,
+    "galactose": 0,
+    "glucose": 4.97,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 1.42,
+    "sugar_alcohol": 0,
+    "fat": 26.89,
+    "monounsaturated": 11.24,
+    "polyunsaturated": 1.23,
+    "omega_3": 0.34,
+    "omega_6": 0.99,
+    "saturated": 10,
+    "transfats": 1.46,
+    "cholesterol": 115.67,
+    "protein": 39.9,
+    "alanine": 2.43,
+    "arginine": 2.6,
+    "aspartic_acid": 3.76,
+    "cystine": 0.47,
+    "glutamic_acid": 7.13,
+    "glycine": 2.44,
+    "histidine": 1.2,
+    "isoleucine": 1.76,
+    "leucine": 2.99,
+    "lysine": 3,
+    "methionine": 0.93,
+    "phenylalanine": 1.57,
+    "proline": 1.88,
+    "serine": 1.6,
+    "threonine": 1.58,
+    "tryptophan": 0.25,
+    "tyrosine": 1.19,
+    "valine": 1.94,
+    "b1_thiamine": 1.64,
+    "b2_riboflavin": 0.53,
+    "b3_niacin": 12.51,
+    "b5_pantothenic_acid": 2.01,
+    "b6_pyridoxine": 1.49,
+    "b12_cobalamin": 3.69,
+    "choline": 142.25,
+    "folate": 310.59,
+    "vitamin_a": 1606.71,
+    "vitamin_c": 87.36,
+    "vitamin_d": 5.1,
+    "vitamin_e": 2.02,
+    "vitamin_k": 103.44,
+    "calcium": 292.8,
+    "copper": 0.44,
+    "iron": 7.63,
+    "magnesium": 98.19,
+    "manganese": 1.26,
+    "phosphorus": 464.04,
+    "potassium": 1597.22,
+    "selenium": 37.18,
+    "sodium": 177.52,
+    "zinc": 9.02
+  }
 }

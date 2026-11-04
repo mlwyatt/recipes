@@ -1,631 +1,210 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22031,
-        "recipe_id": 2503,
-        "serving_count": 4,
-        "cooking_minutes": 20,
-        "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
-        "slug": "italian-style-spinach-salad-tuna-marinated-veggies-goat-cheese",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 369676,
-            "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 small bunch fresh dill\n2 avocados\n2 (5 oz) pkgs baby spinach"
-          },
-          {
-            "id": 369677,
-            "primary_message": "Drain tuna, place in a medium bowl, and flake with a fork.",
-            "secondary_message": "4 (6 oz) cans chunk light tuna in water"
-          },
-          {
-            "id": 369678,
-            "primary_message": "Drain and thinly slice artichokes. Add to the bowl with the tuna.",
-            "secondary_message": "2 (6 oz) jars artichoke hearts, marinated"
-          },
-          {
-            "id": 369679,
-            "primary_message": "Drain and small dice peppers. Add to the bowl.",
-            "secondary_message": "1 (12 oz) jar roasted red bell peppers"
-          },
-          {
-            "id": 369680,
-            "primary_message": "Using a knife, shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 369681,
-            "primary_message": "Halve and pit avocados; scoop out with a spoon and small dice the flesh. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 369682,
-            "primary_message": "Add almonds and dressing to the bowl. Stir to combine the tuna salad.",
-            "secondary_message": "⅔ cup almonds, sliced\n⅓ cup Italian salad dressing"
-          },
-          {
-            "id": 369683,
-            "primary_message": "To serve, divide spinach and tuna salad between plates or bowls. Crumble goat cheese over top and enjoy!",
-            "secondary_message": "1 (4 oz) log goat cheese"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 394297,
-            "quantity": "⅔ cup",
-            "ingredient_name": "almonds, sliced"
-          },
-          {
-            "id": 394299,
-            "quantity": "2 (6 oz) jars",
-            "ingredient_name": "artichoke hearts, marinated"
-          },
-          {
-            "id": 394296,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 394293,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 394294,
-            "quantity": "4 (6 oz) cans",
-            "ingredient_name": "chunk light tuna in water"
-          },
-          {
-            "id": 394298,
-            "quantity": "1 small bunch",
-            "ingredient_name": "fresh dill"
-          },
-          {
-            "id": 394295,
-            "quantity": "1 (4 oz) log",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 394300,
-            "quantity": "90 ml",
-            "ingredient_name": "Italian salad dressing"
-          },
-          {
-            "id": 394301,
-            "quantity": "1 (12 oz) jar",
-            "ingredient_name": "roasted red bell peppers"
-          }
-        ],
-        "nutrition": {
-          "energy": 542.72,
-          "alcohol": 0,
-          "ash": 6.38,
-          "caffeine": 0,
-          "water": 315.08,
-          "carbs": 26.57,
-          "fiber": 13.38,
-          "starch": 0.33,
-          "sugars": 7.73,
-          "fructose": 1.65,
-          "galactose": 0.18,
-          "glucose": 1.72,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 1.33,
-          "sugar_alcohol": 0,
-          "fat": 34.83,
-          "monounsaturated": 17.52,
-          "polyunsaturated": 6.83,
-          "omega_3": 0.88,
-          "omega_6": 5.96,
-          "saturated": 7.85,
-          "transfats": 0.22,
-          "cholesterol": 56.19,
-          "protein": 37.71,
-          "alanine": 1.82,
-          "arginine": 2.09,
-          "aspartic_acid": 3.39,
-          "cystine": 0.35,
-          "glutamic_acid": 5.83,
-          "glycine": 1.57,
-          "histidine": 0.98,
-          "isoleucine": 1.57,
-          "leucine": 2.81,
-          "lysine": 2.79,
-          "methionine": 0.9,
-          "phenylalanine": 1.45,
-          "proline": 1.77,
-          "serine": 1.45,
-          "threonine": 1.44,
-          "tryptophan": 0.39,
-          "tyrosine": 1.16,
-          "valine": 1.88,
-          "b1_thiamine": 0.25,
-          "b2_riboflavin": 0.72,
-          "b3_niacin": 15.83,
-          "b5_pantothenic_acid": 2.04,
-          "b6_pyridoxine": 0.94,
-          "b12_cobalamin": 3.11,
-          "choline": 94.95,
-          "folate": 291.75,
-          "vitamin_a": 1910.49,
-          "vitamin_c": 65.46,
-          "vitamin_d": 60.64,
-          "vitamin_e": 8.62,
-          "vitamin_k": 404.88,
-          "calcium": 212.19,
-          "copper": 0.79,
-          "iron": 6.38,
-          "magnesium": 186,
-          "manganese": 1.38,
-          "phosphorus": 446.64,
-          "potassium": 1582.42,
-          "selenium": 87.95,
-          "sodium": 1091,
-          "zinc": 2.88
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/italian-style-spinach-salad-tuna-marinated-veggies-goat-cheese/22031",
-      "altVariants": [
-        {
-          "id": 22032,
-          "recipe_id": 2503,
-          "group_label": "Default",
-          "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "published_recipe_uuid": "91f5a67f-f295-43ea-bf76-f141aff8a39e",
-          "fallback_published_recipe_uuids": [
-            "dfb7d942-2479-482e-bebe-93628a243f18"
-          ],
-          "first_published_at": 1666715096000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            298,
-            344,
-            183,
-            33,
-            38,
-            320,
-            126,
-            394,
-            452
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            3,
-            3,
-            6,
-            1,
-            1.5,
-            135,
-            1.5
-          ],
-          "average_rating": 1,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22031,
-          "recipe_id": 2503,
-          "group_label": "Default",
-          "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "published_recipe_uuid": "22c36f96-765a-4fd4-9d9d-ef33e4aaa038",
-          "fallback_published_recipe_uuids": [
-            "4e0a9271-8f0f-4314-b51d-c510d4852e0d"
-          ],
-          "first_published_at": 1666715096000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            298,
-            344,
-            183,
-            33,
-            38,
-            320,
-            126,
-            394,
-            452
-          ],
-          "ingredient_amounts": [
-            0.6666666666666666,
-            2,
-            2,
-            2,
-            4,
-            1,
-            1,
-            90,
-            1
-          ],
-          "average_rating": 1,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22030,
-          "recipe_id": 2503,
-          "group_label": "Default",
-          "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "published_recipe_uuid": "57fb674a-cbfe-4070-a984-74ce66eead8d",
-          "fallback_published_recipe_uuids": [
-            "8a401b10-6449-4ab0-b991-6bcd9b76fca5"
-          ],
-          "first_published_at": 1666715097000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            298,
-            344,
-            183,
-            33,
-            38,
-            320,
-            126,
-            394,
-            452
-          ],
-          "ingredient_amounts": [
-            0.3333333333333333,
-            1,
-            1,
-            1,
-            2,
-            0.5,
-            0.5,
-            45,
-            0.5
-          ],
-          "average_rating": 1,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22035,
-          "recipe_id": 2503,
-          "group_label": "Default",
-          "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "published_recipe_uuid": "ab339ee7-ed85-4281-9d5d-9d0d8cd7c5d0",
-          "fallback_published_recipe_uuids": [
-            "2cde858a-f3ef-4540-9870-bfe1fc3506c2"
-          ],
-          "first_published_at": 1666715094000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            298,
-            344,
-            183,
-            33,
-            38,
-            320,
-            126,
-            394,
-            452
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            3,
-            3,
-            6,
-            1,
-            1.5,
-            135,
-            1.5
-          ],
-          "average_rating": 1,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22034,
-          "recipe_id": 2503,
-          "group_label": "Default",
-          "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "published_recipe_uuid": "035b5c9e-6a89-428a-b53c-d162106b6150",
-          "fallback_published_recipe_uuids": [
-            "cc7a059e-7157-4d65-ae7b-8632a51d1651"
-          ],
-          "first_published_at": 1666715095000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            298,
-            344,
-            183,
-            33,
-            38,
-            320,
-            126,
-            394,
-            452
-          ],
-          "ingredient_amounts": [
-            0.6666666666666666,
-            2,
-            2,
-            2,
-            4,
-            1,
-            1,
-            90,
-            1
-          ],
-          "average_rating": 1,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22033,
-          "recipe_id": 2503,
-          "group_label": "Default",
-          "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
-          "published_recipe_uuid": "f517a80d-4f55-40ab-bf52-bedb02688405",
-          "fallback_published_recipe_uuids": [
-            "0781e698-15fc-4f6c-8baf-efb980e688cb"
-          ],
-          "first_published_at": 1666715095000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            298,
-            344,
-            183,
-            33,
-            38,
-            320,
-            126,
-            394,
-            452
-          ],
-          "ingredient_amounts": [
-            0.3333333333333333,
-            1,
-            1,
-            1,
-            2,
-            0.5,
-            0.5,
-            45,
-            0.5
-          ],
-          "average_rating": 1,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 5
-      }
+  "id": 22031,
+  "recipe_id": 2503,
+  "serving_count": 4,
+  "cooking_minutes": 20,
+  "name": "Italian-Style Spinach Salad with Tuna, Marinated Veggies & Goat Cheese",
+  "slug": "italian-style-spinach-salad-tuna-marinated-veggies-goat-cheese",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/thumbnail_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2503/presentation_24c8c710-578a-4e0b-8eac-6ac6aad5012c.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "italian-style-spinach-salad-tuna-marinated-veggies-goat-cheese",
-    "variantId": "22031"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 369676,
+      "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 small bunch fresh dill\n2 avocados\n2 (5 oz) pkgs baby spinach"
+    },
+    {
+      "id": 369677,
+      "primary_message": "Drain tuna, place in a medium bowl, and flake with a fork.",
+      "secondary_message": "4 (6 oz) cans chunk light tuna in water"
+    },
+    {
+      "id": 369678,
+      "primary_message": "Drain and thinly slice artichokes. Add to the bowl with the tuna.",
+      "secondary_message": "2 (6 oz) jars artichoke hearts, marinated"
+    },
+    {
+      "id": 369679,
+      "primary_message": "Drain and small dice peppers. Add to the bowl.",
+      "secondary_message": "1 (12 oz) jar roasted red bell peppers"
+    },
+    {
+      "id": 369680,
+      "primary_message": "Using a knife, shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 369681,
+      "primary_message": "Halve and pit avocados; scoop out with a spoon and small dice the flesh. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 369682,
+      "primary_message": "Add almonds and dressing to the bowl. Stir to combine the tuna salad.",
+      "secondary_message": "⅔ cup almonds, sliced\n⅓ cup Italian salad dressing"
+    },
+    {
+      "id": 369683,
+      "primary_message": "To serve, divide spinach and tuna salad between plates or bowls. Crumble goat cheese over top and enjoy!",
+      "secondary_message": "1 (4 oz) log goat cheese"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 394297,
+      "quantity": "⅔ cup",
+      "ingredient_name": "almonds, sliced"
+    },
+    {
+      "id": 394299,
+      "quantity": "2 (6 oz) jars",
+      "ingredient_name": "artichoke hearts, marinated"
+    },
+    {
+      "id": 394296,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 394293,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 394294,
+      "quantity": "4 (6 oz) cans",
+      "ingredient_name": "chunk light tuna in water"
+    },
+    {
+      "id": 394298,
+      "quantity": "1 small bunch",
+      "ingredient_name": "fresh dill"
+    },
+    {
+      "id": 394295,
+      "quantity": "1 (4 oz) log",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 394300,
+      "quantity": "90 ml",
+      "ingredient_name": "Italian salad dressing"
+    },
+    {
+      "id": 394301,
+      "quantity": "1 (12 oz) jar",
+      "ingredient_name": "roasted red bell peppers"
+    }
+  ],
+  "nutrition": {
+    "energy": 542.72,
+    "alcohol": 0,
+    "ash": 6.38,
+    "caffeine": 0,
+    "water": 315.08,
+    "carbs": 26.57,
+    "fiber": 13.38,
+    "starch": 0.33,
+    "sugars": 7.73,
+    "fructose": 1.65,
+    "galactose": 0.18,
+    "glucose": 1.72,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 1.33,
+    "sugar_alcohol": 0,
+    "fat": 34.83,
+    "monounsaturated": 17.52,
+    "polyunsaturated": 6.83,
+    "omega_3": 0.88,
+    "omega_6": 5.96,
+    "saturated": 7.85,
+    "transfats": 0.22,
+    "cholesterol": 56.19,
+    "protein": 37.71,
+    "alanine": 1.82,
+    "arginine": 2.09,
+    "aspartic_acid": 3.39,
+    "cystine": 0.35,
+    "glutamic_acid": 5.83,
+    "glycine": 1.57,
+    "histidine": 0.98,
+    "isoleucine": 1.57,
+    "leucine": 2.81,
+    "lysine": 2.79,
+    "methionine": 0.9,
+    "phenylalanine": 1.45,
+    "proline": 1.77,
+    "serine": 1.45,
+    "threonine": 1.44,
+    "tryptophan": 0.39,
+    "tyrosine": 1.16,
+    "valine": 1.88,
+    "b1_thiamine": 0.25,
+    "b2_riboflavin": 0.72,
+    "b3_niacin": 15.83,
+    "b5_pantothenic_acid": 2.04,
+    "b6_pyridoxine": 0.94,
+    "b12_cobalamin": 3.11,
+    "choline": 94.95,
+    "folate": 291.75,
+    "vitamin_a": 1910.49,
+    "vitamin_c": 65.46,
+    "vitamin_d": 60.64,
+    "vitamin_e": 8.62,
+    "vitamin_k": 404.88,
+    "calcium": 212.19,
+    "copper": 0.79,
+    "iron": 6.38,
+    "magnesium": 186,
+    "manganese": 1.38,
+    "phosphorus": 446.64,
+    "potassium": 1582.42,
+    "selenium": 87.95,
+    "sodium": 1091,
+    "zinc": 2.88
+  }
 }

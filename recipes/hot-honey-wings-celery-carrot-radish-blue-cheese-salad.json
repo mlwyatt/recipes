@@ -1,750 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 26435,
-        "recipe_id": 2996,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
-        "slug": "hot-honey-wings-celery-carrot-radish-blue-cheese-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 429331,
-            "primary_message": "Preheat oven to 500°F. Coat a large baking sheet pan with a thin layer of oil.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 429332,
-            "primary_message": "Pat chicken wings dry with paper towels and place in a medium bowl. Sprinkle with cornstarch and spices, then toss to coat. Transfer to the baking sheet and spread out in an even layer.",
-            "secondary_message": "2 lb chicken wings, split with tips removed\n4 tsp cornstarch\n2 tsp paprika\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 429333,
-            "primary_message": "Place wings in the oven (it doesn't have to be fully heated) and bake, turning once, until cooked through, 20-25 minutes. ",
-            "secondary_message": null
-          },
-          {
-            "id": 429334,
-            "primary_message": "Meanwhile, place honey and hot sauce in a clean medium bowl. Whisk to combine the hot honey and set aside.",
-            "secondary_message": "¼ cup honey\n2 tbsp hot sauce"
-          },
-          {
-            "id": 429335,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "6 sticks celery\n4 medium carrots\n1 bunch radish\n1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 429336,
-            "primary_message": "Peel and mince shallot. Place in another medium bowl along with oil, vinegar, salt, and pepper, then whisk to combine the dressing.",
-            "secondary_message": "1 shallot\n¼ cup extra virgin olive oil\n3 tbsp rice vinegar\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 429337,
-            "primary_message": "Trim and thinly slice celery. Add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 429338,
-            "primary_message": "Peel and trim carrots; run the peeler along each carrot to make long, noodle-like strips. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 429339,
-            "primary_message": "Trim and thinly slice radishes. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 429340,
-            "primary_message": "Shave parsley leaves off the stems; discard stems and roughly chop the leaves. Add to the bowl, along with blue cheese, and gently toss to combine the salad.",
-            "secondary_message": "1 (4 oz) pkg crumbled blue cheese"
-          },
-          {
-            "id": 429341,
-            "primary_message": "When the wings are done, remove from the oven and add to the bowl with the hot honey. Toss to coat.",
-            "secondary_message": null
-          },
-          {
-            "id": 429342,
-            "primary_message": "To serve, divide wings and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 460056,
-            "quantity": "4 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 460055,
-            "quantity": "6 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 460057,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken wings, split with tips removed"
-          },
-          {
-            "id": 460047,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled blue cheese"
-          },
-          {
-            "id": 460053,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 460060,
-            "quantity": "1 bunch",
-            "ingredient_name": "radish"
-          },
-          {
-            "id": 460054,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 460049,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 460059,
-            "quantity": "",
-            "ingredient_name": "cornstarch"
-          },
-          {
-            "id": 460048,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 460052,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 460061,
-            "quantity": "",
-            "ingredient_name": "hot sauce"
-          },
-          {
-            "id": 460050,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 460058,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 460051,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 645.94,
-          "alcohol": 0,
-          "ash": 7.26,
-          "caffeine": 0,
-          "water": 314.89,
-          "carbs": 33.65,
-          "fiber": 4.94,
-          "starch": 21.36,
-          "sugars": 23.44,
-          "fructose": 9.89,
-          "galactose": 0.96,
-          "glucose": 9,
-          "lactose": 0.14,
-          "maltose": 0.31,
-          "sucrose": 2.96,
-          "sugar_alcohol": 0,
-          "fat": 43.23,
-          "monounsaturated": 22.72,
-          "polyunsaturated": 6.22,
-          "omega_3": 0.44,
-          "omega_6": 5.78,
-          "saturated": 13.31,
-          "transfats": 0.32,
-          "cholesterol": 177.68,
-          "protein": 33,
-          "alanine": 1.77,
-          "arginine": 2,
-          "aspartic_acid": 3.06,
-          "cystine": 0.35,
-          "glutamic_acid": 5.6,
-          "glycine": 1.3,
-          "histidine": 1.19,
-          "isoleucine": 1.63,
-          "leucine": 2.74,
-          "lysine": 3.04,
-          "methionine": 0.84,
-          "phenylalanine": 1.41,
-          "proline": 1.53,
-          "serine": 1.36,
-          "threonine": 1.5,
-          "tryptophan": 0.43,
-          "tyrosine": 1.32,
-          "valine": 1.84,
-          "b1_thiamine": 0.17,
-          "b2_riboflavin": 0.39,
-          "b3_niacin": 9.61,
-          "b5_pantothenic_acid": 1.94,
-          "b6_pyridoxine": 1.04,
-          "b12_cobalamin": 0.71,
-          "choline": 136.18,
-          "folate": 93.35,
-          "vitamin_a": 557.01,
-          "vitamin_c": 40.15,
-          "vitamin_d": 12.74,
-          "vitamin_e": 4.3,
-          "vitamin_k": 44.37,
-          "calcium": 255.21,
-          "copper": 0.19,
-          "iron": 2.79,
-          "magnesium": 61.81,
-          "manganese": 0.38,
-          "phosphorus": 348.72,
-          "potassium": 948.08,
-          "selenium": 29.97,
-          "sodium": 443.31,
-          "zinc": 3.14
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/hot-honey-wings-celery-carrot-radish-blue-cheese-salad/26435",
-      "altVariants": [
-        {
-          "id": 26435,
-          "recipe_id": 2996,
-          "group_label": "Default",
-          "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "published_recipe_uuid": "e5a9fdc8-4ae5-4992-b33e-57967c02d880",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696960735000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            205,
-            9,
-            106,
-            343,
-            144,
-            72,
-            264,
-            47,
-            103,
-            448,
-            83,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            6,
-            2,
-            1,
-            1,
-            1,
-            1,
-            5,
-            20,
-            70,
-            60,
-            30,
-            10,
-            45,
-            7.5
-          ],
-          "average_rating": 0.877,
-          "rating_count": 67,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Better than the wings at your local bar, we pair them with a crunchy, zingy salad for the perfect combo"
-        },
-        {
-          "id": 26434,
-          "recipe_id": 2996,
-          "group_label": "Default",
-          "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "published_recipe_uuid": "c12f416a-f3fd-4575-b3ec-e7a8675b315c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696960735000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            205,
-            9,
-            106,
-            343,
-            144,
-            72,
-            264,
-            47,
-            103,
-            448,
-            83,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            3,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            2.5,
-            10,
-            35,
-            30,
-            15,
-            5,
-            22.5,
-            3.75
-          ],
-          "average_rating": 0.877,
-          "rating_count": 67,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Better than the wings at your local bar, we pair them with a crunchy, zingy salad for the perfect combo"
-        },
-        {
-          "id": 26436,
-          "recipe_id": 2996,
-          "group_label": "Default",
-          "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "published_recipe_uuid": "11bae8e0-3ca7-4dd2-abee-a14c6ddafab9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696960734000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            205,
-            9,
-            106,
-            343,
-            144,
-            72,
-            264,
-            47,
-            103,
-            448,
-            83,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            9,
-            3,
-            1.5,
-            1,
-            1.5,
-            2,
-            7.5,
-            30,
-            105,
-            90,
-            45,
-            15,
-            67.5,
-            11.25
-          ],
-          "average_rating": 0.877,
-          "rating_count": 67,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Better than the wings at your local bar, we pair them with a crunchy, zingy salad for the perfect combo"
-        },
-        {
-          "id": 26439,
-          "recipe_id": 2996,
-          "group_label": "Default",
-          "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "published_recipe_uuid": "bd9f230c-259e-4bd6-84ba-a5f496b4c4a7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696960733000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            205,
-            9,
-            106,
-            343,
-            144,
-            72,
-            264,
-            47,
-            103,
-            448,
-            83,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            9,
-            1.36,
-            1.5,
-            1,
-            1.5,
-            2,
-            7.5,
-            30,
-            105,
-            90,
-            45,
-            15,
-            67.5,
-            11.25
-          ],
-          "average_rating": 0.877,
-          "rating_count": 67,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Better than the wings at your local bar, we pair them with a crunchy, zingy salad for the perfect combo"
-        },
-        {
-          "id": 26438,
-          "recipe_id": 2996,
-          "group_label": "Default",
-          "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "published_recipe_uuid": "2974139e-a150-4c65-9f85-fd9ae561ed9f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696960733000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            205,
-            9,
-            106,
-            343,
-            144,
-            72,
-            264,
-            47,
-            103,
-            448,
-            83,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            6,
-            0.91,
-            1,
-            1,
-            1,
-            1,
-            5,
-            20,
-            70,
-            60,
-            30,
-            10,
-            45,
-            7.5
-          ],
-          "average_rating": 0.877,
-          "rating_count": 67,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Better than the wings at your local bar, we pair them with a crunchy, zingy salad for the perfect combo"
-        },
-        {
-          "id": 26437,
-          "recipe_id": 2996,
-          "group_label": "Default",
-          "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
-          "published_recipe_uuid": "b822887c-658e-4217-af8b-ccbca11efc4c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696960734000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            205,
-            9,
-            106,
-            343,
-            144,
-            72,
-            264,
-            47,
-            103,
-            448,
-            83,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            3,
-            0.45,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            2.5,
-            10,
-            35,
-            30,
-            15,
-            5,
-            22.5,
-            3.75
-          ],
-          "average_rating": 0.877,
-          "rating_count": 67,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Better than the wings at your local bar, we pair them with a crunchy, zingy salad for the perfect combo"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Better than the wings at your local bar, we pair them with a crunchy, zingy salad for the perfect combo",
-        "keywords": [
-          "Wings & Tenders"
-        ],
-        "cuisine": "",
-        "reviewCount": 67,
-        "reviewScore": 4.4
-      }
+  "id": 26435,
+  "recipe_id": 2996,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Hot Honey Wings with Celery, Carrot, Radish & Blue Cheese Salad",
+  "slug": "hot-honey-wings-celery-carrot-radish-blue-cheese-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/thumbnail_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2996/presentation_e7cafbc1-aabc-48d3-9a24-ac8705209d18.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "hot-honey-wings-celery-carrot-radish-blue-cheese-salad",
-    "variantId": "26435"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 429331,
+      "primary_message": "Preheat oven to 500°F. Coat a large baking sheet pan with a thin layer of oil.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 429332,
+      "primary_message": "Pat chicken wings dry with paper towels and place in a medium bowl. Sprinkle with cornstarch and spices, then toss to coat. Transfer to the baking sheet and spread out in an even layer.",
+      "secondary_message": "2 lb chicken wings, split with tips removed\n4 tsp cornstarch\n2 tsp paprika\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 429333,
+      "primary_message": "Place wings in the oven (it doesn't have to be fully heated) and bake, turning once, until cooked through, 20-25 minutes. ",
+      "secondary_message": null
+    },
+    {
+      "id": 429334,
+      "primary_message": "Meanwhile, place honey and hot sauce in a clean medium bowl. Whisk to combine the hot honey and set aside.",
+      "secondary_message": "¼ cup honey\n2 tbsp hot sauce"
+    },
+    {
+      "id": 429335,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "6 sticks celery\n4 medium carrots\n1 bunch radish\n1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 429336,
+      "primary_message": "Peel and mince shallot. Place in another medium bowl along with oil, vinegar, salt, and pepper, then whisk to combine the dressing.",
+      "secondary_message": "1 shallot\n¼ cup extra virgin olive oil\n3 tbsp rice vinegar\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 429337,
+      "primary_message": "Trim and thinly slice celery. Add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 429338,
+      "primary_message": "Peel and trim carrots; run the peeler along each carrot to make long, noodle-like strips. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 429339,
+      "primary_message": "Trim and thinly slice radishes. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 429340,
+      "primary_message": "Shave parsley leaves off the stems; discard stems and roughly chop the leaves. Add to the bowl, along with blue cheese, and gently toss to combine the salad.",
+      "secondary_message": "1 (4 oz) pkg crumbled blue cheese"
+    },
+    {
+      "id": 429341,
+      "primary_message": "When the wings are done, remove from the oven and add to the bowl with the hot honey. Toss to coat.",
+      "secondary_message": null
+    },
+    {
+      "id": 429342,
+      "primary_message": "To serve, divide wings and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 460056,
+      "quantity": "4 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 460055,
+      "quantity": "6 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 460057,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken wings, split with tips removed"
+    },
+    {
+      "id": 460047,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled blue cheese"
+    },
+    {
+      "id": 460053,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 460060,
+      "quantity": "1 bunch",
+      "ingredient_name": "radish"
+    },
+    {
+      "id": 460054,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 460049,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 460059,
+      "quantity": "",
+      "ingredient_name": "cornstarch"
+    },
+    {
+      "id": 460048,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 460052,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 460061,
+      "quantity": "",
+      "ingredient_name": "hot sauce"
+    },
+    {
+      "id": 460050,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 460058,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 460051,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 645.94,
+    "alcohol": 0,
+    "ash": 7.26,
+    "caffeine": 0,
+    "water": 314.89,
+    "carbs": 33.65,
+    "fiber": 4.94,
+    "starch": 21.36,
+    "sugars": 23.44,
+    "fructose": 9.89,
+    "galactose": 0.96,
+    "glucose": 9,
+    "lactose": 0.14,
+    "maltose": 0.31,
+    "sucrose": 2.96,
+    "sugar_alcohol": 0,
+    "fat": 43.23,
+    "monounsaturated": 22.72,
+    "polyunsaturated": 6.22,
+    "omega_3": 0.44,
+    "omega_6": 5.78,
+    "saturated": 13.31,
+    "transfats": 0.32,
+    "cholesterol": 177.68,
+    "protein": 33,
+    "alanine": 1.77,
+    "arginine": 2,
+    "aspartic_acid": 3.06,
+    "cystine": 0.35,
+    "glutamic_acid": 5.6,
+    "glycine": 1.3,
+    "histidine": 1.19,
+    "isoleucine": 1.63,
+    "leucine": 2.74,
+    "lysine": 3.04,
+    "methionine": 0.84,
+    "phenylalanine": 1.41,
+    "proline": 1.53,
+    "serine": 1.36,
+    "threonine": 1.5,
+    "tryptophan": 0.43,
+    "tyrosine": 1.32,
+    "valine": 1.84,
+    "b1_thiamine": 0.17,
+    "b2_riboflavin": 0.39,
+    "b3_niacin": 9.61,
+    "b5_pantothenic_acid": 1.94,
+    "b6_pyridoxine": 1.04,
+    "b12_cobalamin": 0.71,
+    "choline": 136.18,
+    "folate": 93.35,
+    "vitamin_a": 557.01,
+    "vitamin_c": 40.15,
+    "vitamin_d": 12.74,
+    "vitamin_e": 4.3,
+    "vitamin_k": 44.37,
+    "calcium": 255.21,
+    "copper": 0.19,
+    "iron": 2.79,
+    "magnesium": 61.81,
+    "manganese": 0.38,
+    "phosphorus": 348.72,
+    "potassium": 948.08,
+    "selenium": 29.97,
+    "sodium": 443.31,
+    "zinc": 3.14
+  }
 }

@@ -1,1165 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 23618,
-        "recipe_id": 2663,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-        "slug": "creamy-macaroni-salad-bell-pepper-carrot-celery",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 386261,
-            "primary_message": "Fill a medium saucepan halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. ",
-            "secondary_message": "½ tsp salt\n6 oz macaroni (elbow) pasta"
-          },
-          {
-            "id": 386262,
-            "primary_message": "Meanwhile, place yogurt, mayo, vinegar, Dijon, honey, and spices in a medium bowl. Whisk to combine the dressing.",
-            "secondary_message": "½ cup plain Greek yogurt\n¼ cup mayonnaise\n1 tbsp red wine vinegar\n1 tbsp Dijon mustard\n2 tsp honey\n½ tsp garlic powder\n½ tsp onion powder\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 386263,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 sticks celery\n2 medium carrots\n1 red bell pepper"
-          },
-          {
-            "id": 386264,
-            "primary_message": "Trim and small dice celery. Add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 386265,
-            "primary_message": "Peel, trim, and small dice carrots. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 386266,
-            "primary_message": "Trim, seed, and small dice bell pepper. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 386267,
-            "primary_message": "When the pasta is done, drain and rinse under cold water to cool; add to the bowl. Stir to combine the macaroni salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 386268,
-            "primary_message": "To serve, divide macaroni salad between plates or bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 412733,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 412732,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 412723,
-            "quantity": "6 oz",
-            "ingredient_name": "macaroni (elbow) pasta"
-          },
-          {
-            "id": 412729,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 412731,
-            "quantity": "1",
-            "ingredient_name": "red bell pepper"
-          },
-          {
-            "id": 412724,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 412728,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 412725,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 412727,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 412735,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 412734,
-            "quantity": "",
-            "ingredient_name": "onion powder"
-          },
-          {
-            "id": 412730,
-            "quantity": "",
-            "ingredient_name": "red wine vinegar"
-          },
-          {
-            "id": 412726,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 321.55,
-          "alcohol": 0.01,
-          "ash": 3.15,
-          "caffeine": 0,
-          "water": 112.72,
-          "carbs": 42.45,
-          "fiber": 3.46,
-          "starch": 30.36,
-          "sugars": 8.36,
-          "fructose": 2.46,
-          "galactose": 0.42,
-          "glucose": 2.21,
-          "lactose": 0.78,
-          "maltose": 0.89,
-          "sucrose": 1.6,
-          "sugar_alcohol": 0.01,
-          "fat": 12.52,
-          "monounsaturated": 2.89,
-          "polyunsaturated": 6.8,
-          "omega_3": 0.8,
-          "omega_6": 6,
-          "saturated": 2.02,
-          "transfats": 0.06,
-          "cholesterol": 10.67,
-          "protein": 9.86,
-          "alanine": 0.38,
-          "arginine": 0.38,
-          "aspartic_acid": 0.77,
-          "cystine": 0.2,
-          "glutamic_acid": 2.82,
-          "glycine": 0.29,
-          "histidine": 0.23,
-          "isoleucine": 0.43,
-          "leucine": 0.8,
-          "lysine": 0.47,
-          "methionine": 0.14,
-          "phenylalanine": 0.46,
-          "proline": 0.94,
-          "serine": 0.47,
-          "threonine": 0.44,
-          "tryptophan": 0.15,
-          "tyrosine": 0.23,
-          "valine": 0.47,
-          "b1_thiamine": 0.44,
-          "b2_riboflavin": 0.32,
-          "b3_niacin": 3.85,
-          "b5_pantothenic_acid": 0.55,
-          "b6_pyridoxine": 0.24,
-          "b12_cobalamin": 0.25,
-          "choline": 25.14,
-          "folate": 132.52,
-          "vitamin_a": 146,
-          "vitamin_c": 41.17,
-          "vitamin_d": 1.84,
-          "vitamin_e": 1.76,
-          "vitamin_k": 32.44,
-          "calcium": 70.24,
-          "copper": 0.17,
-          "iron": 1.91,
-          "magnesium": 38.85,
-          "manganese": 0.61,
-          "phosphorus": 156.93,
-          "potassium": 367.92,
-          "selenium": 36.89,
-          "sodium": 84.08,
-          "zinc": 1.04
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-macaroni-salad-bell-pepper-carrot-celery/23618",
-      "altVariants": [
-        {
-          "id": 23619,
-          "recipe_id": 2663,
-          "group_label": "Default",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "32480118-15d7-4dec-8d40-0bf0f752ac1a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186994000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            61,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            9,
-            0.75,
-            1.5,
-            3.75,
-            22.5,
-            3.75,
-            15,
-            90,
-            3.75,
-            22.5,
-            7.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23617,
-          "recipe_id": 2663,
-          "group_label": "Default",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "1599e7d1-1d3a-446c-9f9a-488dff0c8f7a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186994000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            61,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            3,
-            0.25,
-            0.5,
-            1.25,
-            7.5,
-            1.25,
-            5,
-            30,
-            1.25,
-            7.5,
-            2.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23621,
-          "recipe_id": 2663,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "d399b0a7-070f-46ab-98ed-06059b4f989c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186993000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            62,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            6,
-            0.5,
-            1,
-            2.5,
-            15,
-            2.5,
-            10,
-            60,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23622,
-          "recipe_id": 2663,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "3e2d1f6a-bae3-4bd6-800c-0c3f903133cd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186993000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            62,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            9,
-            0.75,
-            1.5,
-            3.75,
-            22.5,
-            3.75,
-            15,
-            90,
-            3.75,
-            22.5,
-            7.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23620,
-          "recipe_id": 2663,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "3192bebe-1570-4b27-a835-561468242066",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186994000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            62,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            3,
-            0.25,
-            0.5,
-            1.25,
-            7.5,
-            1.25,
-            5,
-            30,
-            1.25,
-            7.5,
-            2.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23618,
-          "recipe_id": 2663,
-          "group_label": "Default",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "9366d325-ce79-402d-82ca-f2ba4cd5b1de",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186994000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            61,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            6,
-            0.5,
-            1,
-            2.5,
-            15,
-            2.5,
-            10,
-            60,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23628,
-          "recipe_id": 2663,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "206ea1b1-5af3-4e6c-8cf3-e66d0f53334e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186991000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            62,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            255,
-            0.75,
-            1.5,
-            3.75,
-            22.5,
-            3.75,
-            15,
-            90,
-            3.75,
-            22.5,
-            7.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23627,
-          "recipe_id": 2663,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "3b466028-99db-4f72-a3cb-5836574493c9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186991000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            62,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            170,
-            0.5,
-            1,
-            2.5,
-            15,
-            2.5,
-            10,
-            60,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23626,
-          "recipe_id": 2663,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "7be7061a-6509-4a55-b3f9-6dd0a10c7df7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186991000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            62,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            85,
-            0.25,
-            0.5,
-            1.25,
-            7.5,
-            1.25,
-            5,
-            30,
-            1.25,
-            7.5,
-            2.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23625,
-          "recipe_id": 2663,
-          "group_label": "Default",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "70c75c0b-75bc-4529-a9c6-394adfea697b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186992000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            61,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            255,
-            0.75,
-            1.5,
-            3.75,
-            22.5,
-            3.75,
-            15,
-            90,
-            3.75,
-            22.5,
-            7.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23624,
-          "recipe_id": 2663,
-          "group_label": "Default",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "a5fdb10b-409a-44dc-a156-add29bdf90de",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186992000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            61,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            170,
-            0.5,
-            1,
-            2.5,
-            15,
-            2.5,
-            10,
-            60,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        },
-        {
-          "id": 23623,
-          "recipe_id": 2663,
-          "group_label": "Default",
-          "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
-          "published_recipe_uuid": "dcac87e6-c859-43a2-9c00-3157b820bd26",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675186992000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            61,
-            122,
-            150,
-            72,
-            117,
-            79,
-            103,
-            267,
-            200,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            85,
-            0.25,
-            0.5,
-            1.25,
-            7.5,
-            1.25,
-            5,
-            30,
-            1.25,
-            7.5,
-            2.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This macaroni salad is sure to be your new best (snack) friend!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Snack",
-        "description": "This macaroni salad is sure to be your new best (snack) friend!",
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 23618,
+  "recipe_id": 2663,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Creamy Macaroni Salad with Bell Pepper, Carrot & Celery",
+  "slug": "creamy-macaroni-salad-bell-pepper-carrot-celery",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/thumbnail_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2663/presentation_7eed2e81-acc8-42a1-94da-fad7f445c36d.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-macaroni-salad-bell-pepper-carrot-celery",
-    "variantId": "23618"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 386261,
+      "primary_message": "Fill a medium saucepan halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. ",
+      "secondary_message": "½ tsp salt\n6 oz macaroni (elbow) pasta"
+    },
+    {
+      "id": 386262,
+      "primary_message": "Meanwhile, place yogurt, mayo, vinegar, Dijon, honey, and spices in a medium bowl. Whisk to combine the dressing.",
+      "secondary_message": "½ cup plain Greek yogurt\n¼ cup mayonnaise\n1 tbsp red wine vinegar\n1 tbsp Dijon mustard\n2 tsp honey\n½ tsp garlic powder\n½ tsp onion powder\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 386263,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 sticks celery\n2 medium carrots\n1 red bell pepper"
+    },
+    {
+      "id": 386264,
+      "primary_message": "Trim and small dice celery. Add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 386265,
+      "primary_message": "Peel, trim, and small dice carrots. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 386266,
+      "primary_message": "Trim, seed, and small dice bell pepper. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 386267,
+      "primary_message": "When the pasta is done, drain and rinse under cold water to cool; add to the bowl. Stir to combine the macaroni salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 386268,
+      "primary_message": "To serve, divide macaroni salad between plates or bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 412733,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 412732,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 412723,
+      "quantity": "6 oz",
+      "ingredient_name": "macaroni (elbow) pasta"
+    },
+    {
+      "id": 412729,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 412731,
+      "quantity": "1",
+      "ingredient_name": "red bell pepper"
+    },
+    {
+      "id": 412724,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 412728,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 412725,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 412727,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 412735,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 412734,
+      "quantity": "",
+      "ingredient_name": "onion powder"
+    },
+    {
+      "id": 412730,
+      "quantity": "",
+      "ingredient_name": "red wine vinegar"
+    },
+    {
+      "id": 412726,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 321.55,
+    "alcohol": 0.01,
+    "ash": 3.15,
+    "caffeine": 0,
+    "water": 112.72,
+    "carbs": 42.45,
+    "fiber": 3.46,
+    "starch": 30.36,
+    "sugars": 8.36,
+    "fructose": 2.46,
+    "galactose": 0.42,
+    "glucose": 2.21,
+    "lactose": 0.78,
+    "maltose": 0.89,
+    "sucrose": 1.6,
+    "sugar_alcohol": 0.01,
+    "fat": 12.52,
+    "monounsaturated": 2.89,
+    "polyunsaturated": 6.8,
+    "omega_3": 0.8,
+    "omega_6": 6,
+    "saturated": 2.02,
+    "transfats": 0.06,
+    "cholesterol": 10.67,
+    "protein": 9.86,
+    "alanine": 0.38,
+    "arginine": 0.38,
+    "aspartic_acid": 0.77,
+    "cystine": 0.2,
+    "glutamic_acid": 2.82,
+    "glycine": 0.29,
+    "histidine": 0.23,
+    "isoleucine": 0.43,
+    "leucine": 0.8,
+    "lysine": 0.47,
+    "methionine": 0.14,
+    "phenylalanine": 0.46,
+    "proline": 0.94,
+    "serine": 0.47,
+    "threonine": 0.44,
+    "tryptophan": 0.15,
+    "tyrosine": 0.23,
+    "valine": 0.47,
+    "b1_thiamine": 0.44,
+    "b2_riboflavin": 0.32,
+    "b3_niacin": 3.85,
+    "b5_pantothenic_acid": 0.55,
+    "b6_pyridoxine": 0.24,
+    "b12_cobalamin": 0.25,
+    "choline": 25.14,
+    "folate": 132.52,
+    "vitamin_a": 146,
+    "vitamin_c": 41.17,
+    "vitamin_d": 1.84,
+    "vitamin_e": 1.76,
+    "vitamin_k": 32.44,
+    "calcium": 70.24,
+    "copper": 0.17,
+    "iron": 1.91,
+    "magnesium": 38.85,
+    "manganese": 0.61,
+    "phosphorus": 156.93,
+    "potassium": 367.92,
+    "selenium": 36.89,
+    "sodium": 84.08,
+    "zinc": 1.04
+  }
 }

@@ -1,1801 +1,300 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 19440,
-        "recipe_id": 2234,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-        "slug": "everything-spice-fried-egg-bowl-spinach-smoked-salmon-toast",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 319390,
-            "primary_message": "Preheat a large skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 319391,
-            "primary_message": "While the skillet heats up, peel and mince shallots.",
-            "secondary_message": "2 shallots"
-          },
-          {
-            "id": 319392,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add the shallot and cook, stirring often, until softened, about 2 minutes.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 319393,
-            "primary_message": "Meanwhile, peel and mince garlic.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 319394,
-            "primary_message": "Add garlic, seeds, salt, and pepper to the skillet with the shallot. Continue to cook, stirring often, until the shallot and garlic become golden, 2-3 minutes more. Transfer \"everything spice\" to a small bowl to keep the garlic from overcooking. (Reserve skillet for later use.)",
-            "secondary_message": "4 tsp sesame seeds\n2 tsp poppy seeds\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 319395,
-            "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 English cucumber\n2 pints grape tomatoes\n1 lemon\n1 small bunch fresh dill\n1 (5 oz) pkg baby spinach"
-          },
-          {
-            "id": 319396,
-            "primary_message": "Trim and slice cucumber into thin rounds; place on a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 319397,
-            "primary_message": "Halve tomatoes and add to the plate with the cucumber.",
-            "secondary_message": null
-          },
-          {
-            "id": 319398,
-            "primary_message": "Zest lemon into another small bowl. Slice lemon into wedges, add to the plate with the veggies, and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 319399,
-            "primary_message": "Using a knife, shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl with the lemon zest along with goat cheese and crushed red pepper; mash with the back of a spoon to combine and set aside.",
-            "secondary_message": "2 (4 oz) logs goat cheese\n½ tsp crushed red pepper"
-          },
-          {
-            "id": 319400,
-            "primary_message": "Return skillet to medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 319401,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches if necessary, gently crack eggs into the skillet and cook until the tops of the whites are set but the yolks are still runny, about 4 minutes. Remove from heat.",
-            "secondary_message": "4 tsp extra virgin olive oil\n8 eggs"
-          },
-          {
-            "id": 319402,
-            "primary_message": "Meanwhile, halve rolls and toast if desired; spread with lemon-dill goat cheese.",
-            "secondary_message": "4 whole grain buns or rolls"
-          },
-          {
-            "id": 319403,
-            "primary_message": "Chop or tear salmon into bite-sized pieces.",
-            "secondary_message": "2 (4 oz) pkgs smoked salmon"
-          },
-          {
-            "id": 319404,
-            "primary_message": "Divide spinach between bowls. Top with cucumber, tomatoes, lemon wedges, eggs, and smoked salmon; sprinkle with \"everything spice.\" Serve with goat cheese rolls on the side and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 339864,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 339869,
-            "quantity": "8",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 339873,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 339878,
-            "quantity": "1 small bunch",
-            "ingredient_name": "fresh dill"
-          },
-          {
-            "id": 339863,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 339870,
-            "quantity": "2 (4 oz) logs",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 339876,
-            "quantity": "2 pints",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 339875,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 339872,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 339879,
-            "quantity": "2 (4 oz) pkgs",
-            "ingredient_name": "smoked salmon"
-          },
-          {
-            "id": 339871,
-            "quantity": "4",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 339866,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 339867,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 339865,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 339877,
-            "quantity": "",
-            "ingredient_name": "poppy seeds"
-          },
-          {
-            "id": 339868,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 339874,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          }
-        ],
-        "nutrition": {
-          "energy": 639.55,
-          "alcohol": 0,
-          "ash": 7.47,
-          "caffeine": 0,
-          "water": 425.85,
-          "carbs": 33.09,
-          "fiber": 7.64,
-          "starch": 11,
-          "sugars": 11.59,
-          "fructose": 4.52,
-          "galactose": 0.04,
-          "glucose": 4.34,
-          "lactose": 0,
-          "maltose": 1.46,
-          "sucrose": 1.12,
-          "sugar_alcohol": 0,
-          "fat": 38.81,
-          "monounsaturated": 17.06,
-          "polyunsaturated": 6.13,
-          "omega_3": 0.28,
-          "omega_6": 4.89,
-          "saturated": 13.88,
-          "transfats": 0.81,
-          "cholesterol": 366.35,
-          "protein": 41.85,
-          "alanine": 1.73,
-          "arginine": 2.06,
-          "aspartic_acid": 3.36,
-          "cystine": 0.51,
-          "glutamic_acid": 6.97,
-          "glycine": 1.27,
-          "histidine": 1.01,
-          "isoleucine": 1.76,
-          "leucine": 3.12,
-          "lysine": 2.77,
-          "methionine": 1.03,
-          "phenylalanine": 1.7,
-          "proline": 2.54,
-          "serine": 1.97,
-          "threonine": 1.56,
-          "tryptophan": 0.46,
-          "tyrosine": 1.39,
-          "valine": 2.3,
-          "b1_thiamine": 0.39,
-          "b2_riboflavin": 0.92,
-          "b3_niacin": 6.55,
-          "b5_pantothenic_acid": 2.98,
-          "b6_pyridoxine": 0.86,
-          "b12_cobalamin": 2.73,
-          "choline": 303.79,
-          "folate": 188.97,
-          "vitamin_a": 2332.33,
-          "vitamin_c": 43.84,
-          "vitamin_d": 80.63,
-          "vitamin_e": 4.7,
-          "vitamin_k": 226.61,
-          "calcium": 268.22,
-          "copper": 1.03,
-          "iron": 6.8,
-          "magnesium": 143,
-          "manganese": 1.87,
-          "phosphorus": 619.07,
-          "potassium": 1125.08,
-          "selenium": 69.89,
-          "sodium": 1711.14,
-          "zinc": 3.67
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/everything-spice-fried-egg-bowl-spinach-smoked-salmon-toast/19440",
-      "altVariants": [
-        {
-          "id": 19443,
-          "recipe_id": 2234,
-          "group_label": "Keto",
-          "name": "\"Everything Spice\" Egg Bowl with Spinach, Smoked Salmon & Goat Cheese",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19443/thumbnail_b4ea7c2b-e732-4de6-b7f5-7e3a93cf01d7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19443/presentation_b4ea7c2b-e732-4de6-b7f5-7e3a93cf01d7.jpeg",
-          "published_recipe_uuid": "dfafb43f-7438-4486-8854-32e4a26e70bf",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830039000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            1,
-            1,
-            2,
-            2,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            2.5,
-            50,
-            20,
-            1.25,
-            30
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19447,
-          "recipe_id": 2234,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "54241518-b8c8-4b28-a5f8-915565618991",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830038000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            127,
-            126,
-            277,
-            192,
-            184,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            1.5,
-            1,
-            3,
-            6,
-            3,
-            3,
-            1.5,
-            0.5,
-            3,
-            2.5,
-            3.75,
-            75,
-            15,
-            2.5,
-            30
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19446,
-          "recipe_id": 2234,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "2308c373-05b6-4210-863d-f6dba1206fcd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830038000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            127,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            1,
-            1,
-            2,
-            4,
-            2,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            2.5,
-            50,
-            10,
-            1.25,
-            20
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19445,
-          "recipe_id": 2234,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "606f86b7-1b4d-405e-8a29-458c66165c4c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830039000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            127,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            0.5,
-            0.5,
-            1,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            1.25,
-            25,
-            5,
-            0.625,
-            10
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19439,
-          "recipe_id": 2234,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "f1d7e713-708c-40d1-95ed-a26767ac90b8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830041000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            128,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            2,
-            0.625,
-            1.25,
-            25,
-            5,
-            0.625,
-            10
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19444,
-          "recipe_id": 2234,
-          "group_label": "Keto",
-          "name": "\"Everything Spice\" Egg Bowl with Spinach, Smoked Salmon & Goat Cheese",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19444/thumbnail_287906d8-fe0d-4715-ae2a-6df6895da5cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19444/presentation_287906d8-fe0d-4715-ae2a-6df6895da5cc.jpeg",
-          "published_recipe_uuid": "4896583b-f5b5-4fd4-8d08-c066c27f1c82",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830039000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            184,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            1.5,
-            1,
-            3,
-            3,
-            3,
-            1.5,
-            0.5,
-            3,
-            2.5,
-            3.75,
-            75,
-            30,
-            2.5,
-            45
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19442,
-          "recipe_id": 2234,
-          "group_label": "Keto",
-          "name": "\"Everything Spice\" Egg Bowl with Spinach, Smoked Salmon & Goat Cheese",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19442/thumbnail_1f62ae26-98c7-4651-97ce-cb8f3cbf1ab2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19442/presentation_1f62ae26-98c7-4651-97ce-cb8f3cbf1ab2.jpeg",
-          "published_recipe_uuid": "0c64f5f8-2ec5-48ca-971b-d8eb8f850865",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830039000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            1.25,
-            25,
-            10,
-            0.625,
-            15
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19441,
-          "recipe_id": 2234,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "cf9be517-c705-47d5-9903-e81f3760f3e1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830040000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            184,
-            342,
-            128,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            1.5,
-            1,
-            3,
-            3,
-            3,
-            1.5,
-            0.5,
-            3,
-            6,
-            2.5,
-            3.75,
-            75,
-            15,
-            2.5,
-            30
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19440,
-          "recipe_id": 2234,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "8278008d-33da-42cc-8f21-f173bfa213b5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830040000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            128,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            1,
-            1,
-            2,
-            2,
-            2,
-            1,
-            2,
-            2,
-            4,
-            1.25,
-            2.5,
-            50,
-            10,
-            1.25,
-            20
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19456,
-          "recipe_id": 2234,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "bf89bb8a-c58c-4ee2-a623-32124db248d1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830035000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            127,
-            126,
-            277,
-            192,
-            184,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            1.5,
-            1,
-            3,
-            6,
-            3,
-            3,
-            1.5,
-            0.5,
-            3,
-            2.5,
-            3.75,
-            75,
-            15,
-            2.5,
-            30
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19455,
-          "recipe_id": 2234,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "c1541d30-77fa-4844-89f8-22b40df0ea0d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830035000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            127,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            1,
-            1,
-            2,
-            4,
-            2,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            2.5,
-            50,
-            10,
-            1.25,
-            20
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19454,
-          "recipe_id": 2234,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "381db472-5b42-4db8-8e38-d23f64255724",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830036000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            127,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            0.5,
-            0.5,
-            1,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            1.25,
-            25,
-            5,
-            0.625,
-            10
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19453,
-          "recipe_id": 2234,
-          "group_label": "Keto",
-          "name": "\"Everything Spice\" Egg Bowl with Spinach, Smoked Salmon & Goat Cheese",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19453/thumbnail_2744fd0d-2e22-4bf2-92e5-75c28056644a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19453/presentation_2744fd0d-2e22-4bf2-92e5-75c28056644a.jpeg",
-          "published_recipe_uuid": "41d236a3-d263-42e9-866c-d07b1fa9800d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830036000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            184,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            1.5,
-            1,
-            3,
-            3,
-            3,
-            1.5,
-            0.5,
-            3,
-            2.5,
-            3.75,
-            75,
-            30,
-            2.5,
-            45
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19452,
-          "recipe_id": 2234,
-          "group_label": "Keto",
-          "name": "\"Everything Spice\" Egg Bowl with Spinach, Smoked Salmon & Goat Cheese",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19452/thumbnail_f8ff5e36-28d4-4f25-aa27-8aa8ce83bea5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19452/presentation_f8ff5e36-28d4-4f25-aa27-8aa8ce83bea5.jpeg",
-          "published_recipe_uuid": "ba5fa949-41e2-493e-a266-27dc0b67f7df",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830036000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            1,
-            1,
-            2,
-            2,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            2.5,
-            50,
-            20,
-            1.25,
-            30
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19451,
-          "recipe_id": 2234,
-          "group_label": "Keto",
-          "name": "\"Everything Spice\" Egg Bowl with Spinach, Smoked Salmon & Goat Cheese",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19451/thumbnail_a86f168e-36e2-4490-9b40-aaf69c3601ff.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/19451/presentation_a86f168e-36e2-4490-9b40-aaf69c3601ff.jpeg",
-          "published_recipe_uuid": "9f8c226f-3962-429b-af55-bd02fdda3009",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830037000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            1.25,
-            25,
-            10,
-            0.625,
-            15
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19450,
-          "recipe_id": 2234,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "3dd586e2-924a-4015-bc7f-1ad262685997",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830037000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            184,
-            342,
-            128,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            1.5,
-            1,
-            3,
-            3,
-            3,
-            1.5,
-            0.5,
-            3,
-            6,
-            2.5,
-            3.75,
-            75,
-            15,
-            2.5,
-            30
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19449,
-          "recipe_id": 2234,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "90711e49-2969-481c-9d83-150cc7a4961b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830037000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            128,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            1,
-            1,
-            2,
-            2,
-            2,
-            1,
-            2,
-            2,
-            4,
-            1.25,
-            2.5,
-            50,
-            10,
-            1.25,
-            20
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        },
-        {
-          "id": 19448,
-          "recipe_id": 2234,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
-          "published_recipe_uuid": "c345a296-5c12-4125-918e-fd13b0d1db48",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1655830038000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1,
-            12,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            121,
-            155,
-            320,
-            24,
-            126,
-            277,
-            192,
-            144,
-            342,
-            128,
-            72,
-            85,
-            47,
-            311,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            2,
-            0.625,
-            1.25,
-            25,
-            5,
-            0.625,
-            10
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "There's no way you won't have a good day after starting out with this  fully loaded fried egg bowl",
-        "keywords": [
-          "Bowls"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 19440,
+  "recipe_id": 2234,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "\"Everything Spice\" Fried Egg Bowl with Spinach, Smoked Salmon & Toast",
+  "slug": "everything-spice-fried-egg-bowl-spinach-smoked-salmon-toast",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/thumbnail_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2234/presentation_5e7eb812-ade2-4df6-b339-249d18bb869f.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "everything-spice-fried-egg-bowl-spinach-smoked-salmon-toast",
-    "variantId": "19440"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 319390,
+      "primary_message": "Preheat a large skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 319391,
+      "primary_message": "While the skillet heats up, peel and mince shallots.",
+      "secondary_message": "2 shallots"
+    },
+    {
+      "id": 319392,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add the shallot and cook, stirring often, until softened, about 2 minutes.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 319393,
+      "primary_message": "Meanwhile, peel and mince garlic.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 319394,
+      "primary_message": "Add garlic, seeds, salt, and pepper to the skillet with the shallot. Continue to cook, stirring often, until the shallot and garlic become golden, 2-3 minutes more. Transfer \"everything spice\" to a small bowl to keep the garlic from overcooking. (Reserve skillet for later use.)",
+      "secondary_message": "4 tsp sesame seeds\n2 tsp poppy seeds\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 319395,
+      "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 English cucumber\n2 pints grape tomatoes\n1 lemon\n1 small bunch fresh dill\n1 (5 oz) pkg baby spinach"
+    },
+    {
+      "id": 319396,
+      "primary_message": "Trim and slice cucumber into thin rounds; place on a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 319397,
+      "primary_message": "Halve tomatoes and add to the plate with the cucumber.",
+      "secondary_message": null
+    },
+    {
+      "id": 319398,
+      "primary_message": "Zest lemon into another small bowl. Slice lemon into wedges, add to the plate with the veggies, and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 319399,
+      "primary_message": "Using a knife, shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl with the lemon zest along with goat cheese and crushed red pepper; mash with the back of a spoon to combine and set aside.",
+      "secondary_message": "2 (4 oz) logs goat cheese\n½ tsp crushed red pepper"
+    },
+    {
+      "id": 319400,
+      "primary_message": "Return skillet to medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 319401,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches if necessary, gently crack eggs into the skillet and cook until the tops of the whites are set but the yolks are still runny, about 4 minutes. Remove from heat.",
+      "secondary_message": "4 tsp extra virgin olive oil\n8 eggs"
+    },
+    {
+      "id": 319402,
+      "primary_message": "Meanwhile, halve rolls and toast if desired; spread with lemon-dill goat cheese.",
+      "secondary_message": "4 whole grain buns or rolls"
+    },
+    {
+      "id": 319403,
+      "primary_message": "Chop or tear salmon into bite-sized pieces.",
+      "secondary_message": "2 (4 oz) pkgs smoked salmon"
+    },
+    {
+      "id": 319404,
+      "primary_message": "Divide spinach between bowls. Top with cucumber, tomatoes, lemon wedges, eggs, and smoked salmon; sprinkle with \"everything spice.\" Serve with goat cheese rolls on the side and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 339864,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 339869,
+      "quantity": "8",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 339873,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 339878,
+      "quantity": "1 small bunch",
+      "ingredient_name": "fresh dill"
+    },
+    {
+      "id": 339863,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 339870,
+      "quantity": "2 (4 oz) logs",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 339876,
+      "quantity": "2 pints",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 339875,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 339872,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 339879,
+      "quantity": "2 (4 oz) pkgs",
+      "ingredient_name": "smoked salmon"
+    },
+    {
+      "id": 339871,
+      "quantity": "4",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 339866,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 339867,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 339865,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 339877,
+      "quantity": "",
+      "ingredient_name": "poppy seeds"
+    },
+    {
+      "id": 339868,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 339874,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    }
+  ],
+  "nutrition": {
+    "energy": 639.55,
+    "alcohol": 0,
+    "ash": 7.47,
+    "caffeine": 0,
+    "water": 425.85,
+    "carbs": 33.09,
+    "fiber": 7.64,
+    "starch": 11,
+    "sugars": 11.59,
+    "fructose": 4.52,
+    "galactose": 0.04,
+    "glucose": 4.34,
+    "lactose": 0,
+    "maltose": 1.46,
+    "sucrose": 1.12,
+    "sugar_alcohol": 0,
+    "fat": 38.81,
+    "monounsaturated": 17.06,
+    "polyunsaturated": 6.13,
+    "omega_3": 0.28,
+    "omega_6": 4.89,
+    "saturated": 13.88,
+    "transfats": 0.81,
+    "cholesterol": 366.35,
+    "protein": 41.85,
+    "alanine": 1.73,
+    "arginine": 2.06,
+    "aspartic_acid": 3.36,
+    "cystine": 0.51,
+    "glutamic_acid": 6.97,
+    "glycine": 1.27,
+    "histidine": 1.01,
+    "isoleucine": 1.76,
+    "leucine": 3.12,
+    "lysine": 2.77,
+    "methionine": 1.03,
+    "phenylalanine": 1.7,
+    "proline": 2.54,
+    "serine": 1.97,
+    "threonine": 1.56,
+    "tryptophan": 0.46,
+    "tyrosine": 1.39,
+    "valine": 2.3,
+    "b1_thiamine": 0.39,
+    "b2_riboflavin": 0.92,
+    "b3_niacin": 6.55,
+    "b5_pantothenic_acid": 2.98,
+    "b6_pyridoxine": 0.86,
+    "b12_cobalamin": 2.73,
+    "choline": 303.79,
+    "folate": 188.97,
+    "vitamin_a": 2332.33,
+    "vitamin_c": 43.84,
+    "vitamin_d": 80.63,
+    "vitamin_e": 4.7,
+    "vitamin_k": 226.61,
+    "calcium": 268.22,
+    "copper": 1.03,
+    "iron": 6.8,
+    "magnesium": 143,
+    "manganese": 1.87,
+    "phosphorus": 619.07,
+    "potassium": 1125.08,
+    "selenium": 69.89,
+    "sodium": 1711.14,
+    "zinc": 3.67
+  }
 }

@@ -1,834 +1,305 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22253,
-        "recipe_id": 2523,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
-        "slug": "turkey-cranberry-burger-onion-goat-cheese-mixed-greens",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 372614,
-            "primary_message": "Preheat a medium saucepan over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 372615,
-            "primary_message": "While the pan heats up, peel, halve, and slice onion crosswise into thin half-moons.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 372616,
-            "primary_message": "Once the pan is hot, add oil and swirl to coat the bottom. Add onion and salt; cook, stirring occasionally, until onion is soft and caramelized, 15-20 minutes.",
-            "secondary_message": "1 tbsp extra virgin olive oil\n½ tsp salt"
-          },
-          {
-            "id": 372617,
-            "primary_message": "Meanwhile, roughly chop cranberries and place in a medium bowl.",
-            "secondary_message": "¼ cup dried cranberries"
-          },
-          {
-            "id": 372618,
-            "primary_message": "Add turkey, bread crumbs, and spices to the bowl with the cranberries. Mix with your hands until well combined. Form the turkey mixture into 4 equal-sized patties and place on a plate. ",
-            "secondary_message": "1 ½ lb ground turkey\n½ cup panko bread crumbs\n2 tsp sage, dried\n2 tsp Italian seasoning\n1 tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 372619,
-            "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 372620,
-            "primary_message": "Once the pan is hot, coat with oil. Add burger patties and cook, undisturbed, for 5 minutes; flip patties and cook an additional 5-7 minutes, until cooked through. Once done, transfer to a clean plate.",
-            "secondary_message": "1 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 372621,
-            "primary_message": "Meanwhile, place vinegar, oil, honey, Dijon, salt, and pepper in a clean medium bowl. Whisk to combine the dressing.",
-            "secondary_message": "2 tbsp apple cider vinegar\n4 tsp extra virgin olive oil\n2 tsp honey\n2 tsp Dijon mustard\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 372622,
-            "primary_message": "Wash, dry, quarter, and core apples; small dice. Add to the bowl with the dressing.",
-            "secondary_message": "2 Granny Smith apples"
-          },
-          {
-            "id": 372623,
-            "primary_message": "Wash and dry the mixed greens (skip this step if they came pre-washed). Add to the bowl, along with additional cranberries, and toss to combine the salad. Set aside.",
-            "secondary_message": "1 (5 oz) pkg spring mix (mixed greens)\n¼ cup dried cranberries"
-          },
-          {
-            "id": 372624,
-            "primary_message": "When the onions are done, add vinegar and Worcestershire to the pan, then stir to combine. Remove from heat. ",
-            "secondary_message": "4 tsp red wine vinegar\n1 tsp Worcestershire sauce"
-          },
-          {
-            "id": 372625,
-            "primary_message": "Toast buns if desired.",
-            "secondary_message": "4 whole grain buns or rolls"
-          },
-          {
-            "id": 372626,
-            "primary_message": "Crumble goat cheese into a small bowl.",
-            "secondary_message": "1 (4 oz) log goat cheese"
-          },
-          {
-            "id": 372627,
-            "primary_message": "Place bottom half of each bun on a plate; layer with burger patties, onions, goat cheese, and a small portion of the salad. Close with the top half of each bun and serve with remaining salad on the side. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 397386,
-            "quantity": "½ cup",
-            "ingredient_name": "dried cranberries"
-          },
-          {
-            "id": 397396,
-            "quantity": "1 (4 oz) log",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 397393,
-            "quantity": "2",
-            "ingredient_name": "Granny Smith apples"
-          },
-          {
-            "id": 397402,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ground turkey"
-          },
-          {
-            "id": 397403,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 397401,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 397397,
-            "quantity": "4",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 397399,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 397388,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 397394,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 397387,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 397392,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 397389,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 397395,
-            "quantity": "",
-            "ingredient_name": "panko bread crumbs"
-          },
-          {
-            "id": 397398,
-            "quantity": "",
-            "ingredient_name": "red wine vinegar"
-          },
-          {
-            "id": 397390,
-            "quantity": "",
-            "ingredient_name": "sage, dried"
-          },
-          {
-            "id": 397391,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 397400,
-            "quantity": "",
-            "ingredient_name": "Worcestershire sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 694.14,
-          "alcohol": 0,
-          "ash": 7.67,
-          "caffeine": 0,
-          "water": 311.16,
-          "carbs": 56.09,
-          "fiber": 7.94,
-          "starch": 17.62,
-          "sugars": 28.76,
-          "fructose": 9.42,
-          "galactose": 0.12,
-          "glucose": 6.41,
-          "lactose": 0,
-          "maltose": 1.65,
-          "sucrose": 12.27,
-          "sugar_alcohol": 0,
-          "fat": 32.95,
-          "monounsaturated": 15.08,
-          "polyunsaturated": 6.42,
-          "omega_3": 0.41,
-          "omega_6": 5.34,
-          "saturated": 9.67,
-          "transfats": 0.76,
-          "cholesterol": 130.36,
-          "protein": 46.59,
-          "alanine": 2.35,
-          "arginine": 2.8,
-          "aspartic_acid": 3.85,
-          "cystine": 0.47,
-          "glutamic_acid": 7.65,
-          "glycine": 2.07,
-          "histidine": 1.24,
-          "isoleucine": 1.89,
-          "leucine": 3.53,
-          "lysine": 3.53,
-          "methionine": 1.19,
-          "phenylalanine": 1.73,
-          "proline": 2.54,
-          "serine": 1.83,
-          "threonine": 1.87,
-          "tryptophan": 0.5,
-          "tyrosine": 1.52,
-          "valine": 2.13,
-          "b1_thiamine": 0.42,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 14.6,
-          "b5_pantothenic_acid": 2.45,
-          "b6_pyridoxine": 1.25,
-          "b12_cobalamin": 1.78,
-          "choline": 114.65,
-          "folate": 94.18,
-          "vitamin_a": 191.56,
-          "vitamin_c": 10.49,
-          "vitamin_d": 28.05,
-          "vitamin_e": 2.73,
-          "vitamin_k": 83.2,
-          "calcium": 168.08,
-          "copper": 0.64,
-          "iron": 5.21,
-          "magnesium": 105.24,
-          "manganese": 1.43,
-          "phosphorus": 548.79,
-          "potassium": 805.39,
-          "selenium": 58.41,
-          "sodium": 490.19,
-          "zinc": 5.46
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/turkey-cranberry-burger-onion-goat-cheese-mixed-greens/22253",
-      "altVariants": [
-        {
-          "id": 22254,
-          "recipe_id": 2523,
-          "group_label": "Default",
-          "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "published_recipe_uuid": "3e44146e-1c4d-4e71-a8a1-ee9cc6fc06c5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151449000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            30,
-            126,
-            113,
-            170,
-            184,
-            145,
-            128,
-            133,
-            72,
-            117,
-            47,
-            103,
-            81,
-            119,
-            130,
-            87,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            0.6666666666666666,
-            1.5,
-            3,
-            2.25,
-            1.5,
-            1.5,
-            6,
-            45,
-            5,
-            15,
-            75,
-            15,
-            15,
-            180,
-            30,
-            15,
-            13.75,
-            7.5
-          ],
-          "average_rating": 0.866,
-          "rating_count": 119,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Get a little festive with these delicious turkey cranberry burgers! Topped with goat cheese for an irresistible creaminess that plays in perfect balance with crisp granny smith apples"
-        },
-        {
-          "id": 22253,
-          "recipe_id": 2523,
-          "group_label": "Default",
-          "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "published_recipe_uuid": "950ab6d6-fea2-4848-93f4-4eee078f960a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151449000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            30,
-            126,
-            113,
-            170,
-            184,
-            145,
-            128,
-            133,
-            72,
-            117,
-            47,
-            103,
-            81,
-            119,
-            130,
-            87,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            1.5,
-            1,
-            1,
-            4,
-            30,
-            2.5,
-            10,
-            50,
-            10,
-            10,
-            120,
-            20,
-            10,
-            8.75,
-            5
-          ],
-          "average_rating": 0.866,
-          "rating_count": 119,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Get a little festive with these delicious turkey cranberry burgers! Topped with goat cheese for an irresistible creaminess that plays in perfect balance with crisp granny smith apples"
-        },
-        {
-          "id": 22252,
-          "recipe_id": 2523,
-          "group_label": "Default",
-          "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "published_recipe_uuid": "0e043eb0-c988-4b34-a754-f9aec681b7ab",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151449000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            30,
-            126,
-            113,
-            170,
-            184,
-            145,
-            128,
-            133,
-            72,
-            117,
-            47,
-            103,
-            81,
-            119,
-            130,
-            87,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            0.25,
-            0.5,
-            1,
-            0.75,
-            0.5,
-            0.5,
-            2,
-            15,
-            1.25,
-            5,
-            25,
-            5,
-            5,
-            60,
-            10,
-            5,
-            4.375,
-            2.5
-          ],
-          "average_rating": 0.866,
-          "rating_count": 119,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Get a little festive with these delicious turkey cranberry burgers! Topped with goat cheese for an irresistible creaminess that plays in perfect balance with crisp granny smith apples"
-        },
-        {
-          "id": 22257,
-          "recipe_id": 2523,
-          "group_label": "Default",
-          "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "published_recipe_uuid": "1411a4ea-8954-4323-8479-8f5071d988e4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151448000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            30,
-            126,
-            113,
-            170,
-            184,
-            145,
-            128,
-            133,
-            72,
-            117,
-            47,
-            103,
-            81,
-            119,
-            130,
-            87,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            0.6666666666666666,
-            1.5,
-            3,
-            1.02,
-            1.5,
-            1.5,
-            6,
-            45,
-            5,
-            15,
-            75,
-            15,
-            15,
-            180,
-            30,
-            15,
-            13.75,
-            7.5
-          ],
-          "average_rating": 0.866,
-          "rating_count": 119,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Get a little festive with these delicious turkey cranberry burgers! Topped with goat cheese for an irresistible creaminess that plays in perfect balance with crisp granny smith apples"
-        },
-        {
-          "id": 22256,
-          "recipe_id": 2523,
-          "group_label": "Default",
-          "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "published_recipe_uuid": "0256739f-4dd8-4247-8a36-cd410aac60d1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151447000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            30,
-            126,
-            113,
-            170,
-            184,
-            145,
-            128,
-            133,
-            72,
-            117,
-            47,
-            103,
-            81,
-            119,
-            130,
-            87,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.68,
-            1,
-            1,
-            4,
-            30,
-            2.5,
-            10,
-            50,
-            10,
-            10,
-            120,
-            20,
-            10,
-            8.75,
-            5
-          ],
-          "average_rating": 0.866,
-          "rating_count": 119,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Get a little festive with these delicious turkey cranberry burgers! Topped with goat cheese for an irresistible creaminess that plays in perfect balance with crisp granny smith apples"
-        },
-        {
-          "id": 22255,
-          "recipe_id": 2523,
-          "group_label": "Default",
-          "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
-          "published_recipe_uuid": "aacd0186-c0bc-4a19-9fb7-f206f3595ab9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151448000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            30,
-            126,
-            113,
-            170,
-            184,
-            145,
-            128,
-            133,
-            72,
-            117,
-            47,
-            103,
-            81,
-            119,
-            130,
-            87,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            0.25,
-            0.5,
-            1,
-            0.34,
-            0.5,
-            0.5,
-            2,
-            15,
-            1.25,
-            5,
-            25,
-            5,
-            5,
-            60,
-            10,
-            5,
-            4.375,
-            2.5
-          ],
-          "average_rating": 0.866,
-          "rating_count": 119,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Get a little festive with these delicious turkey cranberry burgers! Topped with goat cheese for an irresistible creaminess that plays in perfect balance with crisp granny smith apples"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Get a little festive with these delicious turkey cranberry burgers! Topped with goat cheese for an irresistible creaminess that plays in perfect balance with crisp granny smith apples",
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "",
-        "reviewCount": 119,
-        "reviewScore": 4.3
-      }
+  "id": 22253,
+  "recipe_id": 2523,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Turkey Cranberry Burger with Onion, Goat Cheese & Mixed Greens",
+  "slug": "turkey-cranberry-burger-onion-goat-cheese-mixed-greens",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/thumbnail_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2523/presentation_cf3f5e17-3c03-4cd4-96ef-067198db30ce.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "turkey-cranberry-burger-onion-goat-cheese-mixed-greens",
-    "variantId": "22253"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 372614,
+      "primary_message": "Preheat a medium saucepan over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 372615,
+      "primary_message": "While the pan heats up, peel, halve, and slice onion crosswise into thin half-moons.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 372616,
+      "primary_message": "Once the pan is hot, add oil and swirl to coat the bottom. Add onion and salt; cook, stirring occasionally, until onion is soft and caramelized, 15-20 minutes.",
+      "secondary_message": "1 tbsp extra virgin olive oil\n½ tsp salt"
+    },
+    {
+      "id": 372617,
+      "primary_message": "Meanwhile, roughly chop cranberries and place in a medium bowl.",
+      "secondary_message": "¼ cup dried cranberries"
+    },
+    {
+      "id": 372618,
+      "primary_message": "Add turkey, bread crumbs, and spices to the bowl with the cranberries. Mix with your hands until well combined. Form the turkey mixture into 4 equal-sized patties and place on a plate. ",
+      "secondary_message": "1 ½ lb ground turkey\n½ cup panko bread crumbs\n2 tsp sage, dried\n2 tsp Italian seasoning\n1 tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 372619,
+      "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 372620,
+      "primary_message": "Once the pan is hot, coat with oil. Add burger patties and cook, undisturbed, for 5 minutes; flip patties and cook an additional 5-7 minutes, until cooked through. Once done, transfer to a clean plate.",
+      "secondary_message": "1 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 372621,
+      "primary_message": "Meanwhile, place vinegar, oil, honey, Dijon, salt, and pepper in a clean medium bowl. Whisk to combine the dressing.",
+      "secondary_message": "2 tbsp apple cider vinegar\n4 tsp extra virgin olive oil\n2 tsp honey\n2 tsp Dijon mustard\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 372622,
+      "primary_message": "Wash, dry, quarter, and core apples; small dice. Add to the bowl with the dressing.",
+      "secondary_message": "2 Granny Smith apples"
+    },
+    {
+      "id": 372623,
+      "primary_message": "Wash and dry the mixed greens (skip this step if they came pre-washed). Add to the bowl, along with additional cranberries, and toss to combine the salad. Set aside.",
+      "secondary_message": "1 (5 oz) pkg spring mix (mixed greens)\n¼ cup dried cranberries"
+    },
+    {
+      "id": 372624,
+      "primary_message": "When the onions are done, add vinegar and Worcestershire to the pan, then stir to combine. Remove from heat. ",
+      "secondary_message": "4 tsp red wine vinegar\n1 tsp Worcestershire sauce"
+    },
+    {
+      "id": 372625,
+      "primary_message": "Toast buns if desired.",
+      "secondary_message": "4 whole grain buns or rolls"
+    },
+    {
+      "id": 372626,
+      "primary_message": "Crumble goat cheese into a small bowl.",
+      "secondary_message": "1 (4 oz) log goat cheese"
+    },
+    {
+      "id": 372627,
+      "primary_message": "Place bottom half of each bun on a plate; layer with burger patties, onions, goat cheese, and a small portion of the salad. Close with the top half of each bun and serve with remaining salad on the side. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 397386,
+      "quantity": "½ cup",
+      "ingredient_name": "dried cranberries"
+    },
+    {
+      "id": 397396,
+      "quantity": "1 (4 oz) log",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 397393,
+      "quantity": "2",
+      "ingredient_name": "Granny Smith apples"
+    },
+    {
+      "id": 397402,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ground turkey"
+    },
+    {
+      "id": 397403,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 397401,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 397397,
+      "quantity": "4",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 397399,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 397388,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 397394,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 397387,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 397392,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 397389,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 397395,
+      "quantity": "",
+      "ingredient_name": "panko bread crumbs"
+    },
+    {
+      "id": 397398,
+      "quantity": "",
+      "ingredient_name": "red wine vinegar"
+    },
+    {
+      "id": 397390,
+      "quantity": "",
+      "ingredient_name": "sage, dried"
+    },
+    {
+      "id": 397391,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 397400,
+      "quantity": "",
+      "ingredient_name": "Worcestershire sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 694.14,
+    "alcohol": 0,
+    "ash": 7.67,
+    "caffeine": 0,
+    "water": 311.16,
+    "carbs": 56.09,
+    "fiber": 7.94,
+    "starch": 17.62,
+    "sugars": 28.76,
+    "fructose": 9.42,
+    "galactose": 0.12,
+    "glucose": 6.41,
+    "lactose": 0,
+    "maltose": 1.65,
+    "sucrose": 12.27,
+    "sugar_alcohol": 0,
+    "fat": 32.95,
+    "monounsaturated": 15.08,
+    "polyunsaturated": 6.42,
+    "omega_3": 0.41,
+    "omega_6": 5.34,
+    "saturated": 9.67,
+    "transfats": 0.76,
+    "cholesterol": 130.36,
+    "protein": 46.59,
+    "alanine": 2.35,
+    "arginine": 2.8,
+    "aspartic_acid": 3.85,
+    "cystine": 0.47,
+    "glutamic_acid": 7.65,
+    "glycine": 2.07,
+    "histidine": 1.24,
+    "isoleucine": 1.89,
+    "leucine": 3.53,
+    "lysine": 3.53,
+    "methionine": 1.19,
+    "phenylalanine": 1.73,
+    "proline": 2.54,
+    "serine": 1.83,
+    "threonine": 1.87,
+    "tryptophan": 0.5,
+    "tyrosine": 1.52,
+    "valine": 2.13,
+    "b1_thiamine": 0.42,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 14.6,
+    "b5_pantothenic_acid": 2.45,
+    "b6_pyridoxine": 1.25,
+    "b12_cobalamin": 1.78,
+    "choline": 114.65,
+    "folate": 94.18,
+    "vitamin_a": 191.56,
+    "vitamin_c": 10.49,
+    "vitamin_d": 28.05,
+    "vitamin_e": 2.73,
+    "vitamin_k": 83.2,
+    "calcium": 168.08,
+    "copper": 0.64,
+    "iron": 5.21,
+    "magnesium": 105.24,
+    "manganese": 1.43,
+    "phosphorus": 548.79,
+    "potassium": 805.39,
+    "selenium": 58.41,
+    "sodium": 490.19,
+    "zinc": 5.46
+  }
 }

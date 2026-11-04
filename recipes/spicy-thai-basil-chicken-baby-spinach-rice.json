@@ -1,1157 +1,265 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 8606,
-        "recipe_id": 971,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-        "slug": "spicy-thai-basil-chicken-baby-spinach-rice",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 136669,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a small saucepan. Add water and bring the mixture to a boil over high heat.",
-            "secondary_message": "1 cup basmati rice\n2 cup water"
-          },
-          {
-            "id": 136670,
-            "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "2 jalapeño peppers\n2 (5 oz) pkgs baby spinach\n4 small pkgs fresh basil"
-          },
-          {
-            "id": 136671,
-            "primary_message": "In a medium bowl, combine the broth, soy sauce, fish sauce, and brown sugar. Whisk to combine the sauce and set aside.",
-            "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n¼ cup soy sauce\n4 tsp fish sauce\n4 tsp brown sugar"
-          },
-          {
-            "id": 136672,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 136673,
-            "primary_message": "Roughly chop the chicken thighs into ½-inch pieces.",
-            "secondary_message": "1 ½ lb chicken thighs, boneless skinless"
-          },
-          {
-            "id": 136674,
-            "primary_message": "Peel and mince the garlic and shallot. Quarter the jalapeño peppers lengthwise; seed and remove ribs of the jalapeños with a spoon. Finely dice and set aside. (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing).",
-            "secondary_message": "4 cloves garlic\n2 shallots"
-          },
-          {
-            "id": 136675,
-            "primary_message": "Heat a large skillet over high heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 136676,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "¼ cup extra virgin olive oil"
-          },
-          {
-            "id": 136677,
-            "primary_message": "Add chicken and stir-fry for 3-4 minutes, then add the garlic, shallot, and jalapeño. Continue cooking on high heat for 3-4 more minutes, stirring often. ",
-            "secondary_message": null
-          },
-          {
-            "id": 136678,
-            "primary_message": "Chop the baby spinach into small pieces. ",
-            "secondary_message": null
-          },
-          {
-            "id": 136679,
-            "primary_message": "Pour the sauce into the skillet. Cook on high, stirring often, until the sauce thickens and glazes the meat, 8-12 minutes. Remove from heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 136680,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Reserve a few leaves for garnish. ",
-            "secondary_message": null
-          },
-          {
-            "id": 136681,
-            "primary_message": "Add the baby spinach (one handful at a time) and basil to the skillet and stir until wilted. ",
-            "secondary_message": null
-          },
-          {
-            "id": 136682,
-            "primary_message": "To serve, divide the rice and chicken between bowls. Garnish with reserved basil and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 142061,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 142069,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 142068,
-            "quantity": "8 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 142067,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 142060,
-            "quantity": "4 small pkgs",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 142059,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 142066,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 142065,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 142070,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 142062,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 142063,
-            "quantity": "",
-            "ingredient_name": "fish sauce"
-          },
-          {
-            "id": 142064,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 574.48,
-          "alcohol": 0,
-          "ash": 7.9,
-          "caffeine": 0,
-          "water": 322.18,
-          "carbs": 50.52,
-          "fiber": 3.46,
-          "starch": 1.77,
-          "sugars": 6.74,
-          "fructose": 0.37,
-          "galactose": 0.15,
-          "glucose": 0.52,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 5.6,
-          "sugar_alcohol": 0,
-          "fat": 22,
-          "monounsaturated": 12.86,
-          "polyunsaturated": 3.5,
-          "omega_3": 0.4,
-          "omega_6": 3.09,
-          "saturated": 4.03,
-          "transfats": 0.07,
-          "cholesterol": 159.89,
-          "protein": 43.3,
-          "alanine": 2.51,
-          "arginine": 2.97,
-          "aspartic_acid": 4.18,
-          "cystine": 0.54,
-          "glutamic_acid": 7.08,
-          "glycine": 1.97,
-          "histidine": 1.23,
-          "isoleucine": 2.04,
-          "leucine": 3.58,
-          "lysine": 3.67,
-          "methionine": 1.15,
-          "phenylalanine": 1.79,
-          "proline": 1.8,
-          "serine": 1.83,
-          "threonine": 1.96,
-          "tryptophan": 0.49,
-          "tyrosine": 1.57,
-          "valine": 2.15,
-          "b1_thiamine": 0.5,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 13.7,
-          "b5_pantothenic_acid": 0.8,
-          "b6_pyridoxine": 1.2,
-          "b12_cobalamin": 1.13,
-          "choline": 121.71,
-          "folate": 282.87,
-          "vitamin_a": 50.24,
-          "vitamin_c": 35.38,
-          "vitamin_d": 1.7,
-          "vitamin_e": 4.25,
-          "vitamin_k": 473.68,
-          "calcium": 171.29,
-          "copper": 0.48,
-          "iron": 6.97,
-          "magnesium": 154.64,
-          "manganese": 1.82,
-          "phosphorus": 482.75,
-          "potassium": 1176.57,
-          "selenium": 48.05,
-          "sodium": 245.1,
-          "zinc": 4.13
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/spicy-thai-basil-chicken-baby-spinach-rice/8606",
-      "altVariants": [
-        {
-          "id": 8610,
-          "recipe_id": 971,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "818133c5-60f2-44d7-bd31-ffb5b9b70fe0",
-          "fallback_published_recipe_uuids": [
-            "6c121b8f-a487-4396-8b9d-82832b20b2c7"
-          ],
-          "first_published_at": 1571330641000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            12,
-            2.25,
-            6,
-            6,
-            3,
-            3,
-            30,
-            90,
-            30,
-            90
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8609,
-          "recipe_id": 971,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "fcd9b1ca-0746-4363-b87d-5ea0f845f6f5",
-          "fallback_published_recipe_uuids": [
-            "ea2ea1b5-6773-4d10-99b7-78629db9b087"
-          ],
-          "first_published_at": 1571330641000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            8,
-            1.5,
-            4,
-            4,
-            2,
-            2,
-            20,
-            60,
-            20,
-            60
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8608,
-          "recipe_id": 971,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "c800c9dd-cbe3-443a-a468-b9562710d093",
-          "fallback_published_recipe_uuids": [
-            "e2dc6a73-969c-45bc-abe5-ba661a114e5f"
-          ],
-          "first_published_at": 1571330640000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            4,
-            0.75,
-            2,
-            2,
-            1,
-            1,
-            10,
-            30,
-            10,
-            30
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8607,
-          "recipe_id": 971,
-          "group_label": "Default",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "6bf84807-ee6a-4cf4-a707-71c906644978",
-          "fallback_published_recipe_uuids": [
-            "63ca0f5d-eb4c-46d6-8ba8-e9e55d4c401b"
-          ],
-          "first_published_at": 1571330640000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            12,
-            2.25,
-            6,
-            6,
-            3,
-            3,
-            30,
-            90,
-            30,
-            90
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8606,
-          "recipe_id": 971,
-          "group_label": "Default",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "90c91034-6997-46be-8acf-01c614dbd5fd",
-          "fallback_published_recipe_uuids": [
-            "a3f2e698-015f-4aea-a14a-618b5093af76"
-          ],
-          "first_published_at": 1571330639000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            8,
-            1.5,
-            4,
-            4,
-            2,
-            2,
-            20,
-            60,
-            20,
-            60
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8605,
-          "recipe_id": 971,
-          "group_label": "Default",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "018ceecc-3c77-4562-bc53-227e6b805a18",
-          "fallback_published_recipe_uuids": [
-            "c5ec7724-8095-4af4-abcc-937fa303ce2f"
-          ],
-          "first_published_at": 1571330639000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            4,
-            0.75,
-            2,
-            2,
-            1,
-            1,
-            10,
-            30,
-            10,
-            30
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8616,
-          "recipe_id": 971,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "f3c44dc5-0fd5-41e0-8b65-f6e6daddb66c",
-          "fallback_published_recipe_uuids": [
-            "ec9ba4c1-38d7-42bc-b8c5-7a5a91105ffa"
-          ],
-          "first_published_at": 1571330644000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            355,
-            1.02,
-            6,
-            6,
-            3,
-            3,
-            30,
-            90,
-            30,
-            90
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8615,
-          "recipe_id": 971,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "70fb3f0e-997d-4d37-a544-57a6e156b7a9",
-          "fallback_published_recipe_uuids": [
-            "4cd90ef9-0add-4678-9009-bc5059ba1a9e"
-          ],
-          "first_published_at": 1571330643000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            237,
-            0.68,
-            4,
-            4,
-            2,
-            2,
-            20,
-            60,
-            20,
-            60
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8614,
-          "recipe_id": 971,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "3ff688d9-6fad-4d61-bdc4-d043f65c7ff2",
-          "fallback_published_recipe_uuids": [
-            "cbf2c9cd-a42e-431c-ab9c-7b3379701e40"
-          ],
-          "first_published_at": 1571330643000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            118,
-            0.34,
-            2,
-            2,
-            1,
-            1,
-            10,
-            30,
-            10,
-            30
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8613,
-          "recipe_id": 971,
-          "group_label": "Default",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "6cc5023a-7b0a-46f6-809a-305827ecf814",
-          "fallback_published_recipe_uuids": [
-            "84bd39f0-3c46-4452-8ceb-2c132ef28ced"
-          ],
-          "first_published_at": 1571330642000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            355,
-            1.02,
-            6,
-            6,
-            3,
-            3,
-            30,
-            90,
-            30,
-            90
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8612,
-          "recipe_id": 971,
-          "group_label": "Default",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "22bb3a44-9b1d-4ec8-a14f-08337ccc2a82",
-          "fallback_published_recipe_uuids": [
-            "838624c9-1f02-4633-b090-724685fa058c"
-          ],
-          "first_published_at": 1571330642000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            237,
-            0.68,
-            4,
-            4,
-            2,
-            2,
-            20,
-            60,
-            20,
-            60
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8611,
-          "recipe_id": 971,
-          "group_label": "Default",
-          "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
-          "published_recipe_uuid": "5a142df7-75cc-4980-9f6f-c316383afdcf",
-          "fallback_published_recipe_uuids": [
-            "5094276b-6489-41b0-8afb-197d9d63bcbc"
-          ],
-          "first_published_at": 1571330642000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            164,
-            28,
-            24,
-            151,
-            144,
-            293,
-            47,
-            52,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            118,
-            0.34,
-            2,
-            2,
-            1,
-            1,
-            10,
-            30,
-            10,
-            30
-          ],
-          "average_rating": 0.798,
-          "rating_count": 210,
-          "variety_tag_ids": [
-            33,
-            32,
-            25,
-            11
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried",
-          "Skillets & Sautés",
-          "Bowls",
-          "Stir-Fries"
-        ],
-        "cuisine": "Thai",
-        "reviewCount": 210,
-        "reviewScore": null
-      }
+  "id": 8606,
+  "recipe_id": 971,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Spicy Thai Basil Chicken with Baby Spinach & Rice",
+  "slug": "spicy-thai-basil-chicken-baby-spinach-rice",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/thumbnail_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/971/presentation_ea2ee7a3-92f6-4bd3-be14-6423e76536c9.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "spicy-thai-basil-chicken-baby-spinach-rice",
-    "variantId": "8606"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 136669,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a small saucepan. Add water and bring the mixture to a boil over high heat.",
+      "secondary_message": "1 cup basmati rice\n2 cup water"
+    },
+    {
+      "id": 136670,
+      "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "2 jalapeño peppers\n2 (5 oz) pkgs baby spinach\n4 small pkgs fresh basil"
+    },
+    {
+      "id": 136671,
+      "primary_message": "In a medium bowl, combine the broth, soy sauce, fish sauce, and brown sugar. Whisk to combine the sauce and set aside.",
+      "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n¼ cup soy sauce\n4 tsp fish sauce\n4 tsp brown sugar"
+    },
+    {
+      "id": 136672,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 136673,
+      "primary_message": "Roughly chop the chicken thighs into ½-inch pieces.",
+      "secondary_message": "1 ½ lb chicken thighs, boneless skinless"
+    },
+    {
+      "id": 136674,
+      "primary_message": "Peel and mince the garlic and shallot. Quarter the jalapeño peppers lengthwise; seed and remove ribs of the jalapeños with a spoon. Finely dice and set aside. (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing).",
+      "secondary_message": "4 cloves garlic\n2 shallots"
+    },
+    {
+      "id": 136675,
+      "primary_message": "Heat a large skillet over high heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 136676,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "¼ cup extra virgin olive oil"
+    },
+    {
+      "id": 136677,
+      "primary_message": "Add chicken and stir-fry for 3-4 minutes, then add the garlic, shallot, and jalapeño. Continue cooking on high heat for 3-4 more minutes, stirring often. ",
+      "secondary_message": null
+    },
+    {
+      "id": 136678,
+      "primary_message": "Chop the baby spinach into small pieces. ",
+      "secondary_message": null
+    },
+    {
+      "id": 136679,
+      "primary_message": "Pour the sauce into the skillet. Cook on high, stirring often, until the sauce thickens and glazes the meat, 8-12 minutes. Remove from heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 136680,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Reserve a few leaves for garnish. ",
+      "secondary_message": null
+    },
+    {
+      "id": 136681,
+      "primary_message": "Add the baby spinach (one handful at a time) and basil to the skillet and stir until wilted. ",
+      "secondary_message": null
+    },
+    {
+      "id": 136682,
+      "primary_message": "To serve, divide the rice and chicken between bowls. Garnish with reserved basil and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 142061,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 142069,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 142068,
+      "quantity": "8 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 142067,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 142060,
+      "quantity": "4 small pkgs",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 142059,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 142066,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 142065,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 142070,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 142062,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 142063,
+      "quantity": "",
+      "ingredient_name": "fish sauce"
+    },
+    {
+      "id": 142064,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 574.48,
+    "alcohol": 0,
+    "ash": 7.9,
+    "caffeine": 0,
+    "water": 322.18,
+    "carbs": 50.52,
+    "fiber": 3.46,
+    "starch": 1.77,
+    "sugars": 6.74,
+    "fructose": 0.37,
+    "galactose": 0.15,
+    "glucose": 0.52,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 5.6,
+    "sugar_alcohol": 0,
+    "fat": 22,
+    "monounsaturated": 12.86,
+    "polyunsaturated": 3.5,
+    "omega_3": 0.4,
+    "omega_6": 3.09,
+    "saturated": 4.03,
+    "transfats": 0.07,
+    "cholesterol": 159.89,
+    "protein": 43.3,
+    "alanine": 2.51,
+    "arginine": 2.97,
+    "aspartic_acid": 4.18,
+    "cystine": 0.54,
+    "glutamic_acid": 7.08,
+    "glycine": 1.97,
+    "histidine": 1.23,
+    "isoleucine": 2.04,
+    "leucine": 3.58,
+    "lysine": 3.67,
+    "methionine": 1.15,
+    "phenylalanine": 1.79,
+    "proline": 1.8,
+    "serine": 1.83,
+    "threonine": 1.96,
+    "tryptophan": 0.49,
+    "tyrosine": 1.57,
+    "valine": 2.15,
+    "b1_thiamine": 0.5,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 13.7,
+    "b5_pantothenic_acid": 0.8,
+    "b6_pyridoxine": 1.2,
+    "b12_cobalamin": 1.13,
+    "choline": 121.71,
+    "folate": 282.87,
+    "vitamin_a": 50.24,
+    "vitamin_c": 35.38,
+    "vitamin_d": 1.7,
+    "vitamin_e": 4.25,
+    "vitamin_k": 473.68,
+    "calcium": 171.29,
+    "copper": 0.48,
+    "iron": 6.97,
+    "magnesium": 154.64,
+    "manganese": 1.82,
+    "phosphorus": 482.75,
+    "potassium": 1176.57,
+    "selenium": 48.05,
+    "sodium": 245.1,
+    "zinc": 4.13
+  }
 }

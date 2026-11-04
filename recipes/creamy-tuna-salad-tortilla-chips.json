@@ -1,1052 +1,205 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22631,
-        "recipe_id": 2561,
-        "serving_count": 4,
-        "cooking_minutes": 15,
-        "name": "Creamy Tuna Salad with Tortilla Chips",
-        "slug": "creamy-tuna-salad-tortilla-chips",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 375975,
-            "primary_message": "Drain and mince capers. Place in a medium bowl along with yogurt, mayo, and spices. Stir to combine the dressing.",
-            "secondary_message": "1 tbsp capers\n¼ cup plain Greek yogurt\n3 tbsp mayonnaise\n½ tsp dill, dried\n¼ tsp garlic powder\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 375976,
-            "primary_message": "Peel and mince shallot. Add to the bowl with the dressing.",
-            "secondary_message": "½ shallot"
-          },
-          {
-            "id": 375977,
-            "primary_message": "Wash, dry, trim, and small dice celery. Add to the bowl.",
-            "secondary_message": "1 stick celery"
-          },
-          {
-            "id": 375978,
-            "primary_message": "Drain tuna, add to the bowl, and flake with a fork. Stir to combine the tuna salad.",
-            "secondary_message": "2 (6 oz) cans chunk light tuna in water"
-          },
-          {
-            "id": 375979,
-            "primary_message": "Divide tuna salad between plates and serve with chips. Enjoy!",
-            "secondary_message": "4 oz tortilla chips"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 401111,
-            "quantity": "1 tbsp",
-            "ingredient_name": "capers"
-          },
-          {
-            "id": 401119,
-            "quantity": "1 stick",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 401112,
-            "quantity": "2 (6 oz) cans",
-            "ingredient_name": "chunk light tuna in water"
-          },
-          {
-            "id": 401117,
-            "quantity": "¼ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 401118,
-            "quantity": "½",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 401121,
-            "quantity": "4 oz",
-            "ingredient_name": "tortilla chips"
-          },
-          {
-            "id": 401113,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 401114,
-            "quantity": "",
-            "ingredient_name": "dill, dried"
-          },
-          {
-            "id": 401115,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 401120,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 401116,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 284.05,
-          "alcohol": 0,
-          "ash": 1.94,
-          "caffeine": 0,
-          "water": 76.05,
-          "carbs": 21.23,
-          "fiber": 1.76,
-          "starch": 17.34,
-          "sugars": 1.5,
-          "fructose": 0.11,
-          "galactose": 0.16,
-          "glucose": 0.16,
-          "lactose": 0.39,
-          "maltose": 0,
-          "sucrose": 0.66,
-          "sugar_alcohol": 0,
-          "fat": 15.51,
-          "monounsaturated": 4.5,
-          "polyunsaturated": 7.61,
-          "omega_3": 0.8,
-          "omega_6": 6.8,
-          "saturated": 2.3,
-          "transfats": 0.06,
-          "cholesterol": 29.22,
-          "protein": 15.51,
-          "alanine": 0.76,
-          "arginine": 0.74,
-          "aspartic_acid": 1.34,
-          "cystine": 0.15,
-          "glutamic_acid": 2.03,
-          "glycine": 0.58,
-          "histidine": 0.37,
-          "isoleucine": 0.61,
-          "leucine": 1.08,
-          "lysine": 1.18,
-          "methionine": 0.37,
-          "phenylalanine": 0.51,
-          "proline": 0.52,
-          "serine": 0.55,
-          "threonine": 0.58,
-          "tryptophan": 0.16,
-          "tyrosine": 0.44,
-          "valine": 0.68,
-          "b1_thiamine": 0.07,
-          "b2_riboflavin": 0.12,
-          "b3_niacin": 6.61,
-          "b5_pantothenic_acid": 0.32,
-          "b6_pyridoxine": 0.29,
-          "b12_cobalamin": 1.66,
-          "choline": 32.01,
-          "folate": 16.25,
-          "vitamin_a": 137.72,
-          "vitamin_c": 1.05,
-          "vitamin_d": 29.58,
-          "vitamin_e": 1.8,
-          "vitamin_k": 19.28,
-          "calcium": 64.71,
-          "copper": 0.08,
-          "iron": 1.58,
-          "magnesium": 43.12,
-          "manganese": 0.16,
-          "phosphorus": 179.93,
-          "potassium": 228.26,
-          "selenium": 50.68,
-          "sodium": 273.61,
-          "zinc": 0.97
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-tuna-salad-tortilla-chips/22631",
-      "altVariants": [
-        {
-          "id": 22634,
-          "recipe_id": 2561,
-          "group_label": "Keto",
-          "name": "Creamy Tuna Salad with Celery Sticks",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22634/thumbnail_5e07e869-a0e7-4b6f-a759-c7b347d8deca.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22634/presentation_5e07e869-a0e7-4b6f-a759-c7b347d8deca.jpeg",
-          "published_recipe_uuid": "a70b6c93-497c-4934-9e9b-2b008e65d7ca",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349107000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            268,
-            72,
-            78,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            2,
-            0.25,
-            1,
-            45,
-            1.25,
-            2.5,
-            1.25,
-            1.25
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22633,
-          "recipe_id": 2561,
-          "group_label": "Keto",
-          "name": "Creamy Tuna Salad with Celery Sticks",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22633/thumbnail_ed736243-cefa-433b-b982-ad168d5d6999.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22633/presentation_ed736243-cefa-433b-b982-ad168d5d6999.jpeg",
-          "published_recipe_uuid": "5b05cf6a-32c9-49d7-9b5c-806cb65fa44e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349107000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            268,
-            72,
-            78,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            1,
-            0.125,
-            0.5,
-            22.5,
-            0.625,
-            1.25,
-            0.625,
-            0.625
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22632,
-          "recipe_id": 2561,
-          "group_label": "Default",
-          "name": "Creamy Tuna Salad with Tortilla Chips",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "published_recipe_uuid": "f94b3d51-1026-4716-92df-8226366a510c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349107000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            443,
-            72,
-            78,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            2,
-            3,
-            0.3333333333333333,
-            1,
-            6,
-            2.5,
-            3.75,
-            2.5,
-            67.5,
-            2.5
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22631,
-          "recipe_id": 2561,
-          "group_label": "Default",
-          "name": "Creamy Tuna Salad with Tortilla Chips",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "published_recipe_uuid": "63b803af-9eee-4748-9c20-9b9e0bdb31f8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349108000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            443,
-            72,
-            78,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            0.25,
-            0.5,
-            4,
-            1.25,
-            2.5,
-            1.25,
-            45,
-            1.25
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22630,
-          "recipe_id": 2561,
-          "group_label": "Default",
-          "name": "Creamy Tuna Salad with Tortilla Chips",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "published_recipe_uuid": "5ca4f375-d7b0-4eba-88f7-fa11b46c5464",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349108000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            443,
-            72,
-            78,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            0.125,
-            0.5,
-            2,
-            0.625,
-            1.25,
-            0.625,
-            22.5,
-            0.625
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22635,
-          "recipe_id": 2561,
-          "group_label": "Keto",
-          "name": "Creamy Tuna Salad with Celery Sticks",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22635/thumbnail_7d9c7635-ae02-47de-86d7-7a35124dd36f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22635/presentation_7d9c7635-ae02-47de-86d7-7a35124dd36f.jpeg",
-          "published_recipe_uuid": "3e5cb1f3-f0ea-4332-8131-3a3819b40623",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349107000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            268,
-            72,
-            78,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            3,
-            0.3333333333333333,
-            2,
-            67.5,
-            2.5,
-            3.75,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22641,
-          "recipe_id": 2561,
-          "group_label": "Keto",
-          "name": "Creamy Tuna Salad with Celery Sticks",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22641/thumbnail_4e3d2aa8-0109-4928-8003-a0cd62930f87.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22641/presentation_4e3d2aa8-0109-4928-8003-a0cd62930f87.jpeg",
-          "published_recipe_uuid": "fdf1f3ea-5180-48d7-8399-47272a6887ce",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349105000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            268,
-            72,
-            78,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            3,
-            0.3333333333333333,
-            2,
-            67.5,
-            2.5,
-            3.75,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22640,
-          "recipe_id": 2561,
-          "group_label": "Keto",
-          "name": "Creamy Tuna Salad with Celery Sticks",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22640/thumbnail_fa3ea72f-92bd-4ff5-b4db-431551f58118.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22640/presentation_fa3ea72f-92bd-4ff5-b4db-431551f58118.jpeg",
-          "published_recipe_uuid": "26ce2965-8ac4-45cb-b6e8-3bfa12de2a2b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349105000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            268,
-            72,
-            78,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            2,
-            0.25,
-            1,
-            45,
-            1.25,
-            2.5,
-            1.25,
-            1.25
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22639,
-          "recipe_id": 2561,
-          "group_label": "Keto",
-          "name": "Creamy Tuna Salad with Celery Sticks",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22639/thumbnail_b7dc9053-0f8a-41d7-9bf6-a499fb893aa3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22639/presentation_b7dc9053-0f8a-41d7-9bf6-a499fb893aa3.jpeg",
-          "published_recipe_uuid": "3b16fba3-08ca-499a-95f2-af08bfd3b721",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349106000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            268,
-            72,
-            78,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            1,
-            0.125,
-            0.5,
-            22.5,
-            0.625,
-            1.25,
-            0.625,
-            0.625
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22638,
-          "recipe_id": 2561,
-          "group_label": "Default",
-          "name": "Creamy Tuna Salad with Tortilla Chips",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "published_recipe_uuid": "7e50b96c-babf-4b61-aadb-3e5954570f69",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349106000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            443,
-            72,
-            78,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            2,
-            3,
-            0.3333333333333333,
-            1,
-            170,
-            2.5,
-            3.75,
-            2.5,
-            67.5,
-            2.5
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22637,
-          "recipe_id": 2561,
-          "group_label": "Default",
-          "name": "Creamy Tuna Salad with Tortilla Chips",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "published_recipe_uuid": "78d9c82e-44e9-4163-8c18-c927fd7080c8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349106000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            443,
-            72,
-            78,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            0.25,
-            0.5,
-            113,
-            1.25,
-            2.5,
-            1.25,
-            45,
-            1.25
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        },
-        {
-          "id": 22636,
-          "recipe_id": 2561,
-          "group_label": "Default",
-          "name": "Creamy Tuna Salad with Tortilla Chips",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
-          "published_recipe_uuid": "f1e7ffbe-e5e7-43d9-bf6b-21dfbff5fd62",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349106000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            15,
-            157,
-            38,
-            122,
-            144,
-            443,
-            72,
-            78,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            0.125,
-            0.5,
-            57,
-            0.625,
-            1.25,
-            0.625,
-            22.5,
-            0.625
-          ],
-          "average_rating": 0.856,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Throw this high protein snack together in no time when the hunger is hitting!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Snack",
-        "description": "Throw this high protein snack together in no time when the hunger is hitting!",
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 22631,
+  "recipe_id": 2561,
+  "serving_count": 4,
+  "cooking_minutes": 15,
+  "name": "Creamy Tuna Salad with Tortilla Chips",
+  "slug": "creamy-tuna-salad-tortilla-chips",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/thumbnail_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2561/presentation_4bab2b33-d0c0-493b-a10d-ac19dd76c78d.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-tuna-salad-tortilla-chips",
-    "variantId": "22631"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 375975,
+      "primary_message": "Drain and mince capers. Place in a medium bowl along with yogurt, mayo, and spices. Stir to combine the dressing.",
+      "secondary_message": "1 tbsp capers\n¼ cup plain Greek yogurt\n3 tbsp mayonnaise\n½ tsp dill, dried\n¼ tsp garlic powder\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 375976,
+      "primary_message": "Peel and mince shallot. Add to the bowl with the dressing.",
+      "secondary_message": "½ shallot"
+    },
+    {
+      "id": 375977,
+      "primary_message": "Wash, dry, trim, and small dice celery. Add to the bowl.",
+      "secondary_message": "1 stick celery"
+    },
+    {
+      "id": 375978,
+      "primary_message": "Drain tuna, add to the bowl, and flake with a fork. Stir to combine the tuna salad.",
+      "secondary_message": "2 (6 oz) cans chunk light tuna in water"
+    },
+    {
+      "id": 375979,
+      "primary_message": "Divide tuna salad between plates and serve with chips. Enjoy!",
+      "secondary_message": "4 oz tortilla chips"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 401111,
+      "quantity": "1 tbsp",
+      "ingredient_name": "capers"
+    },
+    {
+      "id": 401119,
+      "quantity": "1 stick",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 401112,
+      "quantity": "2 (6 oz) cans",
+      "ingredient_name": "chunk light tuna in water"
+    },
+    {
+      "id": 401117,
+      "quantity": "¼ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 401118,
+      "quantity": "½",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 401121,
+      "quantity": "4 oz",
+      "ingredient_name": "tortilla chips"
+    },
+    {
+      "id": 401113,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 401114,
+      "quantity": "",
+      "ingredient_name": "dill, dried"
+    },
+    {
+      "id": 401115,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 401120,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 401116,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 284.05,
+    "alcohol": 0,
+    "ash": 1.94,
+    "caffeine": 0,
+    "water": 76.05,
+    "carbs": 21.23,
+    "fiber": 1.76,
+    "starch": 17.34,
+    "sugars": 1.5,
+    "fructose": 0.11,
+    "galactose": 0.16,
+    "glucose": 0.16,
+    "lactose": 0.39,
+    "maltose": 0,
+    "sucrose": 0.66,
+    "sugar_alcohol": 0,
+    "fat": 15.51,
+    "monounsaturated": 4.5,
+    "polyunsaturated": 7.61,
+    "omega_3": 0.8,
+    "omega_6": 6.8,
+    "saturated": 2.3,
+    "transfats": 0.06,
+    "cholesterol": 29.22,
+    "protein": 15.51,
+    "alanine": 0.76,
+    "arginine": 0.74,
+    "aspartic_acid": 1.34,
+    "cystine": 0.15,
+    "glutamic_acid": 2.03,
+    "glycine": 0.58,
+    "histidine": 0.37,
+    "isoleucine": 0.61,
+    "leucine": 1.08,
+    "lysine": 1.18,
+    "methionine": 0.37,
+    "phenylalanine": 0.51,
+    "proline": 0.52,
+    "serine": 0.55,
+    "threonine": 0.58,
+    "tryptophan": 0.16,
+    "tyrosine": 0.44,
+    "valine": 0.68,
+    "b1_thiamine": 0.07,
+    "b2_riboflavin": 0.12,
+    "b3_niacin": 6.61,
+    "b5_pantothenic_acid": 0.32,
+    "b6_pyridoxine": 0.29,
+    "b12_cobalamin": 1.66,
+    "choline": 32.01,
+    "folate": 16.25,
+    "vitamin_a": 137.72,
+    "vitamin_c": 1.05,
+    "vitamin_d": 29.58,
+    "vitamin_e": 1.8,
+    "vitamin_k": 19.28,
+    "calcium": 64.71,
+    "copper": 0.08,
+    "iron": 1.58,
+    "magnesium": 43.12,
+    "manganese": 0.16,
+    "phosphorus": 179.93,
+    "potassium": 228.26,
+    "selenium": 50.68,
+    "sodium": 273.61,
+    "zinc": 0.97
+  }
 }

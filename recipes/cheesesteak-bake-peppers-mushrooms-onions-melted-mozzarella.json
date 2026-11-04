@@ -1,726 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 15459,
-        "recipe_id": 1808,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
-        "slug": "cheesesteak-bake-peppers-mushrooms-onions-melted-mozzarella",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 269118,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 269119,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n1 green bell pepper\n1 lb white mushrooms\n1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 269120,
-            "primary_message": "Trim, seed, and slice bell peppers into thin strips; transfer to a large baking sheet pan.",
-            "secondary_message": null
-          },
-          {
-            "id": 269121,
-            "primary_message": "Slice mushrooms into ¼-inch thick pieces; add to the baking sheet with the peppers.",
-            "secondary_message": null
-          },
-          {
-            "id": 269122,
-            "primary_message": "Peel and mince garlic; peel, halve, and thinly slice onion into half-moons. Add both to the baking sheet, toss to combine the veggies, then spread out in an even layer.",
-            "secondary_message": "4 cloves garlic\n1 medium yellow onion"
-          },
-          {
-            "id": 269123,
-            "primary_message": "Cut butter into small pieces and sprinkle over the veggies; season with salt and pepper.",
-            "secondary_message": "2 tbsp butter, unsalted\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 269124,
-            "primary_message": "Place veggies in the oven (it doesn't have to be fully heated) and bake, stirring halfway through, until tender, 15-18 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 269125,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 269126,
-            "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate; season with spices on both sides.",
-            "secondary_message": "1 ½ lb ribeye steak\n1 tsp thyme, dried\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 269127,
-            "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate and let rest for 5 minutes.",
-            "secondary_message": "2 tsp butter, unsalted"
-          },
-          {
-            "id": 269128,
-            "primary_message": "While the steak is cooking, coarsely grate mozzarella.",
-            "secondary_message": "⅔ (8 oz) block mozzarella cheese"
-          },
-          {
-            "id": 269129,
-            "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves.",
-            "secondary_message": null
-          },
-          {
-            "id": 269130,
-            "primary_message": "When the veggies are done, remove from the oven. Turn oven to broil on high and position rack under the broiler.",
-            "secondary_message": null
-          },
-          {
-            "id": 269131,
-            "primary_message": "Thinly slice steak against the grain. Arrange steak slices over the roasted veggies and sprinkle with cheese. Return baking sheet to the oven and broil until cheese is melted, about 1 minute. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 269132,
-            "primary_message": "To serve, divide the cheesesteak bake between plates and top with parsley. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 284222,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 284231,
-            "quantity": "1",
-            "ingredient_name": "green bell pepper"
-          },
-          {
-            "id": 284227,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 284223,
-            "quantity": "⅔ (8 oz) block",
-            "ingredient_name": "mozzarella cheese"
-          },
-          {
-            "id": 284229,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 284232,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ribeye steak"
-          },
-          {
-            "id": 284221,
-            "quantity": "1 lb",
-            "ingredient_name": "white mushrooms"
-          },
-          {
-            "id": 284230,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 284224,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 284228,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 284225,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 284226,
-            "quantity": "",
-            "ingredient_name": "thyme, dried"
-          }
-        ],
-        "nutrition": {
-          "energy": 684.95,
-          "alcohol": 0,
-          "ash": 6.93,
-          "caffeine": 0,
-          "water": 351.38,
-          "carbs": 14.53,
-          "fiber": 4.15,
-          "starch": 1.78,
-          "sugars": 7.18,
-          "fructose": 2.34,
-          "galactose": 0.06,
-          "glucose": 3.96,
-          "lactose": 0.08,
-          "maltose": 0.03,
-          "sucrose": 0.36,
-          "sugar_alcohol": 0,
-          "fat": 50.98,
-          "monounsaturated": 20.42,
-          "polyunsaturated": 2.45,
-          "omega_3": 0.26,
-          "omega_6": 2.19,
-          "saturated": 24.91,
-          "transfats": 2.63,
-          "cholesterol": 166.18,
-          "protein": 45.12,
-          "alanine": 2.5,
-          "arginine": 2.49,
-          "aspartic_acid": 4.19,
-          "cystine": 0.39,
-          "glutamic_acid": 7.5,
-          "glycine": 1.91,
-          "histidine": 1.44,
-          "isoleucine": 2.02,
-          "leucine": 3.59,
-          "lysine": 3.53,
-          "methionine": 1.1,
-          "phenylalanine": 1.83,
-          "proline": 2.45,
-          "serine": 1.75,
-          "threonine": 2.03,
-          "tryptophan": 0.61,
-          "tyrosine": 1.64,
-          "valine": 2.41,
-          "b1_thiamine": 0.37,
-          "b2_riboflavin": 1.07,
-          "b3_niacin": 13,
-          "b5_pantothenic_acid": 2.91,
-          "b6_pyridoxine": 1.15,
-          "b12_cobalamin": 3.9,
-          "choline": 106.59,
-          "folate": 86.5,
-          "vitamin_a": 398.54,
-          "vitamin_c": 125.32,
-          "vitamin_d": 29.95,
-          "vitamin_e": 1.79,
-          "vitamin_k": 10.48,
-          "calcium": 253.11,
-          "copper": 0.56,
-          "iron": 5.56,
-          "magnesium": 72.92,
-          "manganese": 0.48,
-          "phosphorus": 495.54,
-          "potassium": 1087.62,
-          "selenium": 57.39,
-          "sodium": 343.39,
-          "zinc": 10.17
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cheesesteak-bake-peppers-mushrooms-onions-melted-mozzarella/15459",
-      "altVariants": [
-        {
-          "id": 15459,
-          "recipe_id": 1808,
-          "group_label": "Default",
-          "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "published_recipe_uuid": "90af9ff7-5cd2-49a3-bff2-3ca0d1e5aa63",
-          "fallback_published_recipe_uuids": [
-            "bb3edc47-5ca4-49f7-9c18-a34f78c9c2d1"
-          ],
-          "first_published_at": 1629819249000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            291,
-            106,
-            57,
-            150,
-            307,
-            19,
-            152,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            4,
-            1,
-            1,
-            0.6666666666666666,
-            2,
-            1.5,
-            1,
-            1,
-            5,
-            40,
-            7.5,
-            5
-          ],
-          "average_rating": 0.855,
-          "rating_count": 110,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A delicious low maintenance dinner for those nights you just want to put your feet up"
-        },
-        {
-          "id": 15460,
-          "recipe_id": 1808,
-          "group_label": "Default",
-          "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "published_recipe_uuid": "7c7d9720-01ce-4f39-a52c-0163c0500e3e",
-          "fallback_published_recipe_uuids": [
-            "f5ee0119-ed25-4005-afe0-d84f160104fe"
-          ],
-          "first_published_at": 1629819249000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            291,
-            106,
-            57,
-            150,
-            307,
-            19,
-            152,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            6,
-            2,
-            1,
-            1,
-            3,
-            2.25,
-            1.5,
-            1.5,
-            7.5,
-            60,
-            11.25,
-            7.5
-          ],
-          "average_rating": 0.855,
-          "rating_count": 110,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A delicious low maintenance dinner for those nights you just want to put your feet up"
-        },
-        {
-          "id": 15458,
-          "recipe_id": 1808,
-          "group_label": "Default",
-          "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "published_recipe_uuid": "4a494c03-0e30-4378-95db-f2c5d13420c0",
-          "fallback_published_recipe_uuids": [
-            "2f5b5bca-9ec5-4cc7-a55b-ca744bb6c4ec"
-          ],
-          "first_published_at": 1629819248000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            291,
-            106,
-            57,
-            150,
-            307,
-            19,
-            152,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            0.5,
-            0.3333333333333333,
-            1,
-            0.75,
-            0.5,
-            0.5,
-            2.5,
-            20,
-            3.75,
-            2.5
-          ],
-          "average_rating": 0.855,
-          "rating_count": 110,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A delicious low maintenance dinner for those nights you just want to put your feet up"
-        },
-        {
-          "id": 15463,
-          "recipe_id": 1808,
-          "group_label": "Default",
-          "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "published_recipe_uuid": "5ceb762d-6bc1-458d-8e28-5deff4d00a68",
-          "fallback_published_recipe_uuids": [
-            "775a1d30-6235-4e7d-b06f-18e8e709c6cc"
-          ],
-          "first_published_at": 1629819250000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            291,
-            106,
-            57,
-            150,
-            307,
-            19,
-            152,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            6,
-            2,
-            1,
-            1,
-            3,
-            1.02,
-            0.68,
-            1.5,
-            7.5,
-            60,
-            11.25,
-            7.5
-          ],
-          "average_rating": 0.855,
-          "rating_count": 110,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A delicious low maintenance dinner for those nights you just want to put your feet up"
-        },
-        {
-          "id": 15462,
-          "recipe_id": 1808,
-          "group_label": "Default",
-          "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "published_recipe_uuid": "3b3a8ff3-8fdd-4b42-9ed8-9b98800ab50c",
-          "fallback_published_recipe_uuids": [
-            "6cd70c7d-98f0-4180-a6ae-e074ad771d71"
-          ],
-          "first_published_at": 1629819250000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            291,
-            106,
-            57,
-            150,
-            307,
-            19,
-            152,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            4,
-            1,
-            1,
-            0.6666666666666666,
-            2,
-            0.68,
-            0.45,
-            1,
-            5,
-            40,
-            7.5,
-            5
-          ],
-          "average_rating": 0.855,
-          "rating_count": 110,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A delicious low maintenance dinner for those nights you just want to put your feet up"
-        },
-        {
-          "id": 15461,
-          "recipe_id": 1808,
-          "group_label": "Default",
-          "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
-          "published_recipe_uuid": "4b96e009-4419-4ae2-8c3b-582c54e0bb11",
-          "fallback_published_recipe_uuids": [
-            "18f63a45-2021-4ec8-947d-652fae7fd26c"
-          ],
-          "first_published_at": 1629819249000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            291,
-            106,
-            57,
-            150,
-            307,
-            19,
-            152,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            0.5,
-            0.3333333333333333,
-            1,
-            0.34,
-            0.23,
-            0.5,
-            2.5,
-            20,
-            3.75,
-            2.5
-          ],
-          "average_rating": 0.855,
-          "rating_count": 110,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A delicious low maintenance dinner for those nights you just want to put your feet up"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "A delicious low maintenance dinner for those nights you just want to put your feet up",
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "American",
-        "reviewCount": 110,
-        "reviewScore": 4.3
-      }
+  "id": 15459,
+  "recipe_id": 1808,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "\"Cheesesteak\" Bake with Peppers, Mushrooms, Onions & Melted Mozzarella",
+  "slug": "cheesesteak-bake-peppers-mushrooms-onions-melted-mozzarella",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/thumbnail_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1808/presentation_2f06dd5c-236a-4bd4-a0c5-b5ad1dc2dc25.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cheesesteak-bake-peppers-mushrooms-onions-melted-mozzarella",
-    "variantId": "15459"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 269118,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 269119,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n1 green bell pepper\n1 lb white mushrooms\n1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 269120,
+      "primary_message": "Trim, seed, and slice bell peppers into thin strips; transfer to a large baking sheet pan.",
+      "secondary_message": null
+    },
+    {
+      "id": 269121,
+      "primary_message": "Slice mushrooms into ¼-inch thick pieces; add to the baking sheet with the peppers.",
+      "secondary_message": null
+    },
+    {
+      "id": 269122,
+      "primary_message": "Peel and mince garlic; peel, halve, and thinly slice onion into half-moons. Add both to the baking sheet, toss to combine the veggies, then spread out in an even layer.",
+      "secondary_message": "4 cloves garlic\n1 medium yellow onion"
+    },
+    {
+      "id": 269123,
+      "primary_message": "Cut butter into small pieces and sprinkle over the veggies; season with salt and pepper.",
+      "secondary_message": "2 tbsp butter, unsalted\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 269124,
+      "primary_message": "Place veggies in the oven (it doesn't have to be fully heated) and bake, stirring halfway through, until tender, 15-18 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 269125,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 269126,
+      "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate; season with spices on both sides.",
+      "secondary_message": "1 ½ lb ribeye steak\n1 tsp thyme, dried\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 269127,
+      "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate and let rest for 5 minutes.",
+      "secondary_message": "2 tsp butter, unsalted"
+    },
+    {
+      "id": 269128,
+      "primary_message": "While the steak is cooking, coarsely grate mozzarella.",
+      "secondary_message": "⅔ (8 oz) block mozzarella cheese"
+    },
+    {
+      "id": 269129,
+      "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves.",
+      "secondary_message": null
+    },
+    {
+      "id": 269130,
+      "primary_message": "When the veggies are done, remove from the oven. Turn oven to broil on high and position rack under the broiler.",
+      "secondary_message": null
+    },
+    {
+      "id": 269131,
+      "primary_message": "Thinly slice steak against the grain. Arrange steak slices over the roasted veggies and sprinkle with cheese. Return baking sheet to the oven and broil until cheese is melted, about 1 minute. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 269132,
+      "primary_message": "To serve, divide the cheesesteak bake between plates and top with parsley. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 284222,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 284231,
+      "quantity": "1",
+      "ingredient_name": "green bell pepper"
+    },
+    {
+      "id": 284227,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 284223,
+      "quantity": "⅔ (8 oz) block",
+      "ingredient_name": "mozzarella cheese"
+    },
+    {
+      "id": 284229,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 284232,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ribeye steak"
+    },
+    {
+      "id": 284221,
+      "quantity": "1 lb",
+      "ingredient_name": "white mushrooms"
+    },
+    {
+      "id": 284230,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 284224,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 284228,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 284225,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 284226,
+      "quantity": "",
+      "ingredient_name": "thyme, dried"
+    }
+  ],
+  "nutrition": {
+    "energy": 684.95,
+    "alcohol": 0,
+    "ash": 6.93,
+    "caffeine": 0,
+    "water": 351.38,
+    "carbs": 14.53,
+    "fiber": 4.15,
+    "starch": 1.78,
+    "sugars": 7.18,
+    "fructose": 2.34,
+    "galactose": 0.06,
+    "glucose": 3.96,
+    "lactose": 0.08,
+    "maltose": 0.03,
+    "sucrose": 0.36,
+    "sugar_alcohol": 0,
+    "fat": 50.98,
+    "monounsaturated": 20.42,
+    "polyunsaturated": 2.45,
+    "omega_3": 0.26,
+    "omega_6": 2.19,
+    "saturated": 24.91,
+    "transfats": 2.63,
+    "cholesterol": 166.18,
+    "protein": 45.12,
+    "alanine": 2.5,
+    "arginine": 2.49,
+    "aspartic_acid": 4.19,
+    "cystine": 0.39,
+    "glutamic_acid": 7.5,
+    "glycine": 1.91,
+    "histidine": 1.44,
+    "isoleucine": 2.02,
+    "leucine": 3.59,
+    "lysine": 3.53,
+    "methionine": 1.1,
+    "phenylalanine": 1.83,
+    "proline": 2.45,
+    "serine": 1.75,
+    "threonine": 2.03,
+    "tryptophan": 0.61,
+    "tyrosine": 1.64,
+    "valine": 2.41,
+    "b1_thiamine": 0.37,
+    "b2_riboflavin": 1.07,
+    "b3_niacin": 13,
+    "b5_pantothenic_acid": 2.91,
+    "b6_pyridoxine": 1.15,
+    "b12_cobalamin": 3.9,
+    "choline": 106.59,
+    "folate": 86.5,
+    "vitamin_a": 398.54,
+    "vitamin_c": 125.32,
+    "vitamin_d": 29.95,
+    "vitamin_e": 1.79,
+    "vitamin_k": 10.48,
+    "calcium": 253.11,
+    "copper": 0.56,
+    "iron": 5.56,
+    "magnesium": 72.92,
+    "manganese": 0.48,
+    "phosphorus": 495.54,
+    "potassium": 1087.62,
+    "selenium": 57.39,
+    "sodium": 343.39,
+    "zinc": 10.17
+  }
 }

@@ -1,696 +1,245 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 26501,
-        "recipe_id": 3004,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
-        "slug": "zucchini-red-pepper-sun-dried-tomato-frittata-dressed-arugula",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 429941,
-            "primary_message": "Wash, dry, trim and medium dice zucchini. Place in a medium bowl. ",
-            "secondary_message": "6 medium zucchini squash"
-          },
-          {
-            "id": 429942,
-            "primary_message": "Preheat a large ovenproof skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 429943,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add zucchini and spices; cook, stirring occasionally, until softened, 4-5 minutes. (Reserve bowl for the next step.)",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp oregano, dried\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 429944,
-            "primary_message": "Meanwhile, place eggs, pesto, salt, and pepper in the reserved bowl; whisk to combine.",
-            "secondary_message": "12 eggs\n⅔ cup sun-dried tomato pesto\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 429945,
-            "primary_message": "Preheat oven to broil on high and position rack in the upper third of the oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 429946,
-            "primary_message": "When the zucchini is done, reduce heat to medium-low; pour the egg mixture into the skillet. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but top is still runny, about 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 429947,
-            "primary_message": "While the egg is cooking, drain and roughly chop roasted peppers. ",
-            "secondary_message": "1 (12 oz) jar roasted red bell peppers"
-          },
-          {
-            "id": 429948,
-            "primary_message": "Sprinkle peppers and cheese over the frittata. Place skillet in the oven and broil until top is set and cheese is melted, 3-4 minutes. Remove from oven.",
-            "secondary_message": "1 cup shredded cheese, Italian blend"
-          },
-          {
-            "id": 429949,
-            "primary_message": "Meanwhile, wash and dry arugula (skip this step if it came pre-washed).",
-            "secondary_message": "1 (5 oz) pkg baby arugula"
-          },
-          {
-            "id": 429950,
-            "primary_message": "To serve, cut frittata into wedges and divide between plates. Add arugula to the plate and drizzle with dressing. Enjoy!",
-            "secondary_message": "¼ cup Italian salad dressing"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 460762,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby arugula"
-          },
-          {
-            "id": 460761,
-            "quantity": "12",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 460764,
-            "quantity": "¼ cup",
-            "ingredient_name": "Italian salad dressing"
-          },
-          {
-            "id": 460767,
-            "quantity": "1 (12 oz) jar",
-            "ingredient_name": "roasted red bell peppers"
-          },
-          {
-            "id": 460766,
-            "quantity": "1 cup",
-            "ingredient_name": "shredded cheese, Italian blend"
-          },
-          {
-            "id": 460765,
-            "quantity": "160 ml",
-            "ingredient_name": "sun-dried tomato pesto"
-          },
-          {
-            "id": 460763,
-            "quantity": "6 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 460758,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 460757,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 460759,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 460760,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 579.4,
-          "alcohol": 0,
-          "ash": 6.67,
-          "caffeine": 0,
-          "water": 433.88,
-          "carbs": 21.35,
-          "fiber": 3.69,
-          "starch": 0.18,
-          "sugars": 15.01,
-          "fructose": 5.3,
-          "galactose": 0.21,
-          "glucose": 4.63,
-          "lactose": 0.4,
-          "maltose": 0,
-          "sucrose": 0.28,
-          "sugar_alcohol": 0,
-          "fat": 42.74,
-          "monounsaturated": 12.15,
-          "polyunsaturated": 5.5,
-          "omega_3": 0.68,
-          "omega_6": 4.8,
-          "saturated": 11.69,
-          "transfats": 0.27,
-          "cholesterol": 509.11,
-          "protein": 30.43,
-          "alanine": 1.39,
-          "arginine": 1.53,
-          "aspartic_acid": 2.73,
-          "cystine": 0.43,
-          "glutamic_acid": 4.14,
-          "glycine": 0.84,
-          "histidine": 0.68,
-          "isoleucine": 1.37,
-          "leucine": 2.31,
-          "lysine": 1.96,
-          "methionine": 0.72,
-          "phenylalanine": 1.37,
-          "proline": 1.52,
-          "serine": 1.81,
-          "threonine": 1.12,
-          "tryptophan": 0.34,
-          "tyrosine": 1.11,
-          "valine": 1.74,
-          "b1_thiamine": 0.21,
-          "b2_riboflavin": 1.01,
-          "b3_niacin": 1.61,
-          "b5_pantothenic_acid": 2.93,
-          "b6_pyridoxine": 0.77,
-          "b12_cobalamin": 1.54,
-          "choline": 425.65,
-          "folate": 175.19,
-          "vitamin_a": 2676.79,
-          "vitamin_c": 89.98,
-          "vitamin_d": 108.35,
-          "vitamin_e": 3.39,
-          "vitamin_k": 66.61,
-          "calcium": 380.5,
-          "copper": 0.3,
-          "iron": 5.15,
-          "magnesium": 95.46,
-          "manganese": 0.74,
-          "phosphorus": 543.93,
-          "potassium": 1271.79,
-          "selenium": 49,
-          "sodium": 1003.97,
-          "zinc": 3.84
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/zucchini-red-pepper-sun-dried-tomato-frittata-dressed-arugula/26501",
-      "altVariants": [
-        {
-          "id": 26502,
-          "recipe_id": 3004,
-          "group_label": "Default",
-          "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "published_recipe_uuid": "65c6f8e7-d2a0-4498-a2e2-6f5d18876820",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699380920000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2,
-            5,
-            6
-          ],
-          "ingredient_ids": [
-            139,
-            121,
-            394,
-            452,
-            426,
-            421,
-            140,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            18,
-            90,
-            1.5,
-            1.5,
-            240,
-            9,
-            5,
-            45,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26501,
-          "recipe_id": 3004,
-          "group_label": "Default",
-          "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "published_recipe_uuid": "70c36553-ae7b-4e83-bf13-00bf23e5bd65",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699380920000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2,
-            5,
-            6
-          ],
-          "ingredient_ids": [
-            139,
-            121,
-            394,
-            452,
-            426,
-            421,
-            140,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            12,
-            60,
-            1,
-            1,
-            160,
-            6,
-            2.5,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26500,
-          "recipe_id": 3004,
-          "group_label": "Default",
-          "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "published_recipe_uuid": "b7f14507-bf7d-460f-9f5f-0675e6646d37",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699380921000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2,
-            5,
-            6
-          ],
-          "ingredient_ids": [
-            139,
-            121,
-            394,
-            452,
-            426,
-            421,
-            140,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            6,
-            30,
-            0.5,
-            0.5,
-            80,
-            3,
-            1.25,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26505,
-          "recipe_id": 3004,
-          "group_label": "Default",
-          "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "published_recipe_uuid": "c9264364-fa13-4da1-ac69-e1a99bda9bbe",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699380919000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2,
-            5,
-            6
-          ],
-          "ingredient_ids": [
-            139,
-            121,
-            394,
-            452,
-            426,
-            421,
-            140,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            18,
-            90,
-            1.5,
-            1.5,
-            240,
-            9,
-            5,
-            45,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26504,
-          "recipe_id": 3004,
-          "group_label": "Default",
-          "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "published_recipe_uuid": "3b0ee12d-38a8-418d-b9a1-816b67b81aa5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699380919000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2,
-            5,
-            6
-          ],
-          "ingredient_ids": [
-            139,
-            121,
-            394,
-            452,
-            426,
-            421,
-            140,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            12,
-            60,
-            1,
-            1,
-            160,
-            6,
-            2.5,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26503,
-          "recipe_id": 3004,
-          "group_label": "Default",
-          "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
-          "published_recipe_uuid": "6cc6cecb-6a88-4a9d-a7b5-1e65ffc44563",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699380920000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2,
-            5,
-            6
-          ],
-          "ingredient_ids": [
-            139,
-            121,
-            394,
-            452,
-            426,
-            421,
-            140,
-            72,
-            47,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            6,
-            30,
-            0.5,
-            0.5,
-            80,
-            3,
-            1.25,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": null,
-        "keywords": [
-          "Frittatas"
-        ],
-        "cuisine": "Italian-American",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 26501,
+  "recipe_id": 3004,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Zucchini, Red Pepper & Sun-Dried Tomato Frittata with Dressed Arugula",
+  "slug": "zucchini-red-pepper-sun-dried-tomato-frittata-dressed-arugula",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/thumbnail_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3004/presentation_b8ad14b6-78f6-4f6e-ab98-f869839b0553.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "zucchini-red-pepper-sun-dried-tomato-frittata-dressed-arugula",
-    "variantId": "26501"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 429941,
+      "primary_message": "Wash, dry, trim and medium dice zucchini. Place in a medium bowl. ",
+      "secondary_message": "6 medium zucchini squash"
+    },
+    {
+      "id": 429942,
+      "primary_message": "Preheat a large ovenproof skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 429943,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add zucchini and spices; cook, stirring occasionally, until softened, 4-5 minutes. (Reserve bowl for the next step.)",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp oregano, dried\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 429944,
+      "primary_message": "Meanwhile, place eggs, pesto, salt, and pepper in the reserved bowl; whisk to combine.",
+      "secondary_message": "12 eggs\n⅔ cup sun-dried tomato pesto\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 429945,
+      "primary_message": "Preheat oven to broil on high and position rack in the upper third of the oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 429946,
+      "primary_message": "When the zucchini is done, reduce heat to medium-low; pour the egg mixture into the skillet. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but top is still runny, about 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 429947,
+      "primary_message": "While the egg is cooking, drain and roughly chop roasted peppers. ",
+      "secondary_message": "1 (12 oz) jar roasted red bell peppers"
+    },
+    {
+      "id": 429948,
+      "primary_message": "Sprinkle peppers and cheese over the frittata. Place skillet in the oven and broil until top is set and cheese is melted, 3-4 minutes. Remove from oven.",
+      "secondary_message": "1 cup shredded cheese, Italian blend"
+    },
+    {
+      "id": 429949,
+      "primary_message": "Meanwhile, wash and dry arugula (skip this step if it came pre-washed).",
+      "secondary_message": "1 (5 oz) pkg baby arugula"
+    },
+    {
+      "id": 429950,
+      "primary_message": "To serve, cut frittata into wedges and divide between plates. Add arugula to the plate and drizzle with dressing. Enjoy!",
+      "secondary_message": "¼ cup Italian salad dressing"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 460762,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby arugula"
+    },
+    {
+      "id": 460761,
+      "quantity": "12",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 460764,
+      "quantity": "¼ cup",
+      "ingredient_name": "Italian salad dressing"
+    },
+    {
+      "id": 460767,
+      "quantity": "1 (12 oz) jar",
+      "ingredient_name": "roasted red bell peppers"
+    },
+    {
+      "id": 460766,
+      "quantity": "1 cup",
+      "ingredient_name": "shredded cheese, Italian blend"
+    },
+    {
+      "id": 460765,
+      "quantity": "160 ml",
+      "ingredient_name": "sun-dried tomato pesto"
+    },
+    {
+      "id": 460763,
+      "quantity": "6 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 460758,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 460757,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 460759,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 460760,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 579.4,
+    "alcohol": 0,
+    "ash": 6.67,
+    "caffeine": 0,
+    "water": 433.88,
+    "carbs": 21.35,
+    "fiber": 3.69,
+    "starch": 0.18,
+    "sugars": 15.01,
+    "fructose": 5.3,
+    "galactose": 0.21,
+    "glucose": 4.63,
+    "lactose": 0.4,
+    "maltose": 0,
+    "sucrose": 0.28,
+    "sugar_alcohol": 0,
+    "fat": 42.74,
+    "monounsaturated": 12.15,
+    "polyunsaturated": 5.5,
+    "omega_3": 0.68,
+    "omega_6": 4.8,
+    "saturated": 11.69,
+    "transfats": 0.27,
+    "cholesterol": 509.11,
+    "protein": 30.43,
+    "alanine": 1.39,
+    "arginine": 1.53,
+    "aspartic_acid": 2.73,
+    "cystine": 0.43,
+    "glutamic_acid": 4.14,
+    "glycine": 0.84,
+    "histidine": 0.68,
+    "isoleucine": 1.37,
+    "leucine": 2.31,
+    "lysine": 1.96,
+    "methionine": 0.72,
+    "phenylalanine": 1.37,
+    "proline": 1.52,
+    "serine": 1.81,
+    "threonine": 1.12,
+    "tryptophan": 0.34,
+    "tyrosine": 1.11,
+    "valine": 1.74,
+    "b1_thiamine": 0.21,
+    "b2_riboflavin": 1.01,
+    "b3_niacin": 1.61,
+    "b5_pantothenic_acid": 2.93,
+    "b6_pyridoxine": 0.77,
+    "b12_cobalamin": 1.54,
+    "choline": 425.65,
+    "folate": 175.19,
+    "vitamin_a": 2676.79,
+    "vitamin_c": 89.98,
+    "vitamin_d": 108.35,
+    "vitamin_e": 3.39,
+    "vitamin_k": 66.61,
+    "calcium": 380.5,
+    "copper": 0.3,
+    "iron": 5.15,
+    "magnesium": 95.46,
+    "manganese": 0.74,
+    "phosphorus": 543.93,
+    "potassium": 1271.79,
+    "selenium": 49,
+    "sodium": 1003.97,
+    "zinc": 3.84
+  }
 }

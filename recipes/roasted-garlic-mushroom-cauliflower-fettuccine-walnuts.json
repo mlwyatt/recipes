@@ -1,1162 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 18147,
-        "recipe_id": 2112,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-        "slug": "roasted-garlic-mushroom-cauliflower-fettuccine-walnuts",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 294555,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 294556,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 medium head cauliflower\n1 lb cremini mushrooms\n1 small bunch Italian (flat-leaf) parsley\n2 tomatoes\n1 lemon"
-          },
-          {
-            "id": 294557,
-            "primary_message": "Separate cauliflower into bite-sized florets and cut stems into smaller pieces; transfer to a large baking sheet pan.",
-            "secondary_message": null
-          },
-          {
-            "id": 294558,
-            "primary_message": "Quarter mushrooms and add to the baking sheet with the cauliflower. Drizzle with oil, season with salt and pepper, and toss to combine; spread out in an even layer.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 294559,
-            "primary_message": "Peel garlic, place in the center of a small square of aluminum foil, and drizzle with oil; fold foil around garlic to close the packet. Add to the baking sheet with the veggies.",
-            "secondary_message": "8 cloves garlic\n2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 294560,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing veggies halfway through, until golden brown and tender (and garlic is soft), 15-20 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 294561,
-            "primary_message": "While the veggies are roasting, fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and return pasta to the pot. (Reserve 1 cup pasta cooking water.)",
-            "secondary_message": "2 tsp salt\n10 oz fettuccine pasta"
-          },
-          {
-            "id": 294562,
-            "primary_message": "Meanwhile, shave parsley leaves off the stems; discard stems and mince the leaves. Place in a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 294563,
-            "primary_message": "Small dice tomatoes; add to the bowl with the parsley.",
-            "secondary_message": null
-          },
-          {
-            "id": 294564,
-            "primary_message": "Finely grate Parmesan; add to the bowl.",
-            "secondary_message": "2 oz Parmesan cheese"
-          },
-          {
-            "id": 294565,
-            "primary_message": "Once the garlic is ready, carefully open the packet; use a fork to mash the roasted garlic. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 294566,
-            "primary_message": "Juice lemon into the pot with the pasta; add roasted veggies, parsley, tomato, Parmesan, roasted garlic, and reserved pasta water. Return to low heat and cook, stirring occasionally, until pasta is heated through and cheese is melted, 2-3 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 294567,
-            "primary_message": "Meanwhile, roughly chop walnuts.",
-            "secondary_message": "½ cup walnuts"
-          },
-          {
-            "id": 294568,
-            "primary_message": "To serve, divide pasta between plates or bowls and top with chopped walnuts. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 312224,
-            "quantity": "1 medium head",
-            "ingredient_name": "cauliflower"
-          },
-          {
-            "id": 312226,
-            "quantity": "1 lb",
-            "ingredient_name": "cremini mushrooms"
-          },
-          {
-            "id": 312229,
-            "quantity": "10 oz",
-            "ingredient_name": "fettuccine pasta"
-          },
-          {
-            "id": 312218,
-            "quantity": "8 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 312222,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 312225,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 312223,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 312227,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 312228,
-            "quantity": "½ cup",
-            "ingredient_name": "walnuts"
-          },
-          {
-            "id": 312220,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 312219,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 312221,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 571.08,
-          "alcohol": 0,
-          "ash": 8.54,
-          "caffeine": 0,
-          "water": 337.37,
-          "carbs": 73.52,
-          "fiber": 8.16,
-          "starch": 47.22,
-          "sugars": 9.2,
-          "fructose": 2.75,
-          "galactose": 0,
-          "glucose": 4.07,
-          "lactose": 0.11,
-          "maltose": 1.39,
-          "sucrose": 0.75,
-          "sugar_alcohol": 0,
-          "fat": 22.84,
-          "monounsaturated": 9.08,
-          "polyunsaturated": 7.52,
-          "omega_3": 1.29,
-          "omega_6": 6.23,
-          "saturated": 4.8,
-          "transfats": 0.1,
-          "cholesterol": 9.64,
-          "protein": 23.3,
-          "alanine": 0.98,
-          "arginine": 1.14,
-          "aspartic_acid": 1.67,
-          "cystine": 0.29,
-          "glutamic_acid": 5.99,
-          "glycine": 0.78,
-          "histidine": 0.64,
-          "isoleucine": 0.97,
-          "leucine": 1.73,
-          "lysine": 1.4,
-          "methionine": 0.37,
-          "phenylalanine": 1.09,
-          "proline": 2.15,
-          "serine": 1.15,
-          "threonine": 0.87,
-          "tryptophan": 0.33,
-          "tyrosine": 0.67,
-          "valine": 1.23,
-          "b1_thiamine": 0.34,
-          "b2_riboflavin": 0.79,
-          "b3_niacin": 7.06,
-          "b5_pantothenic_acid": 3.29,
-          "b6_pyridoxine": 0.72,
-          "b12_cobalamin": 0.28,
-          "choline": 105.35,
-          "folate": 172.77,
-          "vitamin_a": 628.76,
-          "vitamin_c": 105.91,
-          "vitamin_d": 6.1,
-          "vitamin_e": 2.1,
-          "vitamin_k": 34.28,
-          "calcium": 120.12,
-          "copper": 1.11,
-          "iron": 3.76,
-          "magnesium": 112.58,
-          "manganese": 1.69,
-          "phosphorus": 510.16,
-          "potassium": 1439.44,
-          "selenium": 79.85,
-          "sodium": 69.84,
-          "zinc": 3.77
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/roasted-garlic-mushroom-cauliflower-fettuccine-walnuts/18147",
-      "altVariants": [
-        {
-          "id": 18149,
-          "recipe_id": 2112,
-          "group_label": "Default auto-gluten-free",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "b8caae0e-a34b-4f9a-8bca-aadb98be73d9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289912000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            24,
-            300,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            4,
-            5,
-            0.5,
-            0.5,
-            1,
-            1,
-            0.25,
-            0.625,
-            20,
-            6.25
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18148,
-          "recipe_id": 2112,
-          "group_label": "Default",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "cd7c8469-dcb5-4692-9cca-361d1ed1702b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289913000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            299,
-            24,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            15,
-            12,
-            1,
-            1.5,
-            3,
-            3,
-            0.75,
-            2.5,
-            60,
-            18.75
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18147,
-          "recipe_id": 2112,
-          "group_label": "Default",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "84af2c16-e7ab-4036-b0f9-54b98c08b79f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289913000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            299,
-            24,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            10,
-            8,
-            1,
-            1,
-            2,
-            2,
-            0.5,
-            1.25,
-            40,
-            12.5
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18146,
-          "recipe_id": 2112,
-          "group_label": "Default",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "36c15491-7bc1-4570-b396-ff02816931b5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289913000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            299,
-            24,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            5,
-            4,
-            0.5,
-            0.5,
-            1,
-            1,
-            0.25,
-            0.625,
-            20,
-            6.25
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18150,
-          "recipe_id": 2112,
-          "group_label": "Default auto-gluten-free",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "fe19adca-ca6f-43f5-b673-7aac4c220d9d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289912000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            24,
-            300,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            8,
-            10,
-            1,
-            1,
-            2,
-            2,
-            0.5,
-            1.25,
-            40,
-            12.5
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18151,
-          "recipe_id": 2112,
-          "group_label": "Default auto-gluten-free",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "cbf2a102-ad1d-4bf0-b847-38419746fef2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289912000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            24,
-            300,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            12,
-            15,
-            1,
-            1.5,
-            3,
-            3,
-            0.75,
-            2.5,
-            60,
-            18.75
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18157,
-          "recipe_id": 2112,
-          "group_label": "Default auto-gluten-free",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "ee1670fb-58d0-497c-ba9c-f103dc8b8f0f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289910000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            24,
-            300,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            0.68,
-            12,
-            425,
-            1,
-            1.5,
-            85,
-            3,
-            0.75,
-            2.5,
-            60,
-            18.75
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18156,
-          "recipe_id": 2112,
-          "group_label": "Default auto-gluten-free",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "e97b10c8-3e8e-4fc6-b4a7-bdf931f407bd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289910000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            24,
-            300,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.45,
-            8,
-            283,
-            1,
-            1,
-            57,
-            2,
-            0.5,
-            1.25,
-            40,
-            12.5
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18155,
-          "recipe_id": 2112,
-          "group_label": "Default auto-gluten-free",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "66aa4098-99d4-4699-a725-4f7dbf9d45b8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289911000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            24,
-            300,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.23,
-            4,
-            142,
-            0.5,
-            0.5,
-            28,
-            1,
-            0.25,
-            0.625,
-            20,
-            6.25
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18154,
-          "recipe_id": 2112,
-          "group_label": "Default",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "a86d7c06-46be-4cef-9945-417af20af40f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289911000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            299,
-            24,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            0.68,
-            425,
-            12,
-            1,
-            1.5,
-            85,
-            3,
-            0.75,
-            2.5,
-            60,
-            18.75
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18153,
-          "recipe_id": 2112,
-          "group_label": "Default",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "f60013a5-ca8d-4819-bb38-ab4f4617c15f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289911000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            299,
-            24,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.45,
-            283,
-            8,
-            1,
-            1,
-            57,
-            2,
-            0.5,
-            1.25,
-            40,
-            12.5
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        },
-        {
-          "id": 18152,
-          "recipe_id": 2112,
-          "group_label": "Default",
-          "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
-          "published_recipe_uuid": "69bc7081-1625-48a5-a3e4-12774ba6f151",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1664289911000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            6,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            230,
-            299,
-            24,
-            106,
-            192,
-            120,
-            260,
-            272,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.23,
-            142,
-            4,
-            0.5,
-            0.5,
-            28,
-            1,
-            0.25,
-            0.625,
-            20,
-            6.25
-          ],
-          "average_rating": 0.556,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "This earthy pasta is perfectly balanced with bright lemon and salty parmesan cheese",
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 18147,
+  "recipe_id": 2112,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Roasted Garlic, Mushroom & Cauliflower Fettuccine with Walnuts",
+  "slug": "roasted-garlic-mushroom-cauliflower-fettuccine-walnuts",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/thumbnail_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2112/presentation_a149e28b-29cc-4e0e-af5c-194276acb15d.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "roasted-garlic-mushroom-cauliflower-fettuccine-walnuts",
-    "variantId": "18147"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 294555,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 294556,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 medium head cauliflower\n1 lb cremini mushrooms\n1 small bunch Italian (flat-leaf) parsley\n2 tomatoes\n1 lemon"
+    },
+    {
+      "id": 294557,
+      "primary_message": "Separate cauliflower into bite-sized florets and cut stems into smaller pieces; transfer to a large baking sheet pan.",
+      "secondary_message": null
+    },
+    {
+      "id": 294558,
+      "primary_message": "Quarter mushrooms and add to the baking sheet with the cauliflower. Drizzle with oil, season with salt and pepper, and toss to combine; spread out in an even layer.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 294559,
+      "primary_message": "Peel garlic, place in the center of a small square of aluminum foil, and drizzle with oil; fold foil around garlic to close the packet. Add to the baking sheet with the veggies.",
+      "secondary_message": "8 cloves garlic\n2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 294560,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing veggies halfway through, until golden brown and tender (and garlic is soft), 15-20 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 294561,
+      "primary_message": "While the veggies are roasting, fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and return pasta to the pot. (Reserve 1 cup pasta cooking water.)",
+      "secondary_message": "2 tsp salt\n10 oz fettuccine pasta"
+    },
+    {
+      "id": 294562,
+      "primary_message": "Meanwhile, shave parsley leaves off the stems; discard stems and mince the leaves. Place in a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 294563,
+      "primary_message": "Small dice tomatoes; add to the bowl with the parsley.",
+      "secondary_message": null
+    },
+    {
+      "id": 294564,
+      "primary_message": "Finely grate Parmesan; add to the bowl.",
+      "secondary_message": "2 oz Parmesan cheese"
+    },
+    {
+      "id": 294565,
+      "primary_message": "Once the garlic is ready, carefully open the packet; use a fork to mash the roasted garlic. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 294566,
+      "primary_message": "Juice lemon into the pot with the pasta; add roasted veggies, parsley, tomato, Parmesan, roasted garlic, and reserved pasta water. Return to low heat and cook, stirring occasionally, until pasta is heated through and cheese is melted, 2-3 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 294567,
+      "primary_message": "Meanwhile, roughly chop walnuts.",
+      "secondary_message": "½ cup walnuts"
+    },
+    {
+      "id": 294568,
+      "primary_message": "To serve, divide pasta between plates or bowls and top with chopped walnuts. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 312224,
+      "quantity": "1 medium head",
+      "ingredient_name": "cauliflower"
+    },
+    {
+      "id": 312226,
+      "quantity": "1 lb",
+      "ingredient_name": "cremini mushrooms"
+    },
+    {
+      "id": 312229,
+      "quantity": "10 oz",
+      "ingredient_name": "fettuccine pasta"
+    },
+    {
+      "id": 312218,
+      "quantity": "8 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 312222,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 312225,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 312223,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 312227,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 312228,
+      "quantity": "½ cup",
+      "ingredient_name": "walnuts"
+    },
+    {
+      "id": 312220,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 312219,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 312221,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 571.08,
+    "alcohol": 0,
+    "ash": 8.54,
+    "caffeine": 0,
+    "water": 337.37,
+    "carbs": 73.52,
+    "fiber": 8.16,
+    "starch": 47.22,
+    "sugars": 9.2,
+    "fructose": 2.75,
+    "galactose": 0,
+    "glucose": 4.07,
+    "lactose": 0.11,
+    "maltose": 1.39,
+    "sucrose": 0.75,
+    "sugar_alcohol": 0,
+    "fat": 22.84,
+    "monounsaturated": 9.08,
+    "polyunsaturated": 7.52,
+    "omega_3": 1.29,
+    "omega_6": 6.23,
+    "saturated": 4.8,
+    "transfats": 0.1,
+    "cholesterol": 9.64,
+    "protein": 23.3,
+    "alanine": 0.98,
+    "arginine": 1.14,
+    "aspartic_acid": 1.67,
+    "cystine": 0.29,
+    "glutamic_acid": 5.99,
+    "glycine": 0.78,
+    "histidine": 0.64,
+    "isoleucine": 0.97,
+    "leucine": 1.73,
+    "lysine": 1.4,
+    "methionine": 0.37,
+    "phenylalanine": 1.09,
+    "proline": 2.15,
+    "serine": 1.15,
+    "threonine": 0.87,
+    "tryptophan": 0.33,
+    "tyrosine": 0.67,
+    "valine": 1.23,
+    "b1_thiamine": 0.34,
+    "b2_riboflavin": 0.79,
+    "b3_niacin": 7.06,
+    "b5_pantothenic_acid": 3.29,
+    "b6_pyridoxine": 0.72,
+    "b12_cobalamin": 0.28,
+    "choline": 105.35,
+    "folate": 172.77,
+    "vitamin_a": 628.76,
+    "vitamin_c": 105.91,
+    "vitamin_d": 6.1,
+    "vitamin_e": 2.1,
+    "vitamin_k": 34.28,
+    "calcium": 120.12,
+    "copper": 1.11,
+    "iron": 3.76,
+    "magnesium": 112.58,
+    "manganese": 1.69,
+    "phosphorus": 510.16,
+    "potassium": 1439.44,
+    "selenium": 79.85,
+    "sodium": 69.84,
+    "zinc": 3.77
+  }
 }

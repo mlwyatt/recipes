@@ -1,708 +1,245 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 20990,
-        "recipe_id": 2400,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
-        "slug": "tortellini-chickpea-spinach-tomato-soup-basil",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 57,
-            "name": "ladle",
-            "slug": "ladle"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 361726,
-            "primary_message": "Drain and rinse chickpeas in a colander; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 361727,
-            "primary_message": "Preheat a large pot over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 361728,
-            "primary_message": "While the pot heats up, peel, halve, and small dice onion; peel and mince garlic.",
-            "secondary_message": "1 medium yellow onion\n4 cloves garlic"
-          },
-          {
-            "id": 361729,
-            "primary_message": "Once the pot is hot, add butter and swirl to coat the bottom; add onion, garlic, and spices. Cook, stirring frequently, until starting to soften, 2-3 minutes.",
-            "secondary_message": "4 tsp butter, unsalted\n2 tsp Italian seasoning\n½ tsp salt\n¼ tsp crushed red pepper"
-          },
-          {
-            "id": 361730,
-            "primary_message": "Add chickpeas, broth, and tomatoes to the pot; stir to combine, cover, and bring to a boil over high heat.",
-            "secondary_message": "48 fl oz (6 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes"
-          },
-          {
-            "id": 361731,
-            "primary_message": "Once the broth is boiling, uncover, add tortellini, and stir for a few seconds; return soup to a simmer. Once simmering, reduce heat to medium and cook until tortellini is just tender, about 5 minutes (or cook according to package instructions).",
-            "secondary_message": "18 oz cheese tortellini, fresh or frozen"
-          },
-          {
-            "id": 361732,
-            "primary_message": "Meanwhile, wash and dry spinach (skip this step if it came pre-washed).",
-            "secondary_message": "1 (5 oz) pkg baby spinach"
-          },
-          {
-            "id": 361733,
-            "primary_message": "Wash and dry basil, then pick leaves off the stems; roll up crosswise and thinly slice into ribbons.",
-            "secondary_message": "1 small pkg fresh basil"
-          },
-          {
-            "id": 361734,
-            "primary_message": "Once the tortellini is tender, add spinach and basil to the pot in handfuls, waiting for the spinach to wilt slightly before adding the next handful. Stir to combine and remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 361735,
-            "primary_message": "To serve, divide soup between bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 386316,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 386325,
-            "quantity": "18 oz",
-            "ingredient_name": "cheese tortellini, fresh or frozen"
-          },
-          {
-            "id": 386324,
-            "quantity": "48 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 386321,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 386315,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 386320,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 386314,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 386323,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 386322,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 386318,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 386317,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 386319,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 631.6,
-          "alcohol": 0,
-          "ash": 5.11,
-          "caffeine": 0,
-          "water": 763.45,
-          "carbs": 91.75,
-          "fiber": 15.33,
-          "starch": 18.72,
-          "sugars": 8.61,
-          "fructose": 3.16,
-          "galactose": 0.05,
-          "glucose": 3.52,
-          "lactose": 0.03,
-          "maltose": 0,
-          "sucrose": 0.91,
-          "sugar_alcohol": 0,
-          "fat": 17.54,
-          "monounsaturated": 4.79,
-          "polyunsaturated": 2.63,
-          "omega_3": 0.28,
-          "omega_6": 2.35,
-          "saturated": 7.06,
-          "transfats": 0.23,
-          "cholesterol": 51.14,
-          "protein": 33.14,
-          "alanine": 0.93,
-          "arginine": 1.46,
-          "aspartic_acid": 2.21,
-          "cystine": 0.27,
-          "glutamic_acid": 3.87,
-          "glycine": 0.87,
-          "histidine": 0.54,
-          "isoleucine": 0.91,
-          "leucine": 1.38,
-          "lysine": 1.4,
-          "methionine": 0.35,
-          "phenylalanine": 0.91,
-          "proline": 0.8,
-          "serine": 0.83,
-          "threonine": 0.82,
-          "tryptophan": 0.2,
-          "tyrosine": 0.58,
-          "valine": 0.87,
-          "b1_thiamine": 1.47,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 8.89,
-          "b5_pantothenic_acid": 1.13,
-          "b6_pyridoxine": 0.61,
-          "b12_cobalamin": 0.53,
-          "choline": 99.18,
-          "folate": 209.01,
-          "vitamin_a": 939.99,
-          "vitamin_c": 40.45,
-          "vitamin_d": 2.88,
-          "vitamin_e": 2.81,
-          "vitamin_k": 213.75,
-          "calcium": 342.31,
-          "copper": 0.78,
-          "iron": 5.96,
-          "magnesium": 113.44,
-          "manganese": 1.96,
-          "phosphorus": 468.64,
-          "potassium": 1151.08,
-          "selenium": 29.87,
-          "sodium": 631.89,
-          "zinc": 2.77
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/tortellini-chickpea-spinach-tomato-soup-basil/20990",
-      "altVariants": [
-        {
-          "id": 20989,
-          "recipe_id": 2400,
-          "group_label": "Default",
-          "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "published_recipe_uuid": "3f88bcb9-5489-49d3-ae99-5d1aad7b2ca9",
-          "fallback_published_recipe_uuids": [
-            "79f5c253-2656-417b-adf4-9008854277e7"
-          ],
-          "first_published_at": 1659466943000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            414,
-            201,
-            97,
-            28,
-            92,
-            24,
-            152,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            9,
-            24,
-            1,
-            0.5,
-            1,
-            2,
-            0.5,
-            10,
-            0.625,
-            5,
-            1.25
-          ],
-          "average_rating": 0.811,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Sometimes the best meals come together in only 20 minutes and yes, this is one of them"
-        },
-        {
-          "id": 20990,
-          "recipe_id": 2400,
-          "group_label": "Default",
-          "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "published_recipe_uuid": "c446ff12-fd5a-4351-b5e9-57da84dfea67",
-          "fallback_published_recipe_uuids": [
-            "5c7d595e-2fdb-411b-96b7-6f002e31e0a3"
-          ],
-          "first_published_at": 1659466943000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            414,
-            201,
-            97,
-            28,
-            92,
-            24,
-            152,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            18,
-            48,
-            2,
-            1,
-            2,
-            4,
-            1,
-            20,
-            1.25,
-            10,
-            2.5
-          ],
-          "average_rating": 0.811,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Sometimes the best meals come together in only 20 minutes and yes, this is one of them"
-        },
-        {
-          "id": 20991,
-          "recipe_id": 2400,
-          "group_label": "Default",
-          "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "published_recipe_uuid": "b3fc4582-843e-4552-94c3-c75c0fe43d42",
-          "fallback_published_recipe_uuids": [
-            "15d7272c-4b93-4997-85fc-956d1de7d10b"
-          ],
-          "first_published_at": 1659466942000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            414,
-            201,
-            97,
-            28,
-            92,
-            24,
-            152,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            27,
-            72,
-            3,
-            1,
-            3,
-            6,
-            1.5,
-            30,
-            2.5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.811,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Sometimes the best meals come together in only 20 minutes and yes, this is one of them"
-        },
-        {
-          "id": 20994,
-          "recipe_id": 2400,
-          "group_label": "Default",
-          "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "published_recipe_uuid": "01d9c963-001c-412f-bc65-68190502e6de",
-          "fallback_published_recipe_uuids": [
-            "597cbe3a-e06b-4a74-a27e-f888938a63a5"
-          ],
-          "first_published_at": 1659466942000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            414,
-            201,
-            97,
-            28,
-            92,
-            24,
-            152,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            765,
-            2129,
-            3,
-            1,
-            3,
-            6,
-            1.5,
-            30,
-            2.5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.811,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Sometimes the best meals come together in only 20 minutes and yes, this is one of them"
-        },
-        {
-          "id": 20993,
-          "recipe_id": 2400,
-          "group_label": "Default",
-          "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "published_recipe_uuid": "5a4a1b02-0c04-4ada-87ae-51eb6221299a",
-          "fallback_published_recipe_uuids": [
-            "49cb90e0-8fca-47ac-aef8-e80fc6ecd2c0"
-          ],
-          "first_published_at": 1659466942000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            414,
-            201,
-            97,
-            28,
-            92,
-            24,
-            152,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            510,
-            1420,
-            2,
-            1,
-            2,
-            4,
-            1,
-            20,
-            1.25,
-            10,
-            2.5
-          ],
-          "average_rating": 0.811,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Sometimes the best meals come together in only 20 minutes and yes, this is one of them"
-        },
-        {
-          "id": 20992,
-          "recipe_id": 2400,
-          "group_label": "Default",
-          "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
-          "published_recipe_uuid": "30835c45-b7a9-4d26-9ebf-2c6472326e19",
-          "fallback_published_recipe_uuids": [
-            "933c85d5-0759-4d6e-8b6a-a2c6102c5fa9"
-          ],
-          "first_published_at": 1659466942000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            414,
-            201,
-            97,
-            28,
-            92,
-            24,
-            152,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            255,
-            710,
-            1,
-            0.5,
-            1,
-            2,
-            0.5,
-            10,
-            0.625,
-            5,
-            1.25
-          ],
-          "average_rating": 0.811,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Sometimes the best meals come together in only 20 minutes and yes, this is one of them"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Sometimes the best meals come together in only 20 minutes and yes, this is one of them",
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "Italian-American",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 20990,
+  "recipe_id": 2400,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Tortellini, Chickpea, Spinach & Tomato Soup with Basil",
+  "slug": "tortellini-chickpea-spinach-tomato-soup-basil",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/thumbnail_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2400/presentation_f1cc9e1b-0da1-4d4a-8678-ba5d4044842d.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "tortellini-chickpea-spinach-tomato-soup-basil",
-    "variantId": "20990"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 57,
+      "name": "ladle",
+      "slug": "ladle"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 361726,
+      "primary_message": "Drain and rinse chickpeas in a colander; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 361727,
+      "primary_message": "Preheat a large pot over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 361728,
+      "primary_message": "While the pot heats up, peel, halve, and small dice onion; peel and mince garlic.",
+      "secondary_message": "1 medium yellow onion\n4 cloves garlic"
+    },
+    {
+      "id": 361729,
+      "primary_message": "Once the pot is hot, add butter and swirl to coat the bottom; add onion, garlic, and spices. Cook, stirring frequently, until starting to soften, 2-3 minutes.",
+      "secondary_message": "4 tsp butter, unsalted\n2 tsp Italian seasoning\n½ tsp salt\n¼ tsp crushed red pepper"
+    },
+    {
+      "id": 361730,
+      "primary_message": "Add chickpeas, broth, and tomatoes to the pot; stir to combine, cover, and bring to a boil over high heat.",
+      "secondary_message": "48 fl oz (6 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes"
+    },
+    {
+      "id": 361731,
+      "primary_message": "Once the broth is boiling, uncover, add tortellini, and stir for a few seconds; return soup to a simmer. Once simmering, reduce heat to medium and cook until tortellini is just tender, about 5 minutes (or cook according to package instructions).",
+      "secondary_message": "18 oz cheese tortellini, fresh or frozen"
+    },
+    {
+      "id": 361732,
+      "primary_message": "Meanwhile, wash and dry spinach (skip this step if it came pre-washed).",
+      "secondary_message": "1 (5 oz) pkg baby spinach"
+    },
+    {
+      "id": 361733,
+      "primary_message": "Wash and dry basil, then pick leaves off the stems; roll up crosswise and thinly slice into ribbons.",
+      "secondary_message": "1 small pkg fresh basil"
+    },
+    {
+      "id": 361734,
+      "primary_message": "Once the tortellini is tender, add spinach and basil to the pot in handfuls, waiting for the spinach to wilt slightly before adding the next handful. Stir to combine and remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 361735,
+      "primary_message": "To serve, divide soup between bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 386316,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 386325,
+      "quantity": "18 oz",
+      "ingredient_name": "cheese tortellini, fresh or frozen"
+    },
+    {
+      "id": 386324,
+      "quantity": "48 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 386321,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 386315,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 386320,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 386314,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 386323,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 386322,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 386318,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 386317,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 386319,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 631.6,
+    "alcohol": 0,
+    "ash": 5.11,
+    "caffeine": 0,
+    "water": 763.45,
+    "carbs": 91.75,
+    "fiber": 15.33,
+    "starch": 18.72,
+    "sugars": 8.61,
+    "fructose": 3.16,
+    "galactose": 0.05,
+    "glucose": 3.52,
+    "lactose": 0.03,
+    "maltose": 0,
+    "sucrose": 0.91,
+    "sugar_alcohol": 0,
+    "fat": 17.54,
+    "monounsaturated": 4.79,
+    "polyunsaturated": 2.63,
+    "omega_3": 0.28,
+    "omega_6": 2.35,
+    "saturated": 7.06,
+    "transfats": 0.23,
+    "cholesterol": 51.14,
+    "protein": 33.14,
+    "alanine": 0.93,
+    "arginine": 1.46,
+    "aspartic_acid": 2.21,
+    "cystine": 0.27,
+    "glutamic_acid": 3.87,
+    "glycine": 0.87,
+    "histidine": 0.54,
+    "isoleucine": 0.91,
+    "leucine": 1.38,
+    "lysine": 1.4,
+    "methionine": 0.35,
+    "phenylalanine": 0.91,
+    "proline": 0.8,
+    "serine": 0.83,
+    "threonine": 0.82,
+    "tryptophan": 0.2,
+    "tyrosine": 0.58,
+    "valine": 0.87,
+    "b1_thiamine": 1.47,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 8.89,
+    "b5_pantothenic_acid": 1.13,
+    "b6_pyridoxine": 0.61,
+    "b12_cobalamin": 0.53,
+    "choline": 99.18,
+    "folate": 209.01,
+    "vitamin_a": 939.99,
+    "vitamin_c": 40.45,
+    "vitamin_d": 2.88,
+    "vitamin_e": 2.81,
+    "vitamin_k": 213.75,
+    "calcium": 342.31,
+    "copper": 0.78,
+    "iron": 5.96,
+    "magnesium": 113.44,
+    "manganese": 1.96,
+    "phosphorus": 468.64,
+    "potassium": 1151.08,
+    "selenium": 29.87,
+    "sodium": 631.89,
+    "zinc": 2.77
+  }
 }

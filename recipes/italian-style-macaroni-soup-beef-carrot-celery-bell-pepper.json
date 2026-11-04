@@ -1,2133 +1,290 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 23834,
-        "recipe_id": 2680,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-        "slug": "italian-style-macaroni-soup-beef-carrot-celery-bell-pepper",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 57,
-            "name": "ladle",
-            "slug": "ladle"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 126,
-            "name": "slotted spoon",
-            "slug": "slotted-spoon"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 388500,
-            "primary_message": "Preheat a large pot over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 388501,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat. Add the beef and spices; cook, breaking the meat apart with a spoon, until browned and cooked through, about 5 minutes. Using a slotted spoon, transfer beef to a plate and set aside. (Reserve pot with drippings for later use.)",
-            "secondary_message": "2 tsp extra virgin olive oil\n1 ½ lb lean ground beef\n2 tsp Italian seasoning\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 388502,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n2 medium carrots\n2 sticks celery\n1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 388503,
-            "primary_message": "Trim, seed, and small dice bell peppers. Place in a medium bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 388504,
-            "primary_message": "Peel, trim, and small dice carrots. Add to the bowl with the bell pepper.",
-            "secondary_message": null
-          },
-          {
-            "id": 388505,
-            "primary_message": "Trim and small dice celery. Add to the bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 388506,
-            "primary_message": "Peel, halve, and medium dice onion. Peel and mince garlic. Add both to the bowl. ",
-            "secondary_message": "1 medium yellow onion\n4 cloves garlic"
-          },
-          {
-            "id": 388507,
-            "primary_message": "Return the pot (with drippings) to medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 388508,
-            "primary_message": "Once the pot is hot, add the veggies and cook, stirring occasionally, until starting to soften, 3-4 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 388509,
-            "primary_message": "Return beef to the pot along with broth, tomatoes, pasta, and Worcestershire. Stir to combine the soup, cover, and bring to a boil. Once boiling, reduce heat to medium and simmer until pasta is cooked through, about 8 minutes.",
-            "secondary_message": "48 fl oz (6 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes\n6 oz macaroni (elbow) pasta\n4 tsp Worcestershire sauce"
-          },
-          {
-            "id": 388510,
-            "primary_message": "Meanwhile, shave parsley leaves off the stems; discard stems and mince the leaves. ",
-            "secondary_message": null
-          },
-          {
-            "id": 388511,
-            "primary_message": "Once the pasta is done, add half of the parsley to the soup and stir to combine. Remove from heat. (Reserve remaining parsley for serving.)",
-            "secondary_message": null
-          },
-          {
-            "id": 388512,
-            "primary_message": "To serve, divide soup between bowls and sprinkle with reserved parsley. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 415233,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 415232,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 415235,
-            "quantity": "48 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 415227,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 415221,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 415228,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 415234,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 415223,
-            "quantity": "6 oz",
-            "ingredient_name": "macaroni (elbow) pasta"
-          },
-          {
-            "id": 415230,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 415231,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 415224,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 415222,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 415225,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 415226,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 415229,
-            "quantity": "",
-            "ingredient_name": "Worcestershire sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 697.94,
-          "alcohol": 0,
-          "ash": 7.11,
-          "caffeine": 0,
-          "water": 814.11,
-          "carbs": 56.6,
-          "fiber": 8.99,
-          "starch": 28.68,
-          "sugars": 13,
-          "fructose": 4.88,
-          "galactose": 0.1,
-          "glucose": 5.05,
-          "lactose": 0,
-          "maltose": 0.83,
-          "sucrose": 2.04,
-          "sugar_alcohol": 0,
-          "fat": 31.69,
-          "monounsaturated": 13.92,
-          "polyunsaturated": 2.03,
-          "omega_3": 0.29,
-          "omega_6": 1.84,
-          "saturated": 10.98,
-          "transfats": 1.54,
-          "cholesterol": 115.67,
-          "protein": 48.3,
-          "alanine": 2.74,
-          "arginine": 2.88,
-          "aspartic_acid": 4.44,
-          "cystine": 0.61,
-          "glutamic_acid": 9.14,
-          "glycine": 2.82,
-          "histidine": 1.45,
-          "isoleucine": 2.14,
-          "leucine": 3.61,
-          "lysine": 3.55,
-          "methionine": 1.1,
-          "phenylalanine": 1.96,
-          "proline": 2.73,
-          "serine": 1.92,
-          "threonine": 1.96,
-          "tryptophan": 0.36,
-          "tyrosine": 1.42,
-          "valine": 2.3,
-          "b1_thiamine": 1.73,
-          "b2_riboflavin": 0.77,
-          "b3_niacin": 18.8,
-          "b5_pantothenic_acid": 2.29,
-          "b6_pyridoxine": 1.24,
-          "b12_cobalamin": 4.06,
-          "choline": 160.01,
-          "folate": 197.79,
-          "vitamin_a": 1034.76,
-          "vitamin_c": 128.11,
-          "vitamin_d": 5.1,
-          "vitamin_e": 3.25,
-          "vitamin_k": 23.24,
-          "calcium": 179.79,
-          "copper": 0.62,
-          "iron": 9.06,
-          "magnesium": 104.69,
-          "manganese": 1.12,
-          "phosphorus": 575.4,
-          "potassium": 1767.4,
-          "selenium": 56,
-          "sodium": 354.74,
-          "zinc": 9.37
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/italian-style-macaroni-soup-beef-carrot-celery-bell-pepper/23834",
-      "altVariants": [
-        {
-          "id": 23833,
-          "recipe_id": 2680,
-          "group_label": "Default",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "66c657bb-cfd1-4dde-8a38-4114d0aa1826",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841620000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            168,
-            61,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            24,
-            1,
-            2,
-            0.5,
-            0.75,
-            3,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            2.5,
-            10
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23844,
-          "recipe_id": 2680,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "8a53e4f1-8c0e-414b-9fc8-6983f2bbc17a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841616000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            72,
-            3,
-            6,
-            9,
-            1,
-            3,
-            24,
-            1.5,
-            45,
-            3.75,
-            60,
-            15,
-            7.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23843,
-          "recipe_id": 2680,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "fb185fd6-1a1c-489f-ab79-cdc8f547f872",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841616000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            48,
-            2,
-            4,
-            6,
-            1,
-            2,
-            16,
-            1,
-            30,
-            2.5,
-            40,
-            10,
-            5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23842,
-          "recipe_id": 2680,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "fea45ce9-e9be-40b8-a51a-9874bebf5f32",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841617000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            24,
-            1,
-            2,
-            3,
-            0.5,
-            1,
-            8,
-            0.5,
-            15,
-            1.25,
-            20,
-            5,
-            2.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23841,
-          "recipe_id": 2680,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 103,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "dc3cd9c1-4752-414d-9844-76b5bf32d7d0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841617000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            168,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            72,
-            3,
-            6,
-            9,
-            1,
-            2.25,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            7.5,
-            30
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23840,
-          "recipe_id": 2680,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 102,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "f36e7d1b-a3e0-4d2d-9fd0-4d05b6e6061e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841617000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            168,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            48,
-            2,
-            4,
-            6,
-            1,
-            1.5,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            5,
-            20
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23839,
-          "recipe_id": 2680,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 101,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "64c08268-ebcc-4fa0-ad66-89eb738f6140",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841618000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            168,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            24,
-            1,
-            2,
-            3,
-            0.5,
-            0.75,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            2.5,
-            10
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23838,
-          "recipe_id": 2680,
-          "group_label": "Vegan",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "6fef95e6-8894-434b-a8d9-b15b786974c0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841618000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            61,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            72,
-            3,
-            6,
-            1,
-            9,
-            3,
-            24,
-            1.5,
-            45,
-            3.75,
-            60,
-            15,
-            7.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23837,
-          "recipe_id": 2680,
-          "group_label": "Vegan",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "e2a0f422-68ae-4c9f-88c3-d7bc937cdb13",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841618000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            61,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            48,
-            2,
-            4,
-            1,
-            6,
-            2,
-            16,
-            1,
-            30,
-            2.5,
-            40,
-            10,
-            5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23836,
-          "recipe_id": 2680,
-          "group_label": "Vegan",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "494c46a0-a658-42de-87eb-b994ccf1b91b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841619000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            61,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            24,
-            1,
-            2,
-            0.5,
-            3,
-            1,
-            8,
-            0.5,
-            15,
-            1.25,
-            20,
-            5,
-            2.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23835,
-          "recipe_id": 2680,
-          "group_label": "Default",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "456ac5b4-6b5e-4f52-a446-fdeb3593cc0b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841619000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            168,
-            61,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            72,
-            3,
-            6,
-            1,
-            2.25,
-            9,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            7.5,
-            30
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23834,
-          "recipe_id": 2680,
-          "group_label": "Default",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "749bcdad-0ba5-40af-b85d-7d272bc3d75e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841619000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            168,
-            61,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            48,
-            2,
-            4,
-            1,
-            1.5,
-            6,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            5,
-            20
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23855,
-          "recipe_id": 2680,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "5276661b-48f2-4d63-995a-5b37a6a3a209",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841611000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1420,
-            2,
-            4,
-            170,
-            1,
-            2,
-            454,
-            1,
-            30,
-            2.5,
-            40,
-            10,
-            5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23856,
-          "recipe_id": 2680,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "58a2b843-2d86-466f-bf90-2f39886de166",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841611000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            2129,
-            3,
-            6,
-            255,
-            1,
-            3,
-            680,
-            1.5,
-            45,
-            3.75,
-            60,
-            15,
-            7.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23854,
-          "recipe_id": 2680,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "e326a59a-0baf-4363-8524-847ac79a543f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841612000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            710,
-            1,
-            2,
-            85,
-            0.5,
-            1,
-            227,
-            0.5,
-            15,
-            1.25,
-            20,
-            5,
-            2.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23853,
-          "recipe_id": 2680,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 103,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "388fb644-c94a-43da-95c3-c159e8bc17cb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841612000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            168,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            2129,
-            3,
-            6,
-            255,
-            1,
-            1.02,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            7.5,
-            30
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23852,
-          "recipe_id": 2680,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 102,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "c22b2ac0-d10e-47b9-a0c2-06c5daa8e033",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841613000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            168,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1420,
-            2,
-            4,
-            170,
-            1,
-            0.68,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            5,
-            20
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23851,
-          "recipe_id": 2680,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 101,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "9cfe9648-20b9-4751-84a4-ca1fad2193cf",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841613000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            62,
-            106,
-            168,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            710,
-            1,
-            2,
-            85,
-            0.5,
-            0.34,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            2.5,
-            10
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23850,
-          "recipe_id": 2680,
-          "group_label": "Vegan",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "a6139f08-cf8f-407c-af80-a694f3c19915",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841614000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            61,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            2129,
-            3,
-            6,
-            1,
-            255,
-            3,
-            680,
-            1.5,
-            45,
-            3.75,
-            60,
-            15,
-            7.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23849,
-          "recipe_id": 2680,
-          "group_label": "Vegan",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "8ad0ce7e-5bee-4deb-8e03-e5475a756f55",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841614000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            61,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1420,
-            2,
-            4,
-            1,
-            170,
-            2,
-            454,
-            1,
-            30,
-            2.5,
-            40,
-            10,
-            5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23848,
-          "recipe_id": 2680,
-          "group_label": "Vegan",
-          "name": "Italian Macaroni Soup with Veggie Ground, Carrot, Celery & Bell Pepper",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "8ca8a255-bed5-42ea-80bf-085f984b6027",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841614000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            61,
-            150,
-            444,
-            152,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            710,
-            1,
-            2,
-            0.5,
-            85,
-            1,
-            227,
-            0.5,
-            15,
-            1.25,
-            20,
-            5,
-            2.5
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23847,
-          "recipe_id": 2680,
-          "group_label": "Default",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "1c336be8-61b7-416a-a292-7915e2d64c9c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841614000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            168,
-            61,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            2129,
-            3,
-            6,
-            1,
-            1.02,
-            255,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            7.5,
-            30
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23846,
-          "recipe_id": 2680,
-          "group_label": "Default",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "72b0aefb-74db-494e-a7e7-7b7f0452e581",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841615000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            168,
-            61,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1420,
-            2,
-            4,
-            1,
-            0.68,
-            170,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            5,
-            20
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 23845,
-          "recipe_id": 2680,
-          "group_label": "Default",
-          "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
-          "published_recipe_uuid": "211f83a9-f8d3-437e-96cc-bd7788299229",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1695841615000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            157,
-            201,
-            97,
-            24,
-            106,
-            168,
-            61,
-            150,
-            152,
-            72,
-            47,
-            81,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            710,
-            1,
-            2,
-            0.5,
-            0.34,
-            85,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            2.5,
-            10
-          ],
-          "average_rating": 0.821,
-          "rating_count": 63,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "Italian-American",
-        "reviewCount": 63,
-        "reviewScore": 4.1
-      }
+  "id": 23834,
+  "recipe_id": 2680,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Italian-Style Macaroni Soup with Beef, Carrot, Celery & Bell Pepper",
+  "slug": "italian-style-macaroni-soup-beef-carrot-celery-bell-pepper",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/thumbnail_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2680/presentation_70992915-fa6a-46b5-a948-b154e7d4bdfc.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "italian-style-macaroni-soup-beef-carrot-celery-bell-pepper",
-    "variantId": "23834"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 57,
+      "name": "ladle",
+      "slug": "ladle"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 126,
+      "name": "slotted spoon",
+      "slug": "slotted-spoon"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 388500,
+      "primary_message": "Preheat a large pot over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 388501,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat. Add the beef and spices; cook, breaking the meat apart with a spoon, until browned and cooked through, about 5 minutes. Using a slotted spoon, transfer beef to a plate and set aside. (Reserve pot with drippings for later use.)",
+      "secondary_message": "2 tsp extra virgin olive oil\n1 ½ lb lean ground beef\n2 tsp Italian seasoning\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 388502,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n2 medium carrots\n2 sticks celery\n1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 388503,
+      "primary_message": "Trim, seed, and small dice bell peppers. Place in a medium bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 388504,
+      "primary_message": "Peel, trim, and small dice carrots. Add to the bowl with the bell pepper.",
+      "secondary_message": null
+    },
+    {
+      "id": 388505,
+      "primary_message": "Trim and small dice celery. Add to the bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 388506,
+      "primary_message": "Peel, halve, and medium dice onion. Peel and mince garlic. Add both to the bowl. ",
+      "secondary_message": "1 medium yellow onion\n4 cloves garlic"
+    },
+    {
+      "id": 388507,
+      "primary_message": "Return the pot (with drippings) to medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 388508,
+      "primary_message": "Once the pot is hot, add the veggies and cook, stirring occasionally, until starting to soften, 3-4 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 388509,
+      "primary_message": "Return beef to the pot along with broth, tomatoes, pasta, and Worcestershire. Stir to combine the soup, cover, and bring to a boil. Once boiling, reduce heat to medium and simmer until pasta is cooked through, about 8 minutes.",
+      "secondary_message": "48 fl oz (6 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes\n6 oz macaroni (elbow) pasta\n4 tsp Worcestershire sauce"
+    },
+    {
+      "id": 388510,
+      "primary_message": "Meanwhile, shave parsley leaves off the stems; discard stems and mince the leaves. ",
+      "secondary_message": null
+    },
+    {
+      "id": 388511,
+      "primary_message": "Once the pasta is done, add half of the parsley to the soup and stir to combine. Remove from heat. (Reserve remaining parsley for serving.)",
+      "secondary_message": null
+    },
+    {
+      "id": 388512,
+      "primary_message": "To serve, divide soup between bowls and sprinkle with reserved parsley. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 415233,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 415232,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 415235,
+      "quantity": "48 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 415227,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 415221,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 415228,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 415234,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 415223,
+      "quantity": "6 oz",
+      "ingredient_name": "macaroni (elbow) pasta"
+    },
+    {
+      "id": 415230,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 415231,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 415224,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 415222,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 415225,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 415226,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 415229,
+      "quantity": "",
+      "ingredient_name": "Worcestershire sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 697.94,
+    "alcohol": 0,
+    "ash": 7.11,
+    "caffeine": 0,
+    "water": 814.11,
+    "carbs": 56.6,
+    "fiber": 8.99,
+    "starch": 28.68,
+    "sugars": 13,
+    "fructose": 4.88,
+    "galactose": 0.1,
+    "glucose": 5.05,
+    "lactose": 0,
+    "maltose": 0.83,
+    "sucrose": 2.04,
+    "sugar_alcohol": 0,
+    "fat": 31.69,
+    "monounsaturated": 13.92,
+    "polyunsaturated": 2.03,
+    "omega_3": 0.29,
+    "omega_6": 1.84,
+    "saturated": 10.98,
+    "transfats": 1.54,
+    "cholesterol": 115.67,
+    "protein": 48.3,
+    "alanine": 2.74,
+    "arginine": 2.88,
+    "aspartic_acid": 4.44,
+    "cystine": 0.61,
+    "glutamic_acid": 9.14,
+    "glycine": 2.82,
+    "histidine": 1.45,
+    "isoleucine": 2.14,
+    "leucine": 3.61,
+    "lysine": 3.55,
+    "methionine": 1.1,
+    "phenylalanine": 1.96,
+    "proline": 2.73,
+    "serine": 1.92,
+    "threonine": 1.96,
+    "tryptophan": 0.36,
+    "tyrosine": 1.42,
+    "valine": 2.3,
+    "b1_thiamine": 1.73,
+    "b2_riboflavin": 0.77,
+    "b3_niacin": 18.8,
+    "b5_pantothenic_acid": 2.29,
+    "b6_pyridoxine": 1.24,
+    "b12_cobalamin": 4.06,
+    "choline": 160.01,
+    "folate": 197.79,
+    "vitamin_a": 1034.76,
+    "vitamin_c": 128.11,
+    "vitamin_d": 5.1,
+    "vitamin_e": 3.25,
+    "vitamin_k": 23.24,
+    "calcium": 179.79,
+    "copper": 0.62,
+    "iron": 9.06,
+    "magnesium": 104.69,
+    "manganese": 1.12,
+    "phosphorus": 575.4,
+    "potassium": 1767.4,
+    "selenium": 56,
+    "sodium": 354.74,
+    "zinc": 9.37
+  }
 }

@@ -1,583 +1,190 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 6994,
-        "recipe_id": 795,
-        "serving_count": 4,
-        "cooking_minutes": 5,
-        "name": "Apple Avocado Green Smoothie",
-        "slug": "apple-avocado-green-smoothie",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 106989,
-            "primary_message": "This recipe will make about 8 cups. Work in batches to best fit your blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 106990,
-            "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "4 Gala apples\n½ (1 inch) piece ginger root\n1 avocado\n2 (5 oz) pkgs baby spinach\n2 bananas"
-          },
-          {
-            "id": 106991,
-            "primary_message": "Peel and quarter apples, removing seeds and stem; peel the bananas. Add both to blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 106992,
-            "primary_message": "Wash, dry, peel, and slice ginger. (If you have a high powered blender, you can put the chunk in whole).",
-            "secondary_message": null
-          },
-          {
-            "id": 106993,
-            "primary_message": "Halve and pit the avocados. Using a spoon, scoop the flesh into the blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 106994,
-            "primary_message": "Add spinach, almond milk, maple syrup, and 8 ice cubes to the blender.",
-            "secondary_message": "16 fl oz (2 cups) almond milk, unsweetened\n2 tsp pure maple syrup"
-          },
-          {
-            "id": 106995,
-            "primary_message": "Blend on high speed for several minutes until smooth.",
-            "secondary_message": null
-          },
-          {
-            "id": 106996,
-            "primary_message": "Pour the smoothie into glasses and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 111204,
-            "quantity": "16 fl oz",
-            "ingredient_name": "almond milk, unsweetened"
-          },
-          {
-            "id": 111200,
-            "quantity": "1",
-            "ingredient_name": "avocado"
-          },
-          {
-            "id": 111198,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 111203,
-            "quantity": "2",
-            "ingredient_name": "bananas"
-          },
-          {
-            "id": 111202,
-            "quantity": "4",
-            "ingredient_name": "Gala apples"
-          },
-          {
-            "id": 111201,
-            "quantity": "½ (1 inch) piece",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 111199,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          }
-        ],
-        "nutrition": {
-          "energy": 272.83,
-          "alcohol": 0,
-          "ash": 3.9,
-          "caffeine": 0,
-          "water": 430.04,
-          "carbs": 49.56,
-          "fiber": 11.11,
-          "starch": 0.38,
-          "sugars": 29.84,
-          "fructose": 13.79,
-          "galactose": 0.12,
-          "glucose": 7.68,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 8.26,
-          "sugar_alcohol": 0,
-          "fat": 9.42,
-          "monounsaturated": 5.74,
-          "polyunsaturated": 1.48,
-          "omega_3": 0.19,
-          "omega_6": 1.28,
-          "saturated": 1.27,
-          "transfats": 0,
-          "cholesterol": 0,
-          "protein": 4.05,
-          "alanine": 0.18,
-          "arginine": 0.17,
-          "aspartic_acid": 0.42,
-          "cystine": 0.04,
-          "glutamic_acid": 0.43,
-          "glycine": 0.16,
-          "histidine": 0.08,
-          "isoleucine": 0.16,
-          "leucine": 0.25,
-          "lysine": 0.21,
-          "methionine": 0.06,
-          "phenylalanine": 0.15,
-          "proline": 0.14,
-          "serine": 0.15,
-          "threonine": 0.13,
-          "tryptophan": 0.04,
-          "tyrosine": 0.1,
-          "valine": 0.19,
-          "b1_thiamine": 0.12,
-          "b2_riboflavin": 0.3,
-          "b3_niacin": 1.65,
-          "b5_pantothenic_acid": 0.87,
-          "b6_pyridoxine": 0.34,
-          "b12_cobalamin": 0,
-          "choline": 31.37,
-          "folate": 185.3,
-          "vitamin_a": 178.03,
-          "vitamin_c": 33.39,
-          "vitamin_d": 53.84,
-          "vitamin_e": 11.12,
-          "vitamin_k": 357.42,
-          "calcium": 332.36,
-          "copper": 0.27,
-          "iron": 2.79,
-          "magnesium": 88.66,
-          "manganese": 0.92,
-          "phosphorus": 93.08,
-          "potassium": 932.78,
-          "selenium": 1.07,
-          "sodium": 156.47,
-          "zinc": 0.9
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/apple-avocado-green-smoothie/6994",
-      "altVariants": [
-        {
-          "id": 6995,
-          "recipe_id": 795,
-          "group_label": "Default",
-          "name": "Apple Avocado Green Smoothie",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "published_recipe_uuid": "ff4bf903-5a34-46ed-9189-2ac915a7b175",
-          "fallback_published_recipe_uuids": [
-            "1dbb0727-c038-4913-8a66-ef6e3dc8dc1c",
-            "33d02d6b-c103-4741-a26c-59feb5e9dc3f",
-            "d360d2b3-e199-44a3-b38c-2e510408cfc9"
-          ],
-          "first_published_at": 1561153565000,
-          "allowed_type_ids": [
-            1
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            33,
-            317,
-            296,
-            221,
-            104
-          ],
-          "ingredient_amounts": [
-            24,
-            1.5,
-            3,
-            3,
-            6,
-            0.75,
-            15
-          ],
-          "average_rating": 0.673,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6994,
-          "recipe_id": 795,
-          "group_label": "Default",
-          "name": "Apple Avocado Green Smoothie",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "published_recipe_uuid": "d201dcf0-06c9-412f-b5a6-34d73321d38e",
-          "fallback_published_recipe_uuids": [
-            "34488eb5-4519-4590-ad47-4d844f2369f0",
-            "1000b442-18ef-483a-b5ba-edf4ff76c54c",
-            "7f7f6269-f141-49b7-96f8-d20dc9009ede"
-          ],
-          "first_published_at": 1561153565000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            33,
-            317,
-            296,
-            221,
-            104
-          ],
-          "ingredient_amounts": [
-            16,
-            1,
-            2,
-            2,
-            4,
-            0.5,
-            10
-          ],
-          "average_rating": 0.673,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6993,
-          "recipe_id": 795,
-          "group_label": "Default",
-          "name": "Apple Avocado Green Smoothie",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "published_recipe_uuid": "307f45a3-80e6-45b1-952f-29658f7c5fa8",
-          "fallback_published_recipe_uuids": [
-            "3046a42d-1034-4c44-b653-c69a17a74144",
-            "9f2b0e78-a0cd-4e7f-a2ca-1e3900235b2a",
-            "881d6188-dd20-4d70-b22d-cfbbec2efdec"
-          ],
-          "first_published_at": 1561153564000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            33,
-            317,
-            296,
-            221,
-            104
-          ],
-          "ingredient_amounts": [
-            8,
-            0.5,
-            1,
-            1,
-            2,
-            0.25,
-            5
-          ],
-          "average_rating": 0.673,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6997,
-          "recipe_id": 795,
-          "group_label": "Default",
-          "name": "Apple Avocado Green Smoothie",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "published_recipe_uuid": "00bee0e2-2bbf-4c7f-9ddb-d8c2598d364a",
-          "fallback_published_recipe_uuids": [
-            "72be31cf-e090-4830-997c-8a9f24114836",
-            "1f61ce42-597f-4038-9842-5cf7d359fc89",
-            "ba792aaf-8d73-4138-8d64-6c2ee34327d0"
-          ],
-          "first_published_at": 1561153566000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            33,
-            317,
-            296,
-            221,
-            104
-          ],
-          "ingredient_amounts": [
-            473,
-            1,
-            2,
-            2,
-            4,
-            0.5,
-            10
-          ],
-          "average_rating": 0.673,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6998,
-          "recipe_id": 795,
-          "group_label": "Default",
-          "name": "Apple Avocado Green Smoothie",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "published_recipe_uuid": "b765656b-b619-4c94-b10c-5e396d4ac683",
-          "fallback_published_recipe_uuids": [
-            "6ea449d6-9be0-4e25-9c3a-5169391c446d",
-            "197e94d7-1e34-49ae-81d6-82778beec8b3",
-            "5afe7c4f-2437-4f54-9ebe-8cf9a124830d"
-          ],
-          "first_published_at": 1561153566000,
-          "allowed_type_ids": [
-            1
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            33,
-            317,
-            296,
-            221,
-            104
-          ],
-          "ingredient_amounts": [
-            710,
-            1.5,
-            3,
-            3,
-            6,
-            0.75,
-            15
-          ],
-          "average_rating": 0.673,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6996,
-          "recipe_id": 795,
-          "group_label": "Default",
-          "name": "Apple Avocado Green Smoothie",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
-          "published_recipe_uuid": "20ec9914-3eac-443f-ab5b-2a1a196f6ad8",
-          "fallback_published_recipe_uuids": [
-            "033f6f31-77c6-4472-9deb-5f52e9044206",
-            "7d3b0a3c-102b-469b-8175-80f00804c7a4",
-            "21d45bbd-3afe-441d-b49f-3ea746d3d2ce"
-          ],
-          "first_published_at": 1561153563000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            33,
-            317,
-            296,
-            221,
-            104
-          ],
-          "ingredient_amounts": [
-            237,
-            0.5,
-            1,
-            1,
-            2,
-            0.25,
-            5
-          ],
-          "average_rating": 0.673,
-          "rating_count": 26,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 6994,
+  "recipe_id": 795,
+  "serving_count": 4,
+  "cooking_minutes": 5,
+  "name": "Apple Avocado Green Smoothie",
+  "slug": "apple-avocado-green-smoothie",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/thumbnail_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "apple-avocado-green-smoothie",
-    "variantId": "6994"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 106989,
+      "primary_message": "This recipe will make about 8 cups. Work in batches to best fit your blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 106990,
+      "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "4 Gala apples\n½ (1 inch) piece ginger root\n1 avocado\n2 (5 oz) pkgs baby spinach\n2 bananas"
+    },
+    {
+      "id": 106991,
+      "primary_message": "Peel and quarter apples, removing seeds and stem; peel the bananas. Add both to blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 106992,
+      "primary_message": "Wash, dry, peel, and slice ginger. (If you have a high powered blender, you can put the chunk in whole).",
+      "secondary_message": null
+    },
+    {
+      "id": 106993,
+      "primary_message": "Halve and pit the avocados. Using a spoon, scoop the flesh into the blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 106994,
+      "primary_message": "Add spinach, almond milk, maple syrup, and 8 ice cubes to the blender.",
+      "secondary_message": "16 fl oz (2 cups) almond milk, unsweetened\n2 tsp pure maple syrup"
+    },
+    {
+      "id": 106995,
+      "primary_message": "Blend on high speed for several minutes until smooth.",
+      "secondary_message": null
+    },
+    {
+      "id": 106996,
+      "primary_message": "Pour the smoothie into glasses and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 111204,
+      "quantity": "16 fl oz",
+      "ingredient_name": "almond milk, unsweetened"
+    },
+    {
+      "id": 111200,
+      "quantity": "1",
+      "ingredient_name": "avocado"
+    },
+    {
+      "id": 111198,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 111203,
+      "quantity": "2",
+      "ingredient_name": "bananas"
+    },
+    {
+      "id": 111202,
+      "quantity": "4",
+      "ingredient_name": "Gala apples"
+    },
+    {
+      "id": 111201,
+      "quantity": "½ (1 inch) piece",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 111199,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    }
+  ],
+  "nutrition": {
+    "energy": 272.83,
+    "alcohol": 0,
+    "ash": 3.9,
+    "caffeine": 0,
+    "water": 430.04,
+    "carbs": 49.56,
+    "fiber": 11.11,
+    "starch": 0.38,
+    "sugars": 29.84,
+    "fructose": 13.79,
+    "galactose": 0.12,
+    "glucose": 7.68,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 8.26,
+    "sugar_alcohol": 0,
+    "fat": 9.42,
+    "monounsaturated": 5.74,
+    "polyunsaturated": 1.48,
+    "omega_3": 0.19,
+    "omega_6": 1.28,
+    "saturated": 1.27,
+    "transfats": 0,
+    "cholesterol": 0,
+    "protein": 4.05,
+    "alanine": 0.18,
+    "arginine": 0.17,
+    "aspartic_acid": 0.42,
+    "cystine": 0.04,
+    "glutamic_acid": 0.43,
+    "glycine": 0.16,
+    "histidine": 0.08,
+    "isoleucine": 0.16,
+    "leucine": 0.25,
+    "lysine": 0.21,
+    "methionine": 0.06,
+    "phenylalanine": 0.15,
+    "proline": 0.14,
+    "serine": 0.15,
+    "threonine": 0.13,
+    "tryptophan": 0.04,
+    "tyrosine": 0.1,
+    "valine": 0.19,
+    "b1_thiamine": 0.12,
+    "b2_riboflavin": 0.3,
+    "b3_niacin": 1.65,
+    "b5_pantothenic_acid": 0.87,
+    "b6_pyridoxine": 0.34,
+    "b12_cobalamin": 0,
+    "choline": 31.37,
+    "folate": 185.3,
+    "vitamin_a": 178.03,
+    "vitamin_c": 33.39,
+    "vitamin_d": 53.84,
+    "vitamin_e": 11.12,
+    "vitamin_k": 357.42,
+    "calcium": 332.36,
+    "copper": 0.27,
+    "iron": 2.79,
+    "magnesium": 88.66,
+    "manganese": 0.92,
+    "phosphorus": 93.08,
+    "potassium": 932.78,
+    "selenium": 1.07,
+    "sodium": 156.47,
+    "zinc": 0.9
+  }
 }

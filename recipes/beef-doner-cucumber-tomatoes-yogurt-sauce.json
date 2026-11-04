@@ -1,781 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4699,
-        "recipe_id": 698,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
-        "slug": "beef-doner-cucumber-tomatoes-yogurt-sauce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 79499,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 tomatoes\n1 English cucumber\n2 lemons\n1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 79500,
-            "primary_message": "Cut the tomatoes and cucumbers into ¼-inch cubes and transfer to a medium salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 79501,
-            "primary_message": "Shave leaves off the parsley stems; discard the stems and mince the leaves. Add to the medium salad bowl with the cucumber and tomatoes to make the salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 79502,
-            "primary_message": "Juice the lemon, add half of the juice to the salad and put the other half aside in a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 79503,
-            "primary_message": "Add oil, salt, and pepper to the salad; stir to combine.",
-            "secondary_message": "2 tsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 79504,
-            "primary_message": "Peel and mince garlic.",
-            "secondary_message": "6 cloves garlic"
-          },
-          {
-            "id": 79505,
-            "primary_message": "Combine oil, cumin, paprika, salt, pepper, crushed red pepper, and two thirds of the garlic in an another medium bowl to make the marinade.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n2 tsp cumin\n2 tsp paprika\n1 tsp salt\n½ tsp black pepper\n½ tsp crushed red pepper"
-          },
-          {
-            "id": 79506,
-            "primary_message": "Peel and small dice the onion; transfer to the marinade bowl with the oil and spices.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 79507,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 79508,
-            "primary_message": "While the pan heats up, pat the beef dry with paper towels, then cut into 1-inch chunks. Add to the bowl with the marinade; stir until well combined.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak"
-          },
-          {
-            "id": 79509,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom; add beef mixture. Cook, stirring occasionally, until onions are soft and beef is cooked through, 4-6 minutes.",
-            "secondary_message": "2 tsp virgin coconut oil"
-          },
-          {
-            "id": 79510,
-            "primary_message": "Toast pita bread if desired.",
-            "secondary_message": "4 whole grain pitas"
-          },
-          {
-            "id": 79511,
-            "primary_message": "To the remaining lemon juice, add yogurt, salt, and one-third of the garlic. Whisk to make the dressing.",
-            "secondary_message": "½ cup plain Greek yogurt\n1 tsp salt"
-          },
-          {
-            "id": 79512,
-            "primary_message": "To serve, place pita bread on a plate and top with beef, salad, and yogurt dressing. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 82190,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 82181,
-            "quantity": "6 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 82187,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 82193,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 82188,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 82191,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 82195,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 82194,
-            "quantity": "4",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 82196,
-            "quantity": "4",
-            "ingredient_name": "whole grain pitas"
-          },
-          {
-            "id": 82183,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 82185,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 82192,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 82182,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 82184,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 82186,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 82189,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 708.64,
-          "alcohol": 0,
-          "ash": 9.37,
-          "caffeine": 0,
-          "water": 406.3,
-          "carbs": 52.05,
-          "fiber": 8.92,
-          "starch": 29.55,
-          "sugars": 8.12,
-          "fructose": 3.14,
-          "galactose": 0.22,
-          "glucose": 3.47,
-          "lactose": 0.78,
-          "maltose": 0.05,
-          "sucrose": 0.62,
-          "sugar_alcohol": 0.01,
-          "fat": 36.93,
-          "monounsaturated": 18.28,
-          "polyunsaturated": 3.14,
-          "omega_3": 0.19,
-          "omega_6": 2.95,
-          "saturated": 13.38,
-          "transfats": 1.37,
-          "cholesterol": 105.29,
-          "protein": 48.46,
-          "alanine": 2.68,
-          "arginine": 2.96,
-          "aspartic_acid": 4.42,
-          "cystine": 0.58,
-          "glutamic_acid": 9.32,
-          "glycine": 2.18,
-          "histidine": 1.59,
-          "isoleucine": 2.14,
-          "leucine": 3.92,
-          "lysine": 3.95,
-          "methionine": 1.16,
-          "phenylalanine": 1.95,
-          "proline": 2.59,
-          "serine": 2.01,
-          "threonine": 2.1,
-          "tryptophan": 0.58,
-          "tyrosine": 1.67,
-          "valine": 2.34,
-          "b1_thiamine": 0.43,
-          "b2_riboflavin": 0.55,
-          "b3_niacin": 13.85,
-          "b5_pantothenic_acid": 1.71,
-          "b6_pyridoxine": 1.39,
-          "b12_cobalamin": 3,
-          "choline": 131.93,
-          "folate": 87.33,
-          "vitamin_a": 1136.09,
-          "vitamin_c": 51.9,
-          "vitamin_d": 6.8,
-          "vitamin_e": 3.38,
-          "vitamin_k": 33.46,
-          "calcium": 138.21,
-          "copper": 0.44,
-          "iron": 7.87,
-          "magnesium": 107.84,
-          "manganese": 1.59,
-          "phosphorus": 557.97,
-          "potassium": 1150.98,
-          "selenium": 64.67,
-          "sodium": 392.81,
-          "zinc": 7.58
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/beef-doner-cucumber-tomatoes-yogurt-sauce/4699",
-      "altVariants": [
-        {
-          "id": 6476,
-          "recipe_id": 698,
-          "group_label": "Default",
-          "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "published_recipe_uuid": "557793a1-b128-46cc-9ed1-3bce8023ab2c",
-          "fallback_published_recipe_uuids": [
-            "f46e33cd-0085-4bd8-a10f-566ac54e7dcb",
-            "b7ea35ae-39a0-4884-af5e-403d14843d80",
-            "56da0319-c464-4b67-a148-2cdbadf4508a"
-          ],
-          "first_published_at": 1564785935000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            106,
-            192,
-            122,
-            184,
-            279,
-            260,
-            295,
-            72,
-            85,
-            186,
-            47,
-            83,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            9,
-            1.5,
-            3,
-            0.75,
-            1.5,
-            2.25,
-            6,
-            6,
-            7.5,
-            3.75,
-            15,
-            60,
-            15,
-            22.5,
-            15
-          ],
-          "average_rating": 0.81,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            33,
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4699,
-          "recipe_id": 698,
-          "group_label": "Default",
-          "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "published_recipe_uuid": "09895cb3-805b-49e1-9bb9-46d66a9455ec",
-          "fallback_published_recipe_uuids": [
-            "46375e88-6d91-47cd-bdb4-04d930e4b5ed",
-            "0b3bda32-1f12-4e71-b098-91409135954f",
-            "a3afdbfa-0b2d-4a09-ad5f-e0be9d9e73fd"
-          ],
-          "first_published_at": 1547419177000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            106,
-            192,
-            122,
-            184,
-            279,
-            260,
-            295,
-            72,
-            85,
-            186,
-            47,
-            83,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            6,
-            1,
-            2,
-            0.5,
-            1,
-            1.5,
-            4,
-            4,
-            5,
-            2.5,
-            10,
-            40,
-            10,
-            15,
-            10
-          ],
-          "average_rating": 0.81,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            33,
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4698,
-          "recipe_id": 698,
-          "group_label": "Default",
-          "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "published_recipe_uuid": "4273d857-23ce-46c9-8c0e-ace65f04ddaa",
-          "fallback_published_recipe_uuids": [
-            "ea1ebfd5-6e35-43b2-8a98-4776dbca823f",
-            "4b86467b-d308-4e28-8eff-1a8de35c9c95",
-            "39a1a455-04e9-49e5-bf08-d2600a954428"
-          ],
-          "first_published_at": 1547419172000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            106,
-            192,
-            122,
-            184,
-            279,
-            260,
-            295,
-            72,
-            85,
-            186,
-            47,
-            83,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            3,
-            0.5,
-            1,
-            0.25,
-            0.5,
-            0.75,
-            2,
-            2,
-            2.5,
-            1.25,
-            5,
-            20,
-            5,
-            7.5,
-            5
-          ],
-          "average_rating": 0.81,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            33,
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4700,
-          "recipe_id": 698,
-          "group_label": "Default",
-          "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "published_recipe_uuid": "30a540db-e3c7-4990-92d9-9452b5dc6b3d",
-          "fallback_published_recipe_uuids": [
-            "b3c8350a-fc9d-476c-935d-bdc0cb407e66",
-            "9ac4e1c9-ead1-4dff-bd96-bee33387c121",
-            "a1dfa24d-5a3f-40bd-a61d-3afc2f1eb11f"
-          ],
-          "first_published_at": 1547419178000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            106,
-            192,
-            122,
-            184,
-            279,
-            260,
-            295,
-            72,
-            85,
-            186,
-            47,
-            83,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            3,
-            0.5,
-            1,
-            0.25,
-            0.5,
-            0.34,
-            2,
-            2,
-            2.5,
-            1.25,
-            5,
-            20,
-            5,
-            7.5,
-            5
-          ],
-          "average_rating": 0.81,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            33,
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6477,
-          "recipe_id": 698,
-          "group_label": "Default",
-          "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "published_recipe_uuid": "40b5cdb4-e637-4037-9806-50c880158399",
-          "fallback_published_recipe_uuids": [
-            "473596e3-95eb-4105-9c96-cad1e5098834",
-            "e9c44b44-4741-4d91-a416-9c3794dbd0f8",
-            "cbc0a25c-63aa-4fb2-b0e5-a9d6d2b3cb95"
-          ],
-          "first_published_at": 1564785939000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            106,
-            192,
-            122,
-            184,
-            279,
-            260,
-            295,
-            72,
-            85,
-            186,
-            47,
-            83,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            9,
-            1.5,
-            3,
-            0.75,
-            1.5,
-            1.02,
-            6,
-            6,
-            7.5,
-            3.75,
-            15,
-            60,
-            15,
-            22.5,
-            15
-          ],
-          "average_rating": 0.81,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            33,
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4701,
-          "recipe_id": 698,
-          "group_label": "Default",
-          "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
-          "published_recipe_uuid": "219a8929-d883-40cc-bd68-5eb35bf492ed",
-          "fallback_published_recipe_uuids": [
-            "59e17f30-cc6a-4bb4-a630-2b0fdfe4a788",
-            "a9a330eb-4fc2-4c2f-a0a2-56629b786af8",
-            "aff40573-87fa-47aa-989f-0edc3112498f"
-          ],
-          "first_published_at": 1547419179000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            106,
-            192,
-            122,
-            184,
-            279,
-            260,
-            295,
-            72,
-            85,
-            186,
-            47,
-            83,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            6,
-            1,
-            2,
-            0.5,
-            1,
-            0.68,
-            4,
-            4,
-            5,
-            2.5,
-            10,
-            40,
-            10,
-            15,
-            10
-          ],
-          "average_rating": 0.81,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            33,
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried",
-          "Wraps"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 4699,
+  "recipe_id": 698,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Beef 'Doner' with Cucumber, Tomatoes & Yogurt Sauce",
+  "slug": "beef-doner-cucumber-tomatoes-yogurt-sauce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/thumbnail_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/698/presentation_860511ba-c5ce-408a-8c8c-835103ba0d6d.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "beef-doner-cucumber-tomatoes-yogurt-sauce",
-    "variantId": "4699"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 79499,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 tomatoes\n1 English cucumber\n2 lemons\n1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 79500,
+      "primary_message": "Cut the tomatoes and cucumbers into ¼-inch cubes and transfer to a medium salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 79501,
+      "primary_message": "Shave leaves off the parsley stems; discard the stems and mince the leaves. Add to the medium salad bowl with the cucumber and tomatoes to make the salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 79502,
+      "primary_message": "Juice the lemon, add half of the juice to the salad and put the other half aside in a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 79503,
+      "primary_message": "Add oil, salt, and pepper to the salad; stir to combine.",
+      "secondary_message": "2 tsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 79504,
+      "primary_message": "Peel and mince garlic.",
+      "secondary_message": "6 cloves garlic"
+    },
+    {
+      "id": 79505,
+      "primary_message": "Combine oil, cumin, paprika, salt, pepper, crushed red pepper, and two thirds of the garlic in an another medium bowl to make the marinade.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n2 tsp cumin\n2 tsp paprika\n1 tsp salt\n½ tsp black pepper\n½ tsp crushed red pepper"
+    },
+    {
+      "id": 79506,
+      "primary_message": "Peel and small dice the onion; transfer to the marinade bowl with the oil and spices.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 79507,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 79508,
+      "primary_message": "While the pan heats up, pat the beef dry with paper towels, then cut into 1-inch chunks. Add to the bowl with the marinade; stir until well combined.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak"
+    },
+    {
+      "id": 79509,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom; add beef mixture. Cook, stirring occasionally, until onions are soft and beef is cooked through, 4-6 minutes.",
+      "secondary_message": "2 tsp virgin coconut oil"
+    },
+    {
+      "id": 79510,
+      "primary_message": "Toast pita bread if desired.",
+      "secondary_message": "4 whole grain pitas"
+    },
+    {
+      "id": 79511,
+      "primary_message": "To the remaining lemon juice, add yogurt, salt, and one-third of the garlic. Whisk to make the dressing.",
+      "secondary_message": "½ cup plain Greek yogurt\n1 tsp salt"
+    },
+    {
+      "id": 79512,
+      "primary_message": "To serve, place pita bread on a plate and top with beef, salad, and yogurt dressing. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 82190,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 82181,
+      "quantity": "6 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 82187,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 82193,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 82188,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 82191,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 82195,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 82194,
+      "quantity": "4",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 82196,
+      "quantity": "4",
+      "ingredient_name": "whole grain pitas"
+    },
+    {
+      "id": 82183,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 82185,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 82192,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 82182,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 82184,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 82186,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 82189,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 708.64,
+    "alcohol": 0,
+    "ash": 9.37,
+    "caffeine": 0,
+    "water": 406.3,
+    "carbs": 52.05,
+    "fiber": 8.92,
+    "starch": 29.55,
+    "sugars": 8.12,
+    "fructose": 3.14,
+    "galactose": 0.22,
+    "glucose": 3.47,
+    "lactose": 0.78,
+    "maltose": 0.05,
+    "sucrose": 0.62,
+    "sugar_alcohol": 0.01,
+    "fat": 36.93,
+    "monounsaturated": 18.28,
+    "polyunsaturated": 3.14,
+    "omega_3": 0.19,
+    "omega_6": 2.95,
+    "saturated": 13.38,
+    "transfats": 1.37,
+    "cholesterol": 105.29,
+    "protein": 48.46,
+    "alanine": 2.68,
+    "arginine": 2.96,
+    "aspartic_acid": 4.42,
+    "cystine": 0.58,
+    "glutamic_acid": 9.32,
+    "glycine": 2.18,
+    "histidine": 1.59,
+    "isoleucine": 2.14,
+    "leucine": 3.92,
+    "lysine": 3.95,
+    "methionine": 1.16,
+    "phenylalanine": 1.95,
+    "proline": 2.59,
+    "serine": 2.01,
+    "threonine": 2.1,
+    "tryptophan": 0.58,
+    "tyrosine": 1.67,
+    "valine": 2.34,
+    "b1_thiamine": 0.43,
+    "b2_riboflavin": 0.55,
+    "b3_niacin": 13.85,
+    "b5_pantothenic_acid": 1.71,
+    "b6_pyridoxine": 1.39,
+    "b12_cobalamin": 3,
+    "choline": 131.93,
+    "folate": 87.33,
+    "vitamin_a": 1136.09,
+    "vitamin_c": 51.9,
+    "vitamin_d": 6.8,
+    "vitamin_e": 3.38,
+    "vitamin_k": 33.46,
+    "calcium": 138.21,
+    "copper": 0.44,
+    "iron": 7.87,
+    "magnesium": 107.84,
+    "manganese": 1.59,
+    "phosphorus": 557.97,
+    "potassium": 1150.98,
+    "selenium": 64.67,
+    "sodium": 392.81,
+    "zinc": 7.58
+  }
 }

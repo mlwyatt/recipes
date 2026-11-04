@@ -1,737 +1,250 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4575,
-        "recipe_id": 673,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
-        "slug": "sheet-pan-chicken-tikka-masala-roasted-cauliflower-red-onion",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 175069,
-            "primary_message": "Preheat oven to 450°F. ",
-            "secondary_message": null
-          },
-          {
-            "id": 175070,
-            "primary_message": "Peel and mince or grate the ginger. Peel and mince or press the garlic. Set half of the garlic aside. ",
-            "secondary_message": "2 (1 inch) pieces ginger root\n4 cloves garlic"
-          },
-          {
-            "id": 175071,
-            "primary_message": "In a medium bowl, combine ginger, tomato paste, cumin, paprika, cayenne, and salt, with half of the garlic, and yogurt. Add chicken and toss to coat. ",
-            "secondary_message": "⅔ cup plain Greek yogurt\n1 tbsp tomato paste\n1 tsp cumin\n½ tsp paprika\n½ tsp cayenne pepper\n1 tsp salt\n2 lb chicken thighs, boneless skinless"
-          },
-          {
-            "id": 175072,
-            "primary_message": "Wash cauliflower and cut off the leaves. Separate into small florets and cut the thick stems into smaller pieces; transfer to a sheet pan. Peel and cut onion into ½-inch pieces; add to the sheet pan with the cauliflower. ",
-            "secondary_message": "1 medium head cauliflower\n1 medium red onion"
-          },
-          {
-            "id": 175073,
-            "primary_message": "Toss cauliflower and onion on the pan with oil and season with salt and pepper. Arrange in a single layer and place in the oven.  Roast until the cauliflower is fork-tender (about 18-20 minutes). ",
-            "secondary_message": "¼ cup extra virgin olive oil\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 175074,
-            "primary_message": "Transfer the chicken to a sheet pan, spreading the pieces out in a single layer. Place the pan in the oven and roast until cooked through (18- 20minutes). ",
-            "secondary_message": null
-          },
-          {
-            "id": 175075,
-            "primary_message": "Meanwhile, combine olive oil, paprika, cumin, salt, and remaining yogurt and garlic in a medium bowl. ",
-            "secondary_message": "⅔ cup plain Greek yogurt\n2 tsp extra virgin olive oil\n1 tsp paprika\n1 tsp cumin\n½ tsp salt"
-          },
-          {
-            "id": 175076,
-            "primary_message": "Wash and dry parsley. Shave leaves off the stems; discard the stems and mince the leaves. Once cooked, remove the cauliflower from the oven and toss with fresh parsley. ",
-            "secondary_message": "½ small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 175077,
-            "primary_message": "To serve, arrange the chicken and vegetables on plates, and top chicken with a dollop of yogurt sauce. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 182232,
-            "quantity": "1 medium head",
-            "ingredient_name": "cauliflower"
-          },
-          {
-            "id": 182233,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 182224,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 182236,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 182230,
-            "quantity": "½ small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 182231,
-            "quantity": "1 ⅓ cups",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 182234,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 182237,
-            "quantity": "1 tbsp",
-            "ingredient_name": "tomato paste"
-          },
-          {
-            "id": 182227,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 182226,
-            "quantity": "",
-            "ingredient_name": "cayenne pepper"
-          },
-          {
-            "id": 182235,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 182225,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 182228,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 182229,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 535.05,
-          "alcohol": 0,
-          "ash": 7.58,
-          "caffeine": 0,
-          "water": 418.94,
-          "carbs": 17.45,
-          "fiber": 4.56,
-          "starch": 2.13,
-          "sugars": 7.46,
-          "fructose": 2.19,
-          "galactose": 0.57,
-          "glucose": 2.26,
-          "lactose": 2.07,
-          "maltose": 0.01,
-          "sucrose": 0.32,
-          "sugar_alcohol": 0.02,
-          "fat": 26.61,
-          "monounsaturated": 15.35,
-          "polyunsaturated": 4.03,
-          "omega_3": 0.27,
-          "omega_6": 3.76,
-          "saturated": 5.07,
-          "transfats": 0.08,
-          "cholesterol": 217.27,
-          "protein": 57.11,
-          "alanine": 3.22,
-          "arginine": 3.55,
-          "aspartic_acid": 5.57,
-          "cystine": 0.69,
-          "glutamic_acid": 9.5,
-          "glycine": 2.35,
-          "histidine": 1.62,
-          "isoleucine": 2.68,
-          "leucine": 4.8,
-          "lysine": 5.29,
-          "methionine": 1.49,
-          "phenylalanine": 2.23,
-          "proline": 2.53,
-          "serine": 2.44,
-          "threonine": 2.65,
-          "tryptophan": 0.7,
-          "tyrosine": 2.03,
-          "valine": 2.84,
-          "b1_thiamine": 0.33,
-          "b2_riboflavin": 0.8,
-          "b3_niacin": 14,
-          "b5_pantothenic_acid": 1.38,
-          "b6_pyridoxine": 1.47,
-          "b12_cobalamin": 2,
-          "choline": 206.7,
-          "folate": 117.32,
-          "vitamin_a": 124.14,
-          "vitamin_c": 85.29,
-          "vitamin_d": 2.27,
-          "vitamin_e": 3.44,
-          "vitamin_k": 41.1,
-          "calcium": 167.18,
-          "copper": 0.29,
-          "iron": 4.25,
-          "magnesium": 101.12,
-          "manganese": 0.48,
-          "phosphorus": 625.97,
-          "potassium": 1266.5,
-          "selenium": 61.72,
-          "sodium": 301.96,
-          "zinc": 4.71
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sheet-pan-chicken-tikka-masala-roasted-cauliflower-red-onion/4575",
-      "altVariants": [
-        {
-          "id": 6559,
-          "recipe_id": 673,
-          "group_label": "Default",
-          "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "published_recipe_uuid": "9056752d-ef89-41c5-a352-e885de0fe28c",
-          "fallback_published_recipe_uuids": [
-            "95df2c5f-f992-4b6c-b5f3-1fb79c369cec",
-            "fa1b767f-10d2-45d2-bccc-44d08f3c9e9c",
-            "0e29bd5e-7cf1-4682-a543-6a2ca0009a8e"
-          ],
-          "first_published_at": 1551852656000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            221,
-            106,
-            122,
-            184,
-            323,
-            72,
-            71,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            3,
-            0.75,
-            1.99989999999,
-            1.5,
-            1.5,
-            3.75,
-            3.75,
-            15,
-            95,
-            11.25,
-            15
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4575,
-          "recipe_id": 673,
-          "group_label": "Default",
-          "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "published_recipe_uuid": "73e7fa81-71bb-4f81-a075-feccc932a247",
-          "fallback_published_recipe_uuids": [
-            "8c02d6d1-05c0-4ebe-958f-0dc9e3c969dd",
-            "987a9609-8f9b-4150-9b95-d248919bb195",
-            "05099263-1ce9-434d-bd47-68f49aeee36c"
-          ],
-          "first_published_at": 1541178167000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            221,
-            106,
-            122,
-            184,
-            323,
-            72,
-            71,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            2,
-            0.5,
-            1.33326666666,
-            1,
-            1,
-            2.5,
-            2.5,
-            10,
-            70,
-            7.5,
-            10
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4541,
-          "recipe_id": 673,
-          "group_label": "Default",
-          "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "published_recipe_uuid": "bf2bfcf5-1dc8-43c0-940a-0ae9ac33cf17",
-          "fallback_published_recipe_uuids": [
-            "d3c3c5d4-4856-4f71-9706-3c30f6797f71",
-            "900332b4-4f38-49f2-a03a-e86ff9bdf550",
-            "5bc1d0ac-7701-4df4-a1d4-f5b06ca66833"
-          ],
-          "first_published_at": 1541178165000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            221,
-            106,
-            122,
-            184,
-            323,
-            72,
-            71,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            1,
-            0.5,
-            0.66663333333,
-            0.5,
-            0.5,
-            1.25,
-            1.25,
-            5,
-            35,
-            3.75,
-            5
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6560,
-          "recipe_id": 673,
-          "group_label": "Default",
-          "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "published_recipe_uuid": "22841d88-abdc-468e-82fa-85fd047a04e1",
-          "fallback_published_recipe_uuids": [
-            "ce7d7e68-b484-4ee2-8284-458c2864fa93",
-            "abf2359d-8a97-4f17-aa56-afcd92859661",
-            "1ab7886e-b5f8-44a8-b61e-514b1c3d5147"
-          ],
-          "first_published_at": 1551852660000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            221,
-            106,
-            122,
-            184,
-            323,
-            72,
-            71,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.36,
-            6,
-            3,
-            0.75,
-            1.99989999999,
-            1.5,
-            1.5,
-            3.75,
-            3.75,
-            15,
-            95,
-            11.25,
-            15
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4644,
-          "recipe_id": 673,
-          "group_label": "Default",
-          "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "published_recipe_uuid": "17205d7b-fe6f-4130-ae43-29e0fad5c3dc",
-          "fallback_published_recipe_uuids": [
-            "e1a191a4-5783-4fcb-9da5-455ec0ae7c73",
-            "c05e534d-60d4-4e90-842d-1b5c7a229007",
-            "76430f79-24e9-434c-a545-5d9f37023cc9"
-          ],
-          "first_published_at": 1545106424000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            221,
-            106,
-            122,
-            184,
-            323,
-            72,
-            71,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.91,
-            4,
-            2,
-            0.5,
-            1.33326666666,
-            1,
-            1,
-            2.5,
-            2.5,
-            10,
-            70,
-            7.5,
-            10
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4643,
-          "recipe_id": 673,
-          "group_label": "Default",
-          "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
-          "published_recipe_uuid": "4516cf40-5df2-4aec-8904-384fc52abe6d",
-          "fallback_published_recipe_uuids": [
-            "c970cf0a-642b-45c5-a2cd-69c90cbd9b3f",
-            "7d208089-c19b-4b01-af23-c09c9354fcbf",
-            "846a7599-b3ec-4fb4-b88e-8d76f2885f9b"
-          ],
-          "first_published_at": 1545106423000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            221,
-            106,
-            122,
-            184,
-            323,
-            72,
-            71,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.45,
-            2,
-            1,
-            0.5,
-            0.66663333333,
-            0.5,
-            0.5,
-            1.25,
-            1.25,
-            5,
-            35,
-            3.75,
-            5
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "Indian",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 4575,
+  "recipe_id": 673,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Sheet Pan Chicken Tikka Masala with Roasted Cauliflower & Red Onion",
+  "slug": "sheet-pan-chicken-tikka-masala-roasted-cauliflower-red-onion",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/thumbnail_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/673/presentation_51b48ec0-9c8e-49b6-915a-5c775bba7f58.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sheet-pan-chicken-tikka-masala-roasted-cauliflower-red-onion",
-    "variantId": "4575"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 175069,
+      "primary_message": "Preheat oven to 450°F. ",
+      "secondary_message": null
+    },
+    {
+      "id": 175070,
+      "primary_message": "Peel and mince or grate the ginger. Peel and mince or press the garlic. Set half of the garlic aside. ",
+      "secondary_message": "2 (1 inch) pieces ginger root\n4 cloves garlic"
+    },
+    {
+      "id": 175071,
+      "primary_message": "In a medium bowl, combine ginger, tomato paste, cumin, paprika, cayenne, and salt, with half of the garlic, and yogurt. Add chicken and toss to coat. ",
+      "secondary_message": "⅔ cup plain Greek yogurt\n1 tbsp tomato paste\n1 tsp cumin\n½ tsp paprika\n½ tsp cayenne pepper\n1 tsp salt\n2 lb chicken thighs, boneless skinless"
+    },
+    {
+      "id": 175072,
+      "primary_message": "Wash cauliflower and cut off the leaves. Separate into small florets and cut the thick stems into smaller pieces; transfer to a sheet pan. Peel and cut onion into ½-inch pieces; add to the sheet pan with the cauliflower. ",
+      "secondary_message": "1 medium head cauliflower\n1 medium red onion"
+    },
+    {
+      "id": 175073,
+      "primary_message": "Toss cauliflower and onion on the pan with oil and season with salt and pepper. Arrange in a single layer and place in the oven.  Roast until the cauliflower is fork-tender (about 18-20 minutes). ",
+      "secondary_message": "¼ cup extra virgin olive oil\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 175074,
+      "primary_message": "Transfer the chicken to a sheet pan, spreading the pieces out in a single layer. Place the pan in the oven and roast until cooked through (18- 20minutes). ",
+      "secondary_message": null
+    },
+    {
+      "id": 175075,
+      "primary_message": "Meanwhile, combine olive oil, paprika, cumin, salt, and remaining yogurt and garlic in a medium bowl. ",
+      "secondary_message": "⅔ cup plain Greek yogurt\n2 tsp extra virgin olive oil\n1 tsp paprika\n1 tsp cumin\n½ tsp salt"
+    },
+    {
+      "id": 175076,
+      "primary_message": "Wash and dry parsley. Shave leaves off the stems; discard the stems and mince the leaves. Once cooked, remove the cauliflower from the oven and toss with fresh parsley. ",
+      "secondary_message": "½ small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 175077,
+      "primary_message": "To serve, arrange the chicken and vegetables on plates, and top chicken with a dollop of yogurt sauce. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 182232,
+      "quantity": "1 medium head",
+      "ingredient_name": "cauliflower"
+    },
+    {
+      "id": 182233,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 182224,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 182236,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 182230,
+      "quantity": "½ small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 182231,
+      "quantity": "1 ⅓ cups",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 182234,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 182237,
+      "quantity": "1 tbsp",
+      "ingredient_name": "tomato paste"
+    },
+    {
+      "id": 182227,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 182226,
+      "quantity": "",
+      "ingredient_name": "cayenne pepper"
+    },
+    {
+      "id": 182235,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 182225,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 182228,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 182229,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 535.05,
+    "alcohol": 0,
+    "ash": 7.58,
+    "caffeine": 0,
+    "water": 418.94,
+    "carbs": 17.45,
+    "fiber": 4.56,
+    "starch": 2.13,
+    "sugars": 7.46,
+    "fructose": 2.19,
+    "galactose": 0.57,
+    "glucose": 2.26,
+    "lactose": 2.07,
+    "maltose": 0.01,
+    "sucrose": 0.32,
+    "sugar_alcohol": 0.02,
+    "fat": 26.61,
+    "monounsaturated": 15.35,
+    "polyunsaturated": 4.03,
+    "omega_3": 0.27,
+    "omega_6": 3.76,
+    "saturated": 5.07,
+    "transfats": 0.08,
+    "cholesterol": 217.27,
+    "protein": 57.11,
+    "alanine": 3.22,
+    "arginine": 3.55,
+    "aspartic_acid": 5.57,
+    "cystine": 0.69,
+    "glutamic_acid": 9.5,
+    "glycine": 2.35,
+    "histidine": 1.62,
+    "isoleucine": 2.68,
+    "leucine": 4.8,
+    "lysine": 5.29,
+    "methionine": 1.49,
+    "phenylalanine": 2.23,
+    "proline": 2.53,
+    "serine": 2.44,
+    "threonine": 2.65,
+    "tryptophan": 0.7,
+    "tyrosine": 2.03,
+    "valine": 2.84,
+    "b1_thiamine": 0.33,
+    "b2_riboflavin": 0.8,
+    "b3_niacin": 14,
+    "b5_pantothenic_acid": 1.38,
+    "b6_pyridoxine": 1.47,
+    "b12_cobalamin": 2,
+    "choline": 206.7,
+    "folate": 117.32,
+    "vitamin_a": 124.14,
+    "vitamin_c": 85.29,
+    "vitamin_d": 2.27,
+    "vitamin_e": 3.44,
+    "vitamin_k": 41.1,
+    "calcium": 167.18,
+    "copper": 0.29,
+    "iron": 4.25,
+    "magnesium": 101.12,
+    "manganese": 0.48,
+    "phosphorus": 625.97,
+    "potassium": 1266.5,
+    "selenium": 61.72,
+    "sodium": 301.96,
+    "zinc": 4.71
+  }
 }

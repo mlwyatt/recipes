@@ -1,754 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 27356,
-        "recipe_id": 3099,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Cheesy Orzo Skillet Bake with Zucchini, Bell Pepper, Basil & Eggs",
-        "slug": "cheesy-orzo-skillet-bake-zucchini-bell-pepper-basil-eggs",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 480434,
-            "primary_message": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and orzo, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and set aside.",
-            "secondary_message": "1 tsp salt\n10 oz orzo pasta"
-          },
-          {
-            "id": 480435,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "2 medium zucchini squash\n2 red bell peppers\n1 small pkg fresh basil"
-          },
-          {
-            "id": 480436,
-            "primary_message": "Trim and small dice zucchini. Place in a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 480437,
-            "primary_message": "Trim, seed, and small dice bell peppers. Add to the bowl with the zucchini and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 480438,
-            "primary_message": "Preheat a large ovenproof skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 480439,
-            "primary_message": "While the skillet heats up, peel, halve, and small dice onion. Peel and mince garlic.",
-            "secondary_message": "1 medium yellow onion\n2 cloves garlic"
-          },
-          {
-            "id": 480440,
-            "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add onion, garlic, and spices to the skillet. Cook, stirring frequently, until onion begins to soften, 2-3 minutes.",
-            "secondary_message": "2 tbsp butter, unsalted\n½ tsp Italian seasoning\n½ tsp salt\n¼ tsp crushed red pepper"
-          },
-          {
-            "id": 480441,
-            "primary_message": "Add zucchini and bell pepper to the skillet. Continue to cook, stirring often, until veggies are tender, 5-6 minutes. (Reserve bowl for the next step.)",
-            "secondary_message": null
-          },
-          {
-            "id": 480442,
-            "primary_message": "While the veggies are cooking, coarsely grate cheese. Place in the reserved bowl and set aside.",
-            "secondary_message": "⅔ (8 oz) block mozzarella cheese"
-          },
-          {
-            "id": 480443,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
-            "secondary_message": null
-          },
-          {
-            "id": 480444,
-            "primary_message": "Preheat oven to broil on high and position the rack in the upper third of the oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 480445,
-            "primary_message": "Add cooked orzo, tomato sauce, and half of the basil to the skillet (reserve remaining basil for serving). Cook, stirring occasionally, until sauce is warmed through, 2-3 minutes. Remove from heat.",
-            "secondary_message": "2 (8 oz) cans tomato sauce"
-          },
-          {
-            "id": 480446,
-            "primary_message": "Using a stirring spoon, make a well for each egg in the orzo. Crack an egg into each well.",
-            "secondary_message": "8 eggs"
-          },
-          {
-            "id": 480447,
-            "primary_message": "Place skillet in the oven and broil until egg whites are just set, 3-4 minutes. Top with cheese and continue to broil until melted, 1 minute more. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 480448,
-            "primary_message": "To serve, divide orzo and eggs between plates or bowls; top with reserved basil. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 516150,
-            "quantity": "8",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 516143,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 516142,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 516144,
-            "quantity": "⅔ (8 oz) block",
-            "ingredient_name": "mozzarella cheese"
-          },
-          {
-            "id": 516154,
-            "quantity": "10 oz",
-            "ingredient_name": "orzo pasta"
-          },
-          {
-            "id": 516152,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 516148,
-            "quantity": "2 (8 oz) cans",
-            "ingredient_name": "tomato sauce"
-          },
-          {
-            "id": 516153,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 516151,
-            "quantity": "2 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 516149,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 516146,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 516145,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 516147,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 638.79,
-          "alcohol": 0,
-          "ash": 7.7,
-          "caffeine": 0,
-          "water": 367.5,
-          "carbs": 71.47,
-          "fiber": 7.13,
-          "starch": 0.71,
-          "sugars": 13.39,
-          "fructose": 4.96,
-          "galactose": 0.08,
-          "glucose": 5.3,
-          "lactose": 0.07,
-          "maltose": 0.03,
-          "sucrose": 0.42,
-          "sugar_alcohol": 0,
-          "fat": 24.88,
-          "monounsaturated": 7.29,
-          "polyunsaturated": 2.5,
-          "omega_3": 0.36,
-          "omega_6": 2.14,
-          "saturated": 11.59,
-          "transfats": 0.47,
-          "cholesterol": 372.72,
-          "protein": 32.27,
-          "alanine": 1.05,
-          "arginine": 1.07,
-          "aspartic_acid": 2.36,
-          "cystine": 0.33,
-          "glutamic_acid": 4.17,
-          "glycine": 0.69,
-          "histidine": 0.54,
-          "isoleucine": 1.12,
-          "leucine": 1.81,
-          "lysine": 1.32,
-          "methionine": 0.57,
-          "phenylalanine": 1.11,
-          "proline": 1.43,
-          "serine": 1.27,
-          "threonine": 0.97,
-          "tryptophan": 0.38,
-          "tyrosine": 0.9,
-          "valine": 1.38,
-          "b1_thiamine": 0.88,
-          "b2_riboflavin": 1.13,
-          "b3_niacin": 10.08,
-          "b5_pantothenic_acid": 2.2,
-          "b6_pyridoxine": 0.67,
-          "b12_cobalamin": 1.66,
-          "choline": 292.22,
-          "folate": 315.4,
-          "vitamin_a": 1409.71,
-          "vitamin_c": 105.13,
-          "vitamin_d": 82.53,
-          "vitamin_e": 3.92,
-          "vitamin_k": 41.12,
-          "calcium": 321.47,
-          "copper": 0.3,
-          "iron": 6.24,
-          "magnesium": 67.89,
-          "manganese": 0.55,
-          "phosphorus": 407.16,
-          "potassium": 1095.06,
-          "selenium": 34.83,
-          "sodium": 387.93,
-          "zinc": 3.08
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cheesy-orzo-skillet-bake-zucchini-bell-pepper-basil-eggs/27356",
-      "altVariants": [
-        {
-          "id": 27357,
-          "recipe_id": 3099,
-          "group_label": "Default",
-          "name": "Cheesy Orzo Bake with Zucchini, Bell Pepper, Basil & Eggs",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "published_recipe_uuid": "ec12c3ca-289b-45c9-a157-e9e3224d9ae3",
-          "fallback_published_recipe_uuids": [
-            "557838eb-27ca-4173-a759-522f9a7ff672"
-          ],
-          "first_published_at": 1715101120000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            121,
-            28,
-            24,
-            57,
-            476,
-            150,
-            99,
-            152,
-            140,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            12,
-            1,
-            3,
-            1,
-            15,
-            3,
-            3,
-            1.5,
-            3,
-            45,
-            1.25,
-            3.75,
-            11.25
-          ],
-          "average_rating": 0.721,
-          "rating_count": 195,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27356,
-          "recipe_id": 3099,
-          "group_label": "Default",
-          "name": "Cheesy Orzo Skillet Bake with Zucchini, Bell Pepper, Basil & Eggs",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "published_recipe_uuid": "df8b8ba0-0e61-483d-9ebf-71929433a677",
-          "fallback_published_recipe_uuids": [
-            "6f92493f-4238-4c7e-b56c-82d963800eba"
-          ],
-          "first_published_at": 1715101120000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            121,
-            28,
-            24,
-            57,
-            476,
-            150,
-            99,
-            152,
-            140,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            8,
-            1,
-            2,
-            0.6666666666666666,
-            10,
-            2,
-            2,
-            1,
-            2,
-            30,
-            1.25,
-            2.5,
-            7.5
-          ],
-          "average_rating": 0.721,
-          "rating_count": 195,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27355,
-          "recipe_id": 3099,
-          "group_label": "Default",
-          "name": "Cheesy Orzo Skillet Bake with Zucchini, Bell Pepper, Basil & Eggs",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "published_recipe_uuid": "15b60b68-8439-482c-92f5-746430c08b6b",
-          "fallback_published_recipe_uuids": [
-            "7d3b73c8-2fed-4254-b47f-d1f91ba06fb4"
-          ],
-          "first_published_at": 1715101120000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            121,
-            28,
-            24,
-            57,
-            476,
-            150,
-            99,
-            152,
-            140,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            1,
-            0.3333333333333333,
-            5,
-            1,
-            1,
-            0.5,
-            1,
-            15,
-            0.625,
-            1.25,
-            3.75
-          ],
-          "average_rating": 0.721,
-          "rating_count": 195,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27360,
-          "recipe_id": 3099,
-          "group_label": "Default",
-          "name": "Cheesy Orzo Bake with Zucchini, Bell Pepper, Basil & Eggs",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "published_recipe_uuid": "6b9a65cc-70d1-437c-8509-65c0ecb44ddb",
-          "fallback_published_recipe_uuids": [
-            "542466e2-469c-4e89-babe-35c5fca86695"
-          ],
-          "first_published_at": 1715101118000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            121,
-            28,
-            24,
-            57,
-            476,
-            150,
-            99,
-            152,
-            140,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            12,
-            1,
-            3,
-            1,
-            425,
-            3,
-            3,
-            1.5,
-            3,
-            45,
-            1.25,
-            3.75,
-            11.25
-          ],
-          "average_rating": 0.721,
-          "rating_count": 195,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27359,
-          "recipe_id": 3099,
-          "group_label": "Default",
-          "name": "Cheesy Orzo Skillet Bake with Zucchini, Bell Pepper, Basil & Eggs",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "published_recipe_uuid": "3c46eb7a-412b-4a65-830d-58dc7ad056e9",
-          "fallback_published_recipe_uuids": [
-            "38180b86-b172-453d-9695-70538b342cd4"
-          ],
-          "first_published_at": 1715101119000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            121,
-            28,
-            24,
-            57,
-            476,
-            150,
-            99,
-            152,
-            140,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            8,
-            1,
-            2,
-            0.6666666666666666,
-            283,
-            2,
-            2,
-            1,
-            2,
-            30,
-            1.25,
-            2.5,
-            7.5
-          ],
-          "average_rating": 0.721,
-          "rating_count": 195,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27358,
-          "recipe_id": 3099,
-          "group_label": "Default",
-          "name": "Cheesy Orzo Skillet Bake with Zucchini, Bell Pepper, Basil & Eggs",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
-          "published_recipe_uuid": "abe1c90f-c1eb-4682-8379-ac332662e301",
-          "fallback_published_recipe_uuids": [
-            "3d218a88-2804-4380-a486-5b0e86f111b2"
-          ],
-          "first_published_at": 1715101119000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            121,
-            28,
-            24,
-            57,
-            476,
-            150,
-            99,
-            152,
-            140,
-            115,
-            85,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            1,
-            0.3333333333333333,
-            142,
-            1,
-            1,
-            0.5,
-            1,
-            15,
-            0.625,
-            1.25,
-            3.75
-          ],
-          "average_rating": 0.721,
-          "rating_count": 195,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": 195,
-        "reviewScore": null
-      }
+  "id": 27356,
+  "recipe_id": 3099,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Cheesy Orzo Skillet Bake with Zucchini, Bell Pepper, Basil & Eggs",
+  "slug": "cheesy-orzo-skillet-bake-zucchini-bell-pepper-basil-eggs",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/thumbnail_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3099/presentation_036f27c2-c47f-4f4f-abd9-3e9fe9a47660.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cheesy-orzo-skillet-bake-zucchini-bell-pepper-basil-eggs",
-    "variantId": "27356"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 480434,
+      "primary_message": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and orzo, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and set aside.",
+      "secondary_message": "1 tsp salt\n10 oz orzo pasta"
+    },
+    {
+      "id": 480435,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "2 medium zucchini squash\n2 red bell peppers\n1 small pkg fresh basil"
+    },
+    {
+      "id": 480436,
+      "primary_message": "Trim and small dice zucchini. Place in a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 480437,
+      "primary_message": "Trim, seed, and small dice bell peppers. Add to the bowl with the zucchini and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 480438,
+      "primary_message": "Preheat a large ovenproof skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 480439,
+      "primary_message": "While the skillet heats up, peel, halve, and small dice onion. Peel and mince garlic.",
+      "secondary_message": "1 medium yellow onion\n2 cloves garlic"
+    },
+    {
+      "id": 480440,
+      "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add onion, garlic, and spices to the skillet. Cook, stirring frequently, until onion begins to soften, 2-3 minutes.",
+      "secondary_message": "2 tbsp butter, unsalted\n½ tsp Italian seasoning\n½ tsp salt\n¼ tsp crushed red pepper"
+    },
+    {
+      "id": 480441,
+      "primary_message": "Add zucchini and bell pepper to the skillet. Continue to cook, stirring often, until veggies are tender, 5-6 minutes. (Reserve bowl for the next step.)",
+      "secondary_message": null
+    },
+    {
+      "id": 480442,
+      "primary_message": "While the veggies are cooking, coarsely grate cheese. Place in the reserved bowl and set aside.",
+      "secondary_message": "⅔ (8 oz) block mozzarella cheese"
+    },
+    {
+      "id": 480443,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
+      "secondary_message": null
+    },
+    {
+      "id": 480444,
+      "primary_message": "Preheat oven to broil on high and position the rack in the upper third of the oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 480445,
+      "primary_message": "Add cooked orzo, tomato sauce, and half of the basil to the skillet (reserve remaining basil for serving). Cook, stirring occasionally, until sauce is warmed through, 2-3 minutes. Remove from heat.",
+      "secondary_message": "2 (8 oz) cans tomato sauce"
+    },
+    {
+      "id": 480446,
+      "primary_message": "Using a stirring spoon, make a well for each egg in the orzo. Crack an egg into each well.",
+      "secondary_message": "8 eggs"
+    },
+    {
+      "id": 480447,
+      "primary_message": "Place skillet in the oven and broil until egg whites are just set, 3-4 minutes. Top with cheese and continue to broil until melted, 1 minute more. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 480448,
+      "primary_message": "To serve, divide orzo and eggs between plates or bowls; top with reserved basil. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 516150,
+      "quantity": "8",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 516143,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 516142,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 516144,
+      "quantity": "⅔ (8 oz) block",
+      "ingredient_name": "mozzarella cheese"
+    },
+    {
+      "id": 516154,
+      "quantity": "10 oz",
+      "ingredient_name": "orzo pasta"
+    },
+    {
+      "id": 516152,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 516148,
+      "quantity": "2 (8 oz) cans",
+      "ingredient_name": "tomato sauce"
+    },
+    {
+      "id": 516153,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 516151,
+      "quantity": "2 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 516149,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 516146,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 516145,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 516147,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 638.79,
+    "alcohol": 0,
+    "ash": 7.7,
+    "caffeine": 0,
+    "water": 367.5,
+    "carbs": 71.47,
+    "fiber": 7.13,
+    "starch": 0.71,
+    "sugars": 13.39,
+    "fructose": 4.96,
+    "galactose": 0.08,
+    "glucose": 5.3,
+    "lactose": 0.07,
+    "maltose": 0.03,
+    "sucrose": 0.42,
+    "sugar_alcohol": 0,
+    "fat": 24.88,
+    "monounsaturated": 7.29,
+    "polyunsaturated": 2.5,
+    "omega_3": 0.36,
+    "omega_6": 2.14,
+    "saturated": 11.59,
+    "transfats": 0.47,
+    "cholesterol": 372.72,
+    "protein": 32.27,
+    "alanine": 1.05,
+    "arginine": 1.07,
+    "aspartic_acid": 2.36,
+    "cystine": 0.33,
+    "glutamic_acid": 4.17,
+    "glycine": 0.69,
+    "histidine": 0.54,
+    "isoleucine": 1.12,
+    "leucine": 1.81,
+    "lysine": 1.32,
+    "methionine": 0.57,
+    "phenylalanine": 1.11,
+    "proline": 1.43,
+    "serine": 1.27,
+    "threonine": 0.97,
+    "tryptophan": 0.38,
+    "tyrosine": 0.9,
+    "valine": 1.38,
+    "b1_thiamine": 0.88,
+    "b2_riboflavin": 1.13,
+    "b3_niacin": 10.08,
+    "b5_pantothenic_acid": 2.2,
+    "b6_pyridoxine": 0.67,
+    "b12_cobalamin": 1.66,
+    "choline": 292.22,
+    "folate": 315.4,
+    "vitamin_a": 1409.71,
+    "vitamin_c": 105.13,
+    "vitamin_d": 82.53,
+    "vitamin_e": 3.92,
+    "vitamin_k": 41.12,
+    "calcium": 321.47,
+    "copper": 0.3,
+    "iron": 6.24,
+    "magnesium": 67.89,
+    "manganese": 0.55,
+    "phosphorus": 407.16,
+    "potassium": 1095.06,
+    "selenium": 34.83,
+    "sodium": 387.93,
+    "zinc": 3.08
+  }
 }

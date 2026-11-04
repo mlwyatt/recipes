@@ -1,759 +1,290 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3110,
-        "recipe_id": 437,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
-        "slug": "steak-kale-caesar-salad-creamy-parmesan-dressing",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 31201,
-            "primary_message": "Wash and dry the kale leaves and lemon.",
-            "secondary_message": "2 bunches kale\n1 lemon"
-          },
-          {
-            "id": 31202,
-            "primary_message": "One kale leaf at a time, cut along the sides of the tough center ribs, then pull out and discard the ribs. When all the leaves are trimmed, chop them into 1-inch pieces and transfer to a large bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 31203,
-            "primary_message": "Cut the lemon in half; juice one half into a small bowl (that is big enough for making the dressing) and cut the other half into wedges for serving.",
-            "secondary_message": ""
-          },
-          {
-            "id": 31204,
-            "primary_message": "Finely grate ½ cup of Parmesan.",
-            "secondary_message": "1 oz Parmesan cheese"
-          },
-          {
-            "id": 31205,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 31206,
-            "primary_message": "Add ½ of the grated Parmesan (save the rest for garnishing), the minced garlic, yogurt, Dijon, Worcestershire, salt, and pepper to the bowl with the lemon juice; whisk together until smooth.",
-            "secondary_message": "½ cup plain Greek yogurt\n1 tsp Dijon mustard\n2 tsp Worcestershire sauce\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 31207,
-            "primary_message": "Pour the dressing over the kale and toss to combine. If the kale is tough, massage it with your hands to soften it.",
-            "secondary_message": null
-          },
-          {
-            "id": 31208,
-            "primary_message": "Preheat a skillet over medium heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 31209,
-            "primary_message": "While the skillet heats up, cut the buns or rolls into ¾-inch cubes.",
-            "secondary_message": "2 whole grain buns or rolls"
-          },
-          {
-            "id": 31210,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 31211,
-            "primary_message": "Add the bread cubes to the skillet; sprinkle with salt and toss to coat in the oil, then arrange in a single layer. Toast the bread, tossing occasionally, until the bread cubes are golden brown, 4 to 5 minutes. Once done, transfer the croutons to a bowl and return the skillet to the stove.",
-            "secondary_message": "1 tsp salt"
-          },
-          {
-            "id": 31212,
-            "primary_message": "Wipe out the skillet with a paper towel and heat over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 31213,
-            "primary_message": "While the skillet heats up, pat dry the steak with paper towels and season it generously with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n1 tsp black pepper"
-          },
-          {
-            "id": 31214,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 31215,
-            "primary_message": "Carefully place the steak in the skillet; flipping every 15 to 30 seconds, cook the steak for 4 to 6 minutes for medium-rare, or until desired doneness. (Use a thermometer or cut into the steak to check the doneness.) Once done, transfer the steak to a plate and let it rest for 5 to 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31216,
-            "primary_message": "Slice the steak against the grain into thin strips.",
-            "secondary_message": null
-          },
-          {
-            "id": 31217,
-            "primary_message": "To serve, arrange a bed of the kale on a plate and top with the croutons, remaining Parmesan, and steak slices. Garnish with lemon wedges for squeezing over the top.",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 38279,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 38282,
-            "quantity": "2 bunches",
-            "ingredient_name": "kale"
-          },
-          {
-            "id": 38280,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 38278,
-            "quantity": "1 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 38274,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 38283,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 38277,
-            "quantity": "2",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 38272,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 38276,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 38273,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 38281,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          },
-          {
-            "id": 38275,
-            "quantity": "",
-            "ingredient_name": "Worcestershire sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 586.13,
-          "alcohol": 0,
-          "ash": 8.32,
-          "caffeine": 0,
-          "water": 229.22,
-          "carbs": 20.73,
-          "fiber": 3.37,
-          "starch": 7.06,
-          "sugars": 4.7,
-          "fructose": 1.18,
-          "galactose": 0.22,
-          "glucose": 1.04,
-          "lactose": 0.83,
-          "maltose": 0.73,
-          "sucrose": 0.7,
-          "sugar_alcohol": 0.01,
-          "fat": 36.32,
-          "monounsaturated": 12.56,
-          "polyunsaturated": 2.14,
-          "omega_3": 0.25,
-          "omega_6": 1.54,
-          "saturated": 19.97,
-          "transfats": 1.58,
-          "cholesterol": 110.11,
-          "protein": 47.3,
-          "alanine": 2.62,
-          "arginine": 2.82,
-          "aspartic_acid": 4.26,
-          "cystine": 0.49,
-          "glutamic_acid": 7.76,
-          "glycine": 2.06,
-          "histidine": 1.58,
-          "isoleucine": 2.18,
-          "leucine": 3.9,
-          "lysine": 4.11,
-          "methionine": 1.15,
-          "phenylalanine": 1.89,
-          "proline": 2.43,
-          "serine": 1.95,
-          "threonine": 2.09,
-          "tryptophan": 0.55,
-          "tyrosine": 1.71,
-          "valine": 2.35,
-          "b1_thiamine": 0.27,
-          "b2_riboflavin": 0.58,
-          "b3_niacin": 12.66,
-          "b5_pantothenic_acid": 0.98,
-          "b6_pyridoxine": 1.24,
-          "b12_cobalamin": 3.09,
-          "choline": 104.03,
-          "folate": 44.81,
-          "vitamin_a": 112.44,
-          "vitamin_c": 101.57,
-          "vitamin_d": 8.15,
-          "vitamin_e": 1.94,
-          "vitamin_k": 659.54,
-          "calcium": 204.01,
-          "copper": 0.41,
-          "iron": 5.48,
-          "magnesium": 71.91,
-          "manganese": 1.26,
-          "phosphorus": 504.64,
-          "potassium": 935.25,
-          "selenium": 46.89,
-          "sodium": 251.91,
-          "zinc": 6.86
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/steak-kale-caesar-salad-creamy-parmesan-dressing/3110",
-      "altVariants": [
-        {
-          "id": 3062,
-          "recipe_id": 437,
-          "group_label": "Classic",
-          "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "published_recipe_uuid": "06be6ca2-c979-46ee-8e6a-94eedab66c72",
-          "fallback_published_recipe_uuids": [
-            "1d5020db-dda7-4446-a196-98df718fd71b",
-            "49dac074-970e-4535-a022-62b010152523",
-            "67f45935-a796-49a5-9124-e45101e833ab"
-          ],
-          "first_published_at": 1477274391000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            13,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            24,
-            226,
-            192,
-            120,
-            122,
-            279,
-            128,
-            72,
-            117,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.5,
-            0.25,
-            0.75,
-            1,
-            3.69669,
-            2.46446,
-            6.16115,
-            22.1801,
-            4.92892
-          ],
-          "average_rating": 0.696,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3110,
-          "recipe_id": 437,
-          "group_label": "Classic",
-          "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "published_recipe_uuid": "05ac8efd-e02d-4a68-b42e-dc370d14ed8a",
-          "fallback_published_recipe_uuids": [
-            "ea0ee4bd-7a0a-440d-b573-bd70ce76fbbd",
-            "c89cc93a-a6f0-4666-8468-bdbe1fb8cb0a"
-          ],
-          "first_published_at": 1479961133000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            13,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            24,
-            226,
-            192,
-            120,
-            122,
-            279,
-            128,
-            72,
-            117,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1,
-            0.5,
-            1.5,
-            2,
-            7.39338,
-            4.92892,
-            12.3223,
-            44.3603,
-            9.85784
-          ],
-          "average_rating": 0.696,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5778,
-          "recipe_id": 437,
-          "group_label": "Classic",
-          "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "published_recipe_uuid": "86b4d8ba-d1ec-4bff-8a0f-93616c329f9c",
-          "fallback_published_recipe_uuids": [
-            "1d3ce65e-05b1-414b-a682-2d386d821699",
-            "f645ac16-eafc-454a-8b0e-e40521c31421"
-          ],
-          "first_published_at": 1550531861000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            14,
-            13,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            24,
-            226,
-            192,
-            120,
-            122,
-            279,
-            128,
-            72,
-            117,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.5,
-            0.75,
-            2.25,
-            3,
-            11.090069999999999,
-            7.39338,
-            18.48345,
-            66.54045,
-            14.78676
-          ],
-          "average_rating": 0.696,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3526,
-          "recipe_id": 437,
-          "group_label": "Classic",
-          "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "published_recipe_uuid": "450c1cde-b803-4da0-9064-793b05221020",
-          "fallback_published_recipe_uuids": [
-            "4e55fb25-7e02-4779-aaee-ce6474e7c36a"
-          ],
-          "first_published_at": 1486501714000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10,
-            3,
-            13,
-            1
-          ],
-          "ingredient_ids": [
-            24,
-            226,
-            192,
-            120,
-            122,
-            279,
-            128,
-            72,
-            117,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            14,
-            0.25,
-            0.34,
-            1,
-            3.69669,
-            2.46446,
-            6.16115,
-            22.1801,
-            4.92892
-          ],
-          "average_rating": 0.696,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3527,
-          "recipe_id": 437,
-          "group_label": "Classic",
-          "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "published_recipe_uuid": "c774990e-d25c-42ee-b87f-3372bb6eeb0b",
-          "fallback_published_recipe_uuids": [
-            "6c7bc416-ccae-448f-840b-67b4c4e1ae7f"
-          ],
-          "first_published_at": 1486501784000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            10,
-            3,
-            2
-          ],
-          "ingredient_ids": [
-            24,
-            226,
-            192,
-            120,
-            122,
-            279,
-            128,
-            72,
-            117,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            28,
-            0.5,
-            0.68,
-            2,
-            7.39338,
-            4.92892,
-            12.3223,
-            44.3603,
-            9.85784
-          ],
-          "average_rating": 0.696,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5987,
-          "recipe_id": 437,
-          "group_label": "Classic",
-          "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
-          "published_recipe_uuid": "107c7676-e889-4a1b-b09f-5f1b0dc3800b",
-          "fallback_published_recipe_uuids": [
-            "75696d9a-919b-457d-9acc-d4d0ab71983f",
-            "2e82f9a7-5e8d-4a37-b21b-2ec02a908c39"
-          ],
-          "first_published_at": 1550527663000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10,
-            3,
-            13,
-            1
-          ],
-          "ingredient_ids": [
-            24,
-            226,
-            192,
-            120,
-            122,
-            279,
-            128,
-            72,
-            117,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            42,
-            0.75,
-            1.02,
-            3,
-            11.090069999999999,
-            7.39338,
-            18.48345,
-            66.54045,
-            14.78676
-          ],
-          "average_rating": 0.696,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks",
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3110,
+  "recipe_id": 437,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Steak & Kale Caesar Salad with Creamy Parmesan Dressing",
+  "slug": "steak-kale-caesar-salad-creamy-parmesan-dressing",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/thumbnail_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/437/presentation_c4ec7b2e-1852-4afd-9aa4-37e2e8fce6af.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "steak-kale-caesar-salad-creamy-parmesan-dressing",
-    "variantId": "3110"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 31201,
+      "primary_message": "Wash and dry the kale leaves and lemon.",
+      "secondary_message": "2 bunches kale\n1 lemon"
+    },
+    {
+      "id": 31202,
+      "primary_message": "One kale leaf at a time, cut along the sides of the tough center ribs, then pull out and discard the ribs. When all the leaves are trimmed, chop them into 1-inch pieces and transfer to a large bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 31203,
+      "primary_message": "Cut the lemon in half; juice one half into a small bowl (that is big enough for making the dressing) and cut the other half into wedges for serving.",
+      "secondary_message": ""
+    },
+    {
+      "id": 31204,
+      "primary_message": "Finely grate ½ cup of Parmesan.",
+      "secondary_message": "1 oz Parmesan cheese"
+    },
+    {
+      "id": 31205,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 31206,
+      "primary_message": "Add ½ of the grated Parmesan (save the rest for garnishing), the minced garlic, yogurt, Dijon, Worcestershire, salt, and pepper to the bowl with the lemon juice; whisk together until smooth.",
+      "secondary_message": "½ cup plain Greek yogurt\n1 tsp Dijon mustard\n2 tsp Worcestershire sauce\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 31207,
+      "primary_message": "Pour the dressing over the kale and toss to combine. If the kale is tough, massage it with your hands to soften it.",
+      "secondary_message": null
+    },
+    {
+      "id": 31208,
+      "primary_message": "Preheat a skillet over medium heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 31209,
+      "primary_message": "While the skillet heats up, cut the buns or rolls into ¾-inch cubes.",
+      "secondary_message": "2 whole grain buns or rolls"
+    },
+    {
+      "id": 31210,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 31211,
+      "primary_message": "Add the bread cubes to the skillet; sprinkle with salt and toss to coat in the oil, then arrange in a single layer. Toast the bread, tossing occasionally, until the bread cubes are golden brown, 4 to 5 minutes. Once done, transfer the croutons to a bowl and return the skillet to the stove.",
+      "secondary_message": "1 tsp salt"
+    },
+    {
+      "id": 31212,
+      "primary_message": "Wipe out the skillet with a paper towel and heat over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 31213,
+      "primary_message": "While the skillet heats up, pat dry the steak with paper towels and season it generously with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n1 tsp black pepper"
+    },
+    {
+      "id": 31214,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 31215,
+      "primary_message": "Carefully place the steak in the skillet; flipping every 15 to 30 seconds, cook the steak for 4 to 6 minutes for medium-rare, or until desired doneness. (Use a thermometer or cut into the steak to check the doneness.) Once done, transfer the steak to a plate and let it rest for 5 to 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31216,
+      "primary_message": "Slice the steak against the grain into thin strips.",
+      "secondary_message": null
+    },
+    {
+      "id": 31217,
+      "primary_message": "To serve, arrange a bed of the kale on a plate and top with the croutons, remaining Parmesan, and steak slices. Garnish with lemon wedges for squeezing over the top.",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 38279,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 38282,
+      "quantity": "2 bunches",
+      "ingredient_name": "kale"
+    },
+    {
+      "id": 38280,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 38278,
+      "quantity": "1 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 38274,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 38283,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 38277,
+      "quantity": "2",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 38272,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 38276,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 38273,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 38281,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    },
+    {
+      "id": 38275,
+      "quantity": "",
+      "ingredient_name": "Worcestershire sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 586.13,
+    "alcohol": 0,
+    "ash": 8.32,
+    "caffeine": 0,
+    "water": 229.22,
+    "carbs": 20.73,
+    "fiber": 3.37,
+    "starch": 7.06,
+    "sugars": 4.7,
+    "fructose": 1.18,
+    "galactose": 0.22,
+    "glucose": 1.04,
+    "lactose": 0.83,
+    "maltose": 0.73,
+    "sucrose": 0.7,
+    "sugar_alcohol": 0.01,
+    "fat": 36.32,
+    "monounsaturated": 12.56,
+    "polyunsaturated": 2.14,
+    "omega_3": 0.25,
+    "omega_6": 1.54,
+    "saturated": 19.97,
+    "transfats": 1.58,
+    "cholesterol": 110.11,
+    "protein": 47.3,
+    "alanine": 2.62,
+    "arginine": 2.82,
+    "aspartic_acid": 4.26,
+    "cystine": 0.49,
+    "glutamic_acid": 7.76,
+    "glycine": 2.06,
+    "histidine": 1.58,
+    "isoleucine": 2.18,
+    "leucine": 3.9,
+    "lysine": 4.11,
+    "methionine": 1.15,
+    "phenylalanine": 1.89,
+    "proline": 2.43,
+    "serine": 1.95,
+    "threonine": 2.09,
+    "tryptophan": 0.55,
+    "tyrosine": 1.71,
+    "valine": 2.35,
+    "b1_thiamine": 0.27,
+    "b2_riboflavin": 0.58,
+    "b3_niacin": 12.66,
+    "b5_pantothenic_acid": 0.98,
+    "b6_pyridoxine": 1.24,
+    "b12_cobalamin": 3.09,
+    "choline": 104.03,
+    "folate": 44.81,
+    "vitamin_a": 112.44,
+    "vitamin_c": 101.57,
+    "vitamin_d": 8.15,
+    "vitamin_e": 1.94,
+    "vitamin_k": 659.54,
+    "calcium": 204.01,
+    "copper": 0.41,
+    "iron": 5.48,
+    "magnesium": 71.91,
+    "manganese": 1.26,
+    "phosphorus": 504.64,
+    "potassium": 935.25,
+    "selenium": 46.89,
+    "sodium": 251.91,
+    "zinc": 6.86
+  }
 }

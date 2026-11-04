@@ -1,1013 +1,220 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2319,
-        "recipe_id": 260,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-        "slug": "pan-seared-steak-sauteed-brussels-sprouts",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 22178,
-            "primary_message": "Wash sprouts, trim rough ends and halve lengthwise. Transfer to a bowl and set aside.",
-            "secondary_message": "2 lb brussels sprouts"
-          },
-          {
-            "id": 22179,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 22180,
-            "primary_message": "Season steak generously with salt and pepper.",
-            "secondary_message": "1 ½ lb ribeye steak\r\n½ tsp salt\r\n½ tsp black pepper"
-          },
-          {
-            "id": 22181,
-            "primary_message": "Coat bottom of skillet with oil. Place steak in skillet and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with foil; set aside.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 22182,
-            "primary_message": "Peel and thinly slice shallots. Peel and mince garlic.",
-            "secondary_message": "2 shallots\r\n4 cloves garlic"
-          },
-          {
-            "id": 22183,
-            "primary_message": "Once steak has been transferred, melt butter in skillet. Add brussels sprouts, shallots, and garlic. Cook, stirring occasionally, until sprouts are browned, 4-5 minutes.",
-            "secondary_message": "4 tbsp butter, unsalted"
-          },
-          {
-            "id": 22184,
-            "primary_message": "Add 1 cup water to sprouts and bring to a simmer. Cook, stirring occasionally, until the sprouts are tender and liquid has evaporated, 4-5 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 22185,
-            "primary_message": "Drizzle with vinegar and season with salt and pepper. Cook, stirring occasionally, for another 1-2 minutes.",
-            "secondary_message": "4 tbsp balsamic vinegar\r\n1 tsp salt\r\n½ tsp black pepper"
-          },
-          {
-            "id": 22186,
-            "primary_message": "Serve steak with brussels sprouts on a plate. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 28832,
-            "quantity": "2 lb",
-            "ingredient_name": "Brussels sprouts"
-          },
-          {
-            "id": 28833,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 28834,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ribeye steak"
-          },
-          {
-            "id": 28835,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 28836,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 28837,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 28838,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 28839,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 30013,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 720.87,
-          "alcohol": 0,
-          "ash": 7.15,
-          "caffeine": 0,
-          "water": 326.58,
-          "carbs": 26.78,
-          "fiber": 9.28,
-          "starch": 8.23,
-          "sugars": 8.55,
-          "fructose": 3.32,
-          "galactose": 0,
-          "glucose": 3.21,
-          "lactose": 0.09,
-          "maltose": 0,
-          "sucrose": 1.92,
-          "sugar_alcohol": 0,
-          "fat": 53.25,
-          "monounsaturated": 19.34,
-          "polyunsaturated": 2.51,
-          "omega_3": 0.34,
-          "omega_6": 2.16,
-          "saturated": 28.39,
-          "transfats": 2.59,
-          "cholesterol": 146.61,
-          "protein": 39.75,
-          "alanine": 1.98,
-          "arginine": 2.63,
-          "aspartic_acid": 3.09,
-          "cystine": 0.37,
-          "glutamic_acid": 5.24,
-          "glycine": 1.57,
-          "histidine": 1.34,
-          "isoleucine": 1.78,
-          "leucine": 3.07,
-          "lysine": 3.35,
-          "methionine": 0.93,
-          "phenylalanine": 1.5,
-          "proline": 1.44,
-          "serine": 1.31,
-          "threonine": 1.77,
-          "tryptophan": 0.44,
-          "tyrosine": 1.18,
-          "valine": 1.95,
-          "b1_thiamine": 0.51,
-          "b2_riboflavin": 0.63,
-          "b3_niacin": 9.63,
-          "b5_pantothenic_acid": 1.59,
-          "b6_pyridoxine": 1.27,
-          "b12_cobalamin": 3,
-          "choline": 118.99,
-          "folate": 148.83,
-          "vitamin_a": 1739.87,
-          "vitamin_c": 194.83,
-          "vitamin_d": 18.84,
-          "vitamin_e": 2.64,
-          "vitamin_k": 406.14,
-          "calcium": 130.43,
-          "copper": 0.3,
-          "iron": 6.66,
-          "magnesium": 91.43,
-          "manganese": 1.06,
-          "phosphorus": 394.65,
-          "potassium": 1343.8,
-          "selenium": 44.05,
-          "sodium": 150.24,
-          "zinc": 9.1
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-seared-steak-sauteed-brussels-sprouts/2319",
-      "altVariants": [
-        {
-          "id": 5426,
-          "recipe_id": 260,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "b7f68e70-697c-4a07-b9af-b1d4f4ee05d6",
-          "fallback_published_recipe_uuids": [
-            "90fea449-4636-44d7-8c0c-730e6f466acb",
-            "0a994708-8c97-4afe-af4b-fc8945b047e8",
-            "294a3e9d-bc44-4005-afe5-2928188a83b8"
-          ],
-          "first_published_at": 1550528546000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            2.25,
-            3,
-            90,
-            7.5,
-            11.25,
-            135
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2323,
-          "recipe_id": 260,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "b9a5c8c1-f06a-4d31-95c7-2cc55ef92733",
-          "fallback_published_recipe_uuids": [
-            "33422aa2-4f75-4430-902a-db8f2a9e1199",
-            "6b827727-5c58-45fb-bf86-95f994bce12b",
-            "a687cadc-6d37-4c4b-a703-27288a1e57de"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1.5,
-            2,
-            60,
-            5,
-            7.5,
-            90
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2321,
-          "recipe_id": 260,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "a8f69cbd-ca68-4ae0-a1f9-ac39c051967e",
-          "fallback_published_recipe_uuids": [
-            "c4e6b1e8-8f3f-4553-8372-f416a9830fa7",
-            "9b1c263a-a61d-4f74-9187-f1ae002fdf34",
-            "ff94e78a-300f-4679-bff5-3bc6aa2ef152"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.75,
-            1,
-            30,
-            2.5,
-            3.75,
-            45
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2319,
-          "recipe_id": 260,
-          "group_label": "Classic",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "ef8b2266-4d90-4045-8b98-fe9ba3ee04b4",
-          "fallback_published_recipe_uuids": [
-            "fa6c03a3-0438-426d-841f-94084d9f8abb",
-            "0d38ee79-7c4e-495c-819d-b26dcddd8861",
-            "941850ea-0041-42f8-a79f-975a70f89850"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            2
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            115,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1.5,
-            2,
-            60,
-            5,
-            60,
-            7.5,
-            30
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2317,
-          "recipe_id": 260,
-          "group_label": "Classic",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "5f9c3446-7635-4fad-a925-9822311bd0d6",
-          "fallback_published_recipe_uuids": [
-            "ac4efbcb-5fcd-4852-a058-ef64dd71c6f4",
-            "f1dfe6de-d6dc-4c46-bed3-ba28d08745c8",
-            "0bcfcda0-e8ee-4ffb-b9fb-7e005504faa0"
-          ],
-          "first_published_at": 1447956405000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            2
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            115,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.75,
-            1,
-            30,
-            2.5,
-            30,
-            3.75,
-            15
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5424,
-          "recipe_id": 260,
-          "group_label": "Classic",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "0e4ba810-1f7e-4de0-a8a5-887334f89bb2",
-          "fallback_published_recipe_uuids": [
-            "ce458cbe-a9dd-4764-893a-b44c838c6366",
-            "9f9f010b-a8ea-4042-b1b7-cc5d0adb8cb1",
-            "f84edfd8-18a6-4619-99e5-4c3b24c5e530"
-          ],
-          "first_published_at": 1550528526000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            115,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            2.25,
-            3,
-            90,
-            7.5,
-            90,
-            11.25,
-            45
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5427,
-          "recipe_id": 260,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "b7a83e7a-1356-430d-a0bd-9b42f230f1bf",
-          "fallback_published_recipe_uuids": [
-            "657103b1-76f6-4e86-8f3e-22fc8ecd3f61",
-            "10cbf40a-02fe-4bd4-bcbf-aca29560bba6",
-            "9407cd7c-c1a3-4344-9f35-cc5f3c083cf9"
-          ],
-          "first_published_at": 1550528558000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.362,
-            6,
-            1.02,
-            3,
-            90,
-            7.5,
-            11.25,
-            135
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5425,
-          "recipe_id": 260,
-          "group_label": "Classic",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "de1abbca-8336-474b-b8a7-0a3e4bcff0be",
-          "fallback_published_recipe_uuids": [
-            "a534d65d-6b7b-44af-97ba-f1db4a750633",
-            "d7150a3a-bf67-4bf7-b15d-a66d013b836e",
-            "41c796fa-8313-418c-a4cf-e73e5f623cc5"
-          ],
-          "first_published_at": 1550528540000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            2
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            115,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.362,
-            6,
-            1.02,
-            3,
-            90,
-            7.5,
-            90,
-            11.25,
-            45
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2324,
-          "recipe_id": 260,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "1e968f37-c55a-4bf2-b7b4-9c3bb8596848",
-          "fallback_published_recipe_uuids": [
-            "aa86c89b-3790-4d89-862a-4161b37bfc96",
-            "d7692268-ea47-43e1-928f-f2cee8a0876f",
-            "a7592fdd-9d8c-40b3-b967-ca70adcba0b8"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.908,
-            4,
-            0.68,
-            2,
-            60,
-            5,
-            7.5,
-            90
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2322,
-          "recipe_id": 260,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "cd15ce1b-317e-4170-99ee-2b6a51305299",
-          "fallback_published_recipe_uuids": [
-            "33eee598-75e7-4947-89eb-75cd35e31ad7",
-            "62c48c70-6625-48bb-bc3b-5d468d9fa595",
-            "90f5ece5-1faf-43f9-8c52-7824c4118955"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.454,
-            2,
-            0.34,
-            1,
-            30,
-            2.5,
-            3.75,
-            45
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2320,
-          "recipe_id": 260,
-          "group_label": "Classic",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "9968b8aa-5c0a-43d8-95e6-28bc11e94e93",
-          "fallback_published_recipe_uuids": [
-            "1a86de1c-9810-436f-a06b-dc88ce208092",
-            "57a52d7a-dcc9-4270-8574-d9093b187c9c",
-            "212daae3-5046-45e4-a49e-e258e36e2901"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            2
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            115,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.908,
-            4,
-            0.68,
-            2,
-            60,
-            5,
-            60,
-            7.5,
-            30
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2318,
-          "recipe_id": 260,
-          "group_label": "Classic",
-          "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
-          "published_recipe_uuid": "11d42622-f51f-4397-a96d-6e20b42d1302",
-          "fallback_published_recipe_uuids": [
-            "aaec53e6-3c70-49e5-9293-98579c79bd5d",
-            "79adbfde-5704-41c5-8543-393cf896c174",
-            "a9cf0ab2-0dc0-49fb-ac3d-f5c08ce21bd7"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            2
-          ],
-          "ingredient_ids": [
-            14,
-            24,
-            307,
-            144,
-            131,
-            72,
-            115,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.454,
-            2,
-            0.34,
-            1,
-            30,
-            2.5,
-            30,
-            3.75,
-            15
-          ],
-          "average_rating": 0.868,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 2319,
+  "recipe_id": 260,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Pan-Seared Steak with Sautéed Brussels Sprouts",
+  "slug": "pan-seared-steak-sauteed-brussels-sprouts",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/thumbnail_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/260/presentation_59f92a46-8501-451f-a3e6-8f7693b30bb6.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pan-seared-steak-sauteed-brussels-sprouts",
-    "variantId": "2319"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 22178,
+      "primary_message": "Wash sprouts, trim rough ends and halve lengthwise. Transfer to a bowl and set aside.",
+      "secondary_message": "2 lb brussels sprouts"
+    },
+    {
+      "id": 22179,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 22180,
+      "primary_message": "Season steak generously with salt and pepper.",
+      "secondary_message": "1 ½ lb ribeye steak\r\n½ tsp salt\r\n½ tsp black pepper"
+    },
+    {
+      "id": 22181,
+      "primary_message": "Coat bottom of skillet with oil. Place steak in skillet and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with foil; set aside.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 22182,
+      "primary_message": "Peel and thinly slice shallots. Peel and mince garlic.",
+      "secondary_message": "2 shallots\r\n4 cloves garlic"
+    },
+    {
+      "id": 22183,
+      "primary_message": "Once steak has been transferred, melt butter in skillet. Add brussels sprouts, shallots, and garlic. Cook, stirring occasionally, until sprouts are browned, 4-5 minutes.",
+      "secondary_message": "4 tbsp butter, unsalted"
+    },
+    {
+      "id": 22184,
+      "primary_message": "Add 1 cup water to sprouts and bring to a simmer. Cook, stirring occasionally, until the sprouts are tender and liquid has evaporated, 4-5 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 22185,
+      "primary_message": "Drizzle with vinegar and season with salt and pepper. Cook, stirring occasionally, for another 1-2 minutes.",
+      "secondary_message": "4 tbsp balsamic vinegar\r\n1 tsp salt\r\n½ tsp black pepper"
+    },
+    {
+      "id": 22186,
+      "primary_message": "Serve steak with brussels sprouts on a plate. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 28832,
+      "quantity": "2 lb",
+      "ingredient_name": "Brussels sprouts"
+    },
+    {
+      "id": 28833,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 28834,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ribeye steak"
+    },
+    {
+      "id": 28835,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 28836,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 28837,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 28838,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 28839,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 30013,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 720.87,
+    "alcohol": 0,
+    "ash": 7.15,
+    "caffeine": 0,
+    "water": 326.58,
+    "carbs": 26.78,
+    "fiber": 9.28,
+    "starch": 8.23,
+    "sugars": 8.55,
+    "fructose": 3.32,
+    "galactose": 0,
+    "glucose": 3.21,
+    "lactose": 0.09,
+    "maltose": 0,
+    "sucrose": 1.92,
+    "sugar_alcohol": 0,
+    "fat": 53.25,
+    "monounsaturated": 19.34,
+    "polyunsaturated": 2.51,
+    "omega_3": 0.34,
+    "omega_6": 2.16,
+    "saturated": 28.39,
+    "transfats": 2.59,
+    "cholesterol": 146.61,
+    "protein": 39.75,
+    "alanine": 1.98,
+    "arginine": 2.63,
+    "aspartic_acid": 3.09,
+    "cystine": 0.37,
+    "glutamic_acid": 5.24,
+    "glycine": 1.57,
+    "histidine": 1.34,
+    "isoleucine": 1.78,
+    "leucine": 3.07,
+    "lysine": 3.35,
+    "methionine": 0.93,
+    "phenylalanine": 1.5,
+    "proline": 1.44,
+    "serine": 1.31,
+    "threonine": 1.77,
+    "tryptophan": 0.44,
+    "tyrosine": 1.18,
+    "valine": 1.95,
+    "b1_thiamine": 0.51,
+    "b2_riboflavin": 0.63,
+    "b3_niacin": 9.63,
+    "b5_pantothenic_acid": 1.59,
+    "b6_pyridoxine": 1.27,
+    "b12_cobalamin": 3,
+    "choline": 118.99,
+    "folate": 148.83,
+    "vitamin_a": 1739.87,
+    "vitamin_c": 194.83,
+    "vitamin_d": 18.84,
+    "vitamin_e": 2.64,
+    "vitamin_k": 406.14,
+    "calcium": 130.43,
+    "copper": 0.3,
+    "iron": 6.66,
+    "magnesium": 91.43,
+    "manganese": 1.06,
+    "phosphorus": 394.65,
+    "potassium": 1343.8,
+    "selenium": 44.05,
+    "sodium": 150.24,
+    "zinc": 9.1
+  }
 }

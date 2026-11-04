@@ -1,816 +1,305 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 9306,
-        "recipe_id": 1070,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
-        "slug": "potato-walnut-sun-dried-tomato-chorizo-tacos-avocado-cream",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 147475,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 medium yellow potatoes\n1 lime\n2 avocados\n1 small bunch cilantro\n1 small bunch green onions (scallions)\n2 tomatoes"
-          },
-          {
-            "id": 147476,
-            "primary_message": "Small dice potatoes into ¼-inch cubes.",
-            "secondary_message": null
-          },
-          {
-            "id": 147477,
-            "primary_message": "Preheat a large nonstick skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 147478,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add potatoes and salt; cook, stirring often, until golden and crisp, 12-15 minutes. ",
-            "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt"
-          },
-          {
-            "id": 147479,
-            "primary_message": "Meanwhile, finely chop the walnuts and transfer to a medium bowl. ",
-            "secondary_message": "1 ⅓ cups walnuts"
-          },
-          {
-            "id": 147480,
-            "primary_message": "Peel and mince the garlic. Mince the sun-dried tomatoes; add both to the bowl with the walnuts.",
-            "secondary_message": "4 cloves garlic\n8 sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 147481,
-            "primary_message": "Add water, sugar, and spices to the bowl with the walnuts and stir to combine. ",
-            "secondary_message": "1 ½ cup water\n1 tsp brown sugar\n1 ½ tsp paprika\n1 ½ tsp cumin\n1 ½ tsp chili powder\n½ tsp salt"
-          },
-          {
-            "id": 147482,
-            "primary_message": "When the potatoes are done, add the walnut mixture to the skillet; cook, stirring often, until the liquid has evaporated, 4-5 minutes. Remove from the heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 147483,
-            "primary_message": "Juice the lime into a blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 147484,
-            "primary_message": "Halve and pit the avocados; slice crosswise while still in the skin and scoop out into the blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 147485,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and add leaves to the blender. ",
-            "secondary_message": null
-          },
-          {
-            "id": 147486,
-            "primary_message": "Peel garlic; add to the blender along with almond milk and salt. Blend on high until smooth; set avocado cream aside. ",
-            "secondary_message": "2 cloves garlic\n4 fl oz (½ cup) almond milk, unsweetened\n½ tsp salt"
-          },
-          {
-            "id": 147487,
-            "primary_message": "Trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces at an angle.",
-            "secondary_message": null
-          },
-          {
-            "id": 147488,
-            "primary_message": "Small dice the tomatoes. ",
-            "secondary_message": null
-          },
-          {
-            "id": 147489,
-            "primary_message": "Wrap the tortillas in damp paper towels and microwave until heated through, 15-30 seconds.",
-            "secondary_message": "12 small corn tortillas"
-          },
-          {
-            "id": 147490,
-            "primary_message": "To serve, divide the tortillas between plates and fill with potato-walnut mixture. Top with green onion, tomato, and avocado cream. Enjoy! ",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 153582,
-            "quantity": "4 fl oz",
-            "ingredient_name": "almond milk, unsweetened"
-          },
-          {
-            "id": 153574,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 153576,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 153566,
-            "quantity": "6 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 153572,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 153577,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 153581,
-            "quantity": "12",
-            "ingredient_name": "small corn tortillas"
-          },
-          {
-            "id": 153573,
-            "quantity": "8",
-            "ingredient_name": "sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 153578,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 153579,
-            "quantity": "1 ⅓ cups",
-            "ingredient_name": "walnuts"
-          },
-          {
-            "id": 153571,
-            "quantity": "2 medium",
-            "ingredient_name": "yellow potatoes"
-          },
-          {
-            "id": 153580,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 153568,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 153575,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 153567,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 153569,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 153570,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 713.01,
-          "alcohol": 0,
-          "ash": 7.8,
-          "caffeine": 0,
-          "water": 341.74,
-          "carbs": 73.67,
-          "fiber": 19.29,
-          "starch": 43.44,
-          "sugars": 8.4,
-          "fructose": 2.4,
-          "galactose": 0.1,
-          "glucose": 2.69,
-          "lactose": 0,
-          "maltose": 0.24,
-          "sucrose": 3.1,
-          "sugar_alcohol": 0,
-          "fat": 45.08,
-          "monounsaturated": 17.61,
-          "polyunsaturated": 19.56,
-          "omega_3": 3.26,
-          "omega_6": 16.32,
-          "saturated": 5.39,
-          "transfats": 0.01,
-          "cholesterol": 0,
-          "protein": 15.57,
-          "alanine": 0.77,
-          "arginine": 1.24,
-          "aspartic_acid": 1.8,
-          "cystine": 0.22,
-          "glutamic_acid": 2.87,
-          "glycine": 0.66,
-          "histidine": 0.37,
-          "isoleucine": 0.56,
-          "leucine": 1.22,
-          "lysine": 0.56,
-          "methionine": 0.25,
-          "phenylalanine": 0.67,
-          "proline": 0.84,
-          "serine": 0.75,
-          "threonine": 0.54,
-          "tryptophan": 0.15,
-          "tyrosine": 0.43,
-          "valine": 0.73,
-          "b1_thiamine": 0.41,
-          "b2_riboflavin": 0.38,
-          "b3_niacin": 5.58,
-          "b5_pantothenic_acid": 2.26,
-          "b6_pyridoxine": 1.03,
-          "b12_cobalamin": 0,
-          "choline": 63.32,
-          "folate": 178.2,
-          "vitamin_a": 932.79,
-          "vitamin_c": 49.59,
-          "vitamin_d": 13.46,
-          "vitamin_e": 7.03,
-          "vitamin_k": 148.56,
-          "calcium": 229.98,
-          "copper": 1.13,
-          "iron": 5.1,
-          "magnesium": 187.8,
-          "manganese": 2.04,
-          "phosphorus": 522.65,
-          "potassium": 1575.54,
-          "selenium": 8.26,
-          "sodium": 117.18,
-          "zinc": 3.48
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/potato-walnut-sun-dried-tomato-chorizo-tacos-avocado-cream/9306",
-      "altVariants": [
-        {
-          "id": 9307,
-          "recipe_id": 1070,
-          "group_label": "Default",
-          "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "published_recipe_uuid": "227ff17a-a19e-441c-a3f6-bc08ca548ae2",
-          "fallback_published_recipe_uuids": [
-            "83d7a05f-f474-4b6d-a76e-52e493142f81"
-          ],
-          "first_published_at": 1580337801000,
-          "allowed_type_ids": [
-            4,
-            6,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            188,
-            24,
-            153,
-            228,
-            321,
-            162,
-            260,
-            272,
-            148,
-            293,
-            75,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            1,
-            9,
-            1,
-            1.5,
-            18,
-            12,
-            3,
-            2,
-            3,
-            7.5,
-            10,
-            10,
-            30,
-            10,
-            11.25
-          ],
-          "average_rating": 0.864,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9306,
-          "recipe_id": 1070,
-          "group_label": "Default",
-          "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "published_recipe_uuid": "628291ea-11b8-4a3e-a6eb-9c901b5ab1ef",
-          "fallback_published_recipe_uuids": [
-            "b0854d2e-4558-47de-b37c-aaa053c5449d"
-          ],
-          "first_published_at": 1580337800000,
-          "allowed_type_ids": [
-            4,
-            6,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            188,
-            24,
-            153,
-            228,
-            321,
-            162,
-            260,
-            272,
-            148,
-            293,
-            75,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            1,
-            6,
-            1,
-            1,
-            12,
-            8,
-            2,
-            1.3333333333333333,
-            2,
-            5,
-            7.5,
-            7.5,
-            20,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.864,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9305,
-          "recipe_id": 1070,
-          "group_label": "Default",
-          "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "published_recipe_uuid": "33d15f10-f8a4-44dd-a9a7-150749c7f2b8",
-          "fallback_published_recipe_uuids": [
-            "07cf21a9-dd69-4dd0-b892-1c9395941ea7"
-          ],
-          "first_published_at": 1580337799000,
-          "allowed_type_ids": [
-            4,
-            6,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            188,
-            24,
-            153,
-            228,
-            321,
-            162,
-            260,
-            272,
-            148,
-            293,
-            75,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.5,
-            3,
-            0.5,
-            0.5,
-            6,
-            4,
-            1,
-            0.6666666666666666,
-            1,
-            2.5,
-            3.75,
-            3.75,
-            10,
-            3.75,
-            3.75
-          ],
-          "average_rating": 0.864,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9310,
-          "recipe_id": 1070,
-          "group_label": "Default",
-          "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "published_recipe_uuid": "8f66e4b4-acd6-4a26-ae50-2c5ebae02245",
-          "fallback_published_recipe_uuids": [
-            "c03a47fb-f393-463c-b1fe-cf6583ab5b45"
-          ],
-          "first_published_at": 1580337803000,
-          "allowed_type_ids": [
-            4,
-            6,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            188,
-            24,
-            153,
-            228,
-            321,
-            162,
-            260,
-            272,
-            148,
-            293,
-            75,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            177,
-            3,
-            1,
-            9,
-            1,
-            1.5,
-            18,
-            12,
-            3,
-            2,
-            3,
-            7.5,
-            10,
-            10,
-            30,
-            10,
-            11.25
-          ],
-          "average_rating": 0.864,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9309,
-          "recipe_id": 1070,
-          "group_label": "Default",
-          "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "published_recipe_uuid": "836f8a0c-b2b4-470f-9dcb-31e31a0993fb",
-          "fallback_published_recipe_uuids": [
-            "ceff3ae6-f6a2-4e9f-91c8-1a2969617b88"
-          ],
-          "first_published_at": 1580337802000,
-          "allowed_type_ids": [
-            4,
-            6,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            188,
-            24,
-            153,
-            228,
-            321,
-            162,
-            260,
-            272,
-            148,
-            293,
-            75,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            118,
-            2,
-            1,
-            6,
-            1,
-            1,
-            12,
-            8,
-            2,
-            1.3333333333333333,
-            2,
-            5,
-            7.5,
-            7.5,
-            20,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.864,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9308,
-          "recipe_id": 1070,
-          "group_label": "Default",
-          "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
-          "published_recipe_uuid": "79efc608-77ed-475f-ba0c-de05e8a947ba",
-          "fallback_published_recipe_uuids": [
-            "66dfdc58-ff29-4a8b-8f45-ac7392cd7e78"
-          ],
-          "first_published_at": 1580337802000,
-          "allowed_type_ids": [
-            4,
-            6,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            183,
-            188,
-            24,
-            153,
-            228,
-            321,
-            162,
-            260,
-            272,
-            148,
-            293,
-            75,
-            186,
-            47,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            59,
-            1,
-            0.5,
-            3,
-            0.5,
-            0.5,
-            6,
-            4,
-            1,
-            0.6666666666666666,
-            1,
-            2.5,
-            3.75,
-            3.75,
-            10,
-            3.75,
-            3.75
-          ],
-          "average_rating": 0.864,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 9306,
+  "recipe_id": 1070,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Potato, Walnut & Sun-Dried Tomato \"Chorizo\" Tacos with Avocado Cream",
+  "slug": "potato-walnut-sun-dried-tomato-chorizo-tacos-avocado-cream",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/thumbnail_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1070/presentation_632e0dad-8d04-48aa-b319-d6125d75e4d7.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "potato-walnut-sun-dried-tomato-chorizo-tacos-avocado-cream",
-    "variantId": "9306"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 147475,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 medium yellow potatoes\n1 lime\n2 avocados\n1 small bunch cilantro\n1 small bunch green onions (scallions)\n2 tomatoes"
+    },
+    {
+      "id": 147476,
+      "primary_message": "Small dice potatoes into ¼-inch cubes.",
+      "secondary_message": null
+    },
+    {
+      "id": 147477,
+      "primary_message": "Preheat a large nonstick skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 147478,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add potatoes and salt; cook, stirring often, until golden and crisp, 12-15 minutes. ",
+      "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt"
+    },
+    {
+      "id": 147479,
+      "primary_message": "Meanwhile, finely chop the walnuts and transfer to a medium bowl. ",
+      "secondary_message": "1 ⅓ cups walnuts"
+    },
+    {
+      "id": 147480,
+      "primary_message": "Peel and mince the garlic. Mince the sun-dried tomatoes; add both to the bowl with the walnuts.",
+      "secondary_message": "4 cloves garlic\n8 sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 147481,
+      "primary_message": "Add water, sugar, and spices to the bowl with the walnuts and stir to combine. ",
+      "secondary_message": "1 ½ cup water\n1 tsp brown sugar\n1 ½ tsp paprika\n1 ½ tsp cumin\n1 ½ tsp chili powder\n½ tsp salt"
+    },
+    {
+      "id": 147482,
+      "primary_message": "When the potatoes are done, add the walnut mixture to the skillet; cook, stirring often, until the liquid has evaporated, 4-5 minutes. Remove from the heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 147483,
+      "primary_message": "Juice the lime into a blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 147484,
+      "primary_message": "Halve and pit the avocados; slice crosswise while still in the skin and scoop out into the blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 147485,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and add leaves to the blender. ",
+      "secondary_message": null
+    },
+    {
+      "id": 147486,
+      "primary_message": "Peel garlic; add to the blender along with almond milk and salt. Blend on high until smooth; set avocado cream aside. ",
+      "secondary_message": "2 cloves garlic\n4 fl oz (½ cup) almond milk, unsweetened\n½ tsp salt"
+    },
+    {
+      "id": 147487,
+      "primary_message": "Trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces at an angle.",
+      "secondary_message": null
+    },
+    {
+      "id": 147488,
+      "primary_message": "Small dice the tomatoes. ",
+      "secondary_message": null
+    },
+    {
+      "id": 147489,
+      "primary_message": "Wrap the tortillas in damp paper towels and microwave until heated through, 15-30 seconds.",
+      "secondary_message": "12 small corn tortillas"
+    },
+    {
+      "id": 147490,
+      "primary_message": "To serve, divide the tortillas between plates and fill with potato-walnut mixture. Top with green onion, tomato, and avocado cream. Enjoy! ",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 153582,
+      "quantity": "4 fl oz",
+      "ingredient_name": "almond milk, unsweetened"
+    },
+    {
+      "id": 153574,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 153576,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 153566,
+      "quantity": "6 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 153572,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 153577,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 153581,
+      "quantity": "12",
+      "ingredient_name": "small corn tortillas"
+    },
+    {
+      "id": 153573,
+      "quantity": "8",
+      "ingredient_name": "sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 153578,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 153579,
+      "quantity": "1 ⅓ cups",
+      "ingredient_name": "walnuts"
+    },
+    {
+      "id": 153571,
+      "quantity": "2 medium",
+      "ingredient_name": "yellow potatoes"
+    },
+    {
+      "id": 153580,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 153568,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 153575,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 153567,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 153569,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 153570,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 713.01,
+    "alcohol": 0,
+    "ash": 7.8,
+    "caffeine": 0,
+    "water": 341.74,
+    "carbs": 73.67,
+    "fiber": 19.29,
+    "starch": 43.44,
+    "sugars": 8.4,
+    "fructose": 2.4,
+    "galactose": 0.1,
+    "glucose": 2.69,
+    "lactose": 0,
+    "maltose": 0.24,
+    "sucrose": 3.1,
+    "sugar_alcohol": 0,
+    "fat": 45.08,
+    "monounsaturated": 17.61,
+    "polyunsaturated": 19.56,
+    "omega_3": 3.26,
+    "omega_6": 16.32,
+    "saturated": 5.39,
+    "transfats": 0.01,
+    "cholesterol": 0,
+    "protein": 15.57,
+    "alanine": 0.77,
+    "arginine": 1.24,
+    "aspartic_acid": 1.8,
+    "cystine": 0.22,
+    "glutamic_acid": 2.87,
+    "glycine": 0.66,
+    "histidine": 0.37,
+    "isoleucine": 0.56,
+    "leucine": 1.22,
+    "lysine": 0.56,
+    "methionine": 0.25,
+    "phenylalanine": 0.67,
+    "proline": 0.84,
+    "serine": 0.75,
+    "threonine": 0.54,
+    "tryptophan": 0.15,
+    "tyrosine": 0.43,
+    "valine": 0.73,
+    "b1_thiamine": 0.41,
+    "b2_riboflavin": 0.38,
+    "b3_niacin": 5.58,
+    "b5_pantothenic_acid": 2.26,
+    "b6_pyridoxine": 1.03,
+    "b12_cobalamin": 0,
+    "choline": 63.32,
+    "folate": 178.2,
+    "vitamin_a": 932.79,
+    "vitamin_c": 49.59,
+    "vitamin_d": 13.46,
+    "vitamin_e": 7.03,
+    "vitamin_k": 148.56,
+    "calcium": 229.98,
+    "copper": 1.13,
+    "iron": 5.1,
+    "magnesium": 187.8,
+    "manganese": 2.04,
+    "phosphorus": 522.65,
+    "potassium": 1575.54,
+    "selenium": 8.26,
+    "sodium": 117.18,
+    "zinc": 3.48
+  }
 }

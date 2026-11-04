@@ -1,758 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2327,
-        "recipe_id": 261,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-        "slug": "strip-steak-bell-pepper-fajitas-guacamole-butter-lettuce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 22260,
-            "primary_message": "Wash and dry bell peppers. Seed, slice into thin strips, and transfer to a bowl.",
-            "secondary_message": "2 red bell peppers\r\n2 yellow bell peppers"
-          },
-          {
-            "id": 22261,
-            "primary_message": "Peel, thinly slice into half rings, and add onion to bowl with peppers. Peel and mince garlic; add ½ to bowl with vegetables and place the other ½ into a medium bowl for preparing guacamole.",
-            "secondary_message": "1 medium red onion\r\n4 cloves garlic"
-          },
-          {
-            "id": 22262,
-            "primary_message": "Halve avocados and remove pit; scoop out the flesh into bowl with garlic.",
-            "secondary_message": "2 avocados"
-          },
-          {
-            "id": 22263,
-            "primary_message": "Wash and dry cilantro. Shave leaves off the stems; discard the stems and mince the leaves. Add ½ to bowl with avocado and save the rest for garnishing.",
-            "secondary_message": "1 small bunch cilantro"
-          },
-          {
-            "id": 22264,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 22265,
-            "primary_message": "Season steak generously with salt and pepper.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\r\n¼ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 22266,
-            "primary_message": "Coat bottom of skillet with oil. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with foil.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 22267,
-            "primary_message": "Add lime juice, salt, and pepper to avocado. Mash with a fork until smooth. Set aside.",
-            "secondary_message": "juice of 1 lime\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 22268,
-            "primary_message": "After steak has been transferred add more oil to skillet. Add peppers, onion, and garlic from bowl. Stirring frequently, cook until peppers are tender-crisp, 4-5 minutes.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 22269,
-            "primary_message": "Wash and dry lettuce.",
-            "secondary_message": "2 heads butter (Boston) lettuce"
-          },
-          {
-            "id": 22270,
-            "primary_message": "Cut remaining lime into wedges.",
-            "secondary_message": ""
-          },
-          {
-            "id": 22271,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": ""
-          },
-          {
-            "id": 22272,
-            "primary_message": "Return steak slices and any juices to skillet. Season with chili powder, cumin, salt, and pepper. Stir and cook for 1-2 minutes.",
-            "secondary_message": "1 tsp chili powder\r\n1 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 22273,
-            "primary_message": "To serve, fill lettuce leaves with fajita mix. Garnish with guacamole, remaining cilantro, and lime wedges. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 28908,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 28909,
-            "quantity": "2 heads",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 28910,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 28911,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 28912,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 28913,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 28914,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 28921,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 28915,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 28916,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 28917,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 28918,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 28920,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 28919,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 674.45,
-          "alcohol": 0,
-          "ash": 6.77,
-          "caffeine": 0,
-          "water": 435.97,
-          "carbs": 24.73,
-          "fiber": 10.99,
-          "starch": 1.95,
-          "sugars": 8.84,
-          "fructose": 4.3,
-          "galactose": 0.11,
-          "glucose": 3.94,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.45,
-          "sugar_alcohol": 0,
-          "fat": 48.69,
-          "monounsaturated": 21.59,
-          "polyunsaturated": 3.39,
-          "omega_3": 0.29,
-          "omega_6": 3.11,
-          "saturated": 20.88,
-          "transfats": 1.35,
-          "cholesterol": 103.76,
-          "protein": 41.47,
-          "alanine": 2.44,
-          "arginine": 2.66,
-          "aspartic_acid": 4.16,
-          "cystine": 0.42,
-          "glutamic_acid": 6.64,
-          "glycine": 1.97,
-          "histidine": 1.42,
-          "isoleucine": 1.83,
-          "leucine": 3.35,
-          "lysine": 3.65,
-          "methionine": 1.03,
-          "phenylalanine": 1.64,
-          "proline": 1.8,
-          "serine": 1.7,
-          "threonine": 1.85,
-          "tryptophan": 0.46,
-          "tyrosine": 1.42,
-          "valine": 2.01,
-          "b1_thiamine": 0.29,
-          "b2_riboflavin": 0.61,
-          "b3_niacin": 14.26,
-          "b5_pantothenic_acid": 2.6,
-          "b6_pyridoxine": 1.65,
-          "b12_cobalamin": 2.77,
-          "choline": 125.15,
-          "folate": 209.07,
-          "vitamin_a": 374.24,
-          "vitamin_c": 213.24,
-          "vitamin_d": 6.8,
-          "vitamin_e": 4.66,
-          "vitamin_k": 175.15,
-          "calcium": 111.38,
-          "copper": 0.43,
-          "iron": 6.28,
-          "magnesium": 85.16,
-          "manganese": 0.69,
-          "phosphorus": 457.5,
-          "potassium": 1545.72,
-          "selenium": 34.4,
-          "sodium": 102.46,
-          "zinc": 7.03
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/strip-steak-bell-pepper-fajitas-guacamole-butter-lettuce/2327",
-      "altVariants": [
-        {
-          "id": 5428,
-          "recipe_id": 261,
-          "group_label": "Classic",
-          "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "published_recipe_uuid": "4b44548a-1a53-4f84-bb41-75ae9d47df5e",
-          "fallback_published_recipe_uuids": [
-            "5851580a-d461-439a-b216-5ef8993f5b9e",
-            "996ab984-0570-40dc-a0c3-836c79f0ac75",
-            "31f8a718-980c-411a-b0a2-834e882214ec"
-          ],
-          "first_published_at": 1550528577000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            228,
-            150,
-            184,
-            279,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            2.25,
-            3,
-            5.625,
-            7.5,
-            7.5,
-            9.375,
-            67.5
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2327,
-          "recipe_id": 261,
-          "group_label": "Classic",
-          "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "published_recipe_uuid": "7904fea2-130f-48ab-a319-10cc974c7a9a",
-          "fallback_published_recipe_uuids": [
-            "0470843e-da08-4bfa-9aa0-46ac4e18e7fb",
-            "203afd73-1acf-464e-881a-c4af91758eb3",
-            "a0c02a98-730c-49c8-a4ea-4c75e23fe46e"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            228,
-            150,
-            184,
-            279,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            4,
-            2,
-            2,
-            1,
-            1.5,
-            2,
-            3.75,
-            5,
-            5,
-            6.25,
-            45
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2325,
-          "recipe_id": 261,
-          "group_label": "Classic",
-          "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "published_recipe_uuid": "e4745f74-c042-4acd-b1bf-9ebdfb2f0e52",
-          "fallback_published_recipe_uuids": [
-            "41600f17-0ba9-43b3-aafa-70cc48444c56",
-            "0e5ba074-db08-4d3b-b8ca-f04898436ac3",
-            "808b341f-0387-4b68-a634-15654a48141f"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            228,
-            150,
-            184,
-            279,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            0.75,
-            1,
-            1.875,
-            2.5,
-            2.5,
-            3.125,
-            22.5
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2328,
-          "recipe_id": 261,
-          "group_label": "Classic",
-          "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "published_recipe_uuid": "98356f64-8019-490d-8a24-8c358735dcb1",
-          "fallback_published_recipe_uuids": [
-            "174675c8-2df4-447b-b47f-73be43c7bb3c",
-            "738d8e38-dcaa-44f1-95f7-f88bcef2e42c",
-            "7608b453-ef48-49fe-9551-a29f0087652e"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            228,
-            150,
-            184,
-            279,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            4,
-            2,
-            2,
-            1,
-            0.68,
-            2,
-            3.75,
-            5,
-            5,
-            6.25,
-            45
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5429,
-          "recipe_id": 261,
-          "group_label": "Classic",
-          "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "published_recipe_uuid": "f51bc974-e0ab-4b90-80e9-45fdc0ae3466",
-          "fallback_published_recipe_uuids": [
-            "39b678ff-2331-4cc4-84a7-95ffd7ea1fc9",
-            "dff5dbee-b636-4df9-beca-561b629c0e3b",
-            "4b72ca5d-67f3-4b14-93df-8021f8ae2c6f"
-          ],
-          "first_published_at": 1550528616000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            228,
-            150,
-            184,
-            279,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            1.02,
-            3,
-            5.625,
-            7.5,
-            7.5,
-            9.375,
-            67.5
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2326,
-          "recipe_id": 261,
-          "group_label": "Classic",
-          "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
-          "published_recipe_uuid": "2115e7ca-e019-49d9-a3c0-ad0c7ef4d972",
-          "fallback_published_recipe_uuids": [
-            "f1a42fee-7972-44e0-ad3d-1914577ebc54",
-            "038a8458-1fa6-41aa-9f8b-fab3a205584a",
-            "28d8ee87-f454-45e8-81c7-bbf81ff9918e"
-          ],
-          "first_published_at": 1447956406000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            228,
-            150,
-            184,
-            279,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            0.34,
-            1,
-            1.875,
-            2.5,
-            2.5,
-            3.125,
-            22.5
-          ],
-          "average_rating": 0.783,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Wraps",
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "Mexican",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2327,
+  "recipe_id": 261,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Strip Steak & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
+  "slug": "strip-steak-bell-pepper-fajitas-guacamole-butter-lettuce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/thumbnail_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/261/presentation_cd66e2fb-dfcb-40a9-bf5f-ef3750731b77.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "strip-steak-bell-pepper-fajitas-guacamole-butter-lettuce",
-    "variantId": "2327"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 22260,
+      "primary_message": "Wash and dry bell peppers. Seed, slice into thin strips, and transfer to a bowl.",
+      "secondary_message": "2 red bell peppers\r\n2 yellow bell peppers"
+    },
+    {
+      "id": 22261,
+      "primary_message": "Peel, thinly slice into half rings, and add onion to bowl with peppers. Peel and mince garlic; add ½ to bowl with vegetables and place the other ½ into a medium bowl for preparing guacamole.",
+      "secondary_message": "1 medium red onion\r\n4 cloves garlic"
+    },
+    {
+      "id": 22262,
+      "primary_message": "Halve avocados and remove pit; scoop out the flesh into bowl with garlic.",
+      "secondary_message": "2 avocados"
+    },
+    {
+      "id": 22263,
+      "primary_message": "Wash and dry cilantro. Shave leaves off the stems; discard the stems and mince the leaves. Add ½ to bowl with avocado and save the rest for garnishing.",
+      "secondary_message": "1 small bunch cilantro"
+    },
+    {
+      "id": 22264,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 22265,
+      "primary_message": "Season steak generously with salt and pepper.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\r\n¼ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 22266,
+      "primary_message": "Coat bottom of skillet with oil. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with foil.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 22267,
+      "primary_message": "Add lime juice, salt, and pepper to avocado. Mash with a fork until smooth. Set aside.",
+      "secondary_message": "juice of 1 lime\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 22268,
+      "primary_message": "After steak has been transferred add more oil to skillet. Add peppers, onion, and garlic from bowl. Stirring frequently, cook until peppers are tender-crisp, 4-5 minutes.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 22269,
+      "primary_message": "Wash and dry lettuce.",
+      "secondary_message": "2 heads butter (Boston) lettuce"
+    },
+    {
+      "id": 22270,
+      "primary_message": "Cut remaining lime into wedges.",
+      "secondary_message": ""
+    },
+    {
+      "id": 22271,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": ""
+    },
+    {
+      "id": 22272,
+      "primary_message": "Return steak slices and any juices to skillet. Season with chili powder, cumin, salt, and pepper. Stir and cook for 1-2 minutes.",
+      "secondary_message": "1 tsp chili powder\r\n1 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 22273,
+      "primary_message": "To serve, fill lettuce leaves with fajita mix. Garnish with guacamole, remaining cilantro, and lime wedges. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 28908,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 28909,
+      "quantity": "2 heads",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 28910,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 28911,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 28912,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 28913,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 28914,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 28921,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 28915,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 28916,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 28917,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 28918,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 28920,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 28919,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 674.45,
+    "alcohol": 0,
+    "ash": 6.77,
+    "caffeine": 0,
+    "water": 435.97,
+    "carbs": 24.73,
+    "fiber": 10.99,
+    "starch": 1.95,
+    "sugars": 8.84,
+    "fructose": 4.3,
+    "galactose": 0.11,
+    "glucose": 3.94,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.45,
+    "sugar_alcohol": 0,
+    "fat": 48.69,
+    "monounsaturated": 21.59,
+    "polyunsaturated": 3.39,
+    "omega_3": 0.29,
+    "omega_6": 3.11,
+    "saturated": 20.88,
+    "transfats": 1.35,
+    "cholesterol": 103.76,
+    "protein": 41.47,
+    "alanine": 2.44,
+    "arginine": 2.66,
+    "aspartic_acid": 4.16,
+    "cystine": 0.42,
+    "glutamic_acid": 6.64,
+    "glycine": 1.97,
+    "histidine": 1.42,
+    "isoleucine": 1.83,
+    "leucine": 3.35,
+    "lysine": 3.65,
+    "methionine": 1.03,
+    "phenylalanine": 1.64,
+    "proline": 1.8,
+    "serine": 1.7,
+    "threonine": 1.85,
+    "tryptophan": 0.46,
+    "tyrosine": 1.42,
+    "valine": 2.01,
+    "b1_thiamine": 0.29,
+    "b2_riboflavin": 0.61,
+    "b3_niacin": 14.26,
+    "b5_pantothenic_acid": 2.6,
+    "b6_pyridoxine": 1.65,
+    "b12_cobalamin": 2.77,
+    "choline": 125.15,
+    "folate": 209.07,
+    "vitamin_a": 374.24,
+    "vitamin_c": 213.24,
+    "vitamin_d": 6.8,
+    "vitamin_e": 4.66,
+    "vitamin_k": 175.15,
+    "calcium": 111.38,
+    "copper": 0.43,
+    "iron": 6.28,
+    "magnesium": 85.16,
+    "manganese": 0.69,
+    "phosphorus": 457.5,
+    "potassium": 1545.72,
+    "selenium": 34.4,
+    "sodium": 102.46,
+    "zinc": 7.03
+  }
 }

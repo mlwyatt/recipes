@@ -1,777 +1,300 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3098,
-        "recipe_id": 455,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
-        "slug": "sweet-potato-spinach-white-bean-curry-quinoa",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 68,
-            "name": "stainless steel sauté pan",
-            "slug": "stainless-steel-saute-pan"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 31017,
-            "primary_message": "In a small saucepan, combine the quinoa, salt, and water; bring to a boil over high heat.",
-            "secondary_message": "1 cup quinoa\n½ tsp salt\n2 cups water"
-          },
-          {
-            "id": 31018,
-            "primary_message": "While the liquid comes to a boil, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 lb sweet potatoes\n2 (1 inch) pieces ginger root\n1 small bunch Italian (flat-leaf) parsley\n1 (5 oz) pkg baby spinach\n"
-          },
-          {
-            "id": 31019,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the quinoa for 15 minutes. Once done, remove the quinoa from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31020,
-            "primary_message": "Peel and medium dice the potatoes (cut into ½-inch cubes); transfer to a bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 31021,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 31022,
-            "primary_message": "While the skillet heats up, trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces).",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 31023,
-            "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 31024,
-            "primary_message": "Add the onion to the skillet; cook, stirring frequently, until it is softened, 3 to 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31025,
-            "primary_message": "While the onion cooks, trim off and discard the root ends of the garlic; peel and mince or press the garlic.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 31026,
-            "primary_message": "Peel and grate or mince the ginger.",
-            "secondary_message": null
-          },
-          {
-            "id": 31027,
-            "primary_message": "Add the garlic, ginger, and curry powder to the onion; stir until fragrant, 15 to 30 seconds.",
-            "secondary_message": "2 tbsp curry powder"
-          },
-          {
-            "id": 31028,
-            "primary_message": "Add the sweet potatoes, tomato sauce, broth, and salt to the skillet; stir to combine and reduce the heat to medium-low. Cook, stirring occasionally, for 10 minutes before adding the remaining ingredients.",
-            "secondary_message": "2 (8 oz) cans tomato sauce\n8 fl oz (1 cup) chicken or vegetable broth\n1 tsp salt"
-          },
-          {
-            "id": 31029,
-            "primary_message": "While the curry cooks, using a knife, shave the parsley leaves off the stems at a downward angle, working away from your body; discard the stems and roughly chop the leaves.",
-            "secondary_message": null
-          },
-          {
-            "id": 31030,
-            "primary_message": "Drain and rinse the beans.",
-            "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
-          },
-          {
-            "id": 31031,
-            "primary_message": "Add the beans, spinach, ¾ of the parsley (save the rest for garnishing), and yogurt to the curry; stir to combine and continue cooking until the potatoes are tender, another 5 to 7 minutes.",
-            "secondary_message": "½ cup plain Greek yogurt"
-          },
-          {
-            "id": 31032,
-            "primary_message": "Uncover the quinoa and fluff with a fork.",
-            "secondary_message": null
-          },
-          {
-            "id": 31033,
-            "primary_message": "To serve, place the quinoa on a plate or in a bowl, top with the curry, and garnish with the remaining parsley leaves. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 38142,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 38146,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "cannellini (white kidney) beans"
-          },
-          {
-            "id": 38133,
-            "quantity": "8 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 38143,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 38140,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 38141,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 38137,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 38138,
-            "quantity": "1 cup",
-            "ingredient_name": "quinoa"
-          },
-          {
-            "id": 38145,
-            "quantity": "1 lb",
-            "ingredient_name": "sweet potato"
-          },
-          {
-            "id": 38136,
-            "quantity": "2 (8 oz) cans",
-            "ingredient_name": "tomato sauce"
-          },
-          {
-            "id": 38144,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 38135,
-            "quantity": "",
-            "ingredient_name": "curry powder"
-          },
-          {
-            "id": 38134,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 38139,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 573.74,
-          "alcohol": 0,
-          "ash": 9.96,
-          "caffeine": 0,
-          "water": 444.89,
-          "carbs": 94.53,
-          "fiber": 18.26,
-          "starch": 55.46,
-          "sugars": 19,
-          "fructose": 3.56,
-          "galactose": 0.26,
-          "glucose": 5.3,
-          "lactose": 0.78,
-          "maltose": 0,
-          "sucrose": 9.07,
-          "sugar_alcohol": 0.05,
-          "fat": 12.43,
-          "monounsaturated": 1.59,
-          "polyunsaturated": 2.18,
-          "omega_3": 0.3,
-          "omega_6": 1.88,
-          "saturated": 6.78,
-          "transfats": 0.01,
-          "cholesterol": 1.53,
-          "protein": 26.49,
-          "alanine": 1.15,
-          "arginine": 1.44,
-          "aspartic_acid": 3.04,
-          "cystine": 0.32,
-          "glutamic_acid": 4.37,
-          "glycine": 1.03,
-          "histidine": 0.67,
-          "isoleucine": 1.12,
-          "leucine": 1.93,
-          "lysine": 1.67,
-          "methionine": 0.43,
-          "phenylalanine": 1.27,
-          "proline": 1.38,
-          "serine": 1.31,
-          "threonine": 0.98,
-          "tryptophan": 0.35,
-          "tyrosine": 0.63,
-          "valine": 1.32,
-          "b1_thiamine": 0.44,
-          "b2_riboflavin": 0.51,
-          "b3_niacin": 4.54,
-          "b5_pantothenic_acid": 2.18,
-          "b6_pyridoxine": 0.92,
-          "b12_cobalamin": 0.29,
-          "choline": 115.41,
-          "folate": 242.15,
-          "vitamin_a": 16610.98,
-          "vitamin_c": 44.11,
-          "vitamin_d": 0,
-          "vitamin_e": 4.51,
-          "vitamin_k": 190.56,
-          "calcium": 265.11,
-          "copper": 1.07,
-          "iron": 8.8,
-          "magnesium": 220.88,
-          "manganese": 2.4,
-          "phosphorus": 548.92,
-          "potassium": 1724.23,
-          "selenium": 11.55,
-          "sodium": 423.92,
-          "zinc": 3.7
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sweet-potato-spinach-white-bean-curry-quinoa/3098",
-      "altVariants": [
-        {
-          "id": 5766,
-          "recipe_id": 455,
-          "group_label": "Classic",
-          "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "published_recipe_uuid": "21cd93c9-2265-4fa7-b015-c4be4c69c51d",
-          "fallback_published_recipe_uuids": [
-            "8ea86177-205c-441d-87d9-0bfe6f9e8665",
-            "b12b00e0-73ac-4e1b-b319-ef9953ca3d02"
-          ],
-          "first_published_at": 1550531230000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            201,
-            24,
-            221,
-            106,
-            122,
-            249,
-            143,
-            99,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            12,
-            6,
-            3,
-            1.5,
-            0.75,
-            1.5,
-            1.5,
-            3,
-            1.5,
-            44.36025,
-            11.090069999999999,
-            44.36025
-          ],
-          "average_rating": 0.75,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3098,
-          "recipe_id": 455,
-          "group_label": "Classic",
-          "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "published_recipe_uuid": "a02e05a2-f467-49e0-8117-3da7d496768c",
-          "fallback_published_recipe_uuids": [
-            "9ac2d24b-2f89-4518-af9b-886ab0c380c5",
-            "5c1149b3-11e4-40ad-8da8-a52e0bb74fb0",
-            "3c885e74-ae43-46b4-81d0-56e36fd841c1"
-          ],
-          "first_published_at": 1479926190000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            201,
-            24,
-            221,
-            106,
-            122,
-            249,
-            143,
-            99,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            8,
-            4,
-            2,
-            1,
-            0.5,
-            1,
-            1,
-            2,
-            1,
-            29.5735,
-            7.39338,
-            29.5735
-          ],
-          "average_rating": 0.75,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3085,
-          "recipe_id": 455,
-          "group_label": "Classic",
-          "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "published_recipe_uuid": "241c3c36-7564-4fca-96c7-9d4ca4778196",
-          "fallback_published_recipe_uuids": [
-            "3d8c050b-6655-4652-87da-4c4ea63d55fc",
-            "ac2369ff-6841-4857-8094-2552cdf1460a",
-            "ba1eef0e-ab8f-4009-a8f9-63763429f919"
-          ],
-          "first_published_at": 1479757190000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            201,
-            24,
-            221,
-            106,
-            122,
-            249,
-            143,
-            99,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            4,
-            2,
-            1,
-            0.5,
-            0.25,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            14.7868,
-            3.69669,
-            14.7868
-          ],
-          "average_rating": 0.75,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3588,
-          "recipe_id": 455,
-          "group_label": "Classic",
-          "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "published_recipe_uuid": "983ae0b0-82ac-4844-b1a1-d779d30bed87",
-          "fallback_published_recipe_uuids": [
-            "e24e677b-36dc-47d0-b4a2-9a81fa3b84e4",
-            "7866df16-b209-4dce-ac2c-1280408f97f2"
-          ],
-          "first_published_at": 1486669975000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            201,
-            24,
-            221,
-            106,
-            122,
-            249,
-            143,
-            99,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            237,
-            4,
-            2,
-            1,
-            0.5,
-            1,
-            0.454,
-            2,
-            1,
-            29.5735,
-            7.39338,
-            29.5735
-          ],
-          "average_rating": 0.75,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6016,
-          "recipe_id": 455,
-          "group_label": "Classic",
-          "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "published_recipe_uuid": "bea417c6-b914-4907-b3a2-a4799697c293",
-          "fallback_published_recipe_uuids": [
-            "f0d3620d-3423-4f64-8cd7-69cdefed8ab8",
-            "dd0eb788-da3a-4a5d-a92d-a802c37d9085"
-          ],
-          "first_published_at": 1550528005000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            201,
-            24,
-            221,
-            106,
-            122,
-            249,
-            143,
-            99,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            355.5,
-            6,
-            3,
-            1.5,
-            0.75,
-            1.5,
-            0.681,
-            3,
-            1.5,
-            44.36025,
-            11.090069999999999,
-            44.36025
-          ],
-          "average_rating": 0.75,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3587,
-          "recipe_id": 455,
-          "group_label": "Classic",
-          "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
-          "published_recipe_uuid": "44f96d4e-5d58-4623-b608-157993cee888",
-          "fallback_published_recipe_uuids": [
-            "053bc177-92bf-443d-9eea-b8a9e8acc1b3",
-            "41b7f5e7-00aa-4f72-a0e2-48acf2e1de19"
-          ],
-          "first_published_at": 1486669898000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            33,
-            91,
-            201,
-            24,
-            221,
-            106,
-            122,
-            249,
-            143,
-            99,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            118,
-            2,
-            1,
-            0.5,
-            0.25,
-            0.5,
-            0.227,
-            1,
-            0.5,
-            14.7868,
-            3.69669,
-            14.7868
-          ],
-          "average_rating": 0.75,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Curries"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3098,
+  "recipe_id": 455,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Sweet Potato, Spinach & White Bean Curry with Quinoa",
+  "slug": "sweet-potato-spinach-white-bean-curry-quinoa",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/thumbnail_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/455/presentation_f4f6a0c7-2495-4c4a-b930-768640f1be38.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sweet-potato-spinach-white-bean-curry-quinoa",
-    "variantId": "3098"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 68,
+      "name": "stainless steel sauté pan",
+      "slug": "stainless-steel-saute-pan"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 31017,
+      "primary_message": "In a small saucepan, combine the quinoa, salt, and water; bring to a boil over high heat.",
+      "secondary_message": "1 cup quinoa\n½ tsp salt\n2 cups water"
+    },
+    {
+      "id": 31018,
+      "primary_message": "While the liquid comes to a boil, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 lb sweet potatoes\n2 (1 inch) pieces ginger root\n1 small bunch Italian (flat-leaf) parsley\n1 (5 oz) pkg baby spinach\n"
+    },
+    {
+      "id": 31019,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the quinoa for 15 minutes. Once done, remove the quinoa from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31020,
+      "primary_message": "Peel and medium dice the potatoes (cut into ½-inch cubes); transfer to a bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 31021,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 31022,
+      "primary_message": "While the skillet heats up, trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces).",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 31023,
+      "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 31024,
+      "primary_message": "Add the onion to the skillet; cook, stirring frequently, until it is softened, 3 to 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31025,
+      "primary_message": "While the onion cooks, trim off and discard the root ends of the garlic; peel and mince or press the garlic.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 31026,
+      "primary_message": "Peel and grate or mince the ginger.",
+      "secondary_message": null
+    },
+    {
+      "id": 31027,
+      "primary_message": "Add the garlic, ginger, and curry powder to the onion; stir until fragrant, 15 to 30 seconds.",
+      "secondary_message": "2 tbsp curry powder"
+    },
+    {
+      "id": 31028,
+      "primary_message": "Add the sweet potatoes, tomato sauce, broth, and salt to the skillet; stir to combine and reduce the heat to medium-low. Cook, stirring occasionally, for 10 minutes before adding the remaining ingredients.",
+      "secondary_message": "2 (8 oz) cans tomato sauce\n8 fl oz (1 cup) chicken or vegetable broth\n1 tsp salt"
+    },
+    {
+      "id": 31029,
+      "primary_message": "While the curry cooks, using a knife, shave the parsley leaves off the stems at a downward angle, working away from your body; discard the stems and roughly chop the leaves.",
+      "secondary_message": null
+    },
+    {
+      "id": 31030,
+      "primary_message": "Drain and rinse the beans.",
+      "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
+    },
+    {
+      "id": 31031,
+      "primary_message": "Add the beans, spinach, ¾ of the parsley (save the rest for garnishing), and yogurt to the curry; stir to combine and continue cooking until the potatoes are tender, another 5 to 7 minutes.",
+      "secondary_message": "½ cup plain Greek yogurt"
+    },
+    {
+      "id": 31032,
+      "primary_message": "Uncover the quinoa and fluff with a fork.",
+      "secondary_message": null
+    },
+    {
+      "id": 31033,
+      "primary_message": "To serve, place the quinoa on a plate or in a bowl, top with the curry, and garnish with the remaining parsley leaves. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 38142,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 38146,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "cannellini (white kidney) beans"
+    },
+    {
+      "id": 38133,
+      "quantity": "8 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 38143,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 38140,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 38141,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 38137,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 38138,
+      "quantity": "1 cup",
+      "ingredient_name": "quinoa"
+    },
+    {
+      "id": 38145,
+      "quantity": "1 lb",
+      "ingredient_name": "sweet potato"
+    },
+    {
+      "id": 38136,
+      "quantity": "2 (8 oz) cans",
+      "ingredient_name": "tomato sauce"
+    },
+    {
+      "id": 38144,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 38135,
+      "quantity": "",
+      "ingredient_name": "curry powder"
+    },
+    {
+      "id": 38134,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 38139,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 573.74,
+    "alcohol": 0,
+    "ash": 9.96,
+    "caffeine": 0,
+    "water": 444.89,
+    "carbs": 94.53,
+    "fiber": 18.26,
+    "starch": 55.46,
+    "sugars": 19,
+    "fructose": 3.56,
+    "galactose": 0.26,
+    "glucose": 5.3,
+    "lactose": 0.78,
+    "maltose": 0,
+    "sucrose": 9.07,
+    "sugar_alcohol": 0.05,
+    "fat": 12.43,
+    "monounsaturated": 1.59,
+    "polyunsaturated": 2.18,
+    "omega_3": 0.3,
+    "omega_6": 1.88,
+    "saturated": 6.78,
+    "transfats": 0.01,
+    "cholesterol": 1.53,
+    "protein": 26.49,
+    "alanine": 1.15,
+    "arginine": 1.44,
+    "aspartic_acid": 3.04,
+    "cystine": 0.32,
+    "glutamic_acid": 4.37,
+    "glycine": 1.03,
+    "histidine": 0.67,
+    "isoleucine": 1.12,
+    "leucine": 1.93,
+    "lysine": 1.67,
+    "methionine": 0.43,
+    "phenylalanine": 1.27,
+    "proline": 1.38,
+    "serine": 1.31,
+    "threonine": 0.98,
+    "tryptophan": 0.35,
+    "tyrosine": 0.63,
+    "valine": 1.32,
+    "b1_thiamine": 0.44,
+    "b2_riboflavin": 0.51,
+    "b3_niacin": 4.54,
+    "b5_pantothenic_acid": 2.18,
+    "b6_pyridoxine": 0.92,
+    "b12_cobalamin": 0.29,
+    "choline": 115.41,
+    "folate": 242.15,
+    "vitamin_a": 16610.98,
+    "vitamin_c": 44.11,
+    "vitamin_d": 0,
+    "vitamin_e": 4.51,
+    "vitamin_k": 190.56,
+    "calcium": 265.11,
+    "copper": 1.07,
+    "iron": 8.8,
+    "magnesium": 220.88,
+    "manganese": 2.4,
+    "phosphorus": 548.92,
+    "potassium": 1724.23,
+    "selenium": 11.55,
+    "sodium": 423.92,
+    "zinc": 3.7
+  }
 }

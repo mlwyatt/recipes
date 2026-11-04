@@ -1,691 +1,230 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4083,
-        "recipe_id": 602,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
-        "slug": "chickpea-waldorf-salad-apples-celery-grapes-walnuts",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 45822,
-            "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 (5 oz) pkg baby spinach\n2 Gala apples\n4 sticks celery\n½ lb red grapes"
-          },
-          {
-            "id": 45823,
-            "primary_message": "Drain and rinse the chickpeas, then set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 45824,
-            "primary_message": "In a large salad bowl, combine and whisk together yogurt, apple cider vinegar, Dijon, honey, salt, and pepper.",
-            "secondary_message": "1 cup plain Greek yogurt\n2 tbsp apple cider vinegar\n2 tsp Dijon mustard\n2 tsp honey\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 45825,
-            "primary_message": "Quarter the apples lengthwise, then cut out the core and stem from each section; medium dice the apples (cut into ½-inch cubes) and add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 45826,
-            "primary_message": "Trim off and discard the ends of the celery; medium dice the celery (cut into ½-inch cubes) and add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 45827,
-            "primary_message": "Halve or quarter the grapes (depending on the size) and add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 45828,
-            "primary_message": "Roughly chop the walnuts and add to the salad bowl.",
-            "secondary_message": "1 cup walnuts"
-          },
-          {
-            "id": 45829,
-            "primary_message": "Add the chickpeas to the salad bowl; toss the salad until thoroughly coated with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 45830,
-            "primary_message": "To serve, divide the spinach between plates and top with the salad. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 49409,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 49419,
-            "quantity": "4 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 49416,
-            "quantity": "2",
-            "ingredient_name": "Gala apples"
-          },
-          {
-            "id": 49420,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 49415,
-            "quantity": "1 cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 49417,
-            "quantity": "½ lb",
-            "ingredient_name": "red grapes"
-          },
-          {
-            "id": 49418,
-            "quantity": "1 cup",
-            "ingredient_name": "walnuts"
-          },
-          {
-            "id": 49414,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 49410,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 49413,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 49412,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 49411,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 492.87,
-          "alcohol": 0,
-          "ash": 5.13,
-          "caffeine": 0,
-          "water": 341.54,
-          "carbs": 62.88,
-          "fiber": 13.81,
-          "starch": 20.67,
-          "sugars": 25.07,
-          "fructose": 11.68,
-          "galactose": 0.77,
-          "glucose": 7.79,
-          "lactose": 1.56,
-          "maltose": 0.05,
-          "sucrose": 3.23,
-          "sugar_alcohol": 0.02,
-          "fat": 20.67,
-          "monounsaturated": 3.01,
-          "polyunsaturated": 13.23,
-          "omega_3": 2.4,
-          "omega_6": 10.83,
-          "saturated": 1.98,
-          "transfats": 0,
-          "cholesterol": 3.06,
-          "protein": 21.09,
-          "alanine": 0.9,
-          "arginine": 1.75,
-          "aspartic_acid": 2.35,
-          "cystine": 0.3,
-          "glutamic_acid": 3.71,
-          "glycine": 0.78,
-          "histidine": 0.54,
-          "isoleucine": 0.93,
-          "leucine": 1.66,
-          "lysine": 1.35,
-          "methionine": 0.33,
-          "phenylalanine": 0.97,
-          "proline": 1.09,
-          "serine": 1.07,
-          "threonine": 0.85,
-          "tryptophan": 0.27,
-          "tyrosine": 0.58,
-          "valine": 1,
-          "b1_thiamine": 0.23,
-          "b2_riboflavin": 0.39,
-          "b3_niacin": 1.2,
-          "b5_pantothenic_acid": 0.86,
-          "b6_pyridoxine": 0.51,
-          "b12_cobalamin": 0.46,
-          "choline": 80.65,
-          "folate": 177.6,
-          "vitamin_a": 330.73,
-          "vitamin_c": 17.85,
-          "vitamin_d": 0,
-          "vitamin_e": 1.79,
-          "vitamin_k": 200.18,
-          "calcium": 215.27,
-          "copper": 0.89,
-          "iron": 3.49,
-          "magnesium": 122.34,
-          "manganese": 2.47,
-          "phosphorus": 329.59,
-          "potassium": 855.57,
-          "selenium": 12.39,
-          "sodium": 355.08,
-          "zinc": 2.25
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/chickpea-waldorf-salad-apples-celery-grapes-walnuts/4083",
-      "altVariants": [
-        {
-          "id": 4072,
-          "recipe_id": 602,
-          "group_label": "Classic",
-          "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "published_recipe_uuid": "5c286359-ea6f-45ba-8f17-86049ac216b2",
-          "fallback_published_recipe_uuids": [
-            "b73ba719-7329-4f6c-82e1-0bc82d3621dd"
-          ],
-          "first_published_at": 1509383963000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            296,
-            92,
-            122,
-            224,
-            272,
-            133,
-            72,
-            117,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            0.25,
-            0.5,
-            14.7868,
-            1.23223,
-            4.92892,
-            4.92892,
-            2.46446
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6244,
-          "recipe_id": 602,
-          "group_label": "Classic",
-          "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "published_recipe_uuid": "09e4080b-139e-49be-8bc7-58197bca771c",
-          "fallback_published_recipe_uuids": [
-            "abcd408d-81b7-4b6d-a728-b3806286be31",
-            "661c57ff-9620-479a-b588-b9784b5b89ae",
-            "8e08b8db-fca0-49fd-8b09-b59dcc1570bd"
-          ],
-          "first_published_at": 1550527080000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            296,
-            92,
-            122,
-            224,
-            272,
-            133,
-            72,
-            117,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            0.75,
-            1.5,
-            44.36025,
-            3.69669,
-            14.78676,
-            14.78676,
-            7.39338
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4083,
-          "recipe_id": 602,
-          "group_label": "Classic",
-          "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "published_recipe_uuid": "097261ca-445c-4383-acca-3333133aefe7",
-          "fallback_published_recipe_uuids": [
-            "dd6cf623-8907-4149-a623-46e5f3f9e123"
-          ],
-          "first_published_at": 1509384195000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            14,
-            13,
-            2
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            296,
-            92,
-            122,
-            224,
-            272,
-            133,
-            72,
-            117,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            2,
-            1,
-            0.5,
-            1,
-            29.5735,
-            2.46446,
-            9.85784,
-            9.85784,
-            4.92892
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4085,
-          "recipe_id": 602,
-          "group_label": "Classic",
-          "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "published_recipe_uuid": "bd0b4c96-6543-4346-9a9f-18698c636ba7",
-          "fallback_published_recipe_uuids": [
-            "a977c509-349a-4012-ae79-f1f9926bc06a"
-          ],
-          "first_published_at": 1509384343000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            296,
-            92,
-            122,
-            224,
-            272,
-            133,
-            72,
-            117,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            2,
-            1,
-            0.227,
-            1,
-            29.5735,
-            2.46446,
-            9.85784,
-            9.85784,
-            4.92892
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6245,
-          "recipe_id": 602,
-          "group_label": "Classic",
-          "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "published_recipe_uuid": "c0cdfced-3821-4226-a60a-44ccb0cadcf4",
-          "fallback_published_recipe_uuids": [
-            "1e1145d3-f64a-4597-b676-47e3d9cbb749",
-            "a5a01515-4a00-46a5-a3ff-dfe8cc8c1aa3",
-            "e351020a-434a-4bed-bb10-75fc0e0a7d65"
-          ],
-          "first_published_at": 1550527658000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            296,
-            92,
-            122,
-            224,
-            272,
-            133,
-            72,
-            117,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            0.3405,
-            1.5,
-            44.36025,
-            3.69669,
-            14.78676,
-            14.78676,
-            7.39338
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4084,
-          "recipe_id": 602,
-          "group_label": "Classic",
-          "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
-          "published_recipe_uuid": "8b5267c5-1a8a-4227-8820-fcae6218d3fa",
-          "fallback_published_recipe_uuids": [
-            "7107a6f6-fc25-4ef8-a6e4-e3d4613f10cf"
-          ],
-          "first_published_at": 1509384285000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            296,
-            92,
-            122,
-            224,
-            272,
-            133,
-            72,
-            117,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            0.113,
-            0.5,
-            14.7868,
-            1.23223,
-            4.92892,
-            4.92892,
-            2.46446
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 4083,
+  "recipe_id": 602,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Chickpea Waldorf Salad with Apples, Celery, Grapes & Walnuts",
+  "slug": "chickpea-waldorf-salad-apples-celery-grapes-walnuts",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/thumbnail_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/602/presentation_2e9f2e5a-3eb9-4438-906a-2917b5c14b8d.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "chickpea-waldorf-salad-apples-celery-grapes-walnuts",
-    "variantId": "4083"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 45822,
+      "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 (5 oz) pkg baby spinach\n2 Gala apples\n4 sticks celery\n½ lb red grapes"
+    },
+    {
+      "id": 45823,
+      "primary_message": "Drain and rinse the chickpeas, then set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 45824,
+      "primary_message": "In a large salad bowl, combine and whisk together yogurt, apple cider vinegar, Dijon, honey, salt, and pepper.",
+      "secondary_message": "1 cup plain Greek yogurt\n2 tbsp apple cider vinegar\n2 tsp Dijon mustard\n2 tsp honey\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 45825,
+      "primary_message": "Quarter the apples lengthwise, then cut out the core and stem from each section; medium dice the apples (cut into ½-inch cubes) and add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 45826,
+      "primary_message": "Trim off and discard the ends of the celery; medium dice the celery (cut into ½-inch cubes) and add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 45827,
+      "primary_message": "Halve or quarter the grapes (depending on the size) and add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 45828,
+      "primary_message": "Roughly chop the walnuts and add to the salad bowl.",
+      "secondary_message": "1 cup walnuts"
+    },
+    {
+      "id": 45829,
+      "primary_message": "Add the chickpeas to the salad bowl; toss the salad until thoroughly coated with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 45830,
+      "primary_message": "To serve, divide the spinach between plates and top with the salad. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 49409,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 49419,
+      "quantity": "4 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 49416,
+      "quantity": "2",
+      "ingredient_name": "Gala apples"
+    },
+    {
+      "id": 49420,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 49415,
+      "quantity": "1 cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 49417,
+      "quantity": "½ lb",
+      "ingredient_name": "red grapes"
+    },
+    {
+      "id": 49418,
+      "quantity": "1 cup",
+      "ingredient_name": "walnuts"
+    },
+    {
+      "id": 49414,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 49410,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 49413,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 49412,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 49411,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 492.87,
+    "alcohol": 0,
+    "ash": 5.13,
+    "caffeine": 0,
+    "water": 341.54,
+    "carbs": 62.88,
+    "fiber": 13.81,
+    "starch": 20.67,
+    "sugars": 25.07,
+    "fructose": 11.68,
+    "galactose": 0.77,
+    "glucose": 7.79,
+    "lactose": 1.56,
+    "maltose": 0.05,
+    "sucrose": 3.23,
+    "sugar_alcohol": 0.02,
+    "fat": 20.67,
+    "monounsaturated": 3.01,
+    "polyunsaturated": 13.23,
+    "omega_3": 2.4,
+    "omega_6": 10.83,
+    "saturated": 1.98,
+    "transfats": 0,
+    "cholesterol": 3.06,
+    "protein": 21.09,
+    "alanine": 0.9,
+    "arginine": 1.75,
+    "aspartic_acid": 2.35,
+    "cystine": 0.3,
+    "glutamic_acid": 3.71,
+    "glycine": 0.78,
+    "histidine": 0.54,
+    "isoleucine": 0.93,
+    "leucine": 1.66,
+    "lysine": 1.35,
+    "methionine": 0.33,
+    "phenylalanine": 0.97,
+    "proline": 1.09,
+    "serine": 1.07,
+    "threonine": 0.85,
+    "tryptophan": 0.27,
+    "tyrosine": 0.58,
+    "valine": 1,
+    "b1_thiamine": 0.23,
+    "b2_riboflavin": 0.39,
+    "b3_niacin": 1.2,
+    "b5_pantothenic_acid": 0.86,
+    "b6_pyridoxine": 0.51,
+    "b12_cobalamin": 0.46,
+    "choline": 80.65,
+    "folate": 177.6,
+    "vitamin_a": 330.73,
+    "vitamin_c": 17.85,
+    "vitamin_d": 0,
+    "vitamin_e": 1.79,
+    "vitamin_k": 200.18,
+    "calcium": 215.27,
+    "copper": 0.89,
+    "iron": 3.49,
+    "magnesium": 122.34,
+    "manganese": 2.47,
+    "phosphorus": 329.59,
+    "potassium": 855.57,
+    "selenium": 12.39,
+    "sodium": 355.08,
+    "zinc": 2.25
+  }
 }

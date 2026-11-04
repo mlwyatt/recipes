@@ -1,1092 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2001,
-        "recipe_id": 225,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-        "slug": "black-bean-veggie-quesadillas-tomato-avocado-salsa",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 18699,
-            "primary_message": "Wash and dry tomatoes, jalapeños, and cilantro.",
-            "secondary_message": "4 tomatoes\r\n2 jalapeño peppers\r\n1 small bunch cilantro"
-          },
-          {
-            "id": 18700,
-            "primary_message": "Medium dice and transfer tomatoes to a medium bowl. Seed, mince, and add ½ of the jalapeños to bowl (save the rest for the quesadilla filling). Halve and pit avocados; scoop out the flesh, medium dice, and add to bowl. Shave cilantro leaves off the stems; discard the stems, mince the leaves, and add ½ to bowl (save the rest for the quesadilla filling). Peel, small dice onion, and add ½ to bowl (save the rest for the quesadilla filling).",
-            "secondary_message": "2 avocados\r\n1 medium red onion"
-          },
-          {
-            "id": 18701,
-            "primary_message": "Drizzle ingredients in bowl with olive oil and lime juice; season with salt and pepper. Mix to combine and set aside.",
-            "secondary_message": "2 tsp extra virgin olive oil\r\njuice of 1 lime\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 18702,
-            "primary_message": "Heat a skillet over medium heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 18703,
-            "primary_message": "Wash, seed, and small dice bell peppers.",
-            "secondary_message": "2 red bell peppers"
-          },
-          {
-            "id": 18704,
-            "primary_message": "Coat bottom of skillet with oil. Add remaining onion, jalapeño, and bell pepper. Stirring frequently, cook until vegetables have softened, 3-4 minutes.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 18705,
-            "primary_message": "Drain and rinse beans.",
-            "secondary_message": "1 (15 oz) can black beans"
-          },
-          {
-            "id": 18706,
-            "primary_message": "Add beans and remaining cilantro to skillet. Then season with chili powder, cumin, salt, and pepper. Stir and cook until beans are warmed through, 2-3 minutes. Transfer to a bowl.",
-            "secondary_message": "1 tsp chili powder \r\n1 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 18707,
-            "primary_message": "Grate 2 cups of cheddar.",
-            "secondary_message": "1 (8 oz) block cheddar cheese"
-          },
-          {
-            "id": 18708,
-            "primary_message": "Wash and dry skillet. Heat over medium heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 18709,
-            "primary_message": "Place tortillas on a flat surface. Layer one half of each tortilla with ⅛ of the cheese, ¼ of the bean mixture, and another ⅛ of the cheese. Fold tortillas over to close.",
-            "secondary_message": "4 large (burrito size) flour tortillas"
-          },
-          {
-            "id": 18710,
-            "primary_message": "Coat skillet with oil. Place 2 of the quesadillas in the skillet, straight edges next to each other. Cook until golden brown on both sides and cheese is melted, 2-3 minutes per side. Repeat with remaining 2 quesadillas.",
-            "secondary_message": "1 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 18711,
-            "primary_message": "Transfer to a cutting board and cut into wedges.",
-            "secondary_message": ""
-          },
-          {
-            "id": 18712,
-            "primary_message": "To serve, place quesadilla on a plate and serve with salsa. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 24934,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 24935,
-            "quantity": "1 (15 oz) can",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 24936,
-            "quantity": "1 (8 oz) block",
-            "ingredient_name": "cheddar cheese"
-          },
-          {
-            "id": 24937,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 24938,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 24943,
-            "quantity": "4",
-            "ingredient_name": "large flour tortillas"
-          },
-          {
-            "id": 24939,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 24941,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 24942,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 24940,
-            "quantity": "4",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 24944,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 24946,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 24947,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 24945,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 24948,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 844.62,
-          "alcohol": 0,
-          "ash": 9.11,
-          "caffeine": 0,
-          "water": 386.02,
-          "carbs": 71.68,
-          "fiber": 19.29,
-          "starch": 36.6,
-          "sugars": 11.39,
-          "fructose": 3.86,
-          "galactose": 0.16,
-          "glucose": 3.93,
-          "lactose": 0.1,
-          "maltose": 2.25,
-          "sucrose": 1.04,
-          "sugar_alcohol": 0,
-          "fat": 51.84,
-          "monounsaturated": 26.27,
-          "polyunsaturated": 5.4,
-          "omega_3": 0.5,
-          "omega_6": 4.77,
-          "saturated": 16.04,
-          "transfats": 1.45,
-          "cholesterol": 57.89,
-          "protein": 28.64,
-          "alanine": 1.03,
-          "arginine": 0.99,
-          "aspartic_acid": 2.57,
-          "cystine": 0.29,
-          "glutamic_acid": 6.38,
-          "glycine": 0.89,
-          "histidine": 0.66,
-          "isoleucine": 1.27,
-          "leucine": 2.16,
-          "lysine": 1.27,
-          "methionine": 0.54,
-          "phenylalanine": 1.37,
-          "proline": 2.5,
-          "serine": 1.22,
-          "threonine": 1.09,
-          "tryptophan": 0.5,
-          "tyrosine": 1.02,
-          "valine": 1.52,
-          "b1_thiamine": 0.66,
-          "b2_riboflavin": 0.63,
-          "b3_niacin": 6.22,
-          "b5_pantothenic_acid": 2.43,
-          "b6_pyridoxine": 0.79,
-          "b12_cobalamin": 0.5,
-          "choline": 74.91,
-          "folate": 329.45,
-          "vitamin_a": 1746.32,
-          "vitamin_c": 122.54,
-          "vitamin_d": 13.62,
-          "vitamin_e": 7.11,
-          "vitamin_k": 110.13,
-          "calcium": 547.94,
-          "copper": 0.59,
-          "iron": 5.81,
-          "magnesium": 124.99,
-          "manganese": 1.21,
-          "phosphorus": 602.33,
-          "potassium": 1468.22,
-          "selenium": 33.81,
-          "sodium": 1067.17,
-          "zinc": 4.17
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/black-bean-veggie-quesadillas-tomato-avocado-salsa/2001",
-      "altVariants": [
-        {
-          "id": 5276,
-          "recipe_id": 225,
-          "group_label": "Classic",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "330f5e0b-a455-494c-b3a3-2c3982eb5740",
-          "fallback_published_recipe_uuids": [
-            "b1425fd1-374a-4406-ac8c-703aade8d757",
-            "1215d440-3e66-43fd-813e-a0368463d49b",
-            "f334b69c-adbe-402f-acdf-9a7b54023a8d"
-          ],
-          "first_published_at": 1550530114000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            43,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            1.5,
-            3,
-            6,
-            1.5,
-            3,
-            1.5,
-            6,
-            3.75,
-            7.5,
-            7.5,
-            82.5,
-            7.5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2004,
-          "recipe_id": 225,
-          "group_label": "Classic Dairy-Free",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "9189458f-8d0d-417c-9a8d-03ad4048af55",
-          "fallback_published_recipe_uuids": [
-            "67a02f56-da42-43a2-be06-1a0188ee6014",
-            "fb29809f-15c5-4813-9477-d8813d579e6b",
-            "5cde7a22-1b44-4ebe-b7aa-66e2d89e6e7c"
-          ],
-          "first_published_at": 1447956365000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            124,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            2,
-            0.5,
-            1,
-            0.5,
-            2,
-            1.25,
-            2.5,
-            2.5,
-            27.5,
-            2.5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": false,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2001,
-          "recipe_id": 225,
-          "group_label": "Classic",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "f4691a1d-328f-42a4-9c0a-913569289475",
-          "fallback_published_recipe_uuids": [
-            "3e249a62-1adb-4bc6-aede-5d7ba35ecf15",
-            "a2201fcb-2281-4b58-a8a5-9af3d1cb0fc2",
-            "2e98cd81-8ef0-450a-8a53-805990581195"
-          ],
-          "first_published_at": 1447956365000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            43,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            2,
-            4,
-            1,
-            2,
-            1,
-            4,
-            2.5,
-            5,
-            5,
-            55,
-            5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1999,
-          "recipe_id": 225,
-          "group_label": "Classic",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "5047e51c-7e8a-40c1-b4e2-dd29acb60c05",
-          "fallback_published_recipe_uuids": [
-            "f5d3201d-8131-46c0-9e54-9fa838304077",
-            "9d0495db-57ce-472e-a9ca-9989359e8b84",
-            "2a9ff612-54ff-44d1-b6ef-49b6fa8e4bdf"
-          ],
-          "first_published_at": 1447956365000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            43,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            2,
-            0.5,
-            1,
-            0.5,
-            2,
-            1.25,
-            2.5,
-            2.5,
-            27.5,
-            2.5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2006,
-          "recipe_id": 225,
-          "group_label": "Classic Dairy-Free",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "db958115-7fbe-4c11-b739-45dc1fbb6009",
-          "fallback_published_recipe_uuids": [
-            "94d2d6cb-ca5f-43c5-8691-5d383513b2db",
-            "0f72c779-2219-4149-a815-80d5fcfbee73",
-            "03157b61-f6f4-4d03-b4ff-6a0a963a3b44"
-          ],
-          "first_published_at": 1447956366000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            124,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            2,
-            4,
-            2,
-            2,
-            1,
-            4,
-            2.5,
-            5,
-            5,
-            55,
-            5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": false,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5277,
-          "recipe_id": 225,
-          "group_label": "Classic",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "64d00803-1f29-47ad-8065-dafea2eedf12",
-          "fallback_published_recipe_uuids": [
-            "339095be-176a-41b5-b00a-b358859fc857",
-            "002fbaba-855d-4132-b38f-4d98187b37c1",
-            "4a2c8dc2-5ea3-4961-a250-ce2b9bd0437f"
-          ],
-          "first_published_at": 1550530192000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            43,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            1.5,
-            3,
-            6,
-            1.5,
-            3,
-            1.5,
-            6,
-            3.75,
-            7.5,
-            7.5,
-            82.5,
-            7.5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2000,
-          "recipe_id": 225,
-          "group_label": "Classic",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "9e363b27-6c32-4a5f-b4ca-b4e5b9bceb13",
-          "fallback_published_recipe_uuids": [
-            "d790527c-97e8-4c92-8b57-01a65c242f8e",
-            "239b4cce-b306-43df-b08f-25b159674eb6",
-            "28113729-1c88-4480-877a-5d21706c0605"
-          ],
-          "first_published_at": 1447956365000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            43,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            2,
-            0.5,
-            1,
-            0.5,
-            2,
-            1.25,
-            2.5,
-            2.5,
-            27.5,
-            2.5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2003,
-          "recipe_id": 225,
-          "group_label": "Classic",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "7d38f84e-fdd0-4069-9964-3c176d5eb1d5",
-          "fallback_published_recipe_uuids": [
-            "c7638f9f-ebf8-4fa2-ba9e-663311370c56",
-            "8d3a36f6-2bbb-4321-a57e-d819493d2752",
-            "c35dd5e9-0300-405f-89a0-5eef060861f9"
-          ],
-          "first_published_at": 1447956365000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            43,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            2,
-            4,
-            1,
-            2,
-            1,
-            4,
-            2.5,
-            5,
-            5,
-            55,
-            5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2007,
-          "recipe_id": 225,
-          "group_label": "Classic Dairy-Free",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "6d61d61f-880e-4f7d-968b-c44032b83227",
-          "fallback_published_recipe_uuids": [
-            "53e11f26-3723-4f67-871a-df582d0c8516",
-            "c05c0eba-42a8-4f90-a03a-7967504086b6",
-            "850911be-37d8-4bb1-b42a-0ab604049155"
-          ],
-          "first_published_at": 1447956366000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            124,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            2,
-            4,
-            2,
-            2,
-            1,
-            4,
-            2.5,
-            5,
-            5,
-            55,
-            5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": false,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2005,
-          "recipe_id": 225,
-          "group_label": "Classic Dairy-Free",
-          "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
-          "published_recipe_uuid": "119c62fc-0a1e-4c63-aa94-7e856f92fc3f",
-          "fallback_published_recipe_uuids": [
-            "33db2b47-d259-49be-af23-5b777949c77b",
-            "329014a5-61b4-43c7-871a-6c4589b0cb3b",
-            "8568f864-dc58-4bea-875c-0afa074ae1a3"
-          ],
-          "first_published_at": 1447956366000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            124,
-            188,
-            151,
-            187,
-            228,
-            150,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            2,
-            0.5,
-            1,
-            0.5,
-            2,
-            1.25,
-            2.5,
-            2.5,
-            27.5,
-            2.5
-          ],
-          "average_rating": 0.882,
-          "rating_count": 611,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": false,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "Mexican",
-        "reviewCount": 611,
-        "reviewScore": 4.4
-      }
+  "id": 2001,
+  "recipe_id": 225,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Black Bean & Veggie Quesadillas with Tomato & Avocado Salsa",
+  "slug": "black-bean-veggie-quesadillas-tomato-avocado-salsa",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/thumbnail_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/225/presentation_62aa6b6f-6a95-4798-9091-09f487ad2dc4.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "black-bean-veggie-quesadillas-tomato-avocado-salsa",
-    "variantId": "2001"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 18699,
+      "primary_message": "Wash and dry tomatoes, jalapeños, and cilantro.",
+      "secondary_message": "4 tomatoes\r\n2 jalapeño peppers\r\n1 small bunch cilantro"
+    },
+    {
+      "id": 18700,
+      "primary_message": "Medium dice and transfer tomatoes to a medium bowl. Seed, mince, and add ½ of the jalapeños to bowl (save the rest for the quesadilla filling). Halve and pit avocados; scoop out the flesh, medium dice, and add to bowl. Shave cilantro leaves off the stems; discard the stems, mince the leaves, and add ½ to bowl (save the rest for the quesadilla filling). Peel, small dice onion, and add ½ to bowl (save the rest for the quesadilla filling).",
+      "secondary_message": "2 avocados\r\n1 medium red onion"
+    },
+    {
+      "id": 18701,
+      "primary_message": "Drizzle ingredients in bowl with olive oil and lime juice; season with salt and pepper. Mix to combine and set aside.",
+      "secondary_message": "2 tsp extra virgin olive oil\r\njuice of 1 lime\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 18702,
+      "primary_message": "Heat a skillet over medium heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 18703,
+      "primary_message": "Wash, seed, and small dice bell peppers.",
+      "secondary_message": "2 red bell peppers"
+    },
+    {
+      "id": 18704,
+      "primary_message": "Coat bottom of skillet with oil. Add remaining onion, jalapeño, and bell pepper. Stirring frequently, cook until vegetables have softened, 3-4 minutes.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 18705,
+      "primary_message": "Drain and rinse beans.",
+      "secondary_message": "1 (15 oz) can black beans"
+    },
+    {
+      "id": 18706,
+      "primary_message": "Add beans and remaining cilantro to skillet. Then season with chili powder, cumin, salt, and pepper. Stir and cook until beans are warmed through, 2-3 minutes. Transfer to a bowl.",
+      "secondary_message": "1 tsp chili powder \r\n1 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 18707,
+      "primary_message": "Grate 2 cups of cheddar.",
+      "secondary_message": "1 (8 oz) block cheddar cheese"
+    },
+    {
+      "id": 18708,
+      "primary_message": "Wash and dry skillet. Heat over medium heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 18709,
+      "primary_message": "Place tortillas on a flat surface. Layer one half of each tortilla with ⅛ of the cheese, ¼ of the bean mixture, and another ⅛ of the cheese. Fold tortillas over to close.",
+      "secondary_message": "4 large (burrito size) flour tortillas"
+    },
+    {
+      "id": 18710,
+      "primary_message": "Coat skillet with oil. Place 2 of the quesadillas in the skillet, straight edges next to each other. Cook until golden brown on both sides and cheese is melted, 2-3 minutes per side. Repeat with remaining 2 quesadillas.",
+      "secondary_message": "1 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 18711,
+      "primary_message": "Transfer to a cutting board and cut into wedges.",
+      "secondary_message": ""
+    },
+    {
+      "id": 18712,
+      "primary_message": "To serve, place quesadilla on a plate and serve with salsa. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 24934,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 24935,
+      "quantity": "1 (15 oz) can",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 24936,
+      "quantity": "1 (8 oz) block",
+      "ingredient_name": "cheddar cheese"
+    },
+    {
+      "id": 24937,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 24938,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 24943,
+      "quantity": "4",
+      "ingredient_name": "large flour tortillas"
+    },
+    {
+      "id": 24939,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 24941,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 24942,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 24940,
+      "quantity": "4",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 24944,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 24946,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 24947,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 24945,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 24948,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 844.62,
+    "alcohol": 0,
+    "ash": 9.11,
+    "caffeine": 0,
+    "water": 386.02,
+    "carbs": 71.68,
+    "fiber": 19.29,
+    "starch": 36.6,
+    "sugars": 11.39,
+    "fructose": 3.86,
+    "galactose": 0.16,
+    "glucose": 3.93,
+    "lactose": 0.1,
+    "maltose": 2.25,
+    "sucrose": 1.04,
+    "sugar_alcohol": 0,
+    "fat": 51.84,
+    "monounsaturated": 26.27,
+    "polyunsaturated": 5.4,
+    "omega_3": 0.5,
+    "omega_6": 4.77,
+    "saturated": 16.04,
+    "transfats": 1.45,
+    "cholesterol": 57.89,
+    "protein": 28.64,
+    "alanine": 1.03,
+    "arginine": 0.99,
+    "aspartic_acid": 2.57,
+    "cystine": 0.29,
+    "glutamic_acid": 6.38,
+    "glycine": 0.89,
+    "histidine": 0.66,
+    "isoleucine": 1.27,
+    "leucine": 2.16,
+    "lysine": 1.27,
+    "methionine": 0.54,
+    "phenylalanine": 1.37,
+    "proline": 2.5,
+    "serine": 1.22,
+    "threonine": 1.09,
+    "tryptophan": 0.5,
+    "tyrosine": 1.02,
+    "valine": 1.52,
+    "b1_thiamine": 0.66,
+    "b2_riboflavin": 0.63,
+    "b3_niacin": 6.22,
+    "b5_pantothenic_acid": 2.43,
+    "b6_pyridoxine": 0.79,
+    "b12_cobalamin": 0.5,
+    "choline": 74.91,
+    "folate": 329.45,
+    "vitamin_a": 1746.32,
+    "vitamin_c": 122.54,
+    "vitamin_d": 13.62,
+    "vitamin_e": 7.11,
+    "vitamin_k": 110.13,
+    "calcium": 547.94,
+    "copper": 0.59,
+    "iron": 5.81,
+    "magnesium": 124.99,
+    "manganese": 1.21,
+    "phosphorus": 602.33,
+    "potassium": 1468.22,
+    "selenium": 33.81,
+    "sodium": 1067.17,
+    "zinc": 4.17
+  }
 }

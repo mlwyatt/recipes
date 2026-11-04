@@ -1,1856 +1,295 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 25958,
-        "recipe_id": 2924,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-        "slug": "pork-skewers-jalapeno-blueberry-sauce-feta-pecan-mixed-greens",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 88,
-            "name": "metal or wooden skewers (optional)",
-            "slug": "metal-or-wooden-skewers"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 413911,
-            "primary_message": "If using wooden skewers, place 8-12 skewers in a shallow dish of water to soak until you are ready to use them.",
-            "secondary_message": null
-          },
-          {
-            "id": 413912,
-            "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
-            "secondary_message": "1 jalapeño pepper\n2 (6 oz) pkgs blueberries\n1 (5 oz) pkg spring mix (mixed greens)"
-          },
-          {
-            "id": 413913,
-            "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon to reduce spice level. Mince and place in a medium saucepan. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
-            "secondary_message": null
-          },
-          {
-            "id": 413914,
-            "primary_message": "Add blueberries to the pan with the jalapeño along with maple syrup, vinegar, ketchup, Worcestershire, and salt. Stir to combine.",
-            "secondary_message": "2 tbsp pure maple syrup\n2 tbsp apple cider vinegar\n2 tbsp ketchup\n1 tsp Worcestershire sauce\n¼ tsp salt"
-          },
-          {
-            "id": 413915,
-            "primary_message": "Set pan over high heat and bring to a boil. Once boiling, reduce heat to medium-low and simmer, stirring occasionally, until saucy and thickened, 6-8 minutes. Remove from heat and allow to cool slightly.",
-            "secondary_message": null
-          },
-          {
-            "id": 413916,
-            "primary_message": "Meanwhile, pat the pork dry with paper towels and cut into 1-inch cubes. Place in a medium bowl along with oil and spices; stir to coat.",
-            "secondary_message": "4 pork chops, boneless\n2 tbsp extra virgin olive oil\n1 ½ tsp paprika\n1 tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 413917,
-            "primary_message": "Thread pork onto skewers and place on a plate. Alternatively, you can cook the pork pieces directly on the grill pan without using skewers. ",
-            "secondary_message": null
-          },
-          {
-            "id": 413918,
-            "primary_message": "Preheat a grill pan, outdoor skillet, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 413919,
-            "primary_message": "Once the pan is hot, add the skewers and grill, turning occasionally, until pork is cooked through, about 8 minutes. Remove to a clean plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 413920,
-            "primary_message": "Meanwhile, using a clean cutting board, peel and mince shallot. Place in a clean medium bowl along with oil, vinegar, Dijon, salt, and pepper; stir to combine the dressing.",
-            "secondary_message": "1 shallot\n2 tbsp extra virgin olive oil\n2 tbsp apple cider vinegar\n2 tsp Dijon mustard\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 413921,
-            "primary_message": "Place corn in the colander and rinse under hot water (from the tap) to defrost. Add to the bowl with dressing.",
-            "secondary_message": "1 cup frozen corn"
-          },
-          {
-            "id": 413922,
-            "primary_message": "Roughly chop pecans. Add to the bowl along with mixed greens and feta. Gently toss to combine the salad.",
-            "secondary_message": "¼ cup pecan halves\n1 (4 oz) pkg crumbled feta cheese"
-          },
-          {
-            "id": 413923,
-            "primary_message": "To serve, divide skewers and salad between plates. Top skewers with sauce and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 443041,
-            "quantity": "2 (6 oz) pkgs",
-            "ingredient_name": "blueberries"
-          },
-          {
-            "id": 443034,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 443050,
-            "quantity": "1 cup",
-            "ingredient_name": "frozen corn"
-          },
-          {
-            "id": 443047,
-            "quantity": "1",
-            "ingredient_name": "jalapeño pepper"
-          },
-          {
-            "id": 443051,
-            "quantity": "¼ cup",
-            "ingredient_name": "pecan halves"
-          },
-          {
-            "id": 443048,
-            "quantity": "4",
-            "ingredient_name": "pork chops, boneless"
-          },
-          {
-            "id": 443045,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 443046,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 443043,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 443036,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 443042,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 443035,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 443037,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 443049,
-            "quantity": "",
-            "ingredient_name": "ketchup"
-          },
-          {
-            "id": 443038,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 443040,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 443039,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 443044,
-            "quantity": "",
-            "ingredient_name": "Worcestershire sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 672.98,
-          "alcohol": 0,
-          "ash": 6,
-          "caffeine": 0,
-          "water": 275.31,
-          "carbs": 34.61,
-          "fiber": 4.98,
-          "starch": 5.94,
-          "sugars": 19.77,
-          "fructose": 5.45,
-          "galactose": 0.01,
-          "glucose": 5.55,
-          "lactose": 1.16,
-          "maltose": 0.06,
-          "sucrose": 7.49,
-          "sugar_alcohol": 0,
-          "fat": 44.55,
-          "monounsaturated": 22.31,
-          "polyunsaturated": 6.4,
-          "omega_3": 0.48,
-          "omega_6": 5.92,
-          "saturated": 13.07,
-          "transfats": 0.44,
-          "cholesterol": 110.69,
-          "protein": 38.21,
-          "alanine": 2.13,
-          "arginine": 2.35,
-          "aspartic_acid": 3.41,
-          "cystine": 0.41,
-          "glutamic_acid": 5.99,
-          "glycine": 1.56,
-          "histidine": 1.44,
-          "isoleucine": 1.8,
-          "leucine": 3.19,
-          "lysine": 3.26,
-          "methionine": 1,
-          "phenylalanine": 1.61,
-          "proline": 1.88,
-          "serine": 1.76,
-          "threonine": 1.64,
-          "tryptophan": 0.45,
-          "tyrosine": 1.5,
-          "valine": 2.01,
-          "b1_thiamine": 1.07,
-          "b2_riboflavin": 0.79,
-          "b3_niacin": 12.51,
-          "b5_pantothenic_acid": 1.69,
-          "b6_pyridoxine": 0.84,
-          "b12_cobalamin": 1.1,
-          "choline": 113.53,
-          "folate": 71.34,
-          "vitamin_a": 333.62,
-          "vitamin_c": 19.46,
-          "vitamin_d": 20.47,
-          "vitamin_e": 3.59,
-          "vitamin_k": 96.41,
-          "calcium": 203.62,
-          "copper": 0.29,
-          "iron": 2.5,
-          "magnesium": 77.99,
-          "manganese": 1.21,
-          "phosphorus": 473.67,
-          "potassium": 891.04,
-          "selenium": 66.06,
-          "sodium": 478.52,
-          "zinc": 3.76
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pork-skewers-jalapeno-blueberry-sauce-feta-pecan-mixed-greens/25958",
-      "altVariants": [
-        {
-          "id": 25959,
-          "recipe_id": 2924,
-          "group_label": "Default",
-          "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "published_recipe_uuid": "5a9c597a-fb62-42e7-8604-583832423f54",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130720000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13,
-            3,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            303,
-            151,
-            327,
-            180,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            1.5,
-            0.3333333333333333,
-            6,
-            2,
-            1.5,
-            90,
-            5,
-            15,
-            90,
-            7.5,
-            45,
-            12.5,
-            45,
-            8.75,
-            7.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25957,
-          "recipe_id": 2924,
-          "group_label": "Default",
-          "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "published_recipe_uuid": "bfc4a1f0-85ab-4180-9e0e-87c1511816dd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130721000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13,
-            3,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            303,
-            151,
-            327,
-            180,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.125,
-            2,
-            0.5,
-            0.5,
-            30,
-            1.25,
-            5,
-            30,
-            2.5,
-            15,
-            3.75,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25963,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian auto-gluten-free",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25963/thumbnail_132f4ee7-33d4-4d80-a82b-380d68dd08f2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25963/presentation_132f4ee7-33d4-4d80-a82b-380d68dd08f2.jpeg",
-          "published_recipe_uuid": "d7c7c222-ef88-4f65-88d3-db14a4a81a8c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130719000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            0.5,
-            30,
-            1.25,
-            5,
-            37.5,
-            3.75,
-            15,
-            5,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25962,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25962/thumbnail_e88a0ed9-4304-4526-b04e-17fcd96bb925.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25962/presentation_e88a0ed9-4304-4526-b04e-17fcd96bb925.jpeg",
-          "published_recipe_uuid": "1e54a535-77eb-455b-ba29-fe5cae40ad63",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130719000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            0.3333333333333333,
-            1.5,
-            1.5,
-            90,
-            5,
-            15,
-            112.5,
-            12.5,
-            45,
-            15,
-            45,
-            8.75,
-            7.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25958,
-          "recipe_id": 2924,
-          "group_label": "Default",
-          "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "published_recipe_uuid": "e148f518-209d-44cc-a077-061868a4eeb6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130720000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13,
-            3,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            303,
-            151,
-            327,
-            180,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            0.25,
-            4,
-            1,
-            1,
-            60,
-            2.5,
-            10,
-            60,
-            5,
-            30,
-            7.5,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25961,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25961/thumbnail_0a359ff7-2ad3-4a91-acdb-9106945f3fad.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25961/presentation_0a359ff7-2ad3-4a91-acdb-9106945f3fad.jpeg",
-          "published_recipe_uuid": "2cf0c60e-3c98-4298-9408-6154934b8422",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130719000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            1,
-            0.25,
-            1,
-            1,
-            60,
-            2.5,
-            10,
-            75,
-            7.5,
-            30,
-            10,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25960,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25960/thumbnail_e11d45e7-8b91-417e-b333-a65705781ef6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25960/presentation_e11d45e7-8b91-417e-b333-a65705781ef6.jpeg",
-          "published_recipe_uuid": "46ca8878-c261-45da-affe-e09356d183e4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130720000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            0.5,
-            30,
-            1.25,
-            5,
-            37.5,
-            3.75,
-            15,
-            5,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25965,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian auto-gluten-free",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25965/thumbnail_6d2a4936-2186-4832-b433-7baca2a6d26b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25965/presentation_6d2a4936-2186-4832-b433-7baca2a6d26b.jpeg",
-          "published_recipe_uuid": "a1c15a49-8022-40aa-9f02-acb6ac6f1c20",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130718000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            0.3333333333333333,
-            1.5,
-            1.5,
-            90,
-            5,
-            15,
-            112.5,
-            12.5,
-            45,
-            15,
-            45,
-            8.75,
-            7.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25964,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian auto-gluten-free",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25964/thumbnail_9d97dab0-18fc-4fe5-8cff-2164f781a832.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25964/presentation_9d97dab0-18fc-4fe5-8cff-2164f781a832.jpeg",
-          "published_recipe_uuid": "ff5ce382-30be-41b1-b382-8ea38ffbe694",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130718000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            1,
-            0.25,
-            1,
-            1,
-            60,
-            2.5,
-            10,
-            75,
-            7.5,
-            30,
-            10,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25974,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian auto-gluten-free",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25974/thumbnail_fb422df1-624c-4889-98cd-6cf04557d62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25974/presentation_fb422df1-624c-4889-98cd-6cf04557d62f.jpeg",
-          "published_recipe_uuid": "db574004-cee2-4ec2-bff9-c43d1af71509",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130715000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            0.3333333333333333,
-            1.5,
-            1.5,
-            90,
-            5,
-            15,
-            112.5,
-            12.5,
-            45,
-            15,
-            45,
-            8.75,
-            7.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25973,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian auto-gluten-free",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25973/thumbnail_6bc9ba42-9911-43aa-af0d-b0e7fddcb642.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25973/presentation_6bc9ba42-9911-43aa-af0d-b0e7fddcb642.jpeg",
-          "published_recipe_uuid": "67224322-2b94-4900-8593-02e57cb9a928",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130715000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            1,
-            0.25,
-            1,
-            1,
-            60,
-            2.5,
-            10,
-            75,
-            7.5,
-            30,
-            10,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25972,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian auto-gluten-free",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25972/thumbnail_1f71ef27-ebb5-432a-ae36-f753efff367e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25972/presentation_1f71ef27-ebb5-432a-ae36-f753efff367e.jpeg",
-          "published_recipe_uuid": "d22243f4-b390-4903-8267-65f568097029",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130716000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            0.5,
-            30,
-            1.25,
-            5,
-            37.5,
-            3.75,
-            15,
-            5,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25971,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25971/thumbnail_89439493-408f-4e75-9e76-c37a106ebbd9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25971/presentation_89439493-408f-4e75-9e76-c37a106ebbd9.jpeg",
-          "published_recipe_uuid": "bb0061fd-c172-4d14-b654-a4cabf2ec4dc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130716000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            0.3333333333333333,
-            1.5,
-            1.5,
-            90,
-            5,
-            15,
-            112.5,
-            12.5,
-            45,
-            15,
-            45,
-            8.75,
-            7.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25970,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25970/thumbnail_4b672b79-b6b1-4b10-8357-1236c647ce26.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25970/presentation_4b672b79-b6b1-4b10-8357-1236c647ce26.jpeg",
-          "published_recipe_uuid": "fea9bfb6-fd9a-42f0-81c9-145b1297a465",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130716000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            1,
-            0.25,
-            1,
-            1,
-            60,
-            2.5,
-            10,
-            75,
-            7.5,
-            30,
-            10,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25969,
-          "recipe_id": 2924,
-          "group_label": "Vegetarian",
-          "name": "Tofu Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25969/thumbnail_458fcd67-5609-4afc-99ba-b46834e2f012.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25969/presentation_458fcd67-5609-4afc-99ba-b46834e2f012.jpeg",
-          "published_recipe_uuid": "edee054a-ab0d-4b2b-ad1c-c915d6eef600",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130717000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            56,
-            303,
-            151,
-            327,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            0.5,
-            30,
-            1.25,
-            5,
-            37.5,
-            3.75,
-            15,
-            5,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25968,
-          "recipe_id": 2924,
-          "group_label": "Default",
-          "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "published_recipe_uuid": "54c24fd9-4b4b-4b3f-8ef2-558438220b77",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130717000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13,
-            3,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            303,
-            151,
-            327,
-            180,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            1.5,
-            0.3333333333333333,
-            6,
-            2,
-            1.5,
-            90,
-            5,
-            15,
-            90,
-            7.5,
-            45,
-            12.5,
-            45,
-            8.75,
-            7.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25967,
-          "recipe_id": 2924,
-          "group_label": "Default",
-          "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "published_recipe_uuid": "30bf0b91-5e82-4520-aae8-34d1ee4bf22c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130718000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13,
-            3,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            303,
-            151,
-            327,
-            180,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            0.25,
-            4,
-            1,
-            1,
-            60,
-            2.5,
-            10,
-            60,
-            5,
-            30,
-            7.5,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25966,
-          "recipe_id": 2924,
-          "group_label": "Default",
-          "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
-          "published_recipe_uuid": "71fde5e6-6204-4626-9340-dcd0206ff9ef",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130718000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13,
-            3,
-            6
-          ],
-          "ingredient_ids": [
-            114,
-            32,
-            303,
-            151,
-            327,
-            180,
-            144,
-            145,
-            133,
-            72,
-            117,
-            47,
-            79,
-            273,
-            83,
-            104,
-            88,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.125,
-            2,
-            0.5,
-            0.5,
-            30,
-            1.25,
-            5,
-            30,
-            2.5,
-            15,
-            3.75,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.87,
-          "rating_count": 223,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "BBQ & Grilling"
-        ],
-        "cuisine": "",
-        "reviewCount": 223,
-        "reviewScore": 4.3
-      }
+  "id": 25958,
+  "recipe_id": 2924,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Pork Skewers with Jalapeño Blueberry Sauce & Feta-Pecan Mixed Greens",
+  "slug": "pork-skewers-jalapeno-blueberry-sauce-feta-pecan-mixed-greens",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/thumbnail_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2924/presentation_58abb6cb-24ed-4c91-b483-77d3b4b60d2a.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pork-skewers-jalapeno-blueberry-sauce-feta-pecan-mixed-greens",
-    "variantId": "25958"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 88,
+      "name": "metal or wooden skewers (optional)",
+      "slug": "metal-or-wooden-skewers"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 413911,
+      "primary_message": "If using wooden skewers, place 8-12 skewers in a shallow dish of water to soak until you are ready to use them.",
+      "secondary_message": null
+    },
+    {
+      "id": 413912,
+      "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
+      "secondary_message": "1 jalapeño pepper\n2 (6 oz) pkgs blueberries\n1 (5 oz) pkg spring mix (mixed greens)"
+    },
+    {
+      "id": 413913,
+      "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon to reduce spice level. Mince and place in a medium saucepan. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
+      "secondary_message": null
+    },
+    {
+      "id": 413914,
+      "primary_message": "Add blueberries to the pan with the jalapeño along with maple syrup, vinegar, ketchup, Worcestershire, and salt. Stir to combine.",
+      "secondary_message": "2 tbsp pure maple syrup\n2 tbsp apple cider vinegar\n2 tbsp ketchup\n1 tsp Worcestershire sauce\n¼ tsp salt"
+    },
+    {
+      "id": 413915,
+      "primary_message": "Set pan over high heat and bring to a boil. Once boiling, reduce heat to medium-low and simmer, stirring occasionally, until saucy and thickened, 6-8 minutes. Remove from heat and allow to cool slightly.",
+      "secondary_message": null
+    },
+    {
+      "id": 413916,
+      "primary_message": "Meanwhile, pat the pork dry with paper towels and cut into 1-inch cubes. Place in a medium bowl along with oil and spices; stir to coat.",
+      "secondary_message": "4 pork chops, boneless\n2 tbsp extra virgin olive oil\n1 ½ tsp paprika\n1 tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 413917,
+      "primary_message": "Thread pork onto skewers and place on a plate. Alternatively, you can cook the pork pieces directly on the grill pan without using skewers. ",
+      "secondary_message": null
+    },
+    {
+      "id": 413918,
+      "primary_message": "Preheat a grill pan, outdoor skillet, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 413919,
+      "primary_message": "Once the pan is hot, add the skewers and grill, turning occasionally, until pork is cooked through, about 8 minutes. Remove to a clean plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 413920,
+      "primary_message": "Meanwhile, using a clean cutting board, peel and mince shallot. Place in a clean medium bowl along with oil, vinegar, Dijon, salt, and pepper; stir to combine the dressing.",
+      "secondary_message": "1 shallot\n2 tbsp extra virgin olive oil\n2 tbsp apple cider vinegar\n2 tsp Dijon mustard\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 413921,
+      "primary_message": "Place corn in the colander and rinse under hot water (from the tap) to defrost. Add to the bowl with dressing.",
+      "secondary_message": "1 cup frozen corn"
+    },
+    {
+      "id": 413922,
+      "primary_message": "Roughly chop pecans. Add to the bowl along with mixed greens and feta. Gently toss to combine the salad.",
+      "secondary_message": "¼ cup pecan halves\n1 (4 oz) pkg crumbled feta cheese"
+    },
+    {
+      "id": 413923,
+      "primary_message": "To serve, divide skewers and salad between plates. Top skewers with sauce and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 443041,
+      "quantity": "2 (6 oz) pkgs",
+      "ingredient_name": "blueberries"
+    },
+    {
+      "id": 443034,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 443050,
+      "quantity": "1 cup",
+      "ingredient_name": "frozen corn"
+    },
+    {
+      "id": 443047,
+      "quantity": "1",
+      "ingredient_name": "jalapeño pepper"
+    },
+    {
+      "id": 443051,
+      "quantity": "¼ cup",
+      "ingredient_name": "pecan halves"
+    },
+    {
+      "id": 443048,
+      "quantity": "4",
+      "ingredient_name": "pork chops, boneless"
+    },
+    {
+      "id": 443045,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 443046,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 443043,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 443036,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 443042,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 443035,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 443037,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 443049,
+      "quantity": "",
+      "ingredient_name": "ketchup"
+    },
+    {
+      "id": 443038,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 443040,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 443039,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 443044,
+      "quantity": "",
+      "ingredient_name": "Worcestershire sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 672.98,
+    "alcohol": 0,
+    "ash": 6,
+    "caffeine": 0,
+    "water": 275.31,
+    "carbs": 34.61,
+    "fiber": 4.98,
+    "starch": 5.94,
+    "sugars": 19.77,
+    "fructose": 5.45,
+    "galactose": 0.01,
+    "glucose": 5.55,
+    "lactose": 1.16,
+    "maltose": 0.06,
+    "sucrose": 7.49,
+    "sugar_alcohol": 0,
+    "fat": 44.55,
+    "monounsaturated": 22.31,
+    "polyunsaturated": 6.4,
+    "omega_3": 0.48,
+    "omega_6": 5.92,
+    "saturated": 13.07,
+    "transfats": 0.44,
+    "cholesterol": 110.69,
+    "protein": 38.21,
+    "alanine": 2.13,
+    "arginine": 2.35,
+    "aspartic_acid": 3.41,
+    "cystine": 0.41,
+    "glutamic_acid": 5.99,
+    "glycine": 1.56,
+    "histidine": 1.44,
+    "isoleucine": 1.8,
+    "leucine": 3.19,
+    "lysine": 3.26,
+    "methionine": 1,
+    "phenylalanine": 1.61,
+    "proline": 1.88,
+    "serine": 1.76,
+    "threonine": 1.64,
+    "tryptophan": 0.45,
+    "tyrosine": 1.5,
+    "valine": 2.01,
+    "b1_thiamine": 1.07,
+    "b2_riboflavin": 0.79,
+    "b3_niacin": 12.51,
+    "b5_pantothenic_acid": 1.69,
+    "b6_pyridoxine": 0.84,
+    "b12_cobalamin": 1.1,
+    "choline": 113.53,
+    "folate": 71.34,
+    "vitamin_a": 333.62,
+    "vitamin_c": 19.46,
+    "vitamin_d": 20.47,
+    "vitamin_e": 3.59,
+    "vitamin_k": 96.41,
+    "calcium": 203.62,
+    "copper": 0.29,
+    "iron": 2.5,
+    "magnesium": 77.99,
+    "manganese": 1.21,
+    "phosphorus": 473.67,
+    "potassium": 891.04,
+    "selenium": 66.06,
+    "sodium": 478.52,
+    "zinc": 3.76
+  }
 }

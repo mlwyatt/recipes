@@ -1,672 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4046,
-        "recipe_id": 593,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Pan-Fried Salmon with Creamy Green Beans",
-        "slug": "pan-fried-salmon-creamy-green-beans",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 45345,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 ½ lb green beans\n1 lemon"
-          },
-          {
-            "id": 45346,
-            "primary_message": "Fill a medium saucepan about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 45347,
-            "primary_message": "Trim and discard the ends of the green beans, then halve the green beans and transfer to a medium bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 45348,
-            "primary_message": "Juice the lemon into a large salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 45349,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the lemon juice.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 45350,
-            "primary_message": "Once the water in the saucepan is boiling, add the green beans. Cook until bright green and tender-crisp, 3 to 4 minutes. Once done, drain in a colander and rinse under cold water to stop the cooking process. Set aside to drain further.",
-            "secondary_message": null
-          },
-          {
-            "id": 45351,
-            "primary_message": "To the lemon juice and garlic, add yogurt, olive oil, salt, and pepper; whisk together.",
-            "secondary_message": "½ cup plain Greek yogurt\n2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 45352,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 45353,
-            "primary_message": "While the skillet heats up, pat the salmon dry with paper towels and place on a plate; season generously with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb salmon fillet\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 45354,
-            "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 45355,
-            "primary_message": "Carefully place the salmon, skin-side-down, in the skillet; cook until the flesh is opaque and flaky, 3 to 4 minutes per side (depending on thickness). Once done, transfer the salmon to a plate.",
-            "secondary_message": ""
-          },
-          {
-            "id": 45356,
-            "primary_message": "Add the green beans to the salad bowl and toss to thoroughly coat in the dressing.",
-            "secondary_message": ""
-          },
-          {
-            "id": 45357,
-            "primary_message": "To serve, divide the green beans and salmon between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 49089,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 49092,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "green beans"
-          },
-          {
-            "id": 49086,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 49088,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 49093,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "salmon fillet"
-          },
-          {
-            "id": 49090,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 49085,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 49091,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 49087,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 374.35,
-          "alcohol": 0,
-          "ash": 5.75,
-          "caffeine": 0,
-          "water": 315.3,
-          "carbs": 14.56,
-          "fiber": 4.77,
-          "starch": 2.32,
-          "sugars": 6.86,
-          "fructose": 2.5,
-          "galactose": 0.22,
-          "glucose": 2.69,
-          "lactose": 0.78,
-          "maltose": 0,
-          "sucrose": 0.67,
-          "sugar_alcohol": 0.01,
-          "fat": 16.29,
-          "monounsaturated": 5.51,
-          "polyunsaturated": 3.89,
-          "omega_3": 2.85,
-          "omega_6": 0.94,
-          "saturated": 5.53,
-          "transfats": 0.01,
-          "cholesterol": 78.07,
-          "protein": 43.19,
-          "alanine": 2.5,
-          "arginine": 2.42,
-          "aspartic_acid": 4.51,
-          "cystine": 0.48,
-          "glutamic_acid": 6.42,
-          "glycine": 1.94,
-          "histidine": 1.21,
-          "isoleucine": 1.97,
-          "leucine": 3.49,
-          "lysine": 3.8,
-          "methionine": 1.19,
-          "phenylalanine": 1.67,
-          "proline": 1.64,
-          "serine": 1.83,
-          "threonine": 1.9,
-          "tryptophan": 0.5,
-          "tyrosine": 1.41,
-          "valine": 2.22,
-          "b1_thiamine": 0.35,
-          "b2_riboflavin": 0.5,
-          "b3_niacin": 13.64,
-          "b5_pantothenic_acid": 1.91,
-          "b6_pyridoxine": 1.22,
-          "b12_cobalamin": 7.32,
-          "choline": 217.76,
-          "folate": 76.1,
-          "vitamin_a": 1407.74,
-          "vitamin_c": 27.56,
-          "vitamin_d": 614.05,
-          "vitamin_e": 2.29,
-          "vitamin_k": 26.77,
-          "calcium": 163.77,
-          "copper": 0.22,
-          "iron": 2.82,
-          "magnesium": 100.49,
-          "manganese": 0.48,
-          "phosphorus": 555.57,
-          "potassium": 1140.18,
-          "selenium": 66.33,
-          "sodium": 100.85,
-          "zinc": 1.3
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-fried-salmon-creamy-green-beans/4046",
-      "altVariants": [
-        {
-          "id": 6226,
-          "recipe_id": 593,
-          "group_label": "Classic",
-          "name": "Pan-Fried Salmon with Creamy Green Beans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "published_recipe_uuid": "3c988d5b-3e42-4eb8-abc9-d3df3be7612e",
-          "fallback_published_recipe_uuids": [
-            "59cb66aa-eece-4749-bf60-724420641708",
-            "20e49b56-de2f-4495-9c6b-5433fd00cd7b"
-          ],
-          "first_published_at": 1550530765000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2
-          ],
-          "ingredient_ids": [
-            24,
-            111,
-            192,
-            122,
-            6,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            2.25,
-            1.5,
-            0.75,
-            2.25,
-            5.5450349999999995,
-            14.78676,
-            11.090069999999999,
-            22.1802
-          ],
-          "average_rating": 0.688,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4046,
-          "recipe_id": 593,
-          "group_label": "Classic",
-          "name": "Pan-Fried Salmon with Creamy Green Beans",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "published_recipe_uuid": "4124c313-5918-4db3-83ec-58a737bc3bb1",
-          "fallback_published_recipe_uuids": [
-            "999f8a57-f1c3-4caf-92bd-0a800cc28d0d"
-          ],
-          "first_published_at": 1504813932000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            24,
-            111,
-            192,
-            122,
-            6,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1.5,
-            1,
-            0.5,
-            1.5,
-            3.69669,
-            9.85784,
-            7.39338,
-            14.7868
-          ],
-          "average_rating": 0.688,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4021,
-          "recipe_id": 593,
-          "group_label": "Classic",
-          "name": "Pan-Fried Salmon with Creamy Green Beans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "published_recipe_uuid": "eb253411-c088-4fd7-a859-569182ed5c0d",
-          "fallback_published_recipe_uuids": [
-            "2a3d3013-3e47-43d7-b513-1b37f1f090fa"
-          ],
-          "first_published_at": 1504802247000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2
-          ],
-          "ingredient_ids": [
-            24,
-            111,
-            192,
-            122,
-            6,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.75,
-            0.5,
-            0.25,
-            0.75,
-            1.848345,
-            4.92892,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.688,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6227,
-          "recipe_id": 593,
-          "group_label": "Classic",
-          "name": "Pan-Fried Salmon with Creamy Green Beans",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "published_recipe_uuid": "f61f8cae-9cb6-415a-850a-cf109da0637f",
-          "fallback_published_recipe_uuids": [
-            "dd0ab7b7-8eb4-4958-a0ac-2f46fb42437c",
-            "55ccb949-2943-4723-a409-0fda59d47f12"
-          ],
-          "first_published_at": 1550530769000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            24,
-            111,
-            192,
-            122,
-            6,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.02,
-            1.5,
-            0.75,
-            1.02,
-            5.5450349999999995,
-            14.78676,
-            11.090069999999999,
-            22.1802
-          ],
-          "average_rating": 0.688,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4048,
-          "recipe_id": 593,
-          "group_label": "Classic",
-          "name": "Pan-Fried Salmon with Creamy Green Beans",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "published_recipe_uuid": "49acb4cb-7760-4e8f-a056-c3a79304c733",
-          "fallback_published_recipe_uuids": [
-            "52d1da15-3576-4c6e-a2ad-b2e9fe3b610d"
-          ],
-          "first_published_at": 1504814028000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            24,
-            111,
-            192,
-            122,
-            6,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            0.68,
-            1,
-            0.5,
-            0.68,
-            3.69669,
-            9.85784,
-            7.39338,
-            14.7868
-          ],
-          "average_rating": 0.688,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4047,
-          "recipe_id": 593,
-          "group_label": "Classic",
-          "name": "Pan-Fried Salmon with Creamy Green Beans",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
-          "published_recipe_uuid": "43cb02ff-85c7-4fcc-a296-f5aa1b03415f",
-          "fallback_published_recipe_uuids": [
-            "8a08cfd7-bbbf-41a2-8ec3-d00158a2c432"
-          ],
-          "first_published_at": 1504813986000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            24,
-            111,
-            192,
-            122,
-            6,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.34,
-            0.5,
-            0.25,
-            0.34,
-            1.848345,
-            4.92892,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.688,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 4046,
+  "recipe_id": 593,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Pan-Fried Salmon with Creamy Green Beans",
+  "slug": "pan-fried-salmon-creamy-green-beans",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/thumbnail_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/593/presentation_c1fde194-d746-4917-b2df-6153a24c5d8f.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pan-fried-salmon-creamy-green-beans",
-    "variantId": "4046"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 45345,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 ½ lb green beans\n1 lemon"
+    },
+    {
+      "id": 45346,
+      "primary_message": "Fill a medium saucepan about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 45347,
+      "primary_message": "Trim and discard the ends of the green beans, then halve the green beans and transfer to a medium bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 45348,
+      "primary_message": "Juice the lemon into a large salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 45349,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the lemon juice.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 45350,
+      "primary_message": "Once the water in the saucepan is boiling, add the green beans. Cook until bright green and tender-crisp, 3 to 4 minutes. Once done, drain in a colander and rinse under cold water to stop the cooking process. Set aside to drain further.",
+      "secondary_message": null
+    },
+    {
+      "id": 45351,
+      "primary_message": "To the lemon juice and garlic, add yogurt, olive oil, salt, and pepper; whisk together.",
+      "secondary_message": "½ cup plain Greek yogurt\n2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 45352,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 45353,
+      "primary_message": "While the skillet heats up, pat the salmon dry with paper towels and place on a plate; season generously with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb salmon fillet\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 45354,
+      "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 45355,
+      "primary_message": "Carefully place the salmon, skin-side-down, in the skillet; cook until the flesh is opaque and flaky, 3 to 4 minutes per side (depending on thickness). Once done, transfer the salmon to a plate.",
+      "secondary_message": ""
+    },
+    {
+      "id": 45356,
+      "primary_message": "Add the green beans to the salad bowl and toss to thoroughly coat in the dressing.",
+      "secondary_message": ""
+    },
+    {
+      "id": 45357,
+      "primary_message": "To serve, divide the green beans and salmon between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 49089,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 49092,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "green beans"
+    },
+    {
+      "id": 49086,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 49088,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 49093,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "salmon fillet"
+    },
+    {
+      "id": 49090,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 49085,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 49091,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 49087,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 374.35,
+    "alcohol": 0,
+    "ash": 5.75,
+    "caffeine": 0,
+    "water": 315.3,
+    "carbs": 14.56,
+    "fiber": 4.77,
+    "starch": 2.32,
+    "sugars": 6.86,
+    "fructose": 2.5,
+    "galactose": 0.22,
+    "glucose": 2.69,
+    "lactose": 0.78,
+    "maltose": 0,
+    "sucrose": 0.67,
+    "sugar_alcohol": 0.01,
+    "fat": 16.29,
+    "monounsaturated": 5.51,
+    "polyunsaturated": 3.89,
+    "omega_3": 2.85,
+    "omega_6": 0.94,
+    "saturated": 5.53,
+    "transfats": 0.01,
+    "cholesterol": 78.07,
+    "protein": 43.19,
+    "alanine": 2.5,
+    "arginine": 2.42,
+    "aspartic_acid": 4.51,
+    "cystine": 0.48,
+    "glutamic_acid": 6.42,
+    "glycine": 1.94,
+    "histidine": 1.21,
+    "isoleucine": 1.97,
+    "leucine": 3.49,
+    "lysine": 3.8,
+    "methionine": 1.19,
+    "phenylalanine": 1.67,
+    "proline": 1.64,
+    "serine": 1.83,
+    "threonine": 1.9,
+    "tryptophan": 0.5,
+    "tyrosine": 1.41,
+    "valine": 2.22,
+    "b1_thiamine": 0.35,
+    "b2_riboflavin": 0.5,
+    "b3_niacin": 13.64,
+    "b5_pantothenic_acid": 1.91,
+    "b6_pyridoxine": 1.22,
+    "b12_cobalamin": 7.32,
+    "choline": 217.76,
+    "folate": 76.1,
+    "vitamin_a": 1407.74,
+    "vitamin_c": 27.56,
+    "vitamin_d": 614.05,
+    "vitamin_e": 2.29,
+    "vitamin_k": 26.77,
+    "calcium": 163.77,
+    "copper": 0.22,
+    "iron": 2.82,
+    "magnesium": 100.49,
+    "manganese": 0.48,
+    "phosphorus": 555.57,
+    "potassium": 1140.18,
+    "selenium": 66.33,
+    "sodium": 100.85,
+    "zinc": 1.3
+  }
 }

@@ -1,809 +1,290 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 8576,
-        "recipe_id": 966,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
-        "slug": "lentil-taco-lettuce-wraps-sauteed-veggies-lime-crema",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 130035,
-            "primary_message": "Rinse lentils under cold water and transfer to a medium saucepan. Add water and bring to a boil, then reduce the heat to a simmer, cover with a lid, and cook until the lentils are just tender, 15 minutes.",
-            "secondary_message": "1 cup red lentils\n2 cup water"
-          },
-          {
-            "id": 130036,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n1 pint grape tomatoes\n1 avocado\n1 small bunch cilantro\n1 lime\n1 head butter (Boston) lettuce"
-          },
-          {
-            "id": 130037,
-            "primary_message": "Seed bell peppers, slice into thin strips. Peel, halve, and thinly slice onion.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 130038,
-            "primary_message": "Preheat a skillet over medium heat. Once the skillet is hot, add oil and swirl to coat. Add onions, bell peppers, salt, and pepper; cook, stirring occasionally, until soft, about 8 minutes.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 130039,
-            "primary_message": "Quarter tomatoes and set aside. ",
-            "secondary_message": null
-          },
-          {
-            "id": 130040,
-            "primary_message": "Halve and pit the avocado; slice crosswise and then lengthwise to form cubes while still in the skin and scoop out with a spoon. ",
-            "secondary_message": null
-          },
-          {
-            "id": 130041,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and roughly chop the leaves. Set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 130042,
-            "primary_message": "Finely chop walnuts and place in a medium bowl. ",
-            "secondary_message": "1 cup walnuts"
-          },
-          {
-            "id": 130043,
-            "primary_message": "Peel and mince garlic; add to the bowl with the walnuts. ",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 130044,
-            "primary_message": "Add oil, water, and spices to the bowl.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n2 tbsp water\n2 tsp chili powder\n1 tsp oregano\n1 tsp cumin\n½ tsp salt"
-          },
-          {
-            "id": 130045,
-            "primary_message": "Add the cooked lentils to the bowl and stir until well combined. ",
-            "secondary_message": null
-          },
-          {
-            "id": 130046,
-            "primary_message": "To make the crema, juice the lime into a small bowl; add mayo and whisk to combine. ",
-            "secondary_message": "¼ cup vegan mayonnaise"
-          },
-          {
-            "id": 130047,
-            "primary_message": "Separate the lettuce into leaves. Pile leaves, in stacks of two per wrap, onto plates. Top with lentil taco \"meat\", veggies, cilantro, and crema. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 135026,
-            "quantity": "1",
-            "ingredient_name": "avocado"
-          },
-          {
-            "id": 135033,
-            "quantity": "1 head",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 135029,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 135019,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 135032,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 135030,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 135025,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 135027,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 135031,
-            "quantity": "1 cup",
-            "ingredient_name": "walnuts"
-          },
-          {
-            "id": 135021,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 135022,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 135028,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 135020,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 135023,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 135034,
-            "quantity": "",
-            "ingredient_name": "red lentils, dried"
-          },
-          {
-            "id": 135024,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 135035,
-            "quantity": "",
-            "ingredient_name": "vegan mayonnaise"
-          }
-        ],
-        "nutrition": {
-          "energy": 692.42,
-          "alcohol": 0,
-          "ash": 5.89,
-          "caffeine": 0,
-          "water": 258.28,
-          "carbs": 50.01,
-          "fiber": 14.29,
-          "starch": 22.41,
-          "sugars": 7.46,
-          "fructose": 3.15,
-          "galactose": 0.05,
-          "glucose": 3.15,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.98,
-          "sugar_alcohol": 0,
-          "fat": 50.35,
-          "monounsaturated": 19.4,
-          "polyunsaturated": 22.66,
-          "omega_3": 3.04,
-          "omega_6": 19.63,
-          "saturated": 5.98,
-          "transfats": 0.02,
-          "cholesterol": 8.26,
-          "protein": 18.81,
-          "alanine": 0.79,
-          "arginine": 1.61,
-          "aspartic_acid": 2.24,
-          "cystine": 0.24,
-          "glutamic_acid": 3.27,
-          "glycine": 0.79,
-          "histidine": 0.48,
-          "isoleucine": 0.76,
-          "leucine": 1.3,
-          "lysine": 1.06,
-          "methionine": 0.2,
-          "phenylalanine": 0.88,
-          "proline": 0.78,
-          "serine": 0.91,
-          "threonine": 0.67,
-          "tryptophan": 0.18,
-          "tyrosine": 0.47,
-          "valine": 0.89,
-          "b1_thiamine": 0.47,
-          "b2_riboflavin": 0.3,
-          "b3_niacin": 3.46,
-          "b5_pantothenic_acid": 1.54,
-          "b6_pyridoxine": 0.91,
-          "b12_cobalamin": 0.04,
-          "choline": 34.74,
-          "folate": 246.9,
-          "vitamin_a": 744.95,
-          "vitamin_c": 104.56,
-          "vitamin_d": 0,
-          "vitamin_e": 8.79,
-          "vitamin_k": 138.6,
-          "calcium": 110.04,
-          "copper": 1.23,
-          "iron": 6.61,
-          "magnesium": 115.38,
-          "manganese": 2.15,
-          "phosphorus": 325.13,
-          "potassium": 1217.06,
-          "selenium": 2.82,
-          "sodium": 107.28,
-          "zinc": 3.37
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/lentil-taco-lettuce-wraps-sauteed-veggies-lime-crema/8576",
-      "altVariants": [
-        {
-          "id": 8577,
-          "recipe_id": 966,
-          "group_label": "Default",
-          "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "published_recipe_uuid": "14cf093a-f707-4c3d-93ff-5cf8a04cbe65",
-          "fallback_published_recipe_uuids": [
-            "cc612ed0-e87e-494e-9e88-fc5cbb238559",
-            "f96a7bb6-fbbd-4cdf-9370-1da6992f82e7",
-            "adad8ef9-c35a-4841-9a60-f1bdb1378108"
-          ],
-          "first_published_at": 1571330605000,
-          "allowed_type_ids": [
-            6,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            277,
-            228,
-            150,
-            184,
-            272,
-            72,
-            75,
-            186,
-            47,
-            82,
-            338,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            1.875,
-            15,
-            7.5,
-            90,
-            7.5,
-            360,
-            7.5,
-            90
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            33,
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8576,
-          "recipe_id": 966,
-          "group_label": "Default",
-          "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "published_recipe_uuid": "0e665193-fbe5-42bf-a847-06b50de56bbe",
-          "fallback_published_recipe_uuids": [
-            "2c2dd760-62f5-4514-bfd2-7d8ad5aa6fc2",
-            "c6f0318e-b01c-48f5-8bc3-736176773be7",
-            "3fe477d3-20df-458b-9da2-a95d28a0c918"
-          ],
-          "first_published_at": 1571330604000,
-          "allowed_type_ids": [
-            6,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            277,
-            228,
-            150,
-            184,
-            272,
-            72,
-            75,
-            186,
-            47,
-            82,
-            338,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            2,
-            1,
-            1,
-            1.25,
-            10,
-            5,
-            60,
-            5,
-            240,
-            5,
-            60
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            33,
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8575,
-          "recipe_id": 966,
-          "group_label": "Default",
-          "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "published_recipe_uuid": "1f78462c-97d1-42e2-aa5c-b6b05d6f770e",
-          "fallback_published_recipe_uuids": [
-            "f6711923-8db8-4301-bde3-4b4040facf6f",
-            "6c037acd-6e77-4181-8f5e-d76bce1e4321",
-            "ab1a4d11-3998-4c6b-ab06-c723d45b7e34"
-          ],
-          "first_published_at": 1571330603000,
-          "allowed_type_ids": [
-            6,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            277,
-            228,
-            150,
-            184,
-            272,
-            72,
-            75,
-            186,
-            47,
-            82,
-            338,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.625,
-            5,
-            2.5,
-            30,
-            2.5,
-            120,
-            2.5,
-            30
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            33,
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8580,
-          "recipe_id": 966,
-          "group_label": "Default",
-          "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "published_recipe_uuid": "c7f5461e-7e68-4807-82a8-36cdea416226",
-          "fallback_published_recipe_uuids": [
-            "99f5652c-45ce-4470-8a2d-9cac4605b339",
-            "2d0cccf1-fda7-4bcd-90da-9c107c9df00a",
-            "e3b07153-ca2a-45cf-afb4-9377eafa61b9"
-          ],
-          "first_published_at": 1571330607000,
-          "allowed_type_ids": [
-            6,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            277,
-            228,
-            150,
-            184,
-            272,
-            72,
-            75,
-            186,
-            47,
-            82,
-            338,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            3,
-            1.5,
-            1.5,
-            1.875,
-            15,
-            7.5,
-            90,
-            7.5,
-            360,
-            7.5,
-            90
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            33,
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8579,
-          "recipe_id": 966,
-          "group_label": "Default",
-          "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "published_recipe_uuid": "4ac94f0d-90e4-436f-be4a-839543749942",
-          "fallback_published_recipe_uuids": [
-            "ca953b5b-dbf6-4beb-aa39-4bdd10560ad6",
-            "d1cdf9fd-dd4b-4a4f-a228-45368092b6bd",
-            "00bfc60c-2ea6-47c1-902a-4e02b57ef37f"
-          ],
-          "first_published_at": 1571330606000,
-          "allowed_type_ids": [
-            6,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            277,
-            228,
-            150,
-            184,
-            272,
-            72,
-            75,
-            186,
-            47,
-            82,
-            338,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            2,
-            1,
-            1,
-            1.25,
-            10,
-            5,
-            60,
-            5,
-            240,
-            5,
-            60
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            33,
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8578,
-          "recipe_id": 966,
-          "group_label": "Default",
-          "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
-          "published_recipe_uuid": "1c709156-b6b9-49a0-8448-0795bdadaed6",
-          "fallback_published_recipe_uuids": [
-            "358b03e0-e433-428e-9a0d-cf4ce13be863",
-            "cb57e6c0-4669-449a-a7b9-d58d0e9535bb",
-            "4d5cff0c-2553-4c54-858d-666ddbeb7d24"
-          ],
-          "first_published_at": 1571330606000,
-          "allowed_type_ids": [
-            6,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            188,
-            24,
-            277,
-            228,
-            150,
-            184,
-            272,
-            72,
-            75,
-            186,
-            47,
-            82,
-            338,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.625,
-            5,
-            2.5,
-            30,
-            2.5,
-            120,
-            2.5,
-            30
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            33,
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried",
-          "Wraps",
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 8576,
+  "recipe_id": 966,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Lentil Taco Lettuce Wraps with Sautéed Veggies & Lime Crema",
+  "slug": "lentil-taco-lettuce-wraps-sauteed-veggies-lime-crema",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/thumbnail_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/966/presentation_4c5d1484-1ef7-43fb-ba60-29aaebb615dd.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "lentil-taco-lettuce-wraps-sauteed-veggies-lime-crema",
-    "variantId": "8576"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 130035,
+      "primary_message": "Rinse lentils under cold water and transfer to a medium saucepan. Add water and bring to a boil, then reduce the heat to a simmer, cover with a lid, and cook until the lentils are just tender, 15 minutes.",
+      "secondary_message": "1 cup red lentils\n2 cup water"
+    },
+    {
+      "id": 130036,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n1 pint grape tomatoes\n1 avocado\n1 small bunch cilantro\n1 lime\n1 head butter (Boston) lettuce"
+    },
+    {
+      "id": 130037,
+      "primary_message": "Seed bell peppers, slice into thin strips. Peel, halve, and thinly slice onion.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 130038,
+      "primary_message": "Preheat a skillet over medium heat. Once the skillet is hot, add oil and swirl to coat. Add onions, bell peppers, salt, and pepper; cook, stirring occasionally, until soft, about 8 minutes.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 130039,
+      "primary_message": "Quarter tomatoes and set aside. ",
+      "secondary_message": null
+    },
+    {
+      "id": 130040,
+      "primary_message": "Halve and pit the avocado; slice crosswise and then lengthwise to form cubes while still in the skin and scoop out with a spoon. ",
+      "secondary_message": null
+    },
+    {
+      "id": 130041,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and roughly chop the leaves. Set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 130042,
+      "primary_message": "Finely chop walnuts and place in a medium bowl. ",
+      "secondary_message": "1 cup walnuts"
+    },
+    {
+      "id": 130043,
+      "primary_message": "Peel and mince garlic; add to the bowl with the walnuts. ",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 130044,
+      "primary_message": "Add oil, water, and spices to the bowl.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n2 tbsp water\n2 tsp chili powder\n1 tsp oregano\n1 tsp cumin\n½ tsp salt"
+    },
+    {
+      "id": 130045,
+      "primary_message": "Add the cooked lentils to the bowl and stir until well combined. ",
+      "secondary_message": null
+    },
+    {
+      "id": 130046,
+      "primary_message": "To make the crema, juice the lime into a small bowl; add mayo and whisk to combine. ",
+      "secondary_message": "¼ cup vegan mayonnaise"
+    },
+    {
+      "id": 130047,
+      "primary_message": "Separate the lettuce into leaves. Pile leaves, in stacks of two per wrap, onto plates. Top with lentil taco \"meat\", veggies, cilantro, and crema. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 135026,
+      "quantity": "1",
+      "ingredient_name": "avocado"
+    },
+    {
+      "id": 135033,
+      "quantity": "1 head",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 135029,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 135019,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 135032,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 135030,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 135025,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 135027,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 135031,
+      "quantity": "1 cup",
+      "ingredient_name": "walnuts"
+    },
+    {
+      "id": 135021,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 135022,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 135028,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 135020,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 135023,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 135034,
+      "quantity": "",
+      "ingredient_name": "red lentils, dried"
+    },
+    {
+      "id": 135024,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 135035,
+      "quantity": "",
+      "ingredient_name": "vegan mayonnaise"
+    }
+  ],
+  "nutrition": {
+    "energy": 692.42,
+    "alcohol": 0,
+    "ash": 5.89,
+    "caffeine": 0,
+    "water": 258.28,
+    "carbs": 50.01,
+    "fiber": 14.29,
+    "starch": 22.41,
+    "sugars": 7.46,
+    "fructose": 3.15,
+    "galactose": 0.05,
+    "glucose": 3.15,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.98,
+    "sugar_alcohol": 0,
+    "fat": 50.35,
+    "monounsaturated": 19.4,
+    "polyunsaturated": 22.66,
+    "omega_3": 3.04,
+    "omega_6": 19.63,
+    "saturated": 5.98,
+    "transfats": 0.02,
+    "cholesterol": 8.26,
+    "protein": 18.81,
+    "alanine": 0.79,
+    "arginine": 1.61,
+    "aspartic_acid": 2.24,
+    "cystine": 0.24,
+    "glutamic_acid": 3.27,
+    "glycine": 0.79,
+    "histidine": 0.48,
+    "isoleucine": 0.76,
+    "leucine": 1.3,
+    "lysine": 1.06,
+    "methionine": 0.2,
+    "phenylalanine": 0.88,
+    "proline": 0.78,
+    "serine": 0.91,
+    "threonine": 0.67,
+    "tryptophan": 0.18,
+    "tyrosine": 0.47,
+    "valine": 0.89,
+    "b1_thiamine": 0.47,
+    "b2_riboflavin": 0.3,
+    "b3_niacin": 3.46,
+    "b5_pantothenic_acid": 1.54,
+    "b6_pyridoxine": 0.91,
+    "b12_cobalamin": 0.04,
+    "choline": 34.74,
+    "folate": 246.9,
+    "vitamin_a": 744.95,
+    "vitamin_c": 104.56,
+    "vitamin_d": 0,
+    "vitamin_e": 8.79,
+    "vitamin_k": 138.6,
+    "calcium": 110.04,
+    "copper": 1.23,
+    "iron": 6.61,
+    "magnesium": 115.38,
+    "manganese": 2.15,
+    "phosphorus": 325.13,
+    "potassium": 1217.06,
+    "selenium": 2.82,
+    "sodium": 107.28,
+    "zinc": 3.37
+  }
 }

@@ -1,549 +1,170 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 7232,
-        "recipe_id": 831,
-        "serving_count": 4,
-        "cooking_minutes": 12,
-        "name": "Crunchy Peanut Butter & Apple Oatmeal",
-        "slug": "crunchy-peanut-butter-apple-oatmeal",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 104585,
-            "primary_message": "Add salt and water to the saucepan, cover, and bring to a boil over high heat. Once boiling, stir in oats and maple syrup. Cover and let simmer, on low, 3-5 minutes, or until oats reach desired consistency.",
-            "secondary_message": "⅛ tsp salt\n3 ½ cup water\n2 cup oats, quick cooking\n4 tsp pure maple syrup"
-          },
-          {
-            "id": 104586,
-            "primary_message": "Wash and dry apples, then core and medium dice.",
-            "secondary_message": "2 Gala apples"
-          },
-          {
-            "id": 104587,
-            "primary_message": "Roughly chop peanuts.",
-            "secondary_message": "½ cup peanuts, roasted unsalted"
-          },
-          {
-            "id": 104588,
-            "primary_message": "When oats are done, stir in peanut butter.",
-            "secondary_message": "¼ cup natural peanut butter"
-          },
-          {
-            "id": 104589,
-            "primary_message": "To serve, divide oats between bowls and top with chopped apples and peanuts. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 108795,
-            "quantity": "2",
-            "ingredient_name": "Gala apples"
-          },
-          {
-            "id": 108794,
-            "quantity": "½ cup",
-            "ingredient_name": "peanuts, roasted unsalted"
-          },
-          {
-            "id": 108792,
-            "quantity": "",
-            "ingredient_name": "natural peanut butter"
-          },
-          {
-            "id": 108796,
-            "quantity": "",
-            "ingredient_name": "oats, quick cooking"
-          },
-          {
-            "id": 108793,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 108791,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 422.08,
-          "alcohol": 0,
-          "ash": 2.24,
-          "caffeine": 0,
-          "water": 85.02,
-          "carbs": 52.05,
-          "fiber": 9.15,
-          "starch": 25.04,
-          "sugars": 15.46,
-          "fructose": 5.4,
-          "galactose": 0,
-          "glucose": 2.36,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 7.71,
-          "sugar_alcohol": 0,
-          "fat": 20,
-          "monounsaturated": 9.62,
-          "polyunsaturated": 5.34,
-          "omega_3": 0.06,
-          "omega_6": 5.28,
-          "saturated": 3.02,
-          "transfats": 0,
-          "cholesterol": 0,
-          "protein": 13.92,
-          "alanine": 0.57,
-          "arginine": 1.33,
-          "aspartic_acid": 1.56,
-          "cystine": 0.29,
-          "glutamic_acid": 2.89,
-          "glycine": 0.76,
-          "histidine": 0.32,
-          "isoleucine": 0.5,
-          "leucine": 0.94,
-          "lysine": 0.56,
-          "methionine": 0.19,
-          "phenylalanine": 0.7,
-          "proline": 0.55,
-          "serine": 0.7,
-          "threonine": 0.44,
-          "tryptophan": 0.15,
-          "tyrosine": 0.5,
-          "valine": 0.64,
-          "b1_thiamine": 0.31,
-          "b2_riboflavin": 0.22,
-          "b3_niacin": 5.38,
-          "b5_pantothenic_acid": 0.93,
-          "b6_pyridoxine": 0.21,
-          "b12_cobalamin": 0,
-          "choline": 41.78,
-          "folate": 57.21,
-          "vitamin_a": 49.14,
-          "vitamin_c": 4.19,
-          "vitamin_d": 0,
-          "vitamin_e": 2.72,
-          "vitamin_k": 2.92,
-          "calcium": 52.93,
-          "copper": 0.37,
-          "iron": 2.51,
-          "magnesium": 123.53,
-          "manganese": 2.37,
-          "phosphorus": 302.23,
-          "potassium": 482.53,
-          "selenium": 14.76,
-          "sodium": 6.31,
-          "zinc": 2.67
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/crunchy-peanut-butter-apple-oatmeal/7232",
-      "altVariants": [
-        {
-          "id": 7233,
-          "recipe_id": 831,
-          "group_label": "Default",
-          "name": "Crunchy Peanut Butter & Apple Oatmeal",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "published_recipe_uuid": "a05bfc61-4dca-43e6-92a8-e3d3b45da31f",
-          "fallback_published_recipe_uuids": [
-            "0e454342-cdc4-4ee6-8fdd-487ccfdf2f4a",
-            "07f9fc1f-e1db-49db-8798-76f215a82049"
-          ],
-          "first_published_at": 1564085277000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5
-          ],
-          "ingredient_ids": [
-            296,
-            217,
-            101,
-            332,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.75,
-            90,
-            720,
-            30,
-            0.9375
-          ],
-          "average_rating": 0.917,
-          "rating_count": 9,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7232,
-          "recipe_id": 831,
-          "group_label": "Default",
-          "name": "Crunchy Peanut Butter & Apple Oatmeal",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "published_recipe_uuid": "7675dd97-c3dc-42c1-91c9-486db1923da1",
-          "fallback_published_recipe_uuids": [
-            "3e690f6e-af44-4b68-9e21-5cf40ab8ebe5",
-            "e5a9d581-ebb8-4ba6-9b09-57e7b2185a35"
-          ],
-          "first_published_at": 1564085277000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5
-          ],
-          "ingredient_ids": [
-            296,
-            217,
-            101,
-            332,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            60,
-            480,
-            20,
-            0.625
-          ],
-          "average_rating": 0.917,
-          "rating_count": 9,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7231,
-          "recipe_id": 831,
-          "group_label": "Default",
-          "name": "Crunchy Peanut Butter & Apple Oatmeal",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "published_recipe_uuid": "98932e0e-03bd-4079-8db7-f5b18735f6c2",
-          "fallback_published_recipe_uuids": [
-            "5e4dc577-3ae6-4755-adaa-70e54b95f5e0",
-            "48b03edd-d9cd-4113-8902-079791dc8674"
-          ],
-          "first_published_at": 1564085276000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5
-          ],
-          "ingredient_ids": [
-            296,
-            217,
-            101,
-            332,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.25,
-            30,
-            240,
-            10,
-            0.3125
-          ],
-          "average_rating": 0.917,
-          "rating_count": 9,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7236,
-          "recipe_id": 831,
-          "group_label": "Default",
-          "name": "Crunchy Peanut Butter & Apple Oatmeal",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "published_recipe_uuid": "53e8628f-ad42-448e-b515-0098bd298eea",
-          "fallback_published_recipe_uuids": [
-            "1577b29c-d1d5-4ccf-9e76-82af5788cf9f",
-            "7bcdbf14-80bf-4530-97c3-4ad0d3087537"
-          ],
-          "first_published_at": 1564085279000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5
-          ],
-          "ingredient_ids": [
-            296,
-            217,
-            101,
-            332,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.75,
-            90,
-            720,
-            30,
-            0.9375
-          ],
-          "average_rating": 0.917,
-          "rating_count": 9,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7235,
-          "recipe_id": 831,
-          "group_label": "Default",
-          "name": "Crunchy Peanut Butter & Apple Oatmeal",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "published_recipe_uuid": "bc8c07eb-8cb0-4261-b0ed-889977beffc3",
-          "fallback_published_recipe_uuids": [
-            "6ff720b3-7cd7-496f-a081-dc9f94d83bed",
-            "e5780114-9e1c-4a1d-8c45-54c14552c1ca"
-          ],
-          "first_published_at": 1564085278000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5
-          ],
-          "ingredient_ids": [
-            296,
-            217,
-            101,
-            332,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            60,
-            480,
-            20,
-            0.625
-          ],
-          "average_rating": 0.917,
-          "rating_count": 9,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7234,
-          "recipe_id": 831,
-          "group_label": "Default",
-          "name": "Crunchy Peanut Butter & Apple Oatmeal",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
-          "published_recipe_uuid": "d4f26b63-1be3-42d8-bf13-db006251305d",
-          "fallback_published_recipe_uuids": [
-            "3273c945-cede-43cb-896a-d4552dcd019d",
-            "ad5655fc-4c44-402a-b97c-65d0b7f83be3"
-          ],
-          "first_published_at": 1564085278000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5
-          ],
-          "ingredient_ids": [
-            296,
-            217,
-            101,
-            332,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.25,
-            30,
-            240,
-            10,
-            0.3125
-          ],
-          "average_rating": 0.917,
-          "rating_count": 9,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.6
-      }
+  "id": 7232,
+  "recipe_id": 831,
+  "serving_count": 4,
+  "cooking_minutes": 12,
+  "name": "Crunchy Peanut Butter & Apple Oatmeal",
+  "slug": "crunchy-peanut-butter-apple-oatmeal",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/thumbnail_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "crunchy-peanut-butter-apple-oatmeal",
-    "variantId": "7232"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 104585,
+      "primary_message": "Add salt and water to the saucepan, cover, and bring to a boil over high heat. Once boiling, stir in oats and maple syrup. Cover and let simmer, on low, 3-5 minutes, or until oats reach desired consistency.",
+      "secondary_message": "⅛ tsp salt\n3 ½ cup water\n2 cup oats, quick cooking\n4 tsp pure maple syrup"
+    },
+    {
+      "id": 104586,
+      "primary_message": "Wash and dry apples, then core and medium dice.",
+      "secondary_message": "2 Gala apples"
+    },
+    {
+      "id": 104587,
+      "primary_message": "Roughly chop peanuts.",
+      "secondary_message": "½ cup peanuts, roasted unsalted"
+    },
+    {
+      "id": 104588,
+      "primary_message": "When oats are done, stir in peanut butter.",
+      "secondary_message": "¼ cup natural peanut butter"
+    },
+    {
+      "id": 104589,
+      "primary_message": "To serve, divide oats between bowls and top with chopped apples and peanuts. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 108795,
+      "quantity": "2",
+      "ingredient_name": "Gala apples"
+    },
+    {
+      "id": 108794,
+      "quantity": "½ cup",
+      "ingredient_name": "peanuts, roasted unsalted"
+    },
+    {
+      "id": 108792,
+      "quantity": "",
+      "ingredient_name": "natural peanut butter"
+    },
+    {
+      "id": 108796,
+      "quantity": "",
+      "ingredient_name": "oats, quick cooking"
+    },
+    {
+      "id": 108793,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 108791,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 422.08,
+    "alcohol": 0,
+    "ash": 2.24,
+    "caffeine": 0,
+    "water": 85.02,
+    "carbs": 52.05,
+    "fiber": 9.15,
+    "starch": 25.04,
+    "sugars": 15.46,
+    "fructose": 5.4,
+    "galactose": 0,
+    "glucose": 2.36,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 7.71,
+    "sugar_alcohol": 0,
+    "fat": 20,
+    "monounsaturated": 9.62,
+    "polyunsaturated": 5.34,
+    "omega_3": 0.06,
+    "omega_6": 5.28,
+    "saturated": 3.02,
+    "transfats": 0,
+    "cholesterol": 0,
+    "protein": 13.92,
+    "alanine": 0.57,
+    "arginine": 1.33,
+    "aspartic_acid": 1.56,
+    "cystine": 0.29,
+    "glutamic_acid": 2.89,
+    "glycine": 0.76,
+    "histidine": 0.32,
+    "isoleucine": 0.5,
+    "leucine": 0.94,
+    "lysine": 0.56,
+    "methionine": 0.19,
+    "phenylalanine": 0.7,
+    "proline": 0.55,
+    "serine": 0.7,
+    "threonine": 0.44,
+    "tryptophan": 0.15,
+    "tyrosine": 0.5,
+    "valine": 0.64,
+    "b1_thiamine": 0.31,
+    "b2_riboflavin": 0.22,
+    "b3_niacin": 5.38,
+    "b5_pantothenic_acid": 0.93,
+    "b6_pyridoxine": 0.21,
+    "b12_cobalamin": 0,
+    "choline": 41.78,
+    "folate": 57.21,
+    "vitamin_a": 49.14,
+    "vitamin_c": 4.19,
+    "vitamin_d": 0,
+    "vitamin_e": 2.72,
+    "vitamin_k": 2.92,
+    "calcium": 52.93,
+    "copper": 0.37,
+    "iron": 2.51,
+    "magnesium": 123.53,
+    "manganese": 2.37,
+    "phosphorus": 302.23,
+    "potassium": 482.53,
+    "selenium": 14.76,
+    "sodium": 6.31,
+    "zinc": 2.67
+  }
 }

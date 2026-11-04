@@ -1,702 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 15133,
-        "recipe_id": 1778,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
-        "slug": "seared-chicken-thighs-creamy-zucchini-cauliflower-puree",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 249856,
-            "primary_message": "Preheat a large skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 249857,
-            "primary_message": "While the skillet heats up, pat the chicken thighs dry with paper towels. Season with salt and pepper on both sides.",
-            "secondary_message": "2 lb chicken thighs, boneless skinless\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 249858,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chicken to the skillet and pan-fry until cooked through and golden brown, 3-4 minutes per side. Transfer to a plate and loosely cover with aluminum foil. (Reserve skillet with drippings.)",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 249859,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "1 medium head cauliflower\n2 medium zucchini squash\n2 tomatoes"
-          },
-          {
-            "id": 249860,
-            "primary_message": "Fill a large pot with about 1-inch of hot water from the tap; cover and place over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 249861,
-            "primary_message": "Cut the cauliflower head into quarters, then trim off and discard the leaves and thick stem. Roughly chop into bite-sized pieces.",
-            "secondary_message": null
-          },
-          {
-            "id": 249862,
-            "primary_message": "Once the water in the pot is boiling, add cauliflower, reduce heat to medium, and cook until tender, about 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 249863,
-            "primary_message": "Meanwhile, halve zucchini lengthwise, then slice crosswise into ¼-inch thick half-moons.",
-            "secondary_message": null
-          },
-          {
-            "id": 249864,
-            "primary_message": "Small dice tomatoes.",
-            "secondary_message": null
-          },
-          {
-            "id": 249865,
-            "primary_message": "Return skillet (with drippings) to medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 249866,
-            "primary_message": "Once the skillet is hot, add more oil and swirl to coat the bottom. Add the zucchini, tomato, and spices; cook, stirring occasionally, until veggies start to soften, 3-4 minutes.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp Italian seasoning\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 249867,
-            "primary_message": "While the veggies are cooking, cut cream cheese into small pieces. Finely grate Parmesan.",
-            "secondary_message": "½ (8 oz) block cream cheese\n2 oz Parmesan cheese"
-          },
-          {
-            "id": 249868,
-            "primary_message": "Add cream cheese, Parmesan, and water to the skillet. Cook, stirring occasionally, until the cheeses melt and combine, 2-3 minutes. ",
-            "secondary_message": "½ cup water"
-          },
-          {
-            "id": 249869,
-            "primary_message": "Return chicken to the skillet with the creamy zucchini and cook, turning to coat, until warmed through, about 2 minutes. Remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 249870,
-            "primary_message": "When the cauliflower is done, drain in a colander, and transfer to a blender. Add oil, salt, and pepper; purée until smooth.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 249871,
-            "primary_message": "To serve, divide cauliflower purée, chicken, veggies, and sauce between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 262966,
-            "quantity": "1 medium head",
-            "ingredient_name": "cauliflower"
-          },
-          {
-            "id": 262967,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 262969,
-            "quantity": "½ (8 oz) block",
-            "ingredient_name": "cream cheese"
-          },
-          {
-            "id": 262964,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 262968,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 262965,
-            "quantity": "2 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 262961,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 262960,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 262962,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 262963,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 677.18,
-          "alcohol": 0,
-          "ash": 8.48,
-          "caffeine": 0,
-          "water": 478.38,
-          "carbs": 15.22,
-          "fiber": 4.86,
-          "starch": 0.87,
-          "sugars": 8.06,
-          "fructose": 3.62,
-          "galactose": 0,
-          "glucose": 3.2,
-          "lactose": 1.18,
-          "maltose": 0,
-          "sucrose": 0.05,
-          "sugar_alcohol": 0,
-          "fat": 44.2,
-          "monounsaturated": 22.06,
-          "polyunsaturated": 4.99,
-          "omega_3": 0.43,
-          "omega_6": 4.52,
-          "saturated": 13.69,
-          "transfats": 0.5,
-          "cholesterol": 251.49,
-          "protein": 56.03,
-          "alanine": 3.12,
-          "arginine": 3.56,
-          "aspartic_acid": 5.34,
-          "cystine": 0.61,
-          "glutamic_acid": 9.62,
-          "glycine": 2.34,
-          "histidine": 1.69,
-          "isoleucine": 2.65,
-          "leucine": 4.72,
-          "lysine": 5.24,
-          "methionine": 1.52,
-          "phenylalanine": 2.29,
-          "proline": 2.74,
-          "serine": 2.46,
-          "threonine": 2.52,
-          "tryptophan": 0.63,
-          "tyrosine": 2.16,
-          "valine": 2.88,
-          "b1_thiamine": 0.35,
-          "b2_riboflavin": 0.75,
-          "b3_niacin": 14.23,
-          "b5_pantothenic_acid": 1.45,
-          "b6_pyridoxine": 1.53,
-          "b12_cobalamin": 1.62,
-          "choline": 210.08,
-          "folate": 129.59,
-          "vitamin_a": 1191.87,
-          "vitamin_c": 96.86,
-          "vitamin_d": 4.96,
-          "vitamin_e": 4.22,
-          "vitamin_k": 52.59,
-          "calcium": 101.24,
-          "copper": 0.31,
-          "iron": 3.4,
-          "magnesium": 108.93,
-          "manganese": 0.59,
-          "phosphorus": 666.16,
-          "potassium": 1440.87,
-          "selenium": 58.68,
-          "sodium": 361.47,
-          "zinc": 4.95
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/seared-chicken-thighs-creamy-zucchini-cauliflower-puree/15133",
-      "altVariants": [
-        {
-          "id": 15134,
-          "recipe_id": 1778,
-          "group_label": "Default",
-          "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "published_recipe_uuid": "d4ec3a8a-9216-4e9c-a503-4c6dbf0f6302",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1633450893000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            355,
-            120,
-            260,
-            140,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            0.75,
-            3,
-            3,
-            3,
-            8.75,
-            135,
-            3.75,
-            15
-          ],
-          "average_rating": 0.827,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Every fall we're on the hunt for some new comfort dishes and we can't get enough of these easy weeknight chicken thighs"
-        },
-        {
-          "id": 15133,
-          "recipe_id": 1778,
-          "group_label": "Default",
-          "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "published_recipe_uuid": "57999644-eae3-4f2e-bec6-a9acf5a33c10",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1633450893000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            355,
-            120,
-            260,
-            140,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            2,
-            2,
-            2,
-            5,
-            90,
-            2.5,
-            10
-          ],
-          "average_rating": 0.827,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Every fall we're on the hunt for some new comfort dishes and we can't get enough of these easy weeknight chicken thighs"
-        },
-        {
-          "id": 15132,
-          "recipe_id": 1778,
-          "group_label": "Default",
-          "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "published_recipe_uuid": "40b23f37-2bc6-44ad-8902-699654376be6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1633450894000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            355,
-            120,
-            260,
-            140,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.25,
-            1,
-            1,
-            1,
-            2.5,
-            45,
-            1.25,
-            5
-          ],
-          "average_rating": 0.827,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Every fall we're on the hunt for some new comfort dishes and we can't get enough of these easy weeknight chicken thighs"
-        },
-        {
-          "id": 15137,
-          "recipe_id": 1778,
-          "group_label": "Default",
-          "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "published_recipe_uuid": "16d2e80e-0772-4867-9606-eaf33ab890aa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1633450892000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            355,
-            120,
-            260,
-            140,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.36,
-            0.75,
-            85,
-            3,
-            3,
-            8.75,
-            135,
-            3.75,
-            15
-          ],
-          "average_rating": 0.827,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Every fall we're on the hunt for some new comfort dishes and we can't get enough of these easy weeknight chicken thighs"
-        },
-        {
-          "id": 15136,
-          "recipe_id": 1778,
-          "group_label": "Default",
-          "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "published_recipe_uuid": "79cb94c6-8e4b-411b-aabb-3d5a490a45a0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1633450892000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            355,
-            120,
-            260,
-            140,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.91,
-            0.5,
-            57,
-            2,
-            2,
-            5,
-            90,
-            2.5,
-            10
-          ],
-          "average_rating": 0.827,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Every fall we're on the hunt for some new comfort dishes and we can't get enough of these easy weeknight chicken thighs"
-        },
-        {
-          "id": 15135,
-          "recipe_id": 1778,
-          "group_label": "Default",
-          "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
-          "published_recipe_uuid": "c56708be-ebb0-4de9-a1f2-53f429a01bd0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1633450893000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            355,
-            120,
-            260,
-            140,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.45,
-            0.25,
-            28,
-            1,
-            1,
-            2.5,
-            45,
-            1.25,
-            5
-          ],
-          "average_rating": 0.827,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Every fall we're on the hunt for some new comfort dishes and we can't get enough of these easy weeknight chicken thighs"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Every fall we're on the hunt for some new comfort dishes and we can't get enough of these easy weeknight chicken thighs",
-        "keywords": [
-          "Skillets & Sautés"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 15133,
+  "recipe_id": 1778,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Seared Chicken Thighs with Creamy Zucchini and Cauliflower Purée",
+  "slug": "seared-chicken-thighs-creamy-zucchini-cauliflower-puree",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/thumbnail_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1778/presentation_73566d0f-98b6-47e1-bcc6-cff227db8314.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "seared-chicken-thighs-creamy-zucchini-cauliflower-puree",
-    "variantId": "15133"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 249856,
+      "primary_message": "Preheat a large skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 249857,
+      "primary_message": "While the skillet heats up, pat the chicken thighs dry with paper towels. Season with salt and pepper on both sides.",
+      "secondary_message": "2 lb chicken thighs, boneless skinless\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 249858,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chicken to the skillet and pan-fry until cooked through and golden brown, 3-4 minutes per side. Transfer to a plate and loosely cover with aluminum foil. (Reserve skillet with drippings.)",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 249859,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "1 medium head cauliflower\n2 medium zucchini squash\n2 tomatoes"
+    },
+    {
+      "id": 249860,
+      "primary_message": "Fill a large pot with about 1-inch of hot water from the tap; cover and place over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 249861,
+      "primary_message": "Cut the cauliflower head into quarters, then trim off and discard the leaves and thick stem. Roughly chop into bite-sized pieces.",
+      "secondary_message": null
+    },
+    {
+      "id": 249862,
+      "primary_message": "Once the water in the pot is boiling, add cauliflower, reduce heat to medium, and cook until tender, about 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 249863,
+      "primary_message": "Meanwhile, halve zucchini lengthwise, then slice crosswise into ¼-inch thick half-moons.",
+      "secondary_message": null
+    },
+    {
+      "id": 249864,
+      "primary_message": "Small dice tomatoes.",
+      "secondary_message": null
+    },
+    {
+      "id": 249865,
+      "primary_message": "Return skillet (with drippings) to medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 249866,
+      "primary_message": "Once the skillet is hot, add more oil and swirl to coat the bottom. Add the zucchini, tomato, and spices; cook, stirring occasionally, until veggies start to soften, 3-4 minutes.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp Italian seasoning\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 249867,
+      "primary_message": "While the veggies are cooking, cut cream cheese into small pieces. Finely grate Parmesan.",
+      "secondary_message": "½ (8 oz) block cream cheese\n2 oz Parmesan cheese"
+    },
+    {
+      "id": 249868,
+      "primary_message": "Add cream cheese, Parmesan, and water to the skillet. Cook, stirring occasionally, until the cheeses melt and combine, 2-3 minutes. ",
+      "secondary_message": "½ cup water"
+    },
+    {
+      "id": 249869,
+      "primary_message": "Return chicken to the skillet with the creamy zucchini and cook, turning to coat, until warmed through, about 2 minutes. Remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 249870,
+      "primary_message": "When the cauliflower is done, drain in a colander, and transfer to a blender. Add oil, salt, and pepper; purée until smooth.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 249871,
+      "primary_message": "To serve, divide cauliflower purée, chicken, veggies, and sauce between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 262966,
+      "quantity": "1 medium head",
+      "ingredient_name": "cauliflower"
+    },
+    {
+      "id": 262967,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 262969,
+      "quantity": "½ (8 oz) block",
+      "ingredient_name": "cream cheese"
+    },
+    {
+      "id": 262964,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 262968,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 262965,
+      "quantity": "2 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 262961,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 262960,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 262962,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 262963,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 677.18,
+    "alcohol": 0,
+    "ash": 8.48,
+    "caffeine": 0,
+    "water": 478.38,
+    "carbs": 15.22,
+    "fiber": 4.86,
+    "starch": 0.87,
+    "sugars": 8.06,
+    "fructose": 3.62,
+    "galactose": 0,
+    "glucose": 3.2,
+    "lactose": 1.18,
+    "maltose": 0,
+    "sucrose": 0.05,
+    "sugar_alcohol": 0,
+    "fat": 44.2,
+    "monounsaturated": 22.06,
+    "polyunsaturated": 4.99,
+    "omega_3": 0.43,
+    "omega_6": 4.52,
+    "saturated": 13.69,
+    "transfats": 0.5,
+    "cholesterol": 251.49,
+    "protein": 56.03,
+    "alanine": 3.12,
+    "arginine": 3.56,
+    "aspartic_acid": 5.34,
+    "cystine": 0.61,
+    "glutamic_acid": 9.62,
+    "glycine": 2.34,
+    "histidine": 1.69,
+    "isoleucine": 2.65,
+    "leucine": 4.72,
+    "lysine": 5.24,
+    "methionine": 1.52,
+    "phenylalanine": 2.29,
+    "proline": 2.74,
+    "serine": 2.46,
+    "threonine": 2.52,
+    "tryptophan": 0.63,
+    "tyrosine": 2.16,
+    "valine": 2.88,
+    "b1_thiamine": 0.35,
+    "b2_riboflavin": 0.75,
+    "b3_niacin": 14.23,
+    "b5_pantothenic_acid": 1.45,
+    "b6_pyridoxine": 1.53,
+    "b12_cobalamin": 1.62,
+    "choline": 210.08,
+    "folate": 129.59,
+    "vitamin_a": 1191.87,
+    "vitamin_c": 96.86,
+    "vitamin_d": 4.96,
+    "vitamin_e": 4.22,
+    "vitamin_k": 52.59,
+    "calcium": 101.24,
+    "copper": 0.31,
+    "iron": 3.4,
+    "magnesium": 108.93,
+    "manganese": 0.59,
+    "phosphorus": 666.16,
+    "potassium": 1440.87,
+    "selenium": 58.68,
+    "sodium": 361.47,
+    "zinc": 4.95
+  }
 }

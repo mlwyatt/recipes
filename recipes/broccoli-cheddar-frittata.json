@@ -1,630 +1,215 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2567,
-        "recipe_id": 291,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Broccoli & Cheddar Frittata",
-        "slug": "broccoli-cheddar-frittata",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 24904,
-            "primary_message": "Peel and small dice the onion. Wash the broccoli and chop into bite-size florets.",
-            "secondary_message": "1 medium yellow onion\r\n4 crowns broccoli"
-          },
-          {
-            "id": 24905,
-            "primary_message": "Heat a skillet over medium heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 24906,
-            "primary_message": "Grate 1 cup of cheddar into a small bowl and set aside.",
-            "secondary_message": "½ (8 oz) block cheddar cheese\r\n"
-          },
-          {
-            "id": 24907,
-            "primary_message": "Add butter to the skillet and swirl to coat bottom. Add the onion and cook, stirring frequently, until softened and lightly browned, 3-4 minutes.",
-            "secondary_message": "2 tbsp butter, unsalted\r\n"
-          },
-          {
-            "id": 24908,
-            "primary_message": "In a large bowl, whisk together the eggs, water, ½ of the shredded cheddar, salt, and pepper.",
-            "secondary_message": "12 eggs\r\n4 tbsp water\r\n½ tsp salt\r\n½ tsp black pepper"
-          },
-          {
-            "id": 24909,
-            "primary_message": "Add more butter to the skillet followed by broccoli florets. Cook, stirring occasionally, for 2-3 minutes.",
-            "secondary_message": "2 tbsp butter, unsalted\r\n"
-          },
-          {
-            "id": 24910,
-            "primary_message": "Preheat broiler and position rack in the upper third of the oven.",
-            "secondary_message": ""
-          },
-          {
-            "id": 24911,
-            "primary_message": "Spread out the broccoli evenly in the skillet. Reduce heat to medium-low and pour in the egg mixture. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but the top is still runny, 5-7 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 24912,
-            "primary_message": "Sprinkle with the remaining cheddar. Place skillet in the oven until the top is set, 2-3 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 24913,
-            "primary_message": "To serve, cut frittata into wedges and place on a plate. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 31826,
-            "quantity": "4 crowns",
-            "ingredient_name": "broccoli"
-          },
-          {
-            "id": 31825,
-            "quantity": "½ (8 oz) block",
-            "ingredient_name": "cheddar cheese"
-          },
-          {
-            "id": 31824,
-            "quantity": "12",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 31823,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 31822,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 31821,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 31820,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 476.69,
-          "alcohol": 0,
-          "ash": 4.82,
-          "caffeine": 0,
-          "water": 289.98,
-          "carbs": 15.38,
-          "fiber": 4.96,
-          "starch": 0.12,
-          "sugars": 4.63,
-          "fructose": 1.51,
-          "galactose": 0.03,
-          "glucose": 1.86,
-          "lactose": 0.49,
-          "maltose": 0.36,
-          "sucrose": 0.44,
-          "sugar_alcohol": 0,
-          "fat": 34.49,
-          "monounsaturated": 10.27,
-          "polyunsaturated": 3.44,
-          "omega_3": 0.26,
-          "omega_6": 3.18,
-          "saturated": 17.1,
-          "transfats": 0.86,
-          "cholesterol": 550.93,
-          "protein": 28.65,
-          "alanine": 1.38,
-          "arginine": 1.6,
-          "aspartic_acid": 2.85,
-          "cystine": 0.44,
-          "glutamic_acid": 4.6,
-          "glycine": 0.89,
-          "histidine": 0.67,
-          "isoleucine": 1.38,
-          "leucine": 2.24,
-          "lysine": 1.75,
-          "methionine": 0.74,
-          "phenylalanine": 1.42,
-          "proline": 1.61,
-          "serine": 1.73,
-          "threonine": 1.2,
-          "tryptophan": 0.44,
-          "tyrosine": 1.08,
-          "valine": 1.77,
-          "b1_thiamine": 0.19,
-          "b2_riboflavin": 0.94,
-          "b3_niacin": 1.24,
-          "b5_pantothenic_acid": 3.19,
-          "b6_pyridoxine": 0.57,
-          "b12_cobalamin": 1.45,
-          "choline": 428.7,
-          "folate": 182.22,
-          "vitamin_a": 2056.38,
-          "vitamin_c": 153.68,
-          "vitamin_d": 123.69,
-          "vitamin_e": 4.4,
-          "vitamin_k": 175.53,
-          "calcium": 356.61,
-          "copper": 0.21,
-          "iron": 3.69,
-          "magnesium": 62.75,
-          "manganese": 0.48,
-          "phosphorus": 519.66,
-          "potassium": 784.59,
-          "selenium": 53.1,
-          "sodium": 429.31,
-          "zinc": 3.44
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/broccoli-cheddar-frittata/2567",
-      "altVariants": [
-        {
-          "id": 5544,
-          "recipe_id": 291,
-          "group_label": "Classic",
-          "name": "Broccoli & Cheddar Frittata",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "published_recipe_uuid": "672b3b9a-8f12-4d75-a801-b472801516ea",
-          "fallback_published_recipe_uuids": [
-            "ebdb2c79-79bb-4b8a-a668-d38ae47e3e10",
-            "801e749c-a0ed-4beb-b704-3dc1497b34f9",
-            "00af57db-3ffe-4bbe-a849-ef1768aa4ddf"
-          ],
-          "first_published_at": 1550528107000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            105,
-            43,
-            121,
-            152,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            0.75,
-            18,
-            1.5,
-            3.75,
-            90,
-            3.75
-          ],
-          "average_rating": 0.756,
-          "rating_count": 77,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2565,
-          "recipe_id": 291,
-          "group_label": "Classic",
-          "name": "Broccoli & Cheddar Frittata",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "published_recipe_uuid": "d32f4c56-c947-4e97-abd3-472cd8f2ba7a",
-          "fallback_published_recipe_uuids": [
-            "c8389313-0771-4dcd-9955-bc5564daa0f8",
-            "c7160e14-0960-4138-9bed-547ba9d96dcd",
-            "0c5daf90-53ef-4aaf-87c4-a934769975da"
-          ],
-          "first_published_at": 1447956430000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            105,
-            43,
-            121,
-            152,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.25,
-            6,
-            0.5,
-            1.25,
-            30,
-            1.25
-          ],
-          "average_rating": 0.756,
-          "rating_count": 77,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2567,
-          "recipe_id": 291,
-          "group_label": "Classic",
-          "name": "Broccoli & Cheddar Frittata",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "published_recipe_uuid": "4992f8bc-8098-4c37-b043-1c880e4b6735",
-          "fallback_published_recipe_uuids": [
-            "67b2a8c2-99a1-4c3c-8d03-c8c14996346c",
-            "1bc53fdf-a47b-4e19-91c0-986b49628777",
-            "aeb4deae-5583-4078-ba01-c127c4fa52a8"
-          ],
-          "first_published_at": 1447956430000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            105,
-            43,
-            121,
-            152,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            12,
-            1,
-            2.5,
-            60,
-            2.5
-          ],
-          "average_rating": 0.756,
-          "rating_count": 77,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2566,
-          "recipe_id": 291,
-          "group_label": "Classic",
-          "name": "Broccoli & Cheddar Frittata",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "published_recipe_uuid": "10eaed89-bba6-4469-b002-eaa80d8f1b49",
-          "fallback_published_recipe_uuids": [
-            "112b06ca-6ef6-4687-836f-9cf5742f73f3",
-            "10fcc975-cd04-4e24-a214-a6738031d7f2",
-            "df61ab11-a6a0-4b77-a5c4-1218b457500e"
-          ],
-          "first_published_at": 1447956430000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            105,
-            43,
-            121,
-            152,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.25,
-            6,
-            0.5,
-            1.25,
-            30,
-            1.25
-          ],
-          "average_rating": 0.756,
-          "rating_count": 77,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5545,
-          "recipe_id": 291,
-          "group_label": "Classic",
-          "name": "Broccoli & Cheddar Frittata",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "published_recipe_uuid": "544d9a8c-5608-4543-8da9-de958a9f5412",
-          "fallback_published_recipe_uuids": [
-            "a2cbe894-6ba2-46f2-a0c8-76b31574733d",
-            "9a6ac85a-8d0a-4b5b-a5d0-e89bd4d01182",
-            "74220b8f-526f-49d1-b075-42a7da400ef7"
-          ],
-          "first_published_at": 1550528111000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            105,
-            43,
-            121,
-            152,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            0.75,
-            18,
-            1.5,
-            3.75,
-            90,
-            3.75
-          ],
-          "average_rating": 0.756,
-          "rating_count": 77,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2568,
-          "recipe_id": 291,
-          "group_label": "Classic",
-          "name": "Broccoli & Cheddar Frittata",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
-          "published_recipe_uuid": "003b93b1-fb1f-4200-94ad-d739333929e5",
-          "fallback_published_recipe_uuids": [
-            "1a2b086f-b487-4ea5-9b31-ee22a694c1b7",
-            "0feaefe1-97de-4bb2-a652-4a29ef161725",
-            "a764311b-65ce-4413-9096-f23bd6345cb3"
-          ],
-          "first_published_at": 1447956430000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            105,
-            43,
-            121,
-            152,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            12,
-            1,
-            2.5,
-            60,
-            2.5
-          ],
-          "average_rating": 0.756,
-          "rating_count": 77,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Frittatas"
-        ],
-        "cuisine": "",
-        "reviewCount": 77,
-        "reviewScore": null
-      }
+  "id": 2567,
+  "recipe_id": 291,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Broccoli & Cheddar Frittata",
+  "slug": "broccoli-cheddar-frittata",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/thumbnail_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/291/presentation_c777acba-b6bb-40b2-a1c2-1e8339bae1cb.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "broccoli-cheddar-frittata",
-    "variantId": "2567"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 24904,
+      "primary_message": "Peel and small dice the onion. Wash the broccoli and chop into bite-size florets.",
+      "secondary_message": "1 medium yellow onion\r\n4 crowns broccoli"
+    },
+    {
+      "id": 24905,
+      "primary_message": "Heat a skillet over medium heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 24906,
+      "primary_message": "Grate 1 cup of cheddar into a small bowl and set aside.",
+      "secondary_message": "½ (8 oz) block cheddar cheese\r\n"
+    },
+    {
+      "id": 24907,
+      "primary_message": "Add butter to the skillet and swirl to coat bottom. Add the onion and cook, stirring frequently, until softened and lightly browned, 3-4 minutes.",
+      "secondary_message": "2 tbsp butter, unsalted\r\n"
+    },
+    {
+      "id": 24908,
+      "primary_message": "In a large bowl, whisk together the eggs, water, ½ of the shredded cheddar, salt, and pepper.",
+      "secondary_message": "12 eggs\r\n4 tbsp water\r\n½ tsp salt\r\n½ tsp black pepper"
+    },
+    {
+      "id": 24909,
+      "primary_message": "Add more butter to the skillet followed by broccoli florets. Cook, stirring occasionally, for 2-3 minutes.",
+      "secondary_message": "2 tbsp butter, unsalted\r\n"
+    },
+    {
+      "id": 24910,
+      "primary_message": "Preheat broiler and position rack in the upper third of the oven.",
+      "secondary_message": ""
+    },
+    {
+      "id": 24911,
+      "primary_message": "Spread out the broccoli evenly in the skillet. Reduce heat to medium-low and pour in the egg mixture. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but the top is still runny, 5-7 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 24912,
+      "primary_message": "Sprinkle with the remaining cheddar. Place skillet in the oven until the top is set, 2-3 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 24913,
+      "primary_message": "To serve, cut frittata into wedges and place on a plate. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 31826,
+      "quantity": "4 crowns",
+      "ingredient_name": "broccoli"
+    },
+    {
+      "id": 31825,
+      "quantity": "½ (8 oz) block",
+      "ingredient_name": "cheddar cheese"
+    },
+    {
+      "id": 31824,
+      "quantity": "12",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 31823,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 31822,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 31821,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 31820,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 476.69,
+    "alcohol": 0,
+    "ash": 4.82,
+    "caffeine": 0,
+    "water": 289.98,
+    "carbs": 15.38,
+    "fiber": 4.96,
+    "starch": 0.12,
+    "sugars": 4.63,
+    "fructose": 1.51,
+    "galactose": 0.03,
+    "glucose": 1.86,
+    "lactose": 0.49,
+    "maltose": 0.36,
+    "sucrose": 0.44,
+    "sugar_alcohol": 0,
+    "fat": 34.49,
+    "monounsaturated": 10.27,
+    "polyunsaturated": 3.44,
+    "omega_3": 0.26,
+    "omega_6": 3.18,
+    "saturated": 17.1,
+    "transfats": 0.86,
+    "cholesterol": 550.93,
+    "protein": 28.65,
+    "alanine": 1.38,
+    "arginine": 1.6,
+    "aspartic_acid": 2.85,
+    "cystine": 0.44,
+    "glutamic_acid": 4.6,
+    "glycine": 0.89,
+    "histidine": 0.67,
+    "isoleucine": 1.38,
+    "leucine": 2.24,
+    "lysine": 1.75,
+    "methionine": 0.74,
+    "phenylalanine": 1.42,
+    "proline": 1.61,
+    "serine": 1.73,
+    "threonine": 1.2,
+    "tryptophan": 0.44,
+    "tyrosine": 1.08,
+    "valine": 1.77,
+    "b1_thiamine": 0.19,
+    "b2_riboflavin": 0.94,
+    "b3_niacin": 1.24,
+    "b5_pantothenic_acid": 3.19,
+    "b6_pyridoxine": 0.57,
+    "b12_cobalamin": 1.45,
+    "choline": 428.7,
+    "folate": 182.22,
+    "vitamin_a": 2056.38,
+    "vitamin_c": 153.68,
+    "vitamin_d": 123.69,
+    "vitamin_e": 4.4,
+    "vitamin_k": 175.53,
+    "calcium": 356.61,
+    "copper": 0.21,
+    "iron": 3.69,
+    "magnesium": 62.75,
+    "manganese": 0.48,
+    "phosphorus": 519.66,
+    "potassium": 784.59,
+    "selenium": 53.1,
+    "sodium": 429.31,
+    "zinc": 3.44
+  }
 }

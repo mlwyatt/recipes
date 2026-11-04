@@ -1,694 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 29828,
-        "recipe_id": 3345,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
-        "slug": "cottage-cheese-flatbread-bell-pepper-tomato-basil-hot-honey",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 130,
-            "name": "strainer",
-            "slug": "strainer"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 475137,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 475138,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n1 pint grape tomatoes\n1 small pkg fresh basil"
-          },
-          {
-            "id": 475139,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 475140,
-            "primary_message": "While the skillet heats up, trim, seed, and slice bell peppers lengthwise into thin strips.",
-            "secondary_message": null
-          },
-          {
-            "id": 475141,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell pepper, tomatoes, and salt. Cook, stirring occasionally, until tender and starting to brown, 5-7 minutes. ",
-            "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt"
-          },
-          {
-            "id": 475142,
-            "primary_message": "Meanwhile, arrange flatbreads on a large baking sheet pan. Place in the oven (it doesn't have to be fully heated) and bake, flipping halfway through, until slightly crispy, about 8 minutes. Remove from oven and set aside.",
-            "secondary_message": "4 flatbreads or naan"
-          },
-          {
-            "id": 475143,
-            "primary_message": "While the flatbreads are baking, place cottage cheese in a strainer to remove excess liquid. Transfer to a small bowl, season with salt, and stir to combine. Set aside.",
-            "secondary_message": "2 cups cottage cheese\n⅛ tsp salt"
-          },
-          {
-            "id": 475144,
-            "primary_message": "Place honey, hot sauce, and salt in another small bowl. Whisk to combine the hot honey and set aside.",
-            "secondary_message": "3 tbsp honey\n2 tsp hot sauce\n⅛ tsp salt"
-          },
-          {
-            "id": 475145,
-            "primary_message": "When the veggies are done, add vinegar to the skillet, stir to combine, and remove from heat.",
-            "secondary_message": "2 tsp balsamic vinegar"
-          },
-          {
-            "id": 475146,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Add half to the skillet with the veggies and stir to combine. (Reserve remaining basil for serving.)",
-            "secondary_message": null
-          },
-          {
-            "id": 475147,
-            "primary_message": "Spread the cottage cheese over each flatbread, then top with veggies.",
-            "secondary_message": null
-          },
-          {
-            "id": 475148,
-            "primary_message": "To serve, cut flatbreads into wedges and divide between plates. Drizzle with hot honey and top with reserved basil. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 510016,
-            "quantity": "2 cups",
-            "ingredient_name": "cottage cheese"
-          },
-          {
-            "id": 510013,
-            "quantity": "4",
-            "ingredient_name": "flatbreads or naan"
-          },
-          {
-            "id": 510007,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 510014,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 510012,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 510011,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 510008,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 510010,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 510015,
-            "quantity": "",
-            "ingredient_name": "hot sauce"
-          },
-          {
-            "id": 510009,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 645.01,
-          "alcohol": 0,
-          "ash": 5.55,
-          "caffeine": 0,
-          "water": 281.31,
-          "carbs": 77.56,
-          "fiber": 4.28,
-          "starch": 62.25,
-          "sugars": 23.5,
-          "fructose": 9.11,
-          "galactose": 1.12,
-          "glucose": 8.01,
-          "lactose": 4.62,
-          "maltose": 0.23,
-          "sucrose": 0.33,
-          "sugar_alcohol": 0,
-          "fat": 26.63,
-          "monounsaturated": 9.52,
-          "polyunsaturated": 1.98,
-          "omega_3": 0.2,
-          "omega_6": 1.78,
-          "saturated": 11.54,
-          "transfats": 0.52,
-          "cholesterol": 56.53,
-          "protein": 24.77,
-          "alanine": 0.85,
-          "arginine": 0.99,
-          "aspartic_acid": 1.85,
-          "cystine": 0.31,
-          "glutamic_acid": 6.78,
-          "glycine": 0.64,
-          "histidine": 0.63,
-          "isoleucine": 1.13,
-          "leucine": 2.11,
-          "lysine": 1.47,
-          "methionine": 0.52,
-          "phenylalanine": 1.24,
-          "proline": 2.66,
-          "serine": 1.32,
-          "threonine": 0.94,
-          "tryptophan": 0.29,
-          "tyrosine": 1.05,
-          "valine": 1.42,
-          "b1_thiamine": 0.82,
-          "b2_riboflavin": 0.74,
-          "b3_niacin": 7.04,
-          "b5_pantothenic_acid": 1.59,
-          "b6_pyridoxine": 0.36,
-          "b12_cobalamin": 0.69,
-          "choline": 47.78,
-          "folate": 179.88,
-          "vitamin_a": 1164.15,
-          "vitamin_c": 89.14,
-          "vitamin_d": 9.71,
-          "vitamin_e": 3.12,
-          "vitamin_k": 43.05,
-          "calcium": 191.45,
-          "copper": 0.26,
-          "iron": 4.03,
-          "magnesium": 53.38,
-          "manganese": 0.81,
-          "phosphorus": 342.31,
-          "potassium": 605.45,
-          "selenium": 40.25,
-          "sodium": 860.31,
-          "zinc": 1.81
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cottage-cheese-flatbread-bell-pepper-tomato-basil-hot-honey/29828",
-      "altVariants": [
-        {
-          "id": 29827,
-          "recipe_id": 3345,
-          "group_label": "Default",
-          "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "published_recipe_uuid": "50347b89-5edb-4b11-8b7d-7787926284e2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720468480000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            467,
-            212,
-            28,
-            277,
-            150,
-            131,
-            47,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.5,
-            1,
-            5,
-            15,
-            22.5,
-            5,
-            1.875
-          ],
-          "average_rating": 0.873,
-          "rating_count": 59,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29829,
-          "recipe_id": 3345,
-          "group_label": "Default",
-          "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "published_recipe_uuid": "ccbd5f81-ff97-4b7f-aa2c-c73739f5da4c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720468480000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            467,
-            212,
-            28,
-            277,
-            150,
-            131,
-            47,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1,
-            1.5,
-            3,
-            15,
-            45,
-            67.5,
-            15,
-            5.625
-          ],
-          "average_rating": 0.873,
-          "rating_count": 59,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29828,
-          "recipe_id": 3345,
-          "group_label": "Default",
-          "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "published_recipe_uuid": "3a0a507f-9502-47ea-9dc4-cfdc057cba2a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720468480000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            467,
-            212,
-            28,
-            277,
-            150,
-            131,
-            47,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1,
-            2,
-            10,
-            30,
-            45,
-            10,
-            3.75
-          ],
-          "average_rating": 0.873,
-          "rating_count": 59,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29831,
-          "recipe_id": 3345,
-          "group_label": "Default",
-          "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "published_recipe_uuid": "2dfb8f99-e59c-4533-b663-fddd74f67323",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720468478000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            467,
-            212,
-            28,
-            277,
-            150,
-            131,
-            47,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1,
-            2,
-            10,
-            30,
-            45,
-            10,
-            3.75
-          ],
-          "average_rating": 0.873,
-          "rating_count": 59,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29830,
-          "recipe_id": 3345,
-          "group_label": "Default",
-          "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "published_recipe_uuid": "6a2f96ae-1f83-4324-95c3-4628c5a0fa28",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720468479000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            467,
-            212,
-            28,
-            277,
-            150,
-            131,
-            47,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.5,
-            1,
-            5,
-            15,
-            22.5,
-            5,
-            1.875
-          ],
-          "average_rating": 0.873,
-          "rating_count": 59,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29832,
-          "recipe_id": 3345,
-          "group_label": "Default",
-          "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
-          "published_recipe_uuid": "eeb3a503-2241-432c-86c8-e2b05be84ba0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720468479000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            467,
-            212,
-            28,
-            277,
-            150,
-            131,
-            47,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1,
-            1.5,
-            3,
-            15,
-            45,
-            67.5,
-            15,
-            5.625
-          ],
-          "average_rating": 0.873,
-          "rating_count": 59,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": 59,
-        "reviewScore": 4.4
-      }
+  "id": 29828,
+  "recipe_id": 3345,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Cottage Cheese Flatbread with Bell Pepper, Tomato, Basil & Hot Honey",
+  "slug": "cottage-cheese-flatbread-bell-pepper-tomato-basil-hot-honey",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/thumbnail_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3345/presentation_ea987ba3-ceff-42a3-88d3-1beec8c1ec5a.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cottage-cheese-flatbread-bell-pepper-tomato-basil-hot-honey",
-    "variantId": "29828"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 130,
+      "name": "strainer",
+      "slug": "strainer"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 475137,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 475138,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n1 pint grape tomatoes\n1 small pkg fresh basil"
+    },
+    {
+      "id": 475139,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 475140,
+      "primary_message": "While the skillet heats up, trim, seed, and slice bell peppers lengthwise into thin strips.",
+      "secondary_message": null
+    },
+    {
+      "id": 475141,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell pepper, tomatoes, and salt. Cook, stirring occasionally, until tender and starting to brown, 5-7 minutes. ",
+      "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt"
+    },
+    {
+      "id": 475142,
+      "primary_message": "Meanwhile, arrange flatbreads on a large baking sheet pan. Place in the oven (it doesn't have to be fully heated) and bake, flipping halfway through, until slightly crispy, about 8 minutes. Remove from oven and set aside.",
+      "secondary_message": "4 flatbreads or naan"
+    },
+    {
+      "id": 475143,
+      "primary_message": "While the flatbreads are baking, place cottage cheese in a strainer to remove excess liquid. Transfer to a small bowl, season with salt, and stir to combine. Set aside.",
+      "secondary_message": "2 cups cottage cheese\n⅛ tsp salt"
+    },
+    {
+      "id": 475144,
+      "primary_message": "Place honey, hot sauce, and salt in another small bowl. Whisk to combine the hot honey and set aside.",
+      "secondary_message": "3 tbsp honey\n2 tsp hot sauce\n⅛ tsp salt"
+    },
+    {
+      "id": 475145,
+      "primary_message": "When the veggies are done, add vinegar to the skillet, stir to combine, and remove from heat.",
+      "secondary_message": "2 tsp balsamic vinegar"
+    },
+    {
+      "id": 475146,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Add half to the skillet with the veggies and stir to combine. (Reserve remaining basil for serving.)",
+      "secondary_message": null
+    },
+    {
+      "id": 475147,
+      "primary_message": "Spread the cottage cheese over each flatbread, then top with veggies.",
+      "secondary_message": null
+    },
+    {
+      "id": 475148,
+      "primary_message": "To serve, cut flatbreads into wedges and divide between plates. Drizzle with hot honey and top with reserved basil. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 510016,
+      "quantity": "2 cups",
+      "ingredient_name": "cottage cheese"
+    },
+    {
+      "id": 510013,
+      "quantity": "4",
+      "ingredient_name": "flatbreads or naan"
+    },
+    {
+      "id": 510007,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 510014,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 510012,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 510011,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 510008,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 510010,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 510015,
+      "quantity": "",
+      "ingredient_name": "hot sauce"
+    },
+    {
+      "id": 510009,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 645.01,
+    "alcohol": 0,
+    "ash": 5.55,
+    "caffeine": 0,
+    "water": 281.31,
+    "carbs": 77.56,
+    "fiber": 4.28,
+    "starch": 62.25,
+    "sugars": 23.5,
+    "fructose": 9.11,
+    "galactose": 1.12,
+    "glucose": 8.01,
+    "lactose": 4.62,
+    "maltose": 0.23,
+    "sucrose": 0.33,
+    "sugar_alcohol": 0,
+    "fat": 26.63,
+    "monounsaturated": 9.52,
+    "polyunsaturated": 1.98,
+    "omega_3": 0.2,
+    "omega_6": 1.78,
+    "saturated": 11.54,
+    "transfats": 0.52,
+    "cholesterol": 56.53,
+    "protein": 24.77,
+    "alanine": 0.85,
+    "arginine": 0.99,
+    "aspartic_acid": 1.85,
+    "cystine": 0.31,
+    "glutamic_acid": 6.78,
+    "glycine": 0.64,
+    "histidine": 0.63,
+    "isoleucine": 1.13,
+    "leucine": 2.11,
+    "lysine": 1.47,
+    "methionine": 0.52,
+    "phenylalanine": 1.24,
+    "proline": 2.66,
+    "serine": 1.32,
+    "threonine": 0.94,
+    "tryptophan": 0.29,
+    "tyrosine": 1.05,
+    "valine": 1.42,
+    "b1_thiamine": 0.82,
+    "b2_riboflavin": 0.74,
+    "b3_niacin": 7.04,
+    "b5_pantothenic_acid": 1.59,
+    "b6_pyridoxine": 0.36,
+    "b12_cobalamin": 0.69,
+    "choline": 47.78,
+    "folate": 179.88,
+    "vitamin_a": 1164.15,
+    "vitamin_c": 89.14,
+    "vitamin_d": 9.71,
+    "vitamin_e": 3.12,
+    "vitamin_k": 43.05,
+    "calcium": 191.45,
+    "copper": 0.26,
+    "iron": 4.03,
+    "magnesium": 53.38,
+    "manganese": 0.81,
+    "phosphorus": 342.31,
+    "potassium": 605.45,
+    "selenium": 40.25,
+    "sodium": 860.31,
+    "zinc": 1.81
+  }
 }

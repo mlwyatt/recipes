@@ -1,738 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3702,
-        "recipe_id": 490,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
-        "slug": "black-bean-puree-fried-eggs-avocado-grape-tomatoes",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 85,
-            "name": "hand blender or potato masher",
-            "slug": "hand-blender-or-potato-masher"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 40325,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 pints grape tomatoes\n2 avocados\n2 jalapeño peppers"
-          },
-          {
-            "id": 40326,
-            "primary_message": "Preheat a small saucepan over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 40327,
-            "primary_message": "While the saucepan heats up, trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces).",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 40328,
-            "primary_message": "Once the saucepan is hot, add olive oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 40329,
-            "primary_message": "Add the onion to the saucepan; cook, stirring frequently, until softened, 3 to 4 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 40330,
-            "primary_message": "Quarter the jalapeño peppers lengthwise; remove and discard the stem, seeds, and membranes. Finely dice the peppers and add to the onion.",
-            "secondary_message": null
-          },
-          {
-            "id": 40331,
-            "primary_message": "Drain and rinse the beans.",
-            "secondary_message": "2 (15 oz) cans black beans"
-          },
-          {
-            "id": 40332,
-            "primary_message": "Add chili powder, cumin, salt, and pepper to the saucepan; stir until fragrant, 15 to 30 seconds.",
-            "secondary_message": "1 tsp chili powder\n1 tsp cumin\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 40333,
-            "primary_message": "Add the beans and broth to the saucepan; bring to a boil, then mash the beans with a hand blender or potato masher. Remove from the heat and cover to keep warm.",
-            "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth"
-          },
-          {
-            "id": 40334,
-            "primary_message": "Add olive oil to a nonstick skillet and preheat over medium heat.",
-            "secondary_message": "1 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 40335,
-            "primary_message": "While the skillet heats up, halve the grape tomatoes and transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 40336,
-            "primary_message": "Gently crack half of the eggs into the skillet. Cook until the tops of the whites are set but the yolks are still runny, 2 to 3 minutes. Once done, separate the eggs and transfer to a plate. Repeat with the remaining eggs.",
-            "secondary_message": "8 eggs"
-          },
-          {
-            "id": 40337,
-            "primary_message": "While the eggs cook, halve the avocados lengthwise and twist the halves to separate, then remove the pit with a knife or spoon; scoop out and medium dice the flesh. Add to the bowl with the tomatoes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 40338,
-            "primary_message": "To serve, divide the bean purée, eggs, and tomato-avocado mixture among plates; season with salt and pepper if desired. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 45362,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 45364,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 45360,
-            "quantity": "8 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 45363,
-            "quantity": "8",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 45361,
-            "quantity": "2 pints",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 45357,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 45358,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 45355,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 45353,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 45354,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 45359,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 45356,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 609.7,
-          "alcohol": 0,
-          "ash": 6.81,
-          "caffeine": 0,
-          "water": 447.5,
-          "carbs": 52.82,
-          "fiber": 23,
-          "starch": 20.2,
-          "sugars": 6.78,
-          "fructose": 2.63,
-          "galactose": 0.1,
-          "glucose": 3.19,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.82,
-          "sugar_alcohol": 0,
-          "fat": 34.95,
-          "monounsaturated": 20.95,
-          "polyunsaturated": 5.49,
-          "omega_3": 0.56,
-          "omega_6": 4.72,
-          "saturated": 6.61,
-          "transfats": 0.06,
-          "cholesterol": 327.36,
-          "protein": 26.75,
-          "alanine": 1.36,
-          "arginine": 1.5,
-          "aspartic_acid": 3.13,
-          "cystine": 0.41,
-          "glutamic_acid": 4.28,
-          "glycine": 1.02,
-          "histidine": 0.66,
-          "isoleucine": 1.28,
-          "leucine": 2.15,
-          "lysine": 1.77,
-          "methionine": 0.56,
-          "phenylalanine": 1.4,
-          "proline": 1.23,
-          "serine": 1.68,
-          "threonine": 1.04,
-          "tryptophan": 0.33,
-          "tyrosine": 0.82,
-          "valine": 1.61,
-          "b1_thiamine": 0.49,
-          "b2_riboflavin": 0.69,
-          "b3_niacin": 4.57,
-          "b5_pantothenic_acid": 3.37,
-          "b6_pyridoxine": 0.79,
-          "b12_cobalamin": 0.85,
-          "choline": 346.65,
-          "folate": 331.99,
-          "vitamin_a": 1803.02,
-          "vitamin_c": 40.98,
-          "vitamin_d": 72.16,
-          "vitamin_e": 5.76,
-          "vitamin_k": 42.02,
-          "calcium": 178.1,
-          "copper": 0.67,
-          "iron": 6.26,
-          "magnesium": 131.41,
-          "manganese": 1.16,
-          "phosphorus": 479.66,
-          "potassium": 1557.32,
-          "selenium": 31.5,
-          "sodium": 657.4,
-          "zinc": 3.52
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/black-bean-puree-fried-eggs-avocado-grape-tomatoes/3702",
-      "altVariants": [
-        {
-          "id": 6074,
-          "recipe_id": 490,
-          "group_label": "Classic",
-          "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "published_recipe_uuid": "491d4f69-6131-48cb-b8ce-dae7f79ad07c",
-          "fallback_published_recipe_uuids": [
-            "d266d6a8-0453-4ffd-ac0b-80a58e90e328",
-            "33044195-96d2-4a31-91e2-195d7dead5a2",
-            "76b8b76a-14fa-4564-83c7-2c2c7e76a1fc"
-          ],
-          "first_published_at": 1550529283000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            201,
-            121,
-            277,
-            151,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            12,
-            12,
-            3,
-            3,
-            1.5,
-            3.69669,
-            7.39338,
-            7.39338,
-            66.54045,
-            7.39338
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3702,
-          "recipe_id": 490,
-          "group_label": "Classic",
-          "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "published_recipe_uuid": "b8601869-f436-457f-807a-d81d373652d6",
-          "fallback_published_recipe_uuids": [
-            "fab2e69d-4a22-4bf7-9e45-a530ad576f75",
-            "e6807d18-b78d-48c0-9ab6-3c2229880f0c",
-            "337f1f24-2275-4248-a65e-0672257deea9"
-          ],
-          "first_published_at": 1487803436000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            201,
-            121,
-            277,
-            151,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            8,
-            8,
-            2,
-            2,
-            1,
-            2.46446,
-            4.92892,
-            4.92892,
-            44.3603,
-            4.92892
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3538,
-          "recipe_id": 490,
-          "group_label": "Classic",
-          "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "published_recipe_uuid": "61f9afdc-ae1e-4c7c-b980-137c753ad648",
-          "fallback_published_recipe_uuids": [
-            "69541db3-74e7-40b1-96bd-0d9201b8a240",
-            "3b8d1d5f-6d09-4903-9aee-f84f81260701",
-            "4b2b9c9d-d2e2-4159-8a37-5e89e2d830b9"
-          ],
-          "first_published_at": 1487802748000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            201,
-            121,
-            277,
-            151,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            4,
-            4,
-            1,
-            1,
-            0.5,
-            1.23223,
-            2.46446,
-            2.46446,
-            22.1801,
-            2.46446
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3703,
-          "recipe_id": 490,
-          "group_label": "Classic",
-          "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "published_recipe_uuid": "2f086268-55ce-4203-b49b-323635642e76",
-          "fallback_published_recipe_uuids": [
-            "81b6ebf1-9cb9-4b58-83d3-75e8ef47bfcd",
-            "722de90d-7701-467a-a002-dd5738f4941c",
-            "07d32ae2-ca21-4e94-86e0-9a8c41ca1cf1"
-          ],
-          "first_published_at": 1487803552000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            201,
-            121,
-            277,
-            151,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            118,
-            4,
-            1,
-            1,
-            0.5,
-            1.23223,
-            2.46446,
-            2.46446,
-            22.1801,
-            2.46446
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6075,
-          "recipe_id": 490,
-          "group_label": "Classic",
-          "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "published_recipe_uuid": "49cbdae4-ed77-4e28-95cc-5710558770dd",
-          "fallback_published_recipe_uuids": [
-            "188e67dd-eee9-470f-8d3d-dca9896f81f5",
-            "9db560b8-23fd-4aab-824c-847beae555a0",
-            "fc8a93b4-c6cf-40ee-be61-ffa090149118"
-          ],
-          "first_published_at": 1550529275000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            201,
-            121,
-            277,
-            151,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            354,
-            12,
-            3,
-            3,
-            1.5,
-            3.69669,
-            7.39338,
-            7.39338,
-            66.54045,
-            7.39338
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3704,
-          "recipe_id": 490,
-          "group_label": "Classic",
-          "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
-          "published_recipe_uuid": "7fa8ce64-cedc-44be-8af4-b4614c974cb4",
-          "fallback_published_recipe_uuids": [
-            "a5bfcfc1-d243-4cef-8871-0040b309f7c1",
-            "cd44214a-0e86-4799-87d0-f18b68a955ed",
-            "3b563af2-02b4-443b-96fe-8d7b8b528a1c"
-          ],
-          "first_published_at": 1487803625000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            201,
-            121,
-            277,
-            151,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            236,
-            8,
-            2,
-            2,
-            1,
-            2.46446,
-            4.92892,
-            4.92892,
-            44.3603,
-            4.92892
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3702,
+  "recipe_id": 490,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Black Bean Purée & Fried Eggs with Avocado & Grape Tomatoes",
+  "slug": "black-bean-puree-fried-eggs-avocado-grape-tomatoes",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/thumbnail_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/490/presentation_632628b1-189f-40f1-becd-86099cd2dcf7.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "black-bean-puree-fried-eggs-avocado-grape-tomatoes",
-    "variantId": "3702"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 85,
+      "name": "hand blender or potato masher",
+      "slug": "hand-blender-or-potato-masher"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 40325,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 pints grape tomatoes\n2 avocados\n2 jalapeño peppers"
+    },
+    {
+      "id": 40326,
+      "primary_message": "Preheat a small saucepan over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 40327,
+      "primary_message": "While the saucepan heats up, trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces).",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 40328,
+      "primary_message": "Once the saucepan is hot, add olive oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 40329,
+      "primary_message": "Add the onion to the saucepan; cook, stirring frequently, until softened, 3 to 4 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 40330,
+      "primary_message": "Quarter the jalapeño peppers lengthwise; remove and discard the stem, seeds, and membranes. Finely dice the peppers and add to the onion.",
+      "secondary_message": null
+    },
+    {
+      "id": 40331,
+      "primary_message": "Drain and rinse the beans.",
+      "secondary_message": "2 (15 oz) cans black beans"
+    },
+    {
+      "id": 40332,
+      "primary_message": "Add chili powder, cumin, salt, and pepper to the saucepan; stir until fragrant, 15 to 30 seconds.",
+      "secondary_message": "1 tsp chili powder\n1 tsp cumin\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 40333,
+      "primary_message": "Add the beans and broth to the saucepan; bring to a boil, then mash the beans with a hand blender or potato masher. Remove from the heat and cover to keep warm.",
+      "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth"
+    },
+    {
+      "id": 40334,
+      "primary_message": "Add olive oil to a nonstick skillet and preheat over medium heat.",
+      "secondary_message": "1 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 40335,
+      "primary_message": "While the skillet heats up, halve the grape tomatoes and transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 40336,
+      "primary_message": "Gently crack half of the eggs into the skillet. Cook until the tops of the whites are set but the yolks are still runny, 2 to 3 minutes. Once done, separate the eggs and transfer to a plate. Repeat with the remaining eggs.",
+      "secondary_message": "8 eggs"
+    },
+    {
+      "id": 40337,
+      "primary_message": "While the eggs cook, halve the avocados lengthwise and twist the halves to separate, then remove the pit with a knife or spoon; scoop out and medium dice the flesh. Add to the bowl with the tomatoes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 40338,
+      "primary_message": "To serve, divide the bean purée, eggs, and tomato-avocado mixture among plates; season with salt and pepper if desired. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 45362,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 45364,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 45360,
+      "quantity": "8 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 45363,
+      "quantity": "8",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 45361,
+      "quantity": "2 pints",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 45357,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 45358,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 45355,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 45353,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 45354,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 45359,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 45356,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 609.7,
+    "alcohol": 0,
+    "ash": 6.81,
+    "caffeine": 0,
+    "water": 447.5,
+    "carbs": 52.82,
+    "fiber": 23,
+    "starch": 20.2,
+    "sugars": 6.78,
+    "fructose": 2.63,
+    "galactose": 0.1,
+    "glucose": 3.19,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.82,
+    "sugar_alcohol": 0,
+    "fat": 34.95,
+    "monounsaturated": 20.95,
+    "polyunsaturated": 5.49,
+    "omega_3": 0.56,
+    "omega_6": 4.72,
+    "saturated": 6.61,
+    "transfats": 0.06,
+    "cholesterol": 327.36,
+    "protein": 26.75,
+    "alanine": 1.36,
+    "arginine": 1.5,
+    "aspartic_acid": 3.13,
+    "cystine": 0.41,
+    "glutamic_acid": 4.28,
+    "glycine": 1.02,
+    "histidine": 0.66,
+    "isoleucine": 1.28,
+    "leucine": 2.15,
+    "lysine": 1.77,
+    "methionine": 0.56,
+    "phenylalanine": 1.4,
+    "proline": 1.23,
+    "serine": 1.68,
+    "threonine": 1.04,
+    "tryptophan": 0.33,
+    "tyrosine": 0.82,
+    "valine": 1.61,
+    "b1_thiamine": 0.49,
+    "b2_riboflavin": 0.69,
+    "b3_niacin": 4.57,
+    "b5_pantothenic_acid": 3.37,
+    "b6_pyridoxine": 0.79,
+    "b12_cobalamin": 0.85,
+    "choline": 346.65,
+    "folate": 331.99,
+    "vitamin_a": 1803.02,
+    "vitamin_c": 40.98,
+    "vitamin_d": 72.16,
+    "vitamin_e": 5.76,
+    "vitamin_k": 42.02,
+    "calcium": 178.1,
+    "copper": 0.67,
+    "iron": 6.26,
+    "magnesium": 131.41,
+    "manganese": 1.16,
+    "phosphorus": 479.66,
+    "potassium": 1557.32,
+    "selenium": 31.5,
+    "sodium": 657.4,
+    "zinc": 3.52
+  }
 }

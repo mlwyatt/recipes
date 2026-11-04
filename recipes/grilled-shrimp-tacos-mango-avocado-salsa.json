@@ -1,671 +1,250 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2992,
-        "recipe_id": 413,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
-        "slug": "grilled-shrimp-tacos-mango-avocado-salsa",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 29436,
-            "primary_message": "If using frozen shrimp, place them in a colander and run under cold water until there are no more ice chunks. Then, lay them out on a paper towel or clean cloth and pat dry. Transfer to a medium bowl. If using fresh shrimp, place them directly into a medium bowl.",
-            "secondary_message": "1 ½ lb raw peeled shrimp, fresh or frozen"
-          },
-          {
-            "id": 29437,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 mangoes\n2 avocados\n2 jalapeño peppers\n2 limes\n1 small bunch cilantro"
-          },
-          {
-            "id": 29438,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add half of the cilantro to the shrimp and transfer the rest to a medium bowl (for the salsa).",
-            "secondary_message": null
-          },
-          {
-            "id": 29439,
-            "primary_message": "Drizzle the shrimp with olive oil and season with chili powder; toss to combine. Set aside while you prepare the salsa.",
-            "secondary_message": "1 tbsp extra virgin olive oil\n4 tsp chili powder"
-          },
-          {
-            "id": 29440,
-            "primary_message": "Peel the mangoes and discard the peels; slice the flesh away from the pit, starting with the flat sides. Small dice the mangoes and add to the cilantro.",
-            "secondary_message": ""
-          },
-          {
-            "id": 29441,
-            "primary_message": "Halve and pit the avocados; scoop out the flesh from the skin. Small dice the avocados and add to the bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 29442,
-            "primary_message": "Halve the jalapeños lengthwise; remove and discard the seeds and white membranes. Finely dice the peppers and add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 29443,
-            "primary_message": "Preheat a grill pan or regular skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 29444,
-            "primary_message": "Peel and small dice the onion; add to the bowl.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 29445,
-            "primary_message": "Juice the lime and pour over the salsa. Toss the salsa until well combined.",
-            "secondary_message": ""
-          },
-          {
-            "id": 29446,
-            "primary_message": "Once the grill pan / skillet is hot, add the shrimp; cook until they are opaque, 1 to 2 minutes per side. Once done, transfer to a plate and set aside to cool.",
-            "secondary_message": null
-          },
-          {
-            "id": 29447,
-            "primary_message": "Wrap the tortillas in a damp paper towel or cloth and microwave until they are heated through, 30 seconds to 1 minute.",
-            "secondary_message": "16 small corn tortillas"
-          },
-          {
-            "id": 29448,
-            "primary_message": "Once the shrimp have cooled slightly, peel and discard the tails.",
-            "secondary_message": null
-          },
-          {
-            "id": 29449,
-            "primary_message": "To serve, place 3 to 4 shrimp into each tortilla and spoon the mango-avocado salsa over top. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 36882,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 36886,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 36884,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 36885,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 36887,
-            "quantity": "2",
-            "ingredient_name": "mangoes"
-          },
-          {
-            "id": 36888,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "raw peeled shrimp, fresh or frozen"
-          },
-          {
-            "id": 36880,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 36881,
-            "quantity": "16",
-            "ingredient_name": "small corn tortillas"
-          },
-          {
-            "id": 36883,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 36879,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 652.13,
-          "alcohol": 0,
-          "ash": 7.06,
-          "caffeine": 0,
-          "water": 468.69,
-          "carbs": 85.08,
-          "fiber": 17.71,
-          "starch": 37.46,
-          "sugars": 26.65,
-          "fructose": 8.83,
-          "galactose": 0.1,
-          "glucose": 4.67,
-          "lactose": 0,
-          "maltose": 0.32,
-          "sucrose": 12.7,
-          "sugar_alcohol": 0,
-          "fat": 23.75,
-          "monounsaturated": 13.67,
-          "polyunsaturated": 4.4,
-          "omega_3": 0.56,
-          "omega_6": 3.85,
-          "saturated": 3.72,
-          "transfats": 0.04,
-          "cholesterol": 214.32,
-          "protein": 33.25,
-          "alanine": 2.12,
-          "arginine": 2.75,
-          "aspartic_acid": 3.43,
-          "cystine": 0.41,
-          "glutamic_acid": 5.7,
-          "glycine": 1.78,
-          "histidine": 0.77,
-          "isoleucine": 1.42,
-          "leucine": 2.92,
-          "lysine": 2.63,
-          "methionine": 0.85,
-          "phenylalanine": 1.45,
-          "proline": 1.75,
-          "serine": 1.4,
-          "threonine": 1.27,
-          "tryptophan": 0.36,
-          "tyrosine": 1.19,
-          "valine": 1.57,
-          "b1_thiamine": 0.28,
-          "b2_riboflavin": 0.36,
-          "b3_niacin": 8.02,
-          "b5_pantothenic_acid": 2.58,
-          "b6_pyridoxine": 1.1,
-          "b12_cobalamin": 1.89,
-          "choline": 185.08,
-          "folate": 213.23,
-          "vitamin_a": 470.1,
-          "vitamin_c": 93.56,
-          "vitamin_d": 3.4,
-          "vitamin_e": 8.41,
-          "vitamin_k": 97.06,
-          "calcium": 232.63,
-          "copper": 0.93,
-          "iron": 3.29,
-          "magnesium": 167.22,
-          "manganese": 0.79,
-          "phosphorus": 822.73,
-          "potassium": 1327.95,
-          "selenium": 58.53,
-          "sodium": 1025.71,
-          "zinc": 3.99
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-shrimp-tacos-mango-avocado-salsa/2992",
-      "altVariants": [
-        {
-          "id": 2988,
-          "recipe_id": 413,
-          "group_label": "Classic",
-          "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "published_recipe_uuid": "b4f15a3b-e7e6-4dad-bcd0-c0f3d66fb15f",
-          "fallback_published_recipe_uuids": [
-            "a79c1793-ce65-4057-9e46-2a0193ab2d35",
-            "c85d9698-be69-4ae8-ae4b-b54e5679a666",
-            "029cd6a6-d3d2-4872-8c70-54180fa83987"
-          ],
-          "first_published_at": 1469801929000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            151,
-            228,
-            229,
-            7,
-            184,
-            321,
-            75,
-            47
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            1,
-            1,
-            0.75,
-            0.5,
-            8,
-            9.85784,
-            7.39338
-          ],
-          "average_rating": 0.85,
-          "rating_count": 35,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2992,
-          "recipe_id": 413,
-          "group_label": "Classic",
-          "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "published_recipe_uuid": "5a503229-0388-4b38-a607-c6cda89a2d28",
-          "fallback_published_recipe_uuids": [
-            "44834624-eeab-40a1-8c61-bbe4559f8699",
-            "589f6844-1f24-4a4e-8ff6-02c529d36b26",
-            "5914a5c0-fa28-423e-b0c2-0b5fe21411b6"
-          ],
-          "first_published_at": 1470088086000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            151,
-            228,
-            229,
-            7,
-            184,
-            321,
-            75,
-            47
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            2,
-            1.5,
-            1,
-            16,
-            19.7157,
-            14.7868
-          ],
-          "average_rating": 0.85,
-          "rating_count": 35,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5728,
-          "recipe_id": 413,
-          "group_label": "Classic",
-          "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "published_recipe_uuid": "0b443c3c-4a8c-4cbb-b0cd-7c9ace59d71d",
-          "fallback_published_recipe_uuids": [
-            "ed6b424a-75e0-449b-8f64-7b81f867cbef",
-            "ecccdeb1-f274-4cd6-a13a-6f1d2d2d695a"
-          ],
-          "first_published_at": 1550528961000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            151,
-            228,
-            229,
-            7,
-            184,
-            321,
-            75,
-            47
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            3,
-            3,
-            2.25,
-            1.5,
-            24,
-            29.573549999999997,
-            22.1802
-          ],
-          "average_rating": 0.85,
-          "rating_count": 35,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5932,
-          "recipe_id": 413,
-          "group_label": "Classic",
-          "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "published_recipe_uuid": "f7a09906-578d-4f57-9343-b488d77c97a5",
-          "fallback_published_recipe_uuids": [
-            "2c310a2a-82cc-4738-9007-6ba4270c42bb",
-            "6f31d4c4-67da-4ee0-b738-883b54a57550"
-          ],
-          "first_published_at": 1550531043000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            151,
-            228,
-            229,
-            7,
-            184,
-            321,
-            75,
-            47
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            3,
-            3,
-            1.02,
-            1.5,
-            24,
-            29.573549999999997,
-            22.1802
-          ],
-          "average_rating": 0.85,
-          "rating_count": 35,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3408,
-          "recipe_id": 413,
-          "group_label": "Classic",
-          "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "published_recipe_uuid": "e7e6fa3a-6f47-4e6d-82d7-ef1bb8dc4148",
-          "fallback_published_recipe_uuids": [
-            "180936c8-a4aa-441d-befd-2768744cc6fd"
-          ],
-          "first_published_at": 1485561051000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            151,
-            228,
-            229,
-            7,
-            184,
-            321,
-            75,
-            47
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            1,
-            1,
-            0.34,
-            0.5,
-            8,
-            9.85784,
-            7.39338
-          ],
-          "average_rating": 0.85,
-          "rating_count": 35,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3409,
-          "recipe_id": 413,
-          "group_label": "Classic",
-          "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
-          "published_recipe_uuid": "99c2d6f4-d6b6-4543-94b6-1c8b68037729",
-          "fallback_published_recipe_uuids": [
-            "d3d0608c-a3b5-44fd-b367-61b3b9410e86"
-          ],
-          "first_published_at": 1485561081000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            151,
-            228,
-            229,
-            7,
-            184,
-            321,
-            75,
-            47
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            2,
-            0.68,
-            1,
-            16,
-            19.7157,
-            14.7868
-          ],
-          "average_rating": 0.85,
-          "rating_count": 35,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "Mexican",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 2992,
+  "recipe_id": 413,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Grilled Shrimp Tacos with Mango-Avocado Salsa",
+  "slug": "grilled-shrimp-tacos-mango-avocado-salsa",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/thumbnail_daab5e52-2326-431d-9deb-d11083480355.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/413/presentation_daab5e52-2326-431d-9deb-d11083480355.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-shrimp-tacos-mango-avocado-salsa",
-    "variantId": "2992"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 29436,
+      "primary_message": "If using frozen shrimp, place them in a colander and run under cold water until there are no more ice chunks. Then, lay them out on a paper towel or clean cloth and pat dry. Transfer to a medium bowl. If using fresh shrimp, place them directly into a medium bowl.",
+      "secondary_message": "1 ½ lb raw peeled shrimp, fresh or frozen"
+    },
+    {
+      "id": 29437,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 mangoes\n2 avocados\n2 jalapeño peppers\n2 limes\n1 small bunch cilantro"
+    },
+    {
+      "id": 29438,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add half of the cilantro to the shrimp and transfer the rest to a medium bowl (for the salsa).",
+      "secondary_message": null
+    },
+    {
+      "id": 29439,
+      "primary_message": "Drizzle the shrimp with olive oil and season with chili powder; toss to combine. Set aside while you prepare the salsa.",
+      "secondary_message": "1 tbsp extra virgin olive oil\n4 tsp chili powder"
+    },
+    {
+      "id": 29440,
+      "primary_message": "Peel the mangoes and discard the peels; slice the flesh away from the pit, starting with the flat sides. Small dice the mangoes and add to the cilantro.",
+      "secondary_message": ""
+    },
+    {
+      "id": 29441,
+      "primary_message": "Halve and pit the avocados; scoop out the flesh from the skin. Small dice the avocados and add to the bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 29442,
+      "primary_message": "Halve the jalapeños lengthwise; remove and discard the seeds and white membranes. Finely dice the peppers and add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 29443,
+      "primary_message": "Preheat a grill pan or regular skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 29444,
+      "primary_message": "Peel and small dice the onion; add to the bowl.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 29445,
+      "primary_message": "Juice the lime and pour over the salsa. Toss the salsa until well combined.",
+      "secondary_message": ""
+    },
+    {
+      "id": 29446,
+      "primary_message": "Once the grill pan / skillet is hot, add the shrimp; cook until they are opaque, 1 to 2 minutes per side. Once done, transfer to a plate and set aside to cool.",
+      "secondary_message": null
+    },
+    {
+      "id": 29447,
+      "primary_message": "Wrap the tortillas in a damp paper towel or cloth and microwave until they are heated through, 30 seconds to 1 minute.",
+      "secondary_message": "16 small corn tortillas"
+    },
+    {
+      "id": 29448,
+      "primary_message": "Once the shrimp have cooled slightly, peel and discard the tails.",
+      "secondary_message": null
+    },
+    {
+      "id": 29449,
+      "primary_message": "To serve, place 3 to 4 shrimp into each tortilla and spoon the mango-avocado salsa over top. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 36882,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 36886,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 36884,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 36885,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 36887,
+      "quantity": "2",
+      "ingredient_name": "mangoes"
+    },
+    {
+      "id": 36888,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "raw peeled shrimp, fresh or frozen"
+    },
+    {
+      "id": 36880,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 36881,
+      "quantity": "16",
+      "ingredient_name": "small corn tortillas"
+    },
+    {
+      "id": 36883,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 36879,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 652.13,
+    "alcohol": 0,
+    "ash": 7.06,
+    "caffeine": 0,
+    "water": 468.69,
+    "carbs": 85.08,
+    "fiber": 17.71,
+    "starch": 37.46,
+    "sugars": 26.65,
+    "fructose": 8.83,
+    "galactose": 0.1,
+    "glucose": 4.67,
+    "lactose": 0,
+    "maltose": 0.32,
+    "sucrose": 12.7,
+    "sugar_alcohol": 0,
+    "fat": 23.75,
+    "monounsaturated": 13.67,
+    "polyunsaturated": 4.4,
+    "omega_3": 0.56,
+    "omega_6": 3.85,
+    "saturated": 3.72,
+    "transfats": 0.04,
+    "cholesterol": 214.32,
+    "protein": 33.25,
+    "alanine": 2.12,
+    "arginine": 2.75,
+    "aspartic_acid": 3.43,
+    "cystine": 0.41,
+    "glutamic_acid": 5.7,
+    "glycine": 1.78,
+    "histidine": 0.77,
+    "isoleucine": 1.42,
+    "leucine": 2.92,
+    "lysine": 2.63,
+    "methionine": 0.85,
+    "phenylalanine": 1.45,
+    "proline": 1.75,
+    "serine": 1.4,
+    "threonine": 1.27,
+    "tryptophan": 0.36,
+    "tyrosine": 1.19,
+    "valine": 1.57,
+    "b1_thiamine": 0.28,
+    "b2_riboflavin": 0.36,
+    "b3_niacin": 8.02,
+    "b5_pantothenic_acid": 2.58,
+    "b6_pyridoxine": 1.1,
+    "b12_cobalamin": 1.89,
+    "choline": 185.08,
+    "folate": 213.23,
+    "vitamin_a": 470.1,
+    "vitamin_c": 93.56,
+    "vitamin_d": 3.4,
+    "vitamin_e": 8.41,
+    "vitamin_k": 97.06,
+    "calcium": 232.63,
+    "copper": 0.93,
+    "iron": 3.29,
+    "magnesium": 167.22,
+    "manganese": 0.79,
+    "phosphorus": 822.73,
+    "potassium": 1327.95,
+    "selenium": 58.53,
+    "sodium": 1025.71,
+    "zinc": 3.99
+  }
 }

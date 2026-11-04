@@ -1,1100 +1,235 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 26096,
-        "recipe_id": 2939,
-        "serving_count": 4,
-        "cooking_minutes": 20,
-        "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-        "slug": "pan-fried-chicken-cranberry-orange-relish-mixed-greens-feta",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 415227,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 415228,
-            "primary_message": "While the skillet heats up, pat chicken dry with paper towels. Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin fillets. Sprinkle both sides with flour and salt.",
-            "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n2 tbsp all-purpose flour\n½ tsp salt"
-          },
-          {
-            "id": 415229,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chicken and pan-fry until golden brown and cooked through, 3-4 minutes per side. Remove chicken to a plate. (Reserve skillet with cooking juices for later use.)",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 415230,
-            "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
-            "secondary_message": "2 oranges\n1 small bunch green onions (scallions)\n1 (5 oz) pkg spring mix (mixed greens)"
-          },
-          {
-            "id": 415231,
-            "primary_message": "Using a clean cutting board, peel and separate oranges into segments; cut segments crosswise into bite-sized pieces. Place in a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 415232,
-            "primary_message": "Trim and cut green onions crosswise into thin pieces. Add to the bowl with the orange and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 415233,
-            "primary_message": "When the chicken is done, return skillet (with cooking juices) to medium heat. Add orange, green onion, water, cranberries, coriander, and salt. Cook, stirring occasionally, until orange softens and relish has slightly thickened, 2-3 minutes. Remove from heat.",
-            "secondary_message": "½ cup water\n¼ cup dried cranberries\n½ tsp coriander, ground\n½ tsp salt"
-          },
-          {
-            "id": 415234,
-            "primary_message": "Meanwhile, place mixed greens, carrots, feta, and vinaigrette in a medium bowl. Gently toss to combine the salad.",
-            "secondary_message": "1 (10 oz) bag shredded carrots\n1 (4 oz) pkg crumbled feta cheese\n⅓ cup French vinaigrette"
-          },
-          {
-            "id": 415235,
-            "primary_message": "To serve, divide chicken and salad between plates; top chicken with orange relish. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 444548,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 444547,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 444546,
-            "quantity": "¼ cup",
-            "ingredient_name": "dried cranberries"
-          },
-          {
-            "id": 444556,
-            "quantity": "90 ml",
-            "ingredient_name": "French vinaigrette"
-          },
-          {
-            "id": 444554,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 444555,
-            "quantity": "2",
-            "ingredient_name": "oranges"
-          },
-          {
-            "id": 444557,
-            "quantity": "1 (10 oz) bag",
-            "ingredient_name": "shredded carrots"
-          },
-          {
-            "id": 444553,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 444552,
-            "quantity": "",
-            "ingredient_name": "all-purpose flour"
-          },
-          {
-            "id": 444550,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 444549,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 444551,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 550.3,
-          "alcohol": 0,
-          "ash": 6.49,
-          "caffeine": 0,
-          "water": 318.15,
-          "carbs": 27.99,
-          "fiber": 5.55,
-          "starch": 3.98,
-          "sugars": 16.5,
-          "fructose": 2.19,
-          "galactose": 0.01,
-          "glucose": 2.7,
-          "lactose": 1.16,
-          "maltose": 0,
-          "sucrose": 10.56,
-          "sugar_alcohol": 0,
-          "fat": 28.52,
-          "monounsaturated": 7.56,
-          "polyunsaturated": 1.83,
-          "omega_3": 0.21,
-          "omega_6": 1.62,
-          "saturated": 6.96,
-          "transfats": 0.32,
-          "cholesterol": 149.31,
-          "protein": 45,
-          "alanine": 2.59,
-          "arginine": 2.9,
-          "aspartic_acid": 4.15,
-          "cystine": 0.51,
-          "glutamic_acid": 6.98,
-          "glycine": 1.88,
-          "histidine": 1.61,
-          "isoleucine": 2.23,
-          "leucine": 3.74,
-          "lysine": 4.19,
-          "methionine": 1.15,
-          "phenylalanine": 1.86,
-          "proline": 1.77,
-          "serine": 1.91,
-          "threonine": 2.09,
-          "tryptophan": 0.57,
-          "tyrosine": 1.65,
-          "valine": 2.42,
-          "b1_thiamine": 0.38,
-          "b2_riboflavin": 0.68,
-          "b3_niacin": 18.07,
-          "b5_pantothenic_acid": 3.34,
-          "b6_pyridoxine": 1.69,
-          "b12_cobalamin": 0.83,
-          "choline": 162.74,
-          "folate": 118.96,
-          "vitamin_a": 12379.71,
-          "vitamin_c": 47.37,
-          "vitamin_d": 6.22,
-          "vitamin_e": 3.01,
-          "vitamin_k": 135,
-          "calcium": 235.51,
-          "copper": 0.19,
-          "iron": 2.17,
-          "magnesium": 84.09,
-          "manganese": 0.37,
-          "phosphorus": 517.52,
-          "potassium": 1110.29,
-          "selenium": 45.17,
-          "sodium": 605.24,
-          "zinc": 2.47
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-fried-chicken-cranberry-orange-relish-mixed-greens-feta/26096",
-      "altVariants": [
-        {
-          "id": 26100,
-          "recipe_id": 2939,
-          "group_label": "Default auto-gluten-free",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "7d51c183-2355-4178-881c-e6b1ad752178",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959914000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            76,
-            47,
-            271,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            1.5,
-            0.3333333333333333,
-            135,
-            1,
-            3,
-            1.5,
-            1.5,
-            3.75,
-            45,
-            45,
-            7.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26099,
-          "recipe_id": 2939,
-          "group_label": "Default auto-gluten-free",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "f9a69008-85bc-4246-96e9-364f141680cf",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959914000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            76,
-            47,
-            271,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            0.25,
-            90,
-            1,
-            2,
-            1,
-            1,
-            2.5,
-            30,
-            30,
-            5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26098,
-          "recipe_id": 2939,
-          "group_label": "Default auto-gluten-free",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "784311f5-870b-4685-9e5b-39f2dd3b0002",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959914000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            76,
-            47,
-            271,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            0.5,
-            0.125,
-            45,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1.25,
-            15,
-            15,
-            2.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26097,
-          "recipe_id": 2939,
-          "group_label": "Default",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "78ad59e3-5b6f-4d9a-b357-90fdc98a2971",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959915000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            116,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            1.5,
-            0.3333333333333333,
-            135,
-            1,
-            3,
-            1.5,
-            1.5,
-            45,
-            3.75,
-            45,
-            7.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26096,
-          "recipe_id": 2939,
-          "group_label": "Default",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "1c72fe99-6ced-4e90-a0af-e2dbc46920fd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959915000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            116,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            0.25,
-            90,
-            1,
-            2,
-            1,
-            1,
-            30,
-            2.5,
-            30,
-            5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26095,
-          "recipe_id": 2939,
-          "group_label": "Default",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "9b7a14df-d5a4-415d-a22c-6b979e7b5062",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959915000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            116,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            0.5,
-            0.125,
-            45,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            15,
-            1.25,
-            15,
-            2.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26101,
-          "recipe_id": 2939,
-          "group_label": "Default",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "d73951b0-bbb0-46ec-9eeb-88b846f98071",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959913000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            116,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            0.5,
-            0.125,
-            45,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            15,
-            1.25,
-            15,
-            2.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26103,
-          "recipe_id": 2939,
-          "group_label": "Default",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "90e33b00-f6d9-4a94-9027-46e0ca916923",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959913000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            116,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            1.5,
-            0.3333333333333333,
-            135,
-            1,
-            3,
-            1.5,
-            1.5,
-            45,
-            3.75,
-            45,
-            7.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26104,
-          "recipe_id": 2939,
-          "group_label": "Default auto-gluten-free",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "80723b63-d9fd-465b-847a-96857a768c7e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959912000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            76,
-            47,
-            271,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            0.5,
-            0.125,
-            45,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1.25,
-            15,
-            15,
-            2.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26106,
-          "recipe_id": 2939,
-          "group_label": "Default auto-gluten-free",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "f2fcfc5c-8a52-4d7b-a228-51e07847c8ed",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959912000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            76,
-            47,
-            271,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            1.5,
-            0.3333333333333333,
-            135,
-            1,
-            3,
-            1.5,
-            1.5,
-            3.75,
-            45,
-            45,
-            7.5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26105,
-          "recipe_id": 2939,
-          "group_label": "Default auto-gluten-free",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "301a5c8d-59bd-469a-94e1-c0cef8d0c51e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959912000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            76,
-            47,
-            271,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            1,
-            0.25,
-            90,
-            1,
-            2,
-            1,
-            1,
-            2.5,
-            30,
-            30,
-            5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        },
-        {
-          "id": 26102,
-          "recipe_id": 2939,
-          "group_label": "Default",
-          "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
-          "published_recipe_uuid": "1d19cd02-b9ad-4a4c-a5c8-f71e489bbb9e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1696959913000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            32,
-            30,
-            432,
-            153,
-            232,
-            451,
-            145,
-            116,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            1,
-            0.25,
-            90,
-            1,
-            2,
-            1,
-            1,
-            30,
-            2.5,
-            30,
-            5
-          ],
-          "average_rating": 0.583,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Our sweet 'n' tangy relish transforms chicken into something magical"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Our sweet 'n' tangy relish transforms chicken into something magical",
-        "keywords": [
-          "Pan-Fried"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 26096,
+  "recipe_id": 2939,
+  "serving_count": 4,
+  "cooking_minutes": 20,
+  "name": "Pan-Fried Chicken with Cranberry-Orange Relish, Mixed Greens & Feta",
+  "slug": "pan-fried-chicken-cranberry-orange-relish-mixed-greens-feta",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/thumbnail_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2939/presentation_58eb4964-86c0-46ba-8917-33123dfc845c.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pan-fried-chicken-cranberry-orange-relish-mixed-greens-feta",
-    "variantId": "26096"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 415227,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 415228,
+      "primary_message": "While the skillet heats up, pat chicken dry with paper towels. Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin fillets. Sprinkle both sides with flour and salt.",
+      "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n2 tbsp all-purpose flour\n½ tsp salt"
+    },
+    {
+      "id": 415229,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chicken and pan-fry until golden brown and cooked through, 3-4 minutes per side. Remove chicken to a plate. (Reserve skillet with cooking juices for later use.)",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 415230,
+      "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
+      "secondary_message": "2 oranges\n1 small bunch green onions (scallions)\n1 (5 oz) pkg spring mix (mixed greens)"
+    },
+    {
+      "id": 415231,
+      "primary_message": "Using a clean cutting board, peel and separate oranges into segments; cut segments crosswise into bite-sized pieces. Place in a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 415232,
+      "primary_message": "Trim and cut green onions crosswise into thin pieces. Add to the bowl with the orange and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 415233,
+      "primary_message": "When the chicken is done, return skillet (with cooking juices) to medium heat. Add orange, green onion, water, cranberries, coriander, and salt. Cook, stirring occasionally, until orange softens and relish has slightly thickened, 2-3 minutes. Remove from heat.",
+      "secondary_message": "½ cup water\n¼ cup dried cranberries\n½ tsp coriander, ground\n½ tsp salt"
+    },
+    {
+      "id": 415234,
+      "primary_message": "Meanwhile, place mixed greens, carrots, feta, and vinaigrette in a medium bowl. Gently toss to combine the salad.",
+      "secondary_message": "1 (10 oz) bag shredded carrots\n1 (4 oz) pkg crumbled feta cheese\n⅓ cup French vinaigrette"
+    },
+    {
+      "id": 415235,
+      "primary_message": "To serve, divide chicken and salad between plates; top chicken with orange relish. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 444548,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 444547,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 444546,
+      "quantity": "¼ cup",
+      "ingredient_name": "dried cranberries"
+    },
+    {
+      "id": 444556,
+      "quantity": "90 ml",
+      "ingredient_name": "French vinaigrette"
+    },
+    {
+      "id": 444554,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 444555,
+      "quantity": "2",
+      "ingredient_name": "oranges"
+    },
+    {
+      "id": 444557,
+      "quantity": "1 (10 oz) bag",
+      "ingredient_name": "shredded carrots"
+    },
+    {
+      "id": 444553,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 444552,
+      "quantity": "",
+      "ingredient_name": "all-purpose flour"
+    },
+    {
+      "id": 444550,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 444549,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 444551,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 550.3,
+    "alcohol": 0,
+    "ash": 6.49,
+    "caffeine": 0,
+    "water": 318.15,
+    "carbs": 27.99,
+    "fiber": 5.55,
+    "starch": 3.98,
+    "sugars": 16.5,
+    "fructose": 2.19,
+    "galactose": 0.01,
+    "glucose": 2.7,
+    "lactose": 1.16,
+    "maltose": 0,
+    "sucrose": 10.56,
+    "sugar_alcohol": 0,
+    "fat": 28.52,
+    "monounsaturated": 7.56,
+    "polyunsaturated": 1.83,
+    "omega_3": 0.21,
+    "omega_6": 1.62,
+    "saturated": 6.96,
+    "transfats": 0.32,
+    "cholesterol": 149.31,
+    "protein": 45,
+    "alanine": 2.59,
+    "arginine": 2.9,
+    "aspartic_acid": 4.15,
+    "cystine": 0.51,
+    "glutamic_acid": 6.98,
+    "glycine": 1.88,
+    "histidine": 1.61,
+    "isoleucine": 2.23,
+    "leucine": 3.74,
+    "lysine": 4.19,
+    "methionine": 1.15,
+    "phenylalanine": 1.86,
+    "proline": 1.77,
+    "serine": 1.91,
+    "threonine": 2.09,
+    "tryptophan": 0.57,
+    "tyrosine": 1.65,
+    "valine": 2.42,
+    "b1_thiamine": 0.38,
+    "b2_riboflavin": 0.68,
+    "b3_niacin": 18.07,
+    "b5_pantothenic_acid": 3.34,
+    "b6_pyridoxine": 1.69,
+    "b12_cobalamin": 0.83,
+    "choline": 162.74,
+    "folate": 118.96,
+    "vitamin_a": 12379.71,
+    "vitamin_c": 47.37,
+    "vitamin_d": 6.22,
+    "vitamin_e": 3.01,
+    "vitamin_k": 135,
+    "calcium": 235.51,
+    "copper": 0.19,
+    "iron": 2.17,
+    "magnesium": 84.09,
+    "manganese": 0.37,
+    "phosphorus": 517.52,
+    "potassium": 1110.29,
+    "selenium": 45.17,
+    "sodium": 605.24,
+    "zinc": 2.47
+  }
 }

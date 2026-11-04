@@ -1,1300 +1,315 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 6704,
-        "recipe_id": 765,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-        "slug": "teriyaki-mushroom-bowl-carrots-quick-pickled-cucumbers",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 73,
-            "name": "mandoline slicer (optional)",
-            "slug": "mandoline-slicer"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 108021,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and bring the mixture to a boil over high heat.",
-            "secondary_message": "1 ½ cups jasmine rice\n3 cup water"
-          },
-          {
-            "id": 108022,
-            "primary_message": "Drain and rinse the beans in a colander; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans pinto beans"
-          },
-          {
-            "id": 108023,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 caps portobello mushrooms\n1 English cucumber\n2 medium carrots\n½ small bunch green onions (scallions)\n2 (1 inch) pieces ginger root"
-          },
-          {
-            "id": 108024,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 108025,
-            "primary_message": "In a medium bowl, combine vinegar, sugar, and salt. Thinly slice the cucumber, add to the bowl, and toss to coat.",
-            "secondary_message": "⅓ cup rice vinegar\n2 tbsp brown sugar\n½ tsp salt"
-          },
-          {
-            "id": 108026,
-            "primary_message": "Peel and mince the garlic and the ginger; place in a small bowl. Add soy sauce, brown sugar, and sesame oil to make the teriyaki sauce.",
-            "secondary_message": "6 cloves garlic\n¼ cup soy sauce\n2 tbsp brown sugar\n2 tbsp toasted sesame oil"
-          },
-          {
-            "id": 108027,
-            "primary_message": "Remove the stems of the portobello mushrooms; scrape out the gills using a spoon. Cut mushrooms in half and then slice crosswise into thin strips.",
-            "secondary_message": null
-          },
-          {
-            "id": 108028,
-            "primary_message": "Peel and thinly slice onion into half rings.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 108029,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 108030,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add the yellow onions and cook for about 2 minutes. Add the mushrooms and continue cooking until the mushrooms have started to soften, about 6 minutes.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 108031,
-            "primary_message": "Add beans and teriyaki sauce to the skillet and cook 3 minutes more.",
-            "secondary_message": null
-          },
-          {
-            "id": 108032,
-            "primary_message": "Trim green onions and cut crosswise into ¼-inch pieces at an angle.",
-            "secondary_message": null
-          },
-          {
-            "id": 108033,
-            "primary_message": "Peel and coarsely grate the carrots.",
-            "secondary_message": null
-          },
-          {
-            "id": 108034,
-            "primary_message": "Uncover the rice and fluff with a fork, and drizzle with sesame oil and sprinkle with sesame seeds. Fold the oil and seeds into the rice.",
-            "secondary_message": "2 tbsp toasted sesame oil\n2 tbsp sesame seeds"
-          },
-          {
-            "id": 108035,
-            "primary_message": "To serve, divide rice between bowls and top with mushrooms, cucumbers, carrots, and green onions. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 112396,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 112395,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 112387,
-            "quantity": "6 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 112398,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 112394,
-            "quantity": "½ small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 112402,
-            "quantity": "1 ½ cups",
-            "ingredient_name": "jasmine rice"
-          },
-          {
-            "id": 112391,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "pinto beans"
-          },
-          {
-            "id": 112399,
-            "quantity": "4 caps",
-            "ingredient_name": "portobello mushrooms"
-          },
-          {
-            "id": 112393,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 112401,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 112400,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 112390,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 112397,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          },
-          {
-            "id": 112389,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          },
-          {
-            "id": 112388,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          },
-          {
-            "id": 112392,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 745.19,
-          "alcohol": 0,
-          "ash": 7.45,
-          "caffeine": 0,
-          "water": 351.33,
-          "carbs": 111.11,
-          "fiber": 12.45,
-          "starch": 17.34,
-          "sugars": 20.77,
-          "fructose": 1.91,
-          "galactose": 0,
-          "glucose": 3.53,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 15.43,
-          "sugar_alcohol": 0,
-          "fat": 25.91,
-          "monounsaturated": 7.41,
-          "polyunsaturated": 7.81,
-          "omega_3": 0.3,
-          "omega_6": 7.51,
-          "saturated": 8.83,
-          "transfats": 0,
-          "cholesterol": 0,
-          "protein": 19.86,
-          "alanine": 0.98,
-          "arginine": 1.32,
-          "aspartic_acid": 2.01,
-          "cystine": 0.27,
-          "glutamic_acid": 3.45,
-          "glycine": 0.81,
-          "histidine": 0.49,
-          "isoleucine": 0.81,
-          "leucine": 1.43,
-          "lysine": 1.05,
-          "methionine": 0.33,
-          "phenylalanine": 0.96,
-          "proline": 0.94,
-          "serine": 1.03,
-          "threonine": 0.79,
-          "tryptophan": 0.24,
-          "tyrosine": 0.48,
-          "valine": 0.97,
-          "b1_thiamine": 0.62,
-          "b2_riboflavin": 0.27,
-          "b3_niacin": 8.25,
-          "b5_pantothenic_acid": 2.31,
-          "b6_pyridoxine": 0.7,
-          "b12_cobalamin": 0.04,
-          "choline": 73.6,
-          "folate": 247.65,
-          "vitamin_a": 212.61,
-          "vitamin_c": 9.97,
-          "vitamin_d": 8.4,
-          "vitamin_e": 1.62,
-          "vitamin_k": 47.9,
-          "calcium": 171.27,
-          "copper": 0.9,
-          "iron": 6.28,
-          "magnesium": 120.39,
-          "manganese": 1.82,
-          "phosphorus": 413.53,
-          "potassium": 1116.85,
-          "selenium": 35.43,
-          "sodium": 319.11,
-          "zinc": 2.89
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/teriyaki-mushroom-bowl-carrots-quick-pickled-cucumbers/6704",
-      "altVariants": [
-        {
-          "id": 7507,
-          "recipe_id": 765,
-          "group_label": "Default auto-gluten-free",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "f9daea63-26a9-4a39-ac55-cdce3efab665",
-          "fallback_published_recipe_uuids": [
-            "a5ba08b3-3719-4f4d-b3f4-0bcdca2688c1"
-          ],
-          "first_published_at": 1565935920000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            54,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            3,
-            1,
-            0.25,
-            0.75,
-            1,
-            2,
-            0.5,
-            30,
-            45,
-            1.25,
-            15,
-            30,
-            30,
-            15
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6705,
-          "recipe_id": 765,
-          "group_label": "Default",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "f87e37f0-cd4f-48ea-9a4d-1f6d47a46125",
-          "fallback_published_recipe_uuids": [
-            "f899bc8d-6fba-4784-be39-322d32813235",
-            "44ef2d35-1861-435d-ad53-1f7bebfa7885",
-            "6fd8c5eb-106c-4e5b-b3a0-92ae01a70207"
-          ],
-          "first_published_at": 1555976386000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            9,
-            3,
-            0.75,
-            2.25,
-            3,
-            6,
-            1.5,
-            90,
-            135,
-            3.75,
-            45,
-            90,
-            90,
-            45
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6704,
-          "recipe_id": 765,
-          "group_label": "Default",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "8906c7cd-3fd7-4280-85a3-87f6d2337453",
-          "fallback_published_recipe_uuids": [
-            "c4d06c5f-3ad9-4302-b71b-ca843ec40345",
-            "bed16da0-da50-423e-97fc-158aa65aafc7",
-            "fb4645cc-12e1-4062-b499-07cd02a0c0b7"
-          ],
-          "first_published_at": 1555976384000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            6,
-            2,
-            0.5,
-            1.5,
-            2,
-            4,
-            1,
-            60,
-            90,
-            2.5,
-            30,
-            60,
-            60,
-            30
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6703,
-          "recipe_id": 765,
-          "group_label": "Default",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "379e26a3-5070-431e-aa57-b81f66c9bd70",
-          "fallback_published_recipe_uuids": [
-            "9e63fb3e-5c9a-4f85-bb51-a42116ead106",
-            "aab4e6c1-a1d6-4b0c-9ef4-ee613a93f0e2",
-            "d9c7ac50-c701-4266-8e8c-05e119901592"
-          ],
-          "first_published_at": 1555976379000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            3,
-            1,
-            0.25,
-            0.75,
-            1,
-            2,
-            0.5,
-            30,
-            45,
-            1.25,
-            15,
-            30,
-            30,
-            15
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7508,
-          "recipe_id": 765,
-          "group_label": "Default auto-gluten-free",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "b510ea69-4a0d-45b8-9aa1-f2493c8550d3",
-          "fallback_published_recipe_uuids": [
-            "90a996ba-e0f4-4246-929f-ccf86d4ebace"
-          ],
-          "first_published_at": 1565935921000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            54,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            6,
-            2,
-            0.5,
-            1.5,
-            2,
-            4,
-            1,
-            60,
-            90,
-            2.5,
-            30,
-            60,
-            60,
-            30
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7509,
-          "recipe_id": 765,
-          "group_label": "Default auto-gluten-free",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "307284de-4d2f-4335-8b14-3d3ef040ada6",
-          "fallback_published_recipe_uuids": [
-            "d5d90aeb-7c83-44ba-a3e1-68ce83cc9e3d"
-          ],
-          "first_published_at": 1565935922000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            54,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            9,
-            3,
-            0.75,
-            2.25,
-            3,
-            6,
-            1.5,
-            90,
-            135,
-            3.75,
-            45,
-            90,
-            90,
-            45
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7512,
-          "recipe_id": 765,
-          "group_label": "Default auto-gluten-free",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "d9dacaee-3997-4d2b-93b0-cf4e34ec0466",
-          "fallback_published_recipe_uuids": [
-            "01bc09b4-edd4-4846-805b-b7fb5883898b"
-          ],
-          "first_published_at": 1565935928000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            54,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            9,
-            3,
-            0.75,
-            2.25,
-            3,
-            6,
-            1.5,
-            90,
-            135,
-            3.75,
-            45,
-            90,
-            90,
-            45
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7511,
-          "recipe_id": 765,
-          "group_label": "Default auto-gluten-free",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "46c7612b-83d3-488c-8032-55fa542dd9e1",
-          "fallback_published_recipe_uuids": [
-            "7b8f3355-25f9-453f-86f1-e7aa62aa86f3"
-          ],
-          "first_published_at": 1565935927000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            54,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            6,
-            2,
-            0.5,
-            1.5,
-            2,
-            4,
-            1,
-            60,
-            90,
-            2.5,
-            30,
-            60,
-            60,
-            30
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7510,
-          "recipe_id": 765,
-          "group_label": "Default auto-gluten-free",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "243303cc-f19a-402a-aed8-2ce592322298",
-          "fallback_published_recipe_uuids": [
-            "638aebc2-7b94-4a9d-ab4c-43511c6b2570"
-          ],
-          "first_published_at": 1565935926000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            54,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            3,
-            1,
-            0.25,
-            0.75,
-            1,
-            2,
-            0.5,
-            30,
-            45,
-            1.25,
-            15,
-            30,
-            30,
-            15
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6708,
-          "recipe_id": 765,
-          "group_label": "Default",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "3917c80b-66bd-4685-be24-37f046519fe8",
-          "fallback_published_recipe_uuids": [
-            "b5a2bc95-6e62-4c52-b418-c53c2288f920",
-            "ba34266c-7f47-41ac-b13d-bf72c24d19e1",
-            "f9777ae7-39d3-489b-b0b5-4f7f2257966e"
-          ],
-          "first_published_at": 1555976388000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            9,
-            3,
-            0.75,
-            2.25,
-            3,
-            6,
-            1.5,
-            90,
-            135,
-            3.75,
-            45,
-            90,
-            90,
-            45
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6707,
-          "recipe_id": 765,
-          "group_label": "Default",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "b8910144-58fd-4250-ac83-5eb69792a1e2",
-          "fallback_published_recipe_uuids": [
-            "55e391d6-d0a0-48b3-9f13-409c43f800d3",
-            "fe744f51-0e89-4820-9467-e01b13bd6385",
-            "18fc96b0-913e-4901-aafb-be9c4c298ce8"
-          ],
-          "first_published_at": 1555976387000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            6,
-            2,
-            0.5,
-            1.5,
-            2,
-            4,
-            1,
-            60,
-            90,
-            2.5,
-            30,
-            60,
-            60,
-            30
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6706,
-          "recipe_id": 765,
-          "group_label": "Default",
-          "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
-          "published_recipe_uuid": "4f379de0-64bf-428b-bcc6-6ddc11a785bf",
-          "fallback_published_recipe_uuids": [
-            "5b31eb8f-c792-49c9-9110-9f3eeada82b0",
-            "ccf1c2f9-c5d6-4105-9e03-484cc2059cd2",
-            "c746890e-f4a7-4492-80f5-10295e3fdf98"
-          ],
-          "first_published_at": 1555976386000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            159,
-            155,
-            24,
-            221,
-            153,
-            319,
-            94,
-            231,
-            152,
-            293,
-            257,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            3,
-            1,
-            0.25,
-            0.75,
-            1,
-            2,
-            0.5,
-            30,
-            45,
-            1.25,
-            15,
-            30,
-            30,
-            15
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Bowls"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 6704,
+  "recipe_id": 765,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Teriyaki Mushroom  Bowl with Carrots & Quick Pickled Cucumbers",
+  "slug": "teriyaki-mushroom-bowl-carrots-quick-pickled-cucumbers",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/thumbnail_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/765/presentation_367a3c7d-4743-4c91-a1f7-4092b5d52130.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "teriyaki-mushroom-bowl-carrots-quick-pickled-cucumbers",
-    "variantId": "6704"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 73,
+      "name": "mandoline slicer (optional)",
+      "slug": "mandoline-slicer"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 108021,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and bring the mixture to a boil over high heat.",
+      "secondary_message": "1 ½ cups jasmine rice\n3 cup water"
+    },
+    {
+      "id": 108022,
+      "primary_message": "Drain and rinse the beans in a colander; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans pinto beans"
+    },
+    {
+      "id": 108023,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 caps portobello mushrooms\n1 English cucumber\n2 medium carrots\n½ small bunch green onions (scallions)\n2 (1 inch) pieces ginger root"
+    },
+    {
+      "id": 108024,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 108025,
+      "primary_message": "In a medium bowl, combine vinegar, sugar, and salt. Thinly slice the cucumber, add to the bowl, and toss to coat.",
+      "secondary_message": "⅓ cup rice vinegar\n2 tbsp brown sugar\n½ tsp salt"
+    },
+    {
+      "id": 108026,
+      "primary_message": "Peel and mince the garlic and the ginger; place in a small bowl. Add soy sauce, brown sugar, and sesame oil to make the teriyaki sauce.",
+      "secondary_message": "6 cloves garlic\n¼ cup soy sauce\n2 tbsp brown sugar\n2 tbsp toasted sesame oil"
+    },
+    {
+      "id": 108027,
+      "primary_message": "Remove the stems of the portobello mushrooms; scrape out the gills using a spoon. Cut mushrooms in half and then slice crosswise into thin strips.",
+      "secondary_message": null
+    },
+    {
+      "id": 108028,
+      "primary_message": "Peel and thinly slice onion into half rings.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 108029,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 108030,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add the yellow onions and cook for about 2 minutes. Add the mushrooms and continue cooking until the mushrooms have started to soften, about 6 minutes.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 108031,
+      "primary_message": "Add beans and teriyaki sauce to the skillet and cook 3 minutes more.",
+      "secondary_message": null
+    },
+    {
+      "id": 108032,
+      "primary_message": "Trim green onions and cut crosswise into ¼-inch pieces at an angle.",
+      "secondary_message": null
+    },
+    {
+      "id": 108033,
+      "primary_message": "Peel and coarsely grate the carrots.",
+      "secondary_message": null
+    },
+    {
+      "id": 108034,
+      "primary_message": "Uncover the rice and fluff with a fork, and drizzle with sesame oil and sprinkle with sesame seeds. Fold the oil and seeds into the rice.",
+      "secondary_message": "2 tbsp toasted sesame oil\n2 tbsp sesame seeds"
+    },
+    {
+      "id": 108035,
+      "primary_message": "To serve, divide rice between bowls and top with mushrooms, cucumbers, carrots, and green onions. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 112396,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 112395,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 112387,
+      "quantity": "6 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 112398,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 112394,
+      "quantity": "½ small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 112402,
+      "quantity": "1 ½ cups",
+      "ingredient_name": "jasmine rice"
+    },
+    {
+      "id": 112391,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "pinto beans"
+    },
+    {
+      "id": 112399,
+      "quantity": "4 caps",
+      "ingredient_name": "portobello mushrooms"
+    },
+    {
+      "id": 112393,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 112401,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 112400,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 112390,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 112397,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    },
+    {
+      "id": 112389,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    },
+    {
+      "id": 112388,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    },
+    {
+      "id": 112392,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 745.19,
+    "alcohol": 0,
+    "ash": 7.45,
+    "caffeine": 0,
+    "water": 351.33,
+    "carbs": 111.11,
+    "fiber": 12.45,
+    "starch": 17.34,
+    "sugars": 20.77,
+    "fructose": 1.91,
+    "galactose": 0,
+    "glucose": 3.53,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 15.43,
+    "sugar_alcohol": 0,
+    "fat": 25.91,
+    "monounsaturated": 7.41,
+    "polyunsaturated": 7.81,
+    "omega_3": 0.3,
+    "omega_6": 7.51,
+    "saturated": 8.83,
+    "transfats": 0,
+    "cholesterol": 0,
+    "protein": 19.86,
+    "alanine": 0.98,
+    "arginine": 1.32,
+    "aspartic_acid": 2.01,
+    "cystine": 0.27,
+    "glutamic_acid": 3.45,
+    "glycine": 0.81,
+    "histidine": 0.49,
+    "isoleucine": 0.81,
+    "leucine": 1.43,
+    "lysine": 1.05,
+    "methionine": 0.33,
+    "phenylalanine": 0.96,
+    "proline": 0.94,
+    "serine": 1.03,
+    "threonine": 0.79,
+    "tryptophan": 0.24,
+    "tyrosine": 0.48,
+    "valine": 0.97,
+    "b1_thiamine": 0.62,
+    "b2_riboflavin": 0.27,
+    "b3_niacin": 8.25,
+    "b5_pantothenic_acid": 2.31,
+    "b6_pyridoxine": 0.7,
+    "b12_cobalamin": 0.04,
+    "choline": 73.6,
+    "folate": 247.65,
+    "vitamin_a": 212.61,
+    "vitamin_c": 9.97,
+    "vitamin_d": 8.4,
+    "vitamin_e": 1.62,
+    "vitamin_k": 47.9,
+    "calcium": 171.27,
+    "copper": 0.9,
+    "iron": 6.28,
+    "magnesium": 120.39,
+    "manganese": 1.82,
+    "phosphorus": 413.53,
+    "potassium": 1116.85,
+    "selenium": 35.43,
+    "sodium": 319.11,
+    "zinc": 2.89
+  }
 }

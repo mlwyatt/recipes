@@ -1,1223 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 9789,
-        "recipe_id": 1148,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-        "slug": "warm-sausage-rice-salad-spinach-feta",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 195193,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and bring the mixture to a boil over high heat.",
-            "secondary_message": "⅔ cup basmati rice\n1 ⅓ cup water"
-          },
-          {
-            "id": 195194,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, add the sausages, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed and sausages are cooked through, 15-18 minutes. Once done, remove from the heat and let stand, still covered, for 5 minutes.",
-            "secondary_message": "5 pork sausages"
-          },
-          {
-            "id": 195195,
-            "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "2 lemons\n1 small bunch Italian (flat-leaf) parsley\n1 English cucumber\n2 red bell peppers\n1 (5 oz) pkg baby spinach"
-          },
-          {
-            "id": 195196,
-            "primary_message": "Juice the lemons into a large salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 195197,
-            "primary_message": "Shave parsley leaves off the stems; discard the stems and mince the leaves. Add to the bowl with the lemon juice.",
-            "secondary_message": null
-          },
-          {
-            "id": 195198,
-            "primary_message": "Peel and mince the garlic; add to the bowl.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 195199,
-            "primary_message": "Add oil, Dijon, vinegar, honey, salt, and pepper; whisk to combine the dressing.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n4 tsp Dijon mustard\n2 tsp apple cider vinegar\n1 tsp honey\n½ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 195200,
-            "primary_message": "Small dice the cucumber; add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 195201,
-            "primary_message": "Seed and small dice the bell peppers; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 195202,
-            "primary_message": "When the rice is done, carefully remove the sausages. Allow them to cool slightly; cut lengthwise and then crosswise into thin half-moons.",
-            "secondary_message": null
-          },
-          {
-            "id": 195203,
-            "primary_message": "Add sausage and rice to the bowl with the veggies and dressing. Toss to combine.",
-            "secondary_message": null
-          },
-          {
-            "id": 195204,
-            "primary_message": "To serve, divide spinach between plates and top with sausage and rice salad. Sprinkle feta over top and enjoy!",
-            "secondary_message": "½ (4 oz) pkg crumbled feta cheese"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 203722,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 203733,
-            "quantity": "⅔ cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 203721,
-            "quantity": "½ (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 203731,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 203720,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 203727,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 203732,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 203734,
-            "quantity": "5",
-            "ingredient_name": "pork sausages"
-          },
-          {
-            "id": 203730,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 203729,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 203724,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 203728,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 203723,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 203726,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 203725,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 658.35,
-          "alcohol": 0.01,
-          "ash": 6.8,
-          "caffeine": 0,
-          "water": 269.66,
-          "carbs": 37.81,
-          "fiber": 4.08,
-          "starch": 2.68,
-          "sugars": 6.8,
-          "fructose": 3.13,
-          "galactose": 0.09,
-          "glucose": 2.69,
-          "lactose": 0.58,
-          "maltose": 0.03,
-          "sucrose": 0.25,
-          "sugar_alcohol": 0,
-          "fat": 43.21,
-          "monounsaturated": 20.04,
-          "polyunsaturated": 5.32,
-          "omega_3": 0.2,
-          "omega_6": 4.75,
-          "saturated": 13.64,
-          "transfats": 0.29,
-          "cholesterol": 108.12,
-          "protein": 29.27,
-          "alanine": 1.58,
-          "arginine": 1.71,
-          "aspartic_acid": 2.51,
-          "cystine": 0.32,
-          "glutamic_acid": 4.32,
-          "glycine": 1.57,
-          "histidine": 0.8,
-          "isoleucine": 1.13,
-          "leucine": 2.03,
-          "lysine": 2.08,
-          "methionine": 0.68,
-          "phenylalanine": 1.08,
-          "proline": 1.44,
-          "serine": 1.25,
-          "threonine": 1.16,
-          "tryptophan": 0.27,
-          "tyrosine": 0.88,
-          "valine": 1.31,
-          "b1_thiamine": 0.64,
-          "b2_riboflavin": 0.53,
-          "b3_niacin": 9.77,
-          "b5_pantothenic_acid": 1.78,
-          "b6_pyridoxine": 0.81,
-          "b12_cobalamin": 1.58,
-          "choline": 99.26,
-          "folate": 209.57,
-          "vitamin_a": 240.36,
-          "vitamin_c": 118.91,
-          "vitamin_d": 32.97,
-          "vitamin_e": 3.56,
-          "vitamin_k": 192.13,
-          "calcium": 173.36,
-          "copper": 0.3,
-          "iron": 5.55,
-          "magnesium": 86.67,
-          "manganese": 0.94,
-          "phosphorus": 338.62,
-          "potassium": 940.5,
-          "selenium": 9.04,
-          "sodium": 1024.63,
-          "zinc": 3.84
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/warm-sausage-rice-salad-spinach-feta/9789",
-      "altVariants": [
-        {
-          "id": 9790,
-          "recipe_id": 1148,
-          "group_label": "Default",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "8da907bf-d95c-4c0c-ba20-92f8c72e45d4",
-          "fallback_published_recipe_uuids": [
-            "08f7a1e6-59bb-4b84-8002-db761879f8a4"
-          ],
-          "first_published_at": 1581107960000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            313,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            1,
-            1.5,
-            3,
-            1,
-            3,
-            8,
-            3,
-            15,
-            0.9375,
-            30,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11548,
-          "recipe_id": 1148,
-          "group_label": "Vegetarian",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "04457850-d285-4db1-9c55-6202a49a94ac",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1594316307000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            345,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.3333333333333333,
-            0.25,
-            0.5,
-            1,
-            0.5,
-            1,
-            2,
-            1,
-            5,
-            0.3125,
-            10,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9789,
-          "recipe_id": 1148,
-          "group_label": "Default",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "2fd6f5ea-5ffd-496e-a769-f670da546ee0",
-          "fallback_published_recipe_uuids": [
-            "ff90f3ab-539b-4fec-8dde-2ce2a6de83db"
-          ],
-          "first_published_at": 1581107959000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            313,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.6666666666666666,
-            0.5,
-            1,
-            2,
-            1,
-            2,
-            5,
-            2,
-            10,
-            0.625,
-            20,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9788,
-          "recipe_id": 1148,
-          "group_label": "Default",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "144f45ec-e5b6-49e1-b7ff-9f05c59de6fa",
-          "fallback_published_recipe_uuids": [
-            "f31ac9fb-2493-499e-8288-48f8539f0225"
-          ],
-          "first_published_at": 1581107959000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            313,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.3333333333333333,
-            0.25,
-            0.5,
-            1,
-            0.5,
-            1,
-            2,
-            1,
-            5,
-            0.3125,
-            10,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11550,
-          "recipe_id": 1148,
-          "group_label": "Vegetarian",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "8881cbb4-31c6-4b5d-8e93-da29500275f2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1594316306000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            345,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            1,
-            1.5,
-            3,
-            1,
-            3,
-            8,
-            3,
-            15,
-            0.9375,
-            30,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11549,
-          "recipe_id": 1148,
-          "group_label": "Vegetarian",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "5da2c80a-9087-4c1a-9b55-6ecefce61919",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1594316306000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            345,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.6666666666666666,
-            0.5,
-            1,
-            2,
-            1,
-            2,
-            4,
-            2,
-            10,
-            0.625,
-            20,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11553,
-          "recipe_id": 1148,
-          "group_label": "Vegetarian",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "cbbb3c52-4584-425d-9634-508a5da47b0a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1594316304000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            345,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            1,
-            1.5,
-            3,
-            1,
-            3,
-            8,
-            3,
-            15,
-            0.9375,
-            30,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11552,
-          "recipe_id": 1148,
-          "group_label": "Vegetarian",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "49cedc2d-20d3-4aa6-9bdc-9b591249cdd8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1594316304000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            345,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.6666666666666666,
-            0.5,
-            1,
-            2,
-            1,
-            2,
-            4,
-            2,
-            10,
-            0.625,
-            20,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11551,
-          "recipe_id": 1148,
-          "group_label": "Vegetarian",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "3be898d3-e256-410d-a4b5-f9dd41517bbe",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1594316304000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            345,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.3333333333333333,
-            0.25,
-            0.5,
-            1,
-            0.5,
-            1,
-            2,
-            1,
-            5,
-            0.3125,
-            10,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9793,
-          "recipe_id": 1148,
-          "group_label": "Default",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "fef91d6d-ec4d-4c33-b21f-c9716c24916e",
-          "fallback_published_recipe_uuids": [
-            "e0f73ab5-95d3-49fb-8347-f5ae9e1a730d"
-          ],
-          "first_published_at": 1581107962000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            313,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            1,
-            1.5,
-            3,
-            1,
-            3,
-            8,
-            3,
-            15,
-            0.9375,
-            30,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9792,
-          "recipe_id": 1148,
-          "group_label": "Default",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "d1275f63-8ea2-4253-b9b2-c5d3f9701356",
-          "fallback_published_recipe_uuids": [
-            "6b0933f7-e5f6-447d-ab5a-7bee950d4ddb"
-          ],
-          "first_published_at": 1581107961000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            313,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.6666666666666666,
-            0.5,
-            1,
-            2,
-            1,
-            2,
-            5,
-            2,
-            10,
-            0.625,
-            20,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9791,
-          "recipe_id": 1148,
-          "group_label": "Default",
-          "name": "Warm Sausage-Rice Salad with Spinach & Feta",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
-          "published_recipe_uuid": "8ec31d28-5495-40ee-acf2-0833b85af5d9",
-          "fallback_published_recipe_uuids": [
-            "a14ce6a7-754d-4410-90f8-dda12745040e"
-          ],
-          "first_published_at": 1581107960000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            32,
-            155,
-            24,
-            106,
-            192,
-            313,
-            150,
-            133,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.3333333333333333,
-            0.25,
-            0.5,
-            1,
-            0.5,
-            1,
-            2,
-            1,
-            5,
-            0.3125,
-            10,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.833,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.2
-      }
+  "id": 9789,
+  "recipe_id": 1148,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Warm Sausage-Rice Salad with Spinach & Feta",
+  "slug": "warm-sausage-rice-salad-spinach-feta",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/thumbnail_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1148/presentation_04d60b61-7bb0-4d74-a599-1869cb8a304a.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "warm-sausage-rice-salad-spinach-feta",
-    "variantId": "9789"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 195193,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and bring the mixture to a boil over high heat.",
+      "secondary_message": "⅔ cup basmati rice\n1 ⅓ cup water"
+    },
+    {
+      "id": 195194,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, add the sausages, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed and sausages are cooked through, 15-18 minutes. Once done, remove from the heat and let stand, still covered, for 5 minutes.",
+      "secondary_message": "5 pork sausages"
+    },
+    {
+      "id": 195195,
+      "primary_message": "Meanwhile, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "2 lemons\n1 small bunch Italian (flat-leaf) parsley\n1 English cucumber\n2 red bell peppers\n1 (5 oz) pkg baby spinach"
+    },
+    {
+      "id": 195196,
+      "primary_message": "Juice the lemons into a large salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 195197,
+      "primary_message": "Shave parsley leaves off the stems; discard the stems and mince the leaves. Add to the bowl with the lemon juice.",
+      "secondary_message": null
+    },
+    {
+      "id": 195198,
+      "primary_message": "Peel and mince the garlic; add to the bowl.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 195199,
+      "primary_message": "Add oil, Dijon, vinegar, honey, salt, and pepper; whisk to combine the dressing.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n4 tsp Dijon mustard\n2 tsp apple cider vinegar\n1 tsp honey\n½ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 195200,
+      "primary_message": "Small dice the cucumber; add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 195201,
+      "primary_message": "Seed and small dice the bell peppers; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 195202,
+      "primary_message": "When the rice is done, carefully remove the sausages. Allow them to cool slightly; cut lengthwise and then crosswise into thin half-moons.",
+      "secondary_message": null
+    },
+    {
+      "id": 195203,
+      "primary_message": "Add sausage and rice to the bowl with the veggies and dressing. Toss to combine.",
+      "secondary_message": null
+    },
+    {
+      "id": 195204,
+      "primary_message": "To serve, divide spinach between plates and top with sausage and rice salad. Sprinkle feta over top and enjoy!",
+      "secondary_message": "½ (4 oz) pkg crumbled feta cheese"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 203722,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 203733,
+      "quantity": "⅔ cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 203721,
+      "quantity": "½ (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 203731,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 203720,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 203727,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 203732,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 203734,
+      "quantity": "5",
+      "ingredient_name": "pork sausages"
+    },
+    {
+      "id": 203730,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 203729,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 203724,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 203728,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 203723,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 203726,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 203725,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 658.35,
+    "alcohol": 0.01,
+    "ash": 6.8,
+    "caffeine": 0,
+    "water": 269.66,
+    "carbs": 37.81,
+    "fiber": 4.08,
+    "starch": 2.68,
+    "sugars": 6.8,
+    "fructose": 3.13,
+    "galactose": 0.09,
+    "glucose": 2.69,
+    "lactose": 0.58,
+    "maltose": 0.03,
+    "sucrose": 0.25,
+    "sugar_alcohol": 0,
+    "fat": 43.21,
+    "monounsaturated": 20.04,
+    "polyunsaturated": 5.32,
+    "omega_3": 0.2,
+    "omega_6": 4.75,
+    "saturated": 13.64,
+    "transfats": 0.29,
+    "cholesterol": 108.12,
+    "protein": 29.27,
+    "alanine": 1.58,
+    "arginine": 1.71,
+    "aspartic_acid": 2.51,
+    "cystine": 0.32,
+    "glutamic_acid": 4.32,
+    "glycine": 1.57,
+    "histidine": 0.8,
+    "isoleucine": 1.13,
+    "leucine": 2.03,
+    "lysine": 2.08,
+    "methionine": 0.68,
+    "phenylalanine": 1.08,
+    "proline": 1.44,
+    "serine": 1.25,
+    "threonine": 1.16,
+    "tryptophan": 0.27,
+    "tyrosine": 0.88,
+    "valine": 1.31,
+    "b1_thiamine": 0.64,
+    "b2_riboflavin": 0.53,
+    "b3_niacin": 9.77,
+    "b5_pantothenic_acid": 1.78,
+    "b6_pyridoxine": 0.81,
+    "b12_cobalamin": 1.58,
+    "choline": 99.26,
+    "folate": 209.57,
+    "vitamin_a": 240.36,
+    "vitamin_c": 118.91,
+    "vitamin_d": 32.97,
+    "vitamin_e": 3.56,
+    "vitamin_k": 192.13,
+    "calcium": 173.36,
+    "copper": 0.3,
+    "iron": 5.55,
+    "magnesium": 86.67,
+    "manganese": 0.94,
+    "phosphorus": 338.62,
+    "potassium": 940.5,
+    "selenium": 9.04,
+    "sodium": 1024.63,
+    "zinc": 3.84
+  }
 }

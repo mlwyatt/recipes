@@ -1,800 +1,295 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4751,
-        "recipe_id": 711,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
-        "slug": "sweet-sour-thai-chicken-vegetable-soup",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 191664,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 (1 inch) pieces ginger root\n2 medium carrots\n1 orange bell pepper\n2 caps portobello mushrooms\n2 limes\n1 small bunch cilantro"
-          },
-          {
-            "id": 191665,
-            "primary_message": "Cut chicken into 1-inch pieces, set aside.",
-            "secondary_message": "1 ½ lb chicken breasts, boneless skinless"
-          },
-          {
-            "id": 191666,
-            "primary_message": "Heat coconut oil in a large pot over medium heat.",
-            "secondary_message": "3 tbsp virgin coconut oil"
-          },
-          {
-            "id": 191667,
-            "primary_message": "Peel and mince the garlic. Peel and mince or grate the ginger. Add both to the pot.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 191668,
-            "primary_message": "Add to the pot turmeric and crushed red pepper, stirring until fragrant, about 30 seconds.",
-            "secondary_message": "2 tsp turmeric\n⅛ tsp crushed red pepper"
-          },
-          {
-            "id": 191669,
-            "primary_message": "Add chicken pieces to pot, stirring occasionally. ",
-            "secondary_message": null
-          },
-          {
-            "id": 191670,
-            "primary_message": "Peel and thinly slice carrots on the bias. Cut the bell pepper lengthwise into quarters; remove and discard the seeds and white membrane then slice thinly. Add veggies to the pot. ",
-            "secondary_message": null
-          },
-          {
-            "id": 191671,
-            "primary_message": "Remove the stems from the mushrooms and carefully scrape out the gills with a spoon, making sure not to damage the rim of the mushrooms. Cut cap in half, thinly slice and add to the pot.",
-            "secondary_message": null
-          },
-          {
-            "id": 191672,
-            "primary_message": "Cook chicken and vegetables, stirring occasionally, until vegetables are tender, about 5-7 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 191673,
-            "primary_message": "Add broth, coconut milk, fish sauce, honey, and vinegar and stir to combine.",
-            "secondary_message": "16 fl oz (2 cups) chicken or vegetable broth\n1 (13.5 fl oz) can coconut milk\n2 tbsp fish sauce\n2 tbsp honey\n1 tbsp rice vinegar"
-          },
-          {
-            "id": 191674,
-            "primary_message": "Bring soup to boil and then reduce heat to low. Simmer for 8-10 minutes, allowing the chicken to cook fully and flavors to blend.",
-            "secondary_message": null
-          },
-          {
-            "id": 191675,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. ",
-            "secondary_message": null
-          },
-          {
-            "id": 191676,
-            "primary_message": "Juice the lime and add to the pot right before serving, stir to combine. ",
-            "secondary_message": null
-          },
-          {
-            "id": 191677,
-            "primary_message": "To serve, divide soup between bowls and garnish with cilantro. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 199868,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 199862,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 199870,
-            "quantity": "16 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 199869,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 199861,
-            "quantity": "1 (13.5 fl oz) can",
-            "ingredient_name": "coconut milk"
-          },
-          {
-            "id": 199860,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 199871,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 199872,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 199875,
-            "quantity": "1",
-            "ingredient_name": "orange bell pepper"
-          },
-          {
-            "id": 199873,
-            "quantity": "2 caps",
-            "ingredient_name": "portobello mushrooms"
-          },
-          {
-            "id": 199864,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 199863,
-            "quantity": "",
-            "ingredient_name": "fish sauce"
-          },
-          {
-            "id": 199866,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 199874,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 199865,
-            "quantity": "",
-            "ingredient_name": "turmeric, ground"
-          },
-          {
-            "id": 199867,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 596.52,
-          "alcohol": 0,
-          "ash": 5.96,
-          "caffeine": 0,
-          "water": 463.79,
-          "carbs": 28.24,
-          "fiber": 3.77,
-          "starch": 12.46,
-          "sugars": 18.34,
-          "fructose": 5.97,
-          "galactose": 0.34,
-          "glucose": 6.19,
-          "lactose": 0,
-          "maltose": 0.15,
-          "sucrose": 5.64,
-          "sugar_alcohol": 0,
-          "fat": 35.86,
-          "monounsaturated": 3.05,
-          "polyunsaturated": 1.42,
-          "omega_3": 0.06,
-          "omega_6": 1.35,
-          "saturated": 27.77,
-          "transfats": 0.04,
-          "cholesterol": 124.17,
-          "protein": 45.24,
-          "alanine": 2.63,
-          "arginine": 3.1,
-          "aspartic_acid": 4.3,
-          "cystine": 0.51,
-          "glutamic_acid": 6.83,
-          "glycine": 2,
-          "histidine": 1.61,
-          "isoleucine": 2.18,
-          "leucine": 3.63,
-          "lysine": 4.13,
-          "methionine": 1.13,
-          "phenylalanine": 1.82,
-          "proline": 1.5,
-          "serine": 1.73,
-          "threonine": 2.03,
-          "tryptophan": 0.55,
-          "tyrosine": 1.56,
-          "valine": 2.33,
-          "b1_thiamine": 0.26,
-          "b2_riboflavin": 0.47,
-          "b3_niacin": 21.7,
-          "b5_pantothenic_acid": 3.67,
-          "b6_pyridoxine": 1.7,
-          "b12_cobalamin": 0.55,
-          "choline": 177.23,
-          "folate": 74.55,
-          "vitamin_a": 152.92,
-          "vitamin_c": 70.85,
-          "vitamin_d": 5.9,
-          "vitamin_e": 1.94,
-          "vitamin_k": 67.66,
-          "calcium": 62.38,
-          "copper": 0.62,
-          "iron": 3.48,
-          "magnesium": 121.27,
-          "manganese": 1.47,
-          "phosphorus": 544.5,
-          "potassium": 1410.08,
-          "selenium": 51.94,
-          "sodium": 163.3,
-          "zinc": 2.49
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sweet-sour-thai-chicken-vegetable-soup/4751",
-      "altVariants": [
-        {
-          "id": 6513,
-          "recipe_id": 711,
-          "group_label": "Default",
-          "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "published_recipe_uuid": "fbc27d86-304d-43af-82c7-cdc0a4bf6315",
-          "fallback_published_recipe_uuids": [
-            "38d83650-94e1-45e9-8646-418ed9b0a35d",
-            "0364adbc-f817-48ea-8a52-8888f8d2ee3a",
-            "19d94852-960c-4004-a4e5-8ca9cf5506da"
-          ],
-          "first_published_at": 1551848170000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            44,
-            201,
-            188,
-            41,
-            24,
-            221,
-            228,
-            259,
-            231,
-            85,
-            52,
-            103,
-            257,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            2.25,
-            24,
-            1.5,
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            3,
-            0.9375,
-            45,
-            45,
-            22.5,
-            15,
-            67.5
-          ],
-          "average_rating": 0.899,
-          "rating_count": 146,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4751,
-          "recipe_id": 711,
-          "group_label": "Default",
-          "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "published_recipe_uuid": "50a55538-481a-461c-aaf1-66bd40970207",
-          "fallback_published_recipe_uuids": [
-            "41d2560b-9609-4bd1-9e8c-b9b4a7a21582",
-            "52e7b13e-56b9-484f-a9b5-e3e5847136c0",
-            "ac341b32-203a-4d2d-84f2-7f98ab962621"
-          ],
-          "first_published_at": 1551069779000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            44,
-            201,
-            188,
-            41,
-            24,
-            221,
-            228,
-            259,
-            231,
-            85,
-            52,
-            103,
-            257,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1.5,
-            16,
-            1,
-            1,
-            4,
-            2,
-            2,
-            1,
-            2,
-            0.625,
-            30,
-            30,
-            15,
-            10,
-            45
-          ],
-          "average_rating": 0.899,
-          "rating_count": 146,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4750,
-          "recipe_id": 711,
-          "group_label": "Default",
-          "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "published_recipe_uuid": "c2229af3-cfa4-47f1-b1d5-43866b1573be",
-          "fallback_published_recipe_uuids": [
-            "294a3c56-bf21-43e1-a874-ab0f6f47ad4b",
-            "aad17c39-3c12-4af5-a861-ce6a6d617441",
-            "e35682e4-6587-4fa0-a4a5-54e63499351e"
-          ],
-          "first_published_at": 1551069774000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            44,
-            201,
-            188,
-            41,
-            24,
-            221,
-            228,
-            259,
-            231,
-            85,
-            52,
-            103,
-            257,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.75,
-            8,
-            0.5,
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            0.3125,
-            15,
-            15,
-            7.5,
-            5,
-            22.5
-          ],
-          "average_rating": 0.899,
-          "rating_count": 146,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6514,
-          "recipe_id": 711,
-          "group_label": "Default",
-          "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "published_recipe_uuid": "2aa7ce36-40d4-48ef-8b9c-8994f990d635",
-          "fallback_published_recipe_uuids": [
-            "cb47b8bc-77e5-4944-8f90-ac13d7323b77",
-            "3fe4bdb8-aa89-4438-874e-4df9e27cfb28",
-            "27b13510-b808-4de9-bd1f-bfe452cfde0d"
-          ],
-          "first_published_at": 1551848173000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            44,
-            201,
-            188,
-            41,
-            24,
-            221,
-            228,
-            259,
-            231,
-            85,
-            52,
-            103,
-            257,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.02,
-            710,
-            1.5,
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            3,
-            0.9375,
-            45,
-            45,
-            22.5,
-            15,
-            67.5
-          ],
-          "average_rating": 0.899,
-          "rating_count": 146,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4753,
-          "recipe_id": 711,
-          "group_label": "Default",
-          "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "published_recipe_uuid": "08a1809b-84c4-4582-9e72-159d9dab6d9e",
-          "fallback_published_recipe_uuids": [
-            "6b8b8c8a-e3da-4907-95c9-4d6c033226b2",
-            "4dcdd2ad-051f-4502-9190-203b0cd0db8c",
-            "6995545a-5638-4aba-aae3-ddbb35aeb2a3"
-          ],
-          "first_published_at": 1551069781000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            44,
-            201,
-            188,
-            41,
-            24,
-            221,
-            228,
-            259,
-            231,
-            85,
-            52,
-            103,
-            257,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            0.68,
-            473,
-            1,
-            1,
-            4,
-            2,
-            2,
-            1,
-            2,
-            0.625,
-            30,
-            30,
-            15,
-            10,
-            45
-          ],
-          "average_rating": 0.899,
-          "rating_count": 146,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4752,
-          "recipe_id": 711,
-          "group_label": "Default",
-          "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
-          "published_recipe_uuid": "475f0040-71c1-4288-b2be-36f3e0dffa7a",
-          "fallback_published_recipe_uuids": [
-            "32439407-f5b1-4ea5-9367-3896c56cb57c",
-            "3537942b-fcf4-464a-bc80-4faa9a0817d8",
-            "650d3a72-bf3a-4a31-afed-def30cb6f7e8"
-          ],
-          "first_published_at": 1551069780000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            44,
-            201,
-            188,
-            41,
-            24,
-            221,
-            228,
-            259,
-            231,
-            85,
-            52,
-            103,
-            257,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.34,
-            237,
-            0.5,
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            0.3125,
-            15,
-            15,
-            7.5,
-            5,
-            22.5
-          ],
-          "average_rating": 0.899,
-          "rating_count": 146,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            1
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "Thai",
-        "reviewCount": 146,
-        "reviewScore": 4.5
-      }
+  "id": 4751,
+  "recipe_id": 711,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Sweet & Sour Thai Chicken Vegetable Soup ",
+  "slug": "sweet-sour-thai-chicken-vegetable-soup",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/thumbnail_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/711/presentation_b6f9e599-36bd-4a31-8d02-2db95a095872.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sweet-sour-thai-chicken-vegetable-soup",
-    "variantId": "4751"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 191664,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 (1 inch) pieces ginger root\n2 medium carrots\n1 orange bell pepper\n2 caps portobello mushrooms\n2 limes\n1 small bunch cilantro"
+    },
+    {
+      "id": 191665,
+      "primary_message": "Cut chicken into 1-inch pieces, set aside.",
+      "secondary_message": "1 ½ lb chicken breasts, boneless skinless"
+    },
+    {
+      "id": 191666,
+      "primary_message": "Heat coconut oil in a large pot over medium heat.",
+      "secondary_message": "3 tbsp virgin coconut oil"
+    },
+    {
+      "id": 191667,
+      "primary_message": "Peel and mince the garlic. Peel and mince or grate the ginger. Add both to the pot.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 191668,
+      "primary_message": "Add to the pot turmeric and crushed red pepper, stirring until fragrant, about 30 seconds.",
+      "secondary_message": "2 tsp turmeric\n⅛ tsp crushed red pepper"
+    },
+    {
+      "id": 191669,
+      "primary_message": "Add chicken pieces to pot, stirring occasionally. ",
+      "secondary_message": null
+    },
+    {
+      "id": 191670,
+      "primary_message": "Peel and thinly slice carrots on the bias. Cut the bell pepper lengthwise into quarters; remove and discard the seeds and white membrane then slice thinly. Add veggies to the pot. ",
+      "secondary_message": null
+    },
+    {
+      "id": 191671,
+      "primary_message": "Remove the stems from the mushrooms and carefully scrape out the gills with a spoon, making sure not to damage the rim of the mushrooms. Cut cap in half, thinly slice and add to the pot.",
+      "secondary_message": null
+    },
+    {
+      "id": 191672,
+      "primary_message": "Cook chicken and vegetables, stirring occasionally, until vegetables are tender, about 5-7 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 191673,
+      "primary_message": "Add broth, coconut milk, fish sauce, honey, and vinegar and stir to combine.",
+      "secondary_message": "16 fl oz (2 cups) chicken or vegetable broth\n1 (13.5 fl oz) can coconut milk\n2 tbsp fish sauce\n2 tbsp honey\n1 tbsp rice vinegar"
+    },
+    {
+      "id": 191674,
+      "primary_message": "Bring soup to boil and then reduce heat to low. Simmer for 8-10 minutes, allowing the chicken to cook fully and flavors to blend.",
+      "secondary_message": null
+    },
+    {
+      "id": 191675,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. ",
+      "secondary_message": null
+    },
+    {
+      "id": 191676,
+      "primary_message": "Juice the lime and add to the pot right before serving, stir to combine. ",
+      "secondary_message": null
+    },
+    {
+      "id": 191677,
+      "primary_message": "To serve, divide soup between bowls and garnish with cilantro. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 199868,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 199862,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 199870,
+      "quantity": "16 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 199869,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 199861,
+      "quantity": "1 (13.5 fl oz) can",
+      "ingredient_name": "coconut milk"
+    },
+    {
+      "id": 199860,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 199871,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 199872,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 199875,
+      "quantity": "1",
+      "ingredient_name": "orange bell pepper"
+    },
+    {
+      "id": 199873,
+      "quantity": "2 caps",
+      "ingredient_name": "portobello mushrooms"
+    },
+    {
+      "id": 199864,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 199863,
+      "quantity": "",
+      "ingredient_name": "fish sauce"
+    },
+    {
+      "id": 199866,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 199874,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 199865,
+      "quantity": "",
+      "ingredient_name": "turmeric, ground"
+    },
+    {
+      "id": 199867,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 596.52,
+    "alcohol": 0,
+    "ash": 5.96,
+    "caffeine": 0,
+    "water": 463.79,
+    "carbs": 28.24,
+    "fiber": 3.77,
+    "starch": 12.46,
+    "sugars": 18.34,
+    "fructose": 5.97,
+    "galactose": 0.34,
+    "glucose": 6.19,
+    "lactose": 0,
+    "maltose": 0.15,
+    "sucrose": 5.64,
+    "sugar_alcohol": 0,
+    "fat": 35.86,
+    "monounsaturated": 3.05,
+    "polyunsaturated": 1.42,
+    "omega_3": 0.06,
+    "omega_6": 1.35,
+    "saturated": 27.77,
+    "transfats": 0.04,
+    "cholesterol": 124.17,
+    "protein": 45.24,
+    "alanine": 2.63,
+    "arginine": 3.1,
+    "aspartic_acid": 4.3,
+    "cystine": 0.51,
+    "glutamic_acid": 6.83,
+    "glycine": 2,
+    "histidine": 1.61,
+    "isoleucine": 2.18,
+    "leucine": 3.63,
+    "lysine": 4.13,
+    "methionine": 1.13,
+    "phenylalanine": 1.82,
+    "proline": 1.5,
+    "serine": 1.73,
+    "threonine": 2.03,
+    "tryptophan": 0.55,
+    "tyrosine": 1.56,
+    "valine": 2.33,
+    "b1_thiamine": 0.26,
+    "b2_riboflavin": 0.47,
+    "b3_niacin": 21.7,
+    "b5_pantothenic_acid": 3.67,
+    "b6_pyridoxine": 1.7,
+    "b12_cobalamin": 0.55,
+    "choline": 177.23,
+    "folate": 74.55,
+    "vitamin_a": 152.92,
+    "vitamin_c": 70.85,
+    "vitamin_d": 5.9,
+    "vitamin_e": 1.94,
+    "vitamin_k": 67.66,
+    "calcium": 62.38,
+    "copper": 0.62,
+    "iron": 3.48,
+    "magnesium": 121.27,
+    "manganese": 1.47,
+    "phosphorus": 544.5,
+    "potassium": 1410.08,
+    "selenium": 51.94,
+    "sodium": 163.3,
+    "zinc": 2.49
+  }
 }

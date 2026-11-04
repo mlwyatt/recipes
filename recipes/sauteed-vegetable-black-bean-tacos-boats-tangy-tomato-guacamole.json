@@ -1,1274 +1,305 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 7262,
-        "recipe_id": 835,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-        "slug": "sauteed-vegetable-black-bean-tacos-boats-tangy-tomato-guacamole",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 102051,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 green bell peppers\n4 tomatoes\n2 limes\n1 head romaine lettuce\n2 avocados"
-          },
-          {
-            "id": 102052,
-            "primary_message": "Drain and rinse the beans in a colander; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans black beans"
-          },
-          {
-            "id": 102053,
-            "primary_message": "Seed and medium dice the bell peppers.",
-            "secondary_message": null
-          },
-          {
-            "id": 102054,
-            "primary_message": "Peel and small dice the onion.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 102055,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 102056,
-            "primary_message": "Peel and mince the garlic.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 102057,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 102058,
-            "primary_message": "Add onion, bell pepper, and garlic to the skillet; cook, stirring occasionally, until softened, 5-6 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 102059,
-            "primary_message": "Grate mozzarella.",
-            "secondary_message": "½ (8 oz) block mozzarella cheese"
-          },
-          {
-            "id": 102060,
-            "primary_message": "Add beans, corn, tomato sauce, and spices to the skillet, stirring to combine. Reduce heat to low and simmer for 15 minutes, stirring occasionally.",
-            "secondary_message": "2 cups frozen corn\n2 (8 oz) cans tomato sauce\n2 tsp chili powder\n2 tsp cumin\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 102061,
-            "primary_message": "Meanwhile, halve and pit the avocadoes. Slice while still in the skin, then scoop out into a medium bowl; mash slightly with a fork.",
-            "secondary_message": null
-          },
-          {
-            "id": 102062,
-            "primary_message": "Medium dice the tomatoes; place in the bowl with the avocado.",
-            "secondary_message": null
-          },
-          {
-            "id": 102063,
-            "primary_message": "Juice limes into the bowl, add salt, and stir to combine.",
-            "secondary_message": "½ tsp salt"
-          },
-          {
-            "id": 102064,
-            "primary_message": "Separate whole leaves from the head of romaine to use as taco shells.",
-            "secondary_message": null
-          },
-          {
-            "id": 102065,
-            "primary_message": "To serve, arrange romaine leaves on plates and fill with seasoned beans and veggies. Top with guacamole and cheese. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 106186,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 106187,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 106192,
-            "quantity": "2 cups",
-            "ingredient_name": "frozen corn"
-          },
-          {
-            "id": 106177,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 106191,
-            "quantity": "2",
-            "ingredient_name": "green bell peppers"
-          },
-          {
-            "id": 106189,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 106180,
-            "quantity": "½ (8 oz) block",
-            "ingredient_name": "mozzarella cheese"
-          },
-          {
-            "id": 106178,
-            "quantity": "1 head",
-            "ingredient_name": "romaine lettuce"
-          },
-          {
-            "id": 106190,
-            "quantity": "4",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 106184,
-            "quantity": "2 (8 oz) cans",
-            "ingredient_name": "tomato sauce"
-          },
-          {
-            "id": 106185,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 106181,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 106182,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 106188,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 106179,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 106183,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 663.36,
-          "alcohol": 0,
-          "ash": 11.19,
-          "caffeine": 0,
-          "water": 688.46,
-          "carbs": 82.16,
-          "fiber": 30.41,
-          "starch": 31.5,
-          "sugars": 15.27,
-          "fructose": 6.37,
-          "galactose": 0.14,
-          "glucose": 6.35,
-          "lactose": 0.02,
-          "maltose": 0.14,
-          "sucrose": 2.21,
-          "sugar_alcohol": 0,
-          "fat": 30.89,
-          "monounsaturated": 17.35,
-          "polyunsaturated": 4.33,
-          "omega_3": 0.74,
-          "omega_6": 3.38,
-          "saturated": 7.27,
-          "transfats": 0.16,
-          "cholesterol": 22.42,
-          "protein": 26.79,
-          "alanine": 1.16,
-          "arginine": 1.08,
-          "aspartic_acid": 3.01,
-          "cystine": 0.24,
-          "glutamic_acid": 5.28,
-          "glycine": 0.92,
-          "histidine": 0.61,
-          "isoleucine": 1.12,
-          "leucine": 2.05,
-          "lysine": 1.49,
-          "methionine": 0.42,
-          "phenylalanine": 1.33,
-          "proline": 1.76,
-          "serine": 1.26,
-          "threonine": 0.97,
-          "tryptophan": 0.37,
-          "tyrosine": 0.77,
-          "valine": 1.41,
-          "b1_thiamine": 0.69,
-          "b2_riboflavin": 0.59,
-          "b3_niacin": 6.69,
-          "b5_pantothenic_acid": 2.86,
-          "b6_pyridoxine": 1.13,
-          "b12_cobalamin": 0.65,
-          "choline": 135.25,
-          "folate": 543.68,
-          "vitamin_a": 2221.97,
-          "vitamin_c": 103.89,
-          "vitamin_d": 4.54,
-          "vitamin_e": 6.47,
-          "vitamin_k": 206.73,
-          "calcium": 353.64,
-          "copper": 0.86,
-          "iron": 8.23,
-          "magnesium": 184.9,
-          "manganese": 1.68,
-          "phosphorus": 529.48,
-          "potassium": 2343.59,
-          "selenium": 11.66,
-          "sodium": 721.08,
-          "zinc": 4.16
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sauteed-vegetable-black-bean-tacos-boats-tangy-tomato-guacamole/7262",
-      "altVariants": [
-        {
-          "id": 7266,
-          "recipe_id": 835,
-          "group_label": "Vegan",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "b2add20c-5274-437b-9663-2b5bbe7bab88",
-          "fallback_published_recipe_uuids": [
-            "040e76ca-6fd4-43b7-b871-ffea0874607b"
-          ],
-          "first_published_at": 1564085126000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            6,
-            3,
-            3,
-            1.5,
-            6,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            45,
-            11.25
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7265,
-          "recipe_id": 835,
-          "group_label": "Vegan",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "f5055ef6-5b8d-418c-8cd0-7edc037814a3",
-          "fallback_published_recipe_uuids": [
-            "42ec6b20-0db9-4b93-83ea-9b593f4934bb"
-          ],
-          "first_published_at": 1564085126000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            4,
-            2,
-            2,
-            1,
-            4,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            30,
-            7.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7264,
-          "recipe_id": 835,
-          "group_label": "Vegan",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/7264/thumbnail_04bc7d85-799f-4a36-96ad-71f5d35da4f0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/7264/presentation_04bc7d85-799f-4a36-96ad-71f5d35da4f0.jpeg",
-          "published_recipe_uuid": "1add8abe-5ba8-4f06-82f0-e4714f63baff",
-          "fallback_published_recipe_uuids": [
-            "fd9cf11b-e50d-4f80-bc92-561ffcc376d8"
-          ],
-          "first_published_at": 1564085125000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            0.5,
-            2,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7263,
-          "recipe_id": 835,
-          "group_label": "Default",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "9a124042-6dd2-4e47-b13e-4bbba1641ae6",
-          "fallback_published_recipe_uuids": [
-            "1ebda793-58ab-4c37-aebb-c0beb89d525d"
-          ],
-          "first_published_at": 1564085124000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            57,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            6,
-            3,
-            3,
-            0.75,
-            1.5,
-            6,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            45,
-            11.25
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7262,
-          "recipe_id": 835,
-          "group_label": "Default",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "f8eba6dc-3d49-41bc-b89b-7e09574df3ee",
-          "fallback_published_recipe_uuids": [
-            "77f5919a-ef68-4ea5-a7ef-b35a6e8b0abd"
-          ],
-          "first_published_at": 1564085123000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            57,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            4,
-            2,
-            2,
-            0.5,
-            1,
-            4,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            30,
-            7.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7261,
-          "recipe_id": 835,
-          "group_label": "Default",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "39576105-9884-421f-9027-f325c8888b58",
-          "fallback_published_recipe_uuids": [
-            "0f02407a-5db0-4dcd-ba76-898ba99fbf28"
-          ],
-          "first_published_at": 1564085122000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            57,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            0.25,
-            0.5,
-            2,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7272,
-          "recipe_id": 835,
-          "group_label": "Vegan",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "e8941fa3-97c3-4521-8e43-dcff2d10b549",
-          "fallback_published_recipe_uuids": [
-            "dd6d9100-9aaa-44bf-8995-2e398f728b3f"
-          ],
-          "first_published_at": 1564085131000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            6,
-            3,
-            3,
-            1.5,
-            6,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            45,
-            11.25
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7271,
-          "recipe_id": 835,
-          "group_label": "Vegan",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "f3980b2b-ca0d-44de-870e-1631314eafa7",
-          "fallback_published_recipe_uuids": [
-            "a5fbe808-d722-40fd-9789-9c2b8bc0477d"
-          ],
-          "first_published_at": 1564085130000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            4,
-            2,
-            2,
-            1,
-            4,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            30,
-            7.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7269,
-          "recipe_id": 835,
-          "group_label": "Default",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "2f98e4ed-8080-4624-b458-cf4b4477ae65",
-          "fallback_published_recipe_uuids": [
-            "14806876-cc88-4b14-99fd-21afd8ff0a9e"
-          ],
-          "first_published_at": 1564085129000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            57,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            6,
-            3,
-            3,
-            0.75,
-            1.5,
-            6,
-            3,
-            1.5,
-            3.75,
-            15,
-            15,
-            45,
-            11.25
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7268,
-          "recipe_id": 835,
-          "group_label": "Default",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "612217bd-53e3-4f59-ae68-3feda14124d1",
-          "fallback_published_recipe_uuids": [
-            "48edf81e-c128-4f40-a6a8-edcd8f56c008"
-          ],
-          "first_published_at": 1564085128000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            57,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            4,
-            2,
-            2,
-            0.5,
-            1,
-            4,
-            2,
-            1,
-            2.5,
-            10,
-            10,
-            30,
-            7.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7267,
-          "recipe_id": 835,
-          "group_label": "Default",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
-          "published_recipe_uuid": "aaeb8505-b1c5-4347-915b-5a3a4f9023e1",
-          "fallback_published_recipe_uuids": [
-            "a25cc946-28d3-487c-9274-fa3f761d4dad"
-          ],
-          "first_published_at": 1564085127000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            57,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            0.25,
-            0.5,
-            2,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7270,
-          "recipe_id": 835,
-          "group_label": "Vegan",
-          "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/7270/thumbnail_88f05a9b-5964-4896-8ca4-ef2c56876602.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/7270/presentation_88f05a9b-5964-4896-8ca4-ef2c56876602.jpeg",
-          "published_recipe_uuid": "64395ff3-25a3-4a80-b495-7b0473f74e4c",
-          "fallback_published_recipe_uuids": [
-            "679d672b-d04c-453a-b3f1-8f898d84ca6f"
-          ],
-          "first_published_at": 1564085130000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            303,
-            24,
-            291,
-            228,
-            25,
-            260,
-            99,
-            152,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            2,
-            1,
-            1,
-            0.5,
-            2,
-            1,
-            0.5,
-            1.25,
-            5,
-            5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.667,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            27,
-            26,
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Wraps",
-          "Stuffed Vegetables",
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 7262,
+  "recipe_id": 835,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Sautéed Vegetable & Black Bean Tacos Boats with Tangy Tomato Guacamole",
+  "slug": "sauteed-vegetable-black-bean-tacos-boats-tangy-tomato-guacamole",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/thumbnail_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/835/presentation_46758c51-15da-402d-8e95-2f1321160a04.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sauteed-vegetable-black-bean-tacos-boats-tangy-tomato-guacamole",
-    "variantId": "7262"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 102051,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 green bell peppers\n4 tomatoes\n2 limes\n1 head romaine lettuce\n2 avocados"
+    },
+    {
+      "id": 102052,
+      "primary_message": "Drain and rinse the beans in a colander; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans black beans"
+    },
+    {
+      "id": 102053,
+      "primary_message": "Seed and medium dice the bell peppers.",
+      "secondary_message": null
+    },
+    {
+      "id": 102054,
+      "primary_message": "Peel and small dice the onion.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 102055,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 102056,
+      "primary_message": "Peel and mince the garlic.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 102057,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 102058,
+      "primary_message": "Add onion, bell pepper, and garlic to the skillet; cook, stirring occasionally, until softened, 5-6 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 102059,
+      "primary_message": "Grate mozzarella.",
+      "secondary_message": "½ (8 oz) block mozzarella cheese"
+    },
+    {
+      "id": 102060,
+      "primary_message": "Add beans, corn, tomato sauce, and spices to the skillet, stirring to combine. Reduce heat to low and simmer for 15 minutes, stirring occasionally.",
+      "secondary_message": "2 cups frozen corn\n2 (8 oz) cans tomato sauce\n2 tsp chili powder\n2 tsp cumin\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 102061,
+      "primary_message": "Meanwhile, halve and pit the avocadoes. Slice while still in the skin, then scoop out into a medium bowl; mash slightly with a fork.",
+      "secondary_message": null
+    },
+    {
+      "id": 102062,
+      "primary_message": "Medium dice the tomatoes; place in the bowl with the avocado.",
+      "secondary_message": null
+    },
+    {
+      "id": 102063,
+      "primary_message": "Juice limes into the bowl, add salt, and stir to combine.",
+      "secondary_message": "½ tsp salt"
+    },
+    {
+      "id": 102064,
+      "primary_message": "Separate whole leaves from the head of romaine to use as taco shells.",
+      "secondary_message": null
+    },
+    {
+      "id": 102065,
+      "primary_message": "To serve, arrange romaine leaves on plates and fill with seasoned beans and veggies. Top with guacamole and cheese. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 106186,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 106187,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 106192,
+      "quantity": "2 cups",
+      "ingredient_name": "frozen corn"
+    },
+    {
+      "id": 106177,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 106191,
+      "quantity": "2",
+      "ingredient_name": "green bell peppers"
+    },
+    {
+      "id": 106189,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 106180,
+      "quantity": "½ (8 oz) block",
+      "ingredient_name": "mozzarella cheese"
+    },
+    {
+      "id": 106178,
+      "quantity": "1 head",
+      "ingredient_name": "romaine lettuce"
+    },
+    {
+      "id": 106190,
+      "quantity": "4",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 106184,
+      "quantity": "2 (8 oz) cans",
+      "ingredient_name": "tomato sauce"
+    },
+    {
+      "id": 106185,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 106181,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 106182,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 106188,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 106179,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 106183,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 663.36,
+    "alcohol": 0,
+    "ash": 11.19,
+    "caffeine": 0,
+    "water": 688.46,
+    "carbs": 82.16,
+    "fiber": 30.41,
+    "starch": 31.5,
+    "sugars": 15.27,
+    "fructose": 6.37,
+    "galactose": 0.14,
+    "glucose": 6.35,
+    "lactose": 0.02,
+    "maltose": 0.14,
+    "sucrose": 2.21,
+    "sugar_alcohol": 0,
+    "fat": 30.89,
+    "monounsaturated": 17.35,
+    "polyunsaturated": 4.33,
+    "omega_3": 0.74,
+    "omega_6": 3.38,
+    "saturated": 7.27,
+    "transfats": 0.16,
+    "cholesterol": 22.42,
+    "protein": 26.79,
+    "alanine": 1.16,
+    "arginine": 1.08,
+    "aspartic_acid": 3.01,
+    "cystine": 0.24,
+    "glutamic_acid": 5.28,
+    "glycine": 0.92,
+    "histidine": 0.61,
+    "isoleucine": 1.12,
+    "leucine": 2.05,
+    "lysine": 1.49,
+    "methionine": 0.42,
+    "phenylalanine": 1.33,
+    "proline": 1.76,
+    "serine": 1.26,
+    "threonine": 0.97,
+    "tryptophan": 0.37,
+    "tyrosine": 0.77,
+    "valine": 1.41,
+    "b1_thiamine": 0.69,
+    "b2_riboflavin": 0.59,
+    "b3_niacin": 6.69,
+    "b5_pantothenic_acid": 2.86,
+    "b6_pyridoxine": 1.13,
+    "b12_cobalamin": 0.65,
+    "choline": 135.25,
+    "folate": 543.68,
+    "vitamin_a": 2221.97,
+    "vitamin_c": 103.89,
+    "vitamin_d": 4.54,
+    "vitamin_e": 6.47,
+    "vitamin_k": 206.73,
+    "calcium": 353.64,
+    "copper": 0.86,
+    "iron": 8.23,
+    "magnesium": 184.9,
+    "manganese": 1.68,
+    "phosphorus": 529.48,
+    "potassium": 2343.59,
+    "selenium": 11.66,
+    "sodium": 721.08,
+    "zinc": 4.16
+  }
 }

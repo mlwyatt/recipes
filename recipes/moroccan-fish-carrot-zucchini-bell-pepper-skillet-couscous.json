@@ -1,901 +1,330 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 10598,
-        "recipe_id": 1246,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
-        "slug": "moroccan-fish-carrot-zucchini-bell-pepper-skillet-couscous",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 169821,
-            "primary_message": "In a medium saucepan, bring broth to a boil. Remove from heat, add couscous, and stir. Cover and let stand for 10 minutes. Uncover couscous and fluff with a fork.",
-            "secondary_message": "24 fl oz (3 cups) chicken or vegetable broth\n2 cups whole wheat couscous"
-          },
-          {
-            "id": 169822,
-            "primary_message": "Meanwhile, preheat a large nonstick skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 169823,
-            "primary_message": "Pat the fish dry with paper towels and place on a plate. Season with salt and pepper on both sides. ",
-            "secondary_message": "1 ½ lb tilapia fillet\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 169824,
-            "primary_message": "Sprinkle flour over both sides of each fillet and press gently to adhere.",
-            "secondary_message": "2 tbsp all-purpose flour"
-          },
-          {
-            "id": 169825,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches if necessary, add fish to the skillet and cook until opaque and cooked through, about 3 minutes per side. Remove to a plate and cover with foil.",
-            "secondary_message": "1 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 169826,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n2 medium carrots\n2 medium zucchini squash\n1 small bunch cilantro\n1 lemon"
-          },
-          {
-            "id": 169827,
-            "primary_message": "Seed and slice bell peppers into thin strips. Peel, halve, and thinly slice onion. Peel and thinly slice garlic.",
-            "secondary_message": "1 medium yellow onion\n4 cloves garlic"
-          },
-          {
-            "id": 169828,
-            "primary_message": "Return skillet to medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 169829,
-            "primary_message": "Once the skillet is hot, add more oil and swirl to coat the bottom. Add the bell pepper, onion, and garlic; cook, stirring occasionally, until softened, 5-7 minutes.",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 169830,
-            "primary_message": "Meanwhile, peel and thinly slice carrots. Trim and thinly slice zucchini. Add both to the skillet along with the spices. Cook, stirring constantly, until fragrant, about 1 minute. ",
-            "secondary_message": "1 tsp paprika\n1 tsp cumin\n1 tsp salt\n½ tsp chili powder\n½ tsp turmeric\n¼ tsp black pepper\n⅛ tsp crushed red pepper"
-          },
-          {
-            "id": 169831,
-            "primary_message": "Stir in the tomatoes, broth, tomato paste, and sugar. Increase temperature to high and bring to a boil; then reduce heat to medium and let simmer, stirring occasionally, until slightly thickened, 3-4 minutes.",
-            "secondary_message": "1 (14.5 oz) can diced tomatoes\n8 fl oz (1 cup) chicken or vegetable broth\n4 tbsp tomato paste\n1 tsp brown sugar"
-          },
-          {
-            "id": 169832,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add half of the cilantro to the skillet (reserve the rest for garnish).",
-            "secondary_message": null
-          },
-          {
-            "id": 169833,
-            "primary_message": "Place fish fillets in the skillet over the vegetables, spooning a thin layer of sauce over the top to cover. Cover with a lid and let simmer until veggies are soft and fish is warmed through, 5-6 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 169834,
-            "primary_message": "Cut the lemon into wedges.",
-            "secondary_message": null
-          },
-          {
-            "id": 169835,
-            "primary_message": "To serve, divide couscous and vegetable-fish sauté between plates or bowls. Garnish with cilantro and lemon wedges. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 176720,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 176725,
-            "quantity": "32 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 176723,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 176715,
-            "quantity": "1 (14.5 oz) can",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 176707,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 176724,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 176718,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 176721,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "tilapia fillet"
-          },
-          {
-            "id": 176727,
-            "quantity": "4 tbsp",
-            "ingredient_name": "tomato paste"
-          },
-          {
-            "id": 176706,
-            "quantity": "2 cups",
-            "ingredient_name": "whole wheat couscous"
-          },
-          {
-            "id": 176719,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 176717,
-            "quantity": "2 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 176716,
-            "quantity": "",
-            "ingredient_name": "all-purpose flour"
-          },
-          {
-            "id": 176709,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 176726,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 176710,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 176712,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 176722,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 176708,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 176711,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 176713,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 176714,
-            "quantity": "",
-            "ingredient_name": "turmeric, ground"
-          }
-        ],
-        "nutrition": {
-          "energy": 698.34,
-          "alcohol": 0,
-          "ash": 7.41,
-          "caffeine": 0,
-          "water": 712.53,
-          "carbs": 97.33,
-          "fiber": 18.52,
-          "starch": 4.73,
-          "sugars": 14.27,
-          "fructose": 5.83,
-          "galactose": 0,
-          "glucose": 5.65,
-          "lactose": 0,
-          "maltose": 0.05,
-          "sucrose": 2.68,
-          "sugar_alcohol": 0,
-          "fat": 14.31,
-          "monounsaturated": 7.66,
-          "polyunsaturated": 2.42,
-          "omega_3": 0.5,
-          "omega_6": 1.93,
-          "saturated": 2.88,
-          "transfats": 0.06,
-          "cholesterol": 85.05,
-          "protein": 55.42,
-          "alanine": 2.87,
-          "arginine": 3.09,
-          "aspartic_acid": 5.54,
-          "cystine": 0.84,
-          "glutamic_acid": 11.63,
-          "glycine": 2.52,
-          "histidine": 1.27,
-          "isoleucine": 2.43,
-          "leucine": 4.08,
-          "lysine": 3.92,
-          "methionine": 1.36,
-          "phenylalanine": 2.29,
-          "proline": 2.9,
-          "serine": 2.26,
-          "threonine": 2.33,
-          "tryptophan": 0.59,
-          "tyrosine": 1.72,
-          "valine": 2.53,
-          "b1_thiamine": 1.28,
-          "b2_riboflavin": 0.64,
-          "b3_niacin": 17.64,
-          "b5_pantothenic_acid": 3.07,
-          "b6_pyridoxine": 1.3,
-          "b12_cobalamin": 2.94,
-          "choline": 123.51,
-          "folate": 174.57,
-          "vitamin_a": 912.24,
-          "vitamin_c": 124.99,
-          "vitamin_d": 210.92,
-          "vitamin_e": 5.91,
-          "vitamin_k": 86.8,
-          "calcium": 150.04,
-          "copper": 0.9,
-          "iron": 6.45,
-          "magnesium": 230.29,
-          "manganese": 1.64,
-          "phosphorus": 808.36,
-          "potassium": 2065.76,
-          "selenium": 75.27,
-          "sodium": 236.1,
-          "zinc": 4.17
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/moroccan-fish-carrot-zucchini-bell-pepper-skillet-couscous/10598",
-      "altVariants": [
-        {
-          "id": 10599,
-          "recipe_id": 1246,
-          "group_label": "Default",
-          "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "published_recipe_uuid": "2aa09ae3-e75b-48ee-a6b5-a7e51efc614f",
-          "fallback_published_recipe_uuids": [
-            "2d4f996a-a5ec-40ed-bf58-07af532b2e8d",
-            "fcb019e2-f19c-4ffd-bb9d-faaca2054ff3"
-          ],
-          "first_published_at": 1590705363000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            188,
-            97,
-            24,
-            192,
-            150,
-            176,
-            323,
-            11,
-            152,
-            140,
-            116,
-            72,
-            293,
-            75,
-            85,
-            186,
-            47,
-            83,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            3,
-            48,
-            1,
-            1.5,
-            6,
-            1,
-            3,
-            2.25,
-            6,
-            3,
-            1.5,
-            3,
-            45,
-            5,
-            7.5,
-            3.75,
-            0.9375,
-            7.5,
-            52.5,
-            7.5,
-            11.25,
-            3.75
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            8
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10598,
-          "recipe_id": 1246,
-          "group_label": "Default",
-          "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "published_recipe_uuid": "c6127c86-48ac-453e-bf39-fbb5a246ce59",
-          "fallback_published_recipe_uuids": [
-            "569e9080-6f80-4e16-b496-bfe7e362e200",
-            "283bd828-7af6-49a8-9ce4-39c483c2179c"
-          ],
-          "first_published_at": 1590705365000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            188,
-            97,
-            24,
-            192,
-            150,
-            176,
-            323,
-            11,
-            152,
-            140,
-            116,
-            72,
-            293,
-            75,
-            85,
-            186,
-            47,
-            83,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            2,
-            32,
-            1,
-            1,
-            4,
-            1,
-            2,
-            1.5,
-            4,
-            2,
-            1,
-            2,
-            30,
-            2.5,
-            5,
-            2.5,
-            0.625,
-            5,
-            35,
-            5,
-            7.5,
-            2.5
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            8
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10597,
-          "recipe_id": 1246,
-          "group_label": "Default",
-          "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "published_recipe_uuid": "68f965fe-ae00-478b-8e2a-9960465ac403",
-          "fallback_published_recipe_uuids": [
-            "249d2be1-9c47-4c77-a252-5cd3200d615c",
-            "57db6b2f-adaa-47cd-9802-29b4be604621"
-          ],
-          "first_published_at": 1590705369000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            188,
-            97,
-            24,
-            192,
-            150,
-            176,
-            323,
-            11,
-            152,
-            140,
-            116,
-            72,
-            293,
-            75,
-            85,
-            186,
-            47,
-            83,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            1,
-            16,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            1,
-            0.75,
-            2,
-            1,
-            0.5,
-            1,
-            15,
-            1.25,
-            2.5,
-            1.25,
-            0.3125,
-            2.5,
-            17.5,
-            2.5,
-            3.75,
-            1.25
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            8
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10602,
-          "recipe_id": 1246,
-          "group_label": "Default",
-          "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "published_recipe_uuid": "2436d594-5844-4edc-a47e-60c8e5689532",
-          "fallback_published_recipe_uuids": [
-            "d65fa29b-4ec6-4938-a455-deb7b42ed1b1",
-            "bbece527-29d2-4f8f-8b6f-e04765d84f57"
-          ],
-          "first_published_at": 1590705360000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            188,
-            97,
-            24,
-            192,
-            150,
-            176,
-            323,
-            11,
-            152,
-            140,
-            116,
-            72,
-            293,
-            75,
-            85,
-            186,
-            47,
-            83,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            3,
-            1420,
-            1,
-            1.5,
-            6,
-            1,
-            3,
-            1.02,
-            6,
-            3,
-            1.5,
-            3,
-            45,
-            5,
-            7.5,
-            3.75,
-            0.9375,
-            7.5,
-            52.5,
-            7.5,
-            11.25,
-            3.75
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            8
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10601,
-          "recipe_id": 1246,
-          "group_label": "Default",
-          "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "published_recipe_uuid": "aa7f2508-577b-4389-a716-d045df6ec381",
-          "fallback_published_recipe_uuids": [
-            "4b1e8a36-3cdf-45da-a1dc-938cd7afc9ca",
-            "9d978d68-d4e2-422d-a1a1-8d2e38c47624"
-          ],
-          "first_published_at": 1590705364000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            188,
-            97,
-            24,
-            192,
-            150,
-            176,
-            323,
-            11,
-            152,
-            140,
-            116,
-            72,
-            293,
-            75,
-            85,
-            186,
-            47,
-            83,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            2,
-            947,
-            1,
-            1,
-            4,
-            1,
-            2,
-            0.68,
-            4,
-            2,
-            1,
-            2,
-            30,
-            2.5,
-            5,
-            2.5,
-            0.625,
-            5,
-            35,
-            5,
-            7.5,
-            2.5
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            8
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10600,
-          "recipe_id": 1246,
-          "group_label": "Default",
-          "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
-          "published_recipe_uuid": "c39aaefb-dd6c-4638-8689-eaae473b988b",
-          "fallback_published_recipe_uuids": [
-            "9d2c4eee-b8c0-493a-b094-b6656fd306c9",
-            "2b6b702e-65e3-4a53-a44f-9da876ffac25"
-          ],
-          "first_published_at": 1590705362000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            188,
-            97,
-            24,
-            192,
-            150,
-            176,
-            323,
-            11,
-            152,
-            140,
-            116,
-            72,
-            293,
-            75,
-            85,
-            186,
-            47,
-            83,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            1,
-            473,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            1,
-            0.34,
-            2,
-            1,
-            0.5,
-            1,
-            15,
-            1.25,
-            2.5,
-            1.25,
-            0.3125,
-            2.5,
-            17.5,
-            2.5,
-            3.75,
-            1.25
-          ],
-          "average_rating": 0.81,
-          "rating_count": 21,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-            8
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Skillets & Sautés"
-        ],
-        "cuisine": "Moroccan",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 10598,
+  "recipe_id": 1246,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Moroccan Fish, Carrot, Zucchini & Bell Pepper Skillet with Couscous",
+  "slug": "moroccan-fish-carrot-zucchini-bell-pepper-skillet-couscous",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/thumbnail_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1246/presentation_73fb7e49-c2d9-4af0-919d-1d3fee647961.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "moroccan-fish-carrot-zucchini-bell-pepper-skillet-couscous",
-    "variantId": "10598"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 169821,
+      "primary_message": "In a medium saucepan, bring broth to a boil. Remove from heat, add couscous, and stir. Cover and let stand for 10 minutes. Uncover couscous and fluff with a fork.",
+      "secondary_message": "24 fl oz (3 cups) chicken or vegetable broth\n2 cups whole wheat couscous"
+    },
+    {
+      "id": 169822,
+      "primary_message": "Meanwhile, preheat a large nonstick skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 169823,
+      "primary_message": "Pat the fish dry with paper towels and place on a plate. Season with salt and pepper on both sides. ",
+      "secondary_message": "1 ½ lb tilapia fillet\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 169824,
+      "primary_message": "Sprinkle flour over both sides of each fillet and press gently to adhere.",
+      "secondary_message": "2 tbsp all-purpose flour"
+    },
+    {
+      "id": 169825,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches if necessary, add fish to the skillet and cook until opaque and cooked through, about 3 minutes per side. Remove to a plate and cover with foil.",
+      "secondary_message": "1 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 169826,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n2 medium carrots\n2 medium zucchini squash\n1 small bunch cilantro\n1 lemon"
+    },
+    {
+      "id": 169827,
+      "primary_message": "Seed and slice bell peppers into thin strips. Peel, halve, and thinly slice onion. Peel and thinly slice garlic.",
+      "secondary_message": "1 medium yellow onion\n4 cloves garlic"
+    },
+    {
+      "id": 169828,
+      "primary_message": "Return skillet to medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 169829,
+      "primary_message": "Once the skillet is hot, add more oil and swirl to coat the bottom. Add the bell pepper, onion, and garlic; cook, stirring occasionally, until softened, 5-7 minutes.",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 169830,
+      "primary_message": "Meanwhile, peel and thinly slice carrots. Trim and thinly slice zucchini. Add both to the skillet along with the spices. Cook, stirring constantly, until fragrant, about 1 minute. ",
+      "secondary_message": "1 tsp paprika\n1 tsp cumin\n1 tsp salt\n½ tsp chili powder\n½ tsp turmeric\n¼ tsp black pepper\n⅛ tsp crushed red pepper"
+    },
+    {
+      "id": 169831,
+      "primary_message": "Stir in the tomatoes, broth, tomato paste, and sugar. Increase temperature to high and bring to a boil; then reduce heat to medium and let simmer, stirring occasionally, until slightly thickened, 3-4 minutes.",
+      "secondary_message": "1 (14.5 oz) can diced tomatoes\n8 fl oz (1 cup) chicken or vegetable broth\n4 tbsp tomato paste\n1 tsp brown sugar"
+    },
+    {
+      "id": 169832,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add half of the cilantro to the skillet (reserve the rest for garnish).",
+      "secondary_message": null
+    },
+    {
+      "id": 169833,
+      "primary_message": "Place fish fillets in the skillet over the vegetables, spooning a thin layer of sauce over the top to cover. Cover with a lid and let simmer until veggies are soft and fish is warmed through, 5-6 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 169834,
+      "primary_message": "Cut the lemon into wedges.",
+      "secondary_message": null
+    },
+    {
+      "id": 169835,
+      "primary_message": "To serve, divide couscous and vegetable-fish sauté between plates or bowls. Garnish with cilantro and lemon wedges. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 176720,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 176725,
+      "quantity": "32 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 176723,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 176715,
+      "quantity": "1 (14.5 oz) can",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 176707,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 176724,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 176718,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 176721,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "tilapia fillet"
+    },
+    {
+      "id": 176727,
+      "quantity": "4 tbsp",
+      "ingredient_name": "tomato paste"
+    },
+    {
+      "id": 176706,
+      "quantity": "2 cups",
+      "ingredient_name": "whole wheat couscous"
+    },
+    {
+      "id": 176719,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 176717,
+      "quantity": "2 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 176716,
+      "quantity": "",
+      "ingredient_name": "all-purpose flour"
+    },
+    {
+      "id": 176709,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 176726,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 176710,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 176712,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 176722,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 176708,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 176711,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 176713,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 176714,
+      "quantity": "",
+      "ingredient_name": "turmeric, ground"
+    }
+  ],
+  "nutrition": {
+    "energy": 698.34,
+    "alcohol": 0,
+    "ash": 7.41,
+    "caffeine": 0,
+    "water": 712.53,
+    "carbs": 97.33,
+    "fiber": 18.52,
+    "starch": 4.73,
+    "sugars": 14.27,
+    "fructose": 5.83,
+    "galactose": 0,
+    "glucose": 5.65,
+    "lactose": 0,
+    "maltose": 0.05,
+    "sucrose": 2.68,
+    "sugar_alcohol": 0,
+    "fat": 14.31,
+    "monounsaturated": 7.66,
+    "polyunsaturated": 2.42,
+    "omega_3": 0.5,
+    "omega_6": 1.93,
+    "saturated": 2.88,
+    "transfats": 0.06,
+    "cholesterol": 85.05,
+    "protein": 55.42,
+    "alanine": 2.87,
+    "arginine": 3.09,
+    "aspartic_acid": 5.54,
+    "cystine": 0.84,
+    "glutamic_acid": 11.63,
+    "glycine": 2.52,
+    "histidine": 1.27,
+    "isoleucine": 2.43,
+    "leucine": 4.08,
+    "lysine": 3.92,
+    "methionine": 1.36,
+    "phenylalanine": 2.29,
+    "proline": 2.9,
+    "serine": 2.26,
+    "threonine": 2.33,
+    "tryptophan": 0.59,
+    "tyrosine": 1.72,
+    "valine": 2.53,
+    "b1_thiamine": 1.28,
+    "b2_riboflavin": 0.64,
+    "b3_niacin": 17.64,
+    "b5_pantothenic_acid": 3.07,
+    "b6_pyridoxine": 1.3,
+    "b12_cobalamin": 2.94,
+    "choline": 123.51,
+    "folate": 174.57,
+    "vitamin_a": 912.24,
+    "vitamin_c": 124.99,
+    "vitamin_d": 210.92,
+    "vitamin_e": 5.91,
+    "vitamin_k": 86.8,
+    "calcium": 150.04,
+    "copper": 0.9,
+    "iron": 6.45,
+    "magnesium": 230.29,
+    "manganese": 1.64,
+    "phosphorus": 808.36,
+    "potassium": 2065.76,
+    "selenium": 75.27,
+    "sodium": 236.1,
+    "zinc": 4.17
+  }
 }

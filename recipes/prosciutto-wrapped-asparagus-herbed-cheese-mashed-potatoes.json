@@ -1,652 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 29756,
-        "recipe_id": 3338,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
-        "slug": "prosciutto-wrapped-asparagus-herbed-cheese-mashed-potatoes",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 16,
-            "name": "potato masher",
-            "slug": "potato-masher"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 483752,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 483753,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "6 medium yellow potatoes\n2 small bunches asparagus\n1 small bunch Italian (flat-leaf) parsley\n1 small pkg chives"
-          },
-          {
-            "id": 483754,
-            "primary_message": "Peel and medium dice potatoes; place in a large pot and cover with hot water (from the tap). Cover and bring to a boil over high heat; once boiling, reduce to a simmer and cook until soft, 10-12 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 483755,
-            "primary_message": "While the potatoes are cooking, snap (or cut) off woody ends of the asparagus. Transfer to a large baking sheet pan, drizzle with oil, and spread out in an even layer.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 483756,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast until asparagus is just tender, 5-7 minutes, depending on the thickness of the spears. Remove baking sheet from oven and set aside to cool slightly, about 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 483757,
-            "primary_message": "Meanwhile, using a box grater, coarsely grate cream cheese into a small bowl.",
-            "secondary_message": "1 (8 oz) block cream cheese"
-          },
-          {
-            "id": 483758,
-            "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Add to the bowl with the cream cheese.",
-            "secondary_message": null
-          },
-          {
-            "id": 483759,
-            "primary_message": "Chop chives into small pieces. Add to the bowl along with salt and pepper, then stir to combine.",
-            "secondary_message": "½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 483760,
-            "primary_message": "Lay prosciutto on a flat surface and spread each slice evenly with the cream cheese mixture.",
-            "secondary_message": "12 slices prosciutto"
-          },
-          {
-            "id": 483761,
-            "primary_message": "When the asparagus is cool enough to handle, divide into 12 equal piles. Wrap each pile with a slice of the prepared prosciutto, gently pressing the cream cheese-side around the asparagus to secure. Arrange, seam-side down, on the baking sheet.",
-            "secondary_message": null
-          },
-          {
-            "id": 483762,
-            "primary_message": "Return baking sheet to the oven and continue to roast until prosciutto is golden and asparagus is fork-tender, about 5 minutes. Remove from oven and let cool slightly, about 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 483763,
-            "primary_message": "When the potatoes are done, drain in a colander and return to the pot. Add oil, salt, and pepper, then using a potato masher, mash until smooth.",
-            "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 483764,
-            "primary_message": "To serve, divide mashed potatoes and prosciutto-wrapped asparagus between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 519888,
-            "quantity": "2 small bunches",
-            "ingredient_name": "asparagus"
-          },
-          {
-            "id": 519894,
-            "quantity": "1 small pkg",
-            "ingredient_name": "chives"
-          },
-          {
-            "id": 519896,
-            "quantity": "1 (8 oz) block",
-            "ingredient_name": "cream cheese"
-          },
-          {
-            "id": 519892,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 519895,
-            "quantity": "12 slices",
-            "ingredient_name": "prosciutto"
-          },
-          {
-            "id": 519893,
-            "quantity": "6 medium",
-            "ingredient_name": "yellow potatoes"
-          },
-          {
-            "id": 519890,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 519889,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 519891,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 601.72,
-          "alcohol": 0,
-          "ash": 6.37,
-          "caffeine": 0,
-          "water": 421.92,
-          "carbs": 60.92,
-          "fiber": 10.93,
-          "starch": 43.57,
-          "sugars": 9.82,
-          "fructose": 2.37,
-          "galactose": 0,
-          "glucose": 2.54,
-          "lactose": 2.13,
-          "maltose": 0,
-          "sucrose": 1.24,
-          "sugar_alcohol": 0,
-          "fat": 32.28,
-          "monounsaturated": 10.11,
-          "polyunsaturated": 1.8,
-          "omega_3": 0.17,
-          "omega_6": 1.54,
-          "saturated": 14.83,
-          "transfats": 0.68,
-          "cholesterol": 87.14,
-          "protein": 22.7,
-          "alanine": 0.45,
-          "arginine": 0.54,
-          "aspartic_acid": 2.22,
-          "cystine": 0.13,
-          "glutamic_acid": 2.02,
-          "glycine": 0.37,
-          "histidine": 0.26,
-          "isoleucine": 0.47,
-          "leucine": 0.83,
-          "lysine": 0.76,
-          "methionine": 0.24,
-          "phenylalanine": 0.5,
-          "proline": 0.68,
-          "serine": 0.57,
-          "threonine": 0.44,
-          "tryptophan": 0.14,
-          "tyrosine": 0.38,
-          "valine": 0.67,
-          "b1_thiamine": 0.43,
-          "b2_riboflavin": 0.43,
-          "b3_niacin": 4.88,
-          "b5_pantothenic_acid": 1.61,
-          "b6_pyridoxine": 0.81,
-          "b12_cobalamin": 0.12,
-          "choline": 71.89,
-          "folate": 155.22,
-          "vitamin_a": 1566.33,
-          "vitamin_c": 59.81,
-          "vitamin_d": 0,
-          "vitamin_e": 2.99,
-          "vitamin_k": 75.86,
-          "calcium": 141.47,
-          "copper": 0.65,
-          "iron": 5.95,
-          "magnesium": 99.96,
-          "manganese": 0.75,
-          "phosphorus": 334.43,
-          "potassium": 1721.69,
-          "selenium": 8.69,
-          "sodium": 1021.05,
-          "zinc": 2.06
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/prosciutto-wrapped-asparagus-herbed-cheese-mashed-potatoes/29756",
-      "altVariants": [
-        {
-          "id": 29757,
-          "recipe_id": 3338,
-          "group_label": "Default",
-          "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "published_recipe_uuid": "a28f29d7-a759-43cb-a923-faff488bc849",
-          "fallback_published_recipe_uuids": [
-            "53f568cb-3578-40e7-9512-237feba365fb"
-          ],
-          "first_published_at": 1716326349000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            270,
-            355,
-            106,
-            329,
-            148,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1.5,
-            1,
-            18,
-            9,
-            5,
-            45,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 60,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29755,
-          "recipe_id": 3338,
-          "group_label": "Default",
-          "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "published_recipe_uuid": "e49b1931-e563-4c1e-913d-be76eb1f7ab5",
-          "fallback_published_recipe_uuids": [
-            "a06c4b04-2542-4427-a728-7f9e5387ac90"
-          ],
-          "first_published_at": 1716326349000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            270,
-            355,
-            106,
-            329,
-            148,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            6,
-            3,
-            1.25,
-            15,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 60,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29756,
-          "recipe_id": 3338,
-          "group_label": "Default",
-          "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "published_recipe_uuid": "97fca78c-06ee-4d1d-9a7a-edcc6d013f94",
-          "fallback_published_recipe_uuids": [
-            "3350cae4-4343-409d-b7f4-31914361321a"
-          ],
-          "first_published_at": 1716326349000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            270,
-            355,
-            106,
-            329,
-            148,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            12,
-            6,
-            2.5,
-            30,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 60,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29760,
-          "recipe_id": 3338,
-          "group_label": "Default",
-          "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "published_recipe_uuid": "74df0cc6-a04d-4462-976e-99fef5b01914",
-          "fallback_published_recipe_uuids": [
-            "85f2232a-e987-4a16-92cd-30f74ea385f0"
-          ],
-          "first_published_at": 1716326348000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            270,
-            355,
-            106,
-            329,
-            148,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1.5,
-            1,
-            18,
-            9,
-            5,
-            45,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 60,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29759,
-          "recipe_id": 3338,
-          "group_label": "Default",
-          "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "published_recipe_uuid": "2750aa39-8fd8-4881-b9b2-b8fb1ed44384",
-          "fallback_published_recipe_uuids": [
-            "4fef6699-ddee-461d-81c5-ac4e4385b8da"
-          ],
-          "first_published_at": 1716326348000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            270,
-            355,
-            106,
-            329,
-            148,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            12,
-            6,
-            2.5,
-            30,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 60,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29758,
-          "recipe_id": 3338,
-          "group_label": "Default",
-          "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
-          "published_recipe_uuid": "3d180e8b-b945-48ea-9674-6554fe96afc8",
-          "fallback_published_recipe_uuids": [
-            "b03d5eff-25e1-4abf-890c-2d95d1cec001"
-          ],
-          "first_published_at": 1716326349000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            270,
-            355,
-            106,
-            329,
-            148,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            6,
-            3,
-            1.25,
-            15,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 60,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "",
-        "reviewCount": 60,
-        "reviewScore": null
-      }
+  "id": 29756,
+  "recipe_id": 3338,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Prosciutto-Wrapped Asparagus with Herbed Cheese & Mashed Potatoes",
+  "slug": "prosciutto-wrapped-asparagus-herbed-cheese-mashed-potatoes",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/thumbnail_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3338/presentation_5a77ac24-6829-47da-b328-2c5c66afa0e0.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "prosciutto-wrapped-asparagus-herbed-cheese-mashed-potatoes",
-    "variantId": "29756"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 16,
+      "name": "potato masher",
+      "slug": "potato-masher"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 483752,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 483753,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "6 medium yellow potatoes\n2 small bunches asparagus\n1 small bunch Italian (flat-leaf) parsley\n1 small pkg chives"
+    },
+    {
+      "id": 483754,
+      "primary_message": "Peel and medium dice potatoes; place in a large pot and cover with hot water (from the tap). Cover and bring to a boil over high heat; once boiling, reduce to a simmer and cook until soft, 10-12 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 483755,
+      "primary_message": "While the potatoes are cooking, snap (or cut) off woody ends of the asparagus. Transfer to a large baking sheet pan, drizzle with oil, and spread out in an even layer.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 483756,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast until asparagus is just tender, 5-7 minutes, depending on the thickness of the spears. Remove baking sheet from oven and set aside to cool slightly, about 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 483757,
+      "primary_message": "Meanwhile, using a box grater, coarsely grate cream cheese into a small bowl.",
+      "secondary_message": "1 (8 oz) block cream cheese"
+    },
+    {
+      "id": 483758,
+      "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Add to the bowl with the cream cheese.",
+      "secondary_message": null
+    },
+    {
+      "id": 483759,
+      "primary_message": "Chop chives into small pieces. Add to the bowl along with salt and pepper, then stir to combine.",
+      "secondary_message": "½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 483760,
+      "primary_message": "Lay prosciutto on a flat surface and spread each slice evenly with the cream cheese mixture.",
+      "secondary_message": "12 slices prosciutto"
+    },
+    {
+      "id": 483761,
+      "primary_message": "When the asparagus is cool enough to handle, divide into 12 equal piles. Wrap each pile with a slice of the prepared prosciutto, gently pressing the cream cheese-side around the asparagus to secure. Arrange, seam-side down, on the baking sheet.",
+      "secondary_message": null
+    },
+    {
+      "id": 483762,
+      "primary_message": "Return baking sheet to the oven and continue to roast until prosciutto is golden and asparagus is fork-tender, about 5 minutes. Remove from oven and let cool slightly, about 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 483763,
+      "primary_message": "When the potatoes are done, drain in a colander and return to the pot. Add oil, salt, and pepper, then using a potato masher, mash until smooth.",
+      "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 483764,
+      "primary_message": "To serve, divide mashed potatoes and prosciutto-wrapped asparagus between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 519888,
+      "quantity": "2 small bunches",
+      "ingredient_name": "asparagus"
+    },
+    {
+      "id": 519894,
+      "quantity": "1 small pkg",
+      "ingredient_name": "chives"
+    },
+    {
+      "id": 519896,
+      "quantity": "1 (8 oz) block",
+      "ingredient_name": "cream cheese"
+    },
+    {
+      "id": 519892,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 519895,
+      "quantity": "12 slices",
+      "ingredient_name": "prosciutto"
+    },
+    {
+      "id": 519893,
+      "quantity": "6 medium",
+      "ingredient_name": "yellow potatoes"
+    },
+    {
+      "id": 519890,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 519889,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 519891,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 601.72,
+    "alcohol": 0,
+    "ash": 6.37,
+    "caffeine": 0,
+    "water": 421.92,
+    "carbs": 60.92,
+    "fiber": 10.93,
+    "starch": 43.57,
+    "sugars": 9.82,
+    "fructose": 2.37,
+    "galactose": 0,
+    "glucose": 2.54,
+    "lactose": 2.13,
+    "maltose": 0,
+    "sucrose": 1.24,
+    "sugar_alcohol": 0,
+    "fat": 32.28,
+    "monounsaturated": 10.11,
+    "polyunsaturated": 1.8,
+    "omega_3": 0.17,
+    "omega_6": 1.54,
+    "saturated": 14.83,
+    "transfats": 0.68,
+    "cholesterol": 87.14,
+    "protein": 22.7,
+    "alanine": 0.45,
+    "arginine": 0.54,
+    "aspartic_acid": 2.22,
+    "cystine": 0.13,
+    "glutamic_acid": 2.02,
+    "glycine": 0.37,
+    "histidine": 0.26,
+    "isoleucine": 0.47,
+    "leucine": 0.83,
+    "lysine": 0.76,
+    "methionine": 0.24,
+    "phenylalanine": 0.5,
+    "proline": 0.68,
+    "serine": 0.57,
+    "threonine": 0.44,
+    "tryptophan": 0.14,
+    "tyrosine": 0.38,
+    "valine": 0.67,
+    "b1_thiamine": 0.43,
+    "b2_riboflavin": 0.43,
+    "b3_niacin": 4.88,
+    "b5_pantothenic_acid": 1.61,
+    "b6_pyridoxine": 0.81,
+    "b12_cobalamin": 0.12,
+    "choline": 71.89,
+    "folate": 155.22,
+    "vitamin_a": 1566.33,
+    "vitamin_c": 59.81,
+    "vitamin_d": 0,
+    "vitamin_e": 2.99,
+    "vitamin_k": 75.86,
+    "calcium": 141.47,
+    "copper": 0.65,
+    "iron": 5.95,
+    "magnesium": 99.96,
+    "manganese": 0.75,
+    "phosphorus": 334.43,
+    "potassium": 1721.69,
+    "selenium": 8.69,
+    "sodium": 1021.05,
+    "zinc": 2.06
+  }
 }

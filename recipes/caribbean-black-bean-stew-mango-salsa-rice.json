@@ -1,821 +1,310 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 10195,
-        "recipe_id": 1181,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
-        "slug": "caribbean-black-bean-stew-mango-salsa-rice",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 162513,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and salt, then bring the mixture to a boil over high heat.",
-            "secondary_message": "1 cup basmati rice\n2 cup water\n½ tsp salt"
-          },
-          {
-            "id": 162514,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 162515,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n1 lb sweet potato\n2 mangoes\n1 small bunch green onions (scallions)\n1 small bunch cilantro\n1 jalapeño pepper\n2 limes"
-          },
-          {
-            "id": 162516,
-            "primary_message": "Drain and rinse beans in a colander; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans black beans"
-          },
-          {
-            "id": 162517,
-            "primary_message": "Peel and small dice onion. Peel and mince garlic.",
-            "secondary_message": "1 medium yellow onion\n4 cloves garlic"
-          },
-          {
-            "id": 162518,
-            "primary_message": "Preheat a large pot over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 162519,
-            "primary_message": "Seed and small dice bell peppers.",
-            "secondary_message": null
-          },
-          {
-            "id": 162520,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add onion, garlic, and bell pepper; cook, stirring occasionally, until veggies begin to soften, about 4 minutes.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 162521,
-            "primary_message": "Meanwhile, peel and chop sweet potatoes into ½-inch pieces. Add to the pot with the veggies along with the beans, broth, and spices. Stir and bring to a boil over high heat. Reduce heat to a simmer and cook, stirring occasionally, until potatoes are fork-tender, about 10 minutes.",
-            "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n1 tsp salt\n½ tsp cinnamon\n¼ tsp cayenne pepper\n¼ tsp cumin"
-          },
-          {
-            "id": 162522,
-            "primary_message": "Peel mangoes and slice the flesh away from the pit, starting with the flat sides; small dice and place in a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 162523,
-            "primary_message": "Trim and mince green onions; add to the bowl with the mango.",
-            "secondary_message": null
-          },
-          {
-            "id": 162524,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 162525,
-            "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs of the jalapeño with a spoon. Finely dice and add to the bowl. (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
-            "secondary_message": null
-          },
-          {
-            "id": 162526,
-            "primary_message": "Juice limes into the bowl and stir to combine the salsa.",
-            "secondary_message": null
-          },
-          {
-            "id": 162527,
-            "primary_message": "To serve, divide rice, stew, and mango salsa between bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 169035,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 169029,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 169032,
-            "quantity": "32 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 169031,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 169019,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 169028,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 169026,
-            "quantity": "1",
-            "ingredient_name": "jalapeño pepper"
-          },
-          {
-            "id": 169033,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 169034,
-            "quantity": "2",
-            "ingredient_name": "mangoes"
-          },
-          {
-            "id": 169025,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 169024,
-            "quantity": "1 lb",
-            "ingredient_name": "sweet potato"
-          },
-          {
-            "id": 169027,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 169021,
-            "quantity": "",
-            "ingredient_name": "cayenne pepper"
-          },
-          {
-            "id": 169022,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          },
-          {
-            "id": 169030,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 169020,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 169023,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 702.78,
-          "alcohol": 0,
-          "ash": 7.54,
-          "caffeine": 0,
-          "water": 699.84,
-          "carbs": 133.73,
-          "fiber": 23.63,
-          "starch": 35.75,
-          "sugars": 33.53,
-          "fructose": 10.9,
-          "galactose": 0,
-          "glucose": 7.2,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 15.59,
-          "sugar_alcohol": 0.05,
-          "fat": 10.59,
-          "monounsaturated": 6.28,
-          "polyunsaturated": 1.99,
-          "omega_3": 0.43,
-          "omega_6": 1.33,
-          "saturated": 1.83,
-          "transfats": 0.06,
-          "cholesterol": 0,
-          "protein": 24.19,
-          "alanine": 1.22,
-          "arginine": 1.34,
-          "aspartic_acid": 2.96,
-          "cystine": 0.29,
-          "glutamic_acid": 3.69,
-          "glycine": 1.01,
-          "histidine": 0.59,
-          "isoleucine": 1.08,
-          "leucine": 1.81,
-          "lysine": 1.47,
-          "methionine": 0.4,
-          "phenylalanine": 1.19,
-          "proline": 1.13,
-          "serine": 1.2,
-          "threonine": 0.92,
-          "tryptophan": 0.29,
-          "tyrosine": 0.63,
-          "valine": 1.32,
-          "b1_thiamine": 0.8,
-          "b2_riboflavin": 0.44,
-          "b3_niacin": 9.03,
-          "b5_pantothenic_acid": 2.79,
-          "b6_pyridoxine": 1.03,
-          "b12_cobalamin": 0.25,
-          "choline": 113.72,
-          "folate": 436.53,
-          "vitamin_a": 16354.58,
-          "vitamin_c": 164.95,
-          "vitamin_d": 0,
-          "vitamin_e": 4.66,
-          "vitamin_k": 131.85,
-          "calcium": 216.03,
-          "copper": 0.96,
-          "iron": 7.81,
-          "magnesium": 151.56,
-          "manganese": 2.09,
-          "phosphorus": 442.52,
-          "potassium": 1820.55,
-          "selenium": 13.43,
-          "sodium": 656.74,
-          "zinc": 3.04
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/caribbean-black-bean-stew-mango-salsa-rice/10195",
-      "altVariants": [
-        {
-          "id": 10196,
-          "recipe_id": 1181,
-          "group_label": "Default",
-          "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "published_recipe_uuid": "f3a50f03-f5e8-4aaf-9d8e-54b3712d2442",
-          "fallback_published_recipe_uuids": [
-            "20b8d52f-b42d-4b57-ac7f-246a4040c8ee",
-            "253bf4d9-bb28-4847-aeac-1c4f22236b97"
-          ],
-          "first_published_at": 1584466660000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            201,
-            188,
-            24,
-            153,
-            151,
-            228,
-            229,
-            150,
-            143,
-            152,
-            71,
-            74,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            48,
-            1,
-            6,
-            1,
-            1.5,
-            3,
-            3,
-            3,
-            1.5,
-            1.5,
-            1.25,
-            3.75,
-            3.75,
-            45,
-            11.25
-          ],
-          "average_rating": 0.787,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            28
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10195,
-          "recipe_id": 1181,
-          "group_label": "Default",
-          "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "published_recipe_uuid": "080566e2-55b3-4777-b006-044fbf12d8af",
-          "fallback_published_recipe_uuids": [
-            "f91ccda8-1806-4470-8cb9-2da9536a5574",
-            "a14cffed-a54a-4dea-95ed-8249f7fc5b3c"
-          ],
-          "first_published_at": 1584466659000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            201,
-            188,
-            24,
-            153,
-            151,
-            228,
-            229,
-            150,
-            143,
-            152,
-            71,
-            74,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            32,
-            1,
-            4,
-            1,
-            1,
-            2,
-            2,
-            2,
-            1,
-            1,
-            1.25,
-            2.5,
-            1.25,
-            30,
-            7.5
-          ],
-          "average_rating": 0.787,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            28
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10194,
-          "recipe_id": 1181,
-          "group_label": "Default",
-          "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "published_recipe_uuid": "85cbd161-e95f-4338-9e81-6be8090718b0",
-          "fallback_published_recipe_uuids": [
-            "39ecde0c-5af1-4104-90ee-8b6e6edeba3c",
-            "1d0930a9-acec-450f-970b-a7019a2673d2"
-          ],
-          "first_published_at": 1584466659000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            201,
-            188,
-            24,
-            153,
-            151,
-            228,
-            229,
-            150,
-            143,
-            152,
-            71,
-            74,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            16,
-            0.5,
-            2,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.5,
-            0.5,
-            0.625,
-            1.25,
-            0.625,
-            15,
-            3.75
-          ],
-          "average_rating": 0.787,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            28
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10199,
-          "recipe_id": 1181,
-          "group_label": "Default",
-          "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "published_recipe_uuid": "483a7118-89a8-4d00-b5d5-9cbf84d56d00",
-          "fallback_published_recipe_uuids": [
-            "38c73a2e-6baa-4242-9a92-ede6ce2c9b4f",
-            "3d9cd2ce-fab0-4658-aba2-b2d52c165aef"
-          ],
-          "first_published_at": 1584466661000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            201,
-            188,
-            24,
-            153,
-            151,
-            228,
-            229,
-            150,
-            143,
-            152,
-            71,
-            74,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1420,
-            1,
-            6,
-            1,
-            1.5,
-            3,
-            3,
-            3,
-            0.68,
-            1.5,
-            1.25,
-            3.75,
-            3.75,
-            45,
-            11.25
-          ],
-          "average_rating": 0.787,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            28
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10198,
-          "recipe_id": 1181,
-          "group_label": "Default",
-          "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "published_recipe_uuid": "27e23bc1-3e86-4413-b7b4-d1ab48c902bf",
-          "fallback_published_recipe_uuids": [
-            "0da9bcec-7372-4a29-af79-622186f304e7",
-            "fb491537-5af1-4ec8-a13e-330970f2682d"
-          ],
-          "first_published_at": 1584466661000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            201,
-            188,
-            24,
-            153,
-            151,
-            228,
-            229,
-            150,
-            143,
-            152,
-            71,
-            74,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            946,
-            1,
-            4,
-            1,
-            1,
-            2,
-            2,
-            2,
-            0.45,
-            1,
-            1.25,
-            2.5,
-            1.25,
-            30,
-            7.5
-          ],
-          "average_rating": 0.787,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            28
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 10197,
-          "recipe_id": 1181,
-          "group_label": "Default",
-          "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
-          "published_recipe_uuid": "c797fd27-ef89-438a-b017-af01ecb57a78",
-          "fallback_published_recipe_uuids": [
-            "72d44f43-d960-429a-956c-03a2d7608b5b",
-            "5fc08590-2d15-467c-b207-c9869c769934"
-          ],
-          "first_published_at": 1584466661000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            201,
-            188,
-            24,
-            153,
-            151,
-            228,
-            229,
-            150,
-            143,
-            152,
-            71,
-            74,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            473,
-            0.5,
-            2,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.23,
-            0.5,
-            0.625,
-            1.25,
-            0.625,
-            15,
-            3.75
-          ],
-          "average_rating": 0.787,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            28
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "Caribbean",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 10195,
+  "recipe_id": 1181,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Caribbean Black Bean Stew with Mango Salsa & Rice",
+  "slug": "caribbean-black-bean-stew-mango-salsa-rice",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/thumbnail_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1181/presentation_61d03284-4c8b-4ce1-b0fe-4b2eedcdc695.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "caribbean-black-bean-stew-mango-salsa-rice",
-    "variantId": "10195"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 162513,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and salt, then bring the mixture to a boil over high heat.",
+      "secondary_message": "1 cup basmati rice\n2 cup water\n½ tsp salt"
+    },
+    {
+      "id": 162514,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 162515,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n1 lb sweet potato\n2 mangoes\n1 small bunch green onions (scallions)\n1 small bunch cilantro\n1 jalapeño pepper\n2 limes"
+    },
+    {
+      "id": 162516,
+      "primary_message": "Drain and rinse beans in a colander; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans black beans"
+    },
+    {
+      "id": 162517,
+      "primary_message": "Peel and small dice onion. Peel and mince garlic.",
+      "secondary_message": "1 medium yellow onion\n4 cloves garlic"
+    },
+    {
+      "id": 162518,
+      "primary_message": "Preheat a large pot over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 162519,
+      "primary_message": "Seed and small dice bell peppers.",
+      "secondary_message": null
+    },
+    {
+      "id": 162520,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add onion, garlic, and bell pepper; cook, stirring occasionally, until veggies begin to soften, about 4 minutes.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 162521,
+      "primary_message": "Meanwhile, peel and chop sweet potatoes into ½-inch pieces. Add to the pot with the veggies along with the beans, broth, and spices. Stir and bring to a boil over high heat. Reduce heat to a simmer and cook, stirring occasionally, until potatoes are fork-tender, about 10 minutes.",
+      "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n1 tsp salt\n½ tsp cinnamon\n¼ tsp cayenne pepper\n¼ tsp cumin"
+    },
+    {
+      "id": 162522,
+      "primary_message": "Peel mangoes and slice the flesh away from the pit, starting with the flat sides; small dice and place in a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 162523,
+      "primary_message": "Trim and mince green onions; add to the bowl with the mango.",
+      "secondary_message": null
+    },
+    {
+      "id": 162524,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 162525,
+      "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs of the jalapeño with a spoon. Finely dice and add to the bowl. (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
+      "secondary_message": null
+    },
+    {
+      "id": 162526,
+      "primary_message": "Juice limes into the bowl and stir to combine the salsa.",
+      "secondary_message": null
+    },
+    {
+      "id": 162527,
+      "primary_message": "To serve, divide rice, stew, and mango salsa between bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 169035,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 169029,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 169032,
+      "quantity": "32 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 169031,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 169019,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 169028,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 169026,
+      "quantity": "1",
+      "ingredient_name": "jalapeño pepper"
+    },
+    {
+      "id": 169033,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 169034,
+      "quantity": "2",
+      "ingredient_name": "mangoes"
+    },
+    {
+      "id": 169025,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 169024,
+      "quantity": "1 lb",
+      "ingredient_name": "sweet potato"
+    },
+    {
+      "id": 169027,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 169021,
+      "quantity": "",
+      "ingredient_name": "cayenne pepper"
+    },
+    {
+      "id": 169022,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    },
+    {
+      "id": 169030,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 169020,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 169023,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 702.78,
+    "alcohol": 0,
+    "ash": 7.54,
+    "caffeine": 0,
+    "water": 699.84,
+    "carbs": 133.73,
+    "fiber": 23.63,
+    "starch": 35.75,
+    "sugars": 33.53,
+    "fructose": 10.9,
+    "galactose": 0,
+    "glucose": 7.2,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 15.59,
+    "sugar_alcohol": 0.05,
+    "fat": 10.59,
+    "monounsaturated": 6.28,
+    "polyunsaturated": 1.99,
+    "omega_3": 0.43,
+    "omega_6": 1.33,
+    "saturated": 1.83,
+    "transfats": 0.06,
+    "cholesterol": 0,
+    "protein": 24.19,
+    "alanine": 1.22,
+    "arginine": 1.34,
+    "aspartic_acid": 2.96,
+    "cystine": 0.29,
+    "glutamic_acid": 3.69,
+    "glycine": 1.01,
+    "histidine": 0.59,
+    "isoleucine": 1.08,
+    "leucine": 1.81,
+    "lysine": 1.47,
+    "methionine": 0.4,
+    "phenylalanine": 1.19,
+    "proline": 1.13,
+    "serine": 1.2,
+    "threonine": 0.92,
+    "tryptophan": 0.29,
+    "tyrosine": 0.63,
+    "valine": 1.32,
+    "b1_thiamine": 0.8,
+    "b2_riboflavin": 0.44,
+    "b3_niacin": 9.03,
+    "b5_pantothenic_acid": 2.79,
+    "b6_pyridoxine": 1.03,
+    "b12_cobalamin": 0.25,
+    "choline": 113.72,
+    "folate": 436.53,
+    "vitamin_a": 16354.58,
+    "vitamin_c": 164.95,
+    "vitamin_d": 0,
+    "vitamin_e": 4.66,
+    "vitamin_k": 131.85,
+    "calcium": 216.03,
+    "copper": 0.96,
+    "iron": 7.81,
+    "magnesium": 151.56,
+    "manganese": 2.09,
+    "phosphorus": 442.52,
+    "potassium": 1820.55,
+    "selenium": 13.43,
+    "sodium": 656.74,
+    "zinc": 3.04
+  }
 }

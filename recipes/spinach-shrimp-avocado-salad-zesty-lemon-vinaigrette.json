@@ -1,680 +1,225 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2583,
-        "recipe_id": 294,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
-        "slug": "spinach-shrimp-avocado-salad-zesty-lemon-vinaigrette",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 25030,
-            "primary_message": "If using frozen shrimp, place in a large bowl, cover with water, and set aside to defrost. If using fresh shrimp, skip this step.",
-            "secondary_message": "1 ½ lb raw peeled shrimp, fresh or frozen"
-          },
-          {
-            "id": 25031,
-            "primary_message": "Wash and dry the fresh produce. Halve the tomatoes. Halve and pit the avocados; thinly slice the flesh crosswise while still in the skin and scoop out with a spoon. Peel and mince the garlic.",
-            "secondary_message": "2 (5 oz) pkg baby spinach\r\n1 pint grape tomatoes\r\n2 avocados\r\n2 cloves garlic"
-          },
-          {
-            "id": 25032,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 25033,
-            "primary_message": "Drain the shrimp in a colander and run under cold water to melt any remaining ice chunks. Place on a clean towel (or paper towels) and pat dry.",
-            "secondary_message": ""
-          },
-          {
-            "id": 25034,
-            "primary_message": "Add oil to the skillet and swirl to coat bottom. Add the minced garlic and cook until fragrant, 15-30 seconds. Add the shrimp and cook until opaque, 1-2 minutes per side.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 25035,
-            "primary_message": "In a small bowl, prepare the dressing by whisking together lemon juice, olive oil, honey, salt, and pepper.",
-            "secondary_message": "juice of 1 lemon\r\n4 tbsp extra virgin olive oil\r\n½ tsp honey\r\n¼ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 25036,
-            "primary_message": "To serve, arrange a bed of spinach on a plate, top with the tomatoes, avocado and shrimp, and drizzle with the dressing. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 31962,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 31961,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 31960,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 31959,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 31958,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 31957,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "raw peeled shrimp, fresh or frozen"
-          },
-          {
-            "id": 31956,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 31955,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 31954,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 31953,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 31952,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 499.23,
-          "alcohol": 0,
-          "ash": 6.77,
-          "caffeine": 0,
-          "water": 358.69,
-          "carbs": 17.61,
-          "fiber": 9.25,
-          "starch": 1.91,
-          "sugars": 3.88,
-          "fructose": 1.7,
-          "galactose": 0.2,
-          "glucose": 1.78,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 0.17,
-          "sugar_alcohol": 0,
-          "fat": 37.52,
-          "monounsaturated": 20.58,
-          "polyunsaturated": 4.08,
-          "omega_3": 0.6,
-          "omega_6": 3.48,
-          "saturated": 10.52,
-          "transfats": 0.05,
-          "cholesterol": 214.32,
-          "protein": 27.97,
-          "alanine": 1.66,
-          "arginine": 2.51,
-          "aspartic_acid": 3.09,
-          "cystine": 0.34,
-          "glutamic_acid": 4.92,
-          "glycine": 1.58,
-          "histidine": 0.62,
-          "isoleucine": 1.27,
-          "leucine": 2.31,
-          "lysine": 2.49,
-          "methionine": 0.76,
-          "phenylalanine": 1.22,
-          "proline": 1.26,
-          "serine": 1.15,
-          "threonine": 1.1,
-          "tryptophan": 0.32,
-          "tyrosine": 1.01,
-          "valine": 1.32,
-          "b1_thiamine": 0.19,
-          "b2_riboflavin": 0.31,
-          "b3_niacin": 5.73,
-          "b5_pantothenic_acid": 2.06,
-          "b6_pyridoxine": 0.75,
-          "b12_cobalamin": 1.89,
-          "choline": 171.38,
-          "folate": 264.56,
-          "vitamin_a": 1050.3,
-          "vitamin_c": 44.81,
-          "vitamin_d": 3.4,
-          "vitamin_e": 8.14,
-          "vitamin_k": 378.61,
-          "calcium": 185.64,
-          "copper": 0.64,
-          "iron": 3.16,
-          "magnesium": 131.82,
-          "manganese": 0.96,
-          "phosphorus": 522.59,
-          "potassium": 1262.5,
-          "selenium": 51.7,
-          "sodium": 1030.27,
-          "zinc": 2.83
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/spinach-shrimp-avocado-salad-zesty-lemon-vinaigrette/2583",
-      "altVariants": [
-        {
-          "id": 5552,
-          "recipe_id": 294,
-          "group_label": "Classic",
-          "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "published_recipe_uuid": "87079a00-cf5b-4f2b-9997-fc76d1e73f31",
-          "fallback_published_recipe_uuids": [
-            "b48d47ce-73d3-40cc-a202-b6cc5d62963d",
-            "dc6c6d95-eab1-4b32-817e-c2a95ad174d1"
-          ],
-          "first_published_at": 1550528155000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            24,
-            277,
-            192,
-            7,
-            72,
-            47,
-            103,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1.5,
-            1.5,
-            2.25,
-            1.875,
-            90,
-            3.75,
-            1.875,
-            45
-          ],
-          "average_rating": 0.75,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2583,
-          "recipe_id": 294,
-          "group_label": "Classic",
-          "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "published_recipe_uuid": "f4d15239-a2a7-4a20-8ac2-e7eab2dd2270",
-          "fallback_published_recipe_uuids": [
-            "957d97a9-ad07-4748-b697-0e10cb40d955",
-            "ea72607b-f19d-4ffb-95f9-bbee80782a86",
-            "22313c66-65cb-468b-8b3d-b8ec650eeeaa"
-          ],
-          "first_published_at": 1447956431000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            24,
-            277,
-            192,
-            7,
-            72,
-            47,
-            103,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            1,
-            1,
-            1.5,
-            1.25,
-            60,
-            2.5,
-            1.25,
-            30
-          ],
-          "average_rating": 0.75,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2581,
-          "recipe_id": 294,
-          "group_label": "Classic",
-          "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "published_recipe_uuid": "fafd5ff0-6b0d-4912-9298-d3d17d30ae0a",
-          "fallback_published_recipe_uuids": [
-            "49f4ed9b-5e7c-40df-bbc8-6d6525554e19",
-            "8bd36071-1932-418d-a276-dea6dbe5b6ba",
-            "ecb5d761-44e1-4e5b-ab92-55f13814cf9f"
-          ],
-          "first_published_at": 1447956431000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            24,
-            277,
-            192,
-            7,
-            72,
-            47,
-            103,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.5,
-            0.5,
-            0.75,
-            0.625,
-            30,
-            1.25,
-            0.625,
-            15
-          ],
-          "average_rating": 0.75,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2584,
-          "recipe_id": 294,
-          "group_label": "Classic",
-          "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "published_recipe_uuid": "1dcffd7b-9888-4d7d-8e78-a205e1a6cb9c",
-          "fallback_published_recipe_uuids": [
-            "1ab2d2e6-1cbd-48ec-9ec1-373f03ba7394",
-            "1985388d-6b4c-4657-b07b-4232b7d7f2cc",
-            "7eadc846-88ac-4e71-98ce-8e244ab194e4"
-          ],
-          "first_published_at": 1447956431000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            24,
-            277,
-            192,
-            7,
-            72,
-            47,
-            103,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            1,
-            1,
-            0.68,
-            1.25,
-            60,
-            2.5,
-            1.25,
-            30
-          ],
-          "average_rating": 0.75,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2582,
-          "recipe_id": 294,
-          "group_label": "Classic",
-          "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "published_recipe_uuid": "14456657-3ad4-491c-9138-653b68a5fcd3",
-          "fallback_published_recipe_uuids": [
-            "9736f12e-d2c8-4776-9858-4c940dd980cf",
-            "0aca2f84-9130-4646-9861-a28a8985bb05",
-            "11c66b23-9295-445d-852c-9d0e0a343941"
-          ],
-          "first_published_at": 1447956431000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            24,
-            277,
-            192,
-            7,
-            72,
-            47,
-            103,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.5,
-            0.5,
-            0.34,
-            0.625,
-            30,
-            1.25,
-            0.625,
-            15
-          ],
-          "average_rating": 0.75,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5553,
-          "recipe_id": 294,
-          "group_label": "Classic",
-          "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
-          "published_recipe_uuid": "138fefa7-3c8a-4495-8235-451ee680075f",
-          "fallback_published_recipe_uuids": [
-            "62079b25-d09a-43c3-8643-f181862cf7f9",
-            "0d9066d8-5c53-4d3a-85ba-2d2b6bbc5e4e"
-          ],
-          "first_published_at": 1550528164000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            24,
-            277,
-            192,
-            7,
-            72,
-            47,
-            103,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1.5,
-            1.5,
-            1.02,
-            1.875,
-            90,
-            3.75,
-            1.875,
-            45
-          ],
-          "average_rating": 0.75,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2583,
+  "recipe_id": 294,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Spinach, Shrimp & Avocado Salad with Zesty Lemon Vinaigrette",
+  "slug": "spinach-shrimp-avocado-salad-zesty-lemon-vinaigrette",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/thumbnail_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/294/presentation_b6727dcf-6a50-44b0-b7f4-a587655a098c.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "spinach-shrimp-avocado-salad-zesty-lemon-vinaigrette",
-    "variantId": "2583"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 25030,
+      "primary_message": "If using frozen shrimp, place in a large bowl, cover with water, and set aside to defrost. If using fresh shrimp, skip this step.",
+      "secondary_message": "1 ½ lb raw peeled shrimp, fresh or frozen"
+    },
+    {
+      "id": 25031,
+      "primary_message": "Wash and dry the fresh produce. Halve the tomatoes. Halve and pit the avocados; thinly slice the flesh crosswise while still in the skin and scoop out with a spoon. Peel and mince the garlic.",
+      "secondary_message": "2 (5 oz) pkg baby spinach\r\n1 pint grape tomatoes\r\n2 avocados\r\n2 cloves garlic"
+    },
+    {
+      "id": 25032,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 25033,
+      "primary_message": "Drain the shrimp in a colander and run under cold water to melt any remaining ice chunks. Place on a clean towel (or paper towels) and pat dry.",
+      "secondary_message": ""
+    },
+    {
+      "id": 25034,
+      "primary_message": "Add oil to the skillet and swirl to coat bottom. Add the minced garlic and cook until fragrant, 15-30 seconds. Add the shrimp and cook until opaque, 1-2 minutes per side.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 25035,
+      "primary_message": "In a small bowl, prepare the dressing by whisking together lemon juice, olive oil, honey, salt, and pepper.",
+      "secondary_message": "juice of 1 lemon\r\n4 tbsp extra virgin olive oil\r\n½ tsp honey\r\n¼ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 25036,
+      "primary_message": "To serve, arrange a bed of spinach on a plate, top with the tomatoes, avocado and shrimp, and drizzle with the dressing. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 31962,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 31961,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 31960,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 31959,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 31958,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 31957,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "raw peeled shrimp, fresh or frozen"
+    },
+    {
+      "id": 31956,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 31955,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 31954,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 31953,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 31952,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 499.23,
+    "alcohol": 0,
+    "ash": 6.77,
+    "caffeine": 0,
+    "water": 358.69,
+    "carbs": 17.61,
+    "fiber": 9.25,
+    "starch": 1.91,
+    "sugars": 3.88,
+    "fructose": 1.7,
+    "galactose": 0.2,
+    "glucose": 1.78,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 0.17,
+    "sugar_alcohol": 0,
+    "fat": 37.52,
+    "monounsaturated": 20.58,
+    "polyunsaturated": 4.08,
+    "omega_3": 0.6,
+    "omega_6": 3.48,
+    "saturated": 10.52,
+    "transfats": 0.05,
+    "cholesterol": 214.32,
+    "protein": 27.97,
+    "alanine": 1.66,
+    "arginine": 2.51,
+    "aspartic_acid": 3.09,
+    "cystine": 0.34,
+    "glutamic_acid": 4.92,
+    "glycine": 1.58,
+    "histidine": 0.62,
+    "isoleucine": 1.27,
+    "leucine": 2.31,
+    "lysine": 2.49,
+    "methionine": 0.76,
+    "phenylalanine": 1.22,
+    "proline": 1.26,
+    "serine": 1.15,
+    "threonine": 1.1,
+    "tryptophan": 0.32,
+    "tyrosine": 1.01,
+    "valine": 1.32,
+    "b1_thiamine": 0.19,
+    "b2_riboflavin": 0.31,
+    "b3_niacin": 5.73,
+    "b5_pantothenic_acid": 2.06,
+    "b6_pyridoxine": 0.75,
+    "b12_cobalamin": 1.89,
+    "choline": 171.38,
+    "folate": 264.56,
+    "vitamin_a": 1050.3,
+    "vitamin_c": 44.81,
+    "vitamin_d": 3.4,
+    "vitamin_e": 8.14,
+    "vitamin_k": 378.61,
+    "calcium": 185.64,
+    "copper": 0.64,
+    "iron": 3.16,
+    "magnesium": 131.82,
+    "manganese": 0.96,
+    "phosphorus": 522.59,
+    "potassium": 1262.5,
+    "selenium": 51.7,
+    "sodium": 1030.27,
+    "zinc": 2.83
+  }
 }

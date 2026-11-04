@@ -1,761 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 16878,
-        "recipe_id": 1989,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
-        "slug": "warm-pasta-salad-butternut-squash-apple-goat-cheese-pecans",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 274905,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 274906,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 Gala apples\n1 small butternut squash\n1 small pkg fresh thyme"
-          },
-          {
-            "id": 274907,
-            "primary_message": "Quarter and core apples, then cut each quarter into ¾-inch cubes; transfer to a large baking sheet pan.",
-            "secondary_message": null
-          },
-          {
-            "id": 274908,
-            "primary_message": "Trim and peel squash. Halve lengthwise, scrape out seeds, and cut into ¾-inch cubes; add to the baking sheet with the apple.",
-            "secondary_message": null
-          },
-          {
-            "id": 274909,
-            "primary_message": "Slide thyme leaves off the stems; discard the stems. Sprinkle leaves over the apple and squash, drizzle with oil, then season with salt and pepper. Toss to combine and spread out in an even layer.",
-            "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 274910,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until apple and squash are golden and fork-tender, 20-25 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 274911,
-            "primary_message": "Meanwhile, fill a large pot about halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and rinse in a colander.",
-            "secondary_message": "1 tsp salt\n10 oz rotini pasta"
-          },
-          {
-            "id": 274912,
-            "primary_message": "While the pasta is cooking, place oil, vinegar, Dijon, salt, and pepper in a large bowl; whisk to combine the dressing.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n2 tbsp balsamic vinegar\n2 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 274913,
-            "primary_message": "Peel and mince garlic and shallot; add both to the bowl with the dressing. Stir to combine and set aside.",
-            "secondary_message": "2 cloves garlic\n1 shallot"
-          },
-          {
-            "id": 274914,
-            "primary_message": "Roughly chop pecans and set aside.",
-            "secondary_message": "⅔ cup pecans, dry roasted"
-          },
-          {
-            "id": 274915,
-            "primary_message": "When the apple, squash, and pasta are done, add to the bowl with the dressing; gently stir to combine the pasta salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 274916,
-            "primary_message": "To serve, divide warm pasta salad between plates or bowls. Crumble goat cheese over top and sprinkle with pecans. Enjoy!",
-            "secondary_message": "1 (4 oz) log goat cheese"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 290428,
-            "quantity": "1 small",
-            "ingredient_name": "butternut squash"
-          },
-          {
-            "id": 290430,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh thyme"
-          },
-          {
-            "id": 290431,
-            "quantity": "2",
-            "ingredient_name": "Gala apples"
-          },
-          {
-            "id": 290420,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 290426,
-            "quantity": "1 (4 oz) log",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 290432,
-            "quantity": "⅔ cup",
-            "ingredient_name": "pecan halves"
-          },
-          {
-            "id": 290422,
-            "quantity": "10 oz",
-            "ingredient_name": "rotini pasta"
-          },
-          {
-            "id": 290429,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 290427,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 290423,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 290425,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 290421,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 290424,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 688.39,
-          "alcohol": 0,
-          "ash": 6,
-          "caffeine": 0,
-          "water": 225.87,
-          "carbs": 85.57,
-          "fiber": 11.38,
-          "starch": 48.74,
-          "sugars": 16.29,
-          "fructose": 6.85,
-          "galactose": 0,
-          "glucose": 3.79,
-          "lactose": 0,
-          "maltose": 1.39,
-          "sucrose": 4.14,
-          "sugar_alcohol": 0,
-          "fat": 32.61,
-          "monounsaturated": 17.98,
-          "polyunsaturated": 5.69,
-          "omega_3": 0.36,
-          "omega_6": 5.31,
-          "saturated": 7.14,
-          "transfats": 0.22,
-          "cholesterol": 13,
-          "protein": 18.37,
-          "alanine": 0.56,
-          "arginine": 0.81,
-          "aspartic_acid": 1.1,
-          "cystine": 0.24,
-          "glutamic_acid": 4.88,
-          "glycine": 0.52,
-          "histidine": 0.44,
-          "isoleucine": 0.73,
-          "leucine": 1.38,
-          "lysine": 0.72,
-          "methionine": 0.3,
-          "phenylalanine": 0.83,
-          "proline": 1.88,
-          "serine": 0.8,
-          "threonine": 0.65,
-          "tryptophan": 0.23,
-          "tyrosine": 0.46,
-          "valine": 0.95,
-          "b1_thiamine": 0.85,
-          "b2_riboflavin": 0.5,
-          "b3_niacin": 6.85,
-          "b5_pantothenic_acid": 1.17,
-          "b6_pyridoxine": 0.46,
-          "b12_cobalamin": 0.05,
-          "choline": 41.01,
-          "folate": 205.86,
-          "vitamin_a": 115.41,
-          "vitamin_c": 34.69,
-          "vitamin_d": 4.24,
-          "vitamin_e": 3.77,
-          "vitamin_k": 11.99,
-          "calcium": 161.48,
-          "copper": 0.79,
-          "iron": 5.76,
-          "magnesium": 121.07,
-          "manganese": 1.89,
-          "phosphorus": 321,
-          "potassium": 765.33,
-          "selenium": 48.03,
-          "sodium": 119.16,
-          "zinc": 2.59
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/warm-pasta-salad-butternut-squash-apple-goat-cheese-pecans/16878",
-      "altVariants": [
-        {
-          "id": 16879,
-          "recipe_id": 1989,
-          "group_label": "Default",
-          "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "published_recipe_uuid": "4185a534-3002-4411-9145-ef4c5339e8c8",
-          "fallback_published_recipe_uuids": [
-            "135e18a0-f8d2-468f-8876-3a952a501ddd",
-            "887bcea8-cf40-45de-80ee-65c78a99179e"
-          ],
-          "first_published_at": 1637701550000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            142,
-            287,
-            296,
-            24,
-            126,
-            327,
-            66,
-            144,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            3,
-            1.5,
-            1,
-            15,
-            2,
-            45,
-            5,
-            15,
-            75,
-            15
-          ],
-          "average_rating": 0.858,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "From the creamy goat cheese to the crunchy pecans, there's a whole lot of love in this bowl"
-        },
-        {
-          "id": 16878,
-          "recipe_id": 1989,
-          "group_label": "Default",
-          "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "published_recipe_uuid": "03d4086d-671f-4338-a4a3-c163db54f5ff",
-          "fallback_published_recipe_uuids": [
-            "0e9dc698-7c7b-4a34-9379-97d588030094",
-            "ad4ca443-d223-41ae-92d9-99713037d1c4"
-          ],
-          "first_published_at": 1637701550000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            142,
-            287,
-            296,
-            24,
-            126,
-            327,
-            66,
-            144,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            2,
-            1,
-            0.6666666666666666,
-            10,
-            1,
-            30,
-            2.5,
-            10,
-            50,
-            10
-          ],
-          "average_rating": 0.858,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "From the creamy goat cheese to the crunchy pecans, there's a whole lot of love in this bowl"
-        },
-        {
-          "id": 16877,
-          "recipe_id": 1989,
-          "group_label": "Default",
-          "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "published_recipe_uuid": "26f45371-4133-4d76-891d-c5412a525f9a",
-          "fallback_published_recipe_uuids": [
-            "46ab5626-ab6d-4ecc-8a1f-ef4d395c6f99",
-            "096cd038-3031-4090-b8fb-35204be024dd"
-          ],
-          "first_published_at": 1637701550000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            142,
-            287,
-            296,
-            24,
-            126,
-            327,
-            66,
-            144,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            1,
-            0.5,
-            0.3333333333333333,
-            5,
-            0.5,
-            15,
-            1.25,
-            5,
-            25,
-            5
-          ],
-          "average_rating": 0.858,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "From the creamy goat cheese to the crunchy pecans, there's a whole lot of love in this bowl"
-        },
-        {
-          "id": 16882,
-          "recipe_id": 1989,
-          "group_label": "Default",
-          "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "published_recipe_uuid": "90135fb0-0567-4d72-89c0-219f6b2631dd",
-          "fallback_published_recipe_uuids": [
-            "54de4a0c-0fca-474b-9218-bf759b203e8f",
-            "e88f598a-60f5-4604-a101-8a4a13c853b3"
-          ],
-          "first_published_at": 1637701549000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            142,
-            287,
-            296,
-            24,
-            126,
-            327,
-            66,
-            144,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            3,
-            1.5,
-            1,
-            425,
-            2,
-            45,
-            5,
-            15,
-            75,
-            15
-          ],
-          "average_rating": 0.858,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "From the creamy goat cheese to the crunchy pecans, there's a whole lot of love in this bowl"
-        },
-        {
-          "id": 16881,
-          "recipe_id": 1989,
-          "group_label": "Default",
-          "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "published_recipe_uuid": "280cd698-1b13-4779-b42e-6d92791cb527",
-          "fallback_published_recipe_uuids": [
-            "6c48aed8-66d5-4a8c-b6d0-361b72aa8053",
-            "67e68820-a193-4737-a79b-08887af93720"
-          ],
-          "first_published_at": 1637701549000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            142,
-            287,
-            296,
-            24,
-            126,
-            327,
-            66,
-            144,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            2,
-            1,
-            0.6666666666666666,
-            283,
-            1,
-            30,
-            2.5,
-            10,
-            50,
-            10
-          ],
-          "average_rating": 0.858,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "From the creamy goat cheese to the crunchy pecans, there's a whole lot of love in this bowl"
-        },
-        {
-          "id": 16880,
-          "recipe_id": 1989,
-          "group_label": "Default",
-          "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
-          "published_recipe_uuid": "6aa53871-84fa-439c-b308-5f557d76e0c9",
-          "fallback_published_recipe_uuids": [
-            "c9132d24-0be4-42e3-99a4-78b9ef5b5647",
-            "e8eef46a-6640-401b-8bac-130004dfffeb"
-          ],
-          "first_published_at": 1637701549000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            142,
-            287,
-            296,
-            24,
-            126,
-            327,
-            66,
-            144,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            1,
-            0.5,
-            0.3333333333333333,
-            142,
-            0.5,
-            15,
-            1.25,
-            5,
-            25,
-            5
-          ],
-          "average_rating": 0.858,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "From the creamy goat cheese to the crunchy pecans, there's a whole lot of love in this bowl"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "From the creamy goat cheese to the crunchy pecans, there's a whole lot of love in this bowl",
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": 51,
-        "reviewScore": 4.3
-      }
+  "id": 16878,
+  "recipe_id": 1989,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Warm Pasta Salad with Butternut Squash, Apple, Goat Cheese & Pecans",
+  "slug": "warm-pasta-salad-butternut-squash-apple-goat-cheese-pecans",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/thumbnail_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1989/presentation_886c1a3f-941f-40b8-bb38-e0197c688c53.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "warm-pasta-salad-butternut-squash-apple-goat-cheese-pecans",
-    "variantId": "16878"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 274905,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 274906,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 Gala apples\n1 small butternut squash\n1 small pkg fresh thyme"
+    },
+    {
+      "id": 274907,
+      "primary_message": "Quarter and core apples, then cut each quarter into ¾-inch cubes; transfer to a large baking sheet pan.",
+      "secondary_message": null
+    },
+    {
+      "id": 274908,
+      "primary_message": "Trim and peel squash. Halve lengthwise, scrape out seeds, and cut into ¾-inch cubes; add to the baking sheet with the apple.",
+      "secondary_message": null
+    },
+    {
+      "id": 274909,
+      "primary_message": "Slide thyme leaves off the stems; discard the stems. Sprinkle leaves over the apple and squash, drizzle with oil, then season with salt and pepper. Toss to combine and spread out in an even layer.",
+      "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 274910,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until apple and squash are golden and fork-tender, 20-25 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 274911,
+      "primary_message": "Meanwhile, fill a large pot about halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and rinse in a colander.",
+      "secondary_message": "1 tsp salt\n10 oz rotini pasta"
+    },
+    {
+      "id": 274912,
+      "primary_message": "While the pasta is cooking, place oil, vinegar, Dijon, salt, and pepper in a large bowl; whisk to combine the dressing.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n2 tbsp balsamic vinegar\n2 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 274913,
+      "primary_message": "Peel and mince garlic and shallot; add both to the bowl with the dressing. Stir to combine and set aside.",
+      "secondary_message": "2 cloves garlic\n1 shallot"
+    },
+    {
+      "id": 274914,
+      "primary_message": "Roughly chop pecans and set aside.",
+      "secondary_message": "⅔ cup pecans, dry roasted"
+    },
+    {
+      "id": 274915,
+      "primary_message": "When the apple, squash, and pasta are done, add to the bowl with the dressing; gently stir to combine the pasta salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 274916,
+      "primary_message": "To serve, divide warm pasta salad between plates or bowls. Crumble goat cheese over top and sprinkle with pecans. Enjoy!",
+      "secondary_message": "1 (4 oz) log goat cheese"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 290428,
+      "quantity": "1 small",
+      "ingredient_name": "butternut squash"
+    },
+    {
+      "id": 290430,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh thyme"
+    },
+    {
+      "id": 290431,
+      "quantity": "2",
+      "ingredient_name": "Gala apples"
+    },
+    {
+      "id": 290420,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 290426,
+      "quantity": "1 (4 oz) log",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 290432,
+      "quantity": "⅔ cup",
+      "ingredient_name": "pecan halves"
+    },
+    {
+      "id": 290422,
+      "quantity": "10 oz",
+      "ingredient_name": "rotini pasta"
+    },
+    {
+      "id": 290429,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 290427,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 290423,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 290425,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 290421,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 290424,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 688.39,
+    "alcohol": 0,
+    "ash": 6,
+    "caffeine": 0,
+    "water": 225.87,
+    "carbs": 85.57,
+    "fiber": 11.38,
+    "starch": 48.74,
+    "sugars": 16.29,
+    "fructose": 6.85,
+    "galactose": 0,
+    "glucose": 3.79,
+    "lactose": 0,
+    "maltose": 1.39,
+    "sucrose": 4.14,
+    "sugar_alcohol": 0,
+    "fat": 32.61,
+    "monounsaturated": 17.98,
+    "polyunsaturated": 5.69,
+    "omega_3": 0.36,
+    "omega_6": 5.31,
+    "saturated": 7.14,
+    "transfats": 0.22,
+    "cholesterol": 13,
+    "protein": 18.37,
+    "alanine": 0.56,
+    "arginine": 0.81,
+    "aspartic_acid": 1.1,
+    "cystine": 0.24,
+    "glutamic_acid": 4.88,
+    "glycine": 0.52,
+    "histidine": 0.44,
+    "isoleucine": 0.73,
+    "leucine": 1.38,
+    "lysine": 0.72,
+    "methionine": 0.3,
+    "phenylalanine": 0.83,
+    "proline": 1.88,
+    "serine": 0.8,
+    "threonine": 0.65,
+    "tryptophan": 0.23,
+    "tyrosine": 0.46,
+    "valine": 0.95,
+    "b1_thiamine": 0.85,
+    "b2_riboflavin": 0.5,
+    "b3_niacin": 6.85,
+    "b5_pantothenic_acid": 1.17,
+    "b6_pyridoxine": 0.46,
+    "b12_cobalamin": 0.05,
+    "choline": 41.01,
+    "folate": 205.86,
+    "vitamin_a": 115.41,
+    "vitamin_c": 34.69,
+    "vitamin_d": 4.24,
+    "vitamin_e": 3.77,
+    "vitamin_k": 11.99,
+    "calcium": 161.48,
+    "copper": 0.79,
+    "iron": 5.76,
+    "magnesium": 121.07,
+    "manganese": 1.89,
+    "phosphorus": 321,
+    "potassium": 765.33,
+    "selenium": 48.03,
+    "sodium": 119.16,
+    "zinc": 2.59
+  }
 }

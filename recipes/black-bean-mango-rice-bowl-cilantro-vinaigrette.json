@@ -1,752 +1,295 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2958,
-        "recipe_id": 395,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
-        "slug": "black-bean-mango-rice-bowl-cilantro-vinaigrette",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 28943,
-            "primary_message": "Rinse the rice in a colander and transfer to a small saucepan. Add water and salt; bring to a boil.",
-            "secondary_message": "1 cup basmati rice\n2 cups water\n½ tsp salt"
-          },
-          {
-            "id": 28944,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n2 jalapeño peppers\n2 mangoes\n2 limes\n1 small bunch cilantro"
-          },
-          {
-            "id": 28945,
-            "primary_message": "Once the water is boiling, reduce the heat to low, stir, and cover. Cook until the liquid is absorbed, 15 to 18 minutes. Remove from the heat and let the rice stand, covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 28946,
-            "primary_message": "Seed and small dice the bell peppers; transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 28947,
-            "primary_message": "Halve the jalapeños and remove the seeds; mince and add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 28948,
-            "primary_message": "Peel and mince the garlic; add to the bowl.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 28949,
-            "primary_message": "Heat a skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 28950,
-            "primary_message": "Drain and rinse the black beans.",
-            "secondary_message": "2 (15 oz) cans black beans"
-          },
-          {
-            "id": 28951,
-            "primary_message": "Add olive oil to the skillet and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 28952,
-            "primary_message": "Add the peppers and garlic; cook until the bell pepper is softened, 2 to 3 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 28953,
-            "primary_message": "Add the black beans and season with cumin, salt, and pepper. Cook, stirring occasionally, until warmed through, 2 to 3 minutes. Once done, turn off the heat.",
-            "secondary_message": "1 tsp cumin\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 28954,
-            "primary_message": "Peel the mangoes and slice the flesh away from the pit, starting with the flat sides; medium dice the flesh and transfer to a bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 28955,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Stir ½ of the cilantro into the beans (save the rest for the dressing).",
-            "secondary_message": null
-          },
-          {
-            "id": 28956,
-            "primary_message": "Juice the lime into a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 28957,
-            "primary_message": "Add the remaining cilantro, olive oil, salt, and pepper to the lime juice; whisk together.",
-            "secondary_message": "3 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 28958,
-            "primary_message": "Divide the rice between bowls, then add the black bean and pepper mixture, mango, and drizzle with the cilantro-lime dressing. Mix together and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 36476,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 36479,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 36478,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 36469,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 36474,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 36475,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 36477,
-            "quantity": "2",
-            "ingredient_name": "mangoes"
-          },
-          {
-            "id": 36468,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 36471,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 36470,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 36473,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 36472,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 634.81,
-          "alcohol": 0,
-          "ash": 5.61,
-          "caffeine": 0,
-          "water": 328.56,
-          "carbs": 103.28,
-          "fiber": 19.08,
-          "starch": 20.77,
-          "sugars": 26.84,
-          "fructose": 9.6,
-          "galactose": 0,
-          "glucose": 4.87,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 12.33,
-          "sugar_alcohol": 0,
-          "fat": 19.07,
-          "monounsaturated": 12.96,
-          "polyunsaturated": 2.69,
-          "omega_3": 0.48,
-          "omega_6": 1.99,
-          "saturated": 2.74,
-          "transfats": 0.03,
-          "cholesterol": 0,
-          "protein": 16.68,
-          "alanine": 0.84,
-          "arginine": 0.91,
-          "aspartic_acid": 2.01,
-          "cystine": 0.19,
-          "glutamic_acid": 2.6,
-          "glycine": 0.66,
-          "histidine": 0.4,
-          "isoleucine": 0.71,
-          "leucine": 1.3,
-          "lysine": 0.94,
-          "methionine": 0.24,
-          "phenylalanine": 0.87,
-          "proline": 0.82,
-          "serine": 0.9,
-          "threonine": 0.58,
-          "tryptophan": 0.2,
-          "tyrosine": 0.41,
-          "valine": 0.95,
-          "b1_thiamine": 0.68,
-          "b2_riboflavin": 0.27,
-          "b3_niacin": 4.86,
-          "b5_pantothenic_acid": 1.51,
-          "b6_pyridoxine": 0.72,
-          "b12_cobalamin": 0,
-          "choline": 81.21,
-          "folate": 403.68,
-          "vitamin_a": 17.45,
-          "vitamin_c": 159.1,
-          "vitamin_d": 0,
-          "vitamin_e": 5.76,
-          "vitamin_k": 84.9,
-          "calcium": 146.63,
-          "copper": 0.64,
-          "iron": 6.44,
-          "magnesium": 114.62,
-          "manganese": 1.54,
-          "phosphorus": 297.7,
-          "potassium": 1116.46,
-          "selenium": 12.28,
-          "sodium": 515.24,
-          "zinc": 2.31
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/black-bean-mango-rice-bowl-cilantro-vinaigrette/2958",
-      "altVariants": [
-        {
-          "id": 5713,
-          "recipe_id": 395,
-          "group_label": "Classic",
-          "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "published_recipe_uuid": "fc39beed-035a-40c8-bebe-f9097c41ff50",
-          "fallback_published_recipe_uuids": [
-            "e45dc86f-1e8d-43c9-bab7-a2c1a93e34a8",
-            "20432baf-5255-40d9-aaeb-b30a633bb824",
-            "03f68457-6e5b-4ca1-8a2a-a62f6dfc9cd8"
-          ],
-          "first_published_at": 1550528511000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            188,
-            24,
-            151,
-            228,
-            229,
-            150,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3.69675,
-            7.3935,
-            110.9025,
-            11.090250000000001
-          ],
-          "average_rating": 0.867,
-          "rating_count": 115,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2958,
-          "recipe_id": 395,
-          "group_label": "Classic",
-          "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "published_recipe_uuid": "28a6027b-3070-41af-ab22-00e2b09f9fb6",
-          "fallback_published_recipe_uuids": [
-            "883e5d27-0f15-46a7-9e22-a73ddda18591",
-            "d1a237eb-05f6-471b-a281-66469f58210b",
-            "4d547488-130b-4fc7-b1f9-a978172cd3fd"
-          ],
-          "first_published_at": 1462991076000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            188,
-            24,
-            151,
-            228,
-            229,
-            150,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2.4645,
-            4.929,
-            73.935,
-            7.3935
-          ],
-          "average_rating": 0.867,
-          "rating_count": 115,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2954,
-          "recipe_id": 395,
-          "group_label": "Classic",
-          "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "published_recipe_uuid": "8c3f3394-78a9-4776-acee-5587201d89e8",
-          "fallback_published_recipe_uuids": [
-            "2beb57fe-c35c-4d6d-9264-504a5c1cf6cd",
-            "33b47d95-2102-455f-8189-bfda7090d038",
-            "e667bf16-cee0-4731-b4cf-a4202a2d8b70"
-          ],
-          "first_published_at": 1462990618000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            188,
-            24,
-            151,
-            228,
-            229,
-            150,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1.23225,
-            2.4645,
-            36.9675,
-            3.69675
-          ],
-          "average_rating": 0.867,
-          "rating_count": 115,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3425,
-          "recipe_id": 395,
-          "group_label": "Classic",
-          "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "published_recipe_uuid": "6c178213-5a82-4fd7-8225-e065a37db7fe",
-          "fallback_published_recipe_uuids": [
-            "c5da5bb5-e331-4b36-b2a1-be81c51bc747",
-            "6f4e4e63-f31b-4c33-a819-587b3944a87b",
-            "4960c6bb-89ec-4230-bc04-d7b20ca9723e"
-          ],
-          "first_published_at": 1485887096000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            188,
-            24,
-            151,
-            228,
-            229,
-            150,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2.4645,
-            4.929,
-            73.935,
-            7.3935
-          ],
-          "average_rating": 0.867,
-          "rating_count": 115,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3424,
-          "recipe_id": 395,
-          "group_label": "Classic",
-          "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "published_recipe_uuid": "e59738c1-fa21-4e27-919e-86670cf2af84",
-          "fallback_published_recipe_uuids": [
-            "d531a659-9332-4f5b-acef-0ff02cd0bc91",
-            "41e393e5-a75b-4beb-93f7-f1721110f18e",
-            "2a7c8f43-49cd-40f3-84f4-a0dfd5557f53"
-          ],
-          "first_published_at": 1485887067000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            188,
-            24,
-            151,
-            228,
-            229,
-            150,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1.23225,
-            2.4645,
-            36.9675,
-            3.69675
-          ],
-          "average_rating": 0.867,
-          "rating_count": 115,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5939,
-          "recipe_id": 395,
-          "group_label": "Classic",
-          "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
-          "published_recipe_uuid": "2d6332ec-66fb-40a7-8de4-3316926e14d1",
-          "fallback_published_recipe_uuids": [
-            "adc2628a-36c2-4ca4-8795-ef3a87ff1ae6",
-            "1d719ee0-c56a-45b7-9317-e1557168fbd8",
-            "a5e8ac49-acd7-4cbf-a7f4-c21793e9b65e"
-          ],
-          "first_published_at": 1550531351000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            185,
-            188,
-            24,
-            151,
-            228,
-            229,
-            150,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3.69675,
-            7.3935,
-            110.9025,
-            11.090250000000001
-          ],
-          "average_rating": 0.867,
-          "rating_count": 115,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Bowls"
-        ],
-        "cuisine": "",
-        "reviewCount": 115,
-        "reviewScore": 4.3
-      }
+  "id": 2958,
+  "recipe_id": 395,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Black Bean & Mango Rice Bowl with Cilantro Vinaigrette",
+  "slug": "black-bean-mango-rice-bowl-cilantro-vinaigrette",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/thumbnail_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/395/presentation_a6416358-a5e6-4da8-99be-0e30232b08b6.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "black-bean-mango-rice-bowl-cilantro-vinaigrette",
-    "variantId": "2958"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 28943,
+      "primary_message": "Rinse the rice in a colander and transfer to a small saucepan. Add water and salt; bring to a boil.",
+      "secondary_message": "1 cup basmati rice\n2 cups water\n½ tsp salt"
+    },
+    {
+      "id": 28944,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n2 jalapeño peppers\n2 mangoes\n2 limes\n1 small bunch cilantro"
+    },
+    {
+      "id": 28945,
+      "primary_message": "Once the water is boiling, reduce the heat to low, stir, and cover. Cook until the liquid is absorbed, 15 to 18 minutes. Remove from the heat and let the rice stand, covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 28946,
+      "primary_message": "Seed and small dice the bell peppers; transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 28947,
+      "primary_message": "Halve the jalapeños and remove the seeds; mince and add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 28948,
+      "primary_message": "Peel and mince the garlic; add to the bowl.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 28949,
+      "primary_message": "Heat a skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 28950,
+      "primary_message": "Drain and rinse the black beans.",
+      "secondary_message": "2 (15 oz) cans black beans"
+    },
+    {
+      "id": 28951,
+      "primary_message": "Add olive oil to the skillet and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 28952,
+      "primary_message": "Add the peppers and garlic; cook until the bell pepper is softened, 2 to 3 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 28953,
+      "primary_message": "Add the black beans and season with cumin, salt, and pepper. Cook, stirring occasionally, until warmed through, 2 to 3 minutes. Once done, turn off the heat.",
+      "secondary_message": "1 tsp cumin\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 28954,
+      "primary_message": "Peel the mangoes and slice the flesh away from the pit, starting with the flat sides; medium dice the flesh and transfer to a bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 28955,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Stir ½ of the cilantro into the beans (save the rest for the dressing).",
+      "secondary_message": null
+    },
+    {
+      "id": 28956,
+      "primary_message": "Juice the lime into a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 28957,
+      "primary_message": "Add the remaining cilantro, olive oil, salt, and pepper to the lime juice; whisk together.",
+      "secondary_message": "3 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 28958,
+      "primary_message": "Divide the rice between bowls, then add the black bean and pepper mixture, mango, and drizzle with the cilantro-lime dressing. Mix together and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 36476,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 36479,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 36478,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 36469,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 36474,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 36475,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 36477,
+      "quantity": "2",
+      "ingredient_name": "mangoes"
+    },
+    {
+      "id": 36468,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 36471,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 36470,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 36473,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 36472,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 634.81,
+    "alcohol": 0,
+    "ash": 5.61,
+    "caffeine": 0,
+    "water": 328.56,
+    "carbs": 103.28,
+    "fiber": 19.08,
+    "starch": 20.77,
+    "sugars": 26.84,
+    "fructose": 9.6,
+    "galactose": 0,
+    "glucose": 4.87,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 12.33,
+    "sugar_alcohol": 0,
+    "fat": 19.07,
+    "monounsaturated": 12.96,
+    "polyunsaturated": 2.69,
+    "omega_3": 0.48,
+    "omega_6": 1.99,
+    "saturated": 2.74,
+    "transfats": 0.03,
+    "cholesterol": 0,
+    "protein": 16.68,
+    "alanine": 0.84,
+    "arginine": 0.91,
+    "aspartic_acid": 2.01,
+    "cystine": 0.19,
+    "glutamic_acid": 2.6,
+    "glycine": 0.66,
+    "histidine": 0.4,
+    "isoleucine": 0.71,
+    "leucine": 1.3,
+    "lysine": 0.94,
+    "methionine": 0.24,
+    "phenylalanine": 0.87,
+    "proline": 0.82,
+    "serine": 0.9,
+    "threonine": 0.58,
+    "tryptophan": 0.2,
+    "tyrosine": 0.41,
+    "valine": 0.95,
+    "b1_thiamine": 0.68,
+    "b2_riboflavin": 0.27,
+    "b3_niacin": 4.86,
+    "b5_pantothenic_acid": 1.51,
+    "b6_pyridoxine": 0.72,
+    "b12_cobalamin": 0,
+    "choline": 81.21,
+    "folate": 403.68,
+    "vitamin_a": 17.45,
+    "vitamin_c": 159.1,
+    "vitamin_d": 0,
+    "vitamin_e": 5.76,
+    "vitamin_k": 84.9,
+    "calcium": 146.63,
+    "copper": 0.64,
+    "iron": 6.44,
+    "magnesium": 114.62,
+    "manganese": 1.54,
+    "phosphorus": 297.7,
+    "potassium": 1116.46,
+    "selenium": 12.28,
+    "sodium": 515.24,
+    "zinc": 2.31
+  }
 }

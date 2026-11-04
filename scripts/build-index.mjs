@@ -8,8 +8,7 @@ const index = readdirSync('recipes')
   .filter((file) => file.endsWith('.json'))
   .map((file) => {
     const id = file.replace(/\.json$/, '');
-    const recipeData = JSON.parse(readFileSync(`recipes/${file}`, 'utf8'));
-    const data = recipeData.props.pageProps.publishedRecipe;
+    const data = JSON.parse(readFileSync(`recipes/${file}`, 'utf8'));
     const ext = EXTS.find((e) => existsSync(`images/${id}.${e}`));
 
     return {
@@ -23,5 +22,5 @@ const index = readdirSync('recipes')
   })
   .sort((a, b) => a.title.localeCompare(b.title));
 
-writeFileSync('index.json', JSON.stringify(index));
+writeFileSync('index.json', JSON.stringify(index, null, 2));
 console.log(`Wrote index.json with ${index.length} recipes`);

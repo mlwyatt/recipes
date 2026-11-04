@@ -1,607 +1,210 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22187,
-        "recipe_id": 2519,
-        "serving_count": 4,
-        "cooking_minutes": 20,
-        "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
-        "slug": "steak-tacos-bell-pepper-lettuce-guacamole-salsa",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 371635,
-            "primary_message": "Wash, dry, and halve lettuce lengthwise, then slice crosswise into thin (shred-like) strips. Place in a medium bowl and set aside.",
-            "secondary_message": "2 hearts romaine hearts"
-          },
-          {
-            "id": 371636,
-            "primary_message": "Wash, dry, trim, and seed bell peppers; halve crosswise, then slice into thin strips.",
-            "secondary_message": "2 red bell peppers"
-          },
-          {
-            "id": 371637,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 371638,
-            "primary_message": "While the skillet heats up, pat steak dry with paper towels, then slice crosswise into thin strips.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak"
-          },
-          {
-            "id": 371639,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell peppers, steak, taco seasoning, and salt. Cook, stirring occasionally, until bell peppers are soft and steak is cooked through, 4-5 minutes. Remove from heat.",
-            "secondary_message": "2 tsp extra virgin olive oil\n3 tbsp taco seasoning\n½ tsp salt"
-          },
-          {
-            "id": 371640,
-            "primary_message": "Meanwhile, warm tortillas in another skillet, oven, or microwave (optional).",
-            "secondary_message": "12 small corn tortillas"
-          },
-          {
-            "id": 371641,
-            "primary_message": "To serve, divide tortillas between plates. Fill with steak, peppers, guacamole, salsa, and lettuce. Enjoy!",
-            "secondary_message": "1 cup guacamole\n½ cup salsa"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 396485,
-            "quantity": "1 cup",
-            "ingredient_name": "guacamole"
-          },
-          {
-            "id": 396479,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 396484,
-            "quantity": "2 hearts",
-            "ingredient_name": "romaine hearts"
-          },
-          {
-            "id": 396482,
-            "quantity": "½ cup",
-            "ingredient_name": "salsa"
-          },
-          {
-            "id": 396481,
-            "quantity": "12",
-            "ingredient_name": "small corn tortillas"
-          },
-          {
-            "id": 396480,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 396483,
-            "quantity": "45 ml",
-            "ingredient_name": "taco seasoning"
-          },
-          {
-            "id": 396477,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 396478,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 685.05,
-          "alcohol": 0,
-          "ash": 7.13,
-          "caffeine": 0,
-          "water": 346.13,
-          "carbs": 50.44,
-          "fiber": 12.79,
-          "starch": 27.55,
-          "sugars": 4.98,
-          "fructose": 2.92,
-          "galactose": 0,
-          "glucose": 2.3,
-          "lactose": 0,
-          "maltose": 0.24,
-          "sucrose": 0.51,
-          "sugar_alcohol": 0,
-          "fat": 35.99,
-          "monounsaturated": 18.81,
-          "polyunsaturated": 3.59,
-          "omega_3": 0.25,
-          "omega_6": 3.32,
-          "saturated": 11.58,
-          "transfats": 1.36,
-          "cholesterol": 103.76,
-          "protein": 43.62,
-          "alanine": 2.58,
-          "arginine": 2.69,
-          "aspartic_acid": 4.01,
-          "cystine": 0.45,
-          "glutamic_acid": 6.86,
-          "glycine": 1.99,
-          "histidine": 1.47,
-          "isoleucine": 1.86,
-          "leucine": 3.65,
-          "lysine": 3.57,
-          "methionine": 1.07,
-          "phenylalanine": 1.71,
-          "proline": 2.01,
-          "serine": 1.72,
-          "threonine": 1.89,
-          "tryptophan": 0.45,
-          "tyrosine": 1.52,
-          "valine": 2.06,
-          "b1_thiamine": 0.28,
-          "b2_riboflavin": 0.52,
-          "b3_niacin": 14.17,
-          "b5_pantothenic_acid": 1.05,
-          "b6_pyridoxine": 1.55,
-          "b12_cobalamin": 2.77,
-          "choline": 117.49,
-          "folate": 160.33,
-          "vitamin_a": 5219.49,
-          "vitamin_c": 84.34,
-          "vitamin_d": 6.8,
-          "vitamin_e": 3.82,
-          "vitamin_k": 79.43,
-          "calcium": 131.65,
-          "copper": 0.36,
-          "iron": 5.96,
-          "magnesium": 109.28,
-          "manganese": 0.46,
-          "phosphorus": 625.24,
-          "potassium": 1326.73,
-          "selenium": 37.24,
-          "sodium": 1186.25,
-          "zinc": 7.41
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/steak-tacos-bell-pepper-lettuce-guacamole-salsa/22187",
-      "altVariants": [
-        {
-          "id": 22188,
-          "recipe_id": 2519,
-          "group_label": "Default",
-          "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "published_recipe_uuid": "306472a1-2ea2-4122-a22f-7f54b5b8b651",
-          "fallback_published_recipe_uuids": [
-            "10397562-e277-4d1e-ade6-e24284d88b8d",
-            "766465e1-2e66-4d9c-b4e1-3499b5cb10ad"
-          ],
-          "first_published_at": 1667928607000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            441,
-            150,
-            440,
-            393,
-            321,
-            279,
-            431,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            180,
-            18,
-            2.25,
-            67.5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Ready in just 15 minutes, sometimes a simple taco is the cure to a long day"
-        },
-        {
-          "id": 22187,
-          "recipe_id": 2519,
-          "group_label": "Default",
-          "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "published_recipe_uuid": "aa004afa-5942-4658-ae7f-a3b160693c45",
-          "fallback_published_recipe_uuids": [
-            "7a067cc6-73b4-4e46-85b3-60daf18ed966",
-            "24819e88-f3a4-4b18-a5be-258853dbe2c8"
-          ],
-          "first_published_at": 1667928607000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            441,
-            150,
-            440,
-            393,
-            321,
-            279,
-            431,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            120,
-            12,
-            1.5,
-            45,
-            10,
-            2.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Ready in just 15 minutes, sometimes a simple taco is the cure to a long day"
-        },
-        {
-          "id": 22186,
-          "recipe_id": 2519,
-          "group_label": "Default",
-          "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "published_recipe_uuid": "b99aa1ea-ab11-4135-8ed5-e84dc2421fe9",
-          "fallback_published_recipe_uuids": [
-            "9d74a260-5a5b-44bb-b593-305b86ddf245",
-            "d6b8e66c-3729-4401-9e03-c7b5f0ebc9bf"
-          ],
-          "first_published_at": 1667928607000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            441,
-            150,
-            440,
-            393,
-            321,
-            279,
-            431,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            60,
-            6,
-            0.75,
-            22.5,
-            5,
-            1.25
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Ready in just 15 minutes, sometimes a simple taco is the cure to a long day"
-        },
-        {
-          "id": 22191,
-          "recipe_id": 2519,
-          "group_label": "Default",
-          "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "published_recipe_uuid": "5432f103-575a-43de-b513-c49a94461843",
-          "fallback_published_recipe_uuids": [
-            "6d213a01-b311-4617-89b7-1b71db4d0b36",
-            "63a2c25d-d074-4155-83ae-a02020996556"
-          ],
-          "first_published_at": 1667928606000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            441,
-            150,
-            440,
-            393,
-            321,
-            279,
-            431,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            180,
-            18,
-            1.02,
-            67.5,
-            15,
-            3.75
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Ready in just 15 minutes, sometimes a simple taco is the cure to a long day"
-        },
-        {
-          "id": 22190,
-          "recipe_id": 2519,
-          "group_label": "Default",
-          "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "published_recipe_uuid": "67057c51-e2db-493d-88cf-f14de1ecd38e",
-          "fallback_published_recipe_uuids": [
-            "802d0387-a474-4d16-b091-4682dc55bec0",
-            "016a0045-53ee-4be0-afd1-ee11fa5fcf35"
-          ],
-          "first_published_at": 1667928606000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            441,
-            150,
-            440,
-            393,
-            321,
-            279,
-            431,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            120,
-            12,
-            0.68,
-            45,
-            10,
-            2.5
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Ready in just 15 minutes, sometimes a simple taco is the cure to a long day"
-        },
-        {
-          "id": 22189,
-          "recipe_id": 2519,
-          "group_label": "Default",
-          "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
-          "published_recipe_uuid": "98281fa8-d1cf-4ea2-9a84-b82d19f590fb",
-          "fallback_published_recipe_uuids": [
-            "6e9a3dfa-a9cb-42c8-95f1-1fee2c675401",
-            "7a77b129-d53b-4fb7-905e-70ba132af86d"
-          ],
-          "first_published_at": 1667928607000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            441,
-            150,
-            440,
-            393,
-            321,
-            279,
-            431,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            60,
-            6,
-            0.34,
-            22.5,
-            5,
-            1.25
-          ],
-          "average_rating": 0.765,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Ready in just 15 minutes, sometimes a simple taco is the cure to a long day"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Ready in just 15 minutes, sometimes a simple taco is the cure to a long day",
-        "keywords": [
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 22187,
+  "recipe_id": 2519,
+  "serving_count": 4,
+  "cooking_minutes": 20,
+  "name": "Steak Tacos with Bell Pepper, Lettuce, Guacamole & Salsa",
+  "slug": "steak-tacos-bell-pepper-lettuce-guacamole-salsa",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/thumbnail_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2519/presentation_404c550c-9b7f-4b62-98e2-1c4d1c9c76a6.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "steak-tacos-bell-pepper-lettuce-guacamole-salsa",
-    "variantId": "22187"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 371635,
+      "primary_message": "Wash, dry, and halve lettuce lengthwise, then slice crosswise into thin (shred-like) strips. Place in a medium bowl and set aside.",
+      "secondary_message": "2 hearts romaine hearts"
+    },
+    {
+      "id": 371636,
+      "primary_message": "Wash, dry, trim, and seed bell peppers; halve crosswise, then slice into thin strips.",
+      "secondary_message": "2 red bell peppers"
+    },
+    {
+      "id": 371637,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 371638,
+      "primary_message": "While the skillet heats up, pat steak dry with paper towels, then slice crosswise into thin strips.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak"
+    },
+    {
+      "id": 371639,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell peppers, steak, taco seasoning, and salt. Cook, stirring occasionally, until bell peppers are soft and steak is cooked through, 4-5 minutes. Remove from heat.",
+      "secondary_message": "2 tsp extra virgin olive oil\n3 tbsp taco seasoning\n½ tsp salt"
+    },
+    {
+      "id": 371640,
+      "primary_message": "Meanwhile, warm tortillas in another skillet, oven, or microwave (optional).",
+      "secondary_message": "12 small corn tortillas"
+    },
+    {
+      "id": 371641,
+      "primary_message": "To serve, divide tortillas between plates. Fill with steak, peppers, guacamole, salsa, and lettuce. Enjoy!",
+      "secondary_message": "1 cup guacamole\n½ cup salsa"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 396485,
+      "quantity": "1 cup",
+      "ingredient_name": "guacamole"
+    },
+    {
+      "id": 396479,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 396484,
+      "quantity": "2 hearts",
+      "ingredient_name": "romaine hearts"
+    },
+    {
+      "id": 396482,
+      "quantity": "½ cup",
+      "ingredient_name": "salsa"
+    },
+    {
+      "id": 396481,
+      "quantity": "12",
+      "ingredient_name": "small corn tortillas"
+    },
+    {
+      "id": 396480,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 396483,
+      "quantity": "45 ml",
+      "ingredient_name": "taco seasoning"
+    },
+    {
+      "id": 396477,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 396478,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 685.05,
+    "alcohol": 0,
+    "ash": 7.13,
+    "caffeine": 0,
+    "water": 346.13,
+    "carbs": 50.44,
+    "fiber": 12.79,
+    "starch": 27.55,
+    "sugars": 4.98,
+    "fructose": 2.92,
+    "galactose": 0,
+    "glucose": 2.3,
+    "lactose": 0,
+    "maltose": 0.24,
+    "sucrose": 0.51,
+    "sugar_alcohol": 0,
+    "fat": 35.99,
+    "monounsaturated": 18.81,
+    "polyunsaturated": 3.59,
+    "omega_3": 0.25,
+    "omega_6": 3.32,
+    "saturated": 11.58,
+    "transfats": 1.36,
+    "cholesterol": 103.76,
+    "protein": 43.62,
+    "alanine": 2.58,
+    "arginine": 2.69,
+    "aspartic_acid": 4.01,
+    "cystine": 0.45,
+    "glutamic_acid": 6.86,
+    "glycine": 1.99,
+    "histidine": 1.47,
+    "isoleucine": 1.86,
+    "leucine": 3.65,
+    "lysine": 3.57,
+    "methionine": 1.07,
+    "phenylalanine": 1.71,
+    "proline": 2.01,
+    "serine": 1.72,
+    "threonine": 1.89,
+    "tryptophan": 0.45,
+    "tyrosine": 1.52,
+    "valine": 2.06,
+    "b1_thiamine": 0.28,
+    "b2_riboflavin": 0.52,
+    "b3_niacin": 14.17,
+    "b5_pantothenic_acid": 1.05,
+    "b6_pyridoxine": 1.55,
+    "b12_cobalamin": 2.77,
+    "choline": 117.49,
+    "folate": 160.33,
+    "vitamin_a": 5219.49,
+    "vitamin_c": 84.34,
+    "vitamin_d": 6.8,
+    "vitamin_e": 3.82,
+    "vitamin_k": 79.43,
+    "calcium": 131.65,
+    "copper": 0.36,
+    "iron": 5.96,
+    "magnesium": 109.28,
+    "manganese": 0.46,
+    "phosphorus": 625.24,
+    "potassium": 1326.73,
+    "selenium": 37.24,
+    "sodium": 1186.25,
+    "zinc": 7.41
+  }
 }

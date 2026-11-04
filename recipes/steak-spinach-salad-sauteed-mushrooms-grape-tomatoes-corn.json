@@ -1,713 +1,245 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 1336,
-        "recipe_id": 162,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
-        "slug": "steak-spinach-salad-sauteed-mushrooms-grape-tomatoes-corn",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 11394,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 11395,
-            "primary_message": "Wash, dry, and quarter mushrooms. Peel and mince garlic.",
-            "secondary_message": "½ lb white mushrooms\r\n2 cloves garlic"
-          },
-          {
-            "id": 11396,
-            "primary_message": "Coat bottom of skillet with oil. Season steak generously with salt and pepper. Place in skillet and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with foil.",
-            "secondary_message": "1 tbsp virgin coconut oil\n1 ½ lb ribeye steak\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 11397,
-            "primary_message": "Return skillet to stove and reduce heat to medium. Add more oil, garlic, and mushrooms. Season with salt and pepper. Stirring occasionally, cook until mushrooms are golden, 3-4 minutes. Remove from heat and set aside to cool.",
-            "secondary_message": "1 tbsp virgin coconut oil\n⅛ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 11398,
-            "primary_message": "In a small bowl, prepare dressing by whisking together oil, vinegar, Dijon, honey, salt, and pepper.",
-            "secondary_message": "6 tbsp extra virgin olive oil\r\n2 tbsp red wine vinegar\r\n2 tsp Dijon mustard\r\n½ tsp honey\r\n¼ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 11399,
-            "primary_message": "Remove husks and silks from corn. Hold vertically in the middle of a large bowl and slice kernels off the cob.",
-            "secondary_message": "2 ears corn"
-          },
-          {
-            "id": 11400,
-            "primary_message": "Wash and dry spinach and tomatoes. Halve the tomatoes. Add both to bowl with corn.",
-            "secondary_message": "1 (5 oz) pkg baby spinach\r\n1 small pkg grape tomatoes"
-          },
-          {
-            "id": 11401,
-            "primary_message": "Add mushrooms and toss salad.",
-            "secondary_message": ""
-          },
-          {
-            "id": 11402,
-            "primary_message": "Slice steak against the grain.",
-            "secondary_message": ""
-          },
-          {
-            "id": 11403,
-            "primary_message": "To serve, arrange salad on a plate, top with steak slices, and drizzle with dressing. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 16347,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 16345,
-            "quantity": "2 ears",
-            "ingredient_name": "corn"
-          },
-          {
-            "id": 16344,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 16343,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 16346,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ribeye steak"
-          },
-          {
-            "id": 16336,
-            "quantity": "½ lb",
-            "ingredient_name": "white mushrooms"
-          },
-          {
-            "id": 16342,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 16340,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 16341,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 16339,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 16338,
-            "quantity": "",
-            "ingredient_name": "red wine vinegar"
-          },
-          {
-            "id": 16337,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 30026,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 758.76,
-          "alcohol": 0,
-          "ash": 4.44,
-          "caffeine": 0,
-          "water": 304.25,
-          "carbs": 17.08,
-          "fiber": 3.43,
-          "starch": 5.15,
-          "sugars": 7.11,
-          "fructose": 2.49,
-          "galactose": 0.06,
-          "glucose": 3.85,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 0.5,
-          "sugar_alcohol": 0,
-          "fat": 62.72,
-          "monounsaturated": 31.59,
-          "polyunsaturated": 4.37,
-          "omega_3": 0.3,
-          "omega_6": 4.07,
-          "saturated": 23.94,
-          "transfats": 2.15,
-          "cholesterol": 115.67,
-          "protein": 36.59,
-          "alanine": 2.28,
-          "arginine": 2.31,
-          "aspartic_acid": 3.46,
-          "cystine": 0.36,
-          "glutamic_acid": 6.07,
-          "glycine": 1.73,
-          "histidine": 1.27,
-          "isoleucine": 1.64,
-          "leucine": 3.03,
-          "lysine": 3.18,
-          "methionine": 0.92,
-          "phenylalanine": 1.45,
-          "proline": 1.65,
-          "serine": 1.47,
-          "threonine": 1.66,
-          "tryptophan": 0.4,
-          "tyrosine": 1.3,
-          "valine": 1.87,
-          "b1_thiamine": 0.37,
-          "b2_riboflavin": 0.76,
-          "b3_niacin": 11.55,
-          "b5_pantothenic_acid": 2.12,
-          "b6_pyridoxine": 0.94,
-          "b12_cobalamin": 3,
-          "choline": 104.44,
-          "folate": 116.37,
-          "vitamin_a": 739.03,
-          "vitamin_c": 25.01,
-          "vitamin_d": 14.17,
-          "vitamin_e": 4.42,
-          "vitamin_k": 192.89,
-          "calcium": 65.44,
-          "copper": 0.42,
-          "iron": 5.06,
-          "magnesium": 94.64,
-          "manganese": 0.74,
-          "phosphorus": 352.72,
-          "potassium": 1079.94,
-          "selenium": 46.49,
-          "sodium": 128.92,
-          "zinc": 8.91
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/steak-spinach-salad-sauteed-mushrooms-grape-tomatoes-corn/1336",
-      "altVariants": [
-        {
-          "id": 4939,
-          "recipe_id": 162,
-          "group_label": "Classic",
-          "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "published_recipe_uuid": "ff9db5eb-f0bf-43fa-bed1-c33cf647ec03",
-          "fallback_published_recipe_uuids": [
-            "c345df95-11f6-4787-8b3d-c287a9ac5c19",
-            "2c7d6d3e-6367-42d7-bac4-115517ca4ae3"
-          ],
-          "first_published_at": 1550527950000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            27,
-            24,
-            277,
-            307,
-            19,
-            72,
-            117,
-            47,
-            103,
-            130,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            1.5,
-            2.25,
-            0.75,
-            4.6875,
-            15,
-            135,
-            3.75,
-            45,
-            4.6875,
-            45
-          ],
-          "average_rating": 0.9,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1336,
-          "recipe_id": 162,
-          "group_label": "Classic",
-          "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "published_recipe_uuid": "894990b6-360b-4d9b-92d8-3d6eef748c14",
-          "fallback_published_recipe_uuids": [
-            "d6af7263-7070-4af3-8daa-1391b29ef3de",
-            "cebdde56-630a-4dcb-aa43-e8776dbdf26b",
-            "29f4cb12-0b5e-436b-bc38-eccd01e6dde7"
-          ],
-          "first_published_at": 1447956275000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            27,
-            24,
-            277,
-            307,
-            19,
-            72,
-            117,
-            47,
-            103,
-            130,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            1,
-            1.5,
-            0.5,
-            3.125,
-            10,
-            90,
-            2.5,
-            30,
-            3.125,
-            30
-          ],
-          "average_rating": 0.9,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1334,
-          "recipe_id": 162,
-          "group_label": "Classic",
-          "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "published_recipe_uuid": "62686c71-1f77-44c6-9eee-693c51877a85",
-          "fallback_published_recipe_uuids": [
-            "9218de17-e75a-469c-bdc1-19beddf809e3",
-            "fc59887e-8472-481e-afeb-a3699e7da77d",
-            "dca6101e-879c-4909-9cbc-c91ac5934483"
-          ],
-          "first_published_at": 1447956275000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            27,
-            24,
-            277,
-            307,
-            19,
-            72,
-            117,
-            47,
-            103,
-            130,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.5,
-            0.75,
-            0.25,
-            1.5625,
-            5,
-            45,
-            1.25,
-            15,
-            1.5625,
-            15
-          ],
-          "average_rating": 0.9,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 926,
-          "recipe_id": 162,
-          "group_label": "Classic",
-          "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "published_recipe_uuid": "de5aeabc-57be-4596-bf19-8d41eb1d0e2f",
-          "fallback_published_recipe_uuids": [
-            "6c4e4d23-4ad1-4d3d-8d81-485c5d2f09cb",
-            "23fc0cbd-705b-4a9e-be98-a82c439a598d",
-            "eb3dd38b-48c5-4530-83af-88ec2cdc19de"
-          ],
-          "first_published_at": 1447956156000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            27,
-            24,
-            277,
-            307,
-            19,
-            72,
-            117,
-            47,
-            103,
-            130,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.5,
-            0.34,
-            0.113,
-            1.5625,
-            5,
-            45,
-            1.25,
-            15,
-            1.5625,
-            15
-          ],
-          "average_rating": 0.9,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1335,
-          "recipe_id": 162,
-          "group_label": "Classic",
-          "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "published_recipe_uuid": "ff72e7e9-2c88-489b-80c1-0c931649ce29",
-          "fallback_published_recipe_uuids": [
-            "161a6d79-a2fa-4a42-871d-a0f0ab909ef0",
-            "6e8b7311-1f82-4da6-bc8f-4821fae3cb9b",
-            "eb24f99f-bbf0-4e64-943b-a24df91ff7fe"
-          ],
-          "first_published_at": 1447956275000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            27,
-            24,
-            277,
-            307,
-            19,
-            72,
-            117,
-            47,
-            103,
-            130,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            1,
-            0.68,
-            0.227,
-            3.125,
-            10,
-            90,
-            2.5,
-            30,
-            3.125,
-            30
-          ],
-          "average_rating": 0.9,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4938,
-          "recipe_id": 162,
-          "group_label": "Classic",
-          "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
-          "published_recipe_uuid": "89ce39da-d7aa-4c73-b6fd-79026c6835ad",
-          "fallback_published_recipe_uuids": [
-            "b3b480e5-7530-4ebd-9968-b76b73a4a91f",
-            "139902bf-44d1-459d-814f-9c4f44cfb05a"
-          ],
-          "first_published_at": 1550527942000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            27,
-            24,
-            277,
-            307,
-            19,
-            72,
-            117,
-            47,
-            103,
-            130,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            1.5,
-            1.02,
-            0.3405,
-            4.6875,
-            15,
-            135,
-            3.75,
-            45,
-            4.6875,
-            45
-          ],
-          "average_rating": 0.9,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            14,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks",
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.5
-      }
+  "id": 1336,
+  "recipe_id": 162,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Steak & Spinach Salad with Sauteed Mushrooms, Grape Tomatoes & Corn",
+  "slug": "steak-spinach-salad-sauteed-mushrooms-grape-tomatoes-corn",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/thumbnail_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/162/presentation_09133b60-929c-49c6-8a1f-281edbeb264e.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "steak-spinach-salad-sauteed-mushrooms-grape-tomatoes-corn",
-    "variantId": "1336"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 11394,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 11395,
+      "primary_message": "Wash, dry, and quarter mushrooms. Peel and mince garlic.",
+      "secondary_message": "½ lb white mushrooms\r\n2 cloves garlic"
+    },
+    {
+      "id": 11396,
+      "primary_message": "Coat bottom of skillet with oil. Season steak generously with salt and pepper. Place in skillet and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with foil.",
+      "secondary_message": "1 tbsp virgin coconut oil\n1 ½ lb ribeye steak\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 11397,
+      "primary_message": "Return skillet to stove and reduce heat to medium. Add more oil, garlic, and mushrooms. Season with salt and pepper. Stirring occasionally, cook until mushrooms are golden, 3-4 minutes. Remove from heat and set aside to cool.",
+      "secondary_message": "1 tbsp virgin coconut oil\n⅛ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 11398,
+      "primary_message": "In a small bowl, prepare dressing by whisking together oil, vinegar, Dijon, honey, salt, and pepper.",
+      "secondary_message": "6 tbsp extra virgin olive oil\r\n2 tbsp red wine vinegar\r\n2 tsp Dijon mustard\r\n½ tsp honey\r\n¼ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 11399,
+      "primary_message": "Remove husks and silks from corn. Hold vertically in the middle of a large bowl and slice kernels off the cob.",
+      "secondary_message": "2 ears corn"
+    },
+    {
+      "id": 11400,
+      "primary_message": "Wash and dry spinach and tomatoes. Halve the tomatoes. Add both to bowl with corn.",
+      "secondary_message": "1 (5 oz) pkg baby spinach\r\n1 small pkg grape tomatoes"
+    },
+    {
+      "id": 11401,
+      "primary_message": "Add mushrooms and toss salad.",
+      "secondary_message": ""
+    },
+    {
+      "id": 11402,
+      "primary_message": "Slice steak against the grain.",
+      "secondary_message": ""
+    },
+    {
+      "id": 11403,
+      "primary_message": "To serve, arrange salad on a plate, top with steak slices, and drizzle with dressing. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 16347,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 16345,
+      "quantity": "2 ears",
+      "ingredient_name": "corn"
+    },
+    {
+      "id": 16344,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 16343,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 16346,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ribeye steak"
+    },
+    {
+      "id": 16336,
+      "quantity": "½ lb",
+      "ingredient_name": "white mushrooms"
+    },
+    {
+      "id": 16342,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 16340,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 16341,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 16339,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 16338,
+      "quantity": "",
+      "ingredient_name": "red wine vinegar"
+    },
+    {
+      "id": 16337,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 30026,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 758.76,
+    "alcohol": 0,
+    "ash": 4.44,
+    "caffeine": 0,
+    "water": 304.25,
+    "carbs": 17.08,
+    "fiber": 3.43,
+    "starch": 5.15,
+    "sugars": 7.11,
+    "fructose": 2.49,
+    "galactose": 0.06,
+    "glucose": 3.85,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 0.5,
+    "sugar_alcohol": 0,
+    "fat": 62.72,
+    "monounsaturated": 31.59,
+    "polyunsaturated": 4.37,
+    "omega_3": 0.3,
+    "omega_6": 4.07,
+    "saturated": 23.94,
+    "transfats": 2.15,
+    "cholesterol": 115.67,
+    "protein": 36.59,
+    "alanine": 2.28,
+    "arginine": 2.31,
+    "aspartic_acid": 3.46,
+    "cystine": 0.36,
+    "glutamic_acid": 6.07,
+    "glycine": 1.73,
+    "histidine": 1.27,
+    "isoleucine": 1.64,
+    "leucine": 3.03,
+    "lysine": 3.18,
+    "methionine": 0.92,
+    "phenylalanine": 1.45,
+    "proline": 1.65,
+    "serine": 1.47,
+    "threonine": 1.66,
+    "tryptophan": 0.4,
+    "tyrosine": 1.3,
+    "valine": 1.87,
+    "b1_thiamine": 0.37,
+    "b2_riboflavin": 0.76,
+    "b3_niacin": 11.55,
+    "b5_pantothenic_acid": 2.12,
+    "b6_pyridoxine": 0.94,
+    "b12_cobalamin": 3,
+    "choline": 104.44,
+    "folate": 116.37,
+    "vitamin_a": 739.03,
+    "vitamin_c": 25.01,
+    "vitamin_d": 14.17,
+    "vitamin_e": 4.42,
+    "vitamin_k": 192.89,
+    "calcium": 65.44,
+    "copper": 0.42,
+    "iron": 5.06,
+    "magnesium": 94.64,
+    "manganese": 0.74,
+    "phosphorus": 352.72,
+    "potassium": 1079.94,
+    "selenium": 46.49,
+    "sodium": 128.92,
+    "zinc": 8.91
+  }
 }

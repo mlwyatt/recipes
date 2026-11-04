@@ -1,1178 +1,295 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3757,
-        "recipe_id": 505,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-        "slug": "vegetarian-shepherd-s-pie-lentils-mushrooms-carrots",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 16,
-            "name": "potato masher",
-            "slug": "potato-masher"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 68,
-            "name": "stainless steel sauté pan",
-            "slug": "stainless-steel-saute-pan"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 41253,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 medium yellow potatoes\n2 medium carrots\n½ lb white mushrooms\n1 small pkg fresh thyme"
-          },
-          {
-            "id": 41254,
-            "primary_message": "Peel and quarter the potatoes; transfer to a small saucepan.",
-            "secondary_message": null
-          },
-          {
-            "id": 41255,
-            "primary_message": "Cover the potatoes with hot water (from the tap); bring to a boil over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 41256,
-            "primary_message": "Peel the carrots, then trim off the ends; discard the peels and trimmings. Small dice the carrots (cut into ¼-inch cubes) and transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 41257,
-            "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces) and add to the carrots.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 41258,
-            "primary_message": "Preheat a sauté pan over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 41259,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the carrots and onion.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 41260,
-            "primary_message": "Once the pan is hot, add butter and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp butter, unsalted"
-          },
-          {
-            "id": 41261,
-            "primary_message": "Add the carrots, onion, and garlic to the pan; season with salt and pepper. Cook, stirring frequently, until the vegetables are slightly softened, 2 to 3 minutes.",
-            "secondary_message": "½ tsp salt\n¼ tsp black pepper "
-          },
-          {
-            "id": 41262,
-            "primary_message": "Once the water in the saucepan is boiling, reduce the heat to medium and cook until the potatoes are tender when pierced with a knife, 15 to 20 minutes. Once done, drain the potatoes and return to the saucepan; cover to keep warm.",
-            "secondary_message": null
-          },
-          {
-            "id": 41263,
-            "primary_message": "Trim off and discard the stem ends of the mushrooms; small dice the mushrooms (cut into ¼-inch cubes).",
-            "secondary_message": ""
-          },
-          {
-            "id": 41264,
-            "primary_message": "Add the mushrooms to the pan; cook, stirring frequently, until slightly softened, 2 to 3 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 41265,
-            "primary_message": "Rinse the lentils in a colander or strainer.",
-            "secondary_message": "1 ½ cups green lentils"
-          },
-          {
-            "id": 41266,
-            "primary_message": "Add the rinsed lentils and broth to the pan; season with salt and pepper. Bring the mixture to a boil, then reduce the heat to a simmer, cover with a lid, and cook until the lentils are just tender, 15 to 20 minutes.",
-            "secondary_message": "24 fl oz (3 cups) chicken or vegetable broth\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 41267,
-            "primary_message": "One by one, holding a sprig of thyme at its top, run your fingers down it to remove the leaves. Discard the sprigs and chop the leaves. Stir about ¾ of the thyme into the lentil mixture and save the rest for garnishing.",
-            "secondary_message": ""
-          },
-          {
-            "id": 41268,
-            "primary_message": "Once the lentils are tender, stir in the green peas.",
-            "secondary_message": "1 cup frozen peas"
-          },
-          {
-            "id": 41269,
-            "primary_message": "Add butter, broth, salt, and pepper to the potatoes; mash with a potato masher until smooth.",
-            "secondary_message": "4 tbsp butter, unsalted\n4 fl oz (½ cup) chicken or vegetable broth\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 41270,
-            "primary_message": "To serve, divide the lentil mixture between plates or bowls, top with the mashed potatoes, and sprinkle with the remaining thyme leaves. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 45977,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 45974,
-            "quantity": "28 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 45973,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh thyme"
-          },
-          {
-            "id": 45976,
-            "quantity": "1 cup",
-            "ingredient_name": "frozen peas"
-          },
-          {
-            "id": 45979,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 45971,
-            "quantity": "1 ½ cups",
-            "ingredient_name": "green lentils, dried"
-          },
-          {
-            "id": 45975,
-            "quantity": "½ lb",
-            "ingredient_name": "white mushrooms"
-          },
-          {
-            "id": 45980,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 45978,
-            "quantity": "4 medium",
-            "ingredient_name": "yellow potatoes"
-          },
-          {
-            "id": 45969,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 45972,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 45970,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 634.95,
-          "alcohol": 0,
-          "ash": 8.84,
-          "caffeine": 0,
-          "water": 528.21,
-          "carbs": 96.18,
-          "fiber": 17.37,
-          "starch": 68.32,
-          "sugars": 9.68,
-          "fructose": 1.65,
-          "galactose": 0,
-          "glucose": 2.94,
-          "lactose": 0.11,
-          "maltose": 0.24,
-          "sucrose": 4.59,
-          "sugar_alcohol": 0,
-          "fat": 17.24,
-          "monounsaturated": 4.5,
-          "polyunsaturated": 1.52,
-          "omega_3": 0.23,
-          "omega_6": 1.29,
-          "saturated": 9.78,
-          "transfats": 0.62,
-          "cholesterol": 38.13,
-          "protein": 30.45,
-          "alanine": 1.33,
-          "arginine": 2.06,
-          "aspartic_acid": 3.57,
-          "cystine": 0.39,
-          "glutamic_acid": 4.68,
-          "glycine": 1.18,
-          "histidine": 0.78,
-          "isoleucine": 1.29,
-          "leucine": 2.04,
-          "lysine": 2.02,
-          "methionine": 0.38,
-          "phenylalanine": 1.34,
-          "proline": 1.19,
-          "serine": 1.25,
-          "threonine": 1.16,
-          "tryptophan": 0.29,
-          "tyrosine": 0.8,
-          "valine": 1.55,
-          "b1_thiamine": 0.95,
-          "b2_riboflavin": 0.62,
-          "b3_niacin": 10.24,
-          "b5_pantothenic_acid": 3.64,
-          "b6_pyridoxine": 1.05,
-          "b12_cobalamin": 0.27,
-          "choline": 134.11,
-          "folate": 425.46,
-          "vitamin_a": 55.13,
-          "vitamin_c": 45.35,
-          "vitamin_d": 14.61,
-          "vitamin_e": 1.04,
-          "vitamin_k": 22.7,
-          "calcium": 117.14,
-          "copper": 1.2,
-          "iron": 8.51,
-          "magnesium": 113.91,
-          "manganese": 1.88,
-          "phosphorus": 509.5,
-          "potassium": 1964.18,
-          "selenium": 7.33,
-          "sodium": 169.03,
-          "zinc": 4.05
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/vegetarian-shepherds-pie-lentils-mushrooms-carrots/3757",
-      "altVariants": [
-        {
-          "id": 6100,
-          "recipe_id": 505,
-          "group_label": "Vegan",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "797ea10e-b27c-4193-abfb-8b4860edf034",
-          "fallback_published_recipe_uuids": [
-            "a24eb3a5-298e-4c50-96ca-70b43b46cad6",
-            "ac7130cb-0a20-4e31-9210-9efb3ddcf1c4",
-            "b2c0128a-09d2-4fa6-96e8-a50c33113a44"
-          ],
-          "first_published_at": 1550530841000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            42,
-            1.5,
-            1.5,
-            3,
-            2.25,
-            0.75,
-            1.5,
-            6,
-            7.39338,
-            14.78676,
-            110.9007
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6098,
-          "recipe_id": 505,
-          "group_label": "Classic",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "360ca0fa-3442-4f18-a44c-e319c5c04498",
-          "fallback_published_recipe_uuids": [
-            "1c16152c-b735-4237-93d1-2401b8bad413",
-            "25f3272e-4595-476d-8001-13980bfcaaa2",
-            "444a42b5-dd93-4c50-8377-551842b2a75d"
-          ],
-          "first_published_at": 1550530707000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            42,
-            1.5,
-            1.5,
-            3,
-            2.25,
-            0.75,
-            1.5,
-            6,
-            7.39338,
-            110.9007,
-            14.78676
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3757,
-          "recipe_id": 505,
-          "group_label": "Classic",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "2dfdb2e1-ecda-4804-86e9-0b48ff24466f",
-          "fallback_published_recipe_uuids": [
-            "119d1f78-6c57-4f35-9cd7-bd4a409f717e",
-            "3d65a88d-67ce-4266-ad1d-6d0af9e7031d",
-            "cf71a949-b0a0-4e4b-85dc-da700d55c7b4"
-          ],
-          "first_published_at": 1490122883000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            28,
-            1,
-            1,
-            2,
-            1.5,
-            0.5,
-            1,
-            4,
-            4.92892,
-            73.9338,
-            9.85784
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3761,
-          "recipe_id": 505,
-          "group_label": "Vegan",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "9ac5c82b-ac66-4c36-b4f0-9e8717a477fd",
-          "fallback_published_recipe_uuids": [
-            "2d1a3eaf-6674-4efe-9b61-536abf1d9118",
-            "c77a3aba-d951-42c1-8b67-08ace9e7dc69",
-            "fc38f8d2-b0c5-49b3-bcd0-d178b04228b9"
-          ],
-          "first_published_at": 1490123364000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            28,
-            1,
-            1,
-            2,
-            1.5,
-            0.5,
-            1,
-            4,
-            4.92892,
-            9.85784,
-            73.9338
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3760,
-          "recipe_id": 505,
-          "group_label": "Vegan",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "dbc60b50-b8e4-4ad9-bf87-d19c8f03f2f9",
-          "fallback_published_recipe_uuids": [
-            "076f3c6c-9ef2-4dd2-bb49-bb186c201f1c",
-            "d0666296-4550-4024-89b2-dcf5595a236e",
-            "c262485d-bf15-490a-a99d-eeff89971122"
-          ],
-          "first_published_at": 1490123308000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            14,
-            0.5,
-            0.5,
-            1,
-            0.75,
-            0.25,
-            0.5,
-            2,
-            2.46446,
-            4.92892,
-            36.9669
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3740,
-          "recipe_id": 505,
-          "group_label": "Classic",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "ea88052f-9102-4572-a85c-bf39f1f68443",
-          "fallback_published_recipe_uuids": [
-            "064866e4-7384-44cf-95fa-7b70165e00a5",
-            "06216851-0ea6-40ae-8d01-3a4c0773a5ee",
-            "6bc37dc4-b68d-4957-b56f-12ecc53bce72"
-          ],
-          "first_published_at": 1490122120000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            14,
-            0.5,
-            0.5,
-            1,
-            0.75,
-            0.25,
-            0.5,
-            2,
-            2.46446,
-            36.9669,
-            4.92892
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6101,
-          "recipe_id": 505,
-          "group_label": "Vegan",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "f58b0294-9aa8-45f1-b6a8-d3ae989a60d4",
-          "fallback_published_recipe_uuids": [
-            "5a879457-ca2c-4929-962a-1b3300291d0f",
-            "7d985173-4388-480b-ad87-12b1867f095b",
-            "c48c899f-7343-4e87-aff0-6c0cffda0f7e"
-          ],
-          "first_published_at": 1550530904000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1230,
-            1.5,
-            1.5,
-            3,
-            2.25,
-            0.3405,
-            1.5,
-            6,
-            7.39338,
-            14.78676,
-            110.9007
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6099,
-          "recipe_id": 505,
-          "group_label": "Classic",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "3336ab3d-6993-4819-8ce0-431d4f01c94f",
-          "fallback_published_recipe_uuids": [
-            "0576e384-ed22-4c66-8c65-f1b8a57e9721",
-            "7af832b9-e00b-4679-a99c-a5c0b087c4f5",
-            "76b7364d-001c-43e3-afb1-823727af83ae"
-          ],
-          "first_published_at": 1550530748000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1230,
-            1.5,
-            1.5,
-            3,
-            2.25,
-            0.3405,
-            1.5,
-            6,
-            7.39338,
-            110.9007,
-            14.78676
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3762,
-          "recipe_id": 505,
-          "group_label": "Vegan",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "7a2065c0-2f33-4b8e-8b08-fd0f4834d76d",
-          "fallback_published_recipe_uuids": [
-            "be786964-0f38-4351-a483-00e68598a652",
-            "d105407f-cd8b-49ce-a33c-d3e5b6e333ee",
-            "fa2b0644-7b3c-43e2-9670-9f0f72e3e6b5"
-          ],
-          "first_published_at": 1490123424000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            828,
-            0.5,
-            0.5,
-            1,
-            0.75,
-            0.113,
-            0.5,
-            2,
-            2.46446,
-            4.92892,
-            36.9669
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3763,
-          "recipe_id": 505,
-          "group_label": "Vegan",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "e1c832be-fc01-42bc-a518-a5aed5358507",
-          "fallback_published_recipe_uuids": [
-            "5d2fe799-3136-4a11-986b-d004e9f319b0",
-            "e12a123a-1ed3-4b84-8922-647a21164ccc",
-            "c4b21bbc-aa3d-44a6-a645-e3e2c0d2a5ac"
-          ],
-          "first_published_at": 1490124133000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            820,
-            1,
-            1,
-            2,
-            1.5,
-            0.227,
-            1,
-            4,
-            4.92892,
-            9.85784,
-            73.9338
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3759,
-          "recipe_id": 505,
-          "group_label": "Classic",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "d6d4befc-0acf-49d9-92f3-37ae5fa02a84",
-          "fallback_published_recipe_uuids": [
-            "c5a16861-e4f9-4f6a-a263-d5dbd17a7a4d",
-            "8854d09f-af10-4d0f-bcd0-98f3d3ef771f",
-            "3e378681-0c78-4160-808f-3eaa6663bb37"
-          ],
-          "first_published_at": 1490123227000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            820,
-            1,
-            1,
-            2,
-            1.5,
-            0.227,
-            1,
-            4,
-            4.92892,
-            73.9338,
-            9.85784
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3758,
-          "recipe_id": 505,
-          "group_label": "Classic",
-          "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
-          "published_recipe_uuid": "96672a62-fc31-40b4-84b1-b0791c550064",
-          "fallback_published_recipe_uuids": [
-            "bcdd461b-869a-4d94-986c-a56b43eecc3f",
-            "814f51cf-39a7-49df-82a7-e9988f0bda11",
-            "26e31dbd-925b-4e49-95e0-f565d3c16a11"
-          ],
-          "first_published_at": 1490123104000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            201,
-            287,
-            275,
-            24,
-            305,
-            19,
-            152,
-            148,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            410,
-            0.5,
-            0.5,
-            1,
-            0.75,
-            0.113,
-            0.5,
-            2,
-            2.46446,
-            36.9669,
-            4.92892
-          ],
-          "average_rating": 0.73,
-          "rating_count": 25,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            19
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "British",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3757,
+  "recipe_id": 505,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Vegetarian Shepherd's Pie with Lentils, Mushrooms & Carrots",
+  "slug": "vegetarian-shepherd-s-pie-lentils-mushrooms-carrots",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/thumbnail_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/505/presentation_0a9274ff-e215-48d5-9526-5ff87d04d310.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "vegetarian-shepherds-pie-lentils-mushrooms-carrots",
-    "variantId": "3757"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 16,
+      "name": "potato masher",
+      "slug": "potato-masher"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 68,
+      "name": "stainless steel sauté pan",
+      "slug": "stainless-steel-saute-pan"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 41253,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 medium yellow potatoes\n2 medium carrots\n½ lb white mushrooms\n1 small pkg fresh thyme"
+    },
+    {
+      "id": 41254,
+      "primary_message": "Peel and quarter the potatoes; transfer to a small saucepan.",
+      "secondary_message": null
+    },
+    {
+      "id": 41255,
+      "primary_message": "Cover the potatoes with hot water (from the tap); bring to a boil over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 41256,
+      "primary_message": "Peel the carrots, then trim off the ends; discard the peels and trimmings. Small dice the carrots (cut into ¼-inch cubes) and transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 41257,
+      "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces) and add to the carrots.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 41258,
+      "primary_message": "Preheat a sauté pan over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 41259,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the carrots and onion.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 41260,
+      "primary_message": "Once the pan is hot, add butter and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp butter, unsalted"
+    },
+    {
+      "id": 41261,
+      "primary_message": "Add the carrots, onion, and garlic to the pan; season with salt and pepper. Cook, stirring frequently, until the vegetables are slightly softened, 2 to 3 minutes.",
+      "secondary_message": "½ tsp salt\n¼ tsp black pepper "
+    },
+    {
+      "id": 41262,
+      "primary_message": "Once the water in the saucepan is boiling, reduce the heat to medium and cook until the potatoes are tender when pierced with a knife, 15 to 20 minutes. Once done, drain the potatoes and return to the saucepan; cover to keep warm.",
+      "secondary_message": null
+    },
+    {
+      "id": 41263,
+      "primary_message": "Trim off and discard the stem ends of the mushrooms; small dice the mushrooms (cut into ¼-inch cubes).",
+      "secondary_message": ""
+    },
+    {
+      "id": 41264,
+      "primary_message": "Add the mushrooms to the pan; cook, stirring frequently, until slightly softened, 2 to 3 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 41265,
+      "primary_message": "Rinse the lentils in a colander or strainer.",
+      "secondary_message": "1 ½ cups green lentils"
+    },
+    {
+      "id": 41266,
+      "primary_message": "Add the rinsed lentils and broth to the pan; season with salt and pepper. Bring the mixture to a boil, then reduce the heat to a simmer, cover with a lid, and cook until the lentils are just tender, 15 to 20 minutes.",
+      "secondary_message": "24 fl oz (3 cups) chicken or vegetable broth\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 41267,
+      "primary_message": "One by one, holding a sprig of thyme at its top, run your fingers down it to remove the leaves. Discard the sprigs and chop the leaves. Stir about ¾ of the thyme into the lentil mixture and save the rest for garnishing.",
+      "secondary_message": ""
+    },
+    {
+      "id": 41268,
+      "primary_message": "Once the lentils are tender, stir in the green peas.",
+      "secondary_message": "1 cup frozen peas"
+    },
+    {
+      "id": 41269,
+      "primary_message": "Add butter, broth, salt, and pepper to the potatoes; mash with a potato masher until smooth.",
+      "secondary_message": "4 tbsp butter, unsalted\n4 fl oz (½ cup) chicken or vegetable broth\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 41270,
+      "primary_message": "To serve, divide the lentil mixture between plates or bowls, top with the mashed potatoes, and sprinkle with the remaining thyme leaves. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 45977,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 45974,
+      "quantity": "28 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 45973,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh thyme"
+    },
+    {
+      "id": 45976,
+      "quantity": "1 cup",
+      "ingredient_name": "frozen peas"
+    },
+    {
+      "id": 45979,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 45971,
+      "quantity": "1 ½ cups",
+      "ingredient_name": "green lentils, dried"
+    },
+    {
+      "id": 45975,
+      "quantity": "½ lb",
+      "ingredient_name": "white mushrooms"
+    },
+    {
+      "id": 45980,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 45978,
+      "quantity": "4 medium",
+      "ingredient_name": "yellow potatoes"
+    },
+    {
+      "id": 45969,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 45972,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 45970,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 634.95,
+    "alcohol": 0,
+    "ash": 8.84,
+    "caffeine": 0,
+    "water": 528.21,
+    "carbs": 96.18,
+    "fiber": 17.37,
+    "starch": 68.32,
+    "sugars": 9.68,
+    "fructose": 1.65,
+    "galactose": 0,
+    "glucose": 2.94,
+    "lactose": 0.11,
+    "maltose": 0.24,
+    "sucrose": 4.59,
+    "sugar_alcohol": 0,
+    "fat": 17.24,
+    "monounsaturated": 4.5,
+    "polyunsaturated": 1.52,
+    "omega_3": 0.23,
+    "omega_6": 1.29,
+    "saturated": 9.78,
+    "transfats": 0.62,
+    "cholesterol": 38.13,
+    "protein": 30.45,
+    "alanine": 1.33,
+    "arginine": 2.06,
+    "aspartic_acid": 3.57,
+    "cystine": 0.39,
+    "glutamic_acid": 4.68,
+    "glycine": 1.18,
+    "histidine": 0.78,
+    "isoleucine": 1.29,
+    "leucine": 2.04,
+    "lysine": 2.02,
+    "methionine": 0.38,
+    "phenylalanine": 1.34,
+    "proline": 1.19,
+    "serine": 1.25,
+    "threonine": 1.16,
+    "tryptophan": 0.29,
+    "tyrosine": 0.8,
+    "valine": 1.55,
+    "b1_thiamine": 0.95,
+    "b2_riboflavin": 0.62,
+    "b3_niacin": 10.24,
+    "b5_pantothenic_acid": 3.64,
+    "b6_pyridoxine": 1.05,
+    "b12_cobalamin": 0.27,
+    "choline": 134.11,
+    "folate": 425.46,
+    "vitamin_a": 55.13,
+    "vitamin_c": 45.35,
+    "vitamin_d": 14.61,
+    "vitamin_e": 1.04,
+    "vitamin_k": 22.7,
+    "calcium": 117.14,
+    "copper": 1.2,
+    "iron": 8.51,
+    "magnesium": 113.91,
+    "manganese": 1.88,
+    "phosphorus": 509.5,
+    "potassium": 1964.18,
+    "selenium": 7.33,
+    "sodium": 169.03,
+    "zinc": 4.05
+  }
 }

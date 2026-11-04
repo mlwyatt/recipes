@@ -1,684 +1,235 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2678,
-        "recipe_id": 308,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Margherita Portobello Mushroom Pizzas with Bacon",
-        "slug": "margherita-portobello-mushroom-pizzas-bacon",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 25920,
-            "primary_message": "Preheat the oven to 400°F. Line a baking sheet with aluminum foil.",
-            "secondary_message": ""
-          },
-          {
-            "id": 25921,
-            "primary_message": "Wash and dry the mushroom caps, then remove and discard the stems. Peel and mince the garlic.",
-            "secondary_message": "8 caps portobello mushrooms\r\n4 cloves garlic"
-          },
-          {
-            "id": 25922,
-            "primary_message": "Place the mushrooms on the baking sheet. Rub with olive oil and season with the minced garlic, salt, and pepper.",
-            "secondary_message": "4 tbsp extra virgin olive oil\r\n½ tsp salt\r\n½ tsp black pepper"
-          },
-          {
-            "id": 25923,
-            "primary_message": "Place the mushrooms in the oven and bake for 5 minutes while you prepare the toppings.",
-            "secondary_message": ""
-          },
-          {
-            "id": 25924,
-            "primary_message": "Wash the tomatoes and basil. Slice the tomatoes horizontally into rounds. Pick the basil leaves off the stems; discard the stems and slice the leaves crosswise into ribbons.",
-            "secondary_message": "2 tomatoes\r\n1 small bunch fresh basil"
-          },
-          {
-            "id": 25925,
-            "primary_message": "Grate the fresh mozzarella.",
-            "secondary_message": "1 (8 oz) ball fresh mozzarella cheese\r\n"
-          },
-          {
-            "id": 25926,
-            "primary_message": "Chop or cut the bacon into smaller pieces.",
-            "secondary_message": "8 slices bacon\r\n"
-          },
-          {
-            "id": 25927,
-            "primary_message": "Remove mushrooms from the oven and drain any excess liquid. Sprinkle a little of the mozzarella into each cap, then top with bacon, tomato rounds, and ½ of the basil. Finish off with the remaining mozzarella.",
-            "secondary_message": ""
-          },
-          {
-            "id": 25928,
-            "primary_message": "Place in the oven and cook until the mushrooms are tender and the cheese is melted, 15-20 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 25929,
-            "primary_message": "Wash the cucumber and grape tomatoes. Quarter the cucumber lengthwise, then chop crosswise. Halve the tomatoes.",
-            "secondary_message": "1 English cucumber\r\n1 pint grape tomatoes"
-          },
-          {
-            "id": 25930,
-            "primary_message": "To serve, place the mushroom pizzas on a plate and sprinkle with the remaining basil. Serve with grape tomatoes and cucumber on the side and enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 33025,
-            "quantity": "8 slices",
-            "ingredient_name": "bacon"
-          },
-          {
-            "id": 33024,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 33023,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 33022,
-            "quantity": "1 (8 oz) pkg",
-            "ingredient_name": "fresh mozzarella cheese"
-          },
-          {
-            "id": 33021,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 33020,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 33019,
-            "quantity": "8 caps",
-            "ingredient_name": "portobello mushrooms"
-          },
-          {
-            "id": 33018,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 33017,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 33016,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 33015,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 603.7,
-          "alcohol": 0,
-          "ash": 6.38,
-          "caffeine": 0,
-          "water": 414,
-          "carbs": 17.7,
-          "fiber": 4.88,
-          "starch": 2.39,
-          "sugars": 10.29,
-          "fructose": 3.39,
-          "galactose": 0.1,
-          "glucose": 5.93,
-          "lactose": 0.04,
-          "maltose": 0.05,
-          "sucrose": 0.77,
-          "sugar_alcohol": 0,
-          "fat": 49.61,
-          "monounsaturated": 23.57,
-          "polyunsaturated": 5.86,
-          "omega_3": 0.51,
-          "omega_6": 5.34,
-          "saturated": 16.98,
-          "transfats": 0.41,
-          "cholesterol": 81.79,
-          "protein": 25.29,
-          "alanine": 1.16,
-          "arginine": 0.97,
-          "aspartic_acid": 2.21,
-          "cystine": 0.18,
-          "glutamic_acid": 4.91,
-          "glycine": 0.83,
-          "histidine": 0.71,
-          "isoleucine": 1.17,
-          "leucine": 1.92,
-          "lysine": 1.46,
-          "methionine": 0.55,
-          "phenylalanine": 1.06,
-          "proline": 1.79,
-          "serine": 0.93,
-          "threonine": 1.1,
-          "tryptophan": 0.45,
-          "tyrosine": 0.93,
-          "valine": 1.29,
-          "b1_thiamine": 0.35,
-          "b2_riboflavin": 0.48,
-          "b3_niacin": 10.81,
-          "b5_pantothenic_acid": 2.66,
-          "b6_pyridoxine": 0.6,
-          "b12_cobalamin": 1.66,
-          "choline": 86.07,
-          "folate": 81.02,
-          "vitamin_a": 1587.22,
-          "vitamin_c": 22.42,
-          "vitamin_d": 34.84,
-          "vitamin_e": 3.15,
-          "vitamin_k": 61.9,
-          "calcium": 339.13,
-          "copper": 0.66,
-          "iron": 1.95,
-          "magnesium": 66.62,
-          "manganese": 0.52,
-          "phosphorus": 521.75,
-          "potassium": 1222.46,
-          "selenium": 52.84,
-          "sodium": 751.2,
-          "zinc": 3.68
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/margherita-portobello-mushroom-pizzas-bacon/2678",
-      "altVariants": [
-        {
-          "id": 5598,
-          "recipe_id": 308,
-          "group_label": "Classic",
-          "name": "Margherita Portobello Mushroom Pizzas with Bacon",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "published_recipe_uuid": "6abc08a9-5600-46e7-a14c-ec5d161cf18c",
-          "fallback_published_recipe_uuids": [
-            "8792d21a-3854-44bb-b631-ce34f1b48ed9",
-            "c8b0a83d-b177-4a4d-ac5e-5f36e48f94b9"
-          ],
-          "first_published_at": 1550528721000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            155,
-            28,
-            107,
-            24,
-            277,
-            231,
-            260,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            12,
-            1.5,
-            1.5,
-            1.5,
-            6,
-            1.5,
-            12,
-            3,
-            3.75,
-            90,
-            3.75
-          ],
-          "average_rating": 0.679,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2678,
-          "recipe_id": 308,
-          "group_label": "Classic",
-          "name": "Margherita Portobello Mushroom Pizzas with Bacon",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "published_recipe_uuid": "02b92190-073d-4bca-979b-f7b683c92634",
-          "fallback_published_recipe_uuids": [
-            "672cbe97-62ff-4c12-aab4-9ea86a77d6fe",
-            "4461f12e-a850-48bd-a674-36c855778d83",
-            "e1960bc2-6fc8-4393-85c7-720447f4a175"
-          ],
-          "first_published_at": 1447956458000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            155,
-            28,
-            107,
-            24,
-            277,
-            231,
-            260,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            8,
-            1,
-            1,
-            1,
-            4,
-            1,
-            8,
-            2,
-            2.5,
-            60,
-            2.5
-          ],
-          "average_rating": 0.679,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2676,
-          "recipe_id": 308,
-          "group_label": "Classic",
-          "name": "Margherita Portobello Mushroom Pizzas with Bacon",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "published_recipe_uuid": "ba0bea0a-119e-47b9-af8a-16c6b73d36b8",
-          "fallback_published_recipe_uuids": [
-            "3c0bf24a-2d85-4a9d-a014-a0e966d9c5e3",
-            "181bf44a-bf84-46ee-b158-f676c7893510",
-            "b94178cb-40fa-48ed-867c-606eada3d0e8"
-          ],
-          "first_published_at": 1447956457000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            155,
-            28,
-            107,
-            24,
-            277,
-            231,
-            260,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            4,
-            1,
-            1.25,
-            30,
-            1.25
-          ],
-          "average_rating": 0.679,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2679,
-          "recipe_id": 308,
-          "group_label": "Classic",
-          "name": "Margherita Portobello Mushroom Pizzas with Bacon",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "published_recipe_uuid": "4cafcee2-9318-48c3-8a52-0bcd44404e08",
-          "fallback_published_recipe_uuids": [
-            "61a78975-36b7-4425-8541-fef274bb8d74",
-            "4c99f552-1901-4e99-a8ad-9d365b53b608",
-            "47a88f7e-e9a4-43f4-97e1-f2dde0d3a671"
-          ],
-          "first_published_at": 1447956458000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            155,
-            28,
-            107,
-            24,
-            277,
-            231,
-            260,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            8,
-            1,
-            1,
-            1,
-            4,
-            1,
-            8,
-            2,
-            2.5,
-            60,
-            2.5
-          ],
-          "average_rating": 0.679,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2677,
-          "recipe_id": 308,
-          "group_label": "Classic",
-          "name": "Margherita Portobello Mushroom Pizzas with Bacon",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "published_recipe_uuid": "af0f0ed7-da03-4256-b411-c76ffa3baca8",
-          "fallback_published_recipe_uuids": [
-            "179c12ba-e6e5-41b6-9c79-147dcb83e5a8",
-            "fbf9c9f3-ef8e-4c20-b32f-37fc1efc74b2",
-            "fb559289-86a4-45aa-9013-745435f611c2"
-          ],
-          "first_published_at": 1447956458000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            155,
-            28,
-            107,
-            24,
-            277,
-            231,
-            260,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            4,
-            1,
-            1.25,
-            30,
-            1.25
-          ],
-          "average_rating": 0.679,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5599,
-          "recipe_id": 308,
-          "group_label": "Classic",
-          "name": "Margherita Portobello Mushroom Pizzas with Bacon",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
-          "published_recipe_uuid": "f3a5558c-fe38-4718-ab14-0f3007100f58",
-          "fallback_published_recipe_uuids": [
-            "5824882d-cbb0-4a18-a515-599999419958",
-            "06604f1f-3118-4816-bbdc-295259671a40"
-          ],
-          "first_published_at": 1550528773000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            155,
-            28,
-            107,
-            24,
-            277,
-            231,
-            260,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            12,
-            1.5,
-            1.5,
-            1.5,
-            6,
-            1.5,
-            12,
-            3,
-            3.75,
-            90,
-            3.75
-          ],
-          "average_rating": 0.679,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Stuffed Vegetables"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2678,
+  "recipe_id": 308,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Margherita Portobello Mushroom Pizzas with Bacon",
+  "slug": "margherita-portobello-mushroom-pizzas-bacon",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/thumbnail_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/308/presentation_2ff2c026-e026-4326-b317-c25b3c682bad.jpg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "margherita-portobello-mushroom-pizzas-bacon",
-    "variantId": "2678"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 25920,
+      "primary_message": "Preheat the oven to 400°F. Line a baking sheet with aluminum foil.",
+      "secondary_message": ""
+    },
+    {
+      "id": 25921,
+      "primary_message": "Wash and dry the mushroom caps, then remove and discard the stems. Peel and mince the garlic.",
+      "secondary_message": "8 caps portobello mushrooms\r\n4 cloves garlic"
+    },
+    {
+      "id": 25922,
+      "primary_message": "Place the mushrooms on the baking sheet. Rub with olive oil and season with the minced garlic, salt, and pepper.",
+      "secondary_message": "4 tbsp extra virgin olive oil\r\n½ tsp salt\r\n½ tsp black pepper"
+    },
+    {
+      "id": 25923,
+      "primary_message": "Place the mushrooms in the oven and bake for 5 minutes while you prepare the toppings.",
+      "secondary_message": ""
+    },
+    {
+      "id": 25924,
+      "primary_message": "Wash the tomatoes and basil. Slice the tomatoes horizontally into rounds. Pick the basil leaves off the stems; discard the stems and slice the leaves crosswise into ribbons.",
+      "secondary_message": "2 tomatoes\r\n1 small bunch fresh basil"
+    },
+    {
+      "id": 25925,
+      "primary_message": "Grate the fresh mozzarella.",
+      "secondary_message": "1 (8 oz) ball fresh mozzarella cheese\r\n"
+    },
+    {
+      "id": 25926,
+      "primary_message": "Chop or cut the bacon into smaller pieces.",
+      "secondary_message": "8 slices bacon\r\n"
+    },
+    {
+      "id": 25927,
+      "primary_message": "Remove mushrooms from the oven and drain any excess liquid. Sprinkle a little of the mozzarella into each cap, then top with bacon, tomato rounds, and ½ of the basil. Finish off with the remaining mozzarella.",
+      "secondary_message": ""
+    },
+    {
+      "id": 25928,
+      "primary_message": "Place in the oven and cook until the mushrooms are tender and the cheese is melted, 15-20 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 25929,
+      "primary_message": "Wash the cucumber and grape tomatoes. Quarter the cucumber lengthwise, then chop crosswise. Halve the tomatoes.",
+      "secondary_message": "1 English cucumber\r\n1 pint grape tomatoes"
+    },
+    {
+      "id": 25930,
+      "primary_message": "To serve, place the mushroom pizzas on a plate and sprinkle with the remaining basil. Serve with grape tomatoes and cucumber on the side and enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 33025,
+      "quantity": "8 slices",
+      "ingredient_name": "bacon"
+    },
+    {
+      "id": 33024,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 33023,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 33022,
+      "quantity": "1 (8 oz) pkg",
+      "ingredient_name": "fresh mozzarella cheese"
+    },
+    {
+      "id": 33021,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 33020,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 33019,
+      "quantity": "8 caps",
+      "ingredient_name": "portobello mushrooms"
+    },
+    {
+      "id": 33018,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 33017,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 33016,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 33015,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 603.7,
+    "alcohol": 0,
+    "ash": 6.38,
+    "caffeine": 0,
+    "water": 414,
+    "carbs": 17.7,
+    "fiber": 4.88,
+    "starch": 2.39,
+    "sugars": 10.29,
+    "fructose": 3.39,
+    "galactose": 0.1,
+    "glucose": 5.93,
+    "lactose": 0.04,
+    "maltose": 0.05,
+    "sucrose": 0.77,
+    "sugar_alcohol": 0,
+    "fat": 49.61,
+    "monounsaturated": 23.57,
+    "polyunsaturated": 5.86,
+    "omega_3": 0.51,
+    "omega_6": 5.34,
+    "saturated": 16.98,
+    "transfats": 0.41,
+    "cholesterol": 81.79,
+    "protein": 25.29,
+    "alanine": 1.16,
+    "arginine": 0.97,
+    "aspartic_acid": 2.21,
+    "cystine": 0.18,
+    "glutamic_acid": 4.91,
+    "glycine": 0.83,
+    "histidine": 0.71,
+    "isoleucine": 1.17,
+    "leucine": 1.92,
+    "lysine": 1.46,
+    "methionine": 0.55,
+    "phenylalanine": 1.06,
+    "proline": 1.79,
+    "serine": 0.93,
+    "threonine": 1.1,
+    "tryptophan": 0.45,
+    "tyrosine": 0.93,
+    "valine": 1.29,
+    "b1_thiamine": 0.35,
+    "b2_riboflavin": 0.48,
+    "b3_niacin": 10.81,
+    "b5_pantothenic_acid": 2.66,
+    "b6_pyridoxine": 0.6,
+    "b12_cobalamin": 1.66,
+    "choline": 86.07,
+    "folate": 81.02,
+    "vitamin_a": 1587.22,
+    "vitamin_c": 22.42,
+    "vitamin_d": 34.84,
+    "vitamin_e": 3.15,
+    "vitamin_k": 61.9,
+    "calcium": 339.13,
+    "copper": 0.66,
+    "iron": 1.95,
+    "magnesium": 66.62,
+    "manganese": 0.52,
+    "phosphorus": 521.75,
+    "potassium": 1222.46,
+    "selenium": 52.84,
+    "sodium": 751.2,
+    "zinc": 3.68
+  }
 }

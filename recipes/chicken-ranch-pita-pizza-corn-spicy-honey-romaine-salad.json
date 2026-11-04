@@ -1,706 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 20109,
-        "recipe_id": 2305,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
-        "slug": "chicken-ranch-pita-pizza-corn-spicy-honey-romaine-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 422077,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 422078,
-            "primary_message": "Place chicken on a cutting board and, using your hands, remove meat from the skin and bones. Separate the meat into shred-like pieces, place in a medium bowl, and set aside.",
-            "secondary_message": "1 (30 oz) whole chicken rotisserie chicken, white and dark meat"
-          },
-          {
-            "id": 422079,
-            "primary_message": "Place corn in a colander and run under hot water (from the tap) to defrost.",
-            "secondary_message": "1 cup frozen corn"
-          },
-          {
-            "id": 422080,
-            "primary_message": "Place pitas on a large baking sheet pan; spread evenly with dressing, then sprinkle with cheese.",
-            "secondary_message": "4 whole grain pitas\n¼ cup ranch dressing\n½ cup shredded cheese, Italian blend"
-          },
-          {
-            "id": 422081,
-            "primary_message": "Top pitas with chicken, corn, and more cheese.",
-            "secondary_message": "½ cup shredded cheese, Italian blend"
-          },
-          {
-            "id": 422082,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and bake until pita pizzas are golden and cheese is melted 6-8 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 422083,
-            "primary_message": "Meanwhile, place honey and hot sauce in a clean small bowl; stir to combine and set aside.",
-            "secondary_message": "4 tsp honey\n4 tsp hot sauce"
-          },
-          {
-            "id": 422084,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 green bell pepper\n2 hearts romaine hearts\n1 small bunch cilantro"
-          },
-          {
-            "id": 422085,
-            "primary_message": "Trim, seed, and slice bell pepper lengthwise into thin strips; place in a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 422086,
-            "primary_message": "Chop or tear romaine into bite-sized pieces; add to the bowl with the bell pepper.",
-            "secondary_message": null
-          },
-          {
-            "id": 422087,
-            "primary_message": "Shave cilantro leaves off the stems; discard stems and mince the leaves. Add to the bowl along with additional dressing and salt; toss to combine the salad.",
-            "secondary_message": "¼ cup ranch dressing\n⅛ tsp salt"
-          },
-          {
-            "id": 422088,
-            "primary_message": "When the pizzas are done, remove from oven and drizzle with spicy honey; cut into wedges.",
-            "secondary_message": null
-          },
-          {
-            "id": 422089,
-            "primary_message": "To serve, divide pizzas and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 452131,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 452134,
-            "quantity": "1 cup",
-            "ingredient_name": "frozen corn"
-          },
-          {
-            "id": 452132,
-            "quantity": "1",
-            "ingredient_name": "green bell pepper"
-          },
-          {
-            "id": 452136,
-            "quantity": "½ cup",
-            "ingredient_name": "ranch dressing"
-          },
-          {
-            "id": 452138,
-            "quantity": "2 hearts",
-            "ingredient_name": "romaine hearts"
-          },
-          {
-            "id": 452135,
-            "quantity": "1 (30 oz) whole chicken",
-            "ingredient_name": "rotisserie chicken, white and dark meat"
-          },
-          {
-            "id": 452137,
-            "quantity": "1 cup",
-            "ingredient_name": "shredded cheese, Italian blend"
-          },
-          {
-            "id": 452133,
-            "quantity": "4",
-            "ingredient_name": "whole grain pitas"
-          },
-          {
-            "id": 452130,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 452139,
-            "quantity": "",
-            "ingredient_name": "hot sauce"
-          },
-          {
-            "id": 452129,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 675.73,
-          "alcohol": 0,
-          "ash": 4.6,
-          "caffeine": 0,
-          "water": 265,
-          "carbs": 56.24,
-          "fiber": 7.74,
-          "starch": 38.43,
-          "sugars": 10.93,
-          "fructose": 4.11,
-          "galactose": 0.43,
-          "glucose": 4.09,
-          "lactose": 0.81,
-          "maltose": 0.21,
-          "sucrose": 1.39,
-          "sugar_alcohol": 0,
-          "fat": 29.71,
-          "monounsaturated": 8.17,
-          "polyunsaturated": 10.23,
-          "omega_3": 1.23,
-          "omega_6": 8.93,
-          "saturated": 7.75,
-          "transfats": 0.25,
-          "cholesterol": 175,
-          "protein": 51.35,
-          "alanine": 0.57,
-          "arginine": 0.67,
-          "aspartic_acid": 1.07,
-          "cystine": 0.21,
-          "glutamic_acid": 3.91,
-          "glycine": 0.46,
-          "histidine": 0.38,
-          "isoleucine": 0.65,
-          "leucine": 1.27,
-          "lysine": 0.86,
-          "methionine": 0.29,
-          "phenylalanine": 0.75,
-          "proline": 1.56,
-          "serine": 0.78,
-          "threonine": 0.54,
-          "tryptophan": 0.2,
-          "tyrosine": 0.6,
-          "valine": 0.81,
-          "b1_thiamine": 0.42,
-          "b2_riboflavin": 0.53,
-          "b3_niacin": 13.14,
-          "b5_pantothenic_acid": 1.11,
-          "b6_pyridoxine": 0.74,
-          "b12_cobalamin": 0.9,
-          "choline": 137.2,
-          "folate": 149.55,
-          "vitamin_a": 5377.36,
-          "vitamin_c": 37.57,
-          "vitamin_d": 0.14,
-          "vitamin_e": 2.46,
-          "vitamin_k": 164.46,
-          "calcium": 273.07,
-          "copper": 0.39,
-          "iron": 4.29,
-          "magnesium": 106.97,
-          "manganese": 1.39,
-          "phosphorus": 693.43,
-          "potassium": 915.56,
-          "selenium": 69.31,
-          "sodium": 1355.36,
-          "zinc": 4.59
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/chicken-ranch-pita-pizza-corn-spicy-honey-romaine-salad/20109",
-      "altVariants": [
-        {
-          "id": 20109,
-          "recipe_id": 2305,
-          "group_label": "Default",
-          "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "published_recipe_uuid": "442be277-9cb7-4c13-8d87-8814e4260a66",
-          "fallback_published_recipe_uuids": [
-            "e8cd0cd6-ac7a-44d8-a93f-4c8782140114",
-            "c0364d7c-2345-4a3e-aa81-7b7fa6daf1c4",
-            "5b96406c-51a6-41b3-9011-af3783d3710d"
-          ],
-          "first_published_at": 1654619528000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            14,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            188,
-            303,
-            291,
-            406,
-            440,
-            395,
-            426,
-            295,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            120,
-            2,
-            1,
-            1,
-            4,
-            20,
-            20,
-            0.625
-          ],
-          "average_rating": 0.882,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Lip smackin' finger lickin' good"
-        },
-        {
-          "id": 20110,
-          "recipe_id": 2305,
-          "group_label": "Default",
-          "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "published_recipe_uuid": "a5b6fa6f-7eda-4a6d-a303-28321da4bc20",
-          "fallback_published_recipe_uuids": [
-            "39afc1e1-9104-41d3-a099-ddb13b8329b8",
-            "d05f65c3-d1b1-4666-bbe2-3fa9ccfe2eab",
-            "59b89fb0-b93d-4033-a875-f2216d31c85b"
-          ],
-          "first_published_at": 1654619527000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            14,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            188,
-            303,
-            291,
-            406,
-            440,
-            395,
-            426,
-            295,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1.5,
-            1.5,
-            180,
-            3,
-            1.5,
-            1.5,
-            6,
-            30,
-            30,
-            0.9375
-          ],
-          "average_rating": 0.882,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Lip smackin' finger lickin' good"
-        },
-        {
-          "id": 20108,
-          "recipe_id": 2305,
-          "group_label": "Default",
-          "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "published_recipe_uuid": "2716ec0a-9664-44a6-9b1d-5cf655cbb2d2",
-          "fallback_published_recipe_uuids": [
-            "a8a00a4f-5504-4ea8-a91c-6cf0ac2adf5f",
-            "7d62b624-a6b1-4dcb-aaf9-8a603cc26c09",
-            "82d689e9-5445-4e8c-9bcd-341077b8f66e"
-          ],
-          "first_published_at": 1654619528000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            14,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            188,
-            303,
-            291,
-            406,
-            440,
-            395,
-            426,
-            295,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            60,
-            1,
-            0.5,
-            0.5,
-            2,
-            10,
-            10,
-            0.3125
-          ],
-          "average_rating": 0.882,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Lip smackin' finger lickin' good"
-        },
-        {
-          "id": 20113,
-          "recipe_id": 2305,
-          "group_label": "Default",
-          "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "published_recipe_uuid": "72c0edf8-769d-4d66-b6bc-62e3e7b81b29",
-          "fallback_published_recipe_uuids": [
-            "d553df8c-010f-4a02-9393-7ac700217a0a",
-            "4a39f7de-d270-46ab-ad5d-d4309e9a2613",
-            "4f957654-0db6-41a4-a169-3bc38351c7c7"
-          ],
-          "first_published_at": 1654619526000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            14,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            188,
-            303,
-            291,
-            406,
-            440,
-            395,
-            426,
-            295,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1.5,
-            1.5,
-            180,
-            3,
-            1.5,
-            1.5,
-            6,
-            30,
-            30,
-            0.9375
-          ],
-          "average_rating": 0.882,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Lip smackin' finger lickin' good"
-        },
-        {
-          "id": 20112,
-          "recipe_id": 2305,
-          "group_label": "Default",
-          "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "published_recipe_uuid": "a2a4ef42-8a47-4fd1-920c-edd6556a26c5",
-          "fallback_published_recipe_uuids": [
-            "284a350d-4c7e-4f89-b988-d8deee8d173a",
-            "c0b90bf5-3910-4286-a0c4-3ea20afe040e",
-            "2ebad9ad-e797-4f8c-a1f7-71daadba7277"
-          ],
-          "first_published_at": 1654619527000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            14,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            188,
-            303,
-            291,
-            406,
-            440,
-            395,
-            426,
-            295,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            120,
-            2,
-            1,
-            1,
-            4,
-            20,
-            20,
-            0.625
-          ],
-          "average_rating": 0.882,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Lip smackin' finger lickin' good"
-        },
-        {
-          "id": 20111,
-          "recipe_id": 2305,
-          "group_label": "Default",
-          "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
-          "published_recipe_uuid": "ac318f66-5c88-41dc-8cf0-001640011995",
-          "fallback_published_recipe_uuids": [
-            "5ad155c8-a2db-4a69-be64-a24c51c54dcc",
-            "fe9dda3e-8633-4de2-9f00-f81c2763cc77",
-            "50cc49db-a797-45f4-b25c-ee5d9bfbbf3d"
-          ],
-          "first_published_at": 1654619527000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            14,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            188,
-            303,
-            291,
-            406,
-            440,
-            395,
-            426,
-            295,
-            103,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            60,
-            1,
-            0.5,
-            0.5,
-            2,
-            10,
-            10,
-            0.3125
-          ],
-          "average_rating": 0.882,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Lip smackin' finger lickin' good"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Lip smackin' finger lickin' good",
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.4
-      }
+  "id": 20109,
+  "recipe_id": 2305,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Chicken Ranch Pita Pizza with Corn, Spicy Honey & Romaine Salad ",
+  "slug": "chicken-ranch-pita-pizza-corn-spicy-honey-romaine-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/thumbnail_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2305/presentation_49cdb7f3-9837-4bfc-aa1f-029868f64129.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "chicken-ranch-pita-pizza-corn-spicy-honey-romaine-salad",
-    "variantId": "20109"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 422077,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 422078,
+      "primary_message": "Place chicken on a cutting board and, using your hands, remove meat from the skin and bones. Separate the meat into shred-like pieces, place in a medium bowl, and set aside.",
+      "secondary_message": "1 (30 oz) whole chicken rotisserie chicken, white and dark meat"
+    },
+    {
+      "id": 422079,
+      "primary_message": "Place corn in a colander and run under hot water (from the tap) to defrost.",
+      "secondary_message": "1 cup frozen corn"
+    },
+    {
+      "id": 422080,
+      "primary_message": "Place pitas on a large baking sheet pan; spread evenly with dressing, then sprinkle with cheese.",
+      "secondary_message": "4 whole grain pitas\n¼ cup ranch dressing\n½ cup shredded cheese, Italian blend"
+    },
+    {
+      "id": 422081,
+      "primary_message": "Top pitas with chicken, corn, and more cheese.",
+      "secondary_message": "½ cup shredded cheese, Italian blend"
+    },
+    {
+      "id": 422082,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and bake until pita pizzas are golden and cheese is melted 6-8 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 422083,
+      "primary_message": "Meanwhile, place honey and hot sauce in a clean small bowl; stir to combine and set aside.",
+      "secondary_message": "4 tsp honey\n4 tsp hot sauce"
+    },
+    {
+      "id": 422084,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 green bell pepper\n2 hearts romaine hearts\n1 small bunch cilantro"
+    },
+    {
+      "id": 422085,
+      "primary_message": "Trim, seed, and slice bell pepper lengthwise into thin strips; place in a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 422086,
+      "primary_message": "Chop or tear romaine into bite-sized pieces; add to the bowl with the bell pepper.",
+      "secondary_message": null
+    },
+    {
+      "id": 422087,
+      "primary_message": "Shave cilantro leaves off the stems; discard stems and mince the leaves. Add to the bowl along with additional dressing and salt; toss to combine the salad.",
+      "secondary_message": "¼ cup ranch dressing\n⅛ tsp salt"
+    },
+    {
+      "id": 422088,
+      "primary_message": "When the pizzas are done, remove from oven and drizzle with spicy honey; cut into wedges.",
+      "secondary_message": null
+    },
+    {
+      "id": 422089,
+      "primary_message": "To serve, divide pizzas and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 452131,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 452134,
+      "quantity": "1 cup",
+      "ingredient_name": "frozen corn"
+    },
+    {
+      "id": 452132,
+      "quantity": "1",
+      "ingredient_name": "green bell pepper"
+    },
+    {
+      "id": 452136,
+      "quantity": "½ cup",
+      "ingredient_name": "ranch dressing"
+    },
+    {
+      "id": 452138,
+      "quantity": "2 hearts",
+      "ingredient_name": "romaine hearts"
+    },
+    {
+      "id": 452135,
+      "quantity": "1 (30 oz) whole chicken",
+      "ingredient_name": "rotisserie chicken, white and dark meat"
+    },
+    {
+      "id": 452137,
+      "quantity": "1 cup",
+      "ingredient_name": "shredded cheese, Italian blend"
+    },
+    {
+      "id": 452133,
+      "quantity": "4",
+      "ingredient_name": "whole grain pitas"
+    },
+    {
+      "id": 452130,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 452139,
+      "quantity": "",
+      "ingredient_name": "hot sauce"
+    },
+    {
+      "id": 452129,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 675.73,
+    "alcohol": 0,
+    "ash": 4.6,
+    "caffeine": 0,
+    "water": 265,
+    "carbs": 56.24,
+    "fiber": 7.74,
+    "starch": 38.43,
+    "sugars": 10.93,
+    "fructose": 4.11,
+    "galactose": 0.43,
+    "glucose": 4.09,
+    "lactose": 0.81,
+    "maltose": 0.21,
+    "sucrose": 1.39,
+    "sugar_alcohol": 0,
+    "fat": 29.71,
+    "monounsaturated": 8.17,
+    "polyunsaturated": 10.23,
+    "omega_3": 1.23,
+    "omega_6": 8.93,
+    "saturated": 7.75,
+    "transfats": 0.25,
+    "cholesterol": 175,
+    "protein": 51.35,
+    "alanine": 0.57,
+    "arginine": 0.67,
+    "aspartic_acid": 1.07,
+    "cystine": 0.21,
+    "glutamic_acid": 3.91,
+    "glycine": 0.46,
+    "histidine": 0.38,
+    "isoleucine": 0.65,
+    "leucine": 1.27,
+    "lysine": 0.86,
+    "methionine": 0.29,
+    "phenylalanine": 0.75,
+    "proline": 1.56,
+    "serine": 0.78,
+    "threonine": 0.54,
+    "tryptophan": 0.2,
+    "tyrosine": 0.6,
+    "valine": 0.81,
+    "b1_thiamine": 0.42,
+    "b2_riboflavin": 0.53,
+    "b3_niacin": 13.14,
+    "b5_pantothenic_acid": 1.11,
+    "b6_pyridoxine": 0.74,
+    "b12_cobalamin": 0.9,
+    "choline": 137.2,
+    "folate": 149.55,
+    "vitamin_a": 5377.36,
+    "vitamin_c": 37.57,
+    "vitamin_d": 0.14,
+    "vitamin_e": 2.46,
+    "vitamin_k": 164.46,
+    "calcium": 273.07,
+    "copper": 0.39,
+    "iron": 4.29,
+    "magnesium": 106.97,
+    "manganese": 1.39,
+    "phosphorus": 693.43,
+    "potassium": 915.56,
+    "selenium": 69.31,
+    "sodium": 1355.36,
+    "zinc": 4.59
+  }
 }

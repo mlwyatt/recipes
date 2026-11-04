@@ -1,1168 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 15783,
-        "recipe_id": 1871,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-        "slug": "deviled-egg-pasta-salad-cucumber-bell-pepper-celery-parsley",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 259141,
-            "primary_message": "Place eggs in a medium saucepan, cover with hot water (from the tap) and bring to a boil. Reduce heat to a simmer and cook for 8 minutes. Drain and add ice or run under cold water to cool; set aside.",
-            "secondary_message": "6 eggs"
-          },
-          {
-            "id": 259142,
-            "primary_message": "While the eggs are cooking, fill a large pot halfway with water, cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain pasta and rinse under cold water to cool completely; set aside.",
-            "secondary_message": "2 tsp salt\n10 oz rotini pasta"
-          },
-          {
-            "id": 259143,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "2 sticks celery\n1 English cucumber\n2 red bell peppers\n1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 259144,
-            "primary_message": "Trim and small dice celery; place in a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 259145,
-            "primary_message": "Trim and medium dice cucumber; add to the bowl with the celery.",
-            "secondary_message": null
-          },
-          {
-            "id": 259146,
-            "primary_message": "Trim, seed, and small dice bell peppers; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 259147,
-            "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 259148,
-            "primary_message": "Peel and mince shallots; add to the bowl and set aside.",
-            "secondary_message": "2 shallots"
-          },
-          {
-            "id": 259149,
-            "primary_message": "Once the eggs have cooled, peel and halve lengthwise. Using a spoon, separate the yolks from the whites and place the yolks in a small bowl. Roughly chop the egg whites and add to the bowl with the veggies.",
-            "secondary_message": null
-          },
-          {
-            "id": 259150,
-            "primary_message": "Gently mash the yolks with a fork. Add mayo, Dijon, vinegar, and spices to the bowl; stir to combine the dressing.",
-            "secondary_message": "⅔ cup mayonnaise\n2 tbsp Dijon mustard\n2 tbsp apple cider vinegar\n1 tsp salt\n½ tsp paprika\n¼ tsp black pepper"
-          },
-          {
-            "id": 259151,
-            "primary_message": "Add pasta and dressing to the bowl with the veggies; stir to combine the pasta salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 259152,
-            "primary_message": "To serve, divide pasta salad between plates or bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 272955,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 272950,
-            "quantity": "6",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 272954,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 272948,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 272953,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 272944,
-            "quantity": "10 oz",
-            "ingredient_name": "rotini pasta"
-          },
-          {
-            "id": 272952,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 272951,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 272945,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 272949,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 272956,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 272946,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 272947,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 688.72,
-          "alcohol": 0.01,
-          "ash": 7.96,
-          "caffeine": 0,
-          "water": 245.09,
-          "carbs": 65.37,
-          "fiber": 6.07,
-          "starch": 45.16,
-          "sugars": 8.22,
-          "fructose": 2.31,
-          "galactose": 0.1,
-          "glucose": 2.39,
-          "lactose": 0,
-          "maltose": 1.4,
-          "sucrose": 1.88,
-          "sugar_alcohol": 0,
-          "fat": 38.46,
-          "monounsaturated": 9.93,
-          "polyunsaturated": 19.03,
-          "omega_3": 2.16,
-          "omega_6": 16.86,
-          "saturated": 7.21,
-          "transfats": 0.18,
-          "cholesterol": 269.88,
-          "protein": 20.38,
-          "alanine": 0.92,
-          "arginine": 1.03,
-          "aspartic_acid": 1.7,
-          "cystine": 0.39,
-          "glutamic_acid": 4.89,
-          "glycine": 0.71,
-          "histidine": 0.47,
-          "isoleucine": 0.91,
-          "leucine": 1.58,
-          "lysine": 0.96,
-          "methionine": 0.39,
-          "phenylalanine": 1.04,
-          "proline": 1.59,
-          "serine": 1.21,
-          "threonine": 0.8,
-          "tryptophan": 0.28,
-          "tyrosine": 0.57,
-          "valine": 1.11,
-          "b1_thiamine": 0.75,
-          "b2_riboflavin": 0.71,
-          "b3_niacin": 6.24,
-          "b5_pantothenic_acid": 1.93,
-          "b6_pyridoxine": 0.52,
-          "b12_cobalamin": 0.63,
-          "choline": 237.69,
-          "folate": 272.39,
-          "vitamin_a": 633.18,
-          "vitamin_c": 101.35,
-          "vitamin_d": 59.01,
-          "vitamin_e": 4.57,
-          "vitamin_k": 76.8,
-          "calcium": 113.74,
-          "copper": 0.35,
-          "iron": 5.49,
-          "magnesium": 80.74,
-          "manganese": 1.07,
-          "phosphorus": 341.41,
-          "potassium": 697.47,
-          "selenium": 82.87,
-          "sodium": 212.15,
-          "zinc": 2.56
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/deviled-egg-pasta-salad-cucumber-bell-pepper-celery-parsley/15783",
-      "altVariants": [
-        {
-          "id": 15786,
-          "recipe_id": 1871,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "e5ada686-df36-4e54-9f59-5f8cc53fafc3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525006000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            67,
-            106,
-            150,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            6,
-            1,
-            10,
-            1,
-            2,
-            2,
-            30,
-            1.25,
-            30,
-            160,
-            2.5,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15785,
-          "recipe_id": 1871,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "eafb0f10-ba1e-4e49-b1a6-0790d9900a74",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525005000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            67,
-            106,
-            150,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            0.5,
-            5,
-            0.5,
-            1,
-            1,
-            15,
-            0.625,
-            15,
-            80,
-            1.25,
-            7.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15783,
-          "recipe_id": 1871,
-          "group_label": "Default",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "9b993037-4ce1-48d4-9bbb-677f467b35e2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525004000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            106,
-            150,
-            66,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            6,
-            1,
-            1,
-            2,
-            10,
-            2,
-            30,
-            1.25,
-            30,
-            160,
-            2.5,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15782,
-          "recipe_id": 1871,
-          "group_label": "Default",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "7860cac9-d328-4d2a-9dae-bdadb99d8f96",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525004000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            106,
-            150,
-            66,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            0.5,
-            0.5,
-            1,
-            5,
-            1,
-            15,
-            0.625,
-            15,
-            80,
-            1.25,
-            7.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15787,
-          "recipe_id": 1871,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "bd82dcf5-7429-4cea-b689-b5aa2905f4e9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525006000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            67,
-            106,
-            150,
-            184,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            9,
-            1.5,
-            15,
-            1,
-            3,
-            0.5,
-            45,
-            2.5,
-            45,
-            240,
-            3.75,
-            22.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15784,
-          "recipe_id": 1871,
-          "group_label": "Default",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "7f6f7540-acee-4d23-b5cd-8c53664654d1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525005000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            106,
-            150,
-            184,
-            66,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            9,
-            1.5,
-            1,
-            3,
-            0.5,
-            15,
-            45,
-            2.5,
-            45,
-            240,
-            3.75,
-            22.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15791,
-          "recipe_id": 1871,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "d495e43b-6e9f-4de1-b300-87ea33aea6df",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525007000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            67,
-            106,
-            150,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            0.5,
-            142,
-            0.5,
-            1,
-            1,
-            15,
-            0.625,
-            15,
-            80,
-            1.25,
-            7.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15793,
-          "recipe_id": 1871,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "d2db9d05-5648-465a-8cc7-e20c4eca4ad0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525008000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            67,
-            106,
-            150,
-            184,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            9,
-            1.5,
-            425,
-            1,
-            3,
-            0.5,
-            45,
-            2.5,
-            45,
-            240,
-            3.75,
-            22.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15792,
-          "recipe_id": 1871,
-          "group_label": "Default auto-gluten-free",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "32f9ab86-e32c-4e96-a359-8da4f94ae9c3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525007000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            67,
-            106,
-            150,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            6,
-            1,
-            283,
-            1,
-            2,
-            2,
-            30,
-            1.25,
-            30,
-            160,
-            2.5,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15790,
-          "recipe_id": 1871,
-          "group_label": "Default",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "fd861902-c0d8-4e21-9459-c693fd50557d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525007000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            106,
-            150,
-            184,
-            66,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            9,
-            1.5,
-            1,
-            3,
-            0.5,
-            425,
-            45,
-            2.5,
-            45,
-            240,
-            3.75,
-            22.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15789,
-          "recipe_id": 1871,
-          "group_label": "Default",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "f72b09bd-22f2-4339-87ae-8d5b11919b0b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525006000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            106,
-            150,
-            66,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            6,
-            1,
-            1,
-            2,
-            283,
-            2,
-            30,
-            1.25,
-            30,
-            160,
-            2.5,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 15788,
-          "recipe_id": 1871,
-          "group_label": "Default",
-          "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
-          "published_recipe_uuid": "1c359b5e-c3fc-41ce-a58a-1134e1c752f2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1642525006000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            121,
-            155,
-            106,
-            150,
-            66,
-            144,
-            133,
-            72,
-            117,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            0.5,
-            0.5,
-            1,
-            142,
-            1,
-            15,
-            0.625,
-            15,
-            80,
-            1.25,
-            7.5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": 73,
-        "reviewScore": null
-      }
+  "id": 15783,
+  "recipe_id": 1871,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "\"Deviled Egg\" Pasta Salad with Cucumber, Bell Pepper, Celery & Parsley",
+  "slug": "deviled-egg-pasta-salad-cucumber-bell-pepper-celery-parsley",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/thumbnail_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1871/presentation_9e5a8995-e653-4633-9296-d21a6b84defc.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "deviled-egg-pasta-salad-cucumber-bell-pepper-celery-parsley",
-    "variantId": "15783"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 259141,
+      "primary_message": "Place eggs in a medium saucepan, cover with hot water (from the tap) and bring to a boil. Reduce heat to a simmer and cook for 8 minutes. Drain and add ice or run under cold water to cool; set aside.",
+      "secondary_message": "6 eggs"
+    },
+    {
+      "id": 259142,
+      "primary_message": "While the eggs are cooking, fill a large pot halfway with water, cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain pasta and rinse under cold water to cool completely; set aside.",
+      "secondary_message": "2 tsp salt\n10 oz rotini pasta"
+    },
+    {
+      "id": 259143,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "2 sticks celery\n1 English cucumber\n2 red bell peppers\n1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 259144,
+      "primary_message": "Trim and small dice celery; place in a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 259145,
+      "primary_message": "Trim and medium dice cucumber; add to the bowl with the celery.",
+      "secondary_message": null
+    },
+    {
+      "id": 259146,
+      "primary_message": "Trim, seed, and small dice bell peppers; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 259147,
+      "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 259148,
+      "primary_message": "Peel and mince shallots; add to the bowl and set aside.",
+      "secondary_message": "2 shallots"
+    },
+    {
+      "id": 259149,
+      "primary_message": "Once the eggs have cooled, peel and halve lengthwise. Using a spoon, separate the yolks from the whites and place the yolks in a small bowl. Roughly chop the egg whites and add to the bowl with the veggies.",
+      "secondary_message": null
+    },
+    {
+      "id": 259150,
+      "primary_message": "Gently mash the yolks with a fork. Add mayo, Dijon, vinegar, and spices to the bowl; stir to combine the dressing.",
+      "secondary_message": "⅔ cup mayonnaise\n2 tbsp Dijon mustard\n2 tbsp apple cider vinegar\n1 tsp salt\n½ tsp paprika\n¼ tsp black pepper"
+    },
+    {
+      "id": 259151,
+      "primary_message": "Add pasta and dressing to the bowl with the veggies; stir to combine the pasta salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 259152,
+      "primary_message": "To serve, divide pasta salad between plates or bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 272955,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 272950,
+      "quantity": "6",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 272954,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 272948,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 272953,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 272944,
+      "quantity": "10 oz",
+      "ingredient_name": "rotini pasta"
+    },
+    {
+      "id": 272952,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 272951,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 272945,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 272949,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 272956,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 272946,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 272947,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 688.72,
+    "alcohol": 0.01,
+    "ash": 7.96,
+    "caffeine": 0,
+    "water": 245.09,
+    "carbs": 65.37,
+    "fiber": 6.07,
+    "starch": 45.16,
+    "sugars": 8.22,
+    "fructose": 2.31,
+    "galactose": 0.1,
+    "glucose": 2.39,
+    "lactose": 0,
+    "maltose": 1.4,
+    "sucrose": 1.88,
+    "sugar_alcohol": 0,
+    "fat": 38.46,
+    "monounsaturated": 9.93,
+    "polyunsaturated": 19.03,
+    "omega_3": 2.16,
+    "omega_6": 16.86,
+    "saturated": 7.21,
+    "transfats": 0.18,
+    "cholesterol": 269.88,
+    "protein": 20.38,
+    "alanine": 0.92,
+    "arginine": 1.03,
+    "aspartic_acid": 1.7,
+    "cystine": 0.39,
+    "glutamic_acid": 4.89,
+    "glycine": 0.71,
+    "histidine": 0.47,
+    "isoleucine": 0.91,
+    "leucine": 1.58,
+    "lysine": 0.96,
+    "methionine": 0.39,
+    "phenylalanine": 1.04,
+    "proline": 1.59,
+    "serine": 1.21,
+    "threonine": 0.8,
+    "tryptophan": 0.28,
+    "tyrosine": 0.57,
+    "valine": 1.11,
+    "b1_thiamine": 0.75,
+    "b2_riboflavin": 0.71,
+    "b3_niacin": 6.24,
+    "b5_pantothenic_acid": 1.93,
+    "b6_pyridoxine": 0.52,
+    "b12_cobalamin": 0.63,
+    "choline": 237.69,
+    "folate": 272.39,
+    "vitamin_a": 633.18,
+    "vitamin_c": 101.35,
+    "vitamin_d": 59.01,
+    "vitamin_e": 4.57,
+    "vitamin_k": 76.8,
+    "calcium": 113.74,
+    "copper": 0.35,
+    "iron": 5.49,
+    "magnesium": 80.74,
+    "manganese": 1.07,
+    "phosphorus": 341.41,
+    "potassium": 697.47,
+    "selenium": 82.87,
+    "sodium": 212.15,
+    "zinc": 2.56
+  }
 }

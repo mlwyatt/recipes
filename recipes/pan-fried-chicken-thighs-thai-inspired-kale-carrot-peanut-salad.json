@@ -1,763 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4161,
-        "recipe_id": 611,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
-        "slug": "pan-fried-chicken-thighs-thai-inspired-kale-carrot-peanut-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 46868,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 bunch kale\n1 small bunch green onions (scallions)\n2 carrots\n1 lime"
-          },
-          {
-            "id": 46869,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 46870,
-            "primary_message": "While the skillet heats up, pat the chicken thighs dry with paper towels and place on a plate; season generously with salt and pepper on both sides.",
-            "secondary_message": "2 lb chicken thighs, boneless skinless\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 46871,
-            "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 46872,
-            "primary_message": "Carefully place the chicken thighs in the skillet; sear on both sides until golden brown, 2 to 3 minutes per side. Then, reduce the heat to medium and continue to cook until they are cooked through, 3 to 5 minutes total. Once done, transfer to a plate and cover with foil to keep warm.",
-            "secondary_message": null
-          },
-          {
-            "id": 46873,
-            "primary_message": "Cut out and discard the kale stems; halve the leaves lengthwise, then chop crosswise into ¼-inch-thick strips. Transfer to a large salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 46874,
-            "primary_message": "Peel the carrots, then trim off the ends; discard the peels and trimmings. Using a box grater, coarsely grate the carrots. Add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 46875,
-            "primary_message": "Trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces at an angle. Add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 46876,
-            "primary_message": "Juice the lime and transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 46877,
-            "primary_message": "To the lime juice, add peanut butter, water, soy sauce, honey, sesame oil, and crushed red pepper; whisk together.",
-            "secondary_message": "4 tbsp natural peanut butter\n2 tbsp warm water\n2 tbsp soy sauce\n2 tsp honey\n1 tsp toasted sesame oil\n⅛ tsp crushed red pepper"
-          },
-          {
-            "id": 46878,
-            "primary_message": "Pour the dressing over the salad and toss to coat.",
-            "secondary_message": null
-          },
-          {
-            "id": 46879,
-            "primary_message": "To serve, divide the chicken thighs and salad between plates; sprinkle the salad with sesame seeds. Enjoy!",
-            "secondary_message": "1 tsp sesame seeds"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 50358,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 50357,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 50348,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 50359,
-            "quantity": "1 bunch",
-            "ingredient_name": "kale"
-          },
-          {
-            "id": 50349,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 50346,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 50351,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 50354,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 50356,
-            "quantity": "",
-            "ingredient_name": "natural peanut butter"
-          },
-          {
-            "id": 50347,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 50350,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          },
-          {
-            "id": 50355,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          },
-          {
-            "id": 50353,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          },
-          {
-            "id": 50352,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 502.1,
-          "alcohol": 0,
-          "ash": 6.81,
-          "caffeine": 0,
-          "water": 273.35,
-          "carbs": 16.82,
-          "fiber": 3.9,
-          "starch": 5.16,
-          "sugars": 6.26,
-          "fructose": 1.96,
-          "galactose": 0.11,
-          "glucose": 2.19,
-          "lactose": 0,
-          "maltose": 0.05,
-          "sucrose": 2.14,
-          "sugar_alcohol": 0,
-          "fat": 26.26,
-          "monounsaturated": 8.44,
-          "polyunsaturated": 5.68,
-          "omega_3": 0.19,
-          "omega_6": 5.48,
-          "saturated": 9.79,
-          "transfats": 0.05,
-          "cholesterol": 213.19,
-          "protein": 51.45,
-          "alanine": 2.98,
-          "arginine": 3.77,
-          "aspartic_acid": 5.17,
-          "cystine": 0.63,
-          "glutamic_acid": 8.65,
-          "glycine": 2.41,
-          "histidine": 1.5,
-          "isoleucine": 2.42,
-          "leucine": 4.26,
-          "lysine": 4.52,
-          "methionine": 1.36,
-          "phenylalanine": 2.12,
-          "proline": 2.16,
-          "serine": 2.2,
-          "threonine": 2.41,
-          "tryptophan": 0.58,
-          "tyrosine": 1.94,
-          "valine": 2.48,
-          "b1_thiamine": 0.36,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 15.89,
-          "b5_pantothenic_acid": 0.41,
-          "b6_pyridoxine": 1.25,
-          "b12_cobalamin": 1.38,
-          "choline": 138.68,
-          "folate": 69.28,
-          "vitamin_a": 322.17,
-          "vitamin_c": 57.86,
-          "vitamin_d": 2.27,
-          "vitamin_e": 2.97,
-          "vitamin_k": 390.02,
-          "calcium": 113.56,
-          "copper": 0.42,
-          "iron": 3.59,
-          "magnesium": 113.71,
-          "manganese": 0.9,
-          "phosphorus": 542.07,
-          "potassium": 1057.22,
-          "selenium": 54.06,
-          "sodium": 260.5,
-          "zinc": 4.63
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-fried-chicken-thighs-thai-inspired-kale-carrot-peanut-salad/4161",
-      "altVariants": [
-        {
-          "id": 4121,
-          "recipe_id": 611,
-          "group_label": "Classic",
-          "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "published_recipe_uuid": "d1f8d1f7-cdf0-47e5-9296-759e68b3a856",
-          "fallback_published_recipe_uuids": [
-            "eaa20aa6-e3c9-41f5-9519-b82794dfce5b",
-            "19f9ebdd-cf18-4e11-8f82-6a70346d242c"
-          ],
-          "first_published_at": 1510876682000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            5,
-            9,
-            1,
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            159,
-            164,
-            153,
-            226,
-            228,
-            72,
-            85,
-            103,
-            101,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1.23223,
-            0.3080575,
-            4.92892,
-            29.5735,
-            2.46446,
-            2.46446,
-            14.7868,
-            2.46446,
-            14.7868
-          ],
-          "average_rating": 0.645,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4161,
-          "recipe_id": 611,
-          "group_label": "Classic",
-          "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "published_recipe_uuid": "aa09cea3-0c48-4e13-9c7c-d7a07e4b8167",
-          "fallback_published_recipe_uuids": [
-            "84858bdf-6956-4aa5-ba63-f909b33c8787",
-            "50ff36c8-389b-49a7-ae39-7ad2b8cdd991"
-          ],
-          "first_published_at": 1510878186000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            5,
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            159,
-            164,
-            153,
-            226,
-            228,
-            72,
-            85,
-            103,
-            101,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1,
-            1,
-            2.46446,
-            0.616115,
-            9.85784,
-            59.1471,
-            4.92892,
-            4.92892,
-            29.5735,
-            4.92892,
-            29.5735
-          ],
-          "average_rating": 0.645,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6282,
-          "recipe_id": 611,
-          "group_label": "Classic",
-          "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "published_recipe_uuid": "e55c9ef9-6d9a-4613-aa1d-6baffaf3286c",
-          "fallback_published_recipe_uuids": [
-            "82a7d756-6e7b-423d-9f42-a4d7330c78e7",
-            "8fad75af-32b8-4d75-8ed0-cc125dc7d060"
-          ],
-          "first_published_at": 1550528121000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            5,
-            9,
-            1,
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            164,
-            153,
-            226,
-            228,
-            72,
-            85,
-            103,
-            101,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            3.69669,
-            0.9241725,
-            14.78676,
-            88.72065,
-            7.39338,
-            7.39338,
-            44.36025,
-            7.39338,
-            44.36025
-          ],
-          "average_rating": 0.645,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4163,
-          "recipe_id": 611,
-          "group_label": "Classic",
-          "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "published_recipe_uuid": "4bc86ff4-0b5b-4f7f-b76a-0c66c3e7a378",
-          "fallback_published_recipe_uuids": [
-            "a951104a-5f23-4da7-8c80-b3ad8d48a4e0",
-            "9b4509ec-4d94-4863-aa38-96d7093363af"
-          ],
-          "first_published_at": 1510878631000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            5,
-            9,
-            1,
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            164,
-            153,
-            226,
-            228,
-            72,
-            85,
-            103,
-            101,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            0.907,
-            1,
-            1,
-            1,
-            2.46446,
-            0.616115,
-            9.85784,
-            59.1471,
-            4.92892,
-            4.92892,
-            29.5735,
-            4.92892,
-            29.5735
-          ],
-          "average_rating": 0.645,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4162,
-          "recipe_id": 611,
-          "group_label": "Classic",
-          "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "published_recipe_uuid": "c36ed41e-8b05-4ef4-b159-65bd8ac8ffad",
-          "fallback_published_recipe_uuids": [
-            "1f54afba-ccc5-485f-8008-9be17efa39d0",
-            "c010b53a-916f-4842-a435-ce48c08397ec"
-          ],
-          "first_published_at": 1510878569000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10,
-            9,
-            1,
-            5
-          ],
-          "ingredient_ids": [
-            159,
-            164,
-            153,
-            226,
-            228,
-            72,
-            85,
-            103,
-            101,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.454,
-            0.5,
-            0.5,
-            0.5,
-            1.23223,
-            0.3080575,
-            4.92892,
-            29.5735,
-            2.46446,
-            2.46446,
-            14.7868,
-            2.46446,
-            14.7868
-          ],
-          "average_rating": 0.645,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6283,
-          "recipe_id": 611,
-          "group_label": "Classic",
-          "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
-          "published_recipe_uuid": "41612f85-69a5-4bd4-a12c-75375e230559",
-          "fallback_published_recipe_uuids": [
-            "66e12590-f18a-45f2-826f-a89a9a30dfc4",
-            "50b9290f-be83-490c-b317-fda7a62c17e8"
-          ],
-          "first_published_at": 1550528134000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10,
-            9,
-            1,
-            5
-          ],
-          "ingredient_ids": [
-            159,
-            164,
-            153,
-            226,
-            228,
-            72,
-            85,
-            103,
-            101,
-            88,
-            181,
-            53,
-            51,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.3605,
-            1.5,
-            1.5,
-            1.5,
-            3.69669,
-            0.9241725,
-            14.78676,
-            88.72065,
-            7.39338,
-            7.39338,
-            44.36025,
-            7.39338,
-            44.36025
-          ],
-          "average_rating": 0.645,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 4161,
+  "recipe_id": 611,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Pan-Fried Chicken Thighs with Thai-Inspired Kale, Carrot & Peanut Salad",
+  "slug": "pan-fried-chicken-thighs-thai-inspired-kale-carrot-peanut-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/thumbnail_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/611/presentation_68aacec9-f2b4-458f-9c5f-1fce94473ba5.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pan-fried-chicken-thighs-thai-inspired-kale-carrot-peanut-salad",
-    "variantId": "4161"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 46868,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 bunch kale\n1 small bunch green onions (scallions)\n2 carrots\n1 lime"
+    },
+    {
+      "id": 46869,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 46870,
+      "primary_message": "While the skillet heats up, pat the chicken thighs dry with paper towels and place on a plate; season generously with salt and pepper on both sides.",
+      "secondary_message": "2 lb chicken thighs, boneless skinless\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 46871,
+      "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 46872,
+      "primary_message": "Carefully place the chicken thighs in the skillet; sear on both sides until golden brown, 2 to 3 minutes per side. Then, reduce the heat to medium and continue to cook until they are cooked through, 3 to 5 minutes total. Once done, transfer to a plate and cover with foil to keep warm.",
+      "secondary_message": null
+    },
+    {
+      "id": 46873,
+      "primary_message": "Cut out and discard the kale stems; halve the leaves lengthwise, then chop crosswise into ¼-inch-thick strips. Transfer to a large salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 46874,
+      "primary_message": "Peel the carrots, then trim off the ends; discard the peels and trimmings. Using a box grater, coarsely grate the carrots. Add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 46875,
+      "primary_message": "Trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces at an angle. Add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 46876,
+      "primary_message": "Juice the lime and transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 46877,
+      "primary_message": "To the lime juice, add peanut butter, water, soy sauce, honey, sesame oil, and crushed red pepper; whisk together.",
+      "secondary_message": "4 tbsp natural peanut butter\n2 tbsp warm water\n2 tbsp soy sauce\n2 tsp honey\n1 tsp toasted sesame oil\n⅛ tsp crushed red pepper"
+    },
+    {
+      "id": 46878,
+      "primary_message": "Pour the dressing over the salad and toss to coat.",
+      "secondary_message": null
+    },
+    {
+      "id": 46879,
+      "primary_message": "To serve, divide the chicken thighs and salad between plates; sprinkle the salad with sesame seeds. Enjoy!",
+      "secondary_message": "1 tsp sesame seeds"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 50358,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 50357,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 50348,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 50359,
+      "quantity": "1 bunch",
+      "ingredient_name": "kale"
+    },
+    {
+      "id": 50349,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 50346,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 50351,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 50354,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 50356,
+      "quantity": "",
+      "ingredient_name": "natural peanut butter"
+    },
+    {
+      "id": 50347,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 50350,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    },
+    {
+      "id": 50355,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    },
+    {
+      "id": 50353,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    },
+    {
+      "id": 50352,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 502.1,
+    "alcohol": 0,
+    "ash": 6.81,
+    "caffeine": 0,
+    "water": 273.35,
+    "carbs": 16.82,
+    "fiber": 3.9,
+    "starch": 5.16,
+    "sugars": 6.26,
+    "fructose": 1.96,
+    "galactose": 0.11,
+    "glucose": 2.19,
+    "lactose": 0,
+    "maltose": 0.05,
+    "sucrose": 2.14,
+    "sugar_alcohol": 0,
+    "fat": 26.26,
+    "monounsaturated": 8.44,
+    "polyunsaturated": 5.68,
+    "omega_3": 0.19,
+    "omega_6": 5.48,
+    "saturated": 9.79,
+    "transfats": 0.05,
+    "cholesterol": 213.19,
+    "protein": 51.45,
+    "alanine": 2.98,
+    "arginine": 3.77,
+    "aspartic_acid": 5.17,
+    "cystine": 0.63,
+    "glutamic_acid": 8.65,
+    "glycine": 2.41,
+    "histidine": 1.5,
+    "isoleucine": 2.42,
+    "leucine": 4.26,
+    "lysine": 4.52,
+    "methionine": 1.36,
+    "phenylalanine": 2.12,
+    "proline": 2.16,
+    "serine": 2.2,
+    "threonine": 2.41,
+    "tryptophan": 0.58,
+    "tyrosine": 1.94,
+    "valine": 2.48,
+    "b1_thiamine": 0.36,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 15.89,
+    "b5_pantothenic_acid": 0.41,
+    "b6_pyridoxine": 1.25,
+    "b12_cobalamin": 1.38,
+    "choline": 138.68,
+    "folate": 69.28,
+    "vitamin_a": 322.17,
+    "vitamin_c": 57.86,
+    "vitamin_d": 2.27,
+    "vitamin_e": 2.97,
+    "vitamin_k": 390.02,
+    "calcium": 113.56,
+    "copper": 0.42,
+    "iron": 3.59,
+    "magnesium": 113.71,
+    "manganese": 0.9,
+    "phosphorus": 542.07,
+    "potassium": 1057.22,
+    "selenium": 54.06,
+    "sodium": 260.5,
+    "zinc": 4.63
+  }
 }

@@ -1,1129 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 25922,
-        "recipe_id": 2921,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-        "slug": "creamy-dijon-kale-peach-salad-walnuts-goat-cheese-bread-crumbs",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 413427,
-            "primary_message": "Preheat a skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 413428,
-            "primary_message": "While the skillet heats up, roughly chop walnuts.",
-            "secondary_message": "1 cup walnuts"
-          },
-          {
-            "id": 413429,
-            "primary_message": "Once the skillet is hot, add walnuts and cook, stirring frequently, until lightly browned, 2-3 minutes. Transfer to a small bowl. (Reserve skillet for the next step.)",
-            "secondary_message": null
-          },
-          {
-            "id": 413430,
-            "primary_message": "Return skillet to medium heat, add oil, and swirl to coat the bottom. Add bread crumbs and cook, stirring frequently, until golden and crispy, 3-5 minutes. Transfer to the bowl with the walnuts and set aside to cool.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 cup panko bread crumbs\n¼ tsp salt"
-          },
-          {
-            "id": 413431,
-            "primary_message": "Meanwhile, place yogurt, Dijon, oil, water, honey, vinegar, salt, and pepper in a large bowl. Whisk to combine the dressing.",
-            "secondary_message": "⅔ cup plain Greek yogurt\n2 tbsp Dijon mustard\n2 tbsp extra virgin olive oil\n2 tbsp water\n1 tbsp honey\n2 tsp rice vinegar\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 413432,
-            "primary_message": "Wash, dry, and fold kale leaves in half lengthwise and slice off the stems; cut leaves crosswise into thin (shred-like) pieces. Add to the bowl with the dressing. Using your hands, massage kale with the dressing until wilted, about 2 minutes.",
-            "secondary_message": "2 bunches kale"
-          },
-          {
-            "id": 413433,
-            "primary_message": "Wash, dry, and quarter peaches lengthwise (around the pit); twist quarters to separate, then remove and discard pit. Medium dice the flesh and add to the bowl with the kale.",
-            "secondary_message": "4 peaches"
-          },
-          {
-            "id": 413434,
-            "primary_message": "Crumble goat cheese into the bowl and gently toss to combine the salad.",
-            "secondary_message": "1 (4 oz) log goat cheese"
-          },
-          {
-            "id": 413435,
-            "primary_message": "To serve, divide the salad between plates or bowls; top with walnuts and crispy bread crumbs. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 442585,
-            "quantity": "1 (4 oz) log",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 442586,
-            "quantity": "2 bunches",
-            "ingredient_name": "kale"
-          },
-          {
-            "id": 442587,
-            "quantity": "4",
-            "ingredient_name": "peaches"
-          },
-          {
-            "id": 442584,
-            "quantity": "⅔ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 442589,
-            "quantity": "1 cup",
-            "ingredient_name": "walnuts"
-          },
-          {
-            "id": 442579,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 442582,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 442578,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 442581,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 442583,
-            "quantity": "",
-            "ingredient_name": "panko bread crumbs"
-          },
-          {
-            "id": 442588,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 442580,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 566.62,
-          "alcohol": 0.01,
-          "ash": 5.22,
-          "caffeine": 0,
-          "water": 263.84,
-          "carbs": 43.12,
-          "fiber": 6.54,
-          "starch": 14.03,
-          "sugars": 20.84,
-          "fructose": 5.07,
-          "galactose": 0.54,
-          "glucose": 5.41,
-          "lactose": 1.04,
-          "maltose": 0.49,
-          "sucrose": 8.28,
-          "sugar_alcohol": 0.01,
-          "fat": 38.32,
-          "monounsaturated": 14.19,
-          "polyunsaturated": 14.2,
-          "omega_3": 2.59,
-          "omega_6": 11.58,
-          "saturated": 7.91,
-          "transfats": 0.24,
-          "cholesterol": 15.04,
-          "protein": 19.6,
-          "alanine": 0.7,
-          "arginine": 1.12,
-          "aspartic_acid": 2.13,
-          "cystine": 0.24,
-          "glutamic_acid": 3.53,
-          "glycine": 0.59,
-          "histidine": 0.46,
-          "isoleucine": 0.86,
-          "leucine": 1.54,
-          "lysine": 1.13,
-          "methionine": 0.36,
-          "phenylalanine": 0.82,
-          "proline": 1.52,
-          "serine": 0.91,
-          "threonine": 0.77,
-          "tryptophan": 0.25,
-          "tyrosine": 0.62,
-          "valine": 1.05,
-          "b1_thiamine": 0.39,
-          "b2_riboflavin": 0.48,
-          "b3_niacin": 3.61,
-          "b5_pantothenic_acid": 0.86,
-          "b6_pyridoxine": 0.51,
-          "b12_cobalamin": 0.41,
-          "choline": 33.82,
-          "folate": 77.97,
-          "vitamin_a": 579.94,
-          "vitamin_c": 106.76,
-          "vitamin_d": 4.24,
-          "vitamin_e": 4.76,
-          "vitamin_k": 668.83,
-          "calcium": 260.45,
-          "copper": 0.99,
-          "iron": 4.07,
-          "magnesium": 99.84,
-          "manganese": 1.91,
-          "phosphorus": 323.15,
-          "potassium": 866.55,
-          "selenium": 12.73,
-          "sodium": 264.56,
-          "zinc": 2.16
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-dijon-kale-peach-salad-walnuts-goat-cheese-bread-crumbs/25922",
-      "altVariants": [
-        {
-          "id": 25926,
-          "recipe_id": 2921,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "d1a0adf5-59e4-4af9-bdd4-b27d0a939e78",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130450000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            211,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            1,
-            1.5,
-            3.75,
-            45,
-            90,
-            360,
-            22.5,
-            15,
-            6.25
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25925,
-          "recipe_id": 2921,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "c06d0a50-0504-48a5-bef2-dc6dbd6f8357",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130450000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            211,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.6666666666666666,
-            1,
-            2.5,
-            30,
-            60,
-            240,
-            15,
-            10,
-            3.75
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25924,
-          "recipe_id": 2921,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "d56be2b2-b8a4-48f1-accd-9c4b5049c512",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130450000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            211,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.3333333333333333,
-            0.5,
-            1.25,
-            15,
-            30,
-            120,
-            7.5,
-            5,
-            1.875
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25923,
-          "recipe_id": 2921,
-          "group_label": "Default",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "8cf235c4-0876-4ae8-9587-8ea3297698c3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130450000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            103,
-            119,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            1,
-            1.5,
-            3.75,
-            45,
-            90,
-            22.5,
-            360,
-            15,
-            6.25
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25921,
-          "recipe_id": 2921,
-          "group_label": "Default",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "d50820d5-4107-4e34-a699-ec006f48489c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130451000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            103,
-            119,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.3333333333333333,
-            0.5,
-            1.25,
-            15,
-            30,
-            7.5,
-            120,
-            5,
-            1.875
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25922,
-          "recipe_id": 2921,
-          "group_label": "Default",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "b507e52f-2480-4533-82d6-3fb6a6831b67",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130451000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            103,
-            119,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.6666666666666666,
-            1,
-            2.5,
-            30,
-            60,
-            15,
-            240,
-            10,
-            3.75
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25932,
-          "recipe_id": 2921,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "6ecb19ff-564c-46b2-bdd5-b76306e6b89c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130448000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            211,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            1,
-            1.5,
-            3.75,
-            45,
-            90,
-            360,
-            22.5,
-            15,
-            6.25
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25931,
-          "recipe_id": 2921,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "b14a07b7-9aae-462f-b0b6-5e2f18880561",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130448000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            211,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.6666666666666666,
-            1,
-            2.5,
-            30,
-            60,
-            240,
-            15,
-            10,
-            3.75
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25930,
-          "recipe_id": 2921,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "aa15428b-e616-41eb-ba01-ba0b19c86ba3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130448000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            211,
-            103,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.3333333333333333,
-            0.5,
-            1.25,
-            15,
-            30,
-            120,
-            7.5,
-            5,
-            1.875
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25929,
-          "recipe_id": 2921,
-          "group_label": "Default",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "03532323-9582-44ab-8da8-e0352faef950",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130449000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            103,
-            119,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            1,
-            1.5,
-            3.75,
-            45,
-            90,
-            22.5,
-            360,
-            15,
-            6.25
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25928,
-          "recipe_id": 2921,
-          "group_label": "Default",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "3250738f-c942-458c-b607-0e2cd8a2ac95",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130449000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            103,
-            119,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.6666666666666666,
-            1,
-            2.5,
-            30,
-            60,
-            15,
-            240,
-            10,
-            3.75
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25927,
-          "recipe_id": 2921,
-          "group_label": "Default",
-          "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
-          "published_recipe_uuid": "aaeb539a-c32b-46e3-808e-c962cfd44f05",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1692130449000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            1,
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            126,
-            226,
-            234,
-            122,
-            272,
-            72,
-            117,
-            47,
-            103,
-            119,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.3333333333333333,
-            0.5,
-            1.25,
-            15,
-            30,
-            7.5,
-            120,
-            5,
-            1.875
-          ],
-          "average_rating": 0.823,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 25922,
+  "recipe_id": 2921,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Creamy Dijon Kale-Peach Salad with Walnuts, Goat Cheese & Bread Crumbs",
+  "slug": "creamy-dijon-kale-peach-salad-walnuts-goat-cheese-bread-crumbs",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/thumbnail_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2921/presentation_536d4212-8990-4767-ae4f-4b880a19fbdb.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-dijon-kale-peach-salad-walnuts-goat-cheese-bread-crumbs",
-    "variantId": "25922"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 413427,
+      "primary_message": "Preheat a skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 413428,
+      "primary_message": "While the skillet heats up, roughly chop walnuts.",
+      "secondary_message": "1 cup walnuts"
+    },
+    {
+      "id": 413429,
+      "primary_message": "Once the skillet is hot, add walnuts and cook, stirring frequently, until lightly browned, 2-3 minutes. Transfer to a small bowl. (Reserve skillet for the next step.)",
+      "secondary_message": null
+    },
+    {
+      "id": 413430,
+      "primary_message": "Return skillet to medium heat, add oil, and swirl to coat the bottom. Add bread crumbs and cook, stirring frequently, until golden and crispy, 3-5 minutes. Transfer to the bowl with the walnuts and set aside to cool.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 cup panko bread crumbs\n¼ tsp salt"
+    },
+    {
+      "id": 413431,
+      "primary_message": "Meanwhile, place yogurt, Dijon, oil, water, honey, vinegar, salt, and pepper in a large bowl. Whisk to combine the dressing.",
+      "secondary_message": "⅔ cup plain Greek yogurt\n2 tbsp Dijon mustard\n2 tbsp extra virgin olive oil\n2 tbsp water\n1 tbsp honey\n2 tsp rice vinegar\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 413432,
+      "primary_message": "Wash, dry, and fold kale leaves in half lengthwise and slice off the stems; cut leaves crosswise into thin (shred-like) pieces. Add to the bowl with the dressing. Using your hands, massage kale with the dressing until wilted, about 2 minutes.",
+      "secondary_message": "2 bunches kale"
+    },
+    {
+      "id": 413433,
+      "primary_message": "Wash, dry, and quarter peaches lengthwise (around the pit); twist quarters to separate, then remove and discard pit. Medium dice the flesh and add to the bowl with the kale.",
+      "secondary_message": "4 peaches"
+    },
+    {
+      "id": 413434,
+      "primary_message": "Crumble goat cheese into the bowl and gently toss to combine the salad.",
+      "secondary_message": "1 (4 oz) log goat cheese"
+    },
+    {
+      "id": 413435,
+      "primary_message": "To serve, divide the salad between plates or bowls; top with walnuts and crispy bread crumbs. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 442585,
+      "quantity": "1 (4 oz) log",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 442586,
+      "quantity": "2 bunches",
+      "ingredient_name": "kale"
+    },
+    {
+      "id": 442587,
+      "quantity": "4",
+      "ingredient_name": "peaches"
+    },
+    {
+      "id": 442584,
+      "quantity": "⅔ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 442589,
+      "quantity": "1 cup",
+      "ingredient_name": "walnuts"
+    },
+    {
+      "id": 442579,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 442582,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 442578,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 442581,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 442583,
+      "quantity": "",
+      "ingredient_name": "panko bread crumbs"
+    },
+    {
+      "id": 442588,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 442580,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 566.62,
+    "alcohol": 0.01,
+    "ash": 5.22,
+    "caffeine": 0,
+    "water": 263.84,
+    "carbs": 43.12,
+    "fiber": 6.54,
+    "starch": 14.03,
+    "sugars": 20.84,
+    "fructose": 5.07,
+    "galactose": 0.54,
+    "glucose": 5.41,
+    "lactose": 1.04,
+    "maltose": 0.49,
+    "sucrose": 8.28,
+    "sugar_alcohol": 0.01,
+    "fat": 38.32,
+    "monounsaturated": 14.19,
+    "polyunsaturated": 14.2,
+    "omega_3": 2.59,
+    "omega_6": 11.58,
+    "saturated": 7.91,
+    "transfats": 0.24,
+    "cholesterol": 15.04,
+    "protein": 19.6,
+    "alanine": 0.7,
+    "arginine": 1.12,
+    "aspartic_acid": 2.13,
+    "cystine": 0.24,
+    "glutamic_acid": 3.53,
+    "glycine": 0.59,
+    "histidine": 0.46,
+    "isoleucine": 0.86,
+    "leucine": 1.54,
+    "lysine": 1.13,
+    "methionine": 0.36,
+    "phenylalanine": 0.82,
+    "proline": 1.52,
+    "serine": 0.91,
+    "threonine": 0.77,
+    "tryptophan": 0.25,
+    "tyrosine": 0.62,
+    "valine": 1.05,
+    "b1_thiamine": 0.39,
+    "b2_riboflavin": 0.48,
+    "b3_niacin": 3.61,
+    "b5_pantothenic_acid": 0.86,
+    "b6_pyridoxine": 0.51,
+    "b12_cobalamin": 0.41,
+    "choline": 33.82,
+    "folate": 77.97,
+    "vitamin_a": 579.94,
+    "vitamin_c": 106.76,
+    "vitamin_d": 4.24,
+    "vitamin_e": 4.76,
+    "vitamin_k": 668.83,
+    "calcium": 260.45,
+    "copper": 0.99,
+    "iron": 4.07,
+    "magnesium": 99.84,
+    "manganese": 1.91,
+    "phosphorus": 323.15,
+    "potassium": 866.55,
+    "selenium": 12.73,
+    "sodium": 264.56,
+    "zinc": 2.16
+  }
 }

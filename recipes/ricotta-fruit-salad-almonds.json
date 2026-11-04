@@ -1,586 +1,195 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 6958,
-        "recipe_id": 790,
-        "serving_count": 4,
-        "cooking_minutes": 10,
-        "name": "Ricotta Fruit Salad with Almonds",
-        "slug": "ricotta-fruit-salad-almonds",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 96087,
-            "primary_message": "Preheat a skillet over medium-high heat. Add almonds and toast, stirring often, until golden brown, 2-3 minutes. Set aside to cool.",
-            "secondary_message": "1 cup almonds, sliced"
-          },
-          {
-            "id": 96088,
-            "primary_message": "In a medium bowl, whisk together ricotta, milk, and honey.",
-            "secondary_message": "1 (15 oz) pkg ricotta cheese\n4 fl oz (½ cup) whole milk\n2 tbsp honey"
-          },
-          {
-            "id": 96089,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "½ lb red grapes\n2 bananas\n2 kiwifruit"
-          },
-          {
-            "id": 96090,
-            "primary_message": "Halve the grapes.",
-            "secondary_message": null
-          },
-          {
-            "id": 96091,
-            "primary_message": "Peel the bananas, halve lengthwise, and slice.",
-            "secondary_message": null
-          },
-          {
-            "id": 96092,
-            "primary_message": "Trim off the ends and peel the kiwis; quarter lengthwise, then chop crosswise.",
-            "secondary_message": null
-          },
-          {
-            "id": 96093,
-            "primary_message": "To serve, transfer ricotta mixture to bowls; top with fruit and almonds. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 99927,
-            "quantity": "1 cup",
-            "ingredient_name": "almonds, sliced"
-          },
-          {
-            "id": 99928,
-            "quantity": "2",
-            "ingredient_name": "bananas"
-          },
-          {
-            "id": 99926,
-            "quantity": "2",
-            "ingredient_name": "kiwifruit"
-          },
-          {
-            "id": 99925,
-            "quantity": "½ lb",
-            "ingredient_name": "red grapes"
-          },
-          {
-            "id": 99922,
-            "quantity": "1 (15 oz) pkg",
-            "ingredient_name": "ricotta cheese"
-          },
-          {
-            "id": 99924,
-            "quantity": "4 fl oz",
-            "ingredient_name": "whole milk"
-          },
-          {
-            "id": 99923,
-            "quantity": "",
-            "ingredient_name": "honey"
-          }
-        ],
-        "nutrition": {
-          "energy": 482,
-          "alcohol": 0,
-          "ash": 2.96,
-          "caffeine": 0,
-          "water": 224.43,
-          "carbs": 47.3,
-          "fiber": 5.98,
-          "starch": 8.99,
-          "sugars": 32.67,
-          "fructose": 13.4,
-          "galactose": 0.42,
-          "glucose": 12.32,
-          "lactose": 3.74,
-          "maltose": 0.24,
-          "sucrose": 2.55,
-          "sugar_alcohol": 0,
-          "fat": 26.73,
-          "monounsaturated": 11.4,
-          "polyunsaturated": 3.47,
-          "omega_3": 0.16,
-          "omega_6": 3.27,
-          "saturated": 10.3,
-          "transfats": 0.45,
-          "cholesterol": 57.24,
-          "protein": 18.62,
-          "alanine": 0.82,
-          "arginine": 1.37,
-          "aspartic_acid": 1.81,
-          "cystine": 0.18,
-          "glutamic_acid": 4.35,
-          "glycine": 0.69,
-          "histidine": 0.66,
-          "isoleucine": 0.87,
-          "leucine": 1.76,
-          "lysine": 1.67,
-          "methionine": 0.37,
-          "phenylalanine": 0.93,
-          "proline": 1.52,
-          "serine": 0.91,
-          "threonine": 0.76,
-          "tryptophan": 0.21,
-          "tyrosine": 0.8,
-          "valine": 1.03,
-          "b1_thiamine": 0.12,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 1.21,
-          "b5_pantothenic_acid": 0.55,
-          "b6_pyridoxine": 0.16,
-          "b12_cobalamin": 0.5,
-          "choline": 41.04,
-          "folate": 34.37,
-          "vitamin_a": 590.12,
-          "vitamin_c": 33.85,
-          "vitamin_d": 26.18,
-          "vitamin_e": 6.64,
-          "vitamin_k": 23.44,
-          "calcium": 334.32,
-          "copper": 0.39,
-          "iron": 1.62,
-          "magnesium": 86.89,
-          "manganese": 0.59,
-          "phosphorus": 327.62,
-          "potassium": 541.94,
-          "selenium": 17.69,
-          "sodium": 105.19,
-          "zinc": 2.17
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/ricotta-fruit-salad-almonds/6958",
-      "altVariants": [
-        {
-          "id": 6959,
-          "recipe_id": 790,
-          "group_label": "Default",
-          "name": "Ricotta Fruit Salad with Almonds",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "published_recipe_uuid": "f0daa4c7-90c1-4fb9-ae77-9578275647c5",
-          "fallback_published_recipe_uuids": [
-            "2d9060fe-f81e-4e24-bf00-12506749e847"
-          ],
-          "first_published_at": 1561153655000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            317,
-            227,
-            224,
-            37,
-            118,
-            103
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            0.75,
-            1.5,
-            6,
-            45
-          ],
-          "average_rating": 0.897,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6958,
-          "recipe_id": 790,
-          "group_label": "Default",
-          "name": "Ricotta Fruit Salad with Almonds",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "published_recipe_uuid": "7c1958dd-8a66-4c3f-8f41-d09b2235ddf7",
-          "fallback_published_recipe_uuids": [
-            "68755d4c-5a51-4557-9f7c-8c4f537146dc"
-          ],
-          "first_published_at": 1561153655000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            317,
-            227,
-            224,
-            37,
-            118,
-            103
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            0.5,
-            1,
-            4,
-            30
-          ],
-          "average_rating": 0.897,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6957,
-          "recipe_id": 790,
-          "group_label": "Default",
-          "name": "Ricotta Fruit Salad with Almonds",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "published_recipe_uuid": "6f43e258-80fd-4297-b701-91205c2a1e1b",
-          "fallback_published_recipe_uuids": [
-            "85af5a12-fc93-4f47-bc03-578e08488138"
-          ],
-          "first_published_at": 1561153654000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            317,
-            227,
-            224,
-            37,
-            118,
-            103
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.25,
-            0.5,
-            2,
-            15
-          ],
-          "average_rating": 0.897,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6962,
-          "recipe_id": 790,
-          "group_label": "Default",
-          "name": "Ricotta Fruit Salad with Almonds",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "published_recipe_uuid": "1760b9bf-8d59-44c4-a926-3bfbc3c97e58",
-          "fallback_published_recipe_uuids": [
-            "fe3935eb-08a2-48be-a7a5-1168b49a8411"
-          ],
-          "first_published_at": 1561153657000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            317,
-            227,
-            224,
-            37,
-            118,
-            103
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            0.34,
-            1.5,
-            177,
-            45
-          ],
-          "average_rating": 0.897,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6961,
-          "recipe_id": 790,
-          "group_label": "Default",
-          "name": "Ricotta Fruit Salad with Almonds",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "published_recipe_uuid": "066b60a4-b629-4447-a786-67fb336e9220",
-          "fallback_published_recipe_uuids": [
-            "1cfabe43-2186-43ef-a981-bc45d6ab0bbb"
-          ],
-          "first_published_at": 1561153656000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            317,
-            227,
-            224,
-            37,
-            118,
-            103
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            0.23,
-            1,
-            118,
-            30
-          ],
-          "average_rating": 0.897,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6960,
-          "recipe_id": 790,
-          "group_label": "Default",
-          "name": "Ricotta Fruit Salad with Almonds",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
-          "published_recipe_uuid": "47a7528a-425a-4e71-ad3b-27cc11f6804f",
-          "fallback_published_recipe_uuids": [
-            "8f81e0b7-c0b7-4299-a49d-6e4e322c2953"
-          ],
-          "first_published_at": 1561153656000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            317,
-            227,
-            224,
-            37,
-            118,
-            103
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.11,
-            0.5,
-            59,
-            15
-          ],
-          "average_rating": 0.897,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.5
-      }
+  "id": 6958,
+  "recipe_id": 790,
+  "serving_count": 4,
+  "cooking_minutes": 10,
+  "name": "Ricotta Fruit Salad with Almonds",
+  "slug": "ricotta-fruit-salad-almonds",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/thumbnail_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "ricotta-fruit-salad-almonds",
-    "variantId": "6958"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 96087,
+      "primary_message": "Preheat a skillet over medium-high heat. Add almonds and toast, stirring often, until golden brown, 2-3 minutes. Set aside to cool.",
+      "secondary_message": "1 cup almonds, sliced"
+    },
+    {
+      "id": 96088,
+      "primary_message": "In a medium bowl, whisk together ricotta, milk, and honey.",
+      "secondary_message": "1 (15 oz) pkg ricotta cheese\n4 fl oz (½ cup) whole milk\n2 tbsp honey"
+    },
+    {
+      "id": 96089,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "½ lb red grapes\n2 bananas\n2 kiwifruit"
+    },
+    {
+      "id": 96090,
+      "primary_message": "Halve the grapes.",
+      "secondary_message": null
+    },
+    {
+      "id": 96091,
+      "primary_message": "Peel the bananas, halve lengthwise, and slice.",
+      "secondary_message": null
+    },
+    {
+      "id": 96092,
+      "primary_message": "Trim off the ends and peel the kiwis; quarter lengthwise, then chop crosswise.",
+      "secondary_message": null
+    },
+    {
+      "id": 96093,
+      "primary_message": "To serve, transfer ricotta mixture to bowls; top with fruit and almonds. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 99927,
+      "quantity": "1 cup",
+      "ingredient_name": "almonds, sliced"
+    },
+    {
+      "id": 99928,
+      "quantity": "2",
+      "ingredient_name": "bananas"
+    },
+    {
+      "id": 99926,
+      "quantity": "2",
+      "ingredient_name": "kiwifruit"
+    },
+    {
+      "id": 99925,
+      "quantity": "½ lb",
+      "ingredient_name": "red grapes"
+    },
+    {
+      "id": 99922,
+      "quantity": "1 (15 oz) pkg",
+      "ingredient_name": "ricotta cheese"
+    },
+    {
+      "id": 99924,
+      "quantity": "4 fl oz",
+      "ingredient_name": "whole milk"
+    },
+    {
+      "id": 99923,
+      "quantity": "",
+      "ingredient_name": "honey"
+    }
+  ],
+  "nutrition": {
+    "energy": 482,
+    "alcohol": 0,
+    "ash": 2.96,
+    "caffeine": 0,
+    "water": 224.43,
+    "carbs": 47.3,
+    "fiber": 5.98,
+    "starch": 8.99,
+    "sugars": 32.67,
+    "fructose": 13.4,
+    "galactose": 0.42,
+    "glucose": 12.32,
+    "lactose": 3.74,
+    "maltose": 0.24,
+    "sucrose": 2.55,
+    "sugar_alcohol": 0,
+    "fat": 26.73,
+    "monounsaturated": 11.4,
+    "polyunsaturated": 3.47,
+    "omega_3": 0.16,
+    "omega_6": 3.27,
+    "saturated": 10.3,
+    "transfats": 0.45,
+    "cholesterol": 57.24,
+    "protein": 18.62,
+    "alanine": 0.82,
+    "arginine": 1.37,
+    "aspartic_acid": 1.81,
+    "cystine": 0.18,
+    "glutamic_acid": 4.35,
+    "glycine": 0.69,
+    "histidine": 0.66,
+    "isoleucine": 0.87,
+    "leucine": 1.76,
+    "lysine": 1.67,
+    "methionine": 0.37,
+    "phenylalanine": 0.93,
+    "proline": 1.52,
+    "serine": 0.91,
+    "threonine": 0.76,
+    "tryptophan": 0.21,
+    "tyrosine": 0.8,
+    "valine": 1.03,
+    "b1_thiamine": 0.12,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 1.21,
+    "b5_pantothenic_acid": 0.55,
+    "b6_pyridoxine": 0.16,
+    "b12_cobalamin": 0.5,
+    "choline": 41.04,
+    "folate": 34.37,
+    "vitamin_a": 590.12,
+    "vitamin_c": 33.85,
+    "vitamin_d": 26.18,
+    "vitamin_e": 6.64,
+    "vitamin_k": 23.44,
+    "calcium": 334.32,
+    "copper": 0.39,
+    "iron": 1.62,
+    "magnesium": 86.89,
+    "manganese": 0.59,
+    "phosphorus": 327.62,
+    "potassium": 541.94,
+    "selenium": 17.69,
+    "sodium": 105.19,
+    "zinc": 2.17
+  }
 }

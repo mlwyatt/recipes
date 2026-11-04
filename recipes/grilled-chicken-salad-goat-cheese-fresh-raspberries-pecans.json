@@ -1,1410 +1,215 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22265,
-        "recipe_id": 1772,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-        "slug": "grilled-chicken-salad-goat-cheese-fresh-raspberries-pecans",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 372753,
-            "primary_message": "Pat chicken dry with paper towels and place on a cutting board. Holding a knife parallel to the cutting board, cut chicken in half horizontally to form thin cutlets. Season chicken with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 372754,
-            "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 372755,
-            "primary_message": "Once the pan is hot, coat with oil. Add chicken to the pan and grill, turning once, until cooked through, 3-4 minutes per side.",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 372756,
-            "primary_message": "Meanwhile, wash and dry mixed greens (skip if they came pre-washed). Place in a large bowl.",
-            "secondary_message": "2 (5 oz) pkgs spring mix (mixed greens)"
-          },
-          {
-            "id": 372757,
-            "primary_message": "Wash and dry raspberries. Add to the bowl with the mixed greens.",
-            "secondary_message": "2 (6 oz) pkgs raspberries"
-          },
-          {
-            "id": 372758,
-            "primary_message": "Using a clean cutting board, roughly chop pecans. Add to the bowl.",
-            "secondary_message": "½ cup pecan halves"
-          },
-          {
-            "id": 372759,
-            "primary_message": "When the chicken is done, transfer to a cutting board and cut into thin strips.",
-            "secondary_message": null
-          },
-          {
-            "id": 372760,
-            "primary_message": "Add chicken and vinaigrette to the bowl, then toss to combine the salad.",
-            "secondary_message": "⅓ cup French vinaigrette"
-          },
-          {
-            "id": 372761,
-            "primary_message": "To serve, divide salad between plates or bowls, crumble goat cheese over top, and enjoy!",
-            "secondary_message": "1 (4 oz) log goat cheese"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 397551,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 397559,
-            "quantity": "90 ml",
-            "ingredient_name": "French vinaigrette"
-          },
-          {
-            "id": 397555,
-            "quantity": "1 (4 oz) log",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 397558,
-            "quantity": "½ cup",
-            "ingredient_name": "pecan halves"
-          },
-          {
-            "id": 397557,
-            "quantity": "2 (6 oz) pkgs",
-            "ingredient_name": "raspberries"
-          },
-          {
-            "id": 397556,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 397553,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 397552,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 397554,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 572.24,
-          "alcohol": 0,
-          "ash": 4.42,
-          "caffeine": 0,
-          "water": 282.72,
-          "carbs": 14.39,
-          "fiber": 8.26,
-          "starch": 0.11,
-          "sugars": 4.97,
-          "fructose": 2.36,
-          "galactose": 0.02,
-          "glucose": 1.85,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.74,
-          "sugar_alcohol": 0,
-          "fat": 36.56,
-          "monounsaturated": 11.97,
-          "polyunsaturated": 4.57,
-          "omega_3": 0.38,
-          "omega_6": 4.2,
-          "saturated": 7.38,
-          "transfats": 0.22,
-          "cholesterol": 137.17,
-          "protein": 46.92,
-          "alanine": 2.43,
-          "arginine": 2.96,
-          "aspartic_acid": 4.11,
-          "cystine": 0.45,
-          "glutamic_acid": 7.06,
-          "glycine": 1.86,
-          "histidine": 1.63,
-          "isoleucine": 2.19,
-          "leucine": 3.77,
-          "lysine": 4.15,
-          "methionine": 1.17,
-          "phenylalanine": 1.86,
-          "proline": 1.95,
-          "serine": 1.76,
-          "threonine": 2,
-          "tryptophan": 0.56,
-          "tyrosine": 1.64,
-          "valine": 2.46,
-          "b1_thiamine": 0.32,
-          "b2_riboflavin": 0.52,
-          "b3_niacin": 17.4,
-          "b5_pantothenic_acid": 3.31,
-          "b6_pyridoxine": 1.58,
-          "b12_cobalamin": 0.41,
-          "choline": 169.47,
-          "folate": 115.31,
-          "vitamin_a": 95.55,
-          "vitamin_c": 29.55,
-          "vitamin_d": 5.94,
-          "vitamin_e": 3,
-          "vitamin_k": 148.23,
-          "calcium": 113.88,
-          "copper": 0.56,
-          "iron": 3,
-          "magnesium": 107.43,
-          "manganese": 1.44,
-          "phosphorus": 521.95,
-          "potassium": 968.7,
-          "selenium": 40.63,
-          "sodium": 408.06,
-          "zinc": 2.74
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-chicken-salad-goat-cheese-fresh-raspberries-pecans/15061",
-      "altVariants": [
-        {
-          "id": 22268,
-          "recipe_id": 1772,
-          "group_label": "Keto",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "a5693c27-906e-4576-8e4c-6f5f356116ff",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151505000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            2,
-            0.5,
-            2,
-            2,
-            2.5,
-            65,
-            45,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22267,
-          "recipe_id": 1772,
-          "group_label": "Keto",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "19e0eced-8aff-4f3c-a08c-c0ac1285ea81",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151505000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            1,
-            0.25,
-            1,
-            1,
-            1.25,
-            32.5,
-            22.5,
-            2.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 15061,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "bd4ac1f3-ea26-45dc-a4fd-46f5f00850e5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151507000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            2,
-            0.5,
-            2,
-            2,
-            2.5,
-            50,
-            30,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": false,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22269,
-          "recipe_id": 1772,
-          "group_label": "Keto",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "d513e90c-b831-4ff4-943d-297d356028d1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151504000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            3,
-            0.75,
-            3,
-            3,
-            5,
-            90,
-            60,
-            7.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22266,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "dc0b1665-7951-4888-b0c8-f012e40d61c7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151505000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            432,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            135,
-            1.5,
-            0.75,
-            3,
-            3,
-            2.5,
-            30,
-            3.75
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22265,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "aafa31a4-e9d6-4461-aec0-0c0a2dbc8b9b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151506000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            432,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            90,
-            1,
-            0.5,
-            2,
-            2,
-            1.25,
-            20,
-            2.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22264,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "cf00e337-f8c1-4c63-bb9c-53df127427e5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151506000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            432,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            45,
-            0.5,
-            0.25,
-            1,
-            1,
-            0.625,
-            10,
-            1.25
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 15060,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "cdd5259c-ad4c-4baf-a391-ed334b6115ea",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151508000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            1,
-            0.25,
-            1,
-            1,
-            1.25,
-            25,
-            15,
-            2.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": false,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 15062,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "d1260c10-55ea-4969-b6f4-c986124d055a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151507000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            3,
-            0.75,
-            3,
-            3,
-            5,
-            75,
-            45,
-            7.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": false,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22275,
-          "recipe_id": 1772,
-          "group_label": "Keto",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "4a5244d5-5385-4773-8358-d2b02c2526c9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151502000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            3,
-            0.75,
-            3,
-            3,
-            5,
-            90,
-            60,
-            7.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22274,
-          "recipe_id": 1772,
-          "group_label": "Keto",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "69d6ba29-7ff3-471a-a231-b250a180475e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151502000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            2,
-            0.5,
-            2,
-            2,
-            2.5,
-            65,
-            45,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22273,
-          "recipe_id": 1772,
-          "group_label": "Keto",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "12cfe3fd-c2cd-49b9-87ae-234c42485883",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151503000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            1,
-            0.25,
-            1,
-            1,
-            1.25,
-            32.5,
-            22.5,
-            2.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22272,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "ca7df5f7-db43-4bd8-8afd-f102bfee4801",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151503000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            432,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            135,
-            1.5,
-            0.75,
-            3,
-            3,
-            2.5,
-            30,
-            3.75
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22271,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "fcebd7e8-2c46-4616-ad69-e532d837078b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151503000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            432,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            90,
-            1,
-            0.5,
-            2,
-            2,
-            1.25,
-            20,
-            2.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 22270,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "6ce49e7b-af78-422b-9895-faf1f63bbfd4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151504000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            44,
-            432,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            45,
-            0.5,
-            0.25,
-            1,
-            1,
-            0.625,
-            10,
-            1.25
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 15065,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "f61a637b-74f5-48f3-bc89-8efae399c7aa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151507000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            3,
-            0.75,
-            3,
-            3,
-            5,
-            75,
-            45,
-            7.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": false,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 15064,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "40549172-6956-4ca5-b77e-7257a981d7fe",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151506000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            2,
-            0.5,
-            2,
-            2,
-            2.5,
-            50,
-            30,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": false,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        },
-        {
-          "id": 15063,
-          "recipe_id": 1772,
-          "group_label": "Default",
-          "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
-          "published_recipe_uuid": "e9f208bf-1abb-45e6-bcd4-6d8c9967cdae",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1669151507000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            6
-          ],
-          "ingredient_ids": [
-            44,
-            126,
-            327,
-            239,
-            145,
-            72,
-            47,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            1,
-            0.25,
-            1,
-            1,
-            1.25,
-            25,
-            15,
-            2.5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": false,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Fresh and simple, just the way we like it"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Fresh and simple, just the way we like it",
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 22265,
+  "recipe_id": 1772,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Grilled Chicken Salad with Goat Cheese, Fresh Raspberries & Pecans",
+  "slug": "grilled-chicken-salad-goat-cheese-fresh-raspberries-pecans",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/thumbnail_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1772/presentation_3d24e360-c3dd-452b-8833-c73473d8df3d.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-chicken-salad-goat-cheese-fresh-raspberries-pecans",
-    "variantId": "22265"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 372753,
+      "primary_message": "Pat chicken dry with paper towels and place on a cutting board. Holding a knife parallel to the cutting board, cut chicken in half horizontally to form thin cutlets. Season chicken with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 372754,
+      "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 372755,
+      "primary_message": "Once the pan is hot, coat with oil. Add chicken to the pan and grill, turning once, until cooked through, 3-4 minutes per side.",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 372756,
+      "primary_message": "Meanwhile, wash and dry mixed greens (skip if they came pre-washed). Place in a large bowl.",
+      "secondary_message": "2 (5 oz) pkgs spring mix (mixed greens)"
+    },
+    {
+      "id": 372757,
+      "primary_message": "Wash and dry raspberries. Add to the bowl with the mixed greens.",
+      "secondary_message": "2 (6 oz) pkgs raspberries"
+    },
+    {
+      "id": 372758,
+      "primary_message": "Using a clean cutting board, roughly chop pecans. Add to the bowl.",
+      "secondary_message": "½ cup pecan halves"
+    },
+    {
+      "id": 372759,
+      "primary_message": "When the chicken is done, transfer to a cutting board and cut into thin strips.",
+      "secondary_message": null
+    },
+    {
+      "id": 372760,
+      "primary_message": "Add chicken and vinaigrette to the bowl, then toss to combine the salad.",
+      "secondary_message": "⅓ cup French vinaigrette"
+    },
+    {
+      "id": 372761,
+      "primary_message": "To serve, divide salad between plates or bowls, crumble goat cheese over top, and enjoy!",
+      "secondary_message": "1 (4 oz) log goat cheese"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 397551,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 397559,
+      "quantity": "90 ml",
+      "ingredient_name": "French vinaigrette"
+    },
+    {
+      "id": 397555,
+      "quantity": "1 (4 oz) log",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 397558,
+      "quantity": "½ cup",
+      "ingredient_name": "pecan halves"
+    },
+    {
+      "id": 397557,
+      "quantity": "2 (6 oz) pkgs",
+      "ingredient_name": "raspberries"
+    },
+    {
+      "id": 397556,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 397553,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 397552,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 397554,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 572.24,
+    "alcohol": 0,
+    "ash": 4.42,
+    "caffeine": 0,
+    "water": 282.72,
+    "carbs": 14.39,
+    "fiber": 8.26,
+    "starch": 0.11,
+    "sugars": 4.97,
+    "fructose": 2.36,
+    "galactose": 0.02,
+    "glucose": 1.85,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.74,
+    "sugar_alcohol": 0,
+    "fat": 36.56,
+    "monounsaturated": 11.97,
+    "polyunsaturated": 4.57,
+    "omega_3": 0.38,
+    "omega_6": 4.2,
+    "saturated": 7.38,
+    "transfats": 0.22,
+    "cholesterol": 137.17,
+    "protein": 46.92,
+    "alanine": 2.43,
+    "arginine": 2.96,
+    "aspartic_acid": 4.11,
+    "cystine": 0.45,
+    "glutamic_acid": 7.06,
+    "glycine": 1.86,
+    "histidine": 1.63,
+    "isoleucine": 2.19,
+    "leucine": 3.77,
+    "lysine": 4.15,
+    "methionine": 1.17,
+    "phenylalanine": 1.86,
+    "proline": 1.95,
+    "serine": 1.76,
+    "threonine": 2,
+    "tryptophan": 0.56,
+    "tyrosine": 1.64,
+    "valine": 2.46,
+    "b1_thiamine": 0.32,
+    "b2_riboflavin": 0.52,
+    "b3_niacin": 17.4,
+    "b5_pantothenic_acid": 3.31,
+    "b6_pyridoxine": 1.58,
+    "b12_cobalamin": 0.41,
+    "choline": 169.47,
+    "folate": 115.31,
+    "vitamin_a": 95.55,
+    "vitamin_c": 29.55,
+    "vitamin_d": 5.94,
+    "vitamin_e": 3,
+    "vitamin_k": 148.23,
+    "calcium": 113.88,
+    "copper": 0.56,
+    "iron": 3,
+    "magnesium": 107.43,
+    "manganese": 1.44,
+    "phosphorus": 521.95,
+    "potassium": 968.7,
+    "selenium": 40.63,
+    "sodium": 408.06,
+    "zinc": 2.74
+  }
 }

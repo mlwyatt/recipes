@@ -1,1072 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 12350,
-        "recipe_id": 1449,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-        "slug": "creamy-dill-pasta-seared-scallops-zucchini",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 207641,
-            "primary_message": "Fill a large pot halfway with hot water (from the tap); cover and bring to a boil over high heat. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes.",
-            "secondary_message": "2 tsp salt\n10 oz macaroni (elbow) pasta"
-          },
-          {
-            "id": 207642,
-            "primary_message": "Meanwhile, wash, dry, and trim zucchini. Halve zucchini lengthwise, then slice crosswise into half-moons.",
-            "secondary_message": "4 medium zucchini squash"
-          },
-          {
-            "id": 207643,
-            "primary_message": "Preheat a large skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 207644,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add zucchini and salt; cook, stirring occasionally, until zucchini starts to soften, about 4 minutes. ",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt"
-          },
-          {
-            "id": 207645,
-            "primary_message": "Meanwhile, peel and mince onion. Add to the skillet with the zucchini and continue to cook, stirring often, until soft, about 2 minutes.",
-            "secondary_message": "½ medium red onion"
-          },
-          {
-            "id": 207646,
-            "primary_message": "Add broth and cream to the skillet. Bring to a simmer and cook, stirring often, until sauce thickens slightly, 3 minutes more. Transfer zucchini and sauce to a medium bowl and cover with foil. Set aside.",
-            "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n4 fl oz (½ cup) heavy cream"
-          },
-          {
-            "id": 207647,
-            "primary_message": "Wipe skillet clean with paper towels and return to medium heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 207648,
-            "primary_message": "While the skillet heats up, pat scallops dry with paper towels and place on a plate; rub with oil and season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb sea scallops\n2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 207649,
-            "primary_message": "Once the skillet is hot, add scallops in a single layer; cook until they develop a nice sear and are opaque throughout, 1½-2 minutes per side. Work in batches if necessary. Once done, transfer to a clean plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 207650,
-            "primary_message": "Meanwhile, wash and dry dill. Shave leaves off the stems; discard stems and mince the leaves.",
-            "secondary_message": "1 small bunch fresh dill"
-          },
-          {
-            "id": 207651,
-            "primary_message": "Once the pasta is done, drain and return to the pot. Add dill, zucchini, and sauce to the pot; toss to combine.",
-            "secondary_message": null
-          },
-          {
-            "id": 207652,
-            "primary_message": "Return pot to medium heat to warm through, 2-3 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 207653,
-            "primary_message": "To serve, divide pasta and scallops between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 217248,
-            "quantity": "8 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 217250,
-            "quantity": "1 small bunch",
-            "ingredient_name": "fresh dill"
-          },
-          {
-            "id": 217249,
-            "quantity": "4 fl oz",
-            "ingredient_name": "heavy whipping cream"
-          },
-          {
-            "id": 217243,
-            "quantity": "10 oz",
-            "ingredient_name": "macaroni (elbow) pasta"
-          },
-          {
-            "id": 217247,
-            "quantity": "½ medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 217251,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "sea scallops"
-          },
-          {
-            "id": 217246,
-            "quantity": "4 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 217244,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 217242,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 217245,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 656.16,
-          "alcohol": 0,
-          "ash": 10.59,
-          "caffeine": 0,
-          "water": 428.41,
-          "carbs": 67.87,
-          "fiber": 4.65,
-          "starch": 48.1,
-          "sugars": 8.59,
-          "fructose": 3.04,
-          "galactose": 0,
-          "glucose": 2.63,
-          "lactose": 0.83,
-          "maltose": 1.39,
-          "sucrose": 0.69,
-          "sugar_alcohol": 0,
-          "fat": 27.7,
-          "monounsaturated": 13.62,
-          "polyunsaturated": 2.74,
-          "omega_3": 0.6,
-          "omega_6": 2.14,
-          "saturated": 9.45,
-          "transfats": 0.44,
-          "cholesterol": 81.58,
-          "protein": 34.39,
-          "alanine": 1.45,
-          "arginine": 1.66,
-          "aspartic_acid": 2.5,
-          "cystine": 0.43,
-          "glutamic_acid": 6.27,
-          "glycine": 2.25,
-          "histidine": 0.64,
-          "isoleucine": 1.26,
-          "leucine": 2.23,
-          "lysine": 1.78,
-          "methionine": 0.67,
-          "phenylalanine": 1.24,
-          "proline": 1.81,
-          "serine": 1.24,
-          "threonine": 1.1,
-          "tryptophan": 0.35,
-          "tyrosine": 0.82,
-          "valine": 1.28,
-          "b1_thiamine": 0.75,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 8.16,
-          "b5_pantothenic_acid": 1.27,
-          "b6_pyridoxine": 0.59,
-          "b12_cobalamin": 2.51,
-          "choline": 150.29,
-          "folate": 256.55,
-          "vitamin_a": 1375.76,
-          "vitamin_c": 42.23,
-          "vitamin_d": 9.73,
-          "vitamin_e": 2.72,
-          "vitamin_k": 37.59,
-          "calcium": 98.08,
-          "copper": 0.4,
-          "iron": 4.45,
-          "magnesium": 118.5,
-          "manganese": 1.19,
-          "phosphorus": 822.51,
-          "potassium": 1166.46,
-          "selenium": 67.33,
-          "sodium": 723.87,
-          "zinc": 3.4
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-dill-pasta-seared-scallops-zucchini/12350",
-      "altVariants": [
-        {
-          "id": 12354,
-          "recipe_id": 1449,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "82096fef-953c-42d9-a68e-1267938bdc25",
-          "fallback_published_recipe_uuids": [
-            "47d37fd8-8f70-4a76-b026-8f18cafdd01d",
-            "75caa5d8-7e0f-4a37-9202-6b88adbecc1b"
-          ],
-          "first_published_at": 1600877989000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            62,
-            316,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            12,
-            1,
-            15,
-            6,
-            1,
-            2.25,
-            6,
-            2.5,
-            90,
-            26.25
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12352,
-          "recipe_id": 1449,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "628e71db-6e30-4d54-a448-ef518c69ff23",
-          "fallback_published_recipe_uuids": [
-            "0a6bf0dd-d8e9-41b4-b588-11b0bdcd5ddf",
-            "fa8a84ff-0160-4388-b4fd-683072054f0e"
-          ],
-          "first_published_at": 1600877990000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            62,
-            316,
-            326,
-            144,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            5,
-            2,
-            0.75,
-            1,
-            2,
-            0.625,
-            30,
-            8.75
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12350,
-          "recipe_id": 1449,
-          "group_label": "Default",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "3fad9b3c-978e-4471-80bf-7819a9c7239b",
-          "fallback_published_recipe_uuids": [
-            "70090c50-0129-4c22-b87e-16c403034144",
-            "160846b3-e75e-4793-b54f-59a4301f41e4"
-          ],
-          "first_published_at": 1600877991000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            316,
-            61,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            8,
-            1,
-            4,
-            10,
-            0.5,
-            1.5,
-            4,
-            1.25,
-            60,
-            17.5
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12353,
-          "recipe_id": 1449,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "e0913f73-a449-4036-82c2-70bbdfc302aa",
-          "fallback_published_recipe_uuids": [
-            "74361ecf-089c-429b-b56c-7cf0097b1c08",
-            "082b8e77-0464-469e-af80-e283baa80d51"
-          ],
-          "first_published_at": 1600877989000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            62,
-            316,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            8,
-            1,
-            10,
-            4,
-            0.5,
-            1.5,
-            4,
-            1.25,
-            60,
-            17.5
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12349,
-          "recipe_id": 1449,
-          "group_label": "Default",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "5f1d10f7-524f-458d-8c38-73c88deb8f37",
-          "fallback_published_recipe_uuids": [
-            "7b707786-a582-4526-8b06-0bd138fb0ffc",
-            "43b4b6ea-06fe-4405-8a71-dc12568bc519"
-          ],
-          "first_published_at": 1600877991000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            316,
-            61,
-            326,
-            144,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            0.5,
-            2,
-            5,
-            0.75,
-            1,
-            2,
-            0.625,
-            30,
-            8.75
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12351,
-          "recipe_id": 1449,
-          "group_label": "Default",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "18b05ebd-31c9-4ddc-8ee9-e46a7492e5fb",
-          "fallback_published_recipe_uuids": [
-            "0c624947-2718-4080-9ee3-e0c4e4b469ca",
-            "d90492d3-0a93-4ce2-bad6-024bbc3c9f68"
-          ],
-          "first_published_at": 1600877990000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            316,
-            61,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            12,
-            1,
-            6,
-            15,
-            1,
-            2.25,
-            6,
-            2.5,
-            90,
-            26.25
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12360,
-          "recipe_id": 1449,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "2ad88296-e4f1-4538-8e14-c29b52c008c1",
-          "fallback_published_recipe_uuids": [
-            "404a5b1b-e947-4fb8-8080-0bf22707bd33",
-            "d8f2dc11-720f-4842-996a-2a6f337c0bfa"
-          ],
-          "first_published_at": 1600877985000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            62,
-            316,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            355,
-            1,
-            425,
-            177,
-            1,
-            1.02,
-            6,
-            2.5,
-            90,
-            26.25
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12359,
-          "recipe_id": 1449,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "08403c67-5b0f-4f1b-905a-b0d3cfca8253",
-          "fallback_published_recipe_uuids": [
-            "7135eb15-e99a-412a-bf46-211d2cf1071b",
-            "4d9df91f-508b-46ee-acc3-6c2254bfc6ca"
-          ],
-          "first_published_at": 1600877986000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            62,
-            316,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            237,
-            1,
-            283,
-            118,
-            0.5,
-            0.68,
-            4,
-            1.25,
-            60,
-            17.5
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12358,
-          "recipe_id": 1449,
-          "group_label": "Default auto-gluten-free",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "e93ece9d-e431-4f88-819d-ada5244aebcc",
-          "fallback_published_recipe_uuids": [
-            "988a2472-3ee1-4c26-ab3f-b2ca5f1918bc",
-            "6bb5f921-86fe-41f3-9acc-f0057f3fcd4d"
-          ],
-          "first_published_at": 1600877987000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            62,
-            316,
-            326,
-            144,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            118,
-            0.5,
-            142,
-            59,
-            0.34,
-            1,
-            2,
-            0.625,
-            30,
-            8.75
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12357,
-          "recipe_id": 1449,
-          "group_label": "Default",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "17d57508-809d-43c8-a7fe-dbc35b356eb0",
-          "fallback_published_recipe_uuids": [
-            "c10d73e5-aff6-4863-a550-f7f4febc2d4a",
-            "dfd5260a-9a06-493b-91ef-225838831148"
-          ],
-          "first_published_at": 1600877987000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            316,
-            61,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            355,
-            1,
-            177,
-            425,
-            1,
-            1.02,
-            6,
-            2.5,
-            90,
-            26.25
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12356,
-          "recipe_id": 1449,
-          "group_label": "Default",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "444a66dd-4435-4c80-a1ec-a451fd04ded4",
-          "fallback_published_recipe_uuids": [
-            "01ed0a46-eb60-494a-8681-63cc4a90ac06",
-            "78c47326-7fb6-4e60-b1ae-4294ce0c0efc"
-          ],
-          "first_published_at": 1600877988000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            316,
-            61,
-            184,
-            326,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            237,
-            1,
-            118,
-            283,
-            0.5,
-            0.68,
-            4,
-            1.25,
-            60,
-            17.5
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        },
-        {
-          "id": 12355,
-          "recipe_id": 1449,
-          "group_label": "Default",
-          "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
-          "published_recipe_uuid": "eafef63b-3b8f-4d5d-bbac-4b3e20195745",
-          "fallback_published_recipe_uuids": [
-            "759e85bb-3c9f-44a6-bc01-5ed74a0b8881",
-            "e1536576-c186-435a-bfeb-e3a1e172c51e"
-          ],
-          "first_published_at": 1600877988000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            201,
-            320,
-            316,
-            61,
-            326,
-            144,
-            140,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            118,
-            0.5,
-            59,
-            142,
-            0.34,
-            1,
-            2,
-            0.625,
-            30,
-            8.75
-          ],
-          "average_rating": 0.7,
-          "rating_count": 15,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional."
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Earthy and creamy- this pasta is perfect for any night of the week. Glass of wine optional.",
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 12350,
+  "recipe_id": 1449,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Creamy Dill Pasta with Seared Scallops & Zucchini",
+  "slug": "creamy-dill-pasta-seared-scallops-zucchini",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/thumbnail_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1449/presentation_910441ab-92ed-4424-a0a3-c23568c53a0e.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-dill-pasta-seared-scallops-zucchini",
-    "variantId": "12350"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 207641,
+      "primary_message": "Fill a large pot halfway with hot water (from the tap); cover and bring to a boil over high heat. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes.",
+      "secondary_message": "2 tsp salt\n10 oz macaroni (elbow) pasta"
+    },
+    {
+      "id": 207642,
+      "primary_message": "Meanwhile, wash, dry, and trim zucchini. Halve zucchini lengthwise, then slice crosswise into half-moons.",
+      "secondary_message": "4 medium zucchini squash"
+    },
+    {
+      "id": 207643,
+      "primary_message": "Preheat a large skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 207644,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add zucchini and salt; cook, stirring occasionally, until zucchini starts to soften, about 4 minutes. ",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt"
+    },
+    {
+      "id": 207645,
+      "primary_message": "Meanwhile, peel and mince onion. Add to the skillet with the zucchini and continue to cook, stirring often, until soft, about 2 minutes.",
+      "secondary_message": "½ medium red onion"
+    },
+    {
+      "id": 207646,
+      "primary_message": "Add broth and cream to the skillet. Bring to a simmer and cook, stirring often, until sauce thickens slightly, 3 minutes more. Transfer zucchini and sauce to a medium bowl and cover with foil. Set aside.",
+      "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n4 fl oz (½ cup) heavy cream"
+    },
+    {
+      "id": 207647,
+      "primary_message": "Wipe skillet clean with paper towels and return to medium heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 207648,
+      "primary_message": "While the skillet heats up, pat scallops dry with paper towels and place on a plate; rub with oil and season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb sea scallops\n2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 207649,
+      "primary_message": "Once the skillet is hot, add scallops in a single layer; cook until they develop a nice sear and are opaque throughout, 1½-2 minutes per side. Work in batches if necessary. Once done, transfer to a clean plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 207650,
+      "primary_message": "Meanwhile, wash and dry dill. Shave leaves off the stems; discard stems and mince the leaves.",
+      "secondary_message": "1 small bunch fresh dill"
+    },
+    {
+      "id": 207651,
+      "primary_message": "Once the pasta is done, drain and return to the pot. Add dill, zucchini, and sauce to the pot; toss to combine.",
+      "secondary_message": null
+    },
+    {
+      "id": 207652,
+      "primary_message": "Return pot to medium heat to warm through, 2-3 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 207653,
+      "primary_message": "To serve, divide pasta and scallops between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 217248,
+      "quantity": "8 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 217250,
+      "quantity": "1 small bunch",
+      "ingredient_name": "fresh dill"
+    },
+    {
+      "id": 217249,
+      "quantity": "4 fl oz",
+      "ingredient_name": "heavy whipping cream"
+    },
+    {
+      "id": 217243,
+      "quantity": "10 oz",
+      "ingredient_name": "macaroni (elbow) pasta"
+    },
+    {
+      "id": 217247,
+      "quantity": "½ medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 217251,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "sea scallops"
+    },
+    {
+      "id": 217246,
+      "quantity": "4 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 217244,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 217242,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 217245,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 656.16,
+    "alcohol": 0,
+    "ash": 10.59,
+    "caffeine": 0,
+    "water": 428.41,
+    "carbs": 67.87,
+    "fiber": 4.65,
+    "starch": 48.1,
+    "sugars": 8.59,
+    "fructose": 3.04,
+    "galactose": 0,
+    "glucose": 2.63,
+    "lactose": 0.83,
+    "maltose": 1.39,
+    "sucrose": 0.69,
+    "sugar_alcohol": 0,
+    "fat": 27.7,
+    "monounsaturated": 13.62,
+    "polyunsaturated": 2.74,
+    "omega_3": 0.6,
+    "omega_6": 2.14,
+    "saturated": 9.45,
+    "transfats": 0.44,
+    "cholesterol": 81.58,
+    "protein": 34.39,
+    "alanine": 1.45,
+    "arginine": 1.66,
+    "aspartic_acid": 2.5,
+    "cystine": 0.43,
+    "glutamic_acid": 6.27,
+    "glycine": 2.25,
+    "histidine": 0.64,
+    "isoleucine": 1.26,
+    "leucine": 2.23,
+    "lysine": 1.78,
+    "methionine": 0.67,
+    "phenylalanine": 1.24,
+    "proline": 1.81,
+    "serine": 1.24,
+    "threonine": 1.1,
+    "tryptophan": 0.35,
+    "tyrosine": 0.82,
+    "valine": 1.28,
+    "b1_thiamine": 0.75,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 8.16,
+    "b5_pantothenic_acid": 1.27,
+    "b6_pyridoxine": 0.59,
+    "b12_cobalamin": 2.51,
+    "choline": 150.29,
+    "folate": 256.55,
+    "vitamin_a": 1375.76,
+    "vitamin_c": 42.23,
+    "vitamin_d": 9.73,
+    "vitamin_e": 2.72,
+    "vitamin_k": 37.59,
+    "calcium": 98.08,
+    "copper": 0.4,
+    "iron": 4.45,
+    "magnesium": 118.5,
+    "manganese": 1.19,
+    "phosphorus": 822.51,
+    "potassium": 1166.46,
+    "selenium": 67.33,
+    "sodium": 723.87,
+    "zinc": 3.4
+  }
 }

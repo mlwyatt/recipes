@@ -1,986 +1,205 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 17457,
-        "recipe_id": 2070,
-        "serving_count": 4,
-        "cooking_minutes": 15,
-        "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-        "slug": "mixed-berry-lime-smoothie-bowl-banana-granola",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 283320,
-            "primary_message": "This recipe will make about 6 cups of smoothie. Work in batches to best fit your blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 283321,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 bananas\n1 lime\n1 (6 oz) pkg blackberries"
-          },
-          {
-            "id": 283322,
-            "primary_message": "Peel and thinly slice bananas; set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 283323,
-            "primary_message": "Zest and juice lime into a blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 283324,
-            "primary_message": "Add frozen mixed berries, yogurt, milk, honey, and cinnamon to the blender.",
-            "secondary_message": "4 cup frozen mixed berries\n2 cups plain Greek yogurt\n8 fl oz (1 cup) whole milk\n¼ cup honey\n½ tsp cinnamon, ground"
-          },
-          {
-            "id": 283325,
-            "primary_message": "Blend on high speed until smooth, 1-2 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 283326,
-            "primary_message": "To serve, divide smoothie between bowls and top with banana, blackberries, and granola. Enjoy!",
-            "secondary_message": "1 ⅓ cup granola"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 299863,
-            "quantity": "2",
-            "ingredient_name": "bananas"
-          },
-          {
-            "id": 299857,
-            "quantity": "1 (6 oz) pkg",
-            "ingredient_name": "blackberries"
-          },
-          {
-            "id": 299864,
-            "quantity": "4 cups",
-            "ingredient_name": "frozen mixed berries"
-          },
-          {
-            "id": 299865,
-            "quantity": "320 ml",
-            "ingredient_name": "granola"
-          },
-          {
-            "id": 299862,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 299861,
-            "quantity": "2 cups",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 299860,
-            "quantity": "8 fl oz",
-            "ingredient_name": "whole milk"
-          },
-          {
-            "id": 299858,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          },
-          {
-            "id": 299859,
-            "quantity": "",
-            "ingredient_name": "honey"
-          }
-        ],
-        "nutrition": {
-          "energy": 498.85,
-          "alcohol": 0,
-          "ash": 3.61,
-          "caffeine": 0,
-          "water": 434.73,
-          "carbs": 81.81,
-          "fiber": 11.51,
-          "starch": 17.73,
-          "sugars": 50.55,
-          "fructose": 17.07,
-          "galactose": 1.54,
-          "glucose": 15.7,
-          "lactose": 6.19,
-          "maltose": 0.35,
-          "sucrose": 2.42,
-          "sugar_alcohol": 0.04,
-          "fat": 12.04,
-          "monounsaturated": 4.66,
-          "polyunsaturated": 3.28,
-          "omega_3": 0.36,
-          "omega_6": 2.88,
-          "saturated": 2.76,
-          "transfats": 0.09,
-          "cholesterol": 12.22,
-          "protein": 21.01,
-          "alanine": 0.92,
-          "arginine": 0.92,
-          "aspartic_acid": 2.1,
-          "cystine": 0.33,
-          "glutamic_acid": 4.09,
-          "glycine": 0.61,
-          "histidine": 0.48,
-          "isoleucine": 0.95,
-          "leucine": 1.78,
-          "lysine": 1.5,
-          "methionine": 0.39,
-          "phenylalanine": 0.84,
-          "proline": 1.34,
-          "serine": 1.02,
-          "threonine": 0.89,
-          "tryptophan": 0.34,
-          "tyrosine": 0.66,
-          "valine": 1.08,
-          "b1_thiamine": 0.31,
-          "b2_riboflavin": 0.67,
-          "b3_niacin": 2.56,
-          "b5_pantothenic_acid": 1.27,
-          "b6_pyridoxine": 0.31,
-          "b12_cobalamin": 1.19,
-          "choline": 61.36,
-          "folate": 88.58,
-          "vitamin_a": 297.77,
-          "vitamin_c": 94.86,
-          "vitamin_d": 31.11,
-          "vitamin_e": 5.36,
-          "vitamin_k": 15.1,
-          "calcium": 278.68,
-          "copper": 0.45,
-          "iron": 3.44,
-          "magnesium": 113.32,
-          "manganese": 2.41,
-          "phosphorus": 413.08,
-          "potassium": 840.73,
-          "selenium": 25.24,
-          "sodium": 85.42,
-          "zinc": 2.94
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/mixed-berry-lime-smoothie-bowl-banana-granola/17457",
-      "altVariants": [
-        {
-          "id": 17457,
-          "recipe_id": 2070,
-          "group_label": "Default",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "published_recipe_uuid": "71149a01-2bf2-4d36-b0c2-84efb57eff7c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309641000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            398,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            960,
-            320,
-            1,
-            2,
-            8,
-            2.5,
-            60
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17456,
-          "recipe_id": 2070,
-          "group_label": "Default",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "published_recipe_uuid": "124cd825-779a-4328-86e9-1044d1cf2e5e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309641000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            398,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            480,
-            160,
-            0.5,
-            1,
-            4,
-            1.25,
-            30
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17461,
-          "recipe_id": 2070,
-          "group_label": "Nut-free",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17461/thumbnail_5c9cd994-6188-4759-a880-afeef5cc43ad.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17461/presentation_5c9cd994-6188-4759-a880-afeef5cc43ad.jpeg",
-          "published_recipe_uuid": "958105d8-62e4-4c0e-a6d3-6d9862ed8a66",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309644000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            437,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1440,
-            480,
-            1.5,
-            3,
-            12,
-            3.75,
-            90
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17460,
-          "recipe_id": 2070,
-          "group_label": "Nut-free",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17460/thumbnail_fa04a80a-2b73-4aed-9676-af500b727910.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17460/presentation_fa04a80a-2b73-4aed-9676-af500b727910.jpeg",
-          "published_recipe_uuid": "1ef9bb1c-d629-4258-8d11-1d75baaa4f7a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309644000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            437,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            960,
-            320,
-            1,
-            2,
-            8,
-            2.5,
-            60
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17459,
-          "recipe_id": 2070,
-          "group_label": "Nut-free",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17459/thumbnail_de3af2a7-1a29-4ecf-8655-04b3edc7aee6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17459/presentation_de3af2a7-1a29-4ecf-8655-04b3edc7aee6.jpeg",
-          "published_recipe_uuid": "57e344a4-8321-45d6-a2e6-adab56a941e2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309643000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            437,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            480,
-            160,
-            0.5,
-            1,
-            4,
-            1.25,
-            30
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17458,
-          "recipe_id": 2070,
-          "group_label": "Default",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "published_recipe_uuid": "92540f3d-c3e3-4bf6-aa06-ff678d3290d1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309643000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            398,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1440,
-            480,
-            1.5,
-            3,
-            12,
-            3.75,
-            90
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17467,
-          "recipe_id": 2070,
-          "group_label": "Nut-free",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17467/thumbnail_8af0a0a7-5f42-4e8d-9f69-e41094a6d8da.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17467/presentation_8af0a0a7-5f42-4e8d-9f69-e41094a6d8da.jpeg",
-          "published_recipe_uuid": "4a0f8ba5-5f1f-46d7-9e98-1c5ca584428e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309647000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            437,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1440,
-            480,
-            1.5,
-            3,
-            355,
-            3.75,
-            90
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17466,
-          "recipe_id": 2070,
-          "group_label": "Nut-free",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17466/thumbnail_276ba81c-2c2e-43c5-9456-28d71acae8e8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17466/presentation_276ba81c-2c2e-43c5-9456-28d71acae8e8.jpeg",
-          "published_recipe_uuid": "9a62dd61-3770-4e4e-a327-ec6baf431614",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309647000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            437,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            960,
-            320,
-            1,
-            2,
-            237,
-            2.5,
-            60
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17465,
-          "recipe_id": 2070,
-          "group_label": "Nut-free",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17465/thumbnail_2b45b79c-829c-4450-b5e9-665857e14244.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17465/presentation_2b45b79c-829c-4450-b5e9-665857e14244.jpeg",
-          "published_recipe_uuid": "5ed194dc-d936-4e1c-bb1d-0322c5b1102a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309646000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            437,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            480,
-            160,
-            0.5,
-            1,
-            118,
-            1.25,
-            30
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17464,
-          "recipe_id": 2070,
-          "group_label": "Default",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "published_recipe_uuid": "1ac02e7a-4544-422f-b385-41be9ca81e60",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309646000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            398,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1440,
-            480,
-            1.5,
-            3,
-            355,
-            3.75,
-            90
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17463,
-          "recipe_id": 2070,
-          "group_label": "Default",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "published_recipe_uuid": "9d24115e-97d0-401a-96c1-d16fef6c2649",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309645000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            398,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            960,
-            320,
-            1,
-            2,
-            237,
-            2.5,
-            60
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        },
-        {
-          "id": 17462,
-          "recipe_id": 2070,
-          "group_label": "Default",
-          "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
-          "published_recipe_uuid": "b78e47ac-29f2-4861-9ca1-ad62254129c6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641309645000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            317,
-            34,
-            397,
-            398,
-            228,
-            122,
-            118,
-            74,
-            103
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            480,
-            160,
-            0.5,
-            1,
-            118,
-            1.25,
-            30
-          ],
-          "average_rating": 0.886,
-          "rating_count": 35,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": "Not a morning person? Mornings just can't be that bad when you're eating a breakfast this fun and yummy",
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.4
-      }
+  "id": 17457,
+  "recipe_id": 2070,
+  "serving_count": 4,
+  "cooking_minutes": 15,
+  "name": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
+  "slug": "mixed-berry-lime-smoothie-bowl-banana-granola",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/thumbnail_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "mixed-berry-lime-smoothie-bowl-banana-granola",
-    "variantId": "17457"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 283320,
+      "primary_message": "This recipe will make about 6 cups of smoothie. Work in batches to best fit your blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 283321,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 bananas\n1 lime\n1 (6 oz) pkg blackberries"
+    },
+    {
+      "id": 283322,
+      "primary_message": "Peel and thinly slice bananas; set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 283323,
+      "primary_message": "Zest and juice lime into a blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 283324,
+      "primary_message": "Add frozen mixed berries, yogurt, milk, honey, and cinnamon to the blender.",
+      "secondary_message": "4 cup frozen mixed berries\n2 cups plain Greek yogurt\n8 fl oz (1 cup) whole milk\n¼ cup honey\n½ tsp cinnamon, ground"
+    },
+    {
+      "id": 283325,
+      "primary_message": "Blend on high speed until smooth, 1-2 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 283326,
+      "primary_message": "To serve, divide smoothie between bowls and top with banana, blackberries, and granola. Enjoy!",
+      "secondary_message": "1 ⅓ cup granola"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 299863,
+      "quantity": "2",
+      "ingredient_name": "bananas"
+    },
+    {
+      "id": 299857,
+      "quantity": "1 (6 oz) pkg",
+      "ingredient_name": "blackberries"
+    },
+    {
+      "id": 299864,
+      "quantity": "4 cups",
+      "ingredient_name": "frozen mixed berries"
+    },
+    {
+      "id": 299865,
+      "quantity": "320 ml",
+      "ingredient_name": "granola"
+    },
+    {
+      "id": 299862,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 299861,
+      "quantity": "2 cups",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 299860,
+      "quantity": "8 fl oz",
+      "ingredient_name": "whole milk"
+    },
+    {
+      "id": 299858,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    },
+    {
+      "id": 299859,
+      "quantity": "",
+      "ingredient_name": "honey"
+    }
+  ],
+  "nutrition": {
+    "energy": 498.85,
+    "alcohol": 0,
+    "ash": 3.61,
+    "caffeine": 0,
+    "water": 434.73,
+    "carbs": 81.81,
+    "fiber": 11.51,
+    "starch": 17.73,
+    "sugars": 50.55,
+    "fructose": 17.07,
+    "galactose": 1.54,
+    "glucose": 15.7,
+    "lactose": 6.19,
+    "maltose": 0.35,
+    "sucrose": 2.42,
+    "sugar_alcohol": 0.04,
+    "fat": 12.04,
+    "monounsaturated": 4.66,
+    "polyunsaturated": 3.28,
+    "omega_3": 0.36,
+    "omega_6": 2.88,
+    "saturated": 2.76,
+    "transfats": 0.09,
+    "cholesterol": 12.22,
+    "protein": 21.01,
+    "alanine": 0.92,
+    "arginine": 0.92,
+    "aspartic_acid": 2.1,
+    "cystine": 0.33,
+    "glutamic_acid": 4.09,
+    "glycine": 0.61,
+    "histidine": 0.48,
+    "isoleucine": 0.95,
+    "leucine": 1.78,
+    "lysine": 1.5,
+    "methionine": 0.39,
+    "phenylalanine": 0.84,
+    "proline": 1.34,
+    "serine": 1.02,
+    "threonine": 0.89,
+    "tryptophan": 0.34,
+    "tyrosine": 0.66,
+    "valine": 1.08,
+    "b1_thiamine": 0.31,
+    "b2_riboflavin": 0.67,
+    "b3_niacin": 2.56,
+    "b5_pantothenic_acid": 1.27,
+    "b6_pyridoxine": 0.31,
+    "b12_cobalamin": 1.19,
+    "choline": 61.36,
+    "folate": 88.58,
+    "vitamin_a": 297.77,
+    "vitamin_c": 94.86,
+    "vitamin_d": 31.11,
+    "vitamin_e": 5.36,
+    "vitamin_k": 15.1,
+    "calcium": 278.68,
+    "copper": 0.45,
+    "iron": 3.44,
+    "magnesium": 113.32,
+    "manganese": 2.41,
+    "phosphorus": 413.08,
+    "potassium": 840.73,
+    "selenium": 25.24,
+    "sodium": 85.42,
+    "zinc": 2.94
+  }
 }

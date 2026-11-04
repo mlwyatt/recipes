@@ -1,713 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 1048,
-        "recipe_id": 38,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
-        "slug": "broccoli-bell-pepper-chickpea-salad-feta-zesty-lemon-dressing",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 7999,
-            "primary_message": "Fill a medium saucepan about halfway with water, cover, and bring to a boil.",
-            "secondary_message": ""
-          },
-          {
-            "id": 8000,
-            "primary_message": "Wash broccoli, separate into bite-sized florets, and cut thick stems into smaller pieces.",
-            "secondary_message": "2 crowns broccoli"
-          },
-          {
-            "id": 8001,
-            "primary_message": "Once water is boiling, add broccoli to saucepan and cook until bright green and tender-crisp, 1-2 minutes. Drain and run under cold water. Set aside to drain excess water.",
-            "secondary_message": ""
-          },
-          {
-            "id": 8002,
-            "primary_message": "Peel and mince garlic. Wash lemon and grate 2 tsp of zest. In a large bowl, prepare dressing by whisking together garlic, lemon zest and juice, oil, Dijon, honey, salt, and pepper.",
-            "secondary_message": "2 cloves garlic\r\n2 lemons\r\n6 tbsp extra virgin olive oil\r\n2 tsp Dijon mustard\r\n1 tsp honey\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 8003,
-            "primary_message": "Rinse and drain chickpeas. Place on paper towels and pat dry. Add to bowl with dressing and toss to coat.",
-            "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 8004,
-            "primary_message": "Wash and dry bell peppers and parsley. Seed and medium dice the peppers. Shave parsley leaves off the stems; discard the stems and mince the leaves. Add to bowl.",
-            "secondary_message": "2 red bell peppers\r\n1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 8005,
-            "primary_message": "Add broccoli and feta to bowl. Toss salad.",
-            "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
-          },
-          {
-            "id": 8006,
-            "primary_message": "To serve, place salad on a plate or in a bowl. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 12804,
-            "quantity": "2 crowns",
-            "ingredient_name": "broccoli"
-          },
-          {
-            "id": 12803,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 12802,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 12801,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 12800,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 12799,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 12798,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 12797,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 12796,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 12795,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 12794,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 12793,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 501.48,
-          "alcohol": 0,
-          "ash": 5.01,
-          "caffeine": 0,
-          "water": 269.52,
-          "carbs": 43.84,
-          "fiber": 12.04,
-          "starch": 19.52,
-          "sugars": 7.9,
-          "fructose": 2.98,
-          "galactose": 0.06,
-          "glucose": 2.48,
-          "lactose": 1.33,
-          "maltose": 0.2,
-          "sucrose": 0.81,
-          "sugar_alcohol": 0,
-          "fat": 30.91,
-          "monounsaturated": 17.07,
-          "polyunsaturated": 3.7,
-          "omega_3": 0.33,
-          "omega_6": 3.36,
-          "saturated": 7.42,
-          "transfats": 0.33,
-          "cholesterol": 25.14,
-          "protein": 16.71,
-          "alanine": 0.7,
-          "arginine": 1.2,
-          "aspartic_acid": 1.79,
-          "cystine": 0.19,
-          "glutamic_acid": 2.92,
-          "glycine": 0.53,
-          "histidine": 0.44,
-          "isoleucine": 0.71,
-          "leucine": 1.22,
-          "lysine": 1.13,
-          "methionine": 0.26,
-          "phenylalanine": 0.83,
-          "proline": 0.91,
-          "serine": 0.95,
-          "threonine": 0.63,
-          "tryptophan": 0.19,
-          "tyrosine": 0.48,
-          "valine": 0.84,
-          "b1_thiamine": 0.2,
-          "b2_riboflavin": 0.44,
-          "b3_niacin": 1.85,
-          "b5_pantothenic_acid": 1.36,
-          "b6_pyridoxine": 0.64,
-          "b12_cobalamin": 0.48,
-          "choline": 73.12,
-          "folate": 179.23,
-          "vitamin_a": 706.81,
-          "vitamin_c": 181.81,
-          "vitamin_d": 4.52,
-          "vitamin_e": 5.82,
-          "vitamin_k": 108.17,
-          "calcium": 268.15,
-          "copper": 0.41,
-          "iron": 3.48,
-          "magnesium": 74.17,
-          "manganese": 1.45,
-          "phosphorus": 290.9,
-          "potassium": 670.56,
-          "selenium": 11.31,
-          "sodium": 568.47,
-          "zinc": 2.33
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/broccoli-bell-pepper-chickpea-salad-feta-zesty-lemon-dressing/1048",
-      "altVariants": [
-        {
-          "id": 4787,
-          "recipe_id": 38,
-          "group_label": "Classic",
-          "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "published_recipe_uuid": "b1573779-0c81-4e88-97d0-a988909f6a44",
-          "fallback_published_recipe_uuids": [
-            "0ab98678-7443-4e3b-a435-d3f9bb8e24c9",
-            "8811c692-e7ba-467a-a648-9e2f0a4362cb"
-          ],
-          "first_published_at": 1550527905000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            32,
-            92,
-            24,
-            106,
-            192,
-            150,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            3,
-            1.5,
-            3,
-            3,
-            1.875,
-            15,
-            135,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.854,
-          "rating_count": 65,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1048,
-          "recipe_id": 38,
-          "group_label": "Classic",
-          "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "published_recipe_uuid": "f8af85ca-ad98-4620-8dd3-b413d7cefa0b",
-          "fallback_published_recipe_uuids": [
-            "f9047d03-96ce-4e25-ad1d-ec27072036a6",
-            "841da089-ea0b-414e-8de6-f51cfbbf73f6",
-            "5da7ee7e-bc87-4601-aefb-95c1a3db9dbc"
-          ],
-          "first_published_at": 1447956183000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            105,
-            32,
-            92,
-            24,
-            106,
-            192,
-            150,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            10,
-            90,
-            5,
-            2.5
-          ],
-          "average_rating": 0.854,
-          "rating_count": 65,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 804,
-          "recipe_id": 38,
-          "group_label": "Classic",
-          "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "published_recipe_uuid": "f6c79dcc-346f-4c10-be02-087950e51dc0",
-          "fallback_published_recipe_uuids": [
-            "c259e22b-005e-403e-87be-77c6351e85c1",
-            "42b4c63a-10bf-4fcb-8ae8-5554dec846fa",
-            "7491b2dc-32c6-471c-babc-66a9c932660f"
-          ],
-          "first_published_at": 1447956143000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            105,
-            32,
-            92,
-            24,
-            106,
-            192,
-            150,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            5,
-            45,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.854,
-          "rating_count": 65,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1047,
-          "recipe_id": 38,
-          "group_label": "Classic",
-          "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "published_recipe_uuid": "7fc7c650-b116-414a-b01e-7a1224f3c183",
-          "fallback_published_recipe_uuids": [
-            "d1a88c7e-04bd-497c-94d4-ed846c20bfc8",
-            "5131e402-dd5c-4288-8606-21ac4102c512",
-            "582feea4-bd9f-493b-ad39-aca599eab874"
-          ],
-          "first_published_at": 1447956183000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            105,
-            32,
-            92,
-            24,
-            106,
-            192,
-            150,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            10,
-            90,
-            5,
-            2.5
-          ],
-          "average_rating": 0.854,
-          "rating_count": 65,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 806,
-          "recipe_id": 38,
-          "group_label": "Classic",
-          "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "published_recipe_uuid": "d2663123-a211-4a75-815c-37552786469f",
-          "fallback_published_recipe_uuids": [
-            "eda078e1-dc9b-4273-9552-c2aa461b6472",
-            "2b9188a6-cfee-494d-87f0-a98b5bfc29a2",
-            "6a26627a-77a2-41a3-b867-5e9512b1002a"
-          ],
-          "first_published_at": 1447956143000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            105,
-            32,
-            92,
-            24,
-            106,
-            192,
-            150,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            5,
-            45,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.854,
-          "rating_count": 65,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4786,
-          "recipe_id": 38,
-          "group_label": "Classic",
-          "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
-          "published_recipe_uuid": "77d59e48-5912-424b-bb0a-dfef377096d7",
-          "fallback_published_recipe_uuids": [
-            "0ffa640f-88e2-416e-b102-5d19de8012b0",
-            "1d4413b7-0fec-4f37-959e-ca47f6d1b1d7"
-          ],
-          "first_published_at": 1550527896000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            32,
-            92,
-            24,
-            106,
-            192,
-            150,
-            72,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            3,
-            1.5,
-            3,
-            3,
-            1.875,
-            15,
-            135,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.854,
-          "rating_count": 65,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": 65,
-        "reviewScore": 4.3
-      }
+  "id": 1048,
+  "recipe_id": 38,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Broccoli, Bell Pepper & Chickpea Salad with Feta & Zesty Lemon Dressing",
+  "slug": "broccoli-bell-pepper-chickpea-salad-feta-zesty-lemon-dressing",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/thumbnail_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/38/presentation_9d9cdd61-cdf8-47c4-94df-d83c7c326364.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "broccoli-bell-pepper-chickpea-salad-feta-zesty-lemon-dressing",
-    "variantId": "1048"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 7999,
+      "primary_message": "Fill a medium saucepan about halfway with water, cover, and bring to a boil.",
+      "secondary_message": ""
+    },
+    {
+      "id": 8000,
+      "primary_message": "Wash broccoli, separate into bite-sized florets, and cut thick stems into smaller pieces.",
+      "secondary_message": "2 crowns broccoli"
+    },
+    {
+      "id": 8001,
+      "primary_message": "Once water is boiling, add broccoli to saucepan and cook until bright green and tender-crisp, 1-2 minutes. Drain and run under cold water. Set aside to drain excess water.",
+      "secondary_message": ""
+    },
+    {
+      "id": 8002,
+      "primary_message": "Peel and mince garlic. Wash lemon and grate 2 tsp of zest. In a large bowl, prepare dressing by whisking together garlic, lemon zest and juice, oil, Dijon, honey, salt, and pepper.",
+      "secondary_message": "2 cloves garlic\r\n2 lemons\r\n6 tbsp extra virgin olive oil\r\n2 tsp Dijon mustard\r\n1 tsp honey\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 8003,
+      "primary_message": "Rinse and drain chickpeas. Place on paper towels and pat dry. Add to bowl with dressing and toss to coat.",
+      "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 8004,
+      "primary_message": "Wash and dry bell peppers and parsley. Seed and medium dice the peppers. Shave parsley leaves off the stems; discard the stems and mince the leaves. Add to bowl.",
+      "secondary_message": "2 red bell peppers\r\n1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 8005,
+      "primary_message": "Add broccoli and feta to bowl. Toss salad.",
+      "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
+    },
+    {
+      "id": 8006,
+      "primary_message": "To serve, place salad on a plate or in a bowl. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 12804,
+      "quantity": "2 crowns",
+      "ingredient_name": "broccoli"
+    },
+    {
+      "id": 12803,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 12802,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 12801,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 12800,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 12799,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 12798,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 12797,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 12796,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 12795,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 12794,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 12793,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 501.48,
+    "alcohol": 0,
+    "ash": 5.01,
+    "caffeine": 0,
+    "water": 269.52,
+    "carbs": 43.84,
+    "fiber": 12.04,
+    "starch": 19.52,
+    "sugars": 7.9,
+    "fructose": 2.98,
+    "galactose": 0.06,
+    "glucose": 2.48,
+    "lactose": 1.33,
+    "maltose": 0.2,
+    "sucrose": 0.81,
+    "sugar_alcohol": 0,
+    "fat": 30.91,
+    "monounsaturated": 17.07,
+    "polyunsaturated": 3.7,
+    "omega_3": 0.33,
+    "omega_6": 3.36,
+    "saturated": 7.42,
+    "transfats": 0.33,
+    "cholesterol": 25.14,
+    "protein": 16.71,
+    "alanine": 0.7,
+    "arginine": 1.2,
+    "aspartic_acid": 1.79,
+    "cystine": 0.19,
+    "glutamic_acid": 2.92,
+    "glycine": 0.53,
+    "histidine": 0.44,
+    "isoleucine": 0.71,
+    "leucine": 1.22,
+    "lysine": 1.13,
+    "methionine": 0.26,
+    "phenylalanine": 0.83,
+    "proline": 0.91,
+    "serine": 0.95,
+    "threonine": 0.63,
+    "tryptophan": 0.19,
+    "tyrosine": 0.48,
+    "valine": 0.84,
+    "b1_thiamine": 0.2,
+    "b2_riboflavin": 0.44,
+    "b3_niacin": 1.85,
+    "b5_pantothenic_acid": 1.36,
+    "b6_pyridoxine": 0.64,
+    "b12_cobalamin": 0.48,
+    "choline": 73.12,
+    "folate": 179.23,
+    "vitamin_a": 706.81,
+    "vitamin_c": 181.81,
+    "vitamin_d": 4.52,
+    "vitamin_e": 5.82,
+    "vitamin_k": 108.17,
+    "calcium": 268.15,
+    "copper": 0.41,
+    "iron": 3.48,
+    "magnesium": 74.17,
+    "manganese": 1.45,
+    "phosphorus": 290.9,
+    "potassium": 670.56,
+    "selenium": 11.31,
+    "sodium": 568.47,
+    "zinc": 2.33
+  }
 }

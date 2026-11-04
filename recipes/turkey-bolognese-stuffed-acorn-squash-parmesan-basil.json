@@ -1,1029 +1,230 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 26306,
-        "recipe_id": 2955,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
-        "slug": "turkey-bolognese-stuffed-acorn-squash-parmesan-basil",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 425085,
-            "primary_message": "Preheat oven to 500°F and place rack in the center position. Line a baking sheet pan with aluminum foil to make cleanup easier (optional).",
-            "secondary_message": null
-          },
-          {
-            "id": 425086,
-            "primary_message": "Wash and dry acorn squash; halve lengthwise, trim ends, then scoop out the seeds. Rub the inside of each squash with oil, then season with salt and pepper; arrange halves, cut-side down, on the baking sheet.",
-            "secondary_message": "2 acorn squash\n2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 425087,
-            "primary_message": "Place squash in the oven (it doesn't have to be fully heated) and roast until tender, so a knife can easily pierce through the flesh, 20-25 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 425088,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 425089,
-            "primary_message": "While the skillet heats up, wash, dry, trim, and small dice celery.",
-            "secondary_message": "4 sticks celery"
-          },
-          {
-            "id": 425090,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add celery, turkey, and spices; cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes. ",
-            "secondary_message": "4 tsp extra virgin olive oil\n1 ½ lb ground turkey\n2 tsp Italian seasoning\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 425091,
-            "primary_message": "While the turkey is cooking, wash, dry, and pick basil leaves off the stems; roll up crosswise and thinly slice into ribbons.",
-            "secondary_message": "1 small pkg fresh basil"
-          },
-          {
-            "id": 425092,
-            "primary_message": "Add half of the basil (reserving the rest for garnish) and marinara sauce to the skillet; stir to combine and bring to a simmer. Once simmering, reduce heat to low and cook until the bolognese sauce thickens slightly, 2-3 minutes. Remove from heat and cover with a lid to keep warm.",
-            "secondary_message": "1 (24 oz) jar marinara sauce"
-          },
-          {
-            "id": 425093,
-            "primary_message": "To serve, divide squash halves between plates and fill with the turkey bolognese; top with cheese and reserved basil. Enjoy!",
-            "secondary_message": "½ cup Parmesan cheese, shredded"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 455483,
-            "quantity": "2",
-            "ingredient_name": "acorn squash"
-          },
-          {
-            "id": 455481,
-            "quantity": "4 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 455476,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 455482,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ground turkey"
-          },
-          {
-            "id": 455484,
-            "quantity": "1 (24 oz) jar",
-            "ingredient_name": "marinara sauce"
-          },
-          {
-            "id": 455485,
-            "quantity": "½ cup",
-            "ingredient_name": "Parmesan cheese, shredded"
-          },
-          {
-            "id": 455478,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 455477,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 455479,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 455480,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 577.61,
-          "alcohol": 0,
-          "ash": 10.14,
-          "caffeine": 0,
-          "water": 498.5,
-          "carbs": 47.53,
-          "fiber": 13.6,
-          "starch": 18.75,
-          "sugars": 3.46,
-          "fructose": 5.72,
-          "galactose": 0.21,
-          "glucose": 4.94,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 1.8,
-          "sugar_alcohol": 0,
-          "fat": 26.66,
-          "monounsaturated": 11.38,
-          "polyunsaturated": 5.62,
-          "omega_3": 0.44,
-          "omega_6": 4.33,
-          "saturated": 7.2,
-          "transfats": 0.19,
-          "cholesterol": 127.37,
-          "protein": 44.12,
-          "alanine": 2.38,
-          "arginine": 2.79,
-          "aspartic_acid": 3.93,
-          "cystine": 0.42,
-          "glutamic_acid": 7.17,
-          "glycine": 2.04,
-          "histidine": 1.27,
-          "isoleucine": 1.91,
-          "leucine": 3.48,
-          "lysine": 3.63,
-          "methionine": 1.17,
-          "phenylalanine": 1.72,
-          "proline": 2.27,
-          "serine": 1.86,
-          "threonine": 1.83,
-          "tryptophan": 0.51,
-          "tyrosine": 1.6,
-          "valine": 2.08,
-          "b1_thiamine": 0.5,
-          "b2_riboflavin": 0.37,
-          "b3_niacin": 13.61,
-          "b5_pantothenic_acid": 2.96,
-          "b6_pyridoxine": 1.43,
-          "b12_cobalamin": 1.9,
-          "choline": 114.92,
-          "folate": 74.57,
-          "vitamin_a": 1337.2,
-          "vitamin_c": 25.91,
-          "vitamin_d": 23.88,
-          "vitamin_e": 1.64,
-          "vitamin_k": 55.35,
-          "calcium": 377.97,
-          "copper": 0.55,
-          "iron": 6.05,
-          "magnesium": 181.94,
-          "manganese": 0.98,
-          "phosphorus": 612.36,
-          "potassium": 2025.5,
-          "selenium": 42.31,
-          "sodium": 1088.65,
-          "zinc": 5.29
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/turkey-bolognese-stuffed-acorn-squash-parmesan-basil/26306",
-      "altVariants": [
-        {
-          "id": 26305,
-          "recipe_id": 2955,
-          "group_label": "Default",
-          "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "published_recipe_uuid": "8925cc95-8687-471b-a1f3-30d1966a8681",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165258000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            170,
-            409,
-            427,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.75,
-            0.5,
-            0.25,
-            1.875,
-            15,
-            5,
-            2.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26310,
-          "recipe_id": 2955,
-          "group_label": "Vegetarian",
-          "name": "Veggie \"Bolognese\" Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26310/thumbnail_55265ba7-821d-4c4f-a075-6a3b4fb5f8ef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26310/presentation_55265ba7-821d-4c4f-a075-6a3b4fb5f8ef.jpeg",
-          "published_recipe_uuid": "9ecd2edc-ec1b-46c8-b78d-02f00a58e2f6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165256000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            409,
-            427,
-            444,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1,
-            1.5,
-            0.75,
-            24,
-            6.25,
-            45,
-            15,
-            7.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26307,
-          "recipe_id": 2955,
-          "group_label": "Default",
-          "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "published_recipe_uuid": "dec05723-911b-4e50-ae04-ef92ab8c657b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165257000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            170,
-            409,
-            427,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1,
-            2.25,
-            1.5,
-            0.75,
-            6.25,
-            45,
-            15,
-            7.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26306,
-          "recipe_id": 2955,
-          "group_label": "Default",
-          "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "published_recipe_uuid": "f3348a1a-a84f-4977-8e50-e56bcc14630b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165258000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            170,
-            409,
-            427,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1.5,
-            1,
-            0.5,
-            3.75,
-            30,
-            10,
-            5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26309,
-          "recipe_id": 2955,
-          "group_label": "Vegetarian",
-          "name": "Veggie \"Bolognese\" Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26309/thumbnail_5d30cd15-9141-4d45-8210-b1a79348b734.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26309/presentation_5d30cd15-9141-4d45-8210-b1a79348b734.jpeg",
-          "published_recipe_uuid": "9bdd56f7-4b2a-4447-bbac-45105f6b6542",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165256000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            409,
-            427,
-            444,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1,
-            0.5,
-            16,
-            3.75,
-            30,
-            10,
-            5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26308,
-          "recipe_id": 2955,
-          "group_label": "Vegetarian",
-          "name": "Veggie \"Bolognese\" Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26308/thumbnail_9416b737-4c97-4ed1-9491-f0092b7b4e71.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26308/presentation_9416b737-4c97-4ed1-9491-f0092b7b4e71.jpeg",
-          "published_recipe_uuid": "73e4f481-eabb-485d-9d81-d79c65bfc4c7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165257000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            409,
-            427,
-            444,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.5,
-            0.25,
-            8,
-            1.875,
-            15,
-            5,
-            2.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26316,
-          "recipe_id": 2955,
-          "group_label": "Vegetarian",
-          "name": "Veggie \"Bolognese\" Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26316/thumbnail_48841f30-5781-4751-b7aa-88dcbf2c8403.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26316/presentation_48841f30-5781-4751-b7aa-88dcbf2c8403.jpeg",
-          "published_recipe_uuid": "1721d5e8-767e-495c-937a-1f0342bcc1b3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165254000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            409,
-            427,
-            444,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1,
-            1.5,
-            0.75,
-            680,
-            6.25,
-            45,
-            15,
-            7.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26315,
-          "recipe_id": 2955,
-          "group_label": "Vegetarian",
-          "name": "Veggie \"Bolognese\" Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26315/thumbnail_e6358a21-18ee-4f27-8f5f-a06ebc427c3c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26315/presentation_e6358a21-18ee-4f27-8f5f-a06ebc427c3c.jpeg",
-          "published_recipe_uuid": "c4ca45f7-d0ae-4ec1-a17a-735e627cc405",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165254000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            409,
-            427,
-            444,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1,
-            0.5,
-            454,
-            3.75,
-            30,
-            10,
-            5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26314,
-          "recipe_id": 2955,
-          "group_label": "Vegetarian",
-          "name": "Veggie \"Bolognese\" Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26314/thumbnail_37cf08b6-2497-4f4d-8b40-fb0841b40d89.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26314/presentation_37cf08b6-2497-4f4d-8b40-fb0841b40d89.jpeg",
-          "published_recipe_uuid": "b503dcb9-d8b0-49a7-8124-11a4c0ee2b72",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165255000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            409,
-            427,
-            444,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.5,
-            0.25,
-            227,
-            1.875,
-            15,
-            5,
-            2.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26313,
-          "recipe_id": 2955,
-          "group_label": "Default",
-          "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "published_recipe_uuid": "7635467b-8b65-419a-b498-f5230803fe5e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165255000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            170,
-            409,
-            427,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1,
-            1.02,
-            1.5,
-            0.75,
-            6.25,
-            45,
-            15,
-            7.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26312,
-          "recipe_id": 2955,
-          "group_label": "Default",
-          "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "published_recipe_uuid": "a783992f-87ee-4348-87fa-71e1255516e3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165256000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            170,
-            409,
-            427,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            0.68,
-            1,
-            0.5,
-            3.75,
-            30,
-            10,
-            5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        },
-        {
-          "id": 26311,
-          "recipe_id": 2955,
-          "group_label": "Default",
-          "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
-          "published_recipe_uuid": "2cdcea5e-862c-4653-a652-9d06b2405ce7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1698165256000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            315,
-            157,
-            28,
-            170,
-            409,
-            427,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.34,
-            0.5,
-            0.25,
-            1.875,
-            15,
-            5,
-            2.5
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Your regular Bolognese gets a turkey twist in this easy-to-eat convenient dinner",
-        "keywords": [
-          "Stuffed Vegetables"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 26306,
+  "recipe_id": 2955,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Turkey Bolognese Stuffed Acorn Squash with Parmesan & Basil",
+  "slug": "turkey-bolognese-stuffed-acorn-squash-parmesan-basil",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/thumbnail_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2955/presentation_51b1d9ff-dc09-446e-a998-4ffae0ded602.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "turkey-bolognese-stuffed-acorn-squash-parmesan-basil",
-    "variantId": "26306"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 425085,
+      "primary_message": "Preheat oven to 500°F and place rack in the center position. Line a baking sheet pan with aluminum foil to make cleanup easier (optional).",
+      "secondary_message": null
+    },
+    {
+      "id": 425086,
+      "primary_message": "Wash and dry acorn squash; halve lengthwise, trim ends, then scoop out the seeds. Rub the inside of each squash with oil, then season with salt and pepper; arrange halves, cut-side down, on the baking sheet.",
+      "secondary_message": "2 acorn squash\n2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 425087,
+      "primary_message": "Place squash in the oven (it doesn't have to be fully heated) and roast until tender, so a knife can easily pierce through the flesh, 20-25 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 425088,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 425089,
+      "primary_message": "While the skillet heats up, wash, dry, trim, and small dice celery.",
+      "secondary_message": "4 sticks celery"
+    },
+    {
+      "id": 425090,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add celery, turkey, and spices; cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes. ",
+      "secondary_message": "4 tsp extra virgin olive oil\n1 ½ lb ground turkey\n2 tsp Italian seasoning\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 425091,
+      "primary_message": "While the turkey is cooking, wash, dry, and pick basil leaves off the stems; roll up crosswise and thinly slice into ribbons.",
+      "secondary_message": "1 small pkg fresh basil"
+    },
+    {
+      "id": 425092,
+      "primary_message": "Add half of the basil (reserving the rest for garnish) and marinara sauce to the skillet; stir to combine and bring to a simmer. Once simmering, reduce heat to low and cook until the bolognese sauce thickens slightly, 2-3 minutes. Remove from heat and cover with a lid to keep warm.",
+      "secondary_message": "1 (24 oz) jar marinara sauce"
+    },
+    {
+      "id": 425093,
+      "primary_message": "To serve, divide squash halves between plates and fill with the turkey bolognese; top with cheese and reserved basil. Enjoy!",
+      "secondary_message": "½ cup Parmesan cheese, shredded"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 455483,
+      "quantity": "2",
+      "ingredient_name": "acorn squash"
+    },
+    {
+      "id": 455481,
+      "quantity": "4 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 455476,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 455482,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ground turkey"
+    },
+    {
+      "id": 455484,
+      "quantity": "1 (24 oz) jar",
+      "ingredient_name": "marinara sauce"
+    },
+    {
+      "id": 455485,
+      "quantity": "½ cup",
+      "ingredient_name": "Parmesan cheese, shredded"
+    },
+    {
+      "id": 455478,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 455477,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 455479,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 455480,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 577.61,
+    "alcohol": 0,
+    "ash": 10.14,
+    "caffeine": 0,
+    "water": 498.5,
+    "carbs": 47.53,
+    "fiber": 13.6,
+    "starch": 18.75,
+    "sugars": 3.46,
+    "fructose": 5.72,
+    "galactose": 0.21,
+    "glucose": 4.94,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 1.8,
+    "sugar_alcohol": 0,
+    "fat": 26.66,
+    "monounsaturated": 11.38,
+    "polyunsaturated": 5.62,
+    "omega_3": 0.44,
+    "omega_6": 4.33,
+    "saturated": 7.2,
+    "transfats": 0.19,
+    "cholesterol": 127.37,
+    "protein": 44.12,
+    "alanine": 2.38,
+    "arginine": 2.79,
+    "aspartic_acid": 3.93,
+    "cystine": 0.42,
+    "glutamic_acid": 7.17,
+    "glycine": 2.04,
+    "histidine": 1.27,
+    "isoleucine": 1.91,
+    "leucine": 3.48,
+    "lysine": 3.63,
+    "methionine": 1.17,
+    "phenylalanine": 1.72,
+    "proline": 2.27,
+    "serine": 1.86,
+    "threonine": 1.83,
+    "tryptophan": 0.51,
+    "tyrosine": 1.6,
+    "valine": 2.08,
+    "b1_thiamine": 0.5,
+    "b2_riboflavin": 0.37,
+    "b3_niacin": 13.61,
+    "b5_pantothenic_acid": 2.96,
+    "b6_pyridoxine": 1.43,
+    "b12_cobalamin": 1.9,
+    "choline": 114.92,
+    "folate": 74.57,
+    "vitamin_a": 1337.2,
+    "vitamin_c": 25.91,
+    "vitamin_d": 23.88,
+    "vitamin_e": 1.64,
+    "vitamin_k": 55.35,
+    "calcium": 377.97,
+    "copper": 0.55,
+    "iron": 6.05,
+    "magnesium": 181.94,
+    "manganese": 0.98,
+    "phosphorus": 612.36,
+    "potassium": 2025.5,
+    "selenium": 42.31,
+    "sodium": 1088.65,
+    "zinc": 5.29
+  }
 }

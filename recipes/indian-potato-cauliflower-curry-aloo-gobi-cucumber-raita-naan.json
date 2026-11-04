@@ -1,1358 +1,325 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 16311,
-        "recipe_id": 1914,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
-        "slug": "indian-potato-cauliflower-curry-aloo-gobi-cucumber-raita-naan",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 266980,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 medium head cauliflower\n2 (1 inch) pieces ginger root\n2 medium yellow potatoes\n2 tomatoes\n1 small bunch cilantro\n1 English cucumber"
-          },
-          {
-            "id": 266981,
-            "primary_message": "Cut off leaves from the cauliflower, separate into small florets, and cut the thick stems into smaller pieces. Place in a medium bowl and set aside. ",
-            "secondary_message": null
-          },
-          {
-            "id": 266982,
-            "primary_message": "Peel and mince ginger and garlic. ",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 266983,
-            "primary_message": "Preheat a large pot over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 266984,
-            "primary_message": "While the pot heats up, peel, halve, and small dice onion.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 266985,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add ginger, garlic, onion, and salt; cook, stirring occasionally, until softened, about 5 minutes.",
-            "secondary_message": "4 tsp virgin coconut oil\n½ tsp salt"
-          },
-          {
-            "id": 266986,
-            "primary_message": "Meanwhile, peel and small dice potatoes; medium dice tomatoes. Add both to the bowl with the cauliflower. ",
-            "secondary_message": null
-          },
-          {
-            "id": 266987,
-            "primary_message": "Add spices to the pot and continue to cook, stirring constantly, until fragrant, about 1 minute. ",
-            "secondary_message": "2 tsp curry powder\n2 tsp cumin, ground\n2 tsp coriander, ground\n1 tsp turmeric, ground\n1 tsp chili powder\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 266988,
-            "primary_message": "Add cauliflower, potato, tomato, and broth to the pot; stir to combine and bring to a boil over medium-high heat. Once boiling, reduce heat to a simmer and cover; cook, stirring occasionally, until veggies are tender, 15-18 minutes. (Reserve bowl for the next step.)",
-            "secondary_message": "16 fl oz (2 cups) chicken or vegetable broth"
-          },
-          {
-            "id": 266989,
-            "primary_message": "While the curry cooks, shave cilantro leaves off the stems; discard stems and mince the leaves. Place half in the reserved bowl (reserving the rest for the curry). ",
-            "secondary_message": null
-          },
-          {
-            "id": 266990,
-            "primary_message": "Trim and grate cucumber into the bowl with the cilantro; add yogurt, water, salt, and pepper. Stir to combine the raita and set aside. ",
-            "secondary_message": "1 cup plain Greek yogurt\n2 tbsp water\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 266991,
-            "primary_message": "Preheat oven to broil on high and position rack under the broiler.",
-            "secondary_message": null
-          },
-          {
-            "id": 266992,
-            "primary_message": "Divide naan between two baking sheet pans. Working in batches, place in the oven and broil, flipping once, until golden brown and toasted, 1-2 minutes. Remove from oven, spread with oil, and cut into quarters.",
-            "secondary_message": "4 flatbreads or naan\n1 tsp virgin coconut oil"
-          },
-          {
-            "id": 266993,
-            "primary_message": "When the curry is done, stir in reserved cilantro and remove from the heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 266994,
-            "primary_message": "Divide curry between bowls; serve with raita and naan on the side. Enjoy! ",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 281924,
-            "quantity": "1 medium head",
-            "ingredient_name": "cauliflower"
-          },
-          {
-            "id": 281927,
-            "quantity": "16 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 281926,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 281923,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 281928,
-            "quantity": "4",
-            "ingredient_name": "flatbreads or naan"
-          },
-          {
-            "id": 281912,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 281929,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 281919,
-            "quantity": "1 cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 281930,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 281922,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 281921,
-            "quantity": "2 medium",
-            "ingredient_name": "yellow potatoes"
-          },
-          {
-            "id": 281913,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 281915,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 281916,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 281925,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 281914,
-            "quantity": "",
-            "ingredient_name": "curry powder"
-          },
-          {
-            "id": 281917,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 281918,
-            "quantity": "",
-            "ingredient_name": "turmeric, ground"
-          },
-          {
-            "id": 281920,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 667.61,
-          "alcohol": 0,
-          "ash": 7.98,
-          "caffeine": 0,
-          "water": 629.41,
-          "carbs": 94.41,
-          "fiber": 11.68,
-          "starch": 67.26,
-          "sugars": 13.17,
-          "fructose": 3.86,
-          "galactose": 1.03,
-          "glucose": 4.19,
-          "lactose": 3.14,
-          "maltose": 0.01,
-          "sucrose": 0.83,
-          "sugar_alcohol": 0.02,
-          "fat": 22.85,
-          "monounsaturated": 4.81,
-          "polyunsaturated": 1.59,
-          "omega_3": 0.16,
-          "omega_6": 1.44,
-          "saturated": 14.26,
-          "transfats": 0.54,
-          "cholesterol": 40.29,
-          "protein": 26.68,
-          "alanine": 1.04,
-          "arginine": 1.03,
-          "aspartic_acid": 2.22,
-          "cystine": 0.41,
-          "glutamic_acid": 6.15,
-          "glycine": 0.8,
-          "histidine": 0.6,
-          "isoleucine": 1.09,
-          "leucine": 1.89,
-          "lysine": 1.59,
-          "methionine": 0.47,
-          "phenylalanine": 1.08,
-          "proline": 1.96,
-          "serine": 1.18,
-          "threonine": 0.96,
-          "tryptophan": 0.32,
-          "tyrosine": 0.77,
-          "valine": 1.31,
-          "b1_thiamine": 0.98,
-          "b2_riboflavin": 0.91,
-          "b3_niacin": 10.51,
-          "b5_pantothenic_acid": 2.82,
-          "b6_pyridoxine": 0.84,
-          "b12_cobalamin": 0.78,
-          "choline": 129.17,
-          "folate": 265.37,
-          "vitamin_a": 1026.99,
-          "vitamin_c": 100.4,
-          "vitamin_d": 9.6,
-          "vitamin_e": 2.26,
-          "vitamin_k": 107.87,
-          "calcium": 247.05,
-          "copper": 0.59,
-          "iron": 7.23,
-          "magnesium": 117.23,
-          "manganese": 1.66,
-          "phosphorus": 449.25,
-          "potassium": 1664.64,
-          "selenium": 37.85,
-          "sodium": 568.2,
-          "zinc": 2.81
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/indian-potato-cauliflower-curry-aloo-gobi-cucumber-raita-naan/16311",
-      "altVariants": [
-        {
-          "id": 16315,
-          "recipe_id": 1914,
-          "group_label": "Vegan ",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Toasted Naan",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16315/thumbnail_c316782e-54e1-4160-87f6-2ea12d066e2c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16315/presentation_c316782e-54e1-4160-87f6-2ea12d066e2c.jpeg",
-          "published_recipe_uuid": "dab052f8-e3ea-45d2-ae4b-9b188fc68df7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308847000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            212,
-            24,
-            221,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            24,
-            1,
-            6,
-            6,
-            3,
-            3,
-            1.5,
-            3,
-            3.75,
-            7.5,
-            15,
-            15,
-            15,
-            7.5,
-            7.5,
-            37.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16314,
-          "recipe_id": 1914,
-          "group_label": "Vegan ",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Toasted Naan",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16314/thumbnail_2faee925-3307-4b99-b118-0ac7a7703a81.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16314/presentation_2faee925-3307-4b99-b118-0ac7a7703a81.jpeg",
-          "published_recipe_uuid": "55cec70f-a6c4-432c-994a-4cd45e95157d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308846000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            212,
-            24,
-            221,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            16,
-            1,
-            4,
-            4,
-            2,
-            2,
-            1,
-            2,
-            2.5,
-            5,
-            10,
-            10,
-            10,
-            5,
-            5,
-            25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16313,
-          "recipe_id": 1914,
-          "group_label": "Vegan ",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Toasted Naan",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16313/thumbnail_c30cfce0-3092-49a8-b279-c759faa03baa.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16313/presentation_c30cfce0-3092-49a8-b279-c759faa03baa.jpeg",
-          "published_recipe_uuid": "197368e0-30c1-4edc-93eb-ef278afd3117",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308846000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            212,
-            24,
-            221,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            8,
-            0.5,
-            2,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            1.25,
-            2.5,
-            5,
-            5,
-            5,
-            2.5,
-            2.5,
-            12.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16311,
-          "recipe_id": 1914,
-          "group_label": "Default",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "published_recipe_uuid": "866e97bd-787a-40b9-93fd-57ae94080482",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308844000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            155,
-            212,
-            24,
-            221,
-            122,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            16,
-            1,
-            1,
-            4,
-            4,
-            2,
-            1,
-            2,
-            1,
-            2,
-            3.75,
-            5,
-            10,
-            10,
-            10,
-            6.25,
-            5,
-            25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16312,
-          "recipe_id": 1914,
-          "group_label": "Default",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "published_recipe_uuid": "9019e2c4-ae32-400c-aa24-e65ebf6a5583",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308845000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            155,
-            212,
-            24,
-            221,
-            122,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            24,
-            1,
-            1.5,
-            6,
-            6,
-            3,
-            1.5,
-            3,
-            1.5,
-            3,
-            6.25,
-            7.5,
-            15,
-            15,
-            15,
-            10,
-            7.5,
-            37.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16310,
-          "recipe_id": 1914,
-          "group_label": "Default",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "published_recipe_uuid": "06221837-bf54-4cf1-9491-a36b3bf96c99",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308844000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            155,
-            212,
-            24,
-            221,
-            122,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            8,
-            0.5,
-            0.5,
-            2,
-            2,
-            1,
-            0.5,
-            1,
-            0.5,
-            1,
-            1.875,
-            2.5,
-            5,
-            5,
-            5,
-            3.125,
-            2.5,
-            12.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16321,
-          "recipe_id": 1914,
-          "group_label": "Vegan ",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Toasted Naan",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16321/thumbnail_332ad38c-62fb-487e-9bcb-689a1d00545f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16321/presentation_332ad38c-62fb-487e-9bcb-689a1d00545f.jpeg",
-          "published_recipe_uuid": "db3aa5fe-5cd0-4605-b4e8-0628753722e7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308852000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            212,
-            24,
-            221,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            710,
-            1,
-            6,
-            6,
-            3,
-            3,
-            1.5,
-            3,
-            3.75,
-            7.5,
-            15,
-            15,
-            15,
-            7.5,
-            7.5,
-            37.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16320,
-          "recipe_id": 1914,
-          "group_label": "Vegan ",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Toasted Naan",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16320/thumbnail_2c3888a8-39cb-4ff7-9859-2aac5d66a270.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16320/presentation_2c3888a8-39cb-4ff7-9859-2aac5d66a270.jpeg",
-          "published_recipe_uuid": "bb789436-06b9-4d56-90b2-f56384a25318",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308850000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            212,
-            24,
-            221,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            473,
-            1,
-            4,
-            4,
-            2,
-            2,
-            1,
-            2,
-            2.5,
-            5,
-            10,
-            10,
-            10,
-            5,
-            5,
-            25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16319,
-          "recipe_id": 1914,
-          "group_label": "Vegan ",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Toasted Naan",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16319/thumbnail_10d2abaa-abe4-4027-b043-a395458ad132.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/16319/presentation_10d2abaa-abe4-4027-b043-a395458ad132.jpeg",
-          "published_recipe_uuid": "2cbf233a-7854-4b9c-a509-04285fefe404",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308851000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            212,
-            24,
-            221,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            237,
-            0.5,
-            2,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            1.25,
-            2.5,
-            5,
-            5,
-            5,
-            2.5,
-            2.5,
-            12.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16318,
-          "recipe_id": 1914,
-          "group_label": "Default",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "published_recipe_uuid": "fc2bf5c3-60c1-42a3-9abd-2a98ddc1c0c1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308849000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            155,
-            212,
-            24,
-            221,
-            122,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            710,
-            1,
-            1.5,
-            6,
-            6,
-            3,
-            1.5,
-            3,
-            1.5,
-            3,
-            6.25,
-            7.5,
-            15,
-            15,
-            15,
-            10,
-            7.5,
-            37.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16317,
-          "recipe_id": 1914,
-          "group_label": "Default",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "published_recipe_uuid": "cf24583c-f887-4deb-a8fe-fe2ab8802c5b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308849000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            155,
-            212,
-            24,
-            221,
-            122,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            473,
-            1,
-            1,
-            4,
-            4,
-            2,
-            1,
-            2,
-            1,
-            2,
-            3.75,
-            5,
-            10,
-            10,
-            10,
-            6.25,
-            5,
-            25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        },
-        {
-          "id": 16316,
-          "recipe_id": 1914,
-          "group_label": "Default",
-          "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
-          "published_recipe_uuid": "cbf0a86a-bb1d-4514-a741-534d7d737e9a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1641308848000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            158,
-            201,
-            188,
-            155,
-            212,
-            24,
-            221,
-            122,
-            260,
-            152,
-            148,
-            72,
-            75,
-            76,
-            186,
-            73,
-            88,
-            90,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            237,
-            0.5,
-            0.5,
-            2,
-            2,
-            1,
-            0.5,
-            1,
-            0.5,
-            1,
-            1.875,
-            2.5,
-            5,
-            5,
-            5,
-            3.125,
-            2.5,
-            12.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 44,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Warmly spiced cauliflower and potatoes with a fresh yogurt cilantro sauce. We recommend making extra for seconds!",
-        "keywords": [
-          "Curries"
-        ],
-        "cuisine": "Indian",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 16311,
+  "recipe_id": 1914,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Indian Potato-Cauliflower Curry (Aloo Gobi) with Cucumber Raita & Naan",
+  "slug": "indian-potato-cauliflower-curry-aloo-gobi-cucumber-raita-naan",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/thumbnail_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1914/presentation_f35474ae-853a-4e4b-8d26-fd6afa9f92fc.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "indian-potato-cauliflower-curry-aloo-gobi-cucumber-raita-naan",
-    "variantId": "16311"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 266980,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 medium head cauliflower\n2 (1 inch) pieces ginger root\n2 medium yellow potatoes\n2 tomatoes\n1 small bunch cilantro\n1 English cucumber"
+    },
+    {
+      "id": 266981,
+      "primary_message": "Cut off leaves from the cauliflower, separate into small florets, and cut the thick stems into smaller pieces. Place in a medium bowl and set aside. ",
+      "secondary_message": null
+    },
+    {
+      "id": 266982,
+      "primary_message": "Peel and mince ginger and garlic. ",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 266983,
+      "primary_message": "Preheat a large pot over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 266984,
+      "primary_message": "While the pot heats up, peel, halve, and small dice onion.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 266985,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add ginger, garlic, onion, and salt; cook, stirring occasionally, until softened, about 5 minutes.",
+      "secondary_message": "4 tsp virgin coconut oil\n½ tsp salt"
+    },
+    {
+      "id": 266986,
+      "primary_message": "Meanwhile, peel and small dice potatoes; medium dice tomatoes. Add both to the bowl with the cauliflower. ",
+      "secondary_message": null
+    },
+    {
+      "id": 266987,
+      "primary_message": "Add spices to the pot and continue to cook, stirring constantly, until fragrant, about 1 minute. ",
+      "secondary_message": "2 tsp curry powder\n2 tsp cumin, ground\n2 tsp coriander, ground\n1 tsp turmeric, ground\n1 tsp chili powder\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 266988,
+      "primary_message": "Add cauliflower, potato, tomato, and broth to the pot; stir to combine and bring to a boil over medium-high heat. Once boiling, reduce heat to a simmer and cover; cook, stirring occasionally, until veggies are tender, 15-18 minutes. (Reserve bowl for the next step.)",
+      "secondary_message": "16 fl oz (2 cups) chicken or vegetable broth"
+    },
+    {
+      "id": 266989,
+      "primary_message": "While the curry cooks, shave cilantro leaves off the stems; discard stems and mince the leaves. Place half in the reserved bowl (reserving the rest for the curry). ",
+      "secondary_message": null
+    },
+    {
+      "id": 266990,
+      "primary_message": "Trim and grate cucumber into the bowl with the cilantro; add yogurt, water, salt, and pepper. Stir to combine the raita and set aside. ",
+      "secondary_message": "1 cup plain Greek yogurt\n2 tbsp water\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 266991,
+      "primary_message": "Preheat oven to broil on high and position rack under the broiler.",
+      "secondary_message": null
+    },
+    {
+      "id": 266992,
+      "primary_message": "Divide naan between two baking sheet pans. Working in batches, place in the oven and broil, flipping once, until golden brown and toasted, 1-2 minutes. Remove from oven, spread with oil, and cut into quarters.",
+      "secondary_message": "4 flatbreads or naan\n1 tsp virgin coconut oil"
+    },
+    {
+      "id": 266993,
+      "primary_message": "When the curry is done, stir in reserved cilantro and remove from the heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 266994,
+      "primary_message": "Divide curry between bowls; serve with raita and naan on the side. Enjoy! ",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 281924,
+      "quantity": "1 medium head",
+      "ingredient_name": "cauliflower"
+    },
+    {
+      "id": 281927,
+      "quantity": "16 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 281926,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 281923,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 281928,
+      "quantity": "4",
+      "ingredient_name": "flatbreads or naan"
+    },
+    {
+      "id": 281912,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 281929,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 281919,
+      "quantity": "1 cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 281930,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 281922,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 281921,
+      "quantity": "2 medium",
+      "ingredient_name": "yellow potatoes"
+    },
+    {
+      "id": 281913,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 281915,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 281916,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 281925,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 281914,
+      "quantity": "",
+      "ingredient_name": "curry powder"
+    },
+    {
+      "id": 281917,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 281918,
+      "quantity": "",
+      "ingredient_name": "turmeric, ground"
+    },
+    {
+      "id": 281920,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 667.61,
+    "alcohol": 0,
+    "ash": 7.98,
+    "caffeine": 0,
+    "water": 629.41,
+    "carbs": 94.41,
+    "fiber": 11.68,
+    "starch": 67.26,
+    "sugars": 13.17,
+    "fructose": 3.86,
+    "galactose": 1.03,
+    "glucose": 4.19,
+    "lactose": 3.14,
+    "maltose": 0.01,
+    "sucrose": 0.83,
+    "sugar_alcohol": 0.02,
+    "fat": 22.85,
+    "monounsaturated": 4.81,
+    "polyunsaturated": 1.59,
+    "omega_3": 0.16,
+    "omega_6": 1.44,
+    "saturated": 14.26,
+    "transfats": 0.54,
+    "cholesterol": 40.29,
+    "protein": 26.68,
+    "alanine": 1.04,
+    "arginine": 1.03,
+    "aspartic_acid": 2.22,
+    "cystine": 0.41,
+    "glutamic_acid": 6.15,
+    "glycine": 0.8,
+    "histidine": 0.6,
+    "isoleucine": 1.09,
+    "leucine": 1.89,
+    "lysine": 1.59,
+    "methionine": 0.47,
+    "phenylalanine": 1.08,
+    "proline": 1.96,
+    "serine": 1.18,
+    "threonine": 0.96,
+    "tryptophan": 0.32,
+    "tyrosine": 0.77,
+    "valine": 1.31,
+    "b1_thiamine": 0.98,
+    "b2_riboflavin": 0.91,
+    "b3_niacin": 10.51,
+    "b5_pantothenic_acid": 2.82,
+    "b6_pyridoxine": 0.84,
+    "b12_cobalamin": 0.78,
+    "choline": 129.17,
+    "folate": 265.37,
+    "vitamin_a": 1026.99,
+    "vitamin_c": 100.4,
+    "vitamin_d": 9.6,
+    "vitamin_e": 2.26,
+    "vitamin_k": 107.87,
+    "calcium": 247.05,
+    "copper": 0.59,
+    "iron": 7.23,
+    "magnesium": 117.23,
+    "manganese": 1.66,
+    "phosphorus": 449.25,
+    "potassium": 1664.64,
+    "selenium": 37.85,
+    "sodium": 568.2,
+    "zinc": 2.81
+  }
 }

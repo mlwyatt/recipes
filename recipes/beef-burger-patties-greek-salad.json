@@ -1,756 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4394,
-        "recipe_id": 656,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Beef Burger Patties with Greek Salad",
-        "slug": "beef-burger-patties-greek-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 49815,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 pint grape tomatoes\n1 English cucumber"
-          },
-          {
-            "id": 49816,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Transfer ½ of the garlic to a medium bowl (that will hold the ground beef mixture) and transfer the other ½ to a salad bowl.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 49817,
-            "primary_message": "To the garlic in the salad bowl, add olive oil, red wine vinegar, Dijon, oregano, salt, and pepper; whisk together.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp red wine vinegar\n½ tsp Dijon mustard\n1 tsp oregano\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 49818,
-            "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice ½ of the onion and transfer to the medium bowl with the garlic, then thinly slice the other ½ crosswise and add to the salad bowl.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 49819,
-            "primary_message": "Add olive oil to a nonstick skillet and preheat over medium heat.",
-            "secondary_message": "1 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 49820,
-            "primary_message": "To the medium bowl, add the ground beef, ½ pkg of the feta (save the other ½ pkg for the salad), Dijon, oregano, salt, and pepper; mix until well combined. Form the mixture into 4 patties and place on a plate.",
-            "secondary_message": "1 ½ lb lean ground beef\n1 (4 oz) pkg crumbled feta cheese\n2 tsp Dijon mustard\n2 tsp oregano\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 49821,
-            "primary_message": "Place the patties in the skillet and cook until cooked through and golden brown, 4 to 6 minutes per side. Once done, transfer to a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 49822,
-            "primary_message": "Trim off and discard the ends of the cucumber; quarter the cucumber lengthwise, then slice crosswise into ¼-inch-thick pieces at an angle. Add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 49823,
-            "primary_message": "Halve the grape tomatoes and add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 49824,
-            "primary_message": "Add the olives and remaining feta to the salad bowl; toss to combine.",
-            "secondary_message": "½ cup Kalamata olives, pitted"
-          },
-          {
-            "id": 49825,
-            "primary_message": "To serve, divide the burger patties and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 52532,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 52531,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 52530,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 52529,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 52528,
-            "quantity": "½ cup",
-            "ingredient_name": "Kalamata olives, pitted"
-          },
-          {
-            "id": 52533,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 52527,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 52521,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 52526,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 52525,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 52523,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 52524,
-            "quantity": "",
-            "ingredient_name": "red wine vinegar"
-          },
-          {
-            "id": 52522,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 624.33,
-          "alcohol": 0,
-          "ash": 6.38,
-          "caffeine": 0,
-          "water": 296.91,
-          "carbs": 12.41,
-          "fiber": 2.77,
-          "starch": 1.78,
-          "sugars": 5.54,
-          "fructose": 2.01,
-          "galactose": 0,
-          "glucose": 2.03,
-          "lactose": 1.16,
-          "maltose": 0.01,
-          "sucrose": 0.32,
-          "sugar_alcohol": 0,
-          "fat": 46.97,
-          "monounsaturated": 19.85,
-          "polyunsaturated": 2.12,
-          "omega_3": 0.37,
-          "omega_6": 1.84,
-          "saturated": 15.44,
-          "transfats": 1.78,
-          "cholesterol": 140.81,
-          "protein": 37.49,
-          "alanine": 2.22,
-          "arginine": 2.3,
-          "aspartic_acid": 3.26,
-          "cystine": 0.37,
-          "glutamic_acid": 6.01,
-          "glycine": 2.23,
-          "histidine": 1.17,
-          "isoleucine": 1.67,
-          "leucine": 2.94,
-          "lysine": 3.04,
-          "methionine": 0.93,
-          "phenylalanine": 1.48,
-          "proline": 2.06,
-          "serine": 1.65,
-          "threonine": 1.46,
-          "tryptophan": 0.23,
-          "tyrosine": 1.19,
-          "valine": 1.91,
-          "b1_thiamine": 0.18,
-          "b2_riboflavin": 0.55,
-          "b3_niacin": 8.82,
-          "b5_pantothenic_acid": 1.53,
-          "b6_pyridoxine": 0.88,
-          "b12_cobalamin": 4.17,
-          "choline": 121.12,
-          "folate": 43.04,
-          "vitamin_a": 843.5,
-          "vitamin_c": 15.01,
-          "vitamin_d": 9.62,
-          "vitamin_e": 2.39,
-          "vitamin_k": 32.45,
-          "calcium": 200.36,
-          "copper": 0.23,
-          "iron": 4.72,
-          "magnesium": 61.39,
-          "manganese": 0.4,
-          "phosphorus": 439.31,
-          "potassium": 857.74,
-          "selenium": 32.8,
-          "sodium": 668.21,
-          "zinc": 8.85
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/beef-burger-patties-greek-salad/4394",
-      "altVariants": [
-        {
-          "id": 6378,
-          "recipe_id": 656,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Greek Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "published_recipe_uuid": "a39ce3d6-afbc-438c-b2c9-9f4206a6d866",
-          "fallback_published_recipe_uuids": [
-            "82221ef6-105d-4a3d-9ed2-b27a40bf65d1",
-            "896a15ea-7303-437e-95a3-0c29a0a6afdd",
-            "5211aacd-4344-4683-9718-e8b5f6a85c91"
-          ],
-          "first_published_at": 1550532166000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            2,
-            13
-          ],
-          "ingredient_ids": [
-            32,
-            155,
-            24,
-            277,
-            203,
-            168,
-            184,
-            72,
-            117,
-            47,
-            82,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            6,
-            1.5,
-            0.75,
-            2.25,
-            1.5,
-            5.5450349999999995,
-            18.48345,
-            66.54045,
-            22.1802,
-            14.78676,
-            11.090069999999999
-          ],
-          "average_rating": 0.804,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            8,
-            33,
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4385,
-          "recipe_id": 656,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Greek Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "published_recipe_uuid": "58ea9417-787b-4445-8f50-d92e1294bc40",
-          "fallback_published_recipe_uuids": [
-            "09c293ce-026e-41df-80b9-d558f7be61f0",
-            "98d3f04f-9c89-4ee1-b67f-4b9536d3f740",
-            "19a43a5b-0f73-44a4-9f4c-0f55009b83b3"
-          ],
-          "first_published_at": 1534877397000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            32,
-            155,
-            24,
-            277,
-            203,
-            168,
-            184,
-            72,
-            117,
-            47,
-            82,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            2,
-            0.5,
-            0.25,
-            0.75,
-            0.5,
-            1.848345,
-            6.16115,
-            22.1801,
-            7.39338,
-            4.92892,
-            3.69669
-          ],
-          "average_rating": 0.804,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            8,
-            33,
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4394,
-          "recipe_id": 656,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Greek Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "published_recipe_uuid": "b3d4149d-bf3c-4318-962f-1c36acb212bd",
-          "fallback_published_recipe_uuids": [
-            "9891ee3d-9f18-4f81-b779-024617c67b1a",
-            "e8725504-1b27-4f95-ab6c-e9712da64b02",
-            "33a27c3b-2af2-4610-91e5-756e28609615"
-          ],
-          "first_published_at": 1534877396000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            32,
-            155,
-            24,
-            277,
-            203,
-            168,
-            184,
-            72,
-            117,
-            47,
-            82,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            4,
-            1,
-            0.5,
-            1.5,
-            1,
-            3.69669,
-            12.3223,
-            44.3603,
-            14.7868,
-            9.85784,
-            7.39338
-          ],
-          "average_rating": 0.804,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            8,
-            33,
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6379,
-          "recipe_id": 656,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Greek Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "published_recipe_uuid": "6bd8253f-a137-4588-87a6-f20946dfca1b",
-          "fallback_published_recipe_uuids": [
-            "e8586411-71de-44c1-a7a5-90e31e94c144",
-            "ab76466c-df9f-4488-add5-2e4af2612446",
-            "1f08d69f-c05f-420c-b1ff-cf46eedd9ac9"
-          ],
-          "first_published_at": 1550532191000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            32,
-            155,
-            24,
-            277,
-            203,
-            168,
-            184,
-            72,
-            117,
-            47,
-            82,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            6,
-            1.5,
-            0.75,
-            1.02,
-            1.5,
-            5.5450349999999995,
-            18.48345,
-            66.54045,
-            22.1802,
-            14.78676,
-            11.090069999999999
-          ],
-          "average_rating": 0.804,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            8,
-            33,
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4396,
-          "recipe_id": 656,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Greek Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "published_recipe_uuid": "b9c44ebe-509d-4cf0-a43c-52568be69d70",
-          "fallback_published_recipe_uuids": [
-            "46cac96e-2fd8-4904-a79e-2adeb951e29b",
-            "74a742cc-32e1-46b8-8ba2-c4de8169799b",
-            "d35176ff-7cdb-4fec-b0d1-1ace10eab404"
-          ],
-          "first_published_at": 1534877394000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            2,
-            13
-          ],
-          "ingredient_ids": [
-            32,
-            155,
-            24,
-            277,
-            203,
-            168,
-            184,
-            72,
-            117,
-            47,
-            82,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            4,
-            1,
-            0.5,
-            0.68,
-            1,
-            3.69669,
-            12.3223,
-            44.3603,
-            14.7868,
-            9.85784,
-            7.39338
-          ],
-          "average_rating": 0.804,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            8,
-            33,
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4395,
-          "recipe_id": 656,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Greek Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
-          "published_recipe_uuid": "dda7127d-ea43-42af-9772-531ff991cbd7",
-          "fallback_published_recipe_uuids": [
-            "06e136c6-3f5d-47a2-b2e1-d27d672f1f1c",
-            "12e60094-0a6a-4638-9b52-2814b36318bc",
-            "42ec2956-97d1-4bf0-a9bf-311d49e2d998"
-          ],
-          "first_published_at": 1534877396000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            32,
-            155,
-            24,
-            277,
-            203,
-            168,
-            184,
-            72,
-            117,
-            47,
-            82,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            2,
-            0.5,
-            0.25,
-            0.34,
-            0.5,
-            1.848345,
-            6.16115,
-            22.1801,
-            7.39338,
-            4.92892,
-            3.69669
-          ],
-          "average_rating": 0.804,
-          "rating_count": 51,
-          "variety_tag_ids": [
-            8,
-            33,
-            4
-          ],
-          "cuisine_tag_ids": [
-            11
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Fritters & Cakes",
-          "Pan-Fried",
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "Greek",
-        "reviewCount": 51,
-        "reviewScore": null
-      }
+  "id": 4394,
+  "recipe_id": 656,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Beef Burger Patties with Greek Salad",
+  "slug": "beef-burger-patties-greek-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/thumbnail_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/656/presentation_9fb15cff-b530-48de-9c33-1bde175d44c2.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "beef-burger-patties-greek-salad",
-    "variantId": "4394"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 49815,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 pint grape tomatoes\n1 English cucumber"
+    },
+    {
+      "id": 49816,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Transfer ½ of the garlic to a medium bowl (that will hold the ground beef mixture) and transfer the other ½ to a salad bowl.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 49817,
+      "primary_message": "To the garlic in the salad bowl, add olive oil, red wine vinegar, Dijon, oregano, salt, and pepper; whisk together.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp red wine vinegar\n½ tsp Dijon mustard\n1 tsp oregano\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 49818,
+      "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice ½ of the onion and transfer to the medium bowl with the garlic, then thinly slice the other ½ crosswise and add to the salad bowl.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 49819,
+      "primary_message": "Add olive oil to a nonstick skillet and preheat over medium heat.",
+      "secondary_message": "1 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 49820,
+      "primary_message": "To the medium bowl, add the ground beef, ½ pkg of the feta (save the other ½ pkg for the salad), Dijon, oregano, salt, and pepper; mix until well combined. Form the mixture into 4 patties and place on a plate.",
+      "secondary_message": "1 ½ lb lean ground beef\n1 (4 oz) pkg crumbled feta cheese\n2 tsp Dijon mustard\n2 tsp oregano\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 49821,
+      "primary_message": "Place the patties in the skillet and cook until cooked through and golden brown, 4 to 6 minutes per side. Once done, transfer to a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 49822,
+      "primary_message": "Trim off and discard the ends of the cucumber; quarter the cucumber lengthwise, then slice crosswise into ¼-inch-thick pieces at an angle. Add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 49823,
+      "primary_message": "Halve the grape tomatoes and add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 49824,
+      "primary_message": "Add the olives and remaining feta to the salad bowl; toss to combine.",
+      "secondary_message": "½ cup Kalamata olives, pitted"
+    },
+    {
+      "id": 49825,
+      "primary_message": "To serve, divide the burger patties and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 52532,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 52531,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 52530,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 52529,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 52528,
+      "quantity": "½ cup",
+      "ingredient_name": "Kalamata olives, pitted"
+    },
+    {
+      "id": 52533,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 52527,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 52521,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 52526,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 52525,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 52523,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 52524,
+      "quantity": "",
+      "ingredient_name": "red wine vinegar"
+    },
+    {
+      "id": 52522,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 624.33,
+    "alcohol": 0,
+    "ash": 6.38,
+    "caffeine": 0,
+    "water": 296.91,
+    "carbs": 12.41,
+    "fiber": 2.77,
+    "starch": 1.78,
+    "sugars": 5.54,
+    "fructose": 2.01,
+    "galactose": 0,
+    "glucose": 2.03,
+    "lactose": 1.16,
+    "maltose": 0.01,
+    "sucrose": 0.32,
+    "sugar_alcohol": 0,
+    "fat": 46.97,
+    "monounsaturated": 19.85,
+    "polyunsaturated": 2.12,
+    "omega_3": 0.37,
+    "omega_6": 1.84,
+    "saturated": 15.44,
+    "transfats": 1.78,
+    "cholesterol": 140.81,
+    "protein": 37.49,
+    "alanine": 2.22,
+    "arginine": 2.3,
+    "aspartic_acid": 3.26,
+    "cystine": 0.37,
+    "glutamic_acid": 6.01,
+    "glycine": 2.23,
+    "histidine": 1.17,
+    "isoleucine": 1.67,
+    "leucine": 2.94,
+    "lysine": 3.04,
+    "methionine": 0.93,
+    "phenylalanine": 1.48,
+    "proline": 2.06,
+    "serine": 1.65,
+    "threonine": 1.46,
+    "tryptophan": 0.23,
+    "tyrosine": 1.19,
+    "valine": 1.91,
+    "b1_thiamine": 0.18,
+    "b2_riboflavin": 0.55,
+    "b3_niacin": 8.82,
+    "b5_pantothenic_acid": 1.53,
+    "b6_pyridoxine": 0.88,
+    "b12_cobalamin": 4.17,
+    "choline": 121.12,
+    "folate": 43.04,
+    "vitamin_a": 843.5,
+    "vitamin_c": 15.01,
+    "vitamin_d": 9.62,
+    "vitamin_e": 2.39,
+    "vitamin_k": 32.45,
+    "calcium": 200.36,
+    "copper": 0.23,
+    "iron": 4.72,
+    "magnesium": 61.39,
+    "manganese": 0.4,
+    "phosphorus": 439.31,
+    "potassium": 857.74,
+    "selenium": 32.8,
+    "sodium": 668.21,
+    "zinc": 8.85
+  }
 }

@@ -1,531 +1,170 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 7054,
-        "recipe_id": 804,
-        "serving_count": 4,
-        "cooking_minutes": 10,
-        "name": "Keto Ricotta Breakfast Porridge",
-        "slug": "keto-ricotta-breakfast-porridge",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 96728,
-            "primary_message": "Heat a medium saucepan over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 96729,
-            "primary_message": "Melt butter in the saucepan.",
-            "secondary_message": "½ cup butter, unsalted"
-          },
-          {
-            "id": 96730,
-            "primary_message": "Add cinnamon and cream and cook, stirring occasionally, until cream is warm.",
-            "secondary_message": "½ tsp cinnamon\n4 fl oz (½ cup) heavy cream"
-          },
-          {
-            "id": 96731,
-            "primary_message": "Remove from heat and stir in ricotta cheese.",
-            "secondary_message": "1 (15 oz) pkg ricotta cheese"
-          },
-          {
-            "id": 96732,
-            "primary_message": "Roughly chop pecans.",
-            "secondary_message": "¼ cup pecans, dry roasted"
-          },
-          {
-            "id": 96733,
-            "primary_message": "To serve, transfer to a bowl and sprinkle with cinnamon and pecans.",
-            "secondary_message": "⅛ tsp cinnamon"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 100601,
-            "quantity": "4 fl oz",
-            "ingredient_name": "heavy whipping cream"
-          },
-          {
-            "id": 100602,
-            "quantity": "¼ cup",
-            "ingredient_name": "pecan halves"
-          },
-          {
-            "id": 100598,
-            "quantity": "1 (15 oz) pkg",
-            "ingredient_name": "ricotta cheese"
-          },
-          {
-            "id": 100600,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 100599,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          }
-        ],
-        "nutrition": {
-          "energy": 543.73,
-          "alcohol": 0,
-          "ash": 1.35,
-          "caffeine": 0,
-          "water": 98.63,
-          "carbs": 5.34,
-          "fiber": 0.87,
-          "starch": 0.12,
-          "sugars": 3.35,
-          "fructose": 0.01,
-          "galactose": 0.01,
-          "glucose": 0.01,
-          "lactose": 3.2,
-          "maltose": 0,
-          "sucrose": 0.28,
-          "sugar_alcohol": 0,
-          "fat": 53.26,
-          "monounsaturated": 16.11,
-          "polyunsaturated": 3.11,
-          "omega_3": 0.44,
-          "omega_6": 2.67,
-          "saturated": 30.88,
-          "transfats": 1.75,
-          "cholesterol": 156.83,
-          "protein": 13.49,
-          "alanine": 0.59,
-          "arginine": 0.79,
-          "aspartic_acid": 1.19,
-          "cystine": 0.12,
-          "glutamic_acid": 2.91,
-          "glycine": 0.36,
-          "histidine": 0.53,
-          "isoleucine": 0.7,
-          "leucine": 1.42,
-          "lysine": 1.51,
-          "methionine": 0.35,
-          "phenylalanine": 0.66,
-          "proline": 1.24,
-          "serine": 0.69,
-          "threonine": 0.61,
-          "tryptophan": 0.15,
-          "tyrosine": 0.68,
-          "valine": 0.82,
-          "b1_thiamine": 0.05,
-          "b2_riboflavin": 0.26,
-          "b3_niacin": 0.22,
-          "b5_pantothenic_acid": 0.38,
-          "b6_pyridoxine": 0.07,
-          "b12_cobalamin": 0.46,
-          "choline": 31.83,
-          "folate": 15.93,
-          "vitamin_a": 922.1,
-          "vitamin_c": 0.24,
-          "vitamin_d": 35.93,
-          "vitamin_e": 1.2,
-          "vitamin_k": 4.5,
-          "calcium": 251.14,
-          "copper": 0.11,
-          "iron": 0.65,
-          "magnesium": 23.67,
-          "manganese": 0.35,
-          "phosphorus": 213.64,
-          "potassium": 171.71,
-          "selenium": 16.13,
-          "sodium": 103.83,
-          "zinc": 1.68
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/keto-ricotta-breakfast-porridge/7054",
-      "altVariants": [
-        {
-          "id": 7054,
-          "recipe_id": 804,
-          "group_label": "Default",
-          "name": "Keto Ricotta Breakfast Porridge",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "published_recipe_uuid": "b9fc2bbf-9a75-40ad-9868-cf41392794b0",
-          "fallback_published_recipe_uuids": [
-            "d7bd353b-e39c-4295-986e-1dbdd2b428a3",
-            "14bd59db-e9a4-4940-921d-e596137700bc",
-            "4c37f40c-a560-4c3b-89c6-9641bdcbb2b8"
-          ],
-          "first_published_at": 1561153400000,
-          "allowed_type_ids": [
-            7,
-            8
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            316,
-            327,
-            37,
-            115,
-            74
-          ],
-          "ingredient_amounts": [
-            4,
-            0.25,
-            1,
-            120,
-            3.125
-          ],
-          "average_rating": 0.469,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7053,
-          "recipe_id": 804,
-          "group_label": "Default",
-          "name": "Keto Ricotta Breakfast Porridge",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "published_recipe_uuid": "d1c2c1d2-c199-4c8e-9e24-cade53f1a354",
-          "fallback_published_recipe_uuids": [
-            "f0f60fbd-a603-4814-a486-b403cb90ad65",
-            "fd6ba492-6995-4048-91ed-9d8f95b83016",
-            "ed959e48-b191-4952-8fcf-bf2c53e4a65d"
-          ],
-          "first_published_at": 1561153399000,
-          "allowed_type_ids": [
-            7,
-            8
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            316,
-            327,
-            37,
-            115,
-            74
-          ],
-          "ingredient_amounts": [
-            2,
-            0.125,
-            0.5,
-            60,
-            1.5625
-          ],
-          "average_rating": 0.469,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7055,
-          "recipe_id": 804,
-          "group_label": "Default",
-          "name": "Keto Ricotta Breakfast Porridge",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "published_recipe_uuid": "08258265-eb13-4caf-9a31-6401e48f00b3",
-          "fallback_published_recipe_uuids": [
-            "1f5937d3-a75d-4e51-badd-f5d2e04df8c1",
-            "f2ede6ab-56e6-4c2d-bdcd-77c6490a4d3b",
-            "30ecacfa-063b-4088-82c4-d9f78f667d3b"
-          ],
-          "first_published_at": 1561153402000,
-          "allowed_type_ids": [
-            7,
-            8
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            316,
-            327,
-            37,
-            115,
-            74
-          ],
-          "ingredient_amounts": [
-            6,
-            0.375,
-            1.5,
-            180,
-            4.6875
-          ],
-          "average_rating": 0.469,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7058,
-          "recipe_id": 804,
-          "group_label": "Default",
-          "name": "Keto Ricotta Breakfast Porridge",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "published_recipe_uuid": "90aa868c-bad3-4ade-a3d5-3caa5f5642a1",
-          "fallback_published_recipe_uuids": [
-            "ef78c6c4-358b-428c-b740-357c97b624fb",
-            "bfc8dd9d-5d41-45a3-b65c-f068d7ed08b0",
-            "6fe9ebc6-0356-4809-8044-6143bbd4247a"
-          ],
-          "first_published_at": 1561153406000,
-          "allowed_type_ids": [
-            7,
-            8
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            316,
-            327,
-            37,
-            115,
-            74
-          ],
-          "ingredient_amounts": [
-            177,
-            0.375,
-            1.5,
-            180,
-            4.6875
-          ],
-          "average_rating": 0.469,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7057,
-          "recipe_id": 804,
-          "group_label": "Default",
-          "name": "Keto Ricotta Breakfast Porridge",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "published_recipe_uuid": "623a9ce6-008b-4283-ac54-33334fb59c8b",
-          "fallback_published_recipe_uuids": [
-            "a66ec9e9-3680-4c4c-a769-27bd89efac52",
-            "3ccbc72e-6e41-413a-9141-07f074202ada",
-            "25bffacd-8726-4cc2-8dea-d5d1424ffe2e"
-          ],
-          "first_published_at": 1561153404000,
-          "allowed_type_ids": [
-            7,
-            8
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            316,
-            327,
-            37,
-            115,
-            74
-          ],
-          "ingredient_amounts": [
-            118,
-            0.25,
-            1,
-            120,
-            3.125
-          ],
-          "average_rating": 0.469,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7056,
-          "recipe_id": 804,
-          "group_label": "Default",
-          "name": "Keto Ricotta Breakfast Porridge",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
-          "published_recipe_uuid": "667f6d4c-c8c6-4d7d-821a-2dcfb316b5e4",
-          "fallback_published_recipe_uuids": [
-            "3dbf09f3-dfe0-4c8d-b554-8b2444b3e6e3",
-            "16e2a175-7636-4be4-ab56-0753f75af7c3",
-            "f552a95f-1835-4123-83a7-f07ba5b03bea"
-          ],
-          "first_published_at": 1561153403000,
-          "allowed_type_ids": [
-            7,
-            8
-          ],
-          "violated_restriction_ids": [
-            2,
-            6
-          ],
-          "ingredient_ids": [
-            316,
-            327,
-            37,
-            115,
-            74
-          ],
-          "ingredient_amounts": [
-            59,
-            0.125,
-            0.5,
-            60,
-            1.5625
-          ],
-          "average_rating": 0.469,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 7054,
+  "recipe_id": 804,
+  "serving_count": 4,
+  "cooking_minutes": 10,
+  "name": "Keto Ricotta Breakfast Porridge",
+  "slug": "keto-ricotta-breakfast-porridge",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/thumbnail_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/804/presentation_a398f3ea-2124-4a3b-8a82-a7c84ab81b82.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "keto-ricotta-breakfast-porridge",
-    "variantId": "7054"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 96728,
+      "primary_message": "Heat a medium saucepan over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 96729,
+      "primary_message": "Melt butter in the saucepan.",
+      "secondary_message": "½ cup butter, unsalted"
+    },
+    {
+      "id": 96730,
+      "primary_message": "Add cinnamon and cream and cook, stirring occasionally, until cream is warm.",
+      "secondary_message": "½ tsp cinnamon\n4 fl oz (½ cup) heavy cream"
+    },
+    {
+      "id": 96731,
+      "primary_message": "Remove from heat and stir in ricotta cheese.",
+      "secondary_message": "1 (15 oz) pkg ricotta cheese"
+    },
+    {
+      "id": 96732,
+      "primary_message": "Roughly chop pecans.",
+      "secondary_message": "¼ cup pecans, dry roasted"
+    },
+    {
+      "id": 96733,
+      "primary_message": "To serve, transfer to a bowl and sprinkle with cinnamon and pecans.",
+      "secondary_message": "⅛ tsp cinnamon"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 100601,
+      "quantity": "4 fl oz",
+      "ingredient_name": "heavy whipping cream"
+    },
+    {
+      "id": 100602,
+      "quantity": "¼ cup",
+      "ingredient_name": "pecan halves"
+    },
+    {
+      "id": 100598,
+      "quantity": "1 (15 oz) pkg",
+      "ingredient_name": "ricotta cheese"
+    },
+    {
+      "id": 100600,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 100599,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    }
+  ],
+  "nutrition": {
+    "energy": 543.73,
+    "alcohol": 0,
+    "ash": 1.35,
+    "caffeine": 0,
+    "water": 98.63,
+    "carbs": 5.34,
+    "fiber": 0.87,
+    "starch": 0.12,
+    "sugars": 3.35,
+    "fructose": 0.01,
+    "galactose": 0.01,
+    "glucose": 0.01,
+    "lactose": 3.2,
+    "maltose": 0,
+    "sucrose": 0.28,
+    "sugar_alcohol": 0,
+    "fat": 53.26,
+    "monounsaturated": 16.11,
+    "polyunsaturated": 3.11,
+    "omega_3": 0.44,
+    "omega_6": 2.67,
+    "saturated": 30.88,
+    "transfats": 1.75,
+    "cholesterol": 156.83,
+    "protein": 13.49,
+    "alanine": 0.59,
+    "arginine": 0.79,
+    "aspartic_acid": 1.19,
+    "cystine": 0.12,
+    "glutamic_acid": 2.91,
+    "glycine": 0.36,
+    "histidine": 0.53,
+    "isoleucine": 0.7,
+    "leucine": 1.42,
+    "lysine": 1.51,
+    "methionine": 0.35,
+    "phenylalanine": 0.66,
+    "proline": 1.24,
+    "serine": 0.69,
+    "threonine": 0.61,
+    "tryptophan": 0.15,
+    "tyrosine": 0.68,
+    "valine": 0.82,
+    "b1_thiamine": 0.05,
+    "b2_riboflavin": 0.26,
+    "b3_niacin": 0.22,
+    "b5_pantothenic_acid": 0.38,
+    "b6_pyridoxine": 0.07,
+    "b12_cobalamin": 0.46,
+    "choline": 31.83,
+    "folate": 15.93,
+    "vitamin_a": 922.1,
+    "vitamin_c": 0.24,
+    "vitamin_d": 35.93,
+    "vitamin_e": 1.2,
+    "vitamin_k": 4.5,
+    "calcium": 251.14,
+    "copper": 0.11,
+    "iron": 0.65,
+    "magnesium": 23.67,
+    "manganese": 0.35,
+    "phosphorus": 213.64,
+    "potassium": 171.71,
+    "selenium": 16.13,
+    "sodium": 103.83,
+    "zinc": 1.68
+  }
 }

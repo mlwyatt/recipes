@@ -1,1274 +1,295 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 20882,
-        "recipe_id": 2393,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-        "slug": "grilled-eggplant-garlic-tahini-sauce-pistachios-chickpea-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 349759,
-            "primary_message": "Wash and dry the fresh produce. ",
-            "secondary_message": "2 eggplants\n2 lemons\n1 English cucumber\n1 pint grape tomatoes\n1 small pkg fresh basil"
-          },
-          {
-            "id": 349760,
-            "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 349761,
-            "primary_message": "While the pan heats up, trim and slice eggplants lengthwise into ½-inch thick planks; place on a plate. Drizzle with oil, then season with salt and pepper.",
-            "secondary_message": "3 tbsp extra virgin olive oil\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 349762,
-            "primary_message": "Once the pan is hot, working in batches if necessary, add eggplant and grill, flipping once, until lightly charred and tender, 6-8 minutes. Return to the plate and loosely cover with aluminum foil.",
-            "secondary_message": null
-          },
-          {
-            "id": 349763,
-            "primary_message": "Meanwhile, drain and rinse chickpeas; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 349764,
-            "primary_message": "Juice one lemon into a small bowl. (Reserve remaining lemon for later use.)",
-            "secondary_message": null
-          },
-          {
-            "id": 349765,
-            "primary_message": "Add yogurt, water, tahini, sugar, and spices to the bowl with the lemon juice. Whisk to combine the tahini sauce and set aside.",
-            "secondary_message": "⅔ cup plain Greek yogurt\n¼ cup water\n2 tbsp tahini\n1 tsp brown sugar\n1 tsp garlic powder\n½ tsp salt\n½ tsp cumin, ground"
-          },
-          {
-            "id": 349766,
-            "primary_message": "Juice remaining lemon into a medium bowl. Add oil, additional tahini, and spices; whisk to combine the dressing. ",
-            "secondary_message": "2 tbsp extra virgin olive oil\n4 tsp tahini\n½ tsp salt\n¼ tsp black pepper\n⅛ tsp cinnamon, ground"
-          },
-          {
-            "id": 349767,
-            "primary_message": "Trim and small dice cucumber; add to the bowl with the dressing. ",
-            "secondary_message": null
-          },
-          {
-            "id": 349768,
-            "primary_message": "Halve tomatoes and add to the bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 349769,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Add to the bowl, along with chickpeas, and stir to combine the salad; set aside. ",
-            "secondary_message": null
-          },
-          {
-            "id": 349770,
-            "primary_message": "Roughly chop pistachios.",
-            "secondary_message": "¼ cup pistachios, unsalted"
-          },
-          {
-            "id": 349771,
-            "primary_message": "To serve, divide grilled eggplant and salad between plates. Spoon tahini sauce over eggplant and sprinkle with pistachios. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 373681,
-            "quantity": "2",
-            "ingredient_name": "eggplants"
-          },
-          {
-            "id": 373690,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 373682,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 373688,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 373694,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 373692,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 373693,
-            "quantity": "¼ cup",
-            "ingredient_name": "pistachios, unsalted"
-          },
-          {
-            "id": 373689,
-            "quantity": "⅔ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 373684,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 373695,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 373685,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          },
-          {
-            "id": 373691,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 373683,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 373686,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 373687,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 373696,
-            "quantity": "",
-            "ingredient_name": "tahini"
-          }
-        ],
-        "nutrition": {
-          "energy": 579.57,
-          "alcohol": 0,
-          "ash": 7.49,
-          "caffeine": 0,
-          "water": 551.56,
-          "carbs": 60.84,
-          "fiber": 21.67,
-          "starch": 19.46,
-          "sugars": 14.16,
-          "fructose": 4.33,
-          "galactose": 0.31,
-          "glucose": 5.02,
-          "lactose": 1.04,
-          "maltose": 0.02,
-          "sucrose": 2.63,
-          "sugar_alcohol": 0.01,
-          "fat": 31.95,
-          "monounsaturated": 17.64,
-          "polyunsaturated": 7.39,
-          "omega_3": 0.32,
-          "omega_6": 7.07,
-          "saturated": 4.22,
-          "transfats": 0.03,
-          "cholesterol": 2.04,
-          "protein": 21.32,
-          "alanine": 0.94,
-          "arginine": 1.71,
-          "aspartic_acid": 2.45,
-          "cystine": 0.29,
-          "glutamic_acid": 4.19,
-          "glycine": 0.85,
-          "histidine": 0.54,
-          "isoleucine": 0.92,
-          "leucine": 1.58,
-          "lysine": 1.32,
-          "methionine": 0.34,
-          "phenylalanine": 1.01,
-          "proline": 0.99,
-          "serine": 1.04,
-          "threonine": 0.82,
-          "tryptophan": 0.27,
-          "tyrosine": 0.59,
-          "valine": 1.02,
-          "b1_thiamine": 0.43,
-          "b2_riboflavin": 0.37,
-          "b3_niacin": 3.52,
-          "b5_pantothenic_acid": 1.69,
-          "b6_pyridoxine": 0.65,
-          "b12_cobalamin": 0.31,
-          "choline": 92.14,
-          "folate": 168.97,
-          "vitamin_a": 797.78,
-          "vitamin_c": 29.03,
-          "vitamin_d": 0,
-          "vitamin_e": 4.52,
-          "vitamin_k": 74.52,
-          "calcium": 226.99,
-          "copper": 0.98,
-          "iron": 4.39,
-          "magnesium": 123.9,
-          "manganese": 2.34,
-          "phosphorus": 406.47,
-          "potassium": 1229.17,
-          "selenium": 14.38,
-          "sodium": 312.75,
-          "zinc": 2.62
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-eggplant-garlic-tahini-sauce-pistachios-chickpea-salad/20882",
-      "altVariants": [
-        {
-          "id": 20882,
-          "recipe_id": 2393,
-          "group_label": "Default",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "c3976e7d-fe38-46c6-868b-c5aa00d603c4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467696000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            122,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            2,
-            1,
-            2,
-            0.25,
-            0.666,
-            3.75,
-            5,
-            0.625,
-            2.5,
-            75,
-            5,
-            7.5,
-            50
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20886,
-          "recipe_id": 2393,
-          "group_label": "Vegan",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "ed958f47-984a-47e7-a04c-4a9d2961bdff",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467695000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            3,
-            1.5,
-            3,
-            0.333,
-            6.25,
-            7.5,
-            0.9375,
-            3.75,
-            112.5,
-            7.5,
-            11.25,
-            120,
-            90
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20885,
-          "recipe_id": 2393,
-          "group_label": "Vegan",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "be9cc212-f877-41e9-b2d4-a6b73866d31c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467695000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            2,
-            1,
-            2,
-            0.25,
-            3.75,
-            5,
-            0.625,
-            2.5,
-            75,
-            5,
-            7.5,
-            80,
-            60
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20884,
-          "recipe_id": 2393,
-          "group_label": "Vegan",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "dc001277-82b1-4355-aa89-30ab85a136fb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467695000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            1,
-            0.125,
-            1.875,
-            2.5,
-            0.3125,
-            1.25,
-            35,
-            2.5,
-            3.75,
-            40,
-            30
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20883,
-          "recipe_id": 2393,
-          "group_label": "Default",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "1f99dbc4-48f6-4543-8043-88d54e70a562",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467695000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            122,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            3,
-            1.5,
-            3,
-            0.333,
-            0.9990000000000001,
-            6.25,
-            7.5,
-            0.9375,
-            3.75,
-            112.5,
-            7.5,
-            11.25,
-            75
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20881,
-          "recipe_id": 2393,
-          "group_label": "Default",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "36129df2-ffd1-4c82-b1b7-abf2351316c0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467696000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            122,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            1,
-            0.125,
-            0.333,
-            1.875,
-            2.5,
-            0.3125,
-            1.25,
-            35,
-            2.5,
-            3.75,
-            25
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20892,
-          "recipe_id": 2393,
-          "group_label": "Vegan",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "48c46d98-f460-41f4-aa38-82fd0bfb0a1d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467692000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            3,
-            1.5,
-            3,
-            0.333,
-            6.25,
-            7.5,
-            0.9375,
-            3.75,
-            112.5,
-            7.5,
-            11.25,
-            120,
-            90
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20891,
-          "recipe_id": 2393,
-          "group_label": "Vegan",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "41d7c094-e89e-4a68-880a-eb876f477618",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467693000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            2,
-            1,
-            2,
-            0.25,
-            3.75,
-            5,
-            0.625,
-            2.5,
-            75,
-            5,
-            7.5,
-            80,
-            60
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20890,
-          "recipe_id": 2393,
-          "group_label": "Vegan",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "6fd2f30f-c2a9-48eb-8402-bd7876c26bf1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467693000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            1,
-            0.125,
-            1.875,
-            2.5,
-            0.3125,
-            1.25,
-            35,
-            2.5,
-            3.75,
-            40,
-            30
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20889,
-          "recipe_id": 2393,
-          "group_label": "Default",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "d6974130-0238-46c0-99b7-30b768c2e89f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467693000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            122,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            3,
-            1.5,
-            3,
-            0.333,
-            0.9990000000000001,
-            6.25,
-            7.5,
-            0.9375,
-            3.75,
-            112.5,
-            7.5,
-            11.25,
-            75
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20888,
-          "recipe_id": 2393,
-          "group_label": "Default",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "1266fd4b-d214-4483-89d8-af227c7228eb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467694000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            122,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            2,
-            1,
-            2,
-            0.25,
-            0.666,
-            3.75,
-            5,
-            0.625,
-            2.5,
-            75,
-            5,
-            7.5,
-            50
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        },
-        {
-          "id": 20887,
-          "recipe_id": 2393,
-          "group_label": "Default",
-          "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
-          "published_recipe_uuid": "0d3e457c-ff1b-4084-b2ea-e3929b597ac0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1659467694000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            6,
-            12
-          ],
-          "ingredient_ids": [
-            18,
-            155,
-            28,
-            92,
-            277,
-            192,
-            256,
-            122,
-            72,
-            293,
-            74,
-            186,
-            47,
-            79,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            1,
-            0.125,
-            0.333,
-            1.875,
-            2.5,
-            0.3125,
-            1.25,
-            35,
-            2.5,
-            3.75,
-            25
-          ],
-          "average_rating": 0.417,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Fresh Mediterranean flavors never let us down, especially when they're served up with a creamy garlic tahini sauce",
-        "keywords": [
-          "BBQ & Grilling"
-        ],
-        "cuisine": "Middle Eastern",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 20882,
+  "recipe_id": 2393,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Grilled Eggplant with Garlic-Tahini Sauce, Pistachios & Chickpea Salad",
+  "slug": "grilled-eggplant-garlic-tahini-sauce-pistachios-chickpea-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/thumbnail_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2393/presentation_8f461197-e8fc-4adf-a0c8-7183535ef8c6.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-eggplant-garlic-tahini-sauce-pistachios-chickpea-salad",
-    "variantId": "20882"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 349759,
+      "primary_message": "Wash and dry the fresh produce. ",
+      "secondary_message": "2 eggplants\n2 lemons\n1 English cucumber\n1 pint grape tomatoes\n1 small pkg fresh basil"
+    },
+    {
+      "id": 349760,
+      "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 349761,
+      "primary_message": "While the pan heats up, trim and slice eggplants lengthwise into ½-inch thick planks; place on a plate. Drizzle with oil, then season with salt and pepper.",
+      "secondary_message": "3 tbsp extra virgin olive oil\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 349762,
+      "primary_message": "Once the pan is hot, working in batches if necessary, add eggplant and grill, flipping once, until lightly charred and tender, 6-8 minutes. Return to the plate and loosely cover with aluminum foil.",
+      "secondary_message": null
+    },
+    {
+      "id": 349763,
+      "primary_message": "Meanwhile, drain and rinse chickpeas; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 349764,
+      "primary_message": "Juice one lemon into a small bowl. (Reserve remaining lemon for later use.)",
+      "secondary_message": null
+    },
+    {
+      "id": 349765,
+      "primary_message": "Add yogurt, water, tahini, sugar, and spices to the bowl with the lemon juice. Whisk to combine the tahini sauce and set aside.",
+      "secondary_message": "⅔ cup plain Greek yogurt\n¼ cup water\n2 tbsp tahini\n1 tsp brown sugar\n1 tsp garlic powder\n½ tsp salt\n½ tsp cumin, ground"
+    },
+    {
+      "id": 349766,
+      "primary_message": "Juice remaining lemon into a medium bowl. Add oil, additional tahini, and spices; whisk to combine the dressing. ",
+      "secondary_message": "2 tbsp extra virgin olive oil\n4 tsp tahini\n½ tsp salt\n¼ tsp black pepper\n⅛ tsp cinnamon, ground"
+    },
+    {
+      "id": 349767,
+      "primary_message": "Trim and small dice cucumber; add to the bowl with the dressing. ",
+      "secondary_message": null
+    },
+    {
+      "id": 349768,
+      "primary_message": "Halve tomatoes and add to the bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 349769,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Add to the bowl, along with chickpeas, and stir to combine the salad; set aside. ",
+      "secondary_message": null
+    },
+    {
+      "id": 349770,
+      "primary_message": "Roughly chop pistachios.",
+      "secondary_message": "¼ cup pistachios, unsalted"
+    },
+    {
+      "id": 349771,
+      "primary_message": "To serve, divide grilled eggplant and salad between plates. Spoon tahini sauce over eggplant and sprinkle with pistachios. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 373681,
+      "quantity": "2",
+      "ingredient_name": "eggplants"
+    },
+    {
+      "id": 373690,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 373682,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 373688,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 373694,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 373692,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 373693,
+      "quantity": "¼ cup",
+      "ingredient_name": "pistachios, unsalted"
+    },
+    {
+      "id": 373689,
+      "quantity": "⅔ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 373684,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 373695,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 373685,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    },
+    {
+      "id": 373691,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 373683,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 373686,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 373687,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 373696,
+      "quantity": "",
+      "ingredient_name": "tahini"
+    }
+  ],
+  "nutrition": {
+    "energy": 579.57,
+    "alcohol": 0,
+    "ash": 7.49,
+    "caffeine": 0,
+    "water": 551.56,
+    "carbs": 60.84,
+    "fiber": 21.67,
+    "starch": 19.46,
+    "sugars": 14.16,
+    "fructose": 4.33,
+    "galactose": 0.31,
+    "glucose": 5.02,
+    "lactose": 1.04,
+    "maltose": 0.02,
+    "sucrose": 2.63,
+    "sugar_alcohol": 0.01,
+    "fat": 31.95,
+    "monounsaturated": 17.64,
+    "polyunsaturated": 7.39,
+    "omega_3": 0.32,
+    "omega_6": 7.07,
+    "saturated": 4.22,
+    "transfats": 0.03,
+    "cholesterol": 2.04,
+    "protein": 21.32,
+    "alanine": 0.94,
+    "arginine": 1.71,
+    "aspartic_acid": 2.45,
+    "cystine": 0.29,
+    "glutamic_acid": 4.19,
+    "glycine": 0.85,
+    "histidine": 0.54,
+    "isoleucine": 0.92,
+    "leucine": 1.58,
+    "lysine": 1.32,
+    "methionine": 0.34,
+    "phenylalanine": 1.01,
+    "proline": 0.99,
+    "serine": 1.04,
+    "threonine": 0.82,
+    "tryptophan": 0.27,
+    "tyrosine": 0.59,
+    "valine": 1.02,
+    "b1_thiamine": 0.43,
+    "b2_riboflavin": 0.37,
+    "b3_niacin": 3.52,
+    "b5_pantothenic_acid": 1.69,
+    "b6_pyridoxine": 0.65,
+    "b12_cobalamin": 0.31,
+    "choline": 92.14,
+    "folate": 168.97,
+    "vitamin_a": 797.78,
+    "vitamin_c": 29.03,
+    "vitamin_d": 0,
+    "vitamin_e": 4.52,
+    "vitamin_k": 74.52,
+    "calcium": 226.99,
+    "copper": 0.98,
+    "iron": 4.39,
+    "magnesium": 123.9,
+    "manganese": 2.34,
+    "phosphorus": 406.47,
+    "potassium": 1229.17,
+    "selenium": 14.38,
+    "sodium": 312.75,
+    "zinc": 2.62
+  }
 }

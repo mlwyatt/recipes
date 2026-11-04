@@ -1,602 +1,205 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 6952,
-        "recipe_id": 789,
-        "serving_count": 4,
-        "cooking_minutes": 15,
-        "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
-        "slug": "bacon-tomato-mozzarella-breakfast-pizza",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 126,
-            "name": "slotted spoon",
-            "slug": "slotted-spoon"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 96040,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 96041,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 96042,
-            "primary_message": "Chop the bacon into bite-sized pieces. Add to the skillet and cook until crispy, 3-4 minutes. When done, use a slotted spoon to transfer bacon to a plate lined with paper towels and pat dry.",
-            "secondary_message": "4 slices bacon"
-          },
-          {
-            "id": 96043,
-            "primary_message": "Wash, dry, and slice the tomatoes.",
-            "secondary_message": "2 tomatoes"
-          },
-          {
-            "id": 96044,
-            "primary_message": "Grate cheese.",
-            "secondary_message": "½ (8 oz) block mozzarella cheese"
-          },
-          {
-            "id": 96045,
-            "primary_message": "Place flatbread on a baking sheet; arrange tomatoes, cheese, and bacon on the flatbread, leaving the center open for the egg.",
-            "secondary_message": "4 flatbreads or naan"
-          },
-          {
-            "id": 96046,
-            "primary_message": "Gently break an egg into the center of each flatbread. Bake until the eggs are set, about 8 minutes.",
-            "secondary_message": "4 eggs"
-          },
-          {
-            "id": 96047,
-            "primary_message": "To serve, transfer pizzas to plates and season with salt and pepper. Enjoy!",
-            "secondary_message": "⅛ tsp salt\n⅛ tsp black pepper"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 99886,
-            "quantity": "4 slices",
-            "ingredient_name": "bacon"
-          },
-          {
-            "id": 99883,
-            "quantity": "4",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 99884,
-            "quantity": "4",
-            "ingredient_name": "flatbreads or naan"
-          },
-          {
-            "id": 99880,
-            "quantity": "½ (8 oz) block",
-            "ingredient_name": "mozzarella cheese"
-          },
-          {
-            "id": 99885,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 99881,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 99882,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 664.81,
-          "alcohol": 0,
-          "ash": 4.33,
-          "caffeine": 0,
-          "water": 173.65,
-          "carbs": 57.15,
-          "fiber": 2.78,
-          "starch": 48.99,
-          "sugars": 4.84,
-          "fructose": 0.89,
-          "galactose": 0.64,
-          "glucose": 1.09,
-          "lactose": 1.61,
-          "maltose": 0.02,
-          "sucrose": 0.55,
-          "sugar_alcohol": 0,
-          "fat": 36.29,
-          "monounsaturated": 11.99,
-          "polyunsaturated": 3.9,
-          "omega_3": 0.32,
-          "omega_6": 3.58,
-          "saturated": 17.45,
-          "transfats": 0.72,
-          "cholesterol": 241.8,
-          "protein": 26.54,
-          "alanine": 1.11,
-          "arginine": 1.12,
-          "aspartic_acid": 1.99,
-          "cystine": 0.41,
-          "glutamic_acid": 6.17,
-          "glycine": 0.86,
-          "histidine": 0.67,
-          "isoleucine": 1.22,
-          "leucine": 2.09,
-          "lysine": 1.37,
-          "methionine": 0.61,
-          "phenylalanine": 1.27,
-          "proline": 2.26,
-          "serine": 1.34,
-          "threonine": 1.02,
-          "tryptophan": 0.38,
-          "tyrosine": 1,
-          "valine": 1.47,
-          "b1_thiamine": 0.85,
-          "b2_riboflavin": 0.79,
-          "b3_niacin": 7.39,
-          "b5_pantothenic_acid": 1.6,
-          "b6_pyridoxine": 0.27,
-          "b12_cobalamin": 1.38,
-          "choline": 168.68,
-          "folate": 154.94,
-          "vitamin_a": 1362.06,
-          "vitamin_c": 8.66,
-          "vitamin_d": 54.7,
-          "vitamin_e": 1.63,
-          "vitamin_k": 7.09,
-          "calcium": 247.18,
-          "copper": 0.22,
-          "iron": 4.32,
-          "magnesium": 45.32,
-          "manganese": 0.67,
-          "phosphorus": 366.7,
-          "potassium": 441.77,
-          "selenium": 52.99,
-          "sodium": 856.73,
-          "zinc": 2.82
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/bacon-tomato-mozzarella-breakfast-pizza/6952",
-      "altVariants": [
-        {
-          "id": 6952,
-          "recipe_id": 789,
-          "group_label": "Default",
-          "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "published_recipe_uuid": "b78c9475-e2c7-40e3-a2bd-d8a443577812",
-          "fallback_published_recipe_uuids": [
-            "e3e34940-ed95-44ad-a85c-399f6f16a3d7",
-            "507192d6-df40-4821-955e-808bf933211a",
-            "5ea7b743-28f7-4874-9209-e7601d6e4ece"
-          ],
-          "first_published_at": 1561153669000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            121,
-            212,
-            57,
-            260,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            4,
-            0.5,
-            2,
-            0.625,
-            0.625
-          ],
-          "average_rating": 0.898,
-          "rating_count": 27,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6951,
-          "recipe_id": 789,
-          "group_label": "Default",
-          "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "published_recipe_uuid": "25433dfa-a87f-4840-8db4-81174db755dd",
-          "fallback_published_recipe_uuids": [
-            "7693fb13-823a-4078-b5f5-5ac75fd7ffcd",
-            "c25fcb56-0b42-4c0e-8625-276d06696602",
-            "0b488cca-fdcd-4034-9892-7108ab2175e2"
-          ],
-          "first_published_at": 1561153668000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            121,
-            212,
-            57,
-            260,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.25,
-            1,
-            0.3125,
-            0.3125
-          ],
-          "average_rating": 0.898,
-          "rating_count": 27,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6953,
-          "recipe_id": 789,
-          "group_label": "Default",
-          "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "published_recipe_uuid": "3de71b72-1fe1-47d1-ab99-8808874e5732",
-          "fallback_published_recipe_uuids": [
-            "02d66b7b-9b1f-4a10-a3b1-f5f8fec84ca1",
-            "1ca4ae5f-7c63-47ec-84a3-5414c62b8665",
-            "ca34e1d2-21cb-4da2-ba78-2953491e50c9"
-          ],
-          "first_published_at": 1561153670000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            121,
-            212,
-            57,
-            260,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            6,
-            0.75,
-            3,
-            0.9375,
-            0.9375
-          ],
-          "average_rating": 0.898,
-          "rating_count": 27,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6955,
-          "recipe_id": 789,
-          "group_label": "Default",
-          "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "published_recipe_uuid": "b41552a7-3c24-4fac-b510-0e94ba454294",
-          "fallback_published_recipe_uuids": [
-            "656c7f8f-c1b5-4e24-8794-f91e3c2ceb25",
-            "709a7e4e-fe03-479d-b6de-2ec530d2532f",
-            "b9654748-930a-492a-aa6e-1c14bc8acdcf"
-          ],
-          "first_published_at": 1561153671000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            121,
-            212,
-            57,
-            260,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            4,
-            0.5,
-            2,
-            0.625,
-            0.625
-          ],
-          "average_rating": 0.898,
-          "rating_count": 27,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6956,
-          "recipe_id": 789,
-          "group_label": "Default",
-          "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "published_recipe_uuid": "515ac63d-0c26-4acb-9466-275902e0e271",
-          "fallback_published_recipe_uuids": [
-            "871adb37-7c5e-40e6-a2fb-dd11d5ede4c5",
-            "5364f696-6e37-4511-903e-10dc636406da",
-            "81c17967-5acd-43ed-98ba-1b5a5439ba1a"
-          ],
-          "first_published_at": 1561153671000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            121,
-            212,
-            57,
-            260,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            6,
-            0.75,
-            3,
-            0.9375,
-            0.9375
-          ],
-          "average_rating": 0.898,
-          "rating_count": 27,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6954,
-          "recipe_id": 789,
-          "group_label": "Default",
-          "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
-          "published_recipe_uuid": "f9399e83-e7b0-471f-9a90-901b7fb19683",
-          "fallback_published_recipe_uuids": [
-            "c2a6dc1c-7c15-44b7-87b5-287ef655f5f9",
-            "39a36454-8288-4e3f-a916-047b2d319b22",
-            "9c92cc1d-081f-4373-b770-bc7d400c79d0"
-          ],
-          "first_published_at": 1561153670000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            302,
-            121,
-            212,
-            57,
-            260,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.25,
-            1,
-            0.3125,
-            0.3125
-          ],
-          "average_rating": 0.898,
-          "rating_count": 27,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.5
-      }
+  "id": 6952,
+  "recipe_id": 789,
+  "serving_count": 4,
+  "cooking_minutes": 15,
+  "name": "Bacon, Tomato & Mozzarella Breakfast Pizza",
+  "slug": "bacon-tomato-mozzarella-breakfast-pizza",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/thumbnail_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/789/presentation_5c3360c4-ccd7-452c-9a0d-3adc6473d147.jpg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "bacon-tomato-mozzarella-breakfast-pizza",
-    "variantId": "6952"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 126,
+      "name": "slotted spoon",
+      "slug": "slotted-spoon"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 96040,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 96041,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 96042,
+      "primary_message": "Chop the bacon into bite-sized pieces. Add to the skillet and cook until crispy, 3-4 minutes. When done, use a slotted spoon to transfer bacon to a plate lined with paper towels and pat dry.",
+      "secondary_message": "4 slices bacon"
+    },
+    {
+      "id": 96043,
+      "primary_message": "Wash, dry, and slice the tomatoes.",
+      "secondary_message": "2 tomatoes"
+    },
+    {
+      "id": 96044,
+      "primary_message": "Grate cheese.",
+      "secondary_message": "½ (8 oz) block mozzarella cheese"
+    },
+    {
+      "id": 96045,
+      "primary_message": "Place flatbread on a baking sheet; arrange tomatoes, cheese, and bacon on the flatbread, leaving the center open for the egg.",
+      "secondary_message": "4 flatbreads or naan"
+    },
+    {
+      "id": 96046,
+      "primary_message": "Gently break an egg into the center of each flatbread. Bake until the eggs are set, about 8 minutes.",
+      "secondary_message": "4 eggs"
+    },
+    {
+      "id": 96047,
+      "primary_message": "To serve, transfer pizzas to plates and season with salt and pepper. Enjoy!",
+      "secondary_message": "⅛ tsp salt\n⅛ tsp black pepper"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 99886,
+      "quantity": "4 slices",
+      "ingredient_name": "bacon"
+    },
+    {
+      "id": 99883,
+      "quantity": "4",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 99884,
+      "quantity": "4",
+      "ingredient_name": "flatbreads or naan"
+    },
+    {
+      "id": 99880,
+      "quantity": "½ (8 oz) block",
+      "ingredient_name": "mozzarella cheese"
+    },
+    {
+      "id": 99885,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 99881,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 99882,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 664.81,
+    "alcohol": 0,
+    "ash": 4.33,
+    "caffeine": 0,
+    "water": 173.65,
+    "carbs": 57.15,
+    "fiber": 2.78,
+    "starch": 48.99,
+    "sugars": 4.84,
+    "fructose": 0.89,
+    "galactose": 0.64,
+    "glucose": 1.09,
+    "lactose": 1.61,
+    "maltose": 0.02,
+    "sucrose": 0.55,
+    "sugar_alcohol": 0,
+    "fat": 36.29,
+    "monounsaturated": 11.99,
+    "polyunsaturated": 3.9,
+    "omega_3": 0.32,
+    "omega_6": 3.58,
+    "saturated": 17.45,
+    "transfats": 0.72,
+    "cholesterol": 241.8,
+    "protein": 26.54,
+    "alanine": 1.11,
+    "arginine": 1.12,
+    "aspartic_acid": 1.99,
+    "cystine": 0.41,
+    "glutamic_acid": 6.17,
+    "glycine": 0.86,
+    "histidine": 0.67,
+    "isoleucine": 1.22,
+    "leucine": 2.09,
+    "lysine": 1.37,
+    "methionine": 0.61,
+    "phenylalanine": 1.27,
+    "proline": 2.26,
+    "serine": 1.34,
+    "threonine": 1.02,
+    "tryptophan": 0.38,
+    "tyrosine": 1,
+    "valine": 1.47,
+    "b1_thiamine": 0.85,
+    "b2_riboflavin": 0.79,
+    "b3_niacin": 7.39,
+    "b5_pantothenic_acid": 1.6,
+    "b6_pyridoxine": 0.27,
+    "b12_cobalamin": 1.38,
+    "choline": 168.68,
+    "folate": 154.94,
+    "vitamin_a": 1362.06,
+    "vitamin_c": 8.66,
+    "vitamin_d": 54.7,
+    "vitamin_e": 1.63,
+    "vitamin_k": 7.09,
+    "calcium": 247.18,
+    "copper": 0.22,
+    "iron": 4.32,
+    "magnesium": 45.32,
+    "manganese": 0.67,
+    "phosphorus": 366.7,
+    "potassium": 441.77,
+    "selenium": 52.99,
+    "sodium": 856.73,
+    "zinc": 2.82
+  }
 }

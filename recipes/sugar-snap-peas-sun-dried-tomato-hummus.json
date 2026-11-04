@@ -1,643 +1,210 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22343,
-        "recipe_id": 2533,
-        "serving_count": 4,
-        "cooking_minutes": 15,
-        "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
-        "slug": "sugar-snap-peas-sun-dried-tomato-hummus",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 129,
-            "name": "silicone spatula",
-            "slug": "silicone-spatula"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 378454,
-            "primary_message": "Wash and dry snap peas. Set aside.",
-            "secondary_message": "2 (8 oz) pkg sugar snap peas"
-          },
-          {
-            "id": 378455,
-            "primary_message": "Wash, dry, and juice lemon into a blender. (Alternatively, the hummus can be prepared in a food processor.)",
-            "secondary_message": "1 lemon"
-          },
-          {
-            "id": 378456,
-            "primary_message": "Drain and rinse chickpeas. Add to the blender.",
-            "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 378457,
-            "primary_message": "Peel and roughly chop garlic. Add to the blender.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 378458,
-            "primary_message": "Roughly chop sun-dried tomatoes. Add to the blender along with water, tahini, oil, and spices. Blend on high for several minutes until smooth. Add more water to the hummus, one tablespoon at a time, if needed, to reach desired consistency.",
-            "secondary_message": "12 sun-dried tomatoes, oil-packed\n½ cup water\n2 tbsp tahini\n4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp cumin, ground\n¼ tsp paprika"
-          },
-          {
-            "id": 378459,
-            "primary_message": "To serve, divide hummus and snap peas between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 403821,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 403816,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 403824,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 403817,
-            "quantity": "2 (8 oz) pkg",
-            "ingredient_name": "sugar snap peas"
-          },
-          {
-            "id": 403822,
-            "quantity": "12",
-            "ingredient_name": "sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 403823,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 403818,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 403819,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 403820,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 403825,
-            "quantity": "",
-            "ingredient_name": "tahini"
-          }
-        ],
-        "nutrition": {
-          "energy": 334.55,
-          "alcohol": 0,
-          "ash": 3.34,
-          "caffeine": 0,
-          "water": 202.68,
-          "carbs": 42.35,
-          "fiber": 12.17,
-          "starch": 19.22,
-          "sugars": 6.72,
-          "fructose": 1.49,
-          "galactose": 0.01,
-          "glucose": 3.19,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 1.58,
-          "sugar_alcohol": 0,
-          "fat": 13.73,
-          "monounsaturated": 6.32,
-          "polyunsaturated": 3.81,
-          "omega_3": 0.14,
-          "omega_6": 3.66,
-          "saturated": 1.69,
-          "transfats": 0.01,
-          "cholesterol": 0,
-          "protein": 14.06,
-          "alanine": 0.53,
-          "arginine": 1.22,
-          "aspartic_acid": 1.52,
-          "cystine": 0.2,
-          "glutamic_acid": 2.55,
-          "glycine": 0.57,
-          "histidine": 0.32,
-          "isoleucine": 0.63,
-          "leucine": 1.03,
-          "lysine": 0.9,
-          "methionine": 0.18,
-          "phenylalanine": 0.67,
-          "proline": 0.51,
-          "serine": 0.69,
-          "threonine": 0.51,
-          "tryptophan": 0.15,
-          "tyrosine": 0.4,
-          "valine": 0.78,
-          "b1_thiamine": 0.33,
-          "b2_riboflavin": 0.19,
-          "b3_niacin": 1.64,
-          "b5_pantothenic_acid": 1.28,
-          "b6_pyridoxine": 0.4,
-          "b12_cobalamin": 0,
-          "choline": 72.17,
-          "folate": 120.65,
-          "vitamin_a": 36.44,
-          "vitamin_c": 82.51,
-          "vitamin_d": 0,
-          "vitamin_e": 1.82,
-          "vitamin_k": 39.05,
-          "calcium": 146.45,
-          "copper": 0.58,
-          "iron": 4.7,
-          "magnesium": 76.57,
-          "manganese": 1.54,
-          "phosphorus": 240.41,
-          "potassium": 415.37,
-          "selenium": 7.85,
-          "sodium": 307.5,
-          "zinc": 1.56
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sugar-snap-peas-sun-dried-tomato-hummus/22343",
-      "altVariants": [
-        {
-          "id": 22344,
-          "recipe_id": 2533,
-          "group_label": "Default",
-          "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "published_recipe_uuid": "b3326af3-314f-48c1-bab3-cd66afdb54ab",
-          "fallback_published_recipe_uuids": [
-            "b1f46b18-c71d-4835-a3b1-68dc406f2564"
-          ],
-          "first_published_at": 1670348838000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            12
-          ],
-          "ingredient_ids": [
-            92,
-            24,
-            192,
-            36,
-            162,
-            186,
-            47,
-            83,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            3,
-            18,
-            2.5,
-            30,
-            2.5,
-            3.75,
-            45
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Crispy sugar snap peas with a vibrant sun-dried tomato hummus makes for a perfect mid-day snack!"
-        },
-        {
-          "id": 22343,
-          "recipe_id": 2533,
-          "group_label": "Default",
-          "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "published_recipe_uuid": "d64550c4-fce3-43b0-aae6-c7b81e0e6758",
-          "fallback_published_recipe_uuids": [
-            "eef3c8d9-1865-4a5c-9048-4a62017fa6ce"
-          ],
-          "first_published_at": 1670348839000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            12
-          ],
-          "ingredient_ids": [
-            92,
-            24,
-            192,
-            36,
-            162,
-            186,
-            47,
-            83,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            2,
-            12,
-            1.25,
-            20,
-            1.25,
-            2.5,
-            30
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Crispy sugar snap peas with a vibrant sun-dried tomato hummus makes for a perfect mid-day snack!"
-        },
-        {
-          "id": 22342,
-          "recipe_id": 2533,
-          "group_label": "Default",
-          "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "published_recipe_uuid": "41c9f44e-4a44-4e06-8c60-691b417595e8",
-          "fallback_published_recipe_uuids": [
-            "606bd98f-7472-4ac6-95c9-922221f7169e"
-          ],
-          "first_published_at": 1670348839000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            12
-          ],
-          "ingredient_ids": [
-            92,
-            24,
-            192,
-            36,
-            162,
-            186,
-            47,
-            83,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            1,
-            6,
-            0.625,
-            10,
-            0.625,
-            1.25,
-            15
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Crispy sugar snap peas with a vibrant sun-dried tomato hummus makes for a perfect mid-day snack!"
-        },
-        {
-          "id": 22347,
-          "recipe_id": 2533,
-          "group_label": "Default",
-          "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "published_recipe_uuid": "f95c3bf5-0403-48da-84a0-f5f877eced52",
-          "fallback_published_recipe_uuids": [
-            "7246d972-eb00-4d45-ad27-6f601db25b01"
-          ],
-          "first_published_at": 1670348837000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            12
-          ],
-          "ingredient_ids": [
-            92,
-            24,
-            192,
-            36,
-            162,
-            186,
-            47,
-            83,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            3,
-            18,
-            2.5,
-            30,
-            2.5,
-            3.75,
-            45
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Crispy sugar snap peas with a vibrant sun-dried tomato hummus makes for a perfect mid-day snack!"
-        },
-        {
-          "id": 22346,
-          "recipe_id": 2533,
-          "group_label": "Default",
-          "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "published_recipe_uuid": "09f964e7-cb92-4017-9bbf-b386a5d05ce8",
-          "fallback_published_recipe_uuids": [
-            "f0e901c5-a922-4972-b6ab-a5ad4b6497ea"
-          ],
-          "first_published_at": 1670348837000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            12
-          ],
-          "ingredient_ids": [
-            92,
-            24,
-            192,
-            36,
-            162,
-            186,
-            47,
-            83,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            2,
-            12,
-            1.25,
-            20,
-            1.25,
-            2.5,
-            30
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Crispy sugar snap peas with a vibrant sun-dried tomato hummus makes for a perfect mid-day snack!"
-        },
-        {
-          "id": 22345,
-          "recipe_id": 2533,
-          "group_label": "Default",
-          "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
-          "published_recipe_uuid": "81c1143f-0720-4a73-803f-c0bab7293542",
-          "fallback_published_recipe_uuids": [
-            "2e23c12a-371a-45e7-98d6-66e58f38d792"
-          ],
-          "first_published_at": 1670348838000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            12
-          ],
-          "ingredient_ids": [
-            92,
-            24,
-            192,
-            36,
-            162,
-            186,
-            47,
-            83,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            1,
-            6,
-            0.625,
-            10,
-            0.625,
-            1.25,
-            15
-          ],
-          "average_rating": 0.719,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Crispy sugar snap peas with a vibrant sun-dried tomato hummus makes for a perfect mid-day snack!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Snack",
-        "description": "Crispy sugar snap peas with a vibrant sun-dried tomato hummus makes for a perfect mid-day snack!",
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 22343,
+  "recipe_id": 2533,
+  "serving_count": 4,
+  "cooking_minutes": 15,
+  "name": "Sugar Snap Peas with Sun-Dried Tomato Hummus",
+  "slug": "sugar-snap-peas-sun-dried-tomato-hummus",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/thumbnail_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2533/presentation_ce4f31bb-e571-41fe-b9bc-1f8556a2eb59.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sugar-snap-peas-sun-dried-tomato-hummus",
-    "variantId": "22343"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 129,
+      "name": "silicone spatula",
+      "slug": "silicone-spatula"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 378454,
+      "primary_message": "Wash and dry snap peas. Set aside.",
+      "secondary_message": "2 (8 oz) pkg sugar snap peas"
+    },
+    {
+      "id": 378455,
+      "primary_message": "Wash, dry, and juice lemon into a blender. (Alternatively, the hummus can be prepared in a food processor.)",
+      "secondary_message": "1 lemon"
+    },
+    {
+      "id": 378456,
+      "primary_message": "Drain and rinse chickpeas. Add to the blender.",
+      "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 378457,
+      "primary_message": "Peel and roughly chop garlic. Add to the blender.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 378458,
+      "primary_message": "Roughly chop sun-dried tomatoes. Add to the blender along with water, tahini, oil, and spices. Blend on high for several minutes until smooth. Add more water to the hummus, one tablespoon at a time, if needed, to reach desired consistency.",
+      "secondary_message": "12 sun-dried tomatoes, oil-packed\n½ cup water\n2 tbsp tahini\n4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp cumin, ground\n¼ tsp paprika"
+    },
+    {
+      "id": 378459,
+      "primary_message": "To serve, divide hummus and snap peas between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 403821,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 403816,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 403824,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 403817,
+      "quantity": "2 (8 oz) pkg",
+      "ingredient_name": "sugar snap peas"
+    },
+    {
+      "id": 403822,
+      "quantity": "12",
+      "ingredient_name": "sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 403823,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 403818,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 403819,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 403820,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 403825,
+      "quantity": "",
+      "ingredient_name": "tahini"
+    }
+  ],
+  "nutrition": {
+    "energy": 334.55,
+    "alcohol": 0,
+    "ash": 3.34,
+    "caffeine": 0,
+    "water": 202.68,
+    "carbs": 42.35,
+    "fiber": 12.17,
+    "starch": 19.22,
+    "sugars": 6.72,
+    "fructose": 1.49,
+    "galactose": 0.01,
+    "glucose": 3.19,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 1.58,
+    "sugar_alcohol": 0,
+    "fat": 13.73,
+    "monounsaturated": 6.32,
+    "polyunsaturated": 3.81,
+    "omega_3": 0.14,
+    "omega_6": 3.66,
+    "saturated": 1.69,
+    "transfats": 0.01,
+    "cholesterol": 0,
+    "protein": 14.06,
+    "alanine": 0.53,
+    "arginine": 1.22,
+    "aspartic_acid": 1.52,
+    "cystine": 0.2,
+    "glutamic_acid": 2.55,
+    "glycine": 0.57,
+    "histidine": 0.32,
+    "isoleucine": 0.63,
+    "leucine": 1.03,
+    "lysine": 0.9,
+    "methionine": 0.18,
+    "phenylalanine": 0.67,
+    "proline": 0.51,
+    "serine": 0.69,
+    "threonine": 0.51,
+    "tryptophan": 0.15,
+    "tyrosine": 0.4,
+    "valine": 0.78,
+    "b1_thiamine": 0.33,
+    "b2_riboflavin": 0.19,
+    "b3_niacin": 1.64,
+    "b5_pantothenic_acid": 1.28,
+    "b6_pyridoxine": 0.4,
+    "b12_cobalamin": 0,
+    "choline": 72.17,
+    "folate": 120.65,
+    "vitamin_a": 36.44,
+    "vitamin_c": 82.51,
+    "vitamin_d": 0,
+    "vitamin_e": 1.82,
+    "vitamin_k": 39.05,
+    "calcium": 146.45,
+    "copper": 0.58,
+    "iron": 4.7,
+    "magnesium": 76.57,
+    "manganese": 1.54,
+    "phosphorus": 240.41,
+    "potassium": 415.37,
+    "selenium": 7.85,
+    "sodium": 307.5,
+    "zinc": 1.56
+  }
 }

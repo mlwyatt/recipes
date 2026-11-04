@@ -1,1978 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 18882,
-        "recipe_id": 2195,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-        "slug": "white-bean-pasta-salad-tomato-cucumber-avocado-pine-nuts",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 310830,
-            "primary_message": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain pasta and rinse under cold water to cool; set aside.",
-            "secondary_message": "1 tsp salt\n10 oz rotini pasta"
-          },
-          {
-            "id": 310831,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "1 lemon\n1 pint grape tomatoes\n1 English cucumber\n1 avocado"
-          },
-          {
-            "id": 310832,
-            "primary_message": "Juice lemon into a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 310833,
-            "primary_message": "Peel and mince shallot; add to the bowl with the lemon juice.",
-            "secondary_message": "1 shallot"
-          },
-          {
-            "id": 310834,
-            "primary_message": "Add mayo and spices to the bowl; whisk to combine the dressing.",
-            "secondary_message": "¼ cup mayonnaise\n1 tsp basil, dried\n1 tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 310835,
-            "primary_message": "Quarter tomatoes and add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 310836,
-            "primary_message": "Trim and small dice cucumber; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 310837,
-            "primary_message": "Halve and pit avocado; scoop out with a spoon and medium dice the flesh. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 310838,
-            "primary_message": "Drain and rinse beans, then add to the bowl.",
-            "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
-          },
-          {
-            "id": 310839,
-            "primary_message": "Add cooked pasta and pine nuts to the bowl, then stir to combine the pasta salad.",
-            "secondary_message": "¼ cup pine nuts"
-          },
-          {
-            "id": 310840,
-            "primary_message": "To serve, divide pasta salad between plates or bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 330271,
-            "quantity": "1",
-            "ingredient_name": "avocado"
-          },
-          {
-            "id": 330268,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "cannellini (white kidney) beans"
-          },
-          {
-            "id": 330270,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 330275,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 330272,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 330273,
-            "quantity": "¼ cup",
-            "ingredient_name": "pine nuts"
-          },
-          {
-            "id": 330264,
-            "quantity": "10 oz",
-            "ingredient_name": "rotini pasta"
-          },
-          {
-            "id": 330269,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 330265,
-            "quantity": "",
-            "ingredient_name": "basil, dried"
-          },
-          {
-            "id": 330266,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 330274,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 330267,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 699.57,
-          "alcohol": 0,
-          "ash": 7.38,
-          "caffeine": 0,
-          "water": 291.71,
-          "carbs": 94.91,
-          "fiber": 15.35,
-          "starch": 61.35,
-          "sugars": 11.81,
-          "fructose": 2.05,
-          "galactose": 0.05,
-          "glucose": 2.25,
-          "lactose": 0,
-          "maltose": 1.4,
-          "sucrose": 6,
-          "sugar_alcohol": 0,
-          "fat": 27.19,
-          "monounsaturated": 9.34,
-          "polyunsaturated": 10.96,
-          "omega_3": 0.98,
-          "omega_6": 9.98,
-          "saturated": 3.79,
-          "transfats": 0.06,
-          "cholesterol": 9.14,
-          "protein": 23.56,
-          "alanine": 0.96,
-          "arginine": 1.24,
-          "aspartic_acid": 2.17,
-          "cystine": 0.34,
-          "glutamic_acid": 5.87,
-          "glycine": 0.9,
-          "histidine": 0.58,
-          "isoleucine": 1,
-          "leucine": 1.83,
-          "lysine": 1.13,
-          "methionine": 0.29,
-          "phenylalanine": 1.24,
-          "proline": 1.88,
-          "serine": 1.29,
-          "threonine": 0.83,
-          "tryptophan": 0.3,
-          "tyrosine": 0.52,
-          "valine": 1.19,
-          "b1_thiamine": 0.85,
-          "b2_riboflavin": 0.44,
-          "b3_niacin": 7.48,
-          "b5_pantothenic_acid": 1.63,
-          "b6_pyridoxine": 0.51,
-          "b12_cobalamin": 0.02,
-          "choline": 78.59,
-          "folate": 271.53,
-          "vitamin_a": 759.69,
-          "vitamin_c": 22.76,
-          "vitamin_d": 1.84,
-          "vitamin_e": 3.32,
-          "vitamin_k": 64.25,
-          "calcium": 123.39,
-          "copper": 0.86,
-          "iron": 5.79,
-          "magnesium": 134.88,
-          "manganese": 2.17,
-          "phosphorus": 414.47,
-          "potassium": 1101.96,
-          "selenium": 53.22,
-          "sodium": 322.55,
-          "zinc": 3.21
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/white-bean-pasta-salad-tomato-cucumber-avocado-pine-nuts/18882",
-      "altVariants": [
-        {
-          "id": 18881,
-          "recipe_id": 2195,
-          "group_label": "Default",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "ae165864-c062-4b64-9108-07881bc910b0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775181000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.125,
-            5,
-            0.5,
-            2.5,
-            0.625,
-            30,
-            5
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18888,
-          "recipe_id": 2195,
-          "group_label": "Default auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "5d6f3ba2-1689-424c-9f28-3b4ee1c9846b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775179000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            10,
-            1,
-            1,
-            0.25,
-            1,
-            5,
-            1.25,
-            60,
-            10
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18887,
-          "recipe_id": 2195,
-          "group_label": "Default auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "0baa4ba5-06ac-4611-9a19-37b291b5ee71",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775179000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            5,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            2.5,
-            0.625,
-            30,
-            5
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18883,
-          "recipe_id": 2195,
-          "group_label": "Default",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "f03fad6a-5809-496b-ace6-839437226c22",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775180000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            0.333,
-            15,
-            2,
-            7.5,
-            2.5,
-            90,
-            15
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18882,
-          "recipe_id": 2195,
-          "group_label": "Default",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "0dc78c06-26eb-4dce-bafe-f27a90674981",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775180000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            0.25,
-            10,
-            1,
-            5,
-            1.25,
-            60,
-            10
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18889,
-          "recipe_id": 2195,
-          "group_label": "Default auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "6162749c-33c1-4da4-a231-7df58b1fee5e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775178000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            15,
-            1.5,
-            1.5,
-            0.333,
-            2,
-            7.5,
-            2.5,
-            90,
-            15
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18884,
-          "recipe_id": 2195,
-          "group_label": "Vegan",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "4f711a12-1ff6-4f42-9f66-b496bf4eb854",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775180000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.125,
-            5,
-            0.5,
-            2.5,
-            0.625,
-            5,
-            30
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18886,
-          "recipe_id": 2195,
-          "group_label": "Vegan",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "0f25354f-3902-4e04-9e6b-277d8af53916",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775179000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            0.333,
-            15,
-            2,
-            7.5,
-            2.5,
-            15,
-            80
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18885,
-          "recipe_id": 2195,
-          "group_label": "Vegan",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "d4f8816d-518f-42cd-8629-0a739ace0e5e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775179000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            0.25,
-            10,
-            1,
-            5,
-            1.25,
-            10,
-            60
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18892,
-          "recipe_id": 2195,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "c5470101-f54a-4f99-9b5e-a206e4076038",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775177000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            15,
-            1.5,
-            1.5,
-            0.333,
-            2,
-            7.5,
-            2.5,
-            15,
-            80
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18891,
-          "recipe_id": 2195,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "1e9b1506-8b43-477e-aaad-67e93dcb96bd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775178000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            10,
-            1,
-            1,
-            0.25,
-            1,
-            5,
-            1.25,
-            10,
-            60
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18890,
-          "recipe_id": 2195,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "3bbdd6fa-2247-4996-ba26-60fc28639dce",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775178000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            5,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            2.5,
-            0.625,
-            5,
-            30
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18904,
-          "recipe_id": 2195,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "daa42de9-b885-48b4-be3e-f1254f2c519f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775174000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            425,
-            1.5,
-            1.5,
-            0.333,
-            2,
-            7.5,
-            2.5,
-            15,
-            80
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18903,
-          "recipe_id": 2195,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "ae5044a4-6eff-4b98-a6ad-65f922252a9e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775174000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            283,
-            1,
-            1,
-            0.25,
-            1,
-            5,
-            1.25,
-            10,
-            60
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18902,
-          "recipe_id": 2195,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "be8dd2f5-a4d7-4f35-9874-448a6f1289b9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775175000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            142,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            2.5,
-            0.625,
-            5,
-            30
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18901,
-          "recipe_id": 2195,
-          "group_label": "Default auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "793909c4-357b-46c5-8030-7017320b9180",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775175000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            425,
-            1.5,
-            1.5,
-            0.333,
-            2,
-            7.5,
-            2.5,
-            90,
-            15
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18900,
-          "recipe_id": 2195,
-          "group_label": "Default auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "a5540c4b-87e6-4f6c-b0c1-27e36e64bb58",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775175000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            283,
-            1,
-            1,
-            0.25,
-            1,
-            5,
-            1.25,
-            60,
-            10
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18899,
-          "recipe_id": 2195,
-          "group_label": "Default auto-gluten-free",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "a4dad6db-52f9-44ee-a19d-c1d56f2e9d3d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775175000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            67,
-            277,
-            192,
-            216,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            142,
-            0.5,
-            0.5,
-            0.125,
-            0.5,
-            2.5,
-            0.625,
-            30,
-            5
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18898,
-          "recipe_id": 2195,
-          "group_label": "Vegan",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "e5a40de0-cf49-4939-b69e-22d441be151e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775176000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            0.333,
-            425,
-            2,
-            7.5,
-            2.5,
-            15,
-            80
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18897,
-          "recipe_id": 2195,
-          "group_label": "Vegan",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "525e7256-c6b0-462c-8421-dd2cc028639b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775176000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            0.25,
-            283,
-            1,
-            5,
-            1.25,
-            10,
-            60
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18896,
-          "recipe_id": 2195,
-          "group_label": "Vegan",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "087792b0-a4b4-4803-95a3-db679ec2c296",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775176000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.125,
-            142,
-            0.5,
-            2.5,
-            0.625,
-            5,
-            30
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18895,
-          "recipe_id": 2195,
-          "group_label": "Default",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "b22508ce-fae3-4011-866c-408efb90298a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775177000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            0.333,
-            425,
-            2,
-            7.5,
-            2.5,
-            90,
-            15
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18894,
-          "recipe_id": 2195,
-          "group_label": "Default",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "21843a3b-e1e1-4e0f-9fab-c05bb434fdb2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775177000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            0.25,
-            283,
-            1,
-            5,
-            1.25,
-            60,
-            10
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        },
-        {
-          "id": 18893,
-          "recipe_id": 2195,
-          "group_label": "Default",
-          "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
-          "published_recipe_uuid": "5294bc05-ccb3-438d-920e-672aaad702e3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672775177000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            6,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            91,
-            155,
-            277,
-            192,
-            216,
-            66,
-            144,
-            70,
-            72,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.125,
-            142,
-            0.5,
-            2.5,
-            0.625,
-            30,
-            5
-          ],
-          "average_rating": 0.806,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Perfect for an uncomplicated lunch on the go!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Perfect for an uncomplicated lunch on the go!",
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 18882,
+  "recipe_id": 2195,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "White Bean Pasta Salad with Tomato, Cucumber, Avocado & Pine Nuts",
+  "slug": "white-bean-pasta-salad-tomato-cucumber-avocado-pine-nuts",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/thumbnail_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2195/presentation_0e23c380-a42a-4520-8cfe-41bf6fa647cc.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "white-bean-pasta-salad-tomato-cucumber-avocado-pine-nuts",
-    "variantId": "18882"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 310830,
+      "primary_message": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain pasta and rinse under cold water to cool; set aside.",
+      "secondary_message": "1 tsp salt\n10 oz rotini pasta"
+    },
+    {
+      "id": 310831,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "1 lemon\n1 pint grape tomatoes\n1 English cucumber\n1 avocado"
+    },
+    {
+      "id": 310832,
+      "primary_message": "Juice lemon into a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 310833,
+      "primary_message": "Peel and mince shallot; add to the bowl with the lemon juice.",
+      "secondary_message": "1 shallot"
+    },
+    {
+      "id": 310834,
+      "primary_message": "Add mayo and spices to the bowl; whisk to combine the dressing.",
+      "secondary_message": "¼ cup mayonnaise\n1 tsp basil, dried\n1 tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 310835,
+      "primary_message": "Quarter tomatoes and add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 310836,
+      "primary_message": "Trim and small dice cucumber; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 310837,
+      "primary_message": "Halve and pit avocado; scoop out with a spoon and medium dice the flesh. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 310838,
+      "primary_message": "Drain and rinse beans, then add to the bowl.",
+      "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
+    },
+    {
+      "id": 310839,
+      "primary_message": "Add cooked pasta and pine nuts to the bowl, then stir to combine the pasta salad.",
+      "secondary_message": "¼ cup pine nuts"
+    },
+    {
+      "id": 310840,
+      "primary_message": "To serve, divide pasta salad between plates or bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 330271,
+      "quantity": "1",
+      "ingredient_name": "avocado"
+    },
+    {
+      "id": 330268,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "cannellini (white kidney) beans"
+    },
+    {
+      "id": 330270,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 330275,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 330272,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 330273,
+      "quantity": "¼ cup",
+      "ingredient_name": "pine nuts"
+    },
+    {
+      "id": 330264,
+      "quantity": "10 oz",
+      "ingredient_name": "rotini pasta"
+    },
+    {
+      "id": 330269,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 330265,
+      "quantity": "",
+      "ingredient_name": "basil, dried"
+    },
+    {
+      "id": 330266,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 330274,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 330267,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 699.57,
+    "alcohol": 0,
+    "ash": 7.38,
+    "caffeine": 0,
+    "water": 291.71,
+    "carbs": 94.91,
+    "fiber": 15.35,
+    "starch": 61.35,
+    "sugars": 11.81,
+    "fructose": 2.05,
+    "galactose": 0.05,
+    "glucose": 2.25,
+    "lactose": 0,
+    "maltose": 1.4,
+    "sucrose": 6,
+    "sugar_alcohol": 0,
+    "fat": 27.19,
+    "monounsaturated": 9.34,
+    "polyunsaturated": 10.96,
+    "omega_3": 0.98,
+    "omega_6": 9.98,
+    "saturated": 3.79,
+    "transfats": 0.06,
+    "cholesterol": 9.14,
+    "protein": 23.56,
+    "alanine": 0.96,
+    "arginine": 1.24,
+    "aspartic_acid": 2.17,
+    "cystine": 0.34,
+    "glutamic_acid": 5.87,
+    "glycine": 0.9,
+    "histidine": 0.58,
+    "isoleucine": 1,
+    "leucine": 1.83,
+    "lysine": 1.13,
+    "methionine": 0.29,
+    "phenylalanine": 1.24,
+    "proline": 1.88,
+    "serine": 1.29,
+    "threonine": 0.83,
+    "tryptophan": 0.3,
+    "tyrosine": 0.52,
+    "valine": 1.19,
+    "b1_thiamine": 0.85,
+    "b2_riboflavin": 0.44,
+    "b3_niacin": 7.48,
+    "b5_pantothenic_acid": 1.63,
+    "b6_pyridoxine": 0.51,
+    "b12_cobalamin": 0.02,
+    "choline": 78.59,
+    "folate": 271.53,
+    "vitamin_a": 759.69,
+    "vitamin_c": 22.76,
+    "vitamin_d": 1.84,
+    "vitamin_e": 3.32,
+    "vitamin_k": 64.25,
+    "calcium": 123.39,
+    "copper": 0.86,
+    "iron": 5.79,
+    "magnesium": 134.88,
+    "manganese": 2.17,
+    "phosphorus": 414.47,
+    "potassium": 1101.96,
+    "selenium": 53.22,
+    "sodium": 322.55,
+    "zinc": 3.21
+  }
 }

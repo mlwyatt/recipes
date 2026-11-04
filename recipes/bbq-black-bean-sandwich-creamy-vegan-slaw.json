@@ -1,1400 +1,325 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 8808,
-        "recipe_id": 1017,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-        "slug": "bbq-black-bean-sandwich-creamy-vegan-slaw",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 86,
-            "name": "julienne peeler (optional)",
-            "slug": "julienne-peeler"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 137185,
-            "primary_message": "Peel and mince the onion. ",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 137186,
-            "primary_message": "Preheat a medium saucepan over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 137187,
-            "primary_message": "Peel and mince the garlic. ",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 137188,
-            "primary_message": "Once the saucepan is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 137189,
-            "primary_message": "Add the onion and garlic to the saucepan; cook, stirring frequently, until slightly softened, 4-5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 137190,
-            "primary_message": "Drain and rinse the beans in a colander; add to the saucepan with the onion. Stir to combine.",
-            "secondary_message": "1 (15 oz) can black beans"
-          },
-          {
-            "id": 137191,
-            "primary_message": "Add the ketchup, vinegar, soy sauce, Dijon, brown sugar, and spices to the saucepan. Reduce heat to low and simmer, stirring occasionally, while you make the slaw.",
-            "secondary_message": "½ cup ketchup\n3 tbsp apple cider vinegar\n1 tbsp soy sauce\n1 tsp Dijon mustard\n2 tbsp brown sugar\n½ tsp paprika\n½ tsp garlic powder\n¼ tsp salt"
-          },
-          {
-            "id": 137192,
-            "primary_message": "In a large bowl, whisk together the mayonnaise, vinegar, Dijon, maple syrup, and onion powder. Set aside. ",
-            "secondary_message": "½ cup vegan mayonnaise\n2 tbsp apple cider vinegar\n1 tbsp Dijon mustard\n1 tbsp pure maple syrup\n1 tsp onion powder"
-          },
-          {
-            "id": 137193,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 medium head napa cabbage\n2 medium carrots\n1 small bunch green onions (scallions)"
-          },
-          {
-            "id": 137194,
-            "primary_message": "Trim off and discard the root end of the cabbage; halve the cabbage lengthwise, then thinly slice crosswise and add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 137195,
-            "primary_message": "Trim and peel the carrots, then julienne or coarsely grate them. Add to the bowl with the cabbage.",
-            "secondary_message": null
-          },
-          {
-            "id": 137196,
-            "primary_message": "Trim off and discard the ends of the green onions; cut the onions into ¼-inch pieces and add to the bowl with the cabbage. Stir to combine the veggies with the dressing and set aside. ",
-            "secondary_message": null
-          },
-          {
-            "id": 137197,
-            "primary_message": "Toast the buns if desired.",
-            "secondary_message": "4 whole grain buns or rolls"
-          },
-          {
-            "id": 137198,
-            "primary_message": "To serve, place the bottom half of a bun on each plate. Top with bean mixture and some of the slaw; close with top half of the bun. Serve with remaining slaw on the side. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 142691,
-            "quantity": "1 (15 oz) can",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 142690,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 142678,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 142689,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 142694,
-            "quantity": "1 medium head",
-            "ingredient_name": "napa cabbage"
-          },
-          {
-            "id": 142686,
-            "quantity": "4",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 142688,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 142687,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 142695,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 142685,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 142679,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 142681,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 142693,
-            "quantity": "",
-            "ingredient_name": "ketchup"
-          },
-          {
-            "id": 142692,
-            "quantity": "",
-            "ingredient_name": "onion powder"
-          },
-          {
-            "id": 142682,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 142684,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 142683,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 142680,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          },
-          {
-            "id": 142696,
-            "quantity": "",
-            "ingredient_name": "vegan mayonnaise"
-          }
-        ],
-        "nutrition": {
-          "energy": 613.12,
-          "alcohol": 0.01,
-          "ash": 8.09,
-          "caffeine": 0,
-          "water": 383.37,
-          "carbs": 70.59,
-          "fiber": 14.73,
-          "starch": 21.51,
-          "sugars": 27.38,
-          "fructose": 6.49,
-          "galactose": 0,
-          "glucose": 7.5,
-          "lactose": 0,
-          "maltose": 1.45,
-          "sucrose": 11.97,
-          "sugar_alcohol": 0,
-          "fat": 31.92,
-          "monounsaturated": 9.68,
-          "polyunsaturated": 17.7,
-          "omega_3": 1.19,
-          "omega_6": 15.73,
-          "saturated": 3.91,
-          "transfats": 0.37,
-          "cholesterol": 16.52,
-          "protein": 16.04,
-          "alanine": 0.59,
-          "arginine": 0.72,
-          "aspartic_acid": 1.27,
-          "cystine": 0.2,
-          "glutamic_acid": 2.83,
-          "glycine": 0.49,
-          "histidine": 0.3,
-          "isoleucine": 0.59,
-          "leucine": 0.93,
-          "lysine": 0.7,
-          "methionine": 0.16,
-          "phenylalanine": 0.6,
-          "proline": 0.74,
-          "serine": 0.62,
-          "threonine": 0.48,
-          "tryptophan": 0.16,
-          "tyrosine": 0.32,
-          "valine": 0.66,
-          "b1_thiamine": 0.46,
-          "b2_riboflavin": 0.42,
-          "b3_niacin": 4.42,
-          "b5_pantothenic_acid": 0.98,
-          "b6_pyridoxine": 1.04,
-          "b12_cobalamin": 0.07,
-          "choline": 69.17,
-          "folate": 312.42,
-          "vitamin_a": 1209.91,
-          "vitamin_c": 68.48,
-          "vitamin_d": 0,
-          "vitamin_e": 8.58,
-          "vitamin_k": 162.27,
-          "calcium": 321.97,
-          "copper": 0.47,
-          "iron": 4.46,
-          "magnesium": 122.99,
-          "manganese": 2.2,
-          "phosphorus": 308.75,
-          "potassium": 1241.43,
-          "selenium": 23.57,
-          "sodium": 936.88,
-          "zinc": 2.48
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/bbq-black-bean-sandwich-creamy-vegan-slaw/8808",
-      "altVariants": [
-        {
-          "id": 8811,
-          "recipe_id": 1017,
-          "group_label": "Default auto-gluten-free",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "757f9bb3-a56b-4867-9f30-f6fb6fbf3723",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598570000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            127,
-            153,
-            292,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            4,
-            1,
-            1,
-            1,
-            75,
-            30,
-            20,
-            30,
-            2.5,
-            120,
-            5,
-            2.5,
-            15,
-            1.25,
-            15,
-            120
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8810,
-          "recipe_id": 1017,
-          "group_label": "Default auto-gluten-free",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "a602b97f-0141-4dd8-b030-321b677e68d8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598569000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            127,
-            153,
-            292,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            2,
-            0.5,
-            0.5,
-            0.5,
-            37.5,
-            15,
-            10,
-            15,
-            1.25,
-            60,
-            2.5,
-            1.25,
-            7.5,
-            0.625,
-            7.5,
-            60
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8809,
-          "recipe_id": 1017,
-          "group_label": "Default",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "a96dea9b-00ca-45ae-942b-4404afeb7f45",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598569000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            153,
-            292,
-            128,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            1.5,
-            1.5,
-            6,
-            1.5,
-            112.5,
-            45,
-            30,
-            45,
-            3.75,
-            180,
-            7.5,
-            3.75,
-            22.5,
-            2.5,
-            22.5,
-            180
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8812,
-          "recipe_id": 1017,
-          "group_label": "Default auto-gluten-free",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "27849982-0d1b-481d-a5db-0a774355b84f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598570000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            127,
-            153,
-            292,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            6,
-            1.5,
-            1.5,
-            1.5,
-            112.5,
-            45,
-            30,
-            45,
-            3.75,
-            180,
-            7.5,
-            3.75,
-            22.5,
-            2.5,
-            22.5,
-            180
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8808,
-          "recipe_id": 1017,
-          "group_label": "Default",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "837b8bf8-1a71-4b65-943d-2c7ccb10b626",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598568000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            153,
-            292,
-            128,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            1,
-            1,
-            4,
-            1,
-            75,
-            30,
-            20,
-            30,
-            2.5,
-            120,
-            5,
-            2.5,
-            15,
-            1.25,
-            15,
-            120
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8807,
-          "recipe_id": 1017,
-          "group_label": "Default",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "c7b4e9d4-5bc8-497d-9bb8-e23bee598719",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598568000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            153,
-            292,
-            128,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            37.5,
-            15,
-            10,
-            15,
-            1.25,
-            60,
-            2.5,
-            1.25,
-            7.5,
-            0.625,
-            7.5,
-            60
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8818,
-          "recipe_id": 1017,
-          "group_label": "Default auto-gluten-free",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "7e36b3b8-1252-44a8-8305-e886d809bd3b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598573000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            127,
-            153,
-            292,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            6,
-            1.5,
-            1.5,
-            1.5,
-            112.5,
-            45,
-            30,
-            45,
-            3.75,
-            180,
-            7.5,
-            3.75,
-            22.5,
-            2.5,
-            22.5,
-            180
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8817,
-          "recipe_id": 1017,
-          "group_label": "Default auto-gluten-free",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "3a4e2735-b55b-4893-a61a-dc57bc8cb0df",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598573000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            127,
-            153,
-            292,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            4,
-            1,
-            1,
-            1,
-            75,
-            30,
-            20,
-            30,
-            2.5,
-            120,
-            5,
-            2.5,
-            15,
-            1.25,
-            15,
-            120
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8816,
-          "recipe_id": 1017,
-          "group_label": "Default auto-gluten-free",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "a201e739-8f6f-424a-8e47-ca8a911ef831",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598572000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            127,
-            153,
-            292,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            2,
-            0.5,
-            0.5,
-            0.5,
-            37.5,
-            15,
-            10,
-            15,
-            1.25,
-            60,
-            2.5,
-            1.25,
-            7.5,
-            0.625,
-            7.5,
-            60
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8815,
-          "recipe_id": 1017,
-          "group_label": "Default",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "2217d1e3-8c17-4e40-b23f-2d471fe51bdd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598572000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            153,
-            292,
-            128,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            1.5,
-            1.5,
-            6,
-            1.5,
-            112.5,
-            45,
-            30,
-            45,
-            3.75,
-            180,
-            7.5,
-            3.75,
-            22.5,
-            2.5,
-            22.5,
-            180
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8814,
-          "recipe_id": 1017,
-          "group_label": "Default",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "520f7645-8171-4bab-932d-28a88edad752",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598571000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            153,
-            292,
-            128,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            1,
-            1,
-            4,
-            1,
-            75,
-            30,
-            20,
-            30,
-            2.5,
-            120,
-            5,
-            2.5,
-            15,
-            1.25,
-            15,
-            120
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8813,
-          "recipe_id": 1017,
-          "group_label": "Default",
-          "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
-          "published_recipe_uuid": "7b86fdef-bb61-4ee2-894d-46a8addf693d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1573598571000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            185,
-            159,
-            24,
-            153,
-            292,
-            128,
-            152,
-            133,
-            293,
-            117,
-            47,
-            79,
-            273,
-            200,
-            83,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            37.5,
-            15,
-            10,
-            15,
-            1.25,
-            60,
-            2.5,
-            1.25,
-            7.5,
-            0.625,
-            7.5,
-            60
-          ],
-          "average_rating": 0.789,
-          "rating_count": 76,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "American",
-        "reviewCount": 76,
-        "reviewScore": null
-      }
+  "id": 8808,
+  "recipe_id": 1017,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "BBQ Black Bean Sandwich with Creamy Vegan Slaw",
+  "slug": "bbq-black-bean-sandwich-creamy-vegan-slaw",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/thumbnail_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1017/presentation_a9c3178d-08ab-40d7-a987-90ccf3c04393.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "bbq-black-bean-sandwich-creamy-vegan-slaw",
-    "variantId": "8808"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 86,
+      "name": "julienne peeler (optional)",
+      "slug": "julienne-peeler"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 137185,
+      "primary_message": "Peel and mince the onion. ",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 137186,
+      "primary_message": "Preheat a medium saucepan over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 137187,
+      "primary_message": "Peel and mince the garlic. ",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 137188,
+      "primary_message": "Once the saucepan is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 137189,
+      "primary_message": "Add the onion and garlic to the saucepan; cook, stirring frequently, until slightly softened, 4-5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 137190,
+      "primary_message": "Drain and rinse the beans in a colander; add to the saucepan with the onion. Stir to combine.",
+      "secondary_message": "1 (15 oz) can black beans"
+    },
+    {
+      "id": 137191,
+      "primary_message": "Add the ketchup, vinegar, soy sauce, Dijon, brown sugar, and spices to the saucepan. Reduce heat to low and simmer, stirring occasionally, while you make the slaw.",
+      "secondary_message": "½ cup ketchup\n3 tbsp apple cider vinegar\n1 tbsp soy sauce\n1 tsp Dijon mustard\n2 tbsp brown sugar\n½ tsp paprika\n½ tsp garlic powder\n¼ tsp salt"
+    },
+    {
+      "id": 137192,
+      "primary_message": "In a large bowl, whisk together the mayonnaise, vinegar, Dijon, maple syrup, and onion powder. Set aside. ",
+      "secondary_message": "½ cup vegan mayonnaise\n2 tbsp apple cider vinegar\n1 tbsp Dijon mustard\n1 tbsp pure maple syrup\n1 tsp onion powder"
+    },
+    {
+      "id": 137193,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 medium head napa cabbage\n2 medium carrots\n1 small bunch green onions (scallions)"
+    },
+    {
+      "id": 137194,
+      "primary_message": "Trim off and discard the root end of the cabbage; halve the cabbage lengthwise, then thinly slice crosswise and add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 137195,
+      "primary_message": "Trim and peel the carrots, then julienne or coarsely grate them. Add to the bowl with the cabbage.",
+      "secondary_message": null
+    },
+    {
+      "id": 137196,
+      "primary_message": "Trim off and discard the ends of the green onions; cut the onions into ¼-inch pieces and add to the bowl with the cabbage. Stir to combine the veggies with the dressing and set aside. ",
+      "secondary_message": null
+    },
+    {
+      "id": 137197,
+      "primary_message": "Toast the buns if desired.",
+      "secondary_message": "4 whole grain buns or rolls"
+    },
+    {
+      "id": 137198,
+      "primary_message": "To serve, place the bottom half of a bun on each plate. Top with bean mixture and some of the slaw; close with top half of the bun. Serve with remaining slaw on the side. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 142691,
+      "quantity": "1 (15 oz) can",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 142690,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 142678,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 142689,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 142694,
+      "quantity": "1 medium head",
+      "ingredient_name": "napa cabbage"
+    },
+    {
+      "id": 142686,
+      "quantity": "4",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 142688,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 142687,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 142695,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 142685,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 142679,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 142681,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 142693,
+      "quantity": "",
+      "ingredient_name": "ketchup"
+    },
+    {
+      "id": 142692,
+      "quantity": "",
+      "ingredient_name": "onion powder"
+    },
+    {
+      "id": 142682,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 142684,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 142683,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 142680,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    },
+    {
+      "id": 142696,
+      "quantity": "",
+      "ingredient_name": "vegan mayonnaise"
+    }
+  ],
+  "nutrition": {
+    "energy": 613.12,
+    "alcohol": 0.01,
+    "ash": 8.09,
+    "caffeine": 0,
+    "water": 383.37,
+    "carbs": 70.59,
+    "fiber": 14.73,
+    "starch": 21.51,
+    "sugars": 27.38,
+    "fructose": 6.49,
+    "galactose": 0,
+    "glucose": 7.5,
+    "lactose": 0,
+    "maltose": 1.45,
+    "sucrose": 11.97,
+    "sugar_alcohol": 0,
+    "fat": 31.92,
+    "monounsaturated": 9.68,
+    "polyunsaturated": 17.7,
+    "omega_3": 1.19,
+    "omega_6": 15.73,
+    "saturated": 3.91,
+    "transfats": 0.37,
+    "cholesterol": 16.52,
+    "protein": 16.04,
+    "alanine": 0.59,
+    "arginine": 0.72,
+    "aspartic_acid": 1.27,
+    "cystine": 0.2,
+    "glutamic_acid": 2.83,
+    "glycine": 0.49,
+    "histidine": 0.3,
+    "isoleucine": 0.59,
+    "leucine": 0.93,
+    "lysine": 0.7,
+    "methionine": 0.16,
+    "phenylalanine": 0.6,
+    "proline": 0.74,
+    "serine": 0.62,
+    "threonine": 0.48,
+    "tryptophan": 0.16,
+    "tyrosine": 0.32,
+    "valine": 0.66,
+    "b1_thiamine": 0.46,
+    "b2_riboflavin": 0.42,
+    "b3_niacin": 4.42,
+    "b5_pantothenic_acid": 0.98,
+    "b6_pyridoxine": 1.04,
+    "b12_cobalamin": 0.07,
+    "choline": 69.17,
+    "folate": 312.42,
+    "vitamin_a": 1209.91,
+    "vitamin_c": 68.48,
+    "vitamin_d": 0,
+    "vitamin_e": 8.58,
+    "vitamin_k": 162.27,
+    "calcium": 321.97,
+    "copper": 0.47,
+    "iron": 4.46,
+    "magnesium": 122.99,
+    "manganese": 2.2,
+    "phosphorus": 308.75,
+    "potassium": 1241.43,
+    "selenium": 23.57,
+    "sodium": 936.88,
+    "zinc": 2.48
+  }
 }

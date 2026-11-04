@@ -1,748 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3119,
-        "recipe_id": 376,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
-        "slug": "cilantro-lime-chicken-salad-mango-avocado-bell-pepper",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 31340,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 avocados\n2 limes\n2 mangoes\n2 red bell peppers\n1 head romaine lettuce\n1 small bunch cilantro"
-          },
-          {
-            "id": 31341,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves.",
-            "secondary_message": null
-          },
-          {
-            "id": 31342,
-            "primary_message": "Peel and mince the garlic.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 31343,
-            "primary_message": "Juice the limes into a small bowl, then add ½ of the cilantro (transfer the rest to a small bowl and save for garnishing), minced garlic, olive oil, honey, crushed red pepper, salt, and pepper; whisk together. Pour ½ of the sauce into a medium bowl and set the rest aside.",
-            "secondary_message": "6 tbsp extra virgin olive oil\n2 tsp honey\n¼ tsp crushed red pepper\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 31344,
-            "primary_message": "Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin fillets.",
-            "secondary_message": "1 lb chicken breasts, boneless skinless"
-          },
-          {
-            "id": 31345,
-            "primary_message": "Add the chicken to the medium bowl and coat with the sauce; set aside to marinade for 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31346,
-            "primary_message": "Seed and cut the peppers into strips lengthwise; transfer to a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 31347,
-            "primary_message": "Peel the mangoes and cut the flesh away from the pit; medium dice the flesh. Add to the plate next to the pepper.",
-            "secondary_message": null
-          },
-          {
-            "id": 31348,
-            "primary_message": "Halve and pit the avocados; scoop out the flesh and medium dice. Add to the plate next to the pepper and mango.",
-            "secondary_message": null
-          },
-          {
-            "id": 31349,
-            "primary_message": "Heat a skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 31350,
-            "primary_message": "Quarter the lettuce lengthwise, then chop crosswise into 1-inch strips; transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 31351,
-            "primary_message": "Add olive oil to the skillet and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 31352,
-            "primary_message": "Remove the chicken from the marinade and pat dry with paper towels; place the fillets in the skillet and cook until browned and cooked through, 3 to 4 minutes per side.",
-            "secondary_message": null
-          },
-          {
-            "id": 31353,
-            "primary_message": "Slice the chicken crosswise into strips.",
-            "secondary_message": null
-          },
-          {
-            "id": 31354,
-            "primary_message": "Divide the lettuce between plates and layer the peppers, mangoes, avocado, and chicken over top. Drizzle with the remaining sauce and garnish with the remaining cilantro. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 38391,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 38390,
-            "quantity": "1 lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 38387,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 38385,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 38386,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 38392,
-            "quantity": "2",
-            "ingredient_name": "mangoes"
-          },
-          {
-            "id": 38388,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 38389,
-            "quantity": "1 head",
-            "ingredient_name": "romaine lettuce"
-          },
-          {
-            "id": 38380,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 38381,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 38384,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 38383,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 38382,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 707.79,
-          "alcohol": 0,
-          "ash": 6.61,
-          "caffeine": 0,
-          "water": 541.36,
-          "carbs": 49.21,
-          "fiber": 14.78,
-          "starch": 4.29,
-          "sugars": 31.46,
-          "fructose": 12.24,
-          "galactose": 0.21,
-          "glucose": 7.01,
-          "lactose": 0,
-          "maltose": 0.05,
-          "sucrose": 11.92,
-          "sugar_alcohol": 0,
-          "fat": 46.15,
-          "monounsaturated": 30.65,
-          "polyunsaturated": 5.59,
-          "omega_3": 0.66,
-          "omega_6": 4.95,
-          "saturated": 6.75,
-          "transfats": 0.05,
-          "cholesterol": 82.78,
-          "protein": 32.18,
-          "alanine": 1.85,
-          "arginine": 1.99,
-          "aspartic_acid": 3.18,
-          "cystine": 0.32,
-          "glutamic_acid": 4.68,
-          "glycine": 1.39,
-          "histidine": 1.08,
-          "isoleucine": 1.48,
-          "leucine": 2.49,
-          "lysine": 2.83,
-          "methionine": 0.75,
-          "phenylalanine": 1.31,
-          "proline": 1.06,
-          "serine": 1.27,
-          "threonine": 1.37,
-          "tryptophan": 0.39,
-          "tyrosine": 1.04,
-          "valine": 1.62,
-          "b1_thiamine": 0.39,
-          "b2_riboflavin": 0.59,
-          "b3_niacin": 15.12,
-          "b5_pantothenic_acid": 4,
-          "b6_pyridoxine": 1.75,
-          "b12_cobalamin": 0.24,
-          "choline": 143.59,
-          "folate": 418.99,
-          "vitamin_a": 205.15,
-          "vitamin_c": 166.48,
-          "vitamin_d": 1.13,
-          "vitamin_e": 9.83,
-          "vitamin_k": 270.71,
-          "calcium": 116.21,
-          "copper": 0.57,
-          "iron": 3.65,
-          "magnesium": 115.2,
-          "manganese": 0.75,
-          "phosphorus": 397.93,
-          "potassium": 1804.72,
-          "selenium": 28.63,
-          "sodium": 86.14,
-          "zinc": 2.24
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cilantro-lime-chicken-salad-mango-avocado-bell-pepper/3119",
-      "altVariants": [
-        {
-          "id": 3119,
-          "recipe_id": 376,
-          "group_label": "Classic",
-          "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "published_recipe_uuid": "2da45750-37e0-41ab-a213-5275eb517d28",
-          "fallback_published_recipe_uuids": [
-            "1ac4f917-55f9-497f-891b-f4609674cdf4",
-            "cd03ee22-1ee1-4b7a-aab4-887b1828dcc5",
-            "c9184a4b-b41c-4770-95e5-d31a63705f62"
-          ],
-          "first_published_at": 1480100466000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            44,
-            188,
-            24,
-            228,
-            229,
-            150,
-            25,
-            72,
-            85,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            4,
-            2,
-            2,
-            2,
-            1,
-            2.46446,
-            1.23223,
-            118.294,
-            9.85784,
-            4.92892
-          ],
-          "average_rating": 0.852,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            22,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2931,
-          "recipe_id": 376,
-          "group_label": "Classic",
-          "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "published_recipe_uuid": "2229bfd5-1268-4148-862d-d6fa4ba7d9d3",
-          "fallback_published_recipe_uuids": [
-            "d20b871a-671e-44b0-8662-72de6d63a6dd",
-            "149e157f-a0cb-4375-a2f5-ebfe2d7f9dc3",
-            "9c84b914-a65c-42a4-b84f-ba3094ac8886"
-          ],
-          "first_published_at": 1460418729000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            44,
-            188,
-            24,
-            228,
-            229,
-            150,
-            25,
-            72,
-            85,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            2,
-            1,
-            1,
-            1,
-            0.5,
-            1.23225,
-            0.616125,
-            59.148,
-            4.929,
-            2.4645
-          ],
-          "average_rating": 0.852,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            22,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5787,
-          "recipe_id": 376,
-          "group_label": "Classic",
-          "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "published_recipe_uuid": "3efa3631-8013-4fe5-bc17-c0a1d716d48e",
-          "fallback_published_recipe_uuids": [
-            "b74fa1a3-0529-4a33-8e4c-3ac9957255bd",
-            "db63eb46-1c83-40de-a703-eb40940c5aa8"
-          ],
-          "first_published_at": 1550532211000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            44,
-            188,
-            24,
-            228,
-            229,
-            150,
-            25,
-            72,
-            85,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            6,
-            3,
-            3,
-            3,
-            1.5,
-            3.69669,
-            1.848345,
-            177.441,
-            14.78676,
-            7.39338
-          ],
-          "average_rating": 0.852,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            22,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3270,
-          "recipe_id": 376,
-          "group_label": "Classic",
-          "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "published_recipe_uuid": "a8ca29d5-1f2b-4450-bae6-eb1fbb5f43b7",
-          "fallback_published_recipe_uuids": [
-            "12ded788-344d-40d8-80ab-0b7d522a5248",
-            "d16d9859-c152-4a8a-8f85-b889f845813e",
-            "cf96c6d1-9a97-475d-99d9-1898d243ce37"
-          ],
-          "first_published_at": 1484675291000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            44,
-            188,
-            24,
-            228,
-            229,
-            150,
-            25,
-            72,
-            85,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.454,
-            1,
-            4,
-            2,
-            2,
-            2,
-            1,
-            2.46446,
-            1.23223,
-            118.294,
-            9.85784,
-            4.92892
-          ],
-          "average_rating": 0.852,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            22,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3269,
-          "recipe_id": 376,
-          "group_label": "Classic",
-          "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "published_recipe_uuid": "8586d553-a65c-4625-aabc-0654d63a2d9b",
-          "fallback_published_recipe_uuids": [
-            "7270ed46-aa12-4ae8-8952-5a0642d30da4",
-            "d3a51172-7ead-49b8-9e67-9edfd07c2764",
-            "58c3ab8c-339b-4c2a-aa52-9776c4d0a54f"
-          ],
-          "first_published_at": 1484675210000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            44,
-            188,
-            24,
-            228,
-            229,
-            150,
-            25,
-            72,
-            85,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.227,
-            0.5,
-            2,
-            1,
-            1,
-            1,
-            0.5,
-            1.23225,
-            0.616125,
-            59.148,
-            4.929,
-            2.4645
-          ],
-          "average_rating": 0.852,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            22,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5863,
-          "recipe_id": 376,
-          "group_label": "Classic",
-          "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
-          "published_recipe_uuid": "c2b7f61b-e2da-4714-a3f8-53e6be61b2ce",
-          "fallback_published_recipe_uuids": [
-            "efa6604e-81eb-4cb4-b249-2dd0313803eb",
-            "d04e36e9-32ff-461f-951f-87ddd504d479"
-          ],
-          "first_published_at": 1550528265000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            44,
-            188,
-            24,
-            228,
-            229,
-            150,
-            25,
-            72,
-            85,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.681,
-            1.5,
-            6,
-            3,
-            3,
-            3,
-            1.5,
-            3.69669,
-            1.848345,
-            177.441,
-            14.78676,
-            7.39338
-          ],
-          "average_rating": 0.852,
-          "rating_count": 22,
-          "variety_tag_ids": [
-            22,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "BBQ & Grilling",
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 3119,
+  "recipe_id": 376,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Cilantro Lime Chicken Salad with Mango, Avocado & Bell Pepper",
+  "slug": "cilantro-lime-chicken-salad-mango-avocado-bell-pepper",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/thumbnail_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/376/presentation_1a236706-e8a1-4248-b770-11ee96028b9c.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cilantro-lime-chicken-salad-mango-avocado-bell-pepper",
-    "variantId": "3119"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 31340,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 avocados\n2 limes\n2 mangoes\n2 red bell peppers\n1 head romaine lettuce\n1 small bunch cilantro"
+    },
+    {
+      "id": 31341,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves.",
+      "secondary_message": null
+    },
+    {
+      "id": 31342,
+      "primary_message": "Peel and mince the garlic.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 31343,
+      "primary_message": "Juice the limes into a small bowl, then add ½ of the cilantro (transfer the rest to a small bowl and save for garnishing), minced garlic, olive oil, honey, crushed red pepper, salt, and pepper; whisk together. Pour ½ of the sauce into a medium bowl and set the rest aside.",
+      "secondary_message": "6 tbsp extra virgin olive oil\n2 tsp honey\n¼ tsp crushed red pepper\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 31344,
+      "primary_message": "Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin fillets.",
+      "secondary_message": "1 lb chicken breasts, boneless skinless"
+    },
+    {
+      "id": 31345,
+      "primary_message": "Add the chicken to the medium bowl and coat with the sauce; set aside to marinade for 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31346,
+      "primary_message": "Seed and cut the peppers into strips lengthwise; transfer to a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 31347,
+      "primary_message": "Peel the mangoes and cut the flesh away from the pit; medium dice the flesh. Add to the plate next to the pepper.",
+      "secondary_message": null
+    },
+    {
+      "id": 31348,
+      "primary_message": "Halve and pit the avocados; scoop out the flesh and medium dice. Add to the plate next to the pepper and mango.",
+      "secondary_message": null
+    },
+    {
+      "id": 31349,
+      "primary_message": "Heat a skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 31350,
+      "primary_message": "Quarter the lettuce lengthwise, then chop crosswise into 1-inch strips; transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 31351,
+      "primary_message": "Add olive oil to the skillet and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 31352,
+      "primary_message": "Remove the chicken from the marinade and pat dry with paper towels; place the fillets in the skillet and cook until browned and cooked through, 3 to 4 minutes per side.",
+      "secondary_message": null
+    },
+    {
+      "id": 31353,
+      "primary_message": "Slice the chicken crosswise into strips.",
+      "secondary_message": null
+    },
+    {
+      "id": 31354,
+      "primary_message": "Divide the lettuce between plates and layer the peppers, mangoes, avocado, and chicken over top. Drizzle with the remaining sauce and garnish with the remaining cilantro. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 38391,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 38390,
+      "quantity": "1 lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 38387,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 38385,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 38386,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 38392,
+      "quantity": "2",
+      "ingredient_name": "mangoes"
+    },
+    {
+      "id": 38388,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 38389,
+      "quantity": "1 head",
+      "ingredient_name": "romaine lettuce"
+    },
+    {
+      "id": 38380,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 38381,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 38384,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 38383,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 38382,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 707.79,
+    "alcohol": 0,
+    "ash": 6.61,
+    "caffeine": 0,
+    "water": 541.36,
+    "carbs": 49.21,
+    "fiber": 14.78,
+    "starch": 4.29,
+    "sugars": 31.46,
+    "fructose": 12.24,
+    "galactose": 0.21,
+    "glucose": 7.01,
+    "lactose": 0,
+    "maltose": 0.05,
+    "sucrose": 11.92,
+    "sugar_alcohol": 0,
+    "fat": 46.15,
+    "monounsaturated": 30.65,
+    "polyunsaturated": 5.59,
+    "omega_3": 0.66,
+    "omega_6": 4.95,
+    "saturated": 6.75,
+    "transfats": 0.05,
+    "cholesterol": 82.78,
+    "protein": 32.18,
+    "alanine": 1.85,
+    "arginine": 1.99,
+    "aspartic_acid": 3.18,
+    "cystine": 0.32,
+    "glutamic_acid": 4.68,
+    "glycine": 1.39,
+    "histidine": 1.08,
+    "isoleucine": 1.48,
+    "leucine": 2.49,
+    "lysine": 2.83,
+    "methionine": 0.75,
+    "phenylalanine": 1.31,
+    "proline": 1.06,
+    "serine": 1.27,
+    "threonine": 1.37,
+    "tryptophan": 0.39,
+    "tyrosine": 1.04,
+    "valine": 1.62,
+    "b1_thiamine": 0.39,
+    "b2_riboflavin": 0.59,
+    "b3_niacin": 15.12,
+    "b5_pantothenic_acid": 4,
+    "b6_pyridoxine": 1.75,
+    "b12_cobalamin": 0.24,
+    "choline": 143.59,
+    "folate": 418.99,
+    "vitamin_a": 205.15,
+    "vitamin_c": 166.48,
+    "vitamin_d": 1.13,
+    "vitamin_e": 9.83,
+    "vitamin_k": 270.71,
+    "calcium": 116.21,
+    "copper": 0.57,
+    "iron": 3.65,
+    "magnesium": 115.2,
+    "manganese": 0.75,
+    "phosphorus": 397.93,
+    "potassium": 1804.72,
+    "selenium": 28.63,
+    "sodium": 86.14,
+    "zinc": 2.24
+  }
 }

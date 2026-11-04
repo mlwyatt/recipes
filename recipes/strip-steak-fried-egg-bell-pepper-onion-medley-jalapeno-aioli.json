@@ -1,1116 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22691,
-        "recipe_id": 2566,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-        "slug": "strip-steak-fried-egg-bell-pepper-onion-medley-jalapeno-aioli",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 376482,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 376483,
-            "primary_message": "Wash and dry the fresh produce. ",
-            "secondary_message": "4 red bell peppers\n2 green bell peppers\n1 jalapeño pepper"
-          },
-          {
-            "id": 376484,
-            "primary_message": "Trim, seed, and medium dice bell peppers. Transfer to a large baking sheet pan. ",
-            "secondary_message": null
-          },
-          {
-            "id": 376485,
-            "primary_message": "Peel, halve, and medium dice onion; add to the baking sheet with the bell pepper. Drizzle veggies with oil, season with salt and pepper, then toss to combine and spread out in an even layer.",
-            "secondary_message": "1 medium yellow onion\n4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 376486,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring veggies halfway through, until fork-tender, about 15 minutes. Remove from oven. ",
-            "secondary_message": null
-          },
-          {
-            "id": 376487,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 376488,
-            "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 376489,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer steak to a clean plate, loosely cover with aluminum foil, and set aside to rest. (Reserve skillet for later use.)",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 376490,
-            "primary_message": "Meanwhile, quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon. Mince and place in a small bowl. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
-            "secondary_message": null
-          },
-          {
-            "id": 376491,
-            "primary_message": "Add mayo, garlic powder, and salt to the bowl with the jalapeño. Stir to combine the aioli and set aside. ",
-            "secondary_message": "¼ cup mayonnaise\n½ tsp garlic powder\n¼ tsp salt"
-          },
-          {
-            "id": 376492,
-            "primary_message": "When the steak is done, wipe the reserved skillet clean with paper towels, then return to medium heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 376493,
-            "primary_message": "Once the skillet is hot, add additional oil, and swirl to coat the bottom. Gently crack eggs into the skillet and cook until the tops of the whites are set but yolks are still runny, about 4 minutes. Remove from heat and season with salt.",
-            "secondary_message": "2 tsp extra virgin olive oil\n4 eggs\n⅛ tsp salt"
-          },
-          {
-            "id": 376494,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": null
-          },
-          {
-            "id": 376495,
-            "primary_message": "To serve, divide, steak, veggies, fried eggs, and aioli between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 401685,
-            "quantity": "4",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 401691,
-            "quantity": "2",
-            "ingredient_name": "green bell peppers"
-          },
-          {
-            "id": 401687,
-            "quantity": "1",
-            "ingredient_name": "jalapeño pepper"
-          },
-          {
-            "id": 401686,
-            "quantity": "4",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 401690,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 401688,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 401682,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 401681,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 401683,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 401689,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 401684,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 677.8,
-          "alcohol": 0,
-          "ash": 6.02,
-          "caffeine": 0,
-          "water": 338.74,
-          "carbs": 13.98,
-          "fiber": 4.24,
-          "starch": 0.39,
-          "sugars": 8.17,
-          "fructose": 3.82,
-          "galactose": 0,
-          "glucose": 3.77,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.56,
-          "sugar_alcohol": 0,
-          "fat": 50.16,
-          "monounsaturated": 23.57,
-          "polyunsaturated": 9.74,
-          "omega_3": 0.99,
-          "omega_6": 8.76,
-          "saturated": 14.52,
-          "transfats": 1.45,
-          "cholesterol": 276.58,
-          "protein": 43.77,
-          "alanine": 2.62,
-          "arginine": 2.9,
-          "aspartic_acid": 4.58,
-          "cystine": 0.52,
-          "glutamic_acid": 7.07,
-          "glycine": 2.03,
-          "histidine": 1.5,
-          "isoleucine": 2.02,
-          "leucine": 3.64,
-          "lysine": 3.89,
-          "methionine": 1.15,
-          "phenylalanine": 1.87,
-          "proline": 1.89,
-          "serine": 2.01,
-          "threonine": 2.02,
-          "tryptophan": 0.5,
-          "tyrosine": 1.58,
-          "valine": 2.25,
-          "b1_thiamine": 0.22,
-          "b2_riboflavin": 0.65,
-          "b3_niacin": 12.27,
-          "b5_pantothenic_acid": 1.78,
-          "b6_pyridoxine": 1.54,
-          "b12_cobalamin": 3.18,
-          "choline": 239.27,
-          "folate": 94.42,
-          "vitamin_a": 500.51,
-          "vitamin_c": 206.39,
-          "vitamin_d": 44.72,
-          "vitamin_e": 5.66,
-          "vitamin_k": 41.61,
-          "calcium": 77.46,
-          "copper": 0.18,
-          "iron": 4.93,
-          "magnesium": 47.25,
-          "manganese": 0.33,
-          "phosphorus": 463.34,
-          "potassium": 898.5,
-          "selenium": 51.92,
-          "sodium": 177.37,
-          "zinc": 6.74
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/strip-steak-fried-egg-bell-pepper-onion-medley-jalapeno-aioli/22691",
-      "altVariants": [
-        {
-          "id": 22692,
-          "recipe_id": 2566,
-          "group_label": "Default",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "38a163d7-35be-4aa4-927b-7a20c45c4e2b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701797000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            72,
-            47,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            1.5,
-            6,
-            2.25,
-            1.5,
-            6.25,
-            75,
-            3.75,
-            90,
-            14.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22694,
-          "recipe_id": 2566,
-          "group_label": "Keto",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "4a857171-379f-4231-8672-9a31d808a1b8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701797000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            268,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            1,
-            4,
-            1.5,
-            1,
-            60,
-            3.75,
-            50,
-            2.5,
-            9.375
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22693,
-          "recipe_id": 2566,
-          "group_label": "Keto",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "b934b07d-6ad0-49a8-b58e-d63047b61ad7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701797000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            268,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.5,
-            2,
-            0.75,
-            0.5,
-            30,
-            1.875,
-            25,
-            1.25,
-            4.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22695,
-          "recipe_id": 2566,
-          "group_label": "Keto",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "44f85578-b321-4a6a-bde6-c28a140d4dbf",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701796000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            268,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            1.5,
-            6,
-            2.25,
-            1.5,
-            90,
-            6.25,
-            75,
-            3.75,
-            14.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22691,
-          "recipe_id": 2566,
-          "group_label": "Default",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "cbb2ba99-cf8a-4d91-9594-d7ec30568f21",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701797000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            72,
-            47,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            1,
-            4,
-            1.5,
-            1,
-            3.75,
-            50,
-            2.5,
-            60,
-            9.375
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22690,
-          "recipe_id": 2566,
-          "group_label": "Default",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "b39ebe3c-3c8d-49a2-a4e3-791f748387a0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701798000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            72,
-            47,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.5,
-            2,
-            0.75,
-            0.5,
-            1.875,
-            25,
-            1.25,
-            30,
-            4.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22701,
-          "recipe_id": 2566,
-          "group_label": "Keto",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "41007e0c-0b9a-489d-a406-cd1867daab9d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701794000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            268,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            1.5,
-            6,
-            1.02,
-            1.5,
-            90,
-            6.25,
-            75,
-            3.75,
-            14.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22700,
-          "recipe_id": 2566,
-          "group_label": "Keto",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "ec7eca4a-d6f4-48b6-96d2-cdeb38526162",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701794000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            268,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            1,
-            4,
-            0.68,
-            1,
-            60,
-            3.75,
-            50,
-            2.5,
-            9.375
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22699,
-          "recipe_id": 2566,
-          "group_label": "Keto",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "3a3f8c6a-ab50-4d3b-a709-67aa7ab920c6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701795000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            268,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.5,
-            2,
-            0.34,
-            0.5,
-            30,
-            1.875,
-            25,
-            1.25,
-            4.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22698,
-          "recipe_id": 2566,
-          "group_label": "Default",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "f47ee7ee-293a-4f8f-bb3a-f0894b66549e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701795000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            72,
-            47,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            1.5,
-            6,
-            1.02,
-            1.5,
-            6.25,
-            75,
-            3.75,
-            90,
-            14.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22697,
-          "recipe_id": 2566,
-          "group_label": "Default",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "f83a9428-8c76-461f-8881-8af82b031539",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701796000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            72,
-            47,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            1,
-            4,
-            0.68,
-            1,
-            3.75,
-            50,
-            2.5,
-            60,
-            9.375
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 22696,
-          "recipe_id": 2566,
-          "group_label": "Default",
-          "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
-          "published_recipe_uuid": "a43d691f-9a32-4c5d-a19b-221e5ba799a7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701796000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            121,
-            291,
-            151,
-            150,
-            279,
-            152,
-            72,
-            47,
-            79,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.5,
-            2,
-            0.34,
-            0.5,
-            1.875,
-            25,
-            1.25,
-            30,
-            4.6875
-          ],
-          "average_rating": 0.895,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "American",
-        "reviewCount": null,
-        "reviewScore": 4.5
-      }
+  "id": 22691,
+  "recipe_id": 2566,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Strip Steak with Fried Egg, Bell Pepper-Onion Medley & Jalapeño Aioli",
+  "slug": "strip-steak-fried-egg-bell-pepper-onion-medley-jalapeno-aioli",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/thumbnail_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2566/presentation_efb842ba-5206-410c-a74a-06ed9a30d0a5.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "strip-steak-fried-egg-bell-pepper-onion-medley-jalapeno-aioli",
-    "variantId": "22691"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 376482,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 376483,
+      "primary_message": "Wash and dry the fresh produce. ",
+      "secondary_message": "4 red bell peppers\n2 green bell peppers\n1 jalapeño pepper"
+    },
+    {
+      "id": 376484,
+      "primary_message": "Trim, seed, and medium dice bell peppers. Transfer to a large baking sheet pan. ",
+      "secondary_message": null
+    },
+    {
+      "id": 376485,
+      "primary_message": "Peel, halve, and medium dice onion; add to the baking sheet with the bell pepper. Drizzle veggies with oil, season with salt and pepper, then toss to combine and spread out in an even layer.",
+      "secondary_message": "1 medium yellow onion\n4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 376486,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring veggies halfway through, until fork-tender, about 15 minutes. Remove from oven. ",
+      "secondary_message": null
+    },
+    {
+      "id": 376487,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 376488,
+      "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 376489,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer steak to a clean plate, loosely cover with aluminum foil, and set aside to rest. (Reserve skillet for later use.)",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 376490,
+      "primary_message": "Meanwhile, quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon. Mince and place in a small bowl. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
+      "secondary_message": null
+    },
+    {
+      "id": 376491,
+      "primary_message": "Add mayo, garlic powder, and salt to the bowl with the jalapeño. Stir to combine the aioli and set aside. ",
+      "secondary_message": "¼ cup mayonnaise\n½ tsp garlic powder\n¼ tsp salt"
+    },
+    {
+      "id": 376492,
+      "primary_message": "When the steak is done, wipe the reserved skillet clean with paper towels, then return to medium heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 376493,
+      "primary_message": "Once the skillet is hot, add additional oil, and swirl to coat the bottom. Gently crack eggs into the skillet and cook until the tops of the whites are set but yolks are still runny, about 4 minutes. Remove from heat and season with salt.",
+      "secondary_message": "2 tsp extra virgin olive oil\n4 eggs\n⅛ tsp salt"
+    },
+    {
+      "id": 376494,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": null
+    },
+    {
+      "id": 376495,
+      "primary_message": "To serve, divide, steak, veggies, fried eggs, and aioli between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 401685,
+      "quantity": "4",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 401691,
+      "quantity": "2",
+      "ingredient_name": "green bell peppers"
+    },
+    {
+      "id": 401687,
+      "quantity": "1",
+      "ingredient_name": "jalapeño pepper"
+    },
+    {
+      "id": 401686,
+      "quantity": "4",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 401690,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 401688,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 401682,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 401681,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 401683,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 401689,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 401684,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 677.8,
+    "alcohol": 0,
+    "ash": 6.02,
+    "caffeine": 0,
+    "water": 338.74,
+    "carbs": 13.98,
+    "fiber": 4.24,
+    "starch": 0.39,
+    "sugars": 8.17,
+    "fructose": 3.82,
+    "galactose": 0,
+    "glucose": 3.77,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.56,
+    "sugar_alcohol": 0,
+    "fat": 50.16,
+    "monounsaturated": 23.57,
+    "polyunsaturated": 9.74,
+    "omega_3": 0.99,
+    "omega_6": 8.76,
+    "saturated": 14.52,
+    "transfats": 1.45,
+    "cholesterol": 276.58,
+    "protein": 43.77,
+    "alanine": 2.62,
+    "arginine": 2.9,
+    "aspartic_acid": 4.58,
+    "cystine": 0.52,
+    "glutamic_acid": 7.07,
+    "glycine": 2.03,
+    "histidine": 1.5,
+    "isoleucine": 2.02,
+    "leucine": 3.64,
+    "lysine": 3.89,
+    "methionine": 1.15,
+    "phenylalanine": 1.87,
+    "proline": 1.89,
+    "serine": 2.01,
+    "threonine": 2.02,
+    "tryptophan": 0.5,
+    "tyrosine": 1.58,
+    "valine": 2.25,
+    "b1_thiamine": 0.22,
+    "b2_riboflavin": 0.65,
+    "b3_niacin": 12.27,
+    "b5_pantothenic_acid": 1.78,
+    "b6_pyridoxine": 1.54,
+    "b12_cobalamin": 3.18,
+    "choline": 239.27,
+    "folate": 94.42,
+    "vitamin_a": 500.51,
+    "vitamin_c": 206.39,
+    "vitamin_d": 44.72,
+    "vitamin_e": 5.66,
+    "vitamin_k": 41.61,
+    "calcium": 77.46,
+    "copper": 0.18,
+    "iron": 4.93,
+    "magnesium": 47.25,
+    "manganese": 0.33,
+    "phosphorus": 463.34,
+    "potassium": 898.5,
+    "selenium": 51.92,
+    "sodium": 177.37,
+    "zinc": 6.74
+  }
 }

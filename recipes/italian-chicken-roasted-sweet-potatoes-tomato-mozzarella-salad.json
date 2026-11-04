@@ -1,1093 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 17337,
-        "recipe_id": 2061,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
-        "slug": "italian-chicken-roasted-sweet-potatoes-tomato-mozzarella-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 281500,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 281501,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 ½ lb sweet potatoes\n1 pint grape tomatoes\n2 yellow bell peppers\n1 small pkg fresh basil"
-          },
-          {
-            "id": 281502,
-            "primary_message": "Peel and cut sweet potatoes lengthwise into ¼-inch thick strips; place in a medium bowl. Add oil and salt, toss to coat, then spread out on a large baking sheet pan. (Reserve bowl for later use.)",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt"
-          },
-          {
-            "id": 281503,
-            "primary_message": "Place sweet potato in the oven (it doesn't have to be fully heated) and bake, tossing once, until golden and fork-tender, about 25 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 281504,
-            "primary_message": "Meanwhile, place vinegar, oil, salt, and pepper in the reserved bowl; whisk to combine the dressing.",
-            "secondary_message": "4 tsp balsamic vinegar\n2 tsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 281505,
-            "primary_message": "Halve tomatoes lengthwise and add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 281506,
-            "primary_message": "Trim, seed, and medium dice bell peppers; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 281507,
-            "primary_message": "Medium dice mozzarella and add to the bowl.",
-            "secondary_message": "1 (8 oz) pkg fresh mozzarella cheese"
-          },
-          {
-            "id": 281508,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons; add to the bowl, stir to combine the salad, and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 281509,
-            "primary_message": "Pat chicken dry with paper towels. Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin fillets. Season both sides with spices.",
-            "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n2 tsp Italian seasoning\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 281510,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 281511,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chicken and pan-fry until golden brown and cooked through, 3-4 minutes per side. Remove from heat and cover to keep warm.",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 281512,
-            "primary_message": "To serve, divide chicken, sweet potatoes, and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 297898,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 297897,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 297903,
-            "quantity": "1 (8 oz) pkg",
-            "ingredient_name": "fresh mozzarella cheese"
-          },
-          {
-            "id": 297907,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 297905,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "sweet potatoes"
-          },
-          {
-            "id": 297906,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 297904,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 297900,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 297899,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 297901,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 297902,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 679.32,
-          "alcohol": 0,
-          "ash": 9.75,
-          "caffeine": 0,
-          "water": 417.83,
-          "carbs": 43.66,
-          "fiber": 6.91,
-          "starch": 21.78,
-          "sugars": 13.51,
-          "fructose": 4.47,
-          "galactose": 0.11,
-          "glucose": 4.53,
-          "lactose": 0.04,
-          "maltose": 0.05,
-          "sucrose": 4.3,
-          "sugar_alcohol": 0.07,
-          "fat": 31.28,
-          "monounsaturated": 14.93,
-          "polyunsaturated": 2.72,
-          "omega_3": 0.39,
-          "omega_6": 2.33,
-          "saturated": 10.4,
-          "transfats": 0.34,
-          "cholesterol": 169,
-          "protein": 55.1,
-          "alanine": 2.83,
-          "arginine": 3.03,
-          "aspartic_acid": 5.39,
-          "cystine": 0.52,
-          "glutamic_acid": 8.88,
-          "glycine": 2.14,
-          "histidine": 1.8,
-          "isoleucine": 2.66,
-          "leucine": 4.43,
-          "lysine": 4.4,
-          "methionine": 1.35,
-          "phenylalanine": 2.32,
-          "proline": 2.7,
-          "serine": 2.08,
-          "threonine": 2.47,
-          "tryptophan": 0.84,
-          "tyrosine": 2.06,
-          "valine": 2.93,
-          "b1_thiamine": 0.36,
-          "b2_riboflavin": 0.6,
-          "b3_niacin": 18.38,
-          "b5_pantothenic_acid": 4.17,
-          "b6_pyridoxine": 1.93,
-          "b12_cobalamin": 1.65,
-          "choline": 178.72,
-          "folate": 70.28,
-          "vitamin_a": 25333.8,
-          "vitamin_c": 124.35,
-          "vitamin_d": 10.78,
-          "vitamin_e": 4.18,
-          "vitamin_k": 49.7,
-          "calcium": 376.5,
-          "copper": 0.47,
-          "iron": 3.13,
-          "magnesium": 124.31,
-          "manganese": 0.8,
-          "phosphorus": 681.06,
-          "potassium": 1505.41,
-          "selenium": 49.7,
-          "sodium": 534.09,
-          "zinc": 3.64
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/italian-chicken-roasted-sweet-potatoes-tomato-mozzarella-salad/17337",
-      "altVariants": [
-        {
-          "id": 17337,
-          "recipe_id": 2061,
-          "group_label": "Default",
-          "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "published_recipe_uuid": "f8e70314-13fb-4192-9a59-06af9f2477f9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410678000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            107,
-            277,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            1,
-            1,
-            1.5,
-            2,
-            20,
-            3.75,
-            60,
-            10,
-            11.25
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17340,
-          "recipe_id": 2061,
-          "group_label": "Dairy-Free",
-          "name": "Italian Chicken, Sweet Potatoes & Tomato-Pepper Salad with Pine Nuts",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17340/thumbnail_af9fc386-4ef9-458a-8612-2ba6685a288c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17340/presentation_af9fc386-4ef9-458a-8612-2ba6685a288c.jpeg",
-          "published_recipe_uuid": "d31d5cc5-87fe-4021-83b5-4494c4dfb7bd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410677000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            277,
-            216,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            2,
-            0.25,
-            1.5,
-            2,
-            20,
-            3.75,
-            60,
-            10,
-            11.25
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17339,
-          "recipe_id": 2061,
-          "group_label": "Dairy-Free",
-          "name": "Italian Chicken, Sweet Potatoes & Tomato-Pepper Salad with Pine Nuts",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17339/thumbnail_5e6e1a18-15e4-49a8-8fcc-5e6d84929431.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17339/presentation_5e6e1a18-15e4-49a8-8fcc-5e6d84929431.jpeg",
-          "published_recipe_uuid": "ccc27bf0-8d54-4187-9c32-2473f9ddfb8b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410677000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            277,
-            216,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            0.5,
-            1,
-            0.125,
-            0.75,
-            1,
-            10,
-            1.875,
-            30,
-            5,
-            5.625
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17338,
-          "recipe_id": 2061,
-          "group_label": "Default",
-          "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "published_recipe_uuid": "f8f59142-1272-4dce-9c03-643c42868262",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410677000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            107,
-            277,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            1,
-            1.5,
-            1.5,
-            2.25,
-            3,
-            30,
-            6.25,
-            90,
-            15,
-            17.5
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17336,
-          "recipe_id": 2061,
-          "group_label": "Default",
-          "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "published_recipe_uuid": "852e61c2-a5e5-4bdc-bd84-ce67509db530",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410678000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            107,
-            277,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            0.5,
-            0.5,
-            0.5,
-            0.75,
-            1,
-            10,
-            1.875,
-            30,
-            5,
-            5.625
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17341,
-          "recipe_id": 2061,
-          "group_label": "Dairy-Free",
-          "name": "Italian Chicken, Sweet Potatoes & Tomato-Pepper Salad with Pine Nuts",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17341/thumbnail_c9d20e7e-ca28-4836-a5a4-8194b2d90c8f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17341/presentation_c9d20e7e-ca28-4836-a5a4-8194b2d90c8f.jpeg",
-          "published_recipe_uuid": "3797658b-95aa-4334-9d68-2047cad83080",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410676000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            277,
-            216,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            1,
-            3,
-            0.3333333333333333,
-            2.25,
-            3,
-            30,
-            6.25,
-            90,
-            15,
-            17.5
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17347,
-          "recipe_id": 2061,
-          "group_label": "Dairy-Free",
-          "name": "Italian Chicken, Sweet Potatoes & Tomato-Pepper Salad with Pine Nuts",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17347/thumbnail_6a1d6527-b245-44c8-bd6c-784a91b7be18.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17347/presentation_6a1d6527-b245-44c8-bd6c-784a91b7be18.jpeg",
-          "published_recipe_uuid": "97151783-392f-4fc8-bc49-04a3bce98422",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410674000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            277,
-            216,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            1,
-            3,
-            0.3333333333333333,
-            1.02,
-            3,
-            30,
-            6.25,
-            90,
-            15,
-            17.5
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17346,
-          "recipe_id": 2061,
-          "group_label": "Dairy-Free",
-          "name": "Italian Chicken, Sweet Potatoes & Tomato-Pepper Salad with Pine Nuts",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17346/thumbnail_ffc56626-1666-41fb-abc6-d9c6f24b44ab.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17346/presentation_ffc56626-1666-41fb-abc6-d9c6f24b44ab.jpeg",
-          "published_recipe_uuid": "6b3b9abd-41a3-40cc-bc38-ce7b87f0375e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410675000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            277,
-            216,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            1,
-            2,
-            0.25,
-            0.68,
-            2,
-            20,
-            3.75,
-            60,
-            10,
-            11.25
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17345,
-          "recipe_id": 2061,
-          "group_label": "Dairy-Free",
-          "name": "Italian Chicken, Sweet Potatoes & Tomato-Pepper Salad with Pine Nuts",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17345/thumbnail_eb578aa5-a25f-463c-aeab-987ed45023c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/17345/presentation_eb578aa5-a25f-463c-aeab-987ed45023c2.jpeg",
-          "published_recipe_uuid": "b6823584-3af5-435d-a7a7-3256c06c08a2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410675000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            6,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            277,
-            216,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            0.5,
-            1,
-            0.125,
-            0.34,
-            1,
-            10,
-            1.875,
-            30,
-            5,
-            5.625
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17344,
-          "recipe_id": 2061,
-          "group_label": "Default",
-          "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "published_recipe_uuid": "756ccb89-f852-49a9-b575-c2369e0a3b3e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410676000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            107,
-            277,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            1,
-            1.5,
-            1.5,
-            1.02,
-            3,
-            30,
-            6.25,
-            90,
-            15,
-            17.5
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17343,
-          "recipe_id": 2061,
-          "group_label": "Default",
-          "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "published_recipe_uuid": "db99a288-e53b-4c44-898a-89e757b3d551",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410676000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            107,
-            277,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            1,
-            1,
-            1,
-            0.68,
-            2,
-            20,
-            3.75,
-            60,
-            10,
-            11.25
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        },
-        {
-          "id": 17342,
-          "recipe_id": 2061,
-          "group_label": "Default",
-          "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
-          "published_recipe_uuid": "63e0bcb2-5168-4695-94da-a58edb8f2273",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1653410676000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            44,
-            28,
-            107,
-            277,
-            143,
-            265,
-            131,
-            72,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            0.5,
-            0.5,
-            0.5,
-            0.34,
-            1,
-            10,
-            1.875,
-            30,
-            5,
-            5.625
-          ],
-          "average_rating": 0.861,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Eating the rainbow is easy when it tastes this good"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Eating the rainbow is easy when it tastes this good",
-        "keywords": [
-          "Pan-Fried"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 17337,
+  "recipe_id": 2061,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Italian Chicken with Roasted Sweet Potatoes & Tomato-Mozzarella Salad",
+  "slug": "italian-chicken-roasted-sweet-potatoes-tomato-mozzarella-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/thumbnail_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2061/presentation_2efeceeb-5633-4830-97da-0c3dc9a05ea5.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "italian-chicken-roasted-sweet-potatoes-tomato-mozzarella-salad",
-    "variantId": "17337"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 281500,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 281501,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 ½ lb sweet potatoes\n1 pint grape tomatoes\n2 yellow bell peppers\n1 small pkg fresh basil"
+    },
+    {
+      "id": 281502,
+      "primary_message": "Peel and cut sweet potatoes lengthwise into ¼-inch thick strips; place in a medium bowl. Add oil and salt, toss to coat, then spread out on a large baking sheet pan. (Reserve bowl for later use.)",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt"
+    },
+    {
+      "id": 281503,
+      "primary_message": "Place sweet potato in the oven (it doesn't have to be fully heated) and bake, tossing once, until golden and fork-tender, about 25 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 281504,
+      "primary_message": "Meanwhile, place vinegar, oil, salt, and pepper in the reserved bowl; whisk to combine the dressing.",
+      "secondary_message": "4 tsp balsamic vinegar\n2 tsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 281505,
+      "primary_message": "Halve tomatoes lengthwise and add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 281506,
+      "primary_message": "Trim, seed, and medium dice bell peppers; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 281507,
+      "primary_message": "Medium dice mozzarella and add to the bowl.",
+      "secondary_message": "1 (8 oz) pkg fresh mozzarella cheese"
+    },
+    {
+      "id": 281508,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons; add to the bowl, stir to combine the salad, and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 281509,
+      "primary_message": "Pat chicken dry with paper towels. Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin fillets. Season both sides with spices.",
+      "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n2 tsp Italian seasoning\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 281510,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 281511,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chicken and pan-fry until golden brown and cooked through, 3-4 minutes per side. Remove from heat and cover to keep warm.",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 281512,
+      "primary_message": "To serve, divide chicken, sweet potatoes, and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 297898,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 297897,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 297903,
+      "quantity": "1 (8 oz) pkg",
+      "ingredient_name": "fresh mozzarella cheese"
+    },
+    {
+      "id": 297907,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 297905,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "sweet potatoes"
+    },
+    {
+      "id": 297906,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 297904,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 297900,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 297899,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 297901,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 297902,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 679.32,
+    "alcohol": 0,
+    "ash": 9.75,
+    "caffeine": 0,
+    "water": 417.83,
+    "carbs": 43.66,
+    "fiber": 6.91,
+    "starch": 21.78,
+    "sugars": 13.51,
+    "fructose": 4.47,
+    "galactose": 0.11,
+    "glucose": 4.53,
+    "lactose": 0.04,
+    "maltose": 0.05,
+    "sucrose": 4.3,
+    "sugar_alcohol": 0.07,
+    "fat": 31.28,
+    "monounsaturated": 14.93,
+    "polyunsaturated": 2.72,
+    "omega_3": 0.39,
+    "omega_6": 2.33,
+    "saturated": 10.4,
+    "transfats": 0.34,
+    "cholesterol": 169,
+    "protein": 55.1,
+    "alanine": 2.83,
+    "arginine": 3.03,
+    "aspartic_acid": 5.39,
+    "cystine": 0.52,
+    "glutamic_acid": 8.88,
+    "glycine": 2.14,
+    "histidine": 1.8,
+    "isoleucine": 2.66,
+    "leucine": 4.43,
+    "lysine": 4.4,
+    "methionine": 1.35,
+    "phenylalanine": 2.32,
+    "proline": 2.7,
+    "serine": 2.08,
+    "threonine": 2.47,
+    "tryptophan": 0.84,
+    "tyrosine": 2.06,
+    "valine": 2.93,
+    "b1_thiamine": 0.36,
+    "b2_riboflavin": 0.6,
+    "b3_niacin": 18.38,
+    "b5_pantothenic_acid": 4.17,
+    "b6_pyridoxine": 1.93,
+    "b12_cobalamin": 1.65,
+    "choline": 178.72,
+    "folate": 70.28,
+    "vitamin_a": 25333.8,
+    "vitamin_c": 124.35,
+    "vitamin_d": 10.78,
+    "vitamin_e": 4.18,
+    "vitamin_k": 49.7,
+    "calcium": 376.5,
+    "copper": 0.47,
+    "iron": 3.13,
+    "magnesium": 124.31,
+    "manganese": 0.8,
+    "phosphorus": 681.06,
+    "potassium": 1505.41,
+    "selenium": 49.7,
+    "sodium": 534.09,
+    "zinc": 3.64
+  }
 }

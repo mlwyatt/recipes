@@ -1,685 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2735,
-        "recipe_id": 313,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Roasted Zucchini Tuna Melts",
-        "slug": "roasted-zucchini-tuna-melts",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 26529,
-            "primary_message": "Preheat the oven to 450°F and position rack in the centre.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26530,
-            "primary_message": "Wash and dry the zucchini. Halve lengthwise and, using a spoon, scrape out the centre and reserve for later. Place the halves cut-side up on the baking sheet. Rub with olive oil and season with salt and pepper.",
-            "secondary_message": "4 medium zucchini squash\r\n2 tbsp extra virgin olive oil\r\n½ tsp salt\r\n½ tsp black pepper"
-          },
-          {
-            "id": 26531,
-            "primary_message": "Place in the oven and bake until just tender when pierced with a fork, 10-15 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26532,
-            "primary_message": "Small dice the reserved zucchini flesh; transfer to a large bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26533,
-            "primary_message": "Wash the celery, trim ends, and small dice; add to the bowl with the zucchini. Peel and mince the garlic; add to the bowl.",
-            "secondary_message": "4 sticks celery\n2 cloves garlic"
-          },
-          {
-            "id": 26534,
-            "primary_message": "Add tuna, lemon juice, olive oil, dill, salt, and pepper to the bowl with vegetables and mix together.",
-            "secondary_message": "4 (6 oz) cans chunk light tuna in water\njuice of ½ lemon\n4 tbsp extra virgin olive oil\n2 tsp dill\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 26535,
-            "primary_message": "Finely grate 1 cup of Parmesan.",
-            "secondary_message": "2 oz Parmesan cheese\n"
-          },
-          {
-            "id": 26536,
-            "primary_message": "Once the zucchini is done, take it out of the oven. Turn on the broiler and position rack in the upper third of the oven.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26537,
-            "primary_message": "Fill the zucchini halves with the tuna mixture and sprinkle with the grated Parmesan. Return to the oven and broil until the cheese has browned, 2-3 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26538,
-            "primary_message": "Cut the remaining ½ lemon into wedges for serving.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26539,
-            "primary_message": "To serve, place the zucchini tuna melts on a plate and garnish with lemon wedges. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 33764,
-            "quantity": "4 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 33763,
-            "quantity": "4 (6 oz) cans",
-            "ingredient_name": "chunk light tuna in water"
-          },
-          {
-            "id": 33762,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 33761,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 33760,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 33759,
-            "quantity": "4 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 33758,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 33755,
-            "quantity": "",
-            "ingredient_name": "dill, dried"
-          },
-          {
-            "id": 33757,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 33756,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 387.74,
-          "alcohol": 0,
-          "ash": 5.11,
-          "caffeine": 0,
-          "water": 333.93,
-          "carbs": 9.73,
-          "fiber": 2.89,
-          "starch": 0.63,
-          "sugars": 6.06,
-          "fructose": 3.04,
-          "galactose": 0.19,
-          "glucose": 2.45,
-          "lactose": 0.11,
-          "maltose": 0,
-          "sucrose": 0.25,
-          "sugar_alcohol": 0,
-          "fat": 26.13,
-          "monounsaturated": 16.24,
-          "polyunsaturated": 2.8,
-          "omega_3": 0.6,
-          "omega_6": 2.2,
-          "saturated": 5.61,
-          "transfats": 0.12,
-          "cholesterol": 52.84,
-          "protein": 31.35,
-          "alanine": 1.65,
-          "arginine": 1.65,
-          "aspartic_acid": 2.97,
-          "cystine": 0.3,
-          "glutamic_acid": 4.82,
-          "glycine": 1.27,
-          "histidine": 0.91,
-          "isoleucine": 1.4,
-          "leucine": 2.47,
-          "lysine": 2.68,
-          "methionine": 0.84,
-          "phenylalanine": 1.24,
-          "proline": 1.48,
-          "serine": 1.32,
-          "threonine": 1.24,
-          "tryptophan": 0.34,
-          "tyrosine": 1.11,
-          "valine": 1.63,
-          "b1_thiamine": 0.15,
-          "b2_riboflavin": 0.36,
-          "b3_niacin": 13.26,
-          "b5_pantothenic_acid": 0.78,
-          "b6_pyridoxine": 0.78,
-          "b12_cobalamin": 3.23,
-          "choline": 59.81,
-          "folate": 69.78,
-          "vitamin_a": 754.79,
-          "vitamin_c": 41.7,
-          "vitamin_d": 59.09,
-          "vitamin_e": 3.79,
-          "vitamin_k": 33.98,
-          "calcium": 74.5,
-          "copper": 0.2,
-          "iron": 3.34,
-          "magnesium": 77.99,
-          "manganese": 0.54,
-          "phosphorus": 356.28,
-          "potassium": 862.13,
-          "selenium": 88.79,
-          "sodium": 346.8,
-          "zinc": 1.95
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/roasted-zucchini-tuna-melts/2735",
-      "altVariants": [
-        {
-          "id": 5626,
-          "recipe_id": 313,
-          "group_label": "Classic",
-          "name": "Roasted Zucchini Tuna Melts",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "published_recipe_uuid": "cd470e6b-8333-4755-8943-4d6dfbad9f18",
-          "fallback_published_recipe_uuids": [
-            "653a85a3-9379-43e3-8bbc-44680f615869",
-            "6c031818-897c-40e3-9468-031c38ad2b76",
-            "cfbb7591-b7f7-4206-9dba-87039239452f"
-          ],
-          "first_published_at": 1550529937000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            157,
-            38,
-            24,
-            192,
-            120,
-            140,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            3,
-            1.5,
-            3,
-            6,
-            7.5,
-            15,
-            135,
-            7.5
-          ],
-          "average_rating": 0.633,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2735,
-          "recipe_id": 313,
-          "group_label": "Classic",
-          "name": "Roasted Zucchini Tuna Melts",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "published_recipe_uuid": "eeb04e46-7106-4ea0-b0ae-632f0827cd57",
-          "fallback_published_recipe_uuids": [
-            "c6fc4aaf-3297-4c41-ba8c-5d3f0016fd25",
-            "67ce49fc-e939-43d4-9684-2bf5f37f0d68",
-            "bd100cc1-78c2-4087-92ed-7b5b63cd97d5"
-          ],
-          "first_published_at": 1447956464000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2
-          ],
-          "ingredient_ids": [
-            157,
-            38,
-            24,
-            192,
-            120,
-            140,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            2,
-            1,
-            2,
-            4,
-            5,
-            10,
-            90,
-            5
-          ],
-          "average_rating": 0.633,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2733,
-          "recipe_id": 313,
-          "group_label": "Classic",
-          "name": "Roasted Zucchini Tuna Melts",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "published_recipe_uuid": "ce46c202-59b6-4172-a9d0-d4f710dc86b3",
-          "fallback_published_recipe_uuids": [
-            "07bf505a-1c74-442e-abad-95cbcc75a078",
-            "8860a1b1-e921-4336-b3e2-ef8cca295043",
-            "c97ba9ff-07c9-466e-8132-f4cac8c8eaac"
-          ],
-          "first_published_at": 1447956464000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2
-          ],
-          "ingredient_ids": [
-            157,
-            38,
-            24,
-            192,
-            120,
-            140,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            0.5,
-            1,
-            2,
-            2.5,
-            5,
-            45,
-            2.5
-          ],
-          "average_rating": 0.633,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5627,
-          "recipe_id": 313,
-          "group_label": "Classic",
-          "name": "Roasted Zucchini Tuna Melts",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "published_recipe_uuid": "cfc73ffb-0acd-4f7b-8228-4e96dc92cb15",
-          "fallback_published_recipe_uuids": [
-            "340b7e67-bc33-4290-b783-992b08fe3d47",
-            "7163f3d4-ee11-4c4a-ba62-352050d244bf",
-            "72ac67d0-e21a-4cfa-8e1a-f6945aa1b3eb"
-          ],
-          "first_published_at": 1550529959000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            157,
-            38,
-            24,
-            192,
-            120,
-            140,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            3,
-            1.5,
-            84,
-            6,
-            7.5,
-            15,
-            135,
-            7.5
-          ],
-          "average_rating": 0.633,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2736,
-          "recipe_id": 313,
-          "group_label": "Classic",
-          "name": "Roasted Zucchini Tuna Melts",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "published_recipe_uuid": "6749db92-2893-4c4a-b63a-a60973f716d8",
-          "fallback_published_recipe_uuids": [
-            "e538e59d-623b-4769-aec9-e49aded6fc9d",
-            "8953197a-b33f-427f-b4fe-950e2d29bb37",
-            "08876438-2b4f-49c7-9df5-22bd0146d939"
-          ],
-          "first_published_at": 1447956464000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            2
-          ],
-          "ingredient_ids": [
-            157,
-            38,
-            24,
-            192,
-            120,
-            140,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            2,
-            1,
-            56,
-            4,
-            5,
-            10,
-            90,
-            5
-          ],
-          "average_rating": 0.633,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2734,
-          "recipe_id": 313,
-          "group_label": "Classic",
-          "name": "Roasted Zucchini Tuna Melts",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
-          "published_recipe_uuid": "e389110d-65f6-4215-bac1-4133ce3bf3fd",
-          "fallback_published_recipe_uuids": [
-            "b2ba5869-c267-4492-99e9-0420e2e3ca3e",
-            "f2e60ae6-f88f-4ed1-aad2-7e8ba5bd34eb",
-            "b7933d1e-a73a-4e2b-8881-040bd3a56893"
-          ],
-          "first_published_at": 1447956464000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            157,
-            38,
-            24,
-            192,
-            120,
-            140,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            0.5,
-            28,
-            2,
-            2.5,
-            5,
-            45,
-            2.5
-          ],
-          "average_rating": 0.633,
-          "rating_count": 45,
-          "variety_tag_ids": [
-            26
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Stuffed Vegetables"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2735,
+  "recipe_id": 313,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Roasted Zucchini Tuna Melts",
+  "slug": "roasted-zucchini-tuna-melts",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/thumbnail_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/313/presentation_c3e6e784-7a53-44cd-ab02-31072d0dab7d.jpg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "roasted-zucchini-tuna-melts",
-    "variantId": "2735"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 26529,
+      "primary_message": "Preheat the oven to 450°F and position rack in the centre.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26530,
+      "primary_message": "Wash and dry the zucchini. Halve lengthwise and, using a spoon, scrape out the centre and reserve for later. Place the halves cut-side up on the baking sheet. Rub with olive oil and season with salt and pepper.",
+      "secondary_message": "4 medium zucchini squash\r\n2 tbsp extra virgin olive oil\r\n½ tsp salt\r\n½ tsp black pepper"
+    },
+    {
+      "id": 26531,
+      "primary_message": "Place in the oven and bake until just tender when pierced with a fork, 10-15 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26532,
+      "primary_message": "Small dice the reserved zucchini flesh; transfer to a large bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26533,
+      "primary_message": "Wash the celery, trim ends, and small dice; add to the bowl with the zucchini. Peel and mince the garlic; add to the bowl.",
+      "secondary_message": "4 sticks celery\n2 cloves garlic"
+    },
+    {
+      "id": 26534,
+      "primary_message": "Add tuna, lemon juice, olive oil, dill, salt, and pepper to the bowl with vegetables and mix together.",
+      "secondary_message": "4 (6 oz) cans chunk light tuna in water\njuice of ½ lemon\n4 tbsp extra virgin olive oil\n2 tsp dill\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 26535,
+      "primary_message": "Finely grate 1 cup of Parmesan.",
+      "secondary_message": "2 oz Parmesan cheese\n"
+    },
+    {
+      "id": 26536,
+      "primary_message": "Once the zucchini is done, take it out of the oven. Turn on the broiler and position rack in the upper third of the oven.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26537,
+      "primary_message": "Fill the zucchini halves with the tuna mixture and sprinkle with the grated Parmesan. Return to the oven and broil until the cheese has browned, 2-3 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26538,
+      "primary_message": "Cut the remaining ½ lemon into wedges for serving.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26539,
+      "primary_message": "To serve, place the zucchini tuna melts on a plate and garnish with lemon wedges. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 33764,
+      "quantity": "4 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 33763,
+      "quantity": "4 (6 oz) cans",
+      "ingredient_name": "chunk light tuna in water"
+    },
+    {
+      "id": 33762,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 33761,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 33760,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 33759,
+      "quantity": "4 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 33758,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 33755,
+      "quantity": "",
+      "ingredient_name": "dill, dried"
+    },
+    {
+      "id": 33757,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 33756,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 387.74,
+    "alcohol": 0,
+    "ash": 5.11,
+    "caffeine": 0,
+    "water": 333.93,
+    "carbs": 9.73,
+    "fiber": 2.89,
+    "starch": 0.63,
+    "sugars": 6.06,
+    "fructose": 3.04,
+    "galactose": 0.19,
+    "glucose": 2.45,
+    "lactose": 0.11,
+    "maltose": 0,
+    "sucrose": 0.25,
+    "sugar_alcohol": 0,
+    "fat": 26.13,
+    "monounsaturated": 16.24,
+    "polyunsaturated": 2.8,
+    "omega_3": 0.6,
+    "omega_6": 2.2,
+    "saturated": 5.61,
+    "transfats": 0.12,
+    "cholesterol": 52.84,
+    "protein": 31.35,
+    "alanine": 1.65,
+    "arginine": 1.65,
+    "aspartic_acid": 2.97,
+    "cystine": 0.3,
+    "glutamic_acid": 4.82,
+    "glycine": 1.27,
+    "histidine": 0.91,
+    "isoleucine": 1.4,
+    "leucine": 2.47,
+    "lysine": 2.68,
+    "methionine": 0.84,
+    "phenylalanine": 1.24,
+    "proline": 1.48,
+    "serine": 1.32,
+    "threonine": 1.24,
+    "tryptophan": 0.34,
+    "tyrosine": 1.11,
+    "valine": 1.63,
+    "b1_thiamine": 0.15,
+    "b2_riboflavin": 0.36,
+    "b3_niacin": 13.26,
+    "b5_pantothenic_acid": 0.78,
+    "b6_pyridoxine": 0.78,
+    "b12_cobalamin": 3.23,
+    "choline": 59.81,
+    "folate": 69.78,
+    "vitamin_a": 754.79,
+    "vitamin_c": 41.7,
+    "vitamin_d": 59.09,
+    "vitamin_e": 3.79,
+    "vitamin_k": 33.98,
+    "calcium": 74.5,
+    "copper": 0.2,
+    "iron": 3.34,
+    "magnesium": 77.99,
+    "manganese": 0.54,
+    "phosphorus": 356.28,
+    "potassium": 862.13,
+    "selenium": 88.79,
+    "sodium": 346.8,
+    "zinc": 1.95
+  }
 }

@@ -1,1177 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2060,
-        "recipe_id": 231,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-        "slug": "egg-salad-spinach-sandwich-grape-tomatoes",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 19362,
-            "primary_message": "Place eggs in a small saucepan, cover with water, and bring to a boil. Reduce heat to a simmer and cook for 8 minutes. Drain hot water and add ice or run under cold water to cool.",
-            "secondary_message": "8 eggs"
-          },
-          {
-            "id": 19363,
-            "primary_message": "Peel and mince garlic. In a large bowl, prepared dressing by mixing together garlic, mayo, Dijon, dill, paprika, salt, and pepper.",
-            "secondary_message": "2 cloves garlic\r\n6 tbsp mayonnaise\r\n2 tsp Dijon mustard\r\n½ tsp dill\r\n¼ tsp paprika\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 19364,
-            "primary_message": "Wash celery and green onions. Small dice celery and add to bowl with dressing. Trim and discard green onion roots ends, chop, and add to bowl.",
-            "secondary_message": "4 sticks celery\r\n1 small bunch green onions (scallions)"
-          },
-          {
-            "id": 19365,
-            "primary_message": "Wash and dry spinach.",
-            "secondary_message": "1 (5 oz) pkg baby spinach"
-          },
-          {
-            "id": 19366,
-            "primary_message": "Wash tomatoes.",
-            "secondary_message": "2 pints grape tomatoes"
-          },
-          {
-            "id": 19367,
-            "primary_message": "Toast bread.",
-            "secondary_message": "8 slices whole grain bread"
-          },
-          {
-            "id": 19368,
-            "primary_message": "Peel, medium dice, and add eggs to bowl with other ingredients. Stir to combine.",
-            "secondary_message": ""
-          },
-          {
-            "id": 19369,
-            "primary_message": "Place bread in pairs on a flat surface. Arrange spinach leaves over one slice of bread in each pair, then top with egg salad and a second slice of bread.",
-            "secondary_message": ""
-          },
-          {
-            "id": 19370,
-            "primary_message": "Serve sandwiches with tomatoes on the side and enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 25720,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 25715,
-            "quantity": "4 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 25716,
-            "quantity": "8",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 34867,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 25721,
-            "quantity": "2 pints",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 25717,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 25718,
-            "quantity": "8 slices",
-            "ingredient_name": "whole grain bread"
-          },
-          {
-            "id": 25722,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 25723,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 25719,
-            "quantity": "",
-            "ingredient_name": "dill, dried"
-          },
-          {
-            "id": 25724,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 25725,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 25726,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 494.26,
-          "alcohol": 0,
-          "ash": 5.4,
-          "caffeine": 0,
-          "water": 324.44,
-          "carbs": 39.22,
-          "fiber": 7.85,
-          "starch": 18.98,
-          "sugars": 8.58,
-          "fructose": 3.81,
-          "galactose": 0.23,
-          "glucose": 3.53,
-          "lactose": 0.01,
-          "maltose": 0.65,
-          "sucrose": 0.53,
-          "sugar_alcohol": 0,
-          "fat": 28.31,
-          "monounsaturated": 7.75,
-          "polyunsaturated": 12.62,
-          "omega_3": 1.38,
-          "omega_6": 11.23,
-          "saturated": 6.04,
-          "transfats": 0.13,
-          "cholesterol": 341.06,
-          "protein": 22.53,
-          "alanine": 0.79,
-          "arginine": 0.89,
-          "aspartic_acid": 1.58,
-          "cystine": 0.28,
-          "glutamic_acid": 2.41,
-          "glycine": 0.51,
-          "histidine": 0.34,
-          "isoleucine": 0.72,
-          "leucine": 1.15,
-          "lysine": 0.97,
-          "methionine": 0.38,
-          "phenylalanine": 0.72,
-          "proline": 0.58,
-          "serine": 0.99,
-          "threonine": 0.62,
-          "tryptophan": 0.18,
-          "tyrosine": 0.53,
-          "valine": 0.9,
-          "b1_thiamine": 0.4,
-          "b2_riboflavin": 0.66,
-          "b3_niacin": 4.34,
-          "b5_pantothenic_acid": 2.09,
-          "b6_pyridoxine": 0.55,
-          "b12_cobalamin": 0.81,
-          "choline": 307.79,
-          "folate": 191.74,
-          "vitamin_a": 2130.95,
-          "vitamin_c": 36.6,
-          "vitamin_d": 74.91,
-          "vitamin_e": 5.84,
-          "vitamin_k": 282.38,
-          "calcium": 243.37,
-          "copper": 0.39,
-          "iron": 5.17,
-          "magnesium": 114.77,
-          "manganese": 2.08,
-          "phosphorus": 392.81,
-          "potassium": 1006.52,
-          "selenium": 53.6,
-          "sodium": 534.23,
-          "zinc": 2.94
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/egg-salad-spinach-sandwich-grape-tomatoes/2060",
-      "altVariants": [
-        {
-          "id": 5303,
-          "recipe_id": 231,
-          "group_label": "Classic Gluten-Free",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "2d21f194-62fb-442f-abbb-2bed0986a7c2",
-          "fallback_published_recipe_uuids": [
-            "0b577c1d-59d6-4aa3-9904-752f6f37c386",
-            "bdbba7d2-8948-436a-a04d-fec869482327",
-            "de39ce66-a553-4208-bccd-556d081d9613"
-          ],
-          "first_published_at": 1550531488000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            266,
-            277,
-            153,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            12,
-            3,
-            12,
-            3,
-            1.5,
-            1.875,
-            15,
-            3.75,
-            135,
-            1.875,
-            3.75
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2064,
-          "recipe_id": 231,
-          "group_label": "Classic Gluten-Free",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "b8d50b02-d0d0-4187-a317-8189a3817335",
-          "fallback_published_recipe_uuids": [
-            "9969b05d-ade5-4c8b-9107-56bb68221abe",
-            "bbba75b1-a5b7-4d07-b2d8-45df000ea99c",
-            "7e6db8ef-5bcd-4ce9-9d59-9b97fbbfb673"
-          ],
-          "first_published_at": 1447956372000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            266,
-            277,
-            153,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            8,
-            2,
-            8,
-            2,
-            1,
-            1.25,
-            10,
-            2.5,
-            90,
-            1.25,
-            2.5
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2020,
-          "recipe_id": 231,
-          "group_label": "Classic",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "ef26be28-3a97-4f8f-838f-fc10fb4fff20",
-          "fallback_published_recipe_uuids": [
-            "bb167978-f11d-414c-8745-bfce3e59d6c2",
-            "952e29ed-41af-40e1-bd61-46539391fdfc",
-            "94511dac-566a-497b-a717-f97e6e7265cc"
-          ],
-          "first_published_at": 1447956367000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            1,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            277,
-            153,
-            191,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            4,
-            1,
-            1,
-            0.5,
-            4,
-            0.625,
-            5,
-            1.25,
-            45,
-            0.625,
-            1.25
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2062,
-          "recipe_id": 231,
-          "group_label": "Classic Gluten-Free",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "7c73583f-f909-4e1c-92c2-a2a275e56343",
-          "fallback_published_recipe_uuids": [
-            "6b22a58e-43d7-4dc8-8023-d4d919d35d56",
-            "e53721ba-6367-4a3d-bbf9-cfbcb8ba51d3",
-            "5d09f737-6e69-464e-b265-72481e3fbc55"
-          ],
-          "first_published_at": 1447956372000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            266,
-            277,
-            153,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            4,
-            1,
-            4,
-            1,
-            0.5,
-            0.625,
-            5,
-            1.25,
-            45,
-            0.625,
-            1.25
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2060,
-          "recipe_id": 231,
-          "group_label": "Classic",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "e8d5e786-c170-413f-b217-bc2a12353207",
-          "fallback_published_recipe_uuids": [
-            "b0486703-6f38-41b2-9f29-ede938a7c7cb",
-            "9a8f8008-388e-4103-b789-2349ee8e39ed",
-            "95cbeeee-4b82-45d9-93c2-c3df89442c51"
-          ],
-          "first_published_at": 1447956372000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            1,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            277,
-            153,
-            191,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            8,
-            2,
-            2,
-            1,
-            8,
-            1.25,
-            10,
-            2.5,
-            90,
-            1.25,
-            2.5
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5300,
-          "recipe_id": 231,
-          "group_label": "Classic",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "30481b8d-9c91-4676-ae0d-e496d5dc2f30",
-          "fallback_published_recipe_uuids": [
-            "2a641814-fb34-4e00-ab18-69aa21e05af0",
-            "8c4ecb82-6e81-499e-b471-6d785db6cce9",
-            "5dfd257e-4dd8-4c46-ad26-5e777594892c"
-          ],
-          "first_published_at": 1550531458000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            14,
-            13,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            277,
-            153,
-            191,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            12,
-            3,
-            3,
-            1.5,
-            12,
-            1.875,
-            15,
-            3.75,
-            135,
-            1.875,
-            3.75
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5302,
-          "recipe_id": 231,
-          "group_label": "Classic Gluten-Free",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "3107cf66-f437-4817-ba06-efd2e72c261f",
-          "fallback_published_recipe_uuids": [
-            "65a41401-606d-4ef8-aad5-bb5f73776318",
-            "251af94b-1f47-4ccf-a544-1dba11b4abaa",
-            "15798165-3ba2-42a6-9317-5ddf12060021"
-          ],
-          "first_published_at": 1550531466000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            266,
-            277,
-            153,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            12,
-            3,
-            12,
-            3,
-            1.5,
-            1.875,
-            15,
-            3.75,
-            135,
-            1.875,
-            3.75
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2063,
-          "recipe_id": 231,
-          "group_label": "Classic Gluten-Free",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "9306d54c-04ea-4592-a6e6-f276aa542c0b",
-          "fallback_published_recipe_uuids": [
-            "73628aa5-33da-456d-bc46-c2f9479d2cfc",
-            "08fd4a15-7013-43f0-b946-65960bc66efe",
-            "fe43666a-f320-4032-a38f-0137727c3396"
-          ],
-          "first_published_at": 1447956372000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            266,
-            277,
-            153,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            8,
-            2,
-            8,
-            2,
-            1,
-            1.25,
-            10,
-            2.5,
-            90,
-            1.25,
-            2.5
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5301,
-          "recipe_id": 231,
-          "group_label": "Classic",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "22327e8c-c678-4592-9e69-a0859b79ebde",
-          "fallback_published_recipe_uuids": [
-            "2e1d9317-4936-49b3-b71c-2547f7d866e7",
-            "70fb02de-3a24-4d00-a03c-ffcef8bf1cc4",
-            "08157e0d-fcfe-43f7-aeb4-0cfe5dcc17f5"
-          ],
-          "first_published_at": 1550531406000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            277,
-            153,
-            191,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            12,
-            3,
-            3,
-            1.5,
-            12,
-            1.875,
-            15,
-            3.75,
-            135,
-            1.875,
-            3.75
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2065,
-          "recipe_id": 231,
-          "group_label": "Classic Gluten-Free",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "b1d2f25c-4da7-40fd-b34f-3ebc4e762a56",
-          "fallback_published_recipe_uuids": [
-            "38439c61-ab17-4307-bd30-932775250d64",
-            "85b3f2ab-0eda-4ddf-b9c5-adec56c01d4e",
-            "c3b4f597-56ae-4999-940e-9a0348a44202"
-          ],
-          "first_published_at": 1447956372000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            266,
-            277,
-            153,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            4,
-            1,
-            4,
-            1,
-            0.5,
-            0.625,
-            5,
-            1.25,
-            45,
-            0.625,
-            1.25
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2061,
-          "recipe_id": 231,
-          "group_label": "Classic",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "ec45c480-1820-44da-a91d-1092ddd7d5eb",
-          "fallback_published_recipe_uuids": [
-            "21641e7f-d96e-442f-a37e-d6dc729c49c2",
-            "29e90230-b446-4562-8191-071a4ba75d24",
-            "2cf34a90-4232-41da-a99b-b682fdb85e12"
-          ],
-          "first_published_at": 1447956372000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            277,
-            153,
-            191,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            8,
-            2,
-            2,
-            1,
-            8,
-            1.25,
-            10,
-            2.5,
-            90,
-            1.25,
-            2.5
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2059,
-          "recipe_id": 231,
-          "group_label": "Classic",
-          "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
-          "published_recipe_uuid": "102967e9-b11a-4e01-affa-22b3e032446f",
-          "fallback_published_recipe_uuids": [
-            "afb98a76-db17-4083-9537-43379bc20679",
-            "02d9e998-b19e-468d-aab2-776e1087363e",
-            "457d11b0-d8ee-431b-b452-27c748fd1615"
-          ],
-          "first_published_at": 1447956371000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            14,
-            13,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            33,
-            157,
-            121,
-            24,
-            277,
-            153,
-            191,
-            72,
-            117,
-            78,
-            267,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            4,
-            1,
-            1,
-            0.5,
-            4,
-            0.625,
-            5,
-            1.25,
-            45,
-            0.625,
-            1.25
-          ],
-          "average_rating": 0.786,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2060,
+  "recipe_id": 231,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Egg Salad & Spinach Sandwich with Grape Tomatoes",
+  "slug": "egg-salad-spinach-sandwich-grape-tomatoes",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/thumbnail_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/231/presentation_06d8a6b0-8f7b-4c3c-b6c1-6dc08dce3389.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "egg-salad-spinach-sandwich-grape-tomatoes",
-    "variantId": "2060"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 19362,
+      "primary_message": "Place eggs in a small saucepan, cover with water, and bring to a boil. Reduce heat to a simmer and cook for 8 minutes. Drain hot water and add ice or run under cold water to cool.",
+      "secondary_message": "8 eggs"
+    },
+    {
+      "id": 19363,
+      "primary_message": "Peel and mince garlic. In a large bowl, prepared dressing by mixing together garlic, mayo, Dijon, dill, paprika, salt, and pepper.",
+      "secondary_message": "2 cloves garlic\r\n6 tbsp mayonnaise\r\n2 tsp Dijon mustard\r\n½ tsp dill\r\n¼ tsp paprika\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 19364,
+      "primary_message": "Wash celery and green onions. Small dice celery and add to bowl with dressing. Trim and discard green onion roots ends, chop, and add to bowl.",
+      "secondary_message": "4 sticks celery\r\n1 small bunch green onions (scallions)"
+    },
+    {
+      "id": 19365,
+      "primary_message": "Wash and dry spinach.",
+      "secondary_message": "1 (5 oz) pkg baby spinach"
+    },
+    {
+      "id": 19366,
+      "primary_message": "Wash tomatoes.",
+      "secondary_message": "2 pints grape tomatoes"
+    },
+    {
+      "id": 19367,
+      "primary_message": "Toast bread.",
+      "secondary_message": "8 slices whole grain bread"
+    },
+    {
+      "id": 19368,
+      "primary_message": "Peel, medium dice, and add eggs to bowl with other ingredients. Stir to combine.",
+      "secondary_message": ""
+    },
+    {
+      "id": 19369,
+      "primary_message": "Place bread in pairs on a flat surface. Arrange spinach leaves over one slice of bread in each pair, then top with egg salad and a second slice of bread.",
+      "secondary_message": ""
+    },
+    {
+      "id": 19370,
+      "primary_message": "Serve sandwiches with tomatoes on the side and enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 25720,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 25715,
+      "quantity": "4 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 25716,
+      "quantity": "8",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 34867,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 25721,
+      "quantity": "2 pints",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 25717,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 25718,
+      "quantity": "8 slices",
+      "ingredient_name": "whole grain bread"
+    },
+    {
+      "id": 25722,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 25723,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 25719,
+      "quantity": "",
+      "ingredient_name": "dill, dried"
+    },
+    {
+      "id": 25724,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 25725,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 25726,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 494.26,
+    "alcohol": 0,
+    "ash": 5.4,
+    "caffeine": 0,
+    "water": 324.44,
+    "carbs": 39.22,
+    "fiber": 7.85,
+    "starch": 18.98,
+    "sugars": 8.58,
+    "fructose": 3.81,
+    "galactose": 0.23,
+    "glucose": 3.53,
+    "lactose": 0.01,
+    "maltose": 0.65,
+    "sucrose": 0.53,
+    "sugar_alcohol": 0,
+    "fat": 28.31,
+    "monounsaturated": 7.75,
+    "polyunsaturated": 12.62,
+    "omega_3": 1.38,
+    "omega_6": 11.23,
+    "saturated": 6.04,
+    "transfats": 0.13,
+    "cholesterol": 341.06,
+    "protein": 22.53,
+    "alanine": 0.79,
+    "arginine": 0.89,
+    "aspartic_acid": 1.58,
+    "cystine": 0.28,
+    "glutamic_acid": 2.41,
+    "glycine": 0.51,
+    "histidine": 0.34,
+    "isoleucine": 0.72,
+    "leucine": 1.15,
+    "lysine": 0.97,
+    "methionine": 0.38,
+    "phenylalanine": 0.72,
+    "proline": 0.58,
+    "serine": 0.99,
+    "threonine": 0.62,
+    "tryptophan": 0.18,
+    "tyrosine": 0.53,
+    "valine": 0.9,
+    "b1_thiamine": 0.4,
+    "b2_riboflavin": 0.66,
+    "b3_niacin": 4.34,
+    "b5_pantothenic_acid": 2.09,
+    "b6_pyridoxine": 0.55,
+    "b12_cobalamin": 0.81,
+    "choline": 307.79,
+    "folate": 191.74,
+    "vitamin_a": 2130.95,
+    "vitamin_c": 36.6,
+    "vitamin_d": 74.91,
+    "vitamin_e": 5.84,
+    "vitamin_k": 282.38,
+    "calcium": 243.37,
+    "copper": 0.39,
+    "iron": 5.17,
+    "magnesium": 114.77,
+    "manganese": 2.08,
+    "phosphorus": 392.81,
+    "potassium": 1006.52,
+    "selenium": 53.6,
+    "sodium": 534.23,
+    "zinc": 2.94
+  }
 }

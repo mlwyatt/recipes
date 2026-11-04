@@ -1,676 +1,225 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 25163,
-        "recipe_id": 2821,
-        "serving_count": 4,
-        "cooking_minutes": 20,
-        "name": "Lemony White Bean Dip with Bell Pepper",
-        "slug": "lemony-white-bean-dip-bell-pepper",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 129,
-            "name": "silicone spatula",
-            "slug": "silicone-spatula"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 404154,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 lemon\n2 orange bell peppers\n2 yellow bell peppers"
-          },
-          {
-            "id": 404155,
-            "primary_message": "Zest and juice lemon into a blender. (Alternatively, the dip can be prepared in a food processor.)",
-            "secondary_message": null
-          },
-          {
-            "id": 404156,
-            "primary_message": "Drain and rinse beans. Add to the blender.",
-            "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
-          },
-          {
-            "id": 404157,
-            "primary_message": "Add water, tahini, oil, and spices to the blender. Blend on high for several minutes until smooth. Add more water, 1 tablespoon at a time, if needed, to reach desired consistency. Set aside.",
-            "secondary_message": "½ cup water\n¼ cup tahini\n4 tsp extra virgin olive oil\n½ tsp garlic powder\n½ tsp onion powder\n½ tsp cumin, ground\n½ tsp coriander, ground\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 404158,
-            "primary_message": "Trim, seed, and slice bell peppers lengthwise into ¾-inch wide strips.",
-            "secondary_message": null
-          },
-          {
-            "id": 404159,
-            "primary_message": "To serve, divide dip and bell pepper strips between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 432305,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "cannellini (white kidney) beans"
-          },
-          {
-            "id": 432307,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 432309,
-            "quantity": "2",
-            "ingredient_name": "orange bell peppers"
-          },
-          {
-            "id": 432310,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 432301,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 432302,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 432306,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 432300,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 432303,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 432308,
-            "quantity": "",
-            "ingredient_name": "onion powder"
-          },
-          {
-            "id": 432304,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 432311,
-            "quantity": "",
-            "ingredient_name": "tahini"
-          }
-        ],
-        "nutrition": {
-          "energy": 334.49,
-          "alcohol": 0,
-          "ash": 3.96,
-          "caffeine": 0,
-          "water": 211.73,
-          "carbs": 40.99,
-          "fiber": 10.06,
-          "starch": 16.51,
-          "sugars": 11.71,
-          "fructose": 3.93,
-          "galactose": 0.01,
-          "glucose": 3,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 4.69,
-          "sugar_alcohol": 0,
-          "fat": 14.49,
-          "monounsaturated": 6.51,
-          "polyunsaturated": 4.32,
-          "omega_3": 0.19,
-          "omega_6": 4.13,
-          "saturated": 2.06,
-          "transfats": 0.01,
-          "cholesterol": 0,
-          "protein": 14.61,
-          "alanine": 0.67,
-          "arginine": 1.05,
-          "aspartic_acid": 1.75,
-          "cystine": 0.18,
-          "glutamic_acid": 2.46,
-          "glycine": 0.65,
-          "histidine": 0.39,
-          "isoleucine": 0.66,
-          "leucine": 1.17,
-          "lysine": 0.89,
-          "methionine": 0.23,
-          "phenylalanine": 0.8,
-          "proline": 0.79,
-          "serine": 0.86,
-          "threonine": 0.54,
-          "tryptophan": 0.21,
-          "tyrosine": 0.39,
-          "valine": 0.81,
-          "b1_thiamine": 0.32,
-          "b2_riboflavin": 0.13,
-          "b3_niacin": 2.53,
-          "b5_pantothenic_acid": 0.62,
-          "b6_pyridoxine": 0.39,
-          "b12_cobalamin": 0,
-          "choline": 49.98,
-          "folate": 85.86,
-          "vitamin_a": 379.38,
-          "vitamin_c": 223.41,
-          "vitamin_d": 0,
-          "vitamin_e": 1.21,
-          "vitamin_k": 16.33,
-          "calcium": 157.98,
-          "copper": 0.74,
-          "iron": 4.19,
-          "magnesium": 71.83,
-          "manganese": 0.91,
-          "phosphorus": 306.35,
-          "potassium": 662.85,
-          "selenium": 7.92,
-          "sodium": 297.94,
-          "zinc": 1.95
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/lemony-white-bean-dip-bell-pepper/25163",
-      "altVariants": [
-        {
-          "id": 25164,
-          "recipe_id": 2821,
-          "group_label": "Default",
-          "name": "Lemony White Bean Dip with Bell Pepper",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "published_recipe_uuid": "4fb3b791-e954-4938-8861-d37c1bfe16aa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689696815000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            91,
-            192,
-            259,
-            265,
-            72,
-            76,
-            186,
-            47,
-            79,
-            200,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            3,
-            2.5,
-            3.75,
-            3.75,
-            30,
-            3.75,
-            3.75,
-            3.75,
-            90
-          ],
-          "average_rating": 0.65,
-          "rating_count": 10,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25163,
-          "recipe_id": 2821,
-          "group_label": "Default",
-          "name": "Lemony White Bean Dip with Bell Pepper",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "published_recipe_uuid": "687e3306-6a8b-43de-8a25-98133584596b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689696815000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            91,
-            192,
-            259,
-            265,
-            72,
-            76,
-            186,
-            47,
-            79,
-            200,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            2.5,
-            2.5,
-            20,
-            2.5,
-            2.5,
-            2.5,
-            60
-          ],
-          "average_rating": 0.65,
-          "rating_count": 10,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25162,
-          "recipe_id": 2821,
-          "group_label": "Default",
-          "name": "Lemony White Bean Dip with Bell Pepper",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "published_recipe_uuid": "54db25bb-017e-40c8-89db-859255190529",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689696815000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            91,
-            192,
-            259,
-            265,
-            72,
-            76,
-            186,
-            47,
-            79,
-            200,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            1.25,
-            1.25,
-            10,
-            1.25,
-            1.25,
-            1.25,
-            30
-          ],
-          "average_rating": 0.65,
-          "rating_count": 10,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25167,
-          "recipe_id": 2821,
-          "group_label": "Default",
-          "name": "Lemony White Bean Dip with Bell Pepper",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "published_recipe_uuid": "fae8240a-178c-4de8-aadc-d56de0579629",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689696813000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            91,
-            192,
-            259,
-            265,
-            72,
-            76,
-            186,
-            47,
-            79,
-            200,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            3,
-            2.5,
-            3.75,
-            3.75,
-            30,
-            3.75,
-            3.75,
-            3.75,
-            90
-          ],
-          "average_rating": 0.65,
-          "rating_count": 10,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25166,
-          "recipe_id": 2821,
-          "group_label": "Default",
-          "name": "Lemony White Bean Dip with Bell Pepper",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "published_recipe_uuid": "fd84a176-2f45-432a-9cda-12e6734ef8a0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689696813000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            91,
-            192,
-            259,
-            265,
-            72,
-            76,
-            186,
-            47,
-            79,
-            200,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            2.5,
-            2.5,
-            20,
-            2.5,
-            2.5,
-            2.5,
-            60
-          ],
-          "average_rating": 0.65,
-          "rating_count": 10,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25165,
-          "recipe_id": 2821,
-          "group_label": "Default",
-          "name": "Lemony White Bean Dip with Bell Pepper",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
-          "published_recipe_uuid": "b3987246-61b5-443c-8748-7dea99d6bd94",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689696814000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            91,
-            192,
-            259,
-            265,
-            72,
-            76,
-            186,
-            47,
-            79,
-            200,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            1.25,
-            1.25,
-            10,
-            1.25,
-            1.25,
-            1.25,
-            30
-          ],
-          "average_rating": 0.65,
-          "rating_count": 10,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Snack",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 25163,
+  "recipe_id": 2821,
+  "serving_count": 4,
+  "cooking_minutes": 20,
+  "name": "Lemony White Bean Dip with Bell Pepper",
+  "slug": "lemony-white-bean-dip-bell-pepper",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/thumbnail_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2821/presentation_26fe9d9d-5e1e-459b-9dfe-33dcd47678bc.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "lemony-white-bean-dip-bell-pepper",
-    "variantId": "25163"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 129,
+      "name": "silicone spatula",
+      "slug": "silicone-spatula"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 404154,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 lemon\n2 orange bell peppers\n2 yellow bell peppers"
+    },
+    {
+      "id": 404155,
+      "primary_message": "Zest and juice lemon into a blender. (Alternatively, the dip can be prepared in a food processor.)",
+      "secondary_message": null
+    },
+    {
+      "id": 404156,
+      "primary_message": "Drain and rinse beans. Add to the blender.",
+      "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
+    },
+    {
+      "id": 404157,
+      "primary_message": "Add water, tahini, oil, and spices to the blender. Blend on high for several minutes until smooth. Add more water, 1 tablespoon at a time, if needed, to reach desired consistency. Set aside.",
+      "secondary_message": "½ cup water\n¼ cup tahini\n4 tsp extra virgin olive oil\n½ tsp garlic powder\n½ tsp onion powder\n½ tsp cumin, ground\n½ tsp coriander, ground\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 404158,
+      "primary_message": "Trim, seed, and slice bell peppers lengthwise into ¾-inch wide strips.",
+      "secondary_message": null
+    },
+    {
+      "id": 404159,
+      "primary_message": "To serve, divide dip and bell pepper strips between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 432305,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "cannellini (white kidney) beans"
+    },
+    {
+      "id": 432307,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 432309,
+      "quantity": "2",
+      "ingredient_name": "orange bell peppers"
+    },
+    {
+      "id": 432310,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 432301,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 432302,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 432306,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 432300,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 432303,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 432308,
+      "quantity": "",
+      "ingredient_name": "onion powder"
+    },
+    {
+      "id": 432304,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 432311,
+      "quantity": "",
+      "ingredient_name": "tahini"
+    }
+  ],
+  "nutrition": {
+    "energy": 334.49,
+    "alcohol": 0,
+    "ash": 3.96,
+    "caffeine": 0,
+    "water": 211.73,
+    "carbs": 40.99,
+    "fiber": 10.06,
+    "starch": 16.51,
+    "sugars": 11.71,
+    "fructose": 3.93,
+    "galactose": 0.01,
+    "glucose": 3,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 4.69,
+    "sugar_alcohol": 0,
+    "fat": 14.49,
+    "monounsaturated": 6.51,
+    "polyunsaturated": 4.32,
+    "omega_3": 0.19,
+    "omega_6": 4.13,
+    "saturated": 2.06,
+    "transfats": 0.01,
+    "cholesterol": 0,
+    "protein": 14.61,
+    "alanine": 0.67,
+    "arginine": 1.05,
+    "aspartic_acid": 1.75,
+    "cystine": 0.18,
+    "glutamic_acid": 2.46,
+    "glycine": 0.65,
+    "histidine": 0.39,
+    "isoleucine": 0.66,
+    "leucine": 1.17,
+    "lysine": 0.89,
+    "methionine": 0.23,
+    "phenylalanine": 0.8,
+    "proline": 0.79,
+    "serine": 0.86,
+    "threonine": 0.54,
+    "tryptophan": 0.21,
+    "tyrosine": 0.39,
+    "valine": 0.81,
+    "b1_thiamine": 0.32,
+    "b2_riboflavin": 0.13,
+    "b3_niacin": 2.53,
+    "b5_pantothenic_acid": 0.62,
+    "b6_pyridoxine": 0.39,
+    "b12_cobalamin": 0,
+    "choline": 49.98,
+    "folate": 85.86,
+    "vitamin_a": 379.38,
+    "vitamin_c": 223.41,
+    "vitamin_d": 0,
+    "vitamin_e": 1.21,
+    "vitamin_k": 16.33,
+    "calcium": 157.98,
+    "copper": 0.74,
+    "iron": 4.19,
+    "magnesium": 71.83,
+    "manganese": 0.91,
+    "phosphorus": 306.35,
+    "potassium": 662.85,
+    "selenium": 7.92,
+    "sodium": 297.94,
+    "zinc": 1.95
+  }
 }

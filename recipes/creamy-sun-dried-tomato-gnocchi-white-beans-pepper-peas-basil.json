@@ -1,752 +1,265 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 17313,
-        "recipe_id": 2058,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
-        "slug": "creamy-sun-dried-tomato-gnocchi-white-beans-pepper-peas-basil",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 281166,
-            "primary_message": "Drain and rinse beans; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
-          },
-          {
-            "id": 281167,
-            "primary_message": "Wash and dry bell peppers, then trim, seed, and small dice. Place in a small bowl.",
-            "secondary_message": "2 yellow bell peppers"
-          },
-          {
-            "id": 281168,
-            "primary_message": "Peel, halve, and small dice onion; peel and mince garlic. Add both to the bowl with the bell pepper.",
-            "secondary_message": "1 medium yellow onion\n4 cloves garlic"
-          },
-          {
-            "id": 281169,
-            "primary_message": "Mince sun-dried tomatoes and add to the bowl.",
-            "secondary_message": "8 sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 281170,
-            "primary_message": "Preheat a large pot over medium-high heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 281171,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add veggies to the pot; cook, stirring frequently, until softened, 4-5 minutes. (Reserve bowl for next step.)",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 281172,
-            "primary_message": "Meanwhile, place water and cornstarch in the reserved bowl; whisk to combine the slurry.",
-            "secondary_message": "2 tbsp water\n4 tsp cornstarch"
-          },
-          {
-            "id": 281173,
-            "primary_message": "When the veggies are soft, add cornstarch slurry, almond milk, nutritional yeast, salt, and pepper to the pot; stir to combine and bring to a simmer. Once simmering, cook, stirring occasionally, until sauce thickens, 3-4 minutes.",
-            "secondary_message": "16 fl oz (2 cups) almond milk, unsweetened\n¼ cup nutritional yeast flakes\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 281174,
-            "primary_message": "While the sauce simmers, wash and dry basil. Pick leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
-            "secondary_message": "2 small pkgs fresh basil"
-          },
-          {
-            "id": 281175,
-            "primary_message": "Add beans, gnocchi, peas, and half of the basil to the pot (reserve remaining basil for garnish). Continue to cook, stirring occasionally, until warmed through, 4-5 minutes more.",
-            "secondary_message": "2 (16 oz) pkg potato gnocchi\n2 cups frozen peas"
-          },
-          {
-            "id": 281176,
-            "primary_message": "To serve, divide creamy gnocchi between bowls. Top with remaining basil and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 297589,
-            "quantity": "16 fl oz",
-            "ingredient_name": "almond milk, unsweetened"
-          },
-          {
-            "id": 297581,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "cannellini (white kidney) beans"
-          },
-          {
-            "id": 297577,
-            "quantity": "2 small pkgs",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 297587,
-            "quantity": "2 cups",
-            "ingredient_name": "frozen peas"
-          },
-          {
-            "id": 297576,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 297584,
-            "quantity": "¼ cup",
-            "ingredient_name": "nutritional yeast flakes"
-          },
-          {
-            "id": 297588,
-            "quantity": "2 (16 oz) pkg",
-            "ingredient_name": "potato gnocchi"
-          },
-          {
-            "id": 297583,
-            "quantity": "8",
-            "ingredient_name": "sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 297586,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 297582,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 297579,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 297585,
-            "quantity": "",
-            "ingredient_name": "cornstarch"
-          },
-          {
-            "id": 297578,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 297580,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 684.81,
-          "alcohol": 0,
-          "ash": 8.46,
-          "caffeine": 0,
-          "water": 534.32,
-          "carbs": 92.65,
-          "fiber": 16.68,
-          "starch": 55.61,
-          "sugars": 16.83,
-          "fructose": 3.34,
-          "galactose": 0.05,
-          "glucose": 2.73,
-          "lactose": 1.41,
-          "maltose": 0.08,
-          "sucrose": 9.25,
-          "sugar_alcohol": 0,
-          "fat": 25.33,
-          "monounsaturated": 9.98,
-          "polyunsaturated": 2.28,
-          "omega_3": 0.29,
-          "omega_6": 2.01,
-          "saturated": 10.28,
-          "transfats": 0.58,
-          "cholesterol": 37.3,
-          "protein": 25.79,
-          "alanine": 0.88,
-          "arginine": 1.17,
-          "aspartic_acid": 2.41,
-          "cystine": 0.24,
-          "glutamic_acid": 3.96,
-          "glycine": 0.76,
-          "histidine": 0.53,
-          "isoleucine": 0.89,
-          "leucine": 1.59,
-          "lysine": 1.25,
-          "methionine": 0.32,
-          "phenylalanine": 1.08,
-          "proline": 1.28,
-          "serine": 1.11,
-          "threonine": 0.75,
-          "tryptophan": 0.25,
-          "tyrosine": 0.57,
-          "valine": 1.1,
-          "b1_thiamine": 5.28,
-          "b2_riboflavin": 4.98,
-          "b3_niacin": 29.82,
-          "b5_pantothenic_acid": 6.13,
-          "b6_pyridoxine": 5.08,
-          "b12_cobalamin": 3.87,
-          "choline": 91.15,
-          "folate": 151.5,
-          "vitamin_a": 715.35,
-          "vitamin_c": 138.85,
-          "vitamin_d": 77.35,
-          "vitamin_e": 10.3,
-          "vitamin_k": 97.98,
-          "calcium": 435.91,
-          "copper": 0.82,
-          "iron": 6.4,
-          "magnesium": 125.72,
-          "manganese": 1.53,
-          "phosphorus": 363.42,
-          "potassium": 1071.76,
-          "selenium": 25.79,
-          "sodium": 1145.03,
-          "zinc": 4
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-sun-dried-tomato-gnocchi-white-beans-pepper-peas-basil/17313",
-      "altVariants": [
-        {
-          "id": 17314,
-          "recipe_id": 2058,
-          "group_label": "Default",
-          "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "published_recipe_uuid": "ffefa8d6-32de-4308-9d15-794bc706ac47",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652202056000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            1,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            91,
-            28,
-            275,
-            24,
-            254,
-            284,
-            162,
-            265,
-            152,
-            72,
-            264,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            24,
-            3,
-            3,
-            3,
-            6,
-            0.5,
-            3,
-            12,
-            3,
-            1.5,
-            3.75,
-            30,
-            45,
-            7.5
-          ],
-          "average_rating": 0.566,
-          "rating_count": 53,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "What's more comforting than a dish of pillowy gnocchi tossed in a creamy sauce?"
-        },
-        {
-          "id": 17313,
-          "recipe_id": 2058,
-          "group_label": "Default",
-          "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "published_recipe_uuid": "0d5eef28-abd2-444b-a3ec-2f3ee937616c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652202056000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            1,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            91,
-            28,
-            275,
-            24,
-            254,
-            284,
-            162,
-            265,
-            152,
-            72,
-            264,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            16,
-            2,
-            2,
-            2,
-            4,
-            0.25,
-            2,
-            8,
-            2,
-            1,
-            2.5,
-            20,
-            30,
-            5
-          ],
-          "average_rating": 0.566,
-          "rating_count": 53,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "What's more comforting than a dish of pillowy gnocchi tossed in a creamy sauce?"
-        },
-        {
-          "id": 17312,
-          "recipe_id": 2058,
-          "group_label": "Default",
-          "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "published_recipe_uuid": "b44ea597-57ce-4dbd-8a23-69582c7847d9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652202057000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            1,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            91,
-            28,
-            275,
-            24,
-            254,
-            284,
-            162,
-            265,
-            152,
-            72,
-            264,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            8,
-            1,
-            1,
-            1,
-            2,
-            0.125,
-            1,
-            4,
-            1,
-            0.5,
-            1.25,
-            10,
-            15,
-            2.5
-          ],
-          "average_rating": 0.566,
-          "rating_count": 53,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "What's more comforting than a dish of pillowy gnocchi tossed in a creamy sauce?"
-        },
-        {
-          "id": 17317,
-          "recipe_id": 2058,
-          "group_label": "Default",
-          "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "published_recipe_uuid": "b81a6242-b02c-44be-9442-54cd7078165c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652202055000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            1,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            91,
-            28,
-            275,
-            24,
-            254,
-            284,
-            162,
-            265,
-            152,
-            72,
-            264,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            710,
-            3,
-            3,
-            3,
-            6,
-            0.5,
-            3,
-            12,
-            3,
-            1.5,
-            3.75,
-            30,
-            45,
-            7.5
-          ],
-          "average_rating": 0.566,
-          "rating_count": 53,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "What's more comforting than a dish of pillowy gnocchi tossed in a creamy sauce?"
-        },
-        {
-          "id": 17316,
-          "recipe_id": 2058,
-          "group_label": "Default",
-          "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "published_recipe_uuid": "25185a7e-11e3-4b05-b89a-3f4f6e3505ad",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652202055000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            1,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            91,
-            28,
-            275,
-            24,
-            254,
-            284,
-            162,
-            265,
-            152,
-            72,
-            264,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            473,
-            2,
-            2,
-            2,
-            4,
-            0.25,
-            2,
-            8,
-            2,
-            1,
-            2.5,
-            20,
-            30,
-            5
-          ],
-          "average_rating": 0.566,
-          "rating_count": 53,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "What's more comforting than a dish of pillowy gnocchi tossed in a creamy sauce?"
-        },
-        {
-          "id": 17315,
-          "recipe_id": 2058,
-          "group_label": "Default",
-          "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
-          "published_recipe_uuid": "915f02c2-f2ea-4f20-86c8-e185306c69ad",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652202056000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            1,
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            91,
-            28,
-            275,
-            24,
-            254,
-            284,
-            162,
-            265,
-            152,
-            72,
-            264,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            237,
-            1,
-            1,
-            1,
-            2,
-            0.125,
-            1,
-            4,
-            1,
-            0.5,
-            1.25,
-            10,
-            15,
-            2.5
-          ],
-          "average_rating": 0.566,
-          "rating_count": 53,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "What's more comforting than a dish of pillowy gnocchi tossed in a creamy sauce?"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "What's more comforting than a dish of pillowy gnocchi tossed in a creamy sauce?",
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": 53,
-        "reviewScore": null
-      }
+  "id": 17313,
+  "recipe_id": 2058,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Creamy Sun-Dried Tomato Gnocchi with White Beans, Pepper, Peas & Basil",
+  "slug": "creamy-sun-dried-tomato-gnocchi-white-beans-pepper-peas-basil",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/thumbnail_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2058/presentation_bff953b6-911c-4315-ad01-a3b9a18cf74e.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-sun-dried-tomato-gnocchi-white-beans-pepper-peas-basil",
-    "variantId": "17313"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 281166,
+      "primary_message": "Drain and rinse beans; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
+    },
+    {
+      "id": 281167,
+      "primary_message": "Wash and dry bell peppers, then trim, seed, and small dice. Place in a small bowl.",
+      "secondary_message": "2 yellow bell peppers"
+    },
+    {
+      "id": 281168,
+      "primary_message": "Peel, halve, and small dice onion; peel and mince garlic. Add both to the bowl with the bell pepper.",
+      "secondary_message": "1 medium yellow onion\n4 cloves garlic"
+    },
+    {
+      "id": 281169,
+      "primary_message": "Mince sun-dried tomatoes and add to the bowl.",
+      "secondary_message": "8 sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 281170,
+      "primary_message": "Preheat a large pot over medium-high heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 281171,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add veggies to the pot; cook, stirring frequently, until softened, 4-5 minutes. (Reserve bowl for next step.)",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 281172,
+      "primary_message": "Meanwhile, place water and cornstarch in the reserved bowl; whisk to combine the slurry.",
+      "secondary_message": "2 tbsp water\n4 tsp cornstarch"
+    },
+    {
+      "id": 281173,
+      "primary_message": "When the veggies are soft, add cornstarch slurry, almond milk, nutritional yeast, salt, and pepper to the pot; stir to combine and bring to a simmer. Once simmering, cook, stirring occasionally, until sauce thickens, 3-4 minutes.",
+      "secondary_message": "16 fl oz (2 cups) almond milk, unsweetened\n¼ cup nutritional yeast flakes\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 281174,
+      "primary_message": "While the sauce simmers, wash and dry basil. Pick leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
+      "secondary_message": "2 small pkgs fresh basil"
+    },
+    {
+      "id": 281175,
+      "primary_message": "Add beans, gnocchi, peas, and half of the basil to the pot (reserve remaining basil for garnish). Continue to cook, stirring occasionally, until warmed through, 4-5 minutes more.",
+      "secondary_message": "2 (16 oz) pkg potato gnocchi\n2 cups frozen peas"
+    },
+    {
+      "id": 281176,
+      "primary_message": "To serve, divide creamy gnocchi between bowls. Top with remaining basil and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 297589,
+      "quantity": "16 fl oz",
+      "ingredient_name": "almond milk, unsweetened"
+    },
+    {
+      "id": 297581,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "cannellini (white kidney) beans"
+    },
+    {
+      "id": 297577,
+      "quantity": "2 small pkgs",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 297587,
+      "quantity": "2 cups",
+      "ingredient_name": "frozen peas"
+    },
+    {
+      "id": 297576,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 297584,
+      "quantity": "¼ cup",
+      "ingredient_name": "nutritional yeast flakes"
+    },
+    {
+      "id": 297588,
+      "quantity": "2 (16 oz) pkg",
+      "ingredient_name": "potato gnocchi"
+    },
+    {
+      "id": 297583,
+      "quantity": "8",
+      "ingredient_name": "sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 297586,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 297582,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 297579,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 297585,
+      "quantity": "",
+      "ingredient_name": "cornstarch"
+    },
+    {
+      "id": 297578,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 297580,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 684.81,
+    "alcohol": 0,
+    "ash": 8.46,
+    "caffeine": 0,
+    "water": 534.32,
+    "carbs": 92.65,
+    "fiber": 16.68,
+    "starch": 55.61,
+    "sugars": 16.83,
+    "fructose": 3.34,
+    "galactose": 0.05,
+    "glucose": 2.73,
+    "lactose": 1.41,
+    "maltose": 0.08,
+    "sucrose": 9.25,
+    "sugar_alcohol": 0,
+    "fat": 25.33,
+    "monounsaturated": 9.98,
+    "polyunsaturated": 2.28,
+    "omega_3": 0.29,
+    "omega_6": 2.01,
+    "saturated": 10.28,
+    "transfats": 0.58,
+    "cholesterol": 37.3,
+    "protein": 25.79,
+    "alanine": 0.88,
+    "arginine": 1.17,
+    "aspartic_acid": 2.41,
+    "cystine": 0.24,
+    "glutamic_acid": 3.96,
+    "glycine": 0.76,
+    "histidine": 0.53,
+    "isoleucine": 0.89,
+    "leucine": 1.59,
+    "lysine": 1.25,
+    "methionine": 0.32,
+    "phenylalanine": 1.08,
+    "proline": 1.28,
+    "serine": 1.11,
+    "threonine": 0.75,
+    "tryptophan": 0.25,
+    "tyrosine": 0.57,
+    "valine": 1.1,
+    "b1_thiamine": 5.28,
+    "b2_riboflavin": 4.98,
+    "b3_niacin": 29.82,
+    "b5_pantothenic_acid": 6.13,
+    "b6_pyridoxine": 5.08,
+    "b12_cobalamin": 3.87,
+    "choline": 91.15,
+    "folate": 151.5,
+    "vitamin_a": 715.35,
+    "vitamin_c": 138.85,
+    "vitamin_d": 77.35,
+    "vitamin_e": 10.3,
+    "vitamin_k": 97.98,
+    "calcium": 435.91,
+    "copper": 0.82,
+    "iron": 6.4,
+    "magnesium": 125.72,
+    "manganese": 1.53,
+    "phosphorus": 363.42,
+    "potassium": 1071.76,
+    "selenium": 25.79,
+    "sodium": 1145.03,
+    "zinc": 4
+  }
 }

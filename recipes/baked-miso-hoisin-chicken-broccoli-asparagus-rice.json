@@ -1,1076 +1,235 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 25025,
-        "recipe_id": 2809,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
-        "slug": "baked-miso-hoisin-chicken-broccoli-asparagus-rice",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 402302,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 402303,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and salt, then bring the mixture to a boil over high heat.",
-            "secondary_message": "1 cup jasmine rice\n2 cup water\n¼ tsp salt"
-          },
-          {
-            "id": 402304,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce heat to low. Cook rice until liquid is fully absorbed, 15-18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 402305,
-            "primary_message": "Meanwhile, wash, dry, peel, and mince ginger. Place in a large bowl along with hoisin sauce, miso paste, oil, and spices. Stir to combine the sauce.",
-            "secondary_message": "2 (1 inch) pieces ginger root\n¼ cup hoisin sauce\n2 tbsp miso paste, red\n2 tbsp toasted sesame oil\n1 tsp garlic powder\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 402306,
-            "primary_message": "Wash, dry, and snap (or cut) off woody ends of the asparagus. Add to the bowl with the sauce along with the broccoli. ",
-            "secondary_message": "2 small bunches asparagus\n1 (18 oz) bag broccoli florets"
-          },
-          {
-            "id": 402307,
-            "primary_message": "Pat chicken dry with paper towels and large dice; add to the bowl. Stir chicken and veggies in the sauce to coat, then transfer to a large baking sheet pan and spread out in an even layer. ",
-            "secondary_message": "2 lb chicken thighs, boneless skinless"
-          },
-          {
-            "id": 402308,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until veggies are fork-tender and chicken is cooked through, 12-15 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 402309,
-            "primary_message": "To serve, divide rice, chicken, and veggies between plates or bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 430067,
-            "quantity": "2 small bunches",
-            "ingredient_name": "asparagus"
-          },
-          {
-            "id": 430077,
-            "quantity": "1 (18 oz) bag",
-            "ingredient_name": "broccoli florets"
-          },
-          {
-            "id": 430072,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 430073,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 430074,
-            "quantity": "1 cup",
-            "ingredient_name": "jasmine rice"
-          },
-          {
-            "id": 430076,
-            "quantity": "30 ml",
-            "ingredient_name": "miso paste, red"
-          },
-          {
-            "id": 430069,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 430070,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 430075,
-            "quantity": "",
-            "ingredient_name": "hoisin sauce"
-          },
-          {
-            "id": 430071,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 430068,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 635.22,
-          "alcohol": 0,
-          "ash": 6.08,
-          "caffeine": 0,
-          "water": 420.51,
-          "carbs": 61.93,
-          "fiber": 7.6,
-          "starch": 1.19,
-          "sugars": 10.07,
-          "fructose": 2.59,
-          "galactose": 0,
-          "glucose": 1.47,
-          "lactose": 0.27,
-          "maltose": 0.28,
-          "sucrose": 0.46,
-          "sugar_alcohol": 0,
-          "fat": 18.31,
-          "monounsaturated": 6.55,
-          "polyunsaturated": 5.84,
-          "omega_3": 0.3,
-          "omega_6": 5.53,
-          "saturated": 3.94,
-          "transfats": 0.05,
-          "cholesterol": 213.74,
-          "protein": 55.96,
-          "alanine": 3.18,
-          "arginine": 3.83,
-          "aspartic_acid": 5.84,
-          "cystine": 0.66,
-          "glutamic_acid": 9.11,
-          "glycine": 2.46,
-          "histidine": 1.57,
-          "isoleucine": 2.51,
-          "leucine": 4.46,
-          "lysine": 4.67,
-          "methionine": 1.45,
-          "phenylalanine": 2.24,
-          "proline": 2.24,
-          "serine": 2.37,
-          "threonine": 2.48,
-          "tryptophan": 0.63,
-          "tyrosine": 1.94,
-          "valine": 2.72,
-          "b1_thiamine": 0.74,
-          "b2_riboflavin": 0.85,
-          "b3_niacin": 16.87,
-          "b5_pantothenic_acid": 1.58,
-          "b6_pyridoxine": 1.48,
-          "b12_cobalamin": 1.39,
-          "choline": 176.68,
-          "folate": 265.41,
-          "vitamin_a": 1763.34,
-          "vitamin_c": 120.86,
-          "vitamin_d": 2.27,
-          "vitamin_e": 2.98,
-          "vitamin_k": 189.58,
-          "calcium": 130.24,
-          "copper": 0.61,
-          "iron": 7.8,
-          "magnesium": 119.01,
-          "manganese": 1.1,
-          "phosphorus": 644.14,
-          "potassium": 1312.07,
-          "selenium": 65.98,
-          "sodium": 841.84,
-          "zinc": 5.57
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/baked-miso-hoisin-chicken-broccoli-asparagus-rice/25025",
-      "altVariants": [
-        {
-          "id": 25026,
-          "recipe_id": 2809,
-          "group_label": "Default",
-          "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "published_recipe_uuid": "79d7728c-3408-40ff-b3f6-531e0f2499cf",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701228000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            164,
-            221,
-            319,
-            418,
-            72,
-            79,
-            400,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            3,
-            1.5,
-            45,
-            1.25,
-            7.5,
-            90,
-            5,
-            45
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25027,
-          "recipe_id": 2809,
-          "group_label": "Vegan",
-          "name": "Roasted Miso-Hoisin Broccoli, Asparagus & Veggie Sausage over Rice",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25027/thumbnail_d7c53d44-08e1-4e73-9c0c-c32634b891a1.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25027/presentation_d7c53d44-08e1-4e73-9c0c-c32634b891a1.jpeg",
-          "published_recipe_uuid": "7b86b8c0-393b-49fa-8f8c-d70b7ae7817a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701228000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            221,
-            319,
-            418,
-            345,
-            72,
-            47,
-            79,
-            400,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            15,
-            2,
-            0.625,
-            20,
-            2.5,
-            30,
-            1.25
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25025,
-          "recipe_id": 2809,
-          "group_label": "Default",
-          "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "published_recipe_uuid": "32c75610-cfa8-4736-9d64-26e4293ecd38",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701228000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            164,
-            221,
-            319,
-            418,
-            72,
-            79,
-            400,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            1,
-            30,
-            1.25,
-            5,
-            60,
-            2.5,
-            30
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25024,
-          "recipe_id": 2809,
-          "group_label": "Default",
-          "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "published_recipe_uuid": "ee01ff10-b852-49c0-b7a4-3f00c563a535",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701228000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            164,
-            221,
-            319,
-            418,
-            72,
-            79,
-            400,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            1,
-            0.5,
-            15,
-            0.625,
-            2.5,
-            30,
-            1.25,
-            15
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25028,
-          "recipe_id": 2809,
-          "group_label": "Vegan",
-          "name": "Roasted Miso-Hoisin Broccoli, Asparagus & Veggie Sausage over Rice",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25028/thumbnail_56d7dcab-7a08-4c38-8a47-ba726e6d6779.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25028/presentation_56d7dcab-7a08-4c38-8a47-ba726e6d6779.jpeg",
-          "published_recipe_uuid": "4dde322a-ca02-496a-9e46-88ae3dd02d23",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701227000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            221,
-            319,
-            418,
-            345,
-            72,
-            47,
-            79,
-            400,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            30,
-            4,
-            1.25,
-            40,
-            5,
-            60,
-            2.5
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25029,
-          "recipe_id": 2809,
-          "group_label": "Vegan",
-          "name": "Roasted Miso-Hoisin Broccoli, Asparagus & Veggie Sausage over Rice",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25029/thumbnail_bf81a435-a882-47f5-b559-97f84bbbfa0d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25029/presentation_bf81a435-a882-47f5-b559-97f84bbbfa0d.jpeg",
-          "published_recipe_uuid": "5c01d9af-831d-471b-a2a6-5306688527dc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701227000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            221,
-            319,
-            418,
-            345,
-            72,
-            47,
-            79,
-            400,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            1.5,
-            45,
-            6,
-            1.25,
-            60,
-            7.5,
-            90,
-            5
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25033,
-          "recipe_id": 2809,
-          "group_label": "Vegan",
-          "name": "Roasted Miso-Hoisin Broccoli, Asparagus & Veggie Sausage over Rice",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25033/thumbnail_4994fb6b-6408-417c-a1e0-1d3c63e99485.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25033/presentation_4994fb6b-6408-417c-a1e0-1d3c63e99485.jpeg",
-          "published_recipe_uuid": "73de7896-1b7c-43dd-aa12-7419a0ce70d2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701226000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            221,
-            319,
-            418,
-            345,
-            72,
-            47,
-            79,
-            400,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            15,
-            2,
-            0.625,
-            20,
-            2.5,
-            30,
-            1.25
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25034,
-          "recipe_id": 2809,
-          "group_label": "Vegan",
-          "name": "Roasted Miso-Hoisin Broccoli, Asparagus & Veggie Sausage over Rice",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25034/thumbnail_61c2b273-b231-496e-b5d9-0773cdd36dce.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25034/presentation_61c2b273-b231-496e-b5d9-0773cdd36dce.jpeg",
-          "published_recipe_uuid": "4fa05bc8-7dd1-4b2c-883e-f5b0f5e7cf46",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701225000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            221,
-            319,
-            418,
-            345,
-            72,
-            47,
-            79,
-            400,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            30,
-            4,
-            1.25,
-            40,
-            5,
-            60,
-            2.5
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25035,
-          "recipe_id": 2809,
-          "group_label": "Vegan",
-          "name": "Roasted Miso-Hoisin Broccoli, Asparagus & Veggie Sausage over Rice",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25035/thumbnail_cfd0354f-10a0-47ee-a342-809e0e73708c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/25035/presentation_cfd0354f-10a0-47ee-a342-809e0e73708c.jpeg",
-          "published_recipe_uuid": "c082dba8-fb0f-4475-8453-e2e5c7425145",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701225000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            221,
-            319,
-            418,
-            345,
-            72,
-            47,
-            79,
-            400,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            1.5,
-            45,
-            6,
-            1.25,
-            60,
-            7.5,
-            90,
-            5
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25032,
-          "recipe_id": 2809,
-          "group_label": "Default",
-          "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "published_recipe_uuid": "6fe5e140-d824-4abe-b7fd-6d62793b4baa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701226000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            164,
-            221,
-            319,
-            418,
-            72,
-            79,
-            400,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.36,
-            3,
-            1.5,
-            45,
-            1.25,
-            7.5,
-            90,
-            5,
-            45
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25031,
-          "recipe_id": 2809,
-          "group_label": "Default",
-          "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "published_recipe_uuid": "6e8d3cb3-ca54-44e5-a91c-9af3879a9202",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701226000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            164,
-            221,
-            319,
-            418,
-            72,
-            79,
-            400,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.91,
-            2,
-            1,
-            30,
-            1.25,
-            5,
-            60,
-            2.5,
-            30
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25030,
-          "recipe_id": 2809,
-          "group_label": "Default",
-          "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
-          "published_recipe_uuid": "96dafe35-756f-4a0f-a3c0-1837163b51d5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1689701226000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            26,
-            428,
-            164,
-            221,
-            319,
-            418,
-            72,
-            79,
-            400,
-            88,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.45,
-            1,
-            0.5,
-            15,
-            0.625,
-            2.5,
-            30,
-            1.25,
-            15
-          ],
-          "average_rating": 0.748,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": null,
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "Asian",
-        "reviewCount": 117,
-        "reviewScore": null
-      }
+  "id": 25025,
+  "recipe_id": 2809,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Baked Miso-Hoisin Chicken, Broccoli & Asparagus with Rice",
+  "slug": "baked-miso-hoisin-chicken-broccoli-asparagus-rice",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/thumbnail_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2809/presentation_65d45cd8-9f9e-4a9c-b16b-dbaa2a003031.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "baked-miso-hoisin-chicken-broccoli-asparagus-rice",
-    "variantId": "25025"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 402302,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 402303,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and salt, then bring the mixture to a boil over high heat.",
+      "secondary_message": "1 cup jasmine rice\n2 cup water\n¼ tsp salt"
+    },
+    {
+      "id": 402304,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce heat to low. Cook rice until liquid is fully absorbed, 15-18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 402305,
+      "primary_message": "Meanwhile, wash, dry, peel, and mince ginger. Place in a large bowl along with hoisin sauce, miso paste, oil, and spices. Stir to combine the sauce.",
+      "secondary_message": "2 (1 inch) pieces ginger root\n¼ cup hoisin sauce\n2 tbsp miso paste, red\n2 tbsp toasted sesame oil\n1 tsp garlic powder\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 402306,
+      "primary_message": "Wash, dry, and snap (or cut) off woody ends of the asparagus. Add to the bowl with the sauce along with the broccoli. ",
+      "secondary_message": "2 small bunches asparagus\n1 (18 oz) bag broccoli florets"
+    },
+    {
+      "id": 402307,
+      "primary_message": "Pat chicken dry with paper towels and large dice; add to the bowl. Stir chicken and veggies in the sauce to coat, then transfer to a large baking sheet pan and spread out in an even layer. ",
+      "secondary_message": "2 lb chicken thighs, boneless skinless"
+    },
+    {
+      "id": 402308,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until veggies are fork-tender and chicken is cooked through, 12-15 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 402309,
+      "primary_message": "To serve, divide rice, chicken, and veggies between plates or bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 430067,
+      "quantity": "2 small bunches",
+      "ingredient_name": "asparagus"
+    },
+    {
+      "id": 430077,
+      "quantity": "1 (18 oz) bag",
+      "ingredient_name": "broccoli florets"
+    },
+    {
+      "id": 430072,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 430073,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 430074,
+      "quantity": "1 cup",
+      "ingredient_name": "jasmine rice"
+    },
+    {
+      "id": 430076,
+      "quantity": "30 ml",
+      "ingredient_name": "miso paste, red"
+    },
+    {
+      "id": 430069,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 430070,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 430075,
+      "quantity": "",
+      "ingredient_name": "hoisin sauce"
+    },
+    {
+      "id": 430071,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 430068,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 635.22,
+    "alcohol": 0,
+    "ash": 6.08,
+    "caffeine": 0,
+    "water": 420.51,
+    "carbs": 61.93,
+    "fiber": 7.6,
+    "starch": 1.19,
+    "sugars": 10.07,
+    "fructose": 2.59,
+    "galactose": 0,
+    "glucose": 1.47,
+    "lactose": 0.27,
+    "maltose": 0.28,
+    "sucrose": 0.46,
+    "sugar_alcohol": 0,
+    "fat": 18.31,
+    "monounsaturated": 6.55,
+    "polyunsaturated": 5.84,
+    "omega_3": 0.3,
+    "omega_6": 5.53,
+    "saturated": 3.94,
+    "transfats": 0.05,
+    "cholesterol": 213.74,
+    "protein": 55.96,
+    "alanine": 3.18,
+    "arginine": 3.83,
+    "aspartic_acid": 5.84,
+    "cystine": 0.66,
+    "glutamic_acid": 9.11,
+    "glycine": 2.46,
+    "histidine": 1.57,
+    "isoleucine": 2.51,
+    "leucine": 4.46,
+    "lysine": 4.67,
+    "methionine": 1.45,
+    "phenylalanine": 2.24,
+    "proline": 2.24,
+    "serine": 2.37,
+    "threonine": 2.48,
+    "tryptophan": 0.63,
+    "tyrosine": 1.94,
+    "valine": 2.72,
+    "b1_thiamine": 0.74,
+    "b2_riboflavin": 0.85,
+    "b3_niacin": 16.87,
+    "b5_pantothenic_acid": 1.58,
+    "b6_pyridoxine": 1.48,
+    "b12_cobalamin": 1.39,
+    "choline": 176.68,
+    "folate": 265.41,
+    "vitamin_a": 1763.34,
+    "vitamin_c": 120.86,
+    "vitamin_d": 2.27,
+    "vitamin_e": 2.98,
+    "vitamin_k": 189.58,
+    "calcium": 130.24,
+    "copper": 0.61,
+    "iron": 7.8,
+    "magnesium": 119.01,
+    "manganese": 1.1,
+    "phosphorus": 644.14,
+    "potassium": 1312.07,
+    "selenium": 65.98,
+    "sodium": 841.84,
+    "zinc": 5.57
+  }
 }

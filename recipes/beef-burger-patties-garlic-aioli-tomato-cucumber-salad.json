@@ -1,1102 +1,250 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4007,
-        "recipe_id": 580,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-        "slug": "beef-burger-patties-garlic-aioli-tomato-cucumber-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 44781,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 tomatoes\n1 English cucumber\n1 lemon"
-          },
-          {
-            "id": 44782,
-            "primary_message": "Quarter the tomatoes lengthwise and cut out and discard the stem ends; cut the quarters crosswise into ½-inch-thick chunks and transfer to a large salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 44783,
-            "primary_message": "Trim off and discard the ends of the cucumber; quarter the cucumber lengthwise, then slice crosswise into ½-inch-thick pieces and add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 44784,
-            "primary_message": "Trim off and discard the ends of the shallots; peel and halve the shallots lengthwise, then thinly slice crosswise into half-rounds and add to the salad bowl.",
-            "secondary_message": "2 shallots"
-          },
-          {
-            "id": 44785,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 44786,
-            "primary_message": "In a medium bowl, combine and mix together the ground beef, salt, and pepper. Form the mixture into 4 equal-sized patties and place on a plate.",
-            "secondary_message": "1 ½ lb lean ground beef\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 44787,
-            "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 44788,
-            "primary_message": "Place the burger patties in the skillet and cook until desired doneness, 2 to 5 minutes per side. Once done, transfer to a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 44789,
-            "primary_message": "Juice the lemon; add ½ of the juice to the salad bowl and transfer the other ½ to a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 44790,
-            "primary_message": "Drizzle the salad with olive oil and season with salt and pepper; toss to combine.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 44791,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the small bowl with the lemon juice.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 44792,
-            "primary_message": "To the lemon juice and garlic, add mayonnaise, salt, and pepper; mix together until well combined.",
-            "secondary_message": "6 tbsp mayonnaise\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 44793,
-            "primary_message": "To serve, divide the salad between plates; place the burger patties on the side and serve with the garlic aioli. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 48679,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 48677,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 48680,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 48675,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 48672,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 48678,
-            "quantity": "4",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 48670,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 48673,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 48676,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 48671,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 48674,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 655.45,
-          "alcohol": 0,
-          "ash": 5.82,
-          "caffeine": 0,
-          "water": 325.58,
-          "carbs": 12.09,
-          "fiber": 3.02,
-          "starch": 1.51,
-          "sugars": 6.29,
-          "fructose": 2.51,
-          "galactose": 0,
-          "glucose": 2.4,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 1.26,
-          "sugar_alcohol": 0,
-          "fat": 52.8,
-          "monounsaturated": 20.08,
-          "polyunsaturated": 11.16,
-          "omega_3": 1.37,
-          "omega_6": 9.88,
-          "saturated": 16.36,
-          "transfats": 1.56,
-          "cholesterol": 129.18,
-          "protein": 33.98,
-          "alanine": 2.07,
-          "arginine": 2.17,
-          "aspartic_acid": 3.11,
-          "cystine": 0.34,
-          "glutamic_acid": 5.54,
-          "glycine": 2.22,
-          "histidine": 1.07,
-          "isoleucine": 1.47,
-          "leucine": 2.57,
-          "lysine": 2.71,
-          "methionine": 0.84,
-          "phenylalanine": 1.31,
-          "proline": 1.69,
-          "serine": 1.35,
-          "threonine": 1.3,
-          "tryptophan": 0.18,
-          "tyrosine": 1.02,
-          "valine": 1.63,
-          "b1_thiamine": 0.16,
-          "b2_riboflavin": 0.32,
-          "b3_niacin": 8.78,
-          "b5_pantothenic_acid": 1.35,
-          "b6_pyridoxine": 0.8,
-          "b12_cobalamin": 3.72,
-          "choline": 129.99,
-          "folate": 43.46,
-          "vitamin_a": 1150.31,
-          "vitamin_c": 25.78,
-          "vitamin_d": 7.82,
-          "vitamin_e": 3.35,
-          "vitamin_k": 59.51,
-          "calcium": 64.04,
-          "copper": 0.25,
-          "iron": 4.46,
-          "magnesium": 59.52,
-          "manganese": 0.36,
-          "phosphorus": 356.96,
-          "potassium": 973.86,
-          "selenium": 35.95,
-          "sodium": 168.68,
-          "zinc": 8.11
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/beef-burger-patties-garlic-aioli-tomato-cucumber-salad/4007",
-      "altVariants": [
-        {
-          "id": 6208,
-          "recipe_id": 580,
-          "group_label": "Paleo",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "d744f8bc-a016-425f-814c-8b0635436edc",
-          "fallback_published_recipe_uuids": [
-            "d0ec72bb-4707-4b32-91e8-e63acc4a14f6",
-            "41a6e948-e436-4885-8278-8aed00da5d62"
-          ],
-          "first_published_at": 1550529531000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            268,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            2.25,
-            1.5,
-            3,
-            6,
-            133.0809,
-            7.39338,
-            44.36025,
-            14.78676,
-            22.1802
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6206,
-          "recipe_id": 580,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "3a4fb546-f35d-44b2-8649-6c76ffee8d85",
-          "fallback_published_recipe_uuids": [
-            "348dd494-93ea-4321-a9a8-70ba954ce7c8",
-            "25f991da-84c0-4b51-a1ba-072b09887a53"
-          ],
-          "first_published_at": 1550529433000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            72,
-            47,
-            267,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            2.25,
-            1.5,
-            3,
-            6,
-            7.39338,
-            44.36025,
-            133.0809,
-            14.78676,
-            22.1802
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4011,
-          "recipe_id": 580,
-          "group_label": "Paleo",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "e44ac7d7-1f33-4590-8710-b00011d30911",
-          "fallback_published_recipe_uuids": [
-            "63a9506a-a349-4047-a13b-2c212c14ac2c",
-            "941961fc-16c0-484a-8a7e-3328474e64ca"
-          ],
-          "first_published_at": 1503979633000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            268,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1.5,
-            1,
-            2,
-            4,
-            88.7206,
-            4.92892,
-            29.5735,
-            9.85784,
-            14.7868
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4010,
-          "recipe_id": 580,
-          "group_label": "Paleo",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "29115c33-761e-4f55-ab02-42d884121aaf",
-          "fallback_published_recipe_uuids": [
-            "a65d4189-c3a5-4791-9f40-f59146efb322",
-            "cfd554fd-5e64-436c-a3b9-9b888f697b29"
-          ],
-          "first_published_at": 1503979634000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            268,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.75,
-            0.5,
-            1,
-            2,
-            44.3603,
-            2.46446,
-            14.7868,
-            4.92892,
-            7.39338
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4007,
-          "recipe_id": 580,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "ed33d6bd-8673-4bfb-9ee7-51034a8ebf01",
-          "fallback_published_recipe_uuids": [
-            "6514a6c7-5aff-454d-9ee3-b1d9ab48b9a2",
-            "9a8933c5-45bb-4188-9975-291703c678fc",
-            "732db2a6-6750-47a0-947c-30a83703c504"
-          ],
-          "first_published_at": 1503979197000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            72,
-            47,
-            267,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1.5,
-            1,
-            2,
-            4,
-            4.92892,
-            29.5735,
-            88.7206,
-            9.85784,
-            14.7868
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3964,
-          "recipe_id": 580,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "c1cdab90-9063-41cc-ad96-f4a89afa9141",
-          "fallback_published_recipe_uuids": [
-            "5463241c-0e63-4e20-b372-c70153f1af08",
-            "1e545ba9-943c-40ec-8f43-53362ce26696",
-            "f56f944e-3cb5-4452-91ce-cee942dc974e"
-          ],
-          "first_published_at": 1503978961000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            72,
-            47,
-            267,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.75,
-            0.5,
-            1,
-            2,
-            2.46446,
-            14.7868,
-            44.3603,
-            4.92892,
-            7.39338
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6209,
-          "recipe_id": 580,
-          "group_label": "Paleo",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "4882592c-af16-4ad3-a798-5fc1c029727e",
-          "fallback_published_recipe_uuids": [
-            "595eca01-0f99-474a-befd-0a3e36ea1c77",
-            "d832d61b-47dc-4e90-937a-48f1198d0387"
-          ],
-          "first_published_at": 1550529592000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            268,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.02,
-            1.5,
-            3,
-            6,
-            133.0809,
-            7.39338,
-            44.36025,
-            14.78676,
-            22.1802
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6207,
-          "recipe_id": 580,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "18354aa5-57e7-4993-9da4-ebcb9d0a6738",
-          "fallback_published_recipe_uuids": [
-            "3ec8efd1-e7b9-4904-ab90-ac669673437a",
-            "2af5dd9d-45e6-4c8c-9f8c-e0347626cf96"
-          ],
-          "first_published_at": 1550529491000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            72,
-            47,
-            267,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.02,
-            1.5,
-            3,
-            6,
-            7.39338,
-            44.36025,
-            133.0809,
-            14.78676,
-            22.1802
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4013,
-          "recipe_id": 580,
-          "group_label": "Paleo",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "52f97834-a5bd-40ca-9e2c-521e9740e1ca",
-          "fallback_published_recipe_uuids": [
-            "ea158dd5-3a94-47a4-be86-4ba614920c6c",
-            "6ef63c27-3416-4b8a-a34e-d9bfac68d01d"
-          ],
-          "first_published_at": 1503979632000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            268,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.68,
-            1,
-            2,
-            4,
-            88.7206,
-            4.92892,
-            29.5735,
-            9.85784,
-            14.7868
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4012,
-          "recipe_id": 580,
-          "group_label": "Paleo",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "9020019d-3e3a-47c9-ab84-d8c1719e39ca",
-          "fallback_published_recipe_uuids": [
-            "ab49859a-cb40-427e-9c93-3d7e88cbbcfa",
-            "04bf03a1-60e8-408e-bace-45fabcbf7d42"
-          ],
-          "first_published_at": 1503979633000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            268,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.34,
-            0.5,
-            1,
-            2,
-            44.3603,
-            2.46446,
-            14.7868,
-            4.92892,
-            7.39338
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4009,
-          "recipe_id": 580,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "c043d06f-af53-40fd-9548-03d30c480d09",
-          "fallback_published_recipe_uuids": [
-            "0a6b8574-43c3-4333-aae1-1adcdd9295a0",
-            "6b23ffaf-26ce-449c-8c03-c87ab8bf4708",
-            "d7181bd6-3481-496d-9f81-7930aa7c205a"
-          ],
-          "first_published_at": 1503979358000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            72,
-            47,
-            267,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.68,
-            1,
-            2,
-            4,
-            4.92892,
-            29.5735,
-            88.7206,
-            9.85784,
-            14.7868
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4008,
-          "recipe_id": 580,
-          "group_label": "Classic",
-          "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
-          "published_recipe_uuid": "cbe2ac07-3aa7-460d-8463-237460ec9c1b",
-          "fallback_published_recipe_uuids": [
-            "a8212b40-ef46-4cb2-affb-ea5515bef1e5",
-            "756b352a-c8a2-4c9a-9671-ac9f4b3f899a",
-            "756bf2bb-17cf-4242-ad67-3931a2a38748"
-          ],
-          "first_published_at": 1503979318000,
-          "allowed_type_ids": [
-            7,
-            8,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            155,
-            24,
-            168,
-            192,
-            144,
-            260,
-            72,
-            47,
-            267,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.34,
-            0.5,
-            1,
-            2,
-            2.46446,
-            14.7868,
-            44.3603,
-            4.92892,
-            7.39338
-          ],
-          "average_rating": 0.875,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            8,
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Fritters & Cakes",
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.4
-      }
+  "id": 4007,
+  "recipe_id": 580,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Beef Burger Patties with Garlic Aioli & Tomato-Cucumber Salad",
+  "slug": "beef-burger-patties-garlic-aioli-tomato-cucumber-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/thumbnail_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/580/presentation_62c3d03d-3a1c-455d-b639-107f80e52238.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "beef-burger-patties-garlic-aioli-tomato-cucumber-salad",
-    "variantId": "4007"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 44781,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 tomatoes\n1 English cucumber\n1 lemon"
+    },
+    {
+      "id": 44782,
+      "primary_message": "Quarter the tomatoes lengthwise and cut out and discard the stem ends; cut the quarters crosswise into ½-inch-thick chunks and transfer to a large salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 44783,
+      "primary_message": "Trim off and discard the ends of the cucumber; quarter the cucumber lengthwise, then slice crosswise into ½-inch-thick pieces and add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 44784,
+      "primary_message": "Trim off and discard the ends of the shallots; peel and halve the shallots lengthwise, then thinly slice crosswise into half-rounds and add to the salad bowl.",
+      "secondary_message": "2 shallots"
+    },
+    {
+      "id": 44785,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 44786,
+      "primary_message": "In a medium bowl, combine and mix together the ground beef, salt, and pepper. Form the mixture into 4 equal-sized patties and place on a plate.",
+      "secondary_message": "1 ½ lb lean ground beef\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 44787,
+      "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 44788,
+      "primary_message": "Place the burger patties in the skillet and cook until desired doneness, 2 to 5 minutes per side. Once done, transfer to a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 44789,
+      "primary_message": "Juice the lemon; add ½ of the juice to the salad bowl and transfer the other ½ to a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 44790,
+      "primary_message": "Drizzle the salad with olive oil and season with salt and pepper; toss to combine.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 44791,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the small bowl with the lemon juice.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 44792,
+      "primary_message": "To the lemon juice and garlic, add mayonnaise, salt, and pepper; mix together until well combined.",
+      "secondary_message": "6 tbsp mayonnaise\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 44793,
+      "primary_message": "To serve, divide the salad between plates; place the burger patties on the side and serve with the garlic aioli. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 48679,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 48677,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 48680,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 48675,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 48672,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 48678,
+      "quantity": "4",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 48670,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 48673,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 48676,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 48671,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 48674,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 655.45,
+    "alcohol": 0,
+    "ash": 5.82,
+    "caffeine": 0,
+    "water": 325.58,
+    "carbs": 12.09,
+    "fiber": 3.02,
+    "starch": 1.51,
+    "sugars": 6.29,
+    "fructose": 2.51,
+    "galactose": 0,
+    "glucose": 2.4,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 1.26,
+    "sugar_alcohol": 0,
+    "fat": 52.8,
+    "monounsaturated": 20.08,
+    "polyunsaturated": 11.16,
+    "omega_3": 1.37,
+    "omega_6": 9.88,
+    "saturated": 16.36,
+    "transfats": 1.56,
+    "cholesterol": 129.18,
+    "protein": 33.98,
+    "alanine": 2.07,
+    "arginine": 2.17,
+    "aspartic_acid": 3.11,
+    "cystine": 0.34,
+    "glutamic_acid": 5.54,
+    "glycine": 2.22,
+    "histidine": 1.07,
+    "isoleucine": 1.47,
+    "leucine": 2.57,
+    "lysine": 2.71,
+    "methionine": 0.84,
+    "phenylalanine": 1.31,
+    "proline": 1.69,
+    "serine": 1.35,
+    "threonine": 1.3,
+    "tryptophan": 0.18,
+    "tyrosine": 1.02,
+    "valine": 1.63,
+    "b1_thiamine": 0.16,
+    "b2_riboflavin": 0.32,
+    "b3_niacin": 8.78,
+    "b5_pantothenic_acid": 1.35,
+    "b6_pyridoxine": 0.8,
+    "b12_cobalamin": 3.72,
+    "choline": 129.99,
+    "folate": 43.46,
+    "vitamin_a": 1150.31,
+    "vitamin_c": 25.78,
+    "vitamin_d": 7.82,
+    "vitamin_e": 3.35,
+    "vitamin_k": 59.51,
+    "calcium": 64.04,
+    "copper": 0.25,
+    "iron": 4.46,
+    "magnesium": 59.52,
+    "manganese": 0.36,
+    "phosphorus": 356.96,
+    "potassium": 973.86,
+    "selenium": 35.95,
+    "sodium": 168.68,
+    "zinc": 8.11
+  }
 }

@@ -1,1210 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 15315,
-        "recipe_id": 1795,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
-        "slug": "steak-asparagus-strawberry-salad-balsamic-poppy-seed-dressing",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 252402,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 252403,
-            "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
-            "secondary_message": "2 small bunches asparagus\n1 (16 oz) pkg strawberries\n1 bunch radish\n1 small pkg fresh basil\n2 (5 oz) pkgs spring mix (mixed greens)"
-          },
-          {
-            "id": 252404,
-            "primary_message": "Snap or cut off woody ends of the asparagus; cut into bite-sized pieces. Transfer to a large baking sheet pan, drizzle with oil, and sprinkle with salt and pepper; toss to combine and spread out in an even layer.",
-            "secondary_message": "2 tsp extra virgin olive oil\n¼ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 252405,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast until asparagus is tender-crisp, 8-10 minutes. Remove from oven and set aside to cool.",
-            "secondary_message": null
-          },
-          {
-            "id": 252406,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 252407,
-            "primary_message": "While the skillet heats up, pat steak dry with paper towels and season with spices on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp Italian seasoning\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 252408,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with aluminum foil.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 252409,
-            "primary_message": "Meanwhile, place oil, vinegar, sugar, poppy seeds, Dijon, and spices in a large bowl. Whisk to combine the dressing.",
-            "secondary_message": "¼ cup extra virgin olive oil\n¼ cup balsamic vinegar\n1 tbsp brown sugar\n1 tsp poppy seeds\n½ tsp Dijon mustard\n½ tsp Italian seasoning\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 252410,
-            "primary_message": "Trim and slice strawberries crosswise into ¼-inch thick pieces; add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 252411,
-            "primary_message": "Trim off and discard tops and root ends of radishes; thinly slice and add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 252412,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 252413,
-            "primary_message": "Add roasted asparagus and mixed greens to the bowl; toss to combine the salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 252414,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": null
-          },
-          {
-            "id": 252415,
-            "primary_message": "To serve, divide salad between plates. Top with steak and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 265460,
-            "quantity": "2 small bunches",
-            "ingredient_name": "asparagus"
-          },
-          {
-            "id": 265461,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 265473,
-            "quantity": "1 bunch",
-            "ingredient_name": "radish"
-          },
-          {
-            "id": 265468,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 265469,
-            "quantity": "1 (16 oz) pkg",
-            "ingredient_name": "strawberries"
-          },
-          {
-            "id": 265470,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 265467,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 265463,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 265471,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 265466,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 265462,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 265464,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 265472,
-            "quantity": "",
-            "ingredient_name": "poppy seeds"
-          },
-          {
-            "id": 265465,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 627.33,
-          "alcohol": 0,
-          "ash": 5.98,
-          "caffeine": 0,
-          "water": 465.38,
-          "carbs": 24.66,
-          "fiber": 7.62,
-          "starch": 0.43,
-          "sugars": 15.38,
-          "fructose": 5.97,
-          "galactose": 0.05,
-          "glucose": 5.18,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 4.21,
-          "sugar_alcohol": 0,
-          "fat": 42.13,
-          "monounsaturated": 24.45,
-          "polyunsaturated": 3.66,
-          "omega_3": 0.39,
-          "omega_6": 3.28,
-          "saturated": 12.36,
-          "transfats": 1.38,
-          "cholesterol": 103.76,
-          "protein": 41.36,
-          "alanine": 2.5,
-          "arginine": 2.67,
-          "aspartic_acid": 4.46,
-          "cystine": 0.42,
-          "glutamic_acid": 6.56,
-          "glycine": 1.99,
-          "histidine": 1.43,
-          "isoleucine": 1.86,
-          "leucine": 3.39,
-          "lysine": 3.65,
-          "methionine": 1.03,
-          "phenylalanine": 1.64,
-          "proline": 1.81,
-          "serine": 1.7,
-          "threonine": 1.88,
-          "tryptophan": 0.46,
-          "tyrosine": 1.46,
-          "valine": 2.06,
-          "b1_thiamine": 0.35,
-          "b2_riboflavin": 0.6,
-          "b3_niacin": 12.83,
-          "b5_pantothenic_acid": 1.37,
-          "b6_pyridoxine": 1.2,
-          "b12_cobalamin": 2.77,
-          "choline": 131.45,
-          "folate": 192.11,
-          "vitamin_a": 960.38,
-          "vitamin_c": 90.45,
-          "vitamin_d": 6.8,
-          "vitamin_e": 5.23,
-          "vitamin_k": 233.66,
-          "calcium": 144.48,
-          "copper": 0.48,
-          "iron": 8.11,
-          "magnesium": 84.15,
-          "manganese": 1.17,
-          "phosphorus": 456.91,
-          "potassium": 1235.54,
-          "selenium": 36.58,
-          "sodium": 127.92,
-          "zinc": 7.09
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/steak-asparagus-strawberry-salad-balsamic-poppy-seed-dressing/15315",
-      "altVariants": [
-        {
-          "id": 15316,
-          "recipe_id": 1795,
-          "group_label": "Default",
-          "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "published_recipe_uuid": "4dcb5dee-2ddd-4683-a4d1-369f6c33f505",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586137000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            343,
-            145,
-            242,
-            279,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1.5,
-            3,
-            1.5,
-            2.25,
-            90,
-            5.9375,
-            22.5,
-            3.75,
-            120,
-            11.25,
-            7.5,
-            8.75
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15318,
-          "recipe_id": 1795,
-          "group_label": "Vegetarian",
-          "name": "Mozzarella, Asparagus & Strawberry Salad with Poppy Seed Dressing",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15318/thumbnail_a913071c-87c2-4ebe-bd0c-ffb052464cef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15318/presentation_a913071c-87c2-4ebe-bd0c-ffb052464cef.jpeg",
-          "published_recipe_uuid": "740bf60c-8653-4617-9769-4f5b815954ca",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586135000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            107,
-            343,
-            145,
-            242,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            2,
-            1,
-            60,
-            1.875,
-            15,
-            2.5,
-            70,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15317,
-          "recipe_id": 1795,
-          "group_label": "Vegetarian",
-          "name": "Mozzarella, Asparagus & Strawberry Salad with Poppy Seed Dressing",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15317/thumbnail_d8b0b028-343a-457d-aafc-55e03c1da295.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15317/presentation_d8b0b028-343a-457d-aafc-55e03c1da295.jpeg",
-          "published_recipe_uuid": "60d914f4-c975-4a20-99fa-a2a004da12a1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586136000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            107,
-            343,
-            145,
-            242,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            1,
-            0.5,
-            30,
-            0.9375,
-            7.5,
-            1.25,
-            35,
-            1.25,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15315,
-          "recipe_id": 1795,
-          "group_label": "Default",
-          "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "published_recipe_uuid": "a26d7bec-bc76-435c-b31d-09e5e2f91860",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586138000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            343,
-            145,
-            242,
-            279,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            2,
-            1,
-            1.5,
-            60,
-            3.125,
-            15,
-            2.5,
-            80,
-            7.5,
-            5,
-            6.25
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15314,
-          "recipe_id": 1795,
-          "group_label": "Default",
-          "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "published_recipe_uuid": "0f4320b9-3ebc-4c27-8d3f-f72fba50816d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586139000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            343,
-            145,
-            242,
-            279,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.75,
-            30,
-            1.5625,
-            7.5,
-            1.25,
-            40,
-            3.75,
-            2.5,
-            3.125
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15319,
-          "recipe_id": 1795,
-          "group_label": "Vegetarian",
-          "name": "Mozzarella, Asparagus & Strawberry Salad with Poppy Seed Dressing",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15319/thumbnail_54af0c76-4c67-4b69-89fe-8228773ff6d0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15319/presentation_54af0c76-4c67-4b69-89fe-8228773ff6d0.jpeg",
-          "published_recipe_uuid": "b056bd2d-a62e-419e-9a89-82aff7c21ddf",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586134000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            107,
-            343,
-            145,
-            242,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            3,
-            1.5,
-            3,
-            1.5,
-            90,
-            3.4375,
-            22.5,
-            3.75,
-            105,
-            3.75,
-            7.5,
-            5
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15325,
-          "recipe_id": 1795,
-          "group_label": "Vegetarian",
-          "name": "Mozzarella, Asparagus & Strawberry Salad with Poppy Seed Dressing",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15325/thumbnail_dde2ddca-866a-49fc-bca1-07cf1eaddf0c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15325/presentation_dde2ddca-866a-49fc-bca1-07cf1eaddf0c.jpeg",
-          "published_recipe_uuid": "7e992f7a-5719-41d2-b4a9-fff7a2f81fd6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586130000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            107,
-            343,
-            145,
-            242,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            3,
-            1.5,
-            3,
-            1.5,
-            90,
-            3.4375,
-            22.5,
-            3.75,
-            105,
-            3.75,
-            7.5,
-            5
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15324,
-          "recipe_id": 1795,
-          "group_label": "Vegetarian",
-          "name": "Mozzarella, Asparagus & Strawberry Salad with Poppy Seed Dressing",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15324/thumbnail_ce8c7d80-f8ec-4587-850e-4c1c51554821.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15324/presentation_ce8c7d80-f8ec-4587-850e-4c1c51554821.jpeg",
-          "published_recipe_uuid": "e4bb792d-57f9-4c30-9c9c-b8a0ac9da13f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586131000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            107,
-            343,
-            145,
-            242,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            2,
-            1,
-            60,
-            1.875,
-            15,
-            2.5,
-            70,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15323,
-          "recipe_id": 1795,
-          "group_label": "Vegetarian",
-          "name": "Mozzarella, Asparagus & Strawberry Salad with Poppy Seed Dressing",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15323/thumbnail_f1a401d2-17c0-465b-95b9-1e9ae0e6ec8b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/15323/presentation_f1a401d2-17c0-465b-95b9-1e9ae0e6ec8b.jpeg",
-          "published_recipe_uuid": "f40f4e2e-dc3f-413e-aa8a-b524b098030f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586132000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            107,
-            343,
-            145,
-            242,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            1,
-            0.5,
-            30,
-            0.9375,
-            7.5,
-            1.25,
-            35,
-            1.25,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15322,
-          "recipe_id": 1795,
-          "group_label": "Default",
-          "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "published_recipe_uuid": "d4e372d8-f9f8-4772-b857-dec7dcb9e026",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586133000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            343,
-            145,
-            242,
-            279,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1.5,
-            3,
-            1.5,
-            1.02,
-            90,
-            5.9375,
-            22.5,
-            3.75,
-            120,
-            11.25,
-            7.5,
-            8.75
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15321,
-          "recipe_id": 1795,
-          "group_label": "Default",
-          "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "published_recipe_uuid": "e356a60e-fa33-4df8-8b50-e710517d7c7e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586133000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            343,
-            145,
-            242,
-            279,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            2,
-            1,
-            0.68,
-            60,
-            3.125,
-            15,
-            2.5,
-            80,
-            7.5,
-            5,
-            6.25
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        },
-        {
-          "id": 15320,
-          "recipe_id": 1795,
-          "group_label": "Default",
-          "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
-          "published_recipe_uuid": "34af746a-19e1-4f43-b3d6-551e16fba081",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1625586134000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            343,
-            145,
-            242,
-            279,
-            131,
-            72,
-            293,
-            117,
-            47,
-            81,
-            311,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.34,
-            30,
-            1.5625,
-            7.5,
-            1.25,
-            40,
-            3.75,
-            2.5,
-            3.125
-          ],
-          "average_rating": 0.909,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Strawberry season may be our favorite season of all and this salad is just another reason why"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Strawberry season may be our favorite season of all and this salad is just another reason why",
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.5
-      }
+  "id": 15315,
+  "recipe_id": 1795,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Steak, Asparagus & Strawberry Salad with Balsamic-Poppy Seed Dressing",
+  "slug": "steak-asparagus-strawberry-salad-balsamic-poppy-seed-dressing",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/thumbnail_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1795/presentation_64d65d1a-9c2e-4f60-9fed-1abd5314b837.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "steak-asparagus-strawberry-salad-balsamic-poppy-seed-dressing",
-    "variantId": "15315"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 252402,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 252403,
+      "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
+      "secondary_message": "2 small bunches asparagus\n1 (16 oz) pkg strawberries\n1 bunch radish\n1 small pkg fresh basil\n2 (5 oz) pkgs spring mix (mixed greens)"
+    },
+    {
+      "id": 252404,
+      "primary_message": "Snap or cut off woody ends of the asparagus; cut into bite-sized pieces. Transfer to a large baking sheet pan, drizzle with oil, and sprinkle with salt and pepper; toss to combine and spread out in an even layer.",
+      "secondary_message": "2 tsp extra virgin olive oil\n¼ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 252405,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast until asparagus is tender-crisp, 8-10 minutes. Remove from oven and set aside to cool.",
+      "secondary_message": null
+    },
+    {
+      "id": 252406,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 252407,
+      "primary_message": "While the skillet heats up, pat steak dry with paper towels and season with spices on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp Italian seasoning\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 252408,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a plate and loosely cover with aluminum foil.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 252409,
+      "primary_message": "Meanwhile, place oil, vinegar, sugar, poppy seeds, Dijon, and spices in a large bowl. Whisk to combine the dressing.",
+      "secondary_message": "¼ cup extra virgin olive oil\n¼ cup balsamic vinegar\n1 tbsp brown sugar\n1 tsp poppy seeds\n½ tsp Dijon mustard\n½ tsp Italian seasoning\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 252410,
+      "primary_message": "Trim and slice strawberries crosswise into ¼-inch thick pieces; add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 252411,
+      "primary_message": "Trim off and discard tops and root ends of radishes; thinly slice and add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 252412,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 252413,
+      "primary_message": "Add roasted asparagus and mixed greens to the bowl; toss to combine the salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 252414,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": null
+    },
+    {
+      "id": 252415,
+      "primary_message": "To serve, divide salad between plates. Top with steak and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 265460,
+      "quantity": "2 small bunches",
+      "ingredient_name": "asparagus"
+    },
+    {
+      "id": 265461,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 265473,
+      "quantity": "1 bunch",
+      "ingredient_name": "radish"
+    },
+    {
+      "id": 265468,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 265469,
+      "quantity": "1 (16 oz) pkg",
+      "ingredient_name": "strawberries"
+    },
+    {
+      "id": 265470,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 265467,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 265463,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 265471,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 265466,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 265462,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 265464,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 265472,
+      "quantity": "",
+      "ingredient_name": "poppy seeds"
+    },
+    {
+      "id": 265465,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 627.33,
+    "alcohol": 0,
+    "ash": 5.98,
+    "caffeine": 0,
+    "water": 465.38,
+    "carbs": 24.66,
+    "fiber": 7.62,
+    "starch": 0.43,
+    "sugars": 15.38,
+    "fructose": 5.97,
+    "galactose": 0.05,
+    "glucose": 5.18,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 4.21,
+    "sugar_alcohol": 0,
+    "fat": 42.13,
+    "monounsaturated": 24.45,
+    "polyunsaturated": 3.66,
+    "omega_3": 0.39,
+    "omega_6": 3.28,
+    "saturated": 12.36,
+    "transfats": 1.38,
+    "cholesterol": 103.76,
+    "protein": 41.36,
+    "alanine": 2.5,
+    "arginine": 2.67,
+    "aspartic_acid": 4.46,
+    "cystine": 0.42,
+    "glutamic_acid": 6.56,
+    "glycine": 1.99,
+    "histidine": 1.43,
+    "isoleucine": 1.86,
+    "leucine": 3.39,
+    "lysine": 3.65,
+    "methionine": 1.03,
+    "phenylalanine": 1.64,
+    "proline": 1.81,
+    "serine": 1.7,
+    "threonine": 1.88,
+    "tryptophan": 0.46,
+    "tyrosine": 1.46,
+    "valine": 2.06,
+    "b1_thiamine": 0.35,
+    "b2_riboflavin": 0.6,
+    "b3_niacin": 12.83,
+    "b5_pantothenic_acid": 1.37,
+    "b6_pyridoxine": 1.2,
+    "b12_cobalamin": 2.77,
+    "choline": 131.45,
+    "folate": 192.11,
+    "vitamin_a": 960.38,
+    "vitamin_c": 90.45,
+    "vitamin_d": 6.8,
+    "vitamin_e": 5.23,
+    "vitamin_k": 233.66,
+    "calcium": 144.48,
+    "copper": 0.48,
+    "iron": 8.11,
+    "magnesium": 84.15,
+    "manganese": 1.17,
+    "phosphorus": 456.91,
+    "potassium": 1235.54,
+    "selenium": 36.58,
+    "sodium": 127.92,
+    "zinc": 7.09
+  }
 }

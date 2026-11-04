@@ -1,823 +1,305 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 8570,
-        "recipe_id": 965,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
-        "slug": "sweet-potato-chickpea-bowls-maple-tahini-sauce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 129884,
-            "primary_message": "Preheat oven to 400°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 129885,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 ½ lb sweet potatoes\n2 crowns broccoli\n1 bunch kale\n1 lemon"
-          },
-          {
-            "id": 129886,
-            "primary_message": "Peel the sweet potatoes and onions; cut both into 1-inch pieces. Transfer to a large bowl; add oil, salt, and pepper, and toss to coat. Divide veggies between two baking sheets and bake, until softened, about 10 minutes. Reserve bowl for later use.",
-            "secondary_message": "1 medium red onion\n2 tsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 129887,
-            "primary_message": "Meanwhile, drain and rinse the chickpeas; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 129888,
-            "primary_message": "Separate broccoli into bite-sized florets and cut stems into smaller pieces. Place broccoli in the large bowl, add oil, salt, and pepper, and toss to coat. Add to baking sheets with the sweet potatoes, tossing to combine; bake until cooked through, about 10 more minutes. Reserve bowl for later use. ",
-            "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 129889,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 129890,
-            "primary_message": "Combine spices in a small bowl.",
-            "secondary_message": "2 tsp cumin\n2 tsp chili powder\n1 tsp garlic powder\n1 tsp oregano\n1 tsp turmeric\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 129891,
-            "primary_message": "When the skillet is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 129892,
-            "primary_message": "Add chickpeas and spices to the skillet and toss to coat. Cook, stirring occasionally, until chickpeas are golden and fragrant, about 12 minutes. When done, set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 129893,
-            "primary_message": "Meanwhile, fold kale leaves in half lengthwise and slice off the stems. Chop or tear leaves into bite-sized pieces and transfer to the large bowl; add oil, salt, and pepper and toss to combine. Add to the baking sheets and cook until wilted, about 5 more minutes.",
-            "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 129894,
-            "primary_message": "Juice lemon into a small bowl; add tahini, maple syrup, and water, whisking to combine the dressing. Add additional water as needed to reach a drizzling consistency.",
-            "secondary_message": "½ cup tahini\n4 tsp pure maple syrup\n¼ cup water"
-          },
-          {
-            "id": 129895,
-            "primary_message": "To serve, divide roasted vegetables and chickpeas between bowls. Drizzle with tahini-maple dressing and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 134829,
-            "quantity": "2 crowns",
-            "ingredient_name": "broccoli"
-          },
-          {
-            "id": 134827,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 134834,
-            "quantity": "1 bunch",
-            "ingredient_name": "kale"
-          },
-          {
-            "id": 134833,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 134831,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 134830,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "sweet potatoes"
-          },
-          {
-            "id": 134821,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 134822,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 134832,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 134820,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 134823,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 134824,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 134828,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 134825,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 134835,
-            "quantity": "",
-            "ingredient_name": "tahini"
-          },
-          {
-            "id": 134826,
-            "quantity": "",
-            "ingredient_name": "turmeric, ground"
-          }
-        ],
-        "nutrition": {
-          "energy": 699.17,
-          "alcohol": 0,
-          "ash": 10.08,
-          "caffeine": 0,
-          "water": 365.04,
-          "carbs": 89.66,
-          "fiber": 20.42,
-          "starch": 40.44,
-          "sugars": 15.36,
-          "fructose": 2.44,
-          "galactose": 0,
-          "glucose": 2.98,
-          "lactose": 0.18,
-          "maltose": 0.18,
-          "sucrose": 9.41,
-          "sugar_alcohol": 0.07,
-          "fat": 32.45,
-          "monounsaturated": 15.34,
-          "polyunsaturated": 9.93,
-          "omega_3": 0.37,
-          "omega_6": 9.55,
-          "saturated": 4.32,
-          "transfats": 0.02,
-          "cholesterol": 0,
-          "protein": 21.51,
-          "alanine": 0.96,
-          "arginine": 2.02,
-          "aspartic_acid": 2.68,
-          "cystine": 0.32,
-          "glutamic_acid": 3.74,
-          "glycine": 1.01,
-          "histidine": 0.55,
-          "isoleucine": 0.86,
-          "leucine": 1.44,
-          "lysine": 1.11,
-          "methionine": 0.39,
-          "phenylalanine": 1.1,
-          "proline": 0.92,
-          "serine": 1.07,
-          "threonine": 0.84,
-          "tryptophan": 0.31,
-          "tyrosine": 0.61,
-          "valine": 1.02,
-          "b1_thiamine": 0.68,
-          "b2_riboflavin": 0.54,
-          "b3_niacin": 4.01,
-          "b5_pantothenic_acid": 2.49,
-          "b6_pyridoxine": 0.9,
-          "b12_cobalamin": 0,
-          "choline": 95.07,
-          "folate": 183.89,
-          "vitamin_a": 24722.4,
-          "vitamin_c": 134.82,
-          "vitamin_d": 0,
-          "vitamin_e": 5.2,
-          "vitamin_k": 433.03,
-          "calcium": 355.77,
-          "copper": 1.28,
-          "iron": 8.01,
-          "magnesium": 150.66,
-          "manganese": 3.01,
-          "phosphorus": 513.71,
-          "potassium": 1351.61,
-          "selenium": 18.68,
-          "sodium": 449.25,
-          "zinc": 3.57
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sweet-potato-chickpea-bowls-maple-tahini-sauce/8570",
-      "altVariants": [
-        {
-          "id": 8571,
-          "recipe_id": 965,
-          "group_label": "Default",
-          "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "published_recipe_uuid": "b113e27e-8afa-479f-ba6a-1396479e27c2",
-          "fallback_published_recipe_uuids": [
-            "4122303d-0314-4f50-ad2d-8b1e94237219",
-            "6a44e7cb-0e38-4a22-8eee-dfbf1ddce697",
-            "3bd75edf-255a-4a19-9754-0f1e9dd415a4"
-          ],
-          "first_published_at": 1571330130000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            105,
-            92,
-            226,
-            192,
-            184,
-            143,
-            72,
-            75,
-            186,
-            47,
-            79,
-            82,
-            104,
-            88,
-            334,
-            90
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            2.25,
-            9.375,
-            15,
-            15,
-            75,
-            7.5,
-            7.5,
-            30,
-            18.75,
-            180,
-            7.5
-          ],
-          "average_rating": 0.836,
-          "rating_count": 113,
-          "variety_tag_ids": [
-            25,
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8570,
-          "recipe_id": 965,
-          "group_label": "Default",
-          "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "published_recipe_uuid": "9aaedd28-85e0-4c16-b0fe-b579c7d84fa3",
-          "fallback_published_recipe_uuids": [
-            "20d115b1-1e24-4259-909d-cdac128880cb",
-            "8a0a03f7-f959-4890-81a8-0b85da7184cc",
-            "92d4b5ff-fdb4-4671-913a-ac9e6de954fb"
-          ],
-          "first_published_at": 1571330130000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            105,
-            92,
-            226,
-            192,
-            184,
-            143,
-            72,
-            75,
-            186,
-            47,
-            79,
-            82,
-            104,
-            88,
-            334,
-            90
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1,
-            1,
-            1.5,
-            6.25,
-            10,
-            10,
-            50,
-            5,
-            5,
-            20,
-            12.5,
-            120,
-            5
-          ],
-          "average_rating": 0.836,
-          "rating_count": 113,
-          "variety_tag_ids": [
-            25,
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8569,
-          "recipe_id": 965,
-          "group_label": "Default",
-          "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "published_recipe_uuid": "85631673-4a28-4e10-921e-8f74b5a1f803",
-          "fallback_published_recipe_uuids": [
-            "97d2e22b-f73f-4a93-b1cf-d25d026c17a5",
-            "2090a110-576f-465f-83b3-cddd72b7d459",
-            "0e42d919-fdd8-44a8-ab50-4a646bf783f8"
-          ],
-          "first_published_at": 1571330129000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            105,
-            92,
-            226,
-            192,
-            184,
-            143,
-            72,
-            75,
-            186,
-            47,
-            79,
-            82,
-            104,
-            88,
-            334,
-            90
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.75,
-            3.125,
-            5,
-            5,
-            25,
-            2.5,
-            2.5,
-            10,
-            6.25,
-            60,
-            2.5
-          ],
-          "average_rating": 0.836,
-          "rating_count": 113,
-          "variety_tag_ids": [
-            25,
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8574,
-          "recipe_id": 965,
-          "group_label": "Default",
-          "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "published_recipe_uuid": "caafe87f-1edd-46e5-b67a-04fabe9dcb11",
-          "fallback_published_recipe_uuids": [
-            "3a075749-7ef8-4efd-8630-ab9baf69ae5a",
-            "d76d5b94-6ab5-4fcc-87d0-f6c9c6b70fcc",
-            "74779b2b-8b37-4089-9c41-17ed5accc8ae"
-          ],
-          "first_published_at": 1571330132000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            105,
-            92,
-            226,
-            192,
-            184,
-            143,
-            72,
-            75,
-            186,
-            47,
-            79,
-            82,
-            104,
-            88,
-            334,
-            90
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            1.02,
-            9.375,
-            15,
-            15,
-            75,
-            7.5,
-            7.5,
-            30,
-            18.75,
-            180,
-            7.5
-          ],
-          "average_rating": 0.836,
-          "rating_count": 113,
-          "variety_tag_ids": [
-            25,
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8573,
-          "recipe_id": 965,
-          "group_label": "Default",
-          "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "published_recipe_uuid": "34fd9a4b-a15c-4ba2-8b21-d99a69b1a27a",
-          "fallback_published_recipe_uuids": [
-            "b9061420-0a68-4a82-b363-98ef15320ab4",
-            "3d07b56e-28fb-47cf-9a23-d03cb2fb790c",
-            "61654630-e23d-4e54-bd46-3f2b7e53ea93"
-          ],
-          "first_published_at": 1571330131000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            105,
-            92,
-            226,
-            192,
-            184,
-            143,
-            72,
-            75,
-            186,
-            47,
-            79,
-            82,
-            104,
-            88,
-            334,
-            90
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1,
-            1,
-            0.68,
-            6.25,
-            10,
-            10,
-            50,
-            5,
-            5,
-            20,
-            12.5,
-            120,
-            5
-          ],
-          "average_rating": 0.836,
-          "rating_count": 113,
-          "variety_tag_ids": [
-            25,
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8572,
-          "recipe_id": 965,
-          "group_label": "Default",
-          "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
-          "published_recipe_uuid": "674dfc6a-7fbd-482a-b29e-ce19e78ba57a",
-          "fallback_published_recipe_uuids": [
-            "958192ba-8928-4e39-b4e7-c4c90e6bdb67",
-            "b431b27e-9111-45a9-a811-a5b810b27641",
-            "d5211fdb-71d1-47cc-96f5-12a73d818b8c"
-          ],
-          "first_published_at": 1571330131000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            12
-          ],
-          "ingredient_ids": [
-            105,
-            92,
-            226,
-            192,
-            184,
-            143,
-            72,
-            75,
-            186,
-            47,
-            79,
-            82,
-            104,
-            88,
-            334,
-            90
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.34,
-            3.125,
-            5,
-            5,
-            25,
-            2.5,
-            2.5,
-            10,
-            6.25,
-            60,
-            2.5
-          ],
-          "average_rating": 0.836,
-          "rating_count": 113,
-          "variety_tag_ids": [
-            25,
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Bowls",
-          "Baked"
-        ],
-        "cuisine": "",
-        "reviewCount": 113,
-        "reviewScore": 4.2
-      }
+  "id": 8570,
+  "recipe_id": 965,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Sweet Potato Chickpea Bowls with Maple-Tahini Sauce",
+  "slug": "sweet-potato-chickpea-bowls-maple-tahini-sauce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/thumbnail_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/965/presentation_7b4babed-6b76-425a-8dfb-0f6b52b3c48c.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sweet-potato-chickpea-bowls-maple-tahini-sauce",
-    "variantId": "8570"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 129884,
+      "primary_message": "Preheat oven to 400°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 129885,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 ½ lb sweet potatoes\n2 crowns broccoli\n1 bunch kale\n1 lemon"
+    },
+    {
+      "id": 129886,
+      "primary_message": "Peel the sweet potatoes and onions; cut both into 1-inch pieces. Transfer to a large bowl; add oil, salt, and pepper, and toss to coat. Divide veggies between two baking sheets and bake, until softened, about 10 minutes. Reserve bowl for later use.",
+      "secondary_message": "1 medium red onion\n2 tsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 129887,
+      "primary_message": "Meanwhile, drain and rinse the chickpeas; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 129888,
+      "primary_message": "Separate broccoli into bite-sized florets and cut stems into smaller pieces. Place broccoli in the large bowl, add oil, salt, and pepper, and toss to coat. Add to baking sheets with the sweet potatoes, tossing to combine; bake until cooked through, about 10 more minutes. Reserve bowl for later use. ",
+      "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 129889,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 129890,
+      "primary_message": "Combine spices in a small bowl.",
+      "secondary_message": "2 tsp cumin\n2 tsp chili powder\n1 tsp garlic powder\n1 tsp oregano\n1 tsp turmeric\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 129891,
+      "primary_message": "When the skillet is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 129892,
+      "primary_message": "Add chickpeas and spices to the skillet and toss to coat. Cook, stirring occasionally, until chickpeas are golden and fragrant, about 12 minutes. When done, set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 129893,
+      "primary_message": "Meanwhile, fold kale leaves in half lengthwise and slice off the stems. Chop or tear leaves into bite-sized pieces and transfer to the large bowl; add oil, salt, and pepper and toss to combine. Add to the baking sheets and cook until wilted, about 5 more minutes.",
+      "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 129894,
+      "primary_message": "Juice lemon into a small bowl; add tahini, maple syrup, and water, whisking to combine the dressing. Add additional water as needed to reach a drizzling consistency.",
+      "secondary_message": "½ cup tahini\n4 tsp pure maple syrup\n¼ cup water"
+    },
+    {
+      "id": 129895,
+      "primary_message": "To serve, divide roasted vegetables and chickpeas between bowls. Drizzle with tahini-maple dressing and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 134829,
+      "quantity": "2 crowns",
+      "ingredient_name": "broccoli"
+    },
+    {
+      "id": 134827,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 134834,
+      "quantity": "1 bunch",
+      "ingredient_name": "kale"
+    },
+    {
+      "id": 134833,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 134831,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 134830,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "sweet potatoes"
+    },
+    {
+      "id": 134821,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 134822,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 134832,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 134820,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 134823,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 134824,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 134828,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 134825,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 134835,
+      "quantity": "",
+      "ingredient_name": "tahini"
+    },
+    {
+      "id": 134826,
+      "quantity": "",
+      "ingredient_name": "turmeric, ground"
+    }
+  ],
+  "nutrition": {
+    "energy": 699.17,
+    "alcohol": 0,
+    "ash": 10.08,
+    "caffeine": 0,
+    "water": 365.04,
+    "carbs": 89.66,
+    "fiber": 20.42,
+    "starch": 40.44,
+    "sugars": 15.36,
+    "fructose": 2.44,
+    "galactose": 0,
+    "glucose": 2.98,
+    "lactose": 0.18,
+    "maltose": 0.18,
+    "sucrose": 9.41,
+    "sugar_alcohol": 0.07,
+    "fat": 32.45,
+    "monounsaturated": 15.34,
+    "polyunsaturated": 9.93,
+    "omega_3": 0.37,
+    "omega_6": 9.55,
+    "saturated": 4.32,
+    "transfats": 0.02,
+    "cholesterol": 0,
+    "protein": 21.51,
+    "alanine": 0.96,
+    "arginine": 2.02,
+    "aspartic_acid": 2.68,
+    "cystine": 0.32,
+    "glutamic_acid": 3.74,
+    "glycine": 1.01,
+    "histidine": 0.55,
+    "isoleucine": 0.86,
+    "leucine": 1.44,
+    "lysine": 1.11,
+    "methionine": 0.39,
+    "phenylalanine": 1.1,
+    "proline": 0.92,
+    "serine": 1.07,
+    "threonine": 0.84,
+    "tryptophan": 0.31,
+    "tyrosine": 0.61,
+    "valine": 1.02,
+    "b1_thiamine": 0.68,
+    "b2_riboflavin": 0.54,
+    "b3_niacin": 4.01,
+    "b5_pantothenic_acid": 2.49,
+    "b6_pyridoxine": 0.9,
+    "b12_cobalamin": 0,
+    "choline": 95.07,
+    "folate": 183.89,
+    "vitamin_a": 24722.4,
+    "vitamin_c": 134.82,
+    "vitamin_d": 0,
+    "vitamin_e": 5.2,
+    "vitamin_k": 433.03,
+    "calcium": 355.77,
+    "copper": 1.28,
+    "iron": 8.01,
+    "magnesium": 150.66,
+    "manganese": 3.01,
+    "phosphorus": 513.71,
+    "potassium": 1351.61,
+    "selenium": 18.68,
+    "sodium": 449.25,
+    "zinc": 3.57
+  }
 }

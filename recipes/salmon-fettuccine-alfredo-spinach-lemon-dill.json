@@ -1,784 +1,315 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3018,
-        "recipe_id": 428,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
-        "slug": "salmon-fettuccine-alfredo-spinach-lemon-dill",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 68,
-            "name": "stainless steel sauté pan",
-            "slug": "stainless-steel-saute-pan"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 29853,
-            "primary_message": "Fill a large pot (for the pasta) about halfway with water; cover and bring to a boil.",
-            "secondary_message": null
-          },
-          {
-            "id": 29854,
-            "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 (5 oz) pkg baby spinach\n1 small bunch fresh dill\n1 lemon"
-          },
-          {
-            "id": 29855,
-            "primary_message": "Preheat a sauté pan over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 29856,
-            "primary_message": "While the pan warms up, place the salmon on a plate and season both sides with salt and pepper.",
-            "secondary_message": "1 ½ lb salmon fillet\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 29857,
-            "primary_message": "Add butter to the pan and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp butter, unsalted"
-          },
-          {
-            "id": 29858,
-            "primary_message": "Place the salmon, skin-side down, in the pan; cook until it is cooked through, 3 to 5 minutes per side. Cook in batches if necessary. Once done, transfer to a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 29859,
-            "primary_message": "Meanwhile, peel and mince the garlic.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 29860,
-            "primary_message": "Once the salmon has been transferred, reduce the heat to medium-low and add more butter to the pan.",
-            "secondary_message": "2 tbsp butter, unsalted"
-          },
-          {
-            "id": 29861,
-            "primary_message": "Add the garlic and flour to the pan; whisk until the mixture is smooth, about 1 minute.",
-            "secondary_message": "2 tbsp all-purpose flour"
-          },
-          {
-            "id": 29862,
-            "primary_message": "Add the broth and whisk until smooth, then add the milk and cook, stirring frequently, until the sauce is thickened, 4 to 5 minutes.",
-            "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n8 fl oz (1 cup) whole milk"
-          },
-          {
-            "id": 29863,
-            "primary_message": "Once the water in the saucepan is boiling, season with salt and add the pasta; stir for the few seconds. Cook until desired firmness, 8-10 minutes.",
-            "secondary_message": "2 tbsp salt\n10 oz (1 quarter coin = 2 oz) fettuccine pasta"
-          },
-          {
-            "id": 29864,
-            "primary_message": "While the sauce cooks, pick the tender dill stems off the tough stems; discard the tough stems and finely chop the tender ones.",
-            "secondary_message": null
-          },
-          {
-            "id": 29865,
-            "primary_message": "Finely grate ½ cup of Parmesan.",
-            "secondary_message": "1 oz Parmesan cheese"
-          },
-          {
-            "id": 29866,
-            "primary_message": "Add the Parmesan to the sauce and season with salt and pepper; stir until smooth, then turn off the heat.",
-            "secondary_message": "½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 29867,
-            "primary_message": "Grate the zest from the lemon and transfer to a small bowl, then juice the lemon into the same bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 29868,
-            "primary_message": "Drain the pasta in a colander, reserving about 1 cup of the pasta water.",
-            "secondary_message": null
-          },
-          {
-            "id": 29869,
-            "primary_message": "Using a fork or your hands, flake the salmon into bite-sized pieces.",
-            "secondary_message": null
-          },
-          {
-            "id": 29870,
-            "primary_message": "Add the pasta, spinach, ¾ of the dill (save the rest for garnishing), salmon, lemon zest and juice, and ½ of the reserved pasta water to the sauce; toss to combine. Return sauté pan to the stove over medium-low heat; cook for 2-3 minutes or until spinach has wilted, adding more pasta water to thin out the sauce as needed.",
-            "secondary_message": null
-          },
-          {
-            "id": 29871,
-            "primary_message": "To serve, divide pasta between dishes, sprinkle with the remaining dill, and season with freshly ground pepper. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 37214,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 37212,
-            "quantity": "8 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 37220,
-            "quantity": "10 oz",
-            "ingredient_name": "fettuccine pasta"
-          },
-          {
-            "id": 37211,
-            "quantity": "1 small bunch",
-            "ingredient_name": "fresh dill"
-          },
-          {
-            "id": 37213,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 37215,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 37217,
-            "quantity": "1 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 37221,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "salmon fillet"
-          },
-          {
-            "id": 37218,
-            "quantity": "8 fl oz",
-            "ingredient_name": "whole milk"
-          },
-          {
-            "id": 37216,
-            "quantity": "",
-            "ingredient_name": "all-purpose flour"
-          },
-          {
-            "id": 37209,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 37219,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 37210,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 696.12,
-          "alcohol": 0,
-          "ash": 6.81,
-          "caffeine": 0,
-          "water": 299.93,
-          "carbs": 63.69,
-          "fiber": 3.52,
-          "starch": 48.17,
-          "sugars": 5.91,
-          "fructose": 0.36,
-          "galactose": 0.04,
-          "glucose": 0.43,
-          "lactose": 3.2,
-          "maltose": 1.39,
-          "sucrose": 0.55,
-          "sugar_alcohol": 0,
-          "fat": 24.29,
-          "monounsaturated": 7.25,
-          "polyunsaturated": 4.45,
-          "omega_3": 2.89,
-          "omega_6": 1.46,
-          "saturated": 10.26,
-          "transfats": 0.48,
-          "cholesterol": 110.34,
-          "protein": 53.75,
-          "alanine": 2.83,
-          "arginine": 2.87,
-          "aspartic_acid": 4.8,
-          "cystine": 0.65,
-          "glutamic_acid": 10.27,
-          "glycine": 2.31,
-          "histidine": 1.53,
-          "isoleucine": 2.45,
-          "leucine": 4.35,
-          "lysine": 4.19,
-          "methionine": 1.38,
-          "phenylalanine": 2.28,
-          "proline": 3.08,
-          "serine": 2.32,
-          "threonine": 2.24,
-          "tryptophan": 0.64,
-          "tyrosine": 1.76,
-          "valine": 2.77,
-          "b1_thiamine": 0.36,
-          "b2_riboflavin": 0.54,
-          "b3_niacin": 15.07,
-          "b5_pantothenic_acid": 2.17,
-          "b6_pyridoxine": 1.2,
-          "b12_cobalamin": 7.53,
-          "choline": 211.03,
-          "folate": 121.01,
-          "vitamin_a": 930.9,
-          "vitamin_c": 23.21,
-          "vitamin_d": 652.89,
-          "vitamin_e": 2.5,
-          "vitamin_k": 193.09,
-          "calcium": 209.06,
-          "copper": 0.42,
-          "iron": 3.8,
-          "magnesium": 135.33,
-          "manganese": 1.26,
-          "phosphorus": 733.73,
-          "potassium": 1299.2,
-          "selenium": 113.12,
-          "sodium": 162.62,
-          "zinc": 2.52
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/salmon-fettuccine-alfredo-spinach-lemon-dill/3018",
-      "altVariants": [
-        {
-          "id": 3018,
-          "recipe_id": 428,
-          "group_label": "Classic",
-          "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "published_recipe_uuid": "fdfdd6fe-bcdc-4eb4-a6a2-bb8d51e10d6b",
-          "fallback_published_recipe_uuids": [
-            "c00af377-acf1-4cf6-9c60-f1f37152e6ac",
-            "f6850ad8-825d-48e4-a61e-265ff4415b03",
-            "24ef69c0-2478-4c49-997c-8695b5afddda"
-          ],
-          "first_published_at": 1471494500000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            299,
-            320,
-            24,
-            192,
-            120,
-            6,
-            118,
-            116,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            10,
-            1,
-            4,
-            1,
-            1,
-            1.5,
-            8,
-            29.5735,
-            3.69669,
-            44.3603,
-            7.39338
-          ],
-          "average_rating": 0.839,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3016,
-          "recipe_id": 428,
-          "group_label": "Classic",
-          "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "published_recipe_uuid": "528bb3b5-b474-432e-9165-d15c3130c9fb",
-          "fallback_published_recipe_uuids": [
-            "bf7b0405-de24-484d-9a0b-38e60dfcc621",
-            "070dfd13-785b-4c0a-b0d2-6c687c249853",
-            "fb6e1ea8-b7b2-4dbf-be5f-255582a0027c"
-          ],
-          "first_published_at": 1471489330000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            299,
-            320,
-            24,
-            192,
-            120,
-            6,
-            118,
-            116,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            5,
-            0.5,
-            2,
-            0.5,
-            0.5,
-            0.75,
-            4,
-            14.7868,
-            1.848345,
-            22.1801,
-            3.69669
-          ],
-          "average_rating": 0.839,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5741,
-          "recipe_id": 428,
-          "group_label": "Classic",
-          "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "published_recipe_uuid": "f381c531-a35d-4205-8e19-94d576cfaefe",
-          "fallback_published_recipe_uuids": [
-            "f0fcd810-34ab-4d62-aecb-1604536a2c41",
-            "56352541-26a6-4b52-bd36-190c995c9329",
-            "f6aa6e6b-80d5-41a3-be88-7679536fee81"
-          ],
-          "first_published_at": 1550529437000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            299,
-            320,
-            24,
-            192,
-            120,
-            6,
-            118,
-            116,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            15,
-            1.5,
-            6,
-            1.5,
-            1.5,
-            2.25,
-            12,
-            44.36025,
-            5.5450349999999995,
-            66.54045,
-            11.090069999999999
-          ],
-          "average_rating": 0.839,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5961,
-          "recipe_id": 428,
-          "group_label": "Classic",
-          "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "published_recipe_uuid": "c1be56d4-4644-4ff3-bfb7-1734e7db9d1b",
-          "fallback_published_recipe_uuids": [
-            "af571094-438c-4a65-b4fb-460803e2da8c",
-            "330a282b-b3bd-4d76-94f2-901445e8fe88",
-            "015cc190-5f18-41b8-b715-afb498f7348c"
-          ],
-          "first_published_at": 1550532593000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            299,
-            320,
-            24,
-            192,
-            120,
-            6,
-            118,
-            116,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            355.5,
-            424.5,
-            1.5,
-            6,
-            1.5,
-            42,
-            1.02,
-            355.5,
-            44.36025,
-            5.5450349999999995,
-            66.54045,
-            11.090069999999999
-          ],
-          "average_rating": 0.839,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3469,
-          "recipe_id": 428,
-          "group_label": "Classic",
-          "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "published_recipe_uuid": "07091647-c830-49e3-8b5e-4fa1fb00de22",
-          "fallback_published_recipe_uuids": [
-            "a217b190-b24c-4547-9317-8fffca31d23c",
-            "dec5fa35-f8c2-4a81-8107-cace9ed8bf75",
-            "1e1b3d66-ea63-4c69-85e4-dc0f07b61569"
-          ],
-          "first_published_at": 1486057038000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            299,
-            320,
-            24,
-            192,
-            120,
-            6,
-            118,
-            116,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            237,
-            283,
-            1,
-            4,
-            1,
-            28,
-            0.68,
-            237,
-            29.5735,
-            3.69669,
-            44.3603,
-            7.39338
-          ],
-          "average_rating": 0.839,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3468,
-          "recipe_id": 428,
-          "group_label": "Classic",
-          "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
-          "published_recipe_uuid": "860070b6-d999-4d1f-ac9b-b9e9b5a8cca3",
-          "fallback_published_recipe_uuids": [
-            "ec8de8e2-a537-4b87-835c-5af637ecc714",
-            "8294e7df-3c42-4497-8bbf-063fca780a61",
-            "6af46819-130f-41d0-9451-2ca7fed92bd3"
-          ],
-          "first_published_at": 1486056886000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            299,
-            320,
-            24,
-            192,
-            120,
-            6,
-            118,
-            116,
-            72,
-            115,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            118,
-            142,
-            0.5,
-            2,
-            0.5,
-            14,
-            0.34,
-            118,
-            14.7868,
-            1.848345,
-            22.1801,
-            3.69669
-          ],
-          "average_rating": 0.839,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.2
-      }
+  "id": 3018,
+  "recipe_id": 428,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Salmon Fettuccine Alfredo with Spinach, Lemon & Dill",
+  "slug": "salmon-fettuccine-alfredo-spinach-lemon-dill",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/thumbnail_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/428/presentation_9245729a-9374-4fff-aede-fd05d698f5ef.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "salmon-fettuccine-alfredo-spinach-lemon-dill",
-    "variantId": "3018"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 68,
+      "name": "stainless steel sauté pan",
+      "slug": "stainless-steel-saute-pan"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 29853,
+      "primary_message": "Fill a large pot (for the pasta) about halfway with water; cover and bring to a boil.",
+      "secondary_message": null
+    },
+    {
+      "id": 29854,
+      "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 (5 oz) pkg baby spinach\n1 small bunch fresh dill\n1 lemon"
+    },
+    {
+      "id": 29855,
+      "primary_message": "Preheat a sauté pan over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 29856,
+      "primary_message": "While the pan warms up, place the salmon on a plate and season both sides with salt and pepper.",
+      "secondary_message": "1 ½ lb salmon fillet\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 29857,
+      "primary_message": "Add butter to the pan and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp butter, unsalted"
+    },
+    {
+      "id": 29858,
+      "primary_message": "Place the salmon, skin-side down, in the pan; cook until it is cooked through, 3 to 5 minutes per side. Cook in batches if necessary. Once done, transfer to a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 29859,
+      "primary_message": "Meanwhile, peel and mince the garlic.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 29860,
+      "primary_message": "Once the salmon has been transferred, reduce the heat to medium-low and add more butter to the pan.",
+      "secondary_message": "2 tbsp butter, unsalted"
+    },
+    {
+      "id": 29861,
+      "primary_message": "Add the garlic and flour to the pan; whisk until the mixture is smooth, about 1 minute.",
+      "secondary_message": "2 tbsp all-purpose flour"
+    },
+    {
+      "id": 29862,
+      "primary_message": "Add the broth and whisk until smooth, then add the milk and cook, stirring frequently, until the sauce is thickened, 4 to 5 minutes.",
+      "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n8 fl oz (1 cup) whole milk"
+    },
+    {
+      "id": 29863,
+      "primary_message": "Once the water in the saucepan is boiling, season with salt and add the pasta; stir for the few seconds. Cook until desired firmness, 8-10 minutes.",
+      "secondary_message": "2 tbsp salt\n10 oz (1 quarter coin = 2 oz) fettuccine pasta"
+    },
+    {
+      "id": 29864,
+      "primary_message": "While the sauce cooks, pick the tender dill stems off the tough stems; discard the tough stems and finely chop the tender ones.",
+      "secondary_message": null
+    },
+    {
+      "id": 29865,
+      "primary_message": "Finely grate ½ cup of Parmesan.",
+      "secondary_message": "1 oz Parmesan cheese"
+    },
+    {
+      "id": 29866,
+      "primary_message": "Add the Parmesan to the sauce and season with salt and pepper; stir until smooth, then turn off the heat.",
+      "secondary_message": "½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 29867,
+      "primary_message": "Grate the zest from the lemon and transfer to a small bowl, then juice the lemon into the same bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 29868,
+      "primary_message": "Drain the pasta in a colander, reserving about 1 cup of the pasta water.",
+      "secondary_message": null
+    },
+    {
+      "id": 29869,
+      "primary_message": "Using a fork or your hands, flake the salmon into bite-sized pieces.",
+      "secondary_message": null
+    },
+    {
+      "id": 29870,
+      "primary_message": "Add the pasta, spinach, ¾ of the dill (save the rest for garnishing), salmon, lemon zest and juice, and ½ of the reserved pasta water to the sauce; toss to combine. Return sauté pan to the stove over medium-low heat; cook for 2-3 minutes or until spinach has wilted, adding more pasta water to thin out the sauce as needed.",
+      "secondary_message": null
+    },
+    {
+      "id": 29871,
+      "primary_message": "To serve, divide pasta between dishes, sprinkle with the remaining dill, and season with freshly ground pepper. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 37214,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 37212,
+      "quantity": "8 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 37220,
+      "quantity": "10 oz",
+      "ingredient_name": "fettuccine pasta"
+    },
+    {
+      "id": 37211,
+      "quantity": "1 small bunch",
+      "ingredient_name": "fresh dill"
+    },
+    {
+      "id": 37213,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 37215,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 37217,
+      "quantity": "1 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 37221,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "salmon fillet"
+    },
+    {
+      "id": 37218,
+      "quantity": "8 fl oz",
+      "ingredient_name": "whole milk"
+    },
+    {
+      "id": 37216,
+      "quantity": "",
+      "ingredient_name": "all-purpose flour"
+    },
+    {
+      "id": 37209,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 37219,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 37210,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 696.12,
+    "alcohol": 0,
+    "ash": 6.81,
+    "caffeine": 0,
+    "water": 299.93,
+    "carbs": 63.69,
+    "fiber": 3.52,
+    "starch": 48.17,
+    "sugars": 5.91,
+    "fructose": 0.36,
+    "galactose": 0.04,
+    "glucose": 0.43,
+    "lactose": 3.2,
+    "maltose": 1.39,
+    "sucrose": 0.55,
+    "sugar_alcohol": 0,
+    "fat": 24.29,
+    "monounsaturated": 7.25,
+    "polyunsaturated": 4.45,
+    "omega_3": 2.89,
+    "omega_6": 1.46,
+    "saturated": 10.26,
+    "transfats": 0.48,
+    "cholesterol": 110.34,
+    "protein": 53.75,
+    "alanine": 2.83,
+    "arginine": 2.87,
+    "aspartic_acid": 4.8,
+    "cystine": 0.65,
+    "glutamic_acid": 10.27,
+    "glycine": 2.31,
+    "histidine": 1.53,
+    "isoleucine": 2.45,
+    "leucine": 4.35,
+    "lysine": 4.19,
+    "methionine": 1.38,
+    "phenylalanine": 2.28,
+    "proline": 3.08,
+    "serine": 2.32,
+    "threonine": 2.24,
+    "tryptophan": 0.64,
+    "tyrosine": 1.76,
+    "valine": 2.77,
+    "b1_thiamine": 0.36,
+    "b2_riboflavin": 0.54,
+    "b3_niacin": 15.07,
+    "b5_pantothenic_acid": 2.17,
+    "b6_pyridoxine": 1.2,
+    "b12_cobalamin": 7.53,
+    "choline": 211.03,
+    "folate": 121.01,
+    "vitamin_a": 930.9,
+    "vitamin_c": 23.21,
+    "vitamin_d": 652.89,
+    "vitamin_e": 2.5,
+    "vitamin_k": 193.09,
+    "calcium": 209.06,
+    "copper": 0.42,
+    "iron": 3.8,
+    "magnesium": 135.33,
+    "manganese": 1.26,
+    "phosphorus": 733.73,
+    "potassium": 1299.2,
+    "selenium": 113.12,
+    "sodium": 162.62,
+    "zinc": 2.52
+  }
 }

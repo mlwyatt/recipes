@@ -1,1139 +1,290 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2690,
-        "recipe_id": 310,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-        "slug": "pan-fried-pork-chops-roasted-broccoli-sweet-potato-mash",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 16,
-            "name": "potato masher",
-            "slug": "potato-masher"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 26074,
-            "primary_message": "Preheat the oven to 450°F and position rack in the centre. Line a baking sheet with parchment paper.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26075,
-            "primary_message": "Fill a medium saucepan about halfway with water, cover, and bring to a boil.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26076,
-            "primary_message": "Wash, peel, and medium dice the sweet potatoes; add to the water in the saucepan. Once the water is boiling, cook the potatoes until tender when pierced with a fork, 8-10 minutes. Drain in a colander and return back to saucepan.",
-            "secondary_message": "1 ½ lb sweet potatoes"
-          },
-          {
-            "id": 26077,
-            "primary_message": "Wash the broccoli and cut into bite-sized florets; transfer to the baking sheet.",
-            "secondary_message": "4 crowns broccoli\r\n"
-          },
-          {
-            "id": 26078,
-            "primary_message": "Peel and mince the garlic. Wash the lemon and grate the zest from it.",
-            "secondary_message": "4 cloves garlic\r\n1 lemon"
-          },
-          {
-            "id": 26079,
-            "primary_message": "Drizzle the broccoli with olive oil and lemon juice and season with the zest, minced garlic, salt, black pepper, and red pepper (optional). Toss to coat, then spread out in a single layer.",
-            "secondary_message": "4 tbsp extra virgin olive oil\r\njuice of 1 lemon\r\n½ tsp salt\r\n½ tsp black pepper\r\n¼ tsp crushed red pepper (optional)"
-          },
-          {
-            "id": 26080,
-            "primary_message": "Place broccoli in the oven and roast until tender and browned, 10-15 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26081,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26082,
-            "primary_message": "Season the pork chops with salt and pepper on both sides.",
-            "secondary_message": "4 pork chops, bone-in\r\n½ tsp salt\r\n½ tsp black pepper"
-          },
-          {
-            "id": 26083,
-            "primary_message": "Add oil to the skillet and swirl to coat bottom. Add the pork chops and cook until browned and cooked through, 3-4 minutes per side. Transfer to a plate and let them rest for 2-3 minutes.",
-            "secondary_message": "2 tbsp virgin coconut oil\r\n"
-          },
-          {
-            "id": 26084,
-            "primary_message": "Grate ¼ cup of Parmesan.",
-            "secondary_message": "1 oz Parmesan cheese\r\n"
-          },
-          {
-            "id": 26085,
-            "primary_message": "Remove broccoli from oven, sprinkle with Parmesan, and toss.",
-            "secondary_message": ""
-          },
-          {
-            "id": 26086,
-            "primary_message": "Add butter to the sweet potatoes and season with salt and pepper. Mash with a potato masher (or a fork) until smooth.",
-            "secondary_message": "2 tbsp butter, unsalted\r\n¼ tsp salt\r\n¼ tsp black pepper\r\n"
-          },
-          {
-            "id": 26087,
-            "primary_message": "Serve pork chops with sweet potato mash and broccoli on the side. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 33185,
-            "quantity": "4 crowns",
-            "ingredient_name": "broccoli"
-          },
-          {
-            "id": 33184,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 33183,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 33182,
-            "quantity": "1 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 33181,
-            "quantity": "4",
-            "ingredient_name": "pork chops, bone-in"
-          },
-          {
-            "id": 33180,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "sweet potatoes"
-          },
-          {
-            "id": 33179,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 33178,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 33177,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 33176,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 33175,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 33174,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 847.25,
-          "alcohol": 0,
-          "ash": 7.54,
-          "caffeine": 0,
-          "water": 435.9,
-          "carbs": 48.09,
-          "fiber": 9.84,
-          "starch": 23.12,
-          "sugars": 10.41,
-          "fructose": 2.5,
-          "galactose": 0,
-          "glucose": 2.6,
-          "lactose": 0.46,
-          "maltose": 0.36,
-          "sucrose": 4.52,
-          "sugar_alcohol": 0.07,
-          "fat": 51.26,
-          "monounsaturated": 18.01,
-          "polyunsaturated": 3.88,
-          "omega_3": 0.32,
-          "omega_6": 4.51,
-          "saturated": 17.6,
-          "transfats": 0.45,
-          "cholesterol": 136.87,
-          "protein": 51.14,
-          "alanine": 2.79,
-          "arginine": 3.25,
-          "aspartic_acid": 5.38,
-          "cystine": 0.58,
-          "glutamic_acid": 8.32,
-          "glycine": 2.15,
-          "histidine": 2.02,
-          "isoleucine": 2.38,
-          "leucine": 4.12,
-          "lysine": 4.37,
-          "methionine": 1.31,
-          "phenylalanine": 2.21,
-          "proline": 2.24,
-          "serine": 2.28,
-          "threonine": 2.22,
-          "tryptophan": 0.58,
-          "tyrosine": 1.84,
-          "valine": 2.68,
-          "b1_thiamine": 1.18,
-          "b2_riboflavin": 0.69,
-          "b3_niacin": 14.83,
-          "b5_pantothenic_acid": 3.81,
-          "b6_pyridoxine": 2.08,
-          "b12_cobalamin": 1.18,
-          "choline": 166.81,
-          "folate": 129.26,
-          "vitamin_a": 25267.38,
-          "vitamin_c": 161.39,
-          "vitamin_d": 57.92,
-          "vitamin_e": 5.35,
-          "vitamin_k": 186.02,
-          "calcium": 193.12,
-          "copper": 0.5,
-          "iron": 3.75,
-          "magnesium": 130.64,
-          "manganese": 0.96,
-          "phosphorus": 658.12,
-          "potassium": 1820.74,
-          "selenium": 78.78,
-          "sodium": 264.89,
-          "zinc": 5.19
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-fried-pork-chops-roasted-broccoli-sweet-potato-mash/2690",
-      "altVariants": [
-        {
-          "id": 5606,
-          "recipe_id": 310,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "32d4efcf-13c2-4326-b820-e4ad708e7d9a",
-          "fallback_published_recipe_uuids": [
-            "ad32909f-87e3-40cb-8faf-f9bdb163aa45",
-            "c74f30ce-813f-4890-b542-b5077646e915"
-          ],
-          "first_published_at": 1550529025000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            3,
-            143,
-            72,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            1.5,
-            6,
-            2.25,
-            9.375,
-            1.875,
-            90,
-            9.375,
-            90
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5604,
-          "recipe_id": 310,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "bca76bff-9130-4244-b131-5d030cab3d74",
-          "fallback_published_recipe_uuids": [
-            "b82c5b61-40c6-4fec-9ce5-d6400f687606",
-            "2b226621-c1ca-428b-b53b-6532225a8238"
-          ],
-          "first_published_at": 1550528940000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            120,
-            3,
-            143,
-            72,
-            115,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            1.5,
-            1.5,
-            6,
-            2.25,
-            9.375,
-            45,
-            1.875,
-            90,
-            9.375,
-            45
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2694,
-          "recipe_id": 310,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "833a8f03-2730-4aa8-8bc2-f70a8347bd84",
-          "fallback_published_recipe_uuids": [
-            "c5dd98fa-fac5-4c87-9f4b-23a28ec0e01e",
-            "86158bc7-6c66-4f92-9ba1-ccb5e3cf4f4a",
-            "3bd7b000-4c68-4c91-a4ae-cff9954708b8"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            3,
-            143,
-            72,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            1,
-            4,
-            1.5,
-            6.25,
-            1.25,
-            60,
-            6.25,
-            60
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2692,
-          "recipe_id": 310,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "c7a1f31b-4b09-4743-9ac8-f63e670e9449",
-          "fallback_published_recipe_uuids": [
-            "b0ac583f-5556-44f2-ac98-ad38f97c4e22",
-            "bd54d352-01ba-4d3c-8cfa-dd76cd02ef93",
-            "c56b3b84-a26b-4880-b0cd-a2b2bf3e3080"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            3,
-            143,
-            72,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.5,
-            2,
-            0.75,
-            3.125,
-            0.625,
-            30,
-            3.125,
-            30
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2690,
-          "recipe_id": 310,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "309ef0b4-874e-4035-8cf3-d7545fc6da6c",
-          "fallback_published_recipe_uuids": [
-            "08efb582-b83a-4742-bd21-e2dca8581beb",
-            "5358e395-1743-416e-a44b-615afa74d996",
-            "2bb3650b-7370-48c4-b142-bbbc4dbba288"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            120,
-            3,
-            143,
-            72,
-            115,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            1,
-            1,
-            4,
-            1.5,
-            6.25,
-            30,
-            1.25,
-            60,
-            6.25,
-            30
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2688,
-          "recipe_id": 310,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "1569c22b-a199-4b8b-8be5-2584029ff4a4",
-          "fallback_published_recipe_uuids": [
-            "d18a1203-f0af-48f6-9fa4-ade23a126f68",
-            "45ed3e68-4ddb-44a4-b024-c95d235376af",
-            "2b0df557-120a-41e0-af2a-5d7c3918676d"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            120,
-            3,
-            143,
-            72,
-            115,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.5,
-            0.5,
-            2,
-            0.75,
-            3.125,
-            15,
-            0.625,
-            30,
-            3.125,
-            15
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2695,
-          "recipe_id": 310,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "8d4ca04c-4305-4cc9-964f-8852b7732765",
-          "fallback_published_recipe_uuids": [
-            "127c72c6-96af-422d-a6a7-910cf158d45e",
-            "af4bf0e8-5d06-4bfc-b408-5246fdf98966",
-            "37549d9a-36f9-46cd-9bd4-937ae741c83c"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            3,
-            143,
-            72,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            1,
-            4,
-            0.68,
-            6.25,
-            1.25,
-            60,
-            6.25,
-            60
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2693,
-          "recipe_id": 310,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "eb261a44-87b6-4343-abbc-395e5cb6d922",
-          "fallback_published_recipe_uuids": [
-            "930a5339-dfd5-4b89-8d12-710dc0792eea",
-            "f31c01d9-1baa-4326-87f2-c2398b0c0b82",
-            "fb58829f-ee1b-4d6b-9695-6b8c29be9309"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            3,
-            143,
-            72,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.5,
-            2,
-            0.34,
-            3.125,
-            0.625,
-            30,
-            3.125,
-            30
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2691,
-          "recipe_id": 310,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "8e53f236-6873-422e-8c24-3e7692dbf056",
-          "fallback_published_recipe_uuids": [
-            "01d1bf35-a20d-4230-a2f1-52e5911f887a",
-            "dbebcfbf-6854-4dca-9e86-0131813dde29",
-            "3e7a677d-3a8a-4ff8-b375-742808630e74"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            120,
-            3,
-            143,
-            72,
-            115,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            1,
-            28,
-            4,
-            0.68,
-            6.25,
-            30,
-            1.25,
-            60,
-            6.25,
-            30
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2689,
-          "recipe_id": 310,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "5613c770-c847-4470-a90f-da2e896d9aef",
-          "fallback_published_recipe_uuids": [
-            "d793837b-a212-442e-a937-ffebb17bb193",
-            "6b701f20-cebf-4cce-b2b6-bc690740acc9",
-            "b2ee712b-f1b2-4ed4-8ec0-82dd78d3eb67"
-          ],
-          "first_published_at": 1447956459000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            120,
-            3,
-            143,
-            72,
-            115,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.5,
-            14,
-            2,
-            0.34,
-            3.125,
-            15,
-            0.625,
-            30,
-            3.125,
-            15
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5607,
-          "recipe_id": 310,
-          "group_label": "Classic Dairy-Free",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "1ee83b0e-0c55-4e45-9eff-c972e6c7b106",
-          "fallback_published_recipe_uuids": [
-            "0d7808db-fa42-4afb-9f18-654bb7b6d279",
-            "cee59f5b-da31-49ae-9f1d-2621a3405a9a"
-          ],
-          "first_published_at": 1550529049000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            3,
-            143,
-            72,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            1.5,
-            6,
-            1.02,
-            9.375,
-            1.875,
-            90,
-            9.375,
-            90
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5605,
-          "recipe_id": 310,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
-          "published_recipe_uuid": "906a4843-9e2a-435a-ad34-77c10a2e304d",
-          "fallback_published_recipe_uuids": [
-            "3c501dc8-3081-46b4-aea2-3e506ff79689",
-            "b70c6b8e-a519-4112-be0c-ace54647039f"
-          ],
-          "first_published_at": 1550528978000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            105,
-            24,
-            192,
-            120,
-            3,
-            143,
-            72,
-            115,
-            85,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            1.5,
-            42,
-            6,
-            1.02,
-            9.375,
-            45,
-            1.875,
-            90,
-            9.375,
-            45
-          ],
-          "average_rating": 0.797,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Chops"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2690,
+  "recipe_id": 310,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Pan-Fried Pork Chops with Roasted Broccoli & Sweet Potato Mash",
+  "slug": "pan-fried-pork-chops-roasted-broccoli-sweet-potato-mash",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/thumbnail_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/310/presentation_db434edf-2ff8-40d9-94b3-46ccfc2774ff.jpg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pan-fried-pork-chops-roasted-broccoli-sweet-potato-mash",
-    "variantId": "2690"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 16,
+      "name": "potato masher",
+      "slug": "potato-masher"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 26074,
+      "primary_message": "Preheat the oven to 450°F and position rack in the centre. Line a baking sheet with parchment paper.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26075,
+      "primary_message": "Fill a medium saucepan about halfway with water, cover, and bring to a boil.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26076,
+      "primary_message": "Wash, peel, and medium dice the sweet potatoes; add to the water in the saucepan. Once the water is boiling, cook the potatoes until tender when pierced with a fork, 8-10 minutes. Drain in a colander and return back to saucepan.",
+      "secondary_message": "1 ½ lb sweet potatoes"
+    },
+    {
+      "id": 26077,
+      "primary_message": "Wash the broccoli and cut into bite-sized florets; transfer to the baking sheet.",
+      "secondary_message": "4 crowns broccoli\r\n"
+    },
+    {
+      "id": 26078,
+      "primary_message": "Peel and mince the garlic. Wash the lemon and grate the zest from it.",
+      "secondary_message": "4 cloves garlic\r\n1 lemon"
+    },
+    {
+      "id": 26079,
+      "primary_message": "Drizzle the broccoli with olive oil and lemon juice and season with the zest, minced garlic, salt, black pepper, and red pepper (optional). Toss to coat, then spread out in a single layer.",
+      "secondary_message": "4 tbsp extra virgin olive oil\r\njuice of 1 lemon\r\n½ tsp salt\r\n½ tsp black pepper\r\n¼ tsp crushed red pepper (optional)"
+    },
+    {
+      "id": 26080,
+      "primary_message": "Place broccoli in the oven and roast until tender and browned, 10-15 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26081,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26082,
+      "primary_message": "Season the pork chops with salt and pepper on both sides.",
+      "secondary_message": "4 pork chops, bone-in\r\n½ tsp salt\r\n½ tsp black pepper"
+    },
+    {
+      "id": 26083,
+      "primary_message": "Add oil to the skillet and swirl to coat bottom. Add the pork chops and cook until browned and cooked through, 3-4 minutes per side. Transfer to a plate and let them rest for 2-3 minutes.",
+      "secondary_message": "2 tbsp virgin coconut oil\r\n"
+    },
+    {
+      "id": 26084,
+      "primary_message": "Grate ¼ cup of Parmesan.",
+      "secondary_message": "1 oz Parmesan cheese\r\n"
+    },
+    {
+      "id": 26085,
+      "primary_message": "Remove broccoli from oven, sprinkle with Parmesan, and toss.",
+      "secondary_message": ""
+    },
+    {
+      "id": 26086,
+      "primary_message": "Add butter to the sweet potatoes and season with salt and pepper. Mash with a potato masher (or a fork) until smooth.",
+      "secondary_message": "2 tbsp butter, unsalted\r\n¼ tsp salt\r\n¼ tsp black pepper\r\n"
+    },
+    {
+      "id": 26087,
+      "primary_message": "Serve pork chops with sweet potato mash and broccoli on the side. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 33185,
+      "quantity": "4 crowns",
+      "ingredient_name": "broccoli"
+    },
+    {
+      "id": 33184,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 33183,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 33182,
+      "quantity": "1 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 33181,
+      "quantity": "4",
+      "ingredient_name": "pork chops, bone-in"
+    },
+    {
+      "id": 33180,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "sweet potatoes"
+    },
+    {
+      "id": 33179,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 33178,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 33177,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 33176,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 33175,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 33174,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 847.25,
+    "alcohol": 0,
+    "ash": 7.54,
+    "caffeine": 0,
+    "water": 435.9,
+    "carbs": 48.09,
+    "fiber": 9.84,
+    "starch": 23.12,
+    "sugars": 10.41,
+    "fructose": 2.5,
+    "galactose": 0,
+    "glucose": 2.6,
+    "lactose": 0.46,
+    "maltose": 0.36,
+    "sucrose": 4.52,
+    "sugar_alcohol": 0.07,
+    "fat": 51.26,
+    "monounsaturated": 18.01,
+    "polyunsaturated": 3.88,
+    "omega_3": 0.32,
+    "omega_6": 4.51,
+    "saturated": 17.6,
+    "transfats": 0.45,
+    "cholesterol": 136.87,
+    "protein": 51.14,
+    "alanine": 2.79,
+    "arginine": 3.25,
+    "aspartic_acid": 5.38,
+    "cystine": 0.58,
+    "glutamic_acid": 8.32,
+    "glycine": 2.15,
+    "histidine": 2.02,
+    "isoleucine": 2.38,
+    "leucine": 4.12,
+    "lysine": 4.37,
+    "methionine": 1.31,
+    "phenylalanine": 2.21,
+    "proline": 2.24,
+    "serine": 2.28,
+    "threonine": 2.22,
+    "tryptophan": 0.58,
+    "tyrosine": 1.84,
+    "valine": 2.68,
+    "b1_thiamine": 1.18,
+    "b2_riboflavin": 0.69,
+    "b3_niacin": 14.83,
+    "b5_pantothenic_acid": 3.81,
+    "b6_pyridoxine": 2.08,
+    "b12_cobalamin": 1.18,
+    "choline": 166.81,
+    "folate": 129.26,
+    "vitamin_a": 25267.38,
+    "vitamin_c": 161.39,
+    "vitamin_d": 57.92,
+    "vitamin_e": 5.35,
+    "vitamin_k": 186.02,
+    "calcium": 193.12,
+    "copper": 0.5,
+    "iron": 3.75,
+    "magnesium": 130.64,
+    "manganese": 0.96,
+    "phosphorus": 658.12,
+    "potassium": 1820.74,
+    "selenium": 78.78,
+    "sodium": 264.89,
+    "zinc": 5.19
+  }
 }

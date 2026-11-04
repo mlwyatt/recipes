@@ -1,2135 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 27470,
-        "recipe_id": 3108,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-        "slug": "turkey-chili-style-soup-white-beans-peppers-bread-crumbs",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 57,
-            "name": "ladle",
-            "slug": "ladle"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 441765,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 green bell peppers\n2 red bell peppers\n2 sticks celery\n1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 441766,
-            "primary_message": "Trim, seed, and small dice bell peppers. Place in a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 441767,
-            "primary_message": "Preheat a large pot over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 441768,
-            "primary_message": "While the pot heats up, small dice celery. Add to the bowl with the bell peppers and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 441769,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add turkey and spices; cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 ½ lb ground turkey\n4 tsp chili powder\n1 ½ tsp garlic powder\n1 ½ tsp oregano, dried\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 441770,
-            "primary_message": "Meanwhile, drain and rinse beans; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
-          },
-          {
-            "id": 441771,
-            "primary_message": "When the turkey is done, add veggies to the pot; cook, stirring occasionally, until softened, 3-4 minutes. (Reserve bowl for later use.)",
-            "secondary_message": null
-          },
-          {
-            "id": 441772,
-            "primary_message": "Add beans, broth, tomatoes, and hot sauce to the pot; stir to combine the soup, then bring to a boil over high heat. Once boiling, reduce heat to medium-low and simmer, stirring occasionally, until beans are tender, about 10 minutes. Remove from heat.",
-            "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes\n4 tsp hot sauce"
-          },
-          {
-            "id": 441773,
-            "primary_message": "While the soup is cooking, preheat a skillet over medium heat. ",
-            "secondary_message": null
-          },
-          {
-            "id": 441774,
-            "primary_message": "While the skillet heats up, shave parsley leaves off the stems; discard stems and mince the leaves. Place in the reserved bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 441775,
-            "primary_message": "Once the skillet is hot, add bread crumbs and cook, stirring frequently, until golden brown, 3-4 minutes. Transfer toasted bread crumbs to the bowl with the parsley and stir to combine.",
-            "secondary_message": "⅔ cup panko bread crumbs"
-          },
-          {
-            "id": 441776,
-            "primary_message": "To serve, divide soup between bowls and top with parsley bread crumbs. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 473371,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "cannellini (white kidney) beans"
-          },
-          {
-            "id": 473376,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 473378,
-            "quantity": "32 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 473372,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 473379,
-            "quantity": "2",
-            "ingredient_name": "green bell peppers"
-          },
-          {
-            "id": 473377,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ground turkey"
-          },
-          {
-            "id": 473373,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 473375,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 473366,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 473367,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 473365,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 473368,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 473380,
-            "quantity": "",
-            "ingredient_name": "hot sauce"
-          },
-          {
-            "id": 473369,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 473374,
-            "quantity": "",
-            "ingredient_name": "panko bread crumbs"
-          },
-          {
-            "id": 473370,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 642.35,
-          "alcohol": 0,
-          "ash": 9.15,
-          "caffeine": 0,
-          "water": 796.03,
-          "carbs": 56.57,
-          "fiber": 16.05,
-          "starch": 23.51,
-          "sugars": 15.87,
-          "fructose": 5.35,
-          "galactose": 0.1,
-          "glucose": 5.29,
-          "lactose": 0,
-          "maltose": 0.19,
-          "sucrose": 4.8,
-          "sugar_alcohol": 0,
-          "fat": 24.68,
-          "monounsaturated": 10.54,
-          "polyunsaturated": 5.8,
-          "omega_3": 0.46,
-          "omega_6": 5.35,
-          "saturated": 5.42,
-          "transfats": 0.24,
-          "cholesterol": 117.37,
-          "protein": 54.34,
-          "alanine": 3.04,
-          "arginine": 3.53,
-          "aspartic_acid": 5.84,
-          "cystine": 0.61,
-          "glutamic_acid": 9.53,
-          "glycine": 2.68,
-          "histidine": 1.53,
-          "isoleucine": 2.44,
-          "leucine": 4.3,
-          "lysine": 4.36,
-          "methionine": 1.3,
-          "phenylalanine": 2.38,
-          "proline": 2.61,
-          "serine": 2.48,
-          "threonine": 2.35,
-          "tryptophan": 0.62,
-          "tyrosine": 1.73,
-          "valine": 2.6,
-          "b1_thiamine": 1.58,
-          "b2_riboflavin": 0.65,
-          "b3_niacin": 19.09,
-          "b5_pantothenic_acid": 2.99,
-          "b6_pyridoxine": 1.8,
-          "b12_cobalamin": 1.98,
-          "choline": 168.41,
-          "folate": 142.2,
-          "vitamin_a": 1342.02,
-          "vitamin_c": 174.37,
-          "vitamin_d": 23.81,
-          "vitamin_e": 4.84,
-          "vitamin_k": 40.4,
-          "calcium": 255.06,
-          "copper": 0.9,
-          "iron": 8.23,
-          "magnesium": 135.92,
-          "manganese": 1.2,
-          "phosphorus": 682.92,
-          "potassium": 1734.16,
-          "selenium": 44.37,
-          "sodium": 707.42,
-          "zinc": 6.22
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/turkey-chili-style-soup-white-beans-peppers-bread-crumbs/27470",
-      "altVariants": [
-        {
-          "id": 27480,
-          "recipe_id": 3108,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27480/thumbnail_13f1790f-e682-4ee5-8788-3612bdb8b0e6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27480/presentation_13f1790f-e682-4ee5-8788-3612bdb8b0e6.jpeg",
-          "published_recipe_uuid": "c7747088-91e1-40df-a924-c334f727b163",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262466000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            48,
-            3,
-            3,
-            1,
-            3,
-            24,
-            3.75,
-            30,
-            45,
-            12.5,
-            240,
-            30,
-            10,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27478,
-          "recipe_id": 3108,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27478/thumbnail_113e2329-b3d1-4def-9f38-8d84c001dbfa.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27478/presentation_113e2329-b3d1-4def-9f38-8d84c001dbfa.jpeg",
-          "published_recipe_uuid": "a52637ed-5e51-42c0-9768-0c88f240aac9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262467000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            16,
-            1,
-            1,
-            0.5,
-            1,
-            8,
-            1.25,
-            10,
-            15,
-            3.75,
-            80,
-            10,
-            3.75,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27473,
-          "recipe_id": 3108,
-          "group_label": "Vegan",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27473/thumbnail_9a143455-4291-4296-80a8-c8810102a3da.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27473/presentation_9a143455-4291-4296-80a8-c8810102a3da.jpeg",
-          "published_recipe_uuid": "4d7ec05b-f90f-4fc1-ba4b-c58a268a9b0c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262468000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            32,
-            2,
-            2,
-            1,
-            2,
-            16,
-            2.5,
-            20,
-            30,
-            7.5,
-            20,
-            7.5,
-            160,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27470,
-          "recipe_id": 3108,
-          "group_label": "Default",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "591d15af-e7fc-4295-b452-36a02bbbff7b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262469000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            32,
-            2,
-            2,
-            1.5,
-            1,
-            2,
-            2.5,
-            20,
-            30,
-            7.5,
-            20,
-            7.5,
-            160,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27479,
-          "recipe_id": 3108,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27479/thumbnail_0dd3ca08-6067-447a-8d7c-d4cdc5972236.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27479/presentation_0dd3ca08-6067-447a-8d7c-d4cdc5972236.jpeg",
-          "published_recipe_uuid": "4c5fa665-bd20-4e9f-b46d-35aed4a80601",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262466000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            32,
-            2,
-            2,
-            1,
-            2,
-            16,
-            2.5,
-            20,
-            30,
-            7.5,
-            160,
-            20,
-            7.5,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27476,
-          "recipe_id": 3108,
-          "group_label": "Default auto-gluten-free",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "05bd2c7e-93ed-459e-9574-e54589839aea",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262467000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            32,
-            2,
-            2,
-            1.5,
-            1,
-            2,
-            2.5,
-            20,
-            30,
-            7.5,
-            160,
-            20,
-            7.5,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27474,
-          "recipe_id": 3108,
-          "group_label": "Vegan",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27474/thumbnail_c8fe6a23-cf0e-46d3-923e-44e1e793c4cd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27474/presentation_c8fe6a23-cf0e-46d3-923e-44e1e793c4cd.jpeg",
-          "published_recipe_uuid": "714eeb00-966b-422f-b1c1-21f8ed1ce665",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262468000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            48,
-            3,
-            3,
-            1,
-            3,
-            24,
-            3.75,
-            30,
-            45,
-            12.5,
-            30,
-            10,
-            240,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27472,
-          "recipe_id": 3108,
-          "group_label": "Vegan",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27472/thumbnail_5c457e69-e4e6-4f31-8a9a-1928976ad97e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27472/presentation_5c457e69-e4e6-4f31-8a9a-1928976ad97e.jpeg",
-          "published_recipe_uuid": "726ed7f6-6a18-4615-bc2b-99aa9975c492",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262468000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            16,
-            1,
-            1,
-            0.5,
-            1,
-            8,
-            1.25,
-            10,
-            15,
-            3.75,
-            10,
-            3.75,
-            80,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27471,
-          "recipe_id": 3108,
-          "group_label": "Default",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "9c1cd2e0-0b98-431e-9d99-8af46cb6e568",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262469000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            48,
-            3,
-            3,
-            2.25,
-            1,
-            3,
-            3.75,
-            30,
-            45,
-            12.5,
-            30,
-            10,
-            240,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27469,
-          "recipe_id": 3108,
-          "group_label": "Default",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "f79da683-1552-4f3f-96cf-6709d776f6d5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262470000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            16,
-            1,
-            1,
-            0.75,
-            0.5,
-            1,
-            1.25,
-            10,
-            15,
-            3.75,
-            10,
-            3.75,
-            80,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27477,
-          "recipe_id": 3108,
-          "group_label": "Default auto-gluten-free",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "8322f05e-3ae1-4cf2-92fe-18605216c276",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262467000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            48,
-            3,
-            3,
-            2.25,
-            1,
-            3,
-            3.75,
-            30,
-            45,
-            12.5,
-            240,
-            30,
-            10,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27475,
-          "recipe_id": 3108,
-          "group_label": "Default auto-gluten-free",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "8fbbc60f-20ba-430a-ae9c-67a8f6ec5994",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262468000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            16,
-            1,
-            1,
-            0.75,
-            0.5,
-            1,
-            1.25,
-            10,
-            15,
-            3.75,
-            80,
-            10,
-            3.75,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27492,
-          "recipe_id": 3108,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27492/thumbnail_0cfb34ec-75c0-4240-b3f9-909cfcff1c0a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27492/presentation_0cfb34ec-75c0-4240-b3f9-909cfcff1c0a.jpeg",
-          "published_recipe_uuid": "a86d0a4c-ee18-4e09-b2d2-ceee440dc3aa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262462000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1420,
-            3,
-            3,
-            1,
-            3,
-            680,
-            3.75,
-            30,
-            45,
-            12.5,
-            240,
-            30,
-            10,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27491,
-          "recipe_id": 3108,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27491/thumbnail_c349c3c9-c2c8-4dd3-b13c-b2440d158a9b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27491/presentation_c349c3c9-c2c8-4dd3-b13c-b2440d158a9b.jpeg",
-          "published_recipe_uuid": "f9ba4de2-31e8-48c8-a547-cfb0ed43bfa2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262462000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            946,
-            2,
-            2,
-            1,
-            2,
-            454,
-            2.5,
-            20,
-            30,
-            7.5,
-            160,
-            20,
-            7.5,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27490,
-          "recipe_id": 3108,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27490/thumbnail_46870307-9e0f-4a86-9591-d23a70af8b6e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27490/presentation_46870307-9e0f-4a86-9591-d23a70af8b6e.jpeg",
-          "published_recipe_uuid": "cc99a2ab-6538-443f-b231-87f94c3479cc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262463000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            473,
-            1,
-            1,
-            0.5,
-            1,
-            227,
-            1.25,
-            10,
-            15,
-            3.75,
-            80,
-            10,
-            3.75,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27489,
-          "recipe_id": 3108,
-          "group_label": "Default auto-gluten-free",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "ad4d146a-deeb-4a7d-a071-adcf8c9bf975",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262463000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1420,
-            3,
-            3,
-            1.02,
-            1,
-            3,
-            3.75,
-            30,
-            45,
-            12.5,
-            240,
-            30,
-            10,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27488,
-          "recipe_id": 3108,
-          "group_label": "Default auto-gluten-free",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "a43cddda-df35-4d3a-86c7-94289f80cf68",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262464000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            946,
-            2,
-            2,
-            0.68,
-            1,
-            2,
-            2.5,
-            20,
-            30,
-            7.5,
-            160,
-            20,
-            7.5,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27487,
-          "recipe_id": 3108,
-          "group_label": "Default auto-gluten-free",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "8f35bab9-213e-4a06-8bab-ddd1b9a5b6d9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262464000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            211,
-            448,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            473,
-            1,
-            1,
-            0.34,
-            0.5,
-            1,
-            1.25,
-            10,
-            15,
-            3.75,
-            80,
-            10,
-            3.75,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27486,
-          "recipe_id": 3108,
-          "group_label": "Vegan",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27486/thumbnail_526847ea-10ba-4c21-b33e-fe062b3ceee6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27486/presentation_526847ea-10ba-4c21-b33e-fe062b3ceee6.jpeg",
-          "published_recipe_uuid": "f4b09350-d5ae-4457-81b5-54c5b8b97e3f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262464000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1420,
-            3,
-            3,
-            1,
-            3,
-            680,
-            3.75,
-            30,
-            45,
-            12.5,
-            30,
-            10,
-            240,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27485,
-          "recipe_id": 3108,
-          "group_label": "Vegan",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27485/thumbnail_22d046ab-206f-4c9a-bbdc-38b97216f555.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27485/presentation_22d046ab-206f-4c9a-bbdc-38b97216f555.jpeg",
-          "published_recipe_uuid": "d9ed59f0-59d3-4dbe-a39e-3fc6177c95dc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262464000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            946,
-            2,
-            2,
-            1,
-            2,
-            454,
-            2.5,
-            20,
-            30,
-            7.5,
-            20,
-            7.5,
-            160,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27484,
-          "recipe_id": 3108,
-          "group_label": "Vegan",
-          "name": "Vegan Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27484/thumbnail_b084536c-0cda-4753-b178-2a3a4f41c324.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/27484/presentation_b084536c-0cda-4753-b178-2a3a4f41c324.jpeg",
-          "published_recipe_uuid": "1181d6ef-9276-440c-a5d9-ae915531ecbd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262465000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            106,
-            150,
-            444,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            473,
-            1,
-            1,
-            0.5,
-            1,
-            227,
-            1.25,
-            10,
-            15,
-            3.75,
-            10,
-            3.75,
-            80,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27483,
-          "recipe_id": 3108,
-          "group_label": "Default",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "660a115b-5abc-4371-bd25-9ddc035a0376",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262465000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1420,
-            3,
-            3,
-            1.02,
-            1,
-            3,
-            3.75,
-            30,
-            45,
-            12.5,
-            30,
-            10,
-            240,
-            7.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27482,
-          "recipe_id": 3108,
-          "group_label": "Default",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "6eb665dd-7749-4987-a9d3-ffe0c8138c99",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262465000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            946,
-            2,
-            2,
-            0.68,
-            1,
-            2,
-            2.5,
-            20,
-            30,
-            7.5,
-            20,
-            7.5,
-            160,
-            5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27481,
-          "recipe_id": 3108,
-          "group_label": "Default",
-          "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
-          "published_recipe_uuid": "e17b2816-33b3-45a9-ba43-7baecf35fda9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262466000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            91,
-            157,
-            201,
-            97,
-            291,
-            170,
-            106,
-            150,
-            72,
-            75,
-            47,
-            79,
-            448,
-            82,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            473,
-            1,
-            1,
-            0.34,
-            0.5,
-            1,
-            1.25,
-            10,
-            15,
-            3.75,
-            10,
-            3.75,
-            80,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 135,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "",
-        "reviewCount": 135,
-        "reviewScore": null
-      }
+  "id": 27470,
+  "recipe_id": 3108,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Turkey Chili-Style Soup with White Beans, Peppers & Bread Crumbs",
+  "slug": "turkey-chili-style-soup-white-beans-peppers-bread-crumbs",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/thumbnail_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3108/presentation_30dbb9e0-a301-4202-a49f-f1959ace3d19.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "turkey-chili-style-soup-white-beans-peppers-bread-crumbs",
-    "variantId": "27470"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 57,
+      "name": "ladle",
+      "slug": "ladle"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 441765,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 green bell peppers\n2 red bell peppers\n2 sticks celery\n1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 441766,
+      "primary_message": "Trim, seed, and small dice bell peppers. Place in a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 441767,
+      "primary_message": "Preheat a large pot over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 441768,
+      "primary_message": "While the pot heats up, small dice celery. Add to the bowl with the bell peppers and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 441769,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add turkey and spices; cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 ½ lb ground turkey\n4 tsp chili powder\n1 ½ tsp garlic powder\n1 ½ tsp oregano, dried\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 441770,
+      "primary_message": "Meanwhile, drain and rinse beans; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
+    },
+    {
+      "id": 441771,
+      "primary_message": "When the turkey is done, add veggies to the pot; cook, stirring occasionally, until softened, 3-4 minutes. (Reserve bowl for later use.)",
+      "secondary_message": null
+    },
+    {
+      "id": 441772,
+      "primary_message": "Add beans, broth, tomatoes, and hot sauce to the pot; stir to combine the soup, then bring to a boil over high heat. Once boiling, reduce heat to medium-low and simmer, stirring occasionally, until beans are tender, about 10 minutes. Remove from heat.",
+      "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes\n4 tsp hot sauce"
+    },
+    {
+      "id": 441773,
+      "primary_message": "While the soup is cooking, preheat a skillet over medium heat. ",
+      "secondary_message": null
+    },
+    {
+      "id": 441774,
+      "primary_message": "While the skillet heats up, shave parsley leaves off the stems; discard stems and mince the leaves. Place in the reserved bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 441775,
+      "primary_message": "Once the skillet is hot, add bread crumbs and cook, stirring frequently, until golden brown, 3-4 minutes. Transfer toasted bread crumbs to the bowl with the parsley and stir to combine.",
+      "secondary_message": "⅔ cup panko bread crumbs"
+    },
+    {
+      "id": 441776,
+      "primary_message": "To serve, divide soup between bowls and top with parsley bread crumbs. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 473371,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "cannellini (white kidney) beans"
+    },
+    {
+      "id": 473376,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 473378,
+      "quantity": "32 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 473372,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 473379,
+      "quantity": "2",
+      "ingredient_name": "green bell peppers"
+    },
+    {
+      "id": 473377,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ground turkey"
+    },
+    {
+      "id": 473373,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 473375,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 473366,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 473367,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 473365,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 473368,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 473380,
+      "quantity": "",
+      "ingredient_name": "hot sauce"
+    },
+    {
+      "id": 473369,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 473374,
+      "quantity": "",
+      "ingredient_name": "panko bread crumbs"
+    },
+    {
+      "id": 473370,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 642.35,
+    "alcohol": 0,
+    "ash": 9.15,
+    "caffeine": 0,
+    "water": 796.03,
+    "carbs": 56.57,
+    "fiber": 16.05,
+    "starch": 23.51,
+    "sugars": 15.87,
+    "fructose": 5.35,
+    "galactose": 0.1,
+    "glucose": 5.29,
+    "lactose": 0,
+    "maltose": 0.19,
+    "sucrose": 4.8,
+    "sugar_alcohol": 0,
+    "fat": 24.68,
+    "monounsaturated": 10.54,
+    "polyunsaturated": 5.8,
+    "omega_3": 0.46,
+    "omega_6": 5.35,
+    "saturated": 5.42,
+    "transfats": 0.24,
+    "cholesterol": 117.37,
+    "protein": 54.34,
+    "alanine": 3.04,
+    "arginine": 3.53,
+    "aspartic_acid": 5.84,
+    "cystine": 0.61,
+    "glutamic_acid": 9.53,
+    "glycine": 2.68,
+    "histidine": 1.53,
+    "isoleucine": 2.44,
+    "leucine": 4.3,
+    "lysine": 4.36,
+    "methionine": 1.3,
+    "phenylalanine": 2.38,
+    "proline": 2.61,
+    "serine": 2.48,
+    "threonine": 2.35,
+    "tryptophan": 0.62,
+    "tyrosine": 1.73,
+    "valine": 2.6,
+    "b1_thiamine": 1.58,
+    "b2_riboflavin": 0.65,
+    "b3_niacin": 19.09,
+    "b5_pantothenic_acid": 2.99,
+    "b6_pyridoxine": 1.8,
+    "b12_cobalamin": 1.98,
+    "choline": 168.41,
+    "folate": 142.2,
+    "vitamin_a": 1342.02,
+    "vitamin_c": 174.37,
+    "vitamin_d": 23.81,
+    "vitamin_e": 4.84,
+    "vitamin_k": 40.4,
+    "calcium": 255.06,
+    "copper": 0.9,
+    "iron": 8.23,
+    "magnesium": 135.92,
+    "manganese": 1.2,
+    "phosphorus": 682.92,
+    "potassium": 1734.16,
+    "selenium": 44.37,
+    "sodium": 707.42,
+    "zinc": 6.22
+  }
 }

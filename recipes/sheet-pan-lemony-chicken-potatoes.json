@@ -1,696 +1,245 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4598,
-        "recipe_id": 684,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Sheet Pan Lemony Chicken & Potatoes",
-        "slug": "sheet-pan-lemony-chicken-potatoes",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 187838,
-            "primary_message": "Preheat the oven to 400°F and position the rack in the center. Line a baking sheet pan with parchment paper.",
-            "secondary_message": null
-          },
-          {
-            "id": 187839,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 medium head cauliflower\n1 lb new potatoes\n2 lemons"
-          },
-          {
-            "id": 187840,
-            "primary_message": "Halve the new potatoes and cut the cauliflower into florets. Toss in a bowl with olive oil, salt, and pepper. Arrange in a single layer on the baking sheet pan and bake for 15 minutes.",
-            "secondary_message": "2 tsp salt\n2 tsp black pepper\n2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 187841,
-            "primary_message": "Season the chicken with salt and pepper on both sides, set aside.",
-            "secondary_message": "1 lb chicken thighs, boneless skinless\n⅛ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 187842,
-            "primary_message": "Grate all of the zest from the lemons, then juice the lemons into a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 187843,
-            "primary_message": "Peel and mince the garlic, add to bowl with the lemon juice and zest. Add olive oil, mustard, honey, and oregano and whisk together.",
-            "secondary_message": "¼ cup extra virgin olive oil\n¼ cup honey\n2 tsp oregano\n4 cloves garlic\n¼ cup Dijon mustard"
-          },
-          {
-            "id": 187844,
-            "primary_message": "Quarter and thinly slice the red onion. Remove the sheet pan from the oven and add onions on top, dispersing evenly.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 187845,
-            "primary_message": "Lay the chicken on top of the vegetables and drizzle evenly with the lemon sauce.",
-            "secondary_message": null
-          },
-          {
-            "id": 187846,
-            "primary_message": "Return the sheet pan to the oven and bake until chicken is golden brown and cooked through, about 20 minutes. ",
-            "secondary_message": null
-          },
-          {
-            "id": 187847,
-            "primary_message": "To serve, divide chicken and vegetables between plates and top with sauce from pans. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 195909,
-            "quantity": "1 medium head",
-            "ingredient_name": "cauliflower"
-          },
-          {
-            "id": 195910,
-            "quantity": "1 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 195902,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 195912,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 195913,
-            "quantity": "1 lb",
-            "ingredient_name": "new potatoes"
-          },
-          {
-            "id": 195911,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 195904,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 195908,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 195903,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 195907,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 195905,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 195906,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 540.57,
-          "alcohol": 0.02,
-          "ash": 7.97,
-          "caffeine": 0,
-          "water": 378,
-          "carbs": 50.18,
-          "fiber": 7.34,
-          "starch": 35.1,
-          "sugars": 23.76,
-          "fructose": 11.29,
-          "galactose": 0.67,
-          "glucose": 10.53,
-          "lactose": 0,
-          "maltose": 0.31,
-          "sucrose": 0.96,
-          "sugar_alcohol": 0,
-          "fat": 26.84,
-          "monounsaturated": 17.33,
-          "polyunsaturated": 3.57,
-          "omega_3": 0.34,
-          "omega_6": 3.21,
-          "saturated": 4.42,
-          "transfats": 0.06,
-          "cholesterol": 106.59,
-          "protein": 28.52,
-          "alanine": 1.62,
-          "arginine": 1.87,
-          "aspartic_acid": 3.02,
-          "cystine": 0.33,
-          "glutamic_acid": 4.6,
-          "glycine": 1.24,
-          "histidine": 0.81,
-          "isoleucine": 1.28,
-          "leucine": 2.23,
-          "lysine": 2.59,
-          "methionine": 0.71,
-          "phenylalanine": 1.11,
-          "proline": 1.16,
-          "serine": 1.18,
-          "threonine": 1.27,
-          "tryptophan": 0.32,
-          "tyrosine": 0.99,
-          "valine": 1.42,
-          "b1_thiamine": 0.29,
-          "b2_riboflavin": 0.39,
-          "b3_niacin": 8.61,
-          "b5_pantothenic_acid": 1.42,
-          "b6_pyridoxine": 1.13,
-          "b12_cobalamin": 0.69,
-          "choline": 145.64,
-          "folate": 124.33,
-          "vitamin_a": 186.19,
-          "vitamin_c": 94.56,
-          "vitamin_d": 1.13,
-          "vitamin_e": 3.62,
-          "vitamin_k": 46.47,
-          "calcium": 81.15,
-          "copper": 0.32,
-          "iron": 3.14,
-          "magnesium": 87.92,
-          "manganese": 0.96,
-          "phosphorus": 380.57,
-          "potassium": 1296.65,
-          "selenium": 32.1,
-          "sodium": 175.03,
-          "zinc": 2.85
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sheet-pan-lemony-chicken-potatoes/4598",
-      "altVariants": [
-        {
-          "id": 6529,
-          "recipe_id": 684,
-          "group_label": "Default",
-          "name": "Sheet Pan Lemony Chicken & Potatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "published_recipe_uuid": "539ea82c-41cf-4ef3-a431-19fe72ba9dcb",
-          "fallback_published_recipe_uuids": [
-            "a4a21f1d-7059-43fa-8cce-db53bd4dc44f",
-            "58adfb8c-8e02-402c-ade3-7e9d630e52c3",
-            "1a514b1e-dcec-4e25-a38c-fd5216d74e34"
-          ],
-          "first_published_at": 1551848509000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            192,
-            238,
-            184,
-            72,
-            117,
-            47,
-            103,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            6,
-            3,
-            1.5,
-            1.5,
-            15.9375,
-            90,
-            135,
-            90,
-            15,
-            15.9375
-          ],
-          "average_rating": 0.782,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4597,
-          "recipe_id": 684,
-          "group_label": "Default",
-          "name": "Sheet Pan Lemony Chicken & Potatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "published_recipe_uuid": "9dda6ae9-c5ec-4059-be26-e00014c210f2",
-          "fallback_published_recipe_uuids": [
-            "34766032-ad3d-4dca-b3cc-f72952d15bf6",
-            "eba54d81-f7b2-4caa-a386-3a98029476de",
-            "b0ae2dd9-8a10-4091-a053-bd9c5fb55723"
-          ],
-          "first_published_at": 1544486364000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            192,
-            238,
-            184,
-            72,
-            117,
-            47,
-            103,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            2,
-            1,
-            0.5,
-            0.5,
-            5.3125,
-            30,
-            45,
-            30,
-            5,
-            5.3125
-          ],
-          "average_rating": 0.782,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4598,
-          "recipe_id": 684,
-          "group_label": "Default",
-          "name": "Sheet Pan Lemony Chicken & Potatoes",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "published_recipe_uuid": "368dbf92-bd3e-40b6-ac3e-951ae3a27ee4",
-          "fallback_published_recipe_uuids": [
-            "aaf8f3f3-1848-40e5-afaa-9cc96e4af23c",
-            "c467685c-7d4d-42d7-a5bf-68ded80b9f73",
-            "fb17a1bc-9db9-48fc-8056-a87d34b6712b"
-          ],
-          "first_published_at": 1544486371000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            192,
-            238,
-            184,
-            72,
-            117,
-            47,
-            103,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            4,
-            2,
-            1,
-            1,
-            10.625,
-            60,
-            90,
-            60,
-            10,
-            10.625
-          ],
-          "average_rating": 0.782,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6530,
-          "recipe_id": 684,
-          "group_label": "Default",
-          "name": "Sheet Pan Lemony Chicken & Potatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "published_recipe_uuid": "1eb79d5d-4b9a-4e8b-8e3e-8694a206abb9",
-          "fallback_published_recipe_uuids": [
-            "f688f548-19c8-45a3-a549-a5b5f38d8dbc",
-            "e7dffa9d-4bc6-44e0-a09b-da2752f3669e",
-            "5cf785d9-2355-4640-9845-07e659309d22"
-          ],
-          "first_published_at": 1551848511000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            192,
-            238,
-            184,
-            72,
-            117,
-            47,
-            103,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            0.68,
-            6,
-            3,
-            0.68,
-            1.5,
-            15.9375,
-            90,
-            135,
-            90,
-            15,
-            15.9375
-          ],
-          "average_rating": 0.782,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4632,
-          "recipe_id": 684,
-          "group_label": "Default",
-          "name": "Sheet Pan Lemony Chicken & Potatoes",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "published_recipe_uuid": "880cadc1-c094-49fe-a80e-71a8baf1d8ab",
-          "fallback_published_recipe_uuids": [
-            "b9120127-a1aa-422d-956a-685000b2dc62",
-            "2c80fd75-ddfb-45b4-9d79-89594792ccd2",
-            "a1c9c04f-2273-4abd-a75d-aac67d112f91"
-          ],
-          "first_published_at": 1545106160000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            192,
-            238,
-            184,
-            72,
-            117,
-            47,
-            103,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.45,
-            4,
-            2,
-            0.45,
-            1,
-            10.625,
-            60,
-            90,
-            60,
-            10,
-            10.625
-          ],
-          "average_rating": 0.782,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4631,
-          "recipe_id": 684,
-          "group_label": "Default",
-          "name": "Sheet Pan Lemony Chicken & Potatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
-          "published_recipe_uuid": "f5ed54fd-d2aa-482b-945f-0479c4cfee7c",
-          "fallback_published_recipe_uuids": [
-            "10a68d00-6bdf-4ded-be34-53051e26183e",
-            "e652d746-1257-4372-bc75-52041aa51627",
-            "43c40c04-1323-4d71-9a9c-853b8aa5cae5"
-          ],
-          "first_published_at": 1545106159000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            164,
-            24,
-            192,
-            238,
-            184,
-            72,
-            117,
-            47,
-            103,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.23,
-            2,
-            1,
-            0.23,
-            0.5,
-            5.3125,
-            30,
-            45,
-            30,
-            5,
-            5.3125
-          ],
-          "average_rating": 0.782,
-          "rating_count": 117,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "",
-        "reviewCount": 117,
-        "reviewScore": null
-      }
+  "id": 4598,
+  "recipe_id": 684,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Sheet Pan Lemony Chicken & Potatoes",
+  "slug": "sheet-pan-lemony-chicken-potatoes",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/thumbnail_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/684/presentation_73428f62-9f02-4053-80d0-d618d706e7c5.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sheet-pan-lemony-chicken-potatoes",
-    "variantId": "4598"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 187838,
+      "primary_message": "Preheat the oven to 400°F and position the rack in the center. Line a baking sheet pan with parchment paper.",
+      "secondary_message": null
+    },
+    {
+      "id": 187839,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 medium head cauliflower\n1 lb new potatoes\n2 lemons"
+    },
+    {
+      "id": 187840,
+      "primary_message": "Halve the new potatoes and cut the cauliflower into florets. Toss in a bowl with olive oil, salt, and pepper. Arrange in a single layer on the baking sheet pan and bake for 15 minutes.",
+      "secondary_message": "2 tsp salt\n2 tsp black pepper\n2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 187841,
+      "primary_message": "Season the chicken with salt and pepper on both sides, set aside.",
+      "secondary_message": "1 lb chicken thighs, boneless skinless\n⅛ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 187842,
+      "primary_message": "Grate all of the zest from the lemons, then juice the lemons into a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 187843,
+      "primary_message": "Peel and mince the garlic, add to bowl with the lemon juice and zest. Add olive oil, mustard, honey, and oregano and whisk together.",
+      "secondary_message": "¼ cup extra virgin olive oil\n¼ cup honey\n2 tsp oregano\n4 cloves garlic\n¼ cup Dijon mustard"
+    },
+    {
+      "id": 187844,
+      "primary_message": "Quarter and thinly slice the red onion. Remove the sheet pan from the oven and add onions on top, dispersing evenly.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 187845,
+      "primary_message": "Lay the chicken on top of the vegetables and drizzle evenly with the lemon sauce.",
+      "secondary_message": null
+    },
+    {
+      "id": 187846,
+      "primary_message": "Return the sheet pan to the oven and bake until chicken is golden brown and cooked through, about 20 minutes. ",
+      "secondary_message": null
+    },
+    {
+      "id": 187847,
+      "primary_message": "To serve, divide chicken and vegetables between plates and top with sauce from pans. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 195909,
+      "quantity": "1 medium head",
+      "ingredient_name": "cauliflower"
+    },
+    {
+      "id": 195910,
+      "quantity": "1 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 195902,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 195912,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 195913,
+      "quantity": "1 lb",
+      "ingredient_name": "new potatoes"
+    },
+    {
+      "id": 195911,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 195904,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 195908,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 195903,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 195907,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 195905,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 195906,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 540.57,
+    "alcohol": 0.02,
+    "ash": 7.97,
+    "caffeine": 0,
+    "water": 378,
+    "carbs": 50.18,
+    "fiber": 7.34,
+    "starch": 35.1,
+    "sugars": 23.76,
+    "fructose": 11.29,
+    "galactose": 0.67,
+    "glucose": 10.53,
+    "lactose": 0,
+    "maltose": 0.31,
+    "sucrose": 0.96,
+    "sugar_alcohol": 0,
+    "fat": 26.84,
+    "monounsaturated": 17.33,
+    "polyunsaturated": 3.57,
+    "omega_3": 0.34,
+    "omega_6": 3.21,
+    "saturated": 4.42,
+    "transfats": 0.06,
+    "cholesterol": 106.59,
+    "protein": 28.52,
+    "alanine": 1.62,
+    "arginine": 1.87,
+    "aspartic_acid": 3.02,
+    "cystine": 0.33,
+    "glutamic_acid": 4.6,
+    "glycine": 1.24,
+    "histidine": 0.81,
+    "isoleucine": 1.28,
+    "leucine": 2.23,
+    "lysine": 2.59,
+    "methionine": 0.71,
+    "phenylalanine": 1.11,
+    "proline": 1.16,
+    "serine": 1.18,
+    "threonine": 1.27,
+    "tryptophan": 0.32,
+    "tyrosine": 0.99,
+    "valine": 1.42,
+    "b1_thiamine": 0.29,
+    "b2_riboflavin": 0.39,
+    "b3_niacin": 8.61,
+    "b5_pantothenic_acid": 1.42,
+    "b6_pyridoxine": 1.13,
+    "b12_cobalamin": 0.69,
+    "choline": 145.64,
+    "folate": 124.33,
+    "vitamin_a": 186.19,
+    "vitamin_c": 94.56,
+    "vitamin_d": 1.13,
+    "vitamin_e": 3.62,
+    "vitamin_k": 46.47,
+    "calcium": 81.15,
+    "copper": 0.32,
+    "iron": 3.14,
+    "magnesium": 87.92,
+    "manganese": 0.96,
+    "phosphorus": 380.57,
+    "potassium": 1296.65,
+    "selenium": 32.1,
+    "sodium": 175.03,
+    "zinc": 2.85
+  }
 }

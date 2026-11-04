@@ -1,735 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3713,
-        "recipe_id": 502,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
-        "slug": "fish-tacos-mango-jalapeno-salsa-lime-crema",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 40599,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 mangoes\n2 jalapeño peppers\n2 limes\n1 small bunch cilantro"
-          },
-          {
-            "id": 40600,
-            "primary_message": "Peel the mangoes, then slice off the flesh from the pit, starting with the flatter sides; discard the pit and small dice the flesh (cut into ¼-inch cubes). Transfer to a medium bowl (that will hold the salsa).",
-            "secondary_message": null
-          },
-          {
-            "id": 40601,
-            "primary_message": "Quarter the jalapeño peppers lengthwise; remove and discard the stem, seeds, and membranes. Finely dice the peppers and add to the salsa bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 40602,
-            "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces) and add to the salsa bowl.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 40603,
-            "primary_message": "Add olive oil to a nonstick skillet and preheat over medium heat.",
-            "secondary_message": "1 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 40604,
-            "primary_message": "While the skillet heats up, pat the sole fillets dry with paper towels and place on a plate. Season with chili powder, cumin, salt, and pepper on both sides.",
-            "secondary_message": "1 ½ lb sole fillets\n1 tsp chili powder\n1 tsp cumin\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 40605,
-            "primary_message": "Once the skillet is hot, add the fish fillets and cook until opaque throughout, 2 to 3 minutes per side. Once done, transfer to a plate. Cook in batches if necessary.",
-            "secondary_message": null
-          },
-          {
-            "id": 40606,
-            "primary_message": "While the fish cooks, using a knife, shave the cilantro leaves off the stems at a downward angle, working away from your body; discard the stems and finely chop the leaves. Add to the salsa.",
-            "secondary_message": null
-          },
-          {
-            "id": 40607,
-            "primary_message": "Juice the limes; add ½ of the juice to the salsa and the other ½ to a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 40608,
-            "primary_message": "Season the salsa with salt and pepper; toss to combine.",
-            "secondary_message": "½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 40609,
-            "primary_message": "Add yogurt to the bowl of lime juice and stir to combine.",
-            "secondary_message": "½ cup plain Greek yogurt"
-          },
-          {
-            "id": 40610,
-            "primary_message": "Place the tortillas on a small plate and cover with a damp paper towel; microwave until heated through, 15 to 30 seconds.",
-            "secondary_message": "16 small corn tortillas"
-          },
-          {
-            "id": 40611,
-            "primary_message": "Flake the fish with a fork.",
-            "secondary_message": null
-          },
-          {
-            "id": 40612,
-            "primary_message": "To serve, divide the fish among the tortillas, top with the salsa, and drizzle with the crema. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 45453,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 45465,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 45463,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 45459,
-            "quantity": "4",
-            "ingredient_name": "mangoes"
-          },
-          {
-            "id": 45462,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 45464,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 45461,
-            "quantity": "16",
-            "ingredient_name": "small corn tortillas"
-          },
-          {
-            "id": 45454,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "sole fillets"
-          },
-          {
-            "id": 45457,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 45456,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 45455,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 45460,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 45458,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 605.83,
-          "alcohol": 0,
-          "ash": 7.31,
-          "caffeine": 0,
-          "water": 564,
-          "carbs": 100.73,
-          "fiber": 13.13,
-          "starch": 37.75,
-          "sugars": 49.8,
-          "fructose": 16.49,
-          "galactose": 0.22,
-          "glucose": 7.63,
-          "lactose": 0.78,
-          "maltose": 0.32,
-          "sucrose": 24.33,
-          "sugar_alcohol": 0.01,
-          "fat": 11.18,
-          "monounsaturated": 4.68,
-          "polyunsaturated": 2.7,
-          "omega_3": 0.76,
-          "omega_6": 1.91,
-          "saturated": 2.05,
-          "transfats": 0.03,
-          "cholesterol": 78.07,
-          "protein": 33.57,
-          "alanine": 2.15,
-          "arginine": 2.04,
-          "aspartic_acid": 3.35,
-          "cystine": 0.41,
-          "glutamic_acid": 5.69,
-          "glycine": 1.51,
-          "histidine": 0.83,
-          "isoleucine": 1.51,
-          "leucine": 3.02,
-          "lysine": 2.83,
-          "methionine": 0.99,
-          "phenylalanine": 1.36,
-          "proline": 1.65,
-          "serine": 1.54,
-          "threonine": 1.47,
-          "tryptophan": 0.42,
-          "tyrosine": 1.2,
-          "valine": 1.72,
-          "b1_thiamine": 0.27,
-          "b2_riboflavin": 0.37,
-          "b3_niacin": 6,
-          "b5_pantothenic_acid": 1.39,
-          "b6_pyridoxine": 0.91,
-          "b12_cobalamin": 2.15,
-          "choline": 160,
-          "folate": 181.95,
-          "vitamin_a": 78.01,
-          "vitamin_c": 144.68,
-          "vitamin_d": 192.21,
-          "vitamin_e": 5.93,
-          "vitamin_k": 81.29,
-          "calcium": 212.47,
-          "copper": 0.64,
-          "iron": 3.01,
-          "magnesium": 151.06,
-          "manganese": 0.77,
-          "phosphorus": 846.14,
-          "potassium": 1246.06,
-          "selenium": 56.64,
-          "sodium": 573.9,
-          "zinc": 2.5
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/fish-tacos-mango-jalapeno-salsa-lime-crema/3713",
-      "altVariants": [
-        {
-          "id": 6076,
-          "recipe_id": 502,
-          "group_label": "Classic",
-          "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "published_recipe_uuid": "2d6a0e78-7a2a-46f0-892d-a8d6e80c3379",
-          "fallback_published_recipe_uuids": [
-            "e9976403-c528-405e-ae36-e61ca2e88148",
-            "559381b7-ce0f-4ff5-957e-ae21bfcaf76d",
-            "57699184-c8f6-490e-b002-d1725774ef25"
-          ],
-          "first_published_at": 1550529354000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            188,
-            151,
-            228,
-            229,
-            122,
-            184,
-            321,
-            324,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            6,
-            0.75,
-            1.5,
-            24,
-            2.25,
-            5.5450349999999995,
-            7.39338,
-            7.39338,
-            22.1802,
-            11.090069999999999
-          ],
-          "average_rating": 0.835,
-          "rating_count": 47,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3710,
-          "recipe_id": 502,
-          "group_label": "Classic",
-          "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "published_recipe_uuid": "f426aa3f-6460-4f18-871c-9ac714d8d687",
-          "fallback_published_recipe_uuids": [
-            "b336e2b9-08c6-4664-b62f-86d5e6c28359",
-            "57845764-553d-4baf-b62f-b539a9afd2b1"
-          ],
-          "first_published_at": 1488242946000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            188,
-            151,
-            228,
-            229,
-            122,
-            184,
-            321,
-            324,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            2,
-            0.25,
-            0.5,
-            8,
-            0.75,
-            1.848345,
-            2.46446,
-            2.46446,
-            7.39338,
-            3.69669
-          ],
-          "average_rating": 0.835,
-          "rating_count": 47,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3713,
-          "recipe_id": 502,
-          "group_label": "Classic",
-          "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "published_recipe_uuid": "212fdbe1-18d7-406a-a6f7-340a4c1eb5b8",
-          "fallback_published_recipe_uuids": [
-            "38e7c582-2b71-413d-a09e-6e1053c41dab",
-            "d6f197b3-f093-4a2d-b95b-d01f3e2bd7c3"
-          ],
-          "first_published_at": 1488243218000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            188,
-            151,
-            228,
-            229,
-            122,
-            184,
-            321,
-            324,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            4,
-            0.5,
-            1,
-            16,
-            1.5,
-            3.69669,
-            4.92892,
-            4.92892,
-            14.7868,
-            7.39338
-          ],
-          "average_rating": 0.835,
-          "rating_count": 47,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6077,
-          "recipe_id": 502,
-          "group_label": "Classic",
-          "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "published_recipe_uuid": "de9dd50d-ca55-472c-88f2-9d7167e7c708",
-          "fallback_published_recipe_uuids": [
-            "74202652-b802-40cf-bc9e-d296723ec594",
-            "2717a917-85eb-4697-b49a-7108a75a0061",
-            "129c2cb4-d02a-4860-9b91-c4b909a97401"
-          ],
-          "first_published_at": 1550529388000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            188,
-            151,
-            228,
-            229,
-            122,
-            184,
-            321,
-            324,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            6,
-            0.75,
-            1.5,
-            24,
-            1.02,
-            5.5450349999999995,
-            7.39338,
-            7.39338,
-            22.1802,
-            11.090069999999999
-          ],
-          "average_rating": 0.835,
-          "rating_count": 47,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3715,
-          "recipe_id": 502,
-          "group_label": "Classic",
-          "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "published_recipe_uuid": "0d4f20fe-7670-4de0-8840-a6bbff4a59c5",
-          "fallback_published_recipe_uuids": [
-            "6866d291-b144-4faa-b145-9cd418d766cf",
-            "8f0c3657-3c10-4190-bdae-4dd13945eade"
-          ],
-          "first_published_at": 1488243374000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            188,
-            151,
-            228,
-            229,
-            122,
-            184,
-            321,
-            324,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            4,
-            0.5,
-            1,
-            16,
-            0.68,
-            3.69669,
-            4.92892,
-            4.92892,
-            14.7868,
-            7.39338
-          ],
-          "average_rating": 0.835,
-          "rating_count": 47,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3714,
-          "recipe_id": 502,
-          "group_label": "Classic",
-          "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
-          "published_recipe_uuid": "82f1b355-f643-44ff-97fc-bb5e114cbd26",
-          "fallback_published_recipe_uuids": [
-            "9e415a59-39c3-4b75-afe5-b101d99ab623",
-            "3a4477f8-9dcb-436a-b94b-56d6bcee2702"
-          ],
-          "first_published_at": 1488243320000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            188,
-            151,
-            228,
-            229,
-            122,
-            184,
-            321,
-            324,
-            72,
-            75,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            2,
-            0.25,
-            0.5,
-            8,
-            0.34,
-            1.848345,
-            2.46446,
-            2.46446,
-            7.39338,
-            3.69669
-          ],
-          "average_rating": 0.835,
-          "rating_count": 47,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "Mexican",
-        "reviewCount": null,
-        "reviewScore": 4.2
-      }
+  "id": 3713,
+  "recipe_id": 502,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Fish Tacos with Mango-Jalapeño Salsa & Lime Crema",
+  "slug": "fish-tacos-mango-jalapeno-salsa-lime-crema",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/thumbnail_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/502/presentation_2ed35efe-9233-4049-9f8a-e0fceb1fdcfe.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "fish-tacos-mango-jalapeno-salsa-lime-crema",
-    "variantId": "3713"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 40599,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 mangoes\n2 jalapeño peppers\n2 limes\n1 small bunch cilantro"
+    },
+    {
+      "id": 40600,
+      "primary_message": "Peel the mangoes, then slice off the flesh from the pit, starting with the flatter sides; discard the pit and small dice the flesh (cut into ¼-inch cubes). Transfer to a medium bowl (that will hold the salsa).",
+      "secondary_message": null
+    },
+    {
+      "id": 40601,
+      "primary_message": "Quarter the jalapeño peppers lengthwise; remove and discard the stem, seeds, and membranes. Finely dice the peppers and add to the salsa bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 40602,
+      "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces) and add to the salsa bowl.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 40603,
+      "primary_message": "Add olive oil to a nonstick skillet and preheat over medium heat.",
+      "secondary_message": "1 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 40604,
+      "primary_message": "While the skillet heats up, pat the sole fillets dry with paper towels and place on a plate. Season with chili powder, cumin, salt, and pepper on both sides.",
+      "secondary_message": "1 ½ lb sole fillets\n1 tsp chili powder\n1 tsp cumin\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 40605,
+      "primary_message": "Once the skillet is hot, add the fish fillets and cook until opaque throughout, 2 to 3 minutes per side. Once done, transfer to a plate. Cook in batches if necessary.",
+      "secondary_message": null
+    },
+    {
+      "id": 40606,
+      "primary_message": "While the fish cooks, using a knife, shave the cilantro leaves off the stems at a downward angle, working away from your body; discard the stems and finely chop the leaves. Add to the salsa.",
+      "secondary_message": null
+    },
+    {
+      "id": 40607,
+      "primary_message": "Juice the limes; add ½ of the juice to the salsa and the other ½ to a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 40608,
+      "primary_message": "Season the salsa with salt and pepper; toss to combine.",
+      "secondary_message": "½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 40609,
+      "primary_message": "Add yogurt to the bowl of lime juice and stir to combine.",
+      "secondary_message": "½ cup plain Greek yogurt"
+    },
+    {
+      "id": 40610,
+      "primary_message": "Place the tortillas on a small plate and cover with a damp paper towel; microwave until heated through, 15 to 30 seconds.",
+      "secondary_message": "16 small corn tortillas"
+    },
+    {
+      "id": 40611,
+      "primary_message": "Flake the fish with a fork.",
+      "secondary_message": null
+    },
+    {
+      "id": 40612,
+      "primary_message": "To serve, divide the fish among the tortillas, top with the salsa, and drizzle with the crema. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 45453,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 45465,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 45463,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 45459,
+      "quantity": "4",
+      "ingredient_name": "mangoes"
+    },
+    {
+      "id": 45462,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 45464,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 45461,
+      "quantity": "16",
+      "ingredient_name": "small corn tortillas"
+    },
+    {
+      "id": 45454,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "sole fillets"
+    },
+    {
+      "id": 45457,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 45456,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 45455,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 45460,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 45458,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 605.83,
+    "alcohol": 0,
+    "ash": 7.31,
+    "caffeine": 0,
+    "water": 564,
+    "carbs": 100.73,
+    "fiber": 13.13,
+    "starch": 37.75,
+    "sugars": 49.8,
+    "fructose": 16.49,
+    "galactose": 0.22,
+    "glucose": 7.63,
+    "lactose": 0.78,
+    "maltose": 0.32,
+    "sucrose": 24.33,
+    "sugar_alcohol": 0.01,
+    "fat": 11.18,
+    "monounsaturated": 4.68,
+    "polyunsaturated": 2.7,
+    "omega_3": 0.76,
+    "omega_6": 1.91,
+    "saturated": 2.05,
+    "transfats": 0.03,
+    "cholesterol": 78.07,
+    "protein": 33.57,
+    "alanine": 2.15,
+    "arginine": 2.04,
+    "aspartic_acid": 3.35,
+    "cystine": 0.41,
+    "glutamic_acid": 5.69,
+    "glycine": 1.51,
+    "histidine": 0.83,
+    "isoleucine": 1.51,
+    "leucine": 3.02,
+    "lysine": 2.83,
+    "methionine": 0.99,
+    "phenylalanine": 1.36,
+    "proline": 1.65,
+    "serine": 1.54,
+    "threonine": 1.47,
+    "tryptophan": 0.42,
+    "tyrosine": 1.2,
+    "valine": 1.72,
+    "b1_thiamine": 0.27,
+    "b2_riboflavin": 0.37,
+    "b3_niacin": 6,
+    "b5_pantothenic_acid": 1.39,
+    "b6_pyridoxine": 0.91,
+    "b12_cobalamin": 2.15,
+    "choline": 160,
+    "folate": 181.95,
+    "vitamin_a": 78.01,
+    "vitamin_c": 144.68,
+    "vitamin_d": 192.21,
+    "vitamin_e": 5.93,
+    "vitamin_k": 81.29,
+    "calcium": 212.47,
+    "copper": 0.64,
+    "iron": 3.01,
+    "magnesium": 151.06,
+    "manganese": 0.77,
+    "phosphorus": 846.14,
+    "potassium": 1246.06,
+    "selenium": 56.64,
+    "sodium": 573.9,
+    "zinc": 2.5
+  }
 }

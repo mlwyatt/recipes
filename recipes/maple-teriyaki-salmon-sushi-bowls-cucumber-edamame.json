@@ -1,1091 +1,250 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 11975,
-        "recipe_id": 1389,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-        "slug": "maple-teriyaki-salmon-sushi-bowls-cucumber-edamame",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 202240,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and bring the mixture to a boil over high heat.",
-            "secondary_message": "1 cup basmati rice\n2 cup water"
-          },
-          {
-            "id": 202241,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce heat to low. Cook rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 202242,
-            "primary_message": "Place maple syrup, soy sauce, oil, vinegar, and garlic powder in a medium bowl; whisk to combine the marinade.",
-            "secondary_message": "¼ cup pure maple syrup\n2 tbsp soy sauce\n4 tsp toasted sesame oil\n4 tsp rice vinegar\n½ tsp garlic powder"
-          },
-          {
-            "id": 202243,
-            "primary_message": "If using salmon with skin, place the fillet, skin-side down, on a cutting board. Holding the tail end firmly, use a knife to cut between the flesh and skin; continue to cut through the length of the fillet (take care not to cut through the skin); discard the skin. If you don’t have a tail end, start at one corner of the fillet and work your way in until the knife is between the skin and flesh.",
-            "secondary_message": "1 ½ lb salmon fillet"
-          },
-          {
-            "id": 202244,
-            "primary_message": "Cut salmon into bite-size pieces. Add to the bowl with the marinade and gently toss to coat. Set aside for 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 202245,
-            "primary_message": "Meanwhile, wash and dry cucumber. Trim and cut into thin sticks.",
-            "secondary_message": "1 English cucumber"
-          },
-          {
-            "id": 202246,
-            "primary_message": "Place edamame in a colander and rinse under hot water (from the tap) to defrost; set aside to drain further.",
-            "secondary_message": "1 cup edamame"
-          },
-          {
-            "id": 202247,
-            "primary_message": "When the salmon is done marinating, preheat a large skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 202248,
-            "primary_message": "Once the skillet is hot, add salmon and all of the marinade. Cook, stirring occasionally, until sauce thickens and salmon is opaque and flaky, 4-5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 202249,
-            "primary_message": "Place vinegar, maple syrup, and salt in a small bowl; whisk to combine. When the rice is done, pour the mixture over it and stir to combine.",
-            "secondary_message": "2 tbsp rice vinegar\n1 tsp pure maple syrup\n½ tsp salt"
-          },
-          {
-            "id": 202250,
-            "primary_message": "To serve, divide rice between bowls and top with cucumber, edamame, and salmon. Sprinkle with sesame seeds and enjoy!",
-            "secondary_message": "4 tsp sesame seeds"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 211525,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 211526,
-            "quantity": "1 cup",
-            "ingredient_name": "edamame, shelled"
-          },
-          {
-            "id": 211522,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 211516,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "salmon fillet"
-          },
-          {
-            "id": 211519,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 211521,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 211524,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 211520,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 211523,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          },
-          {
-            "id": 211518,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          },
-          {
-            "id": 211517,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 600.77,
-          "alcohol": 0,
-          "ash": 5.47,
-          "caffeine": 0,
-          "water": 254.44,
-          "carbs": 58.79,
-          "fiber": 3.95,
-          "starch": 1.76,
-          "sugars": 15.3,
-          "fructose": 0.83,
-          "galactose": 0,
-          "glucose": 0.96,
-          "lactose": 0,
-          "maltose": 0.38,
-          "sucrose": 13.14,
-          "sugar_alcohol": 0,
-          "fat": 19.1,
-          "monounsaturated": 6.82,
-          "polyunsaturated": 7.09,
-          "omega_3": 2.89,
-          "omega_6": 4.09,
-          "saturated": 3.44,
-          "transfats": 0,
-          "cholesterol": 76.54,
-          "protein": 46.64,
-          "alanine": 2.67,
-          "arginine": 2.95,
-          "aspartic_acid": 4.77,
-          "cystine": 0.54,
-          "glutamic_acid": 7.37,
-          "glycine": 2.17,
-          "histidine": 1.3,
-          "isoleucine": 2.02,
-          "leucine": 3.67,
-          "lysine": 3.86,
-          "methionine": 1.26,
-          "phenylalanine": 1.88,
-          "proline": 1.82,
-          "serine": 2.02,
-          "threonine": 1.92,
-          "tryptophan": 0.52,
-          "tyrosine": 1.54,
-          "valine": 2.3,
-          "b1_thiamine": 0.6,
-          "b2_riboflavin": 0.64,
-          "b3_niacin": 15.07,
-          "b5_pantothenic_acid": 2.26,
-          "b6_pyridoxine": 1.11,
-          "b12_cobalamin": 7.09,
-          "choline": 218.21,
-          "folate": 253.02,
-          "vitamin_a": 426.18,
-          "vitamin_c": 6.18,
-          "vitamin_d": 614.05,
-          "vitamin_e": 1.7,
-          "vitamin_k": 23.53,
-          "calcium": 138.88,
-          "copper": 0.41,
-          "iron": 4.42,
-          "magnesium": 121.56,
-          "manganese": 1.76,
-          "phosphorus": 621.31,
-          "potassium": 1149.86,
-          "selenium": 71.03,
-          "sodium": 89.72,
-          "zinc": 2.52
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/maple-teriyaki-salmon-sushi-bowls-cucumber-edamame/11975",
-      "altVariants": [
-        {
-          "id": 11978,
-          "recipe_id": 1389,
-          "group_label": "Default auto-gluten-free",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "493b331c-6170-45ab-8173-ad467bfdc482",
-          "fallback_published_recipe_uuids": [
-            "7a32825d-86ca-4173-b9b0-441e543d9053"
-          ],
-          "first_published_at": 1603812755000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1.5,
-            2.5,
-            65,
-            50,
-            2.5,
-            20,
-            30,
-            20
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11977,
-          "recipe_id": 1389,
-          "group_label": "Default auto-gluten-free",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "160c0696-9da7-4142-b3cf-1eda1d49d730",
-          "fallback_published_recipe_uuids": [
-            "77bc2bf3-d897-43d4-9dc0-fade1379fb47"
-          ],
-          "first_published_at": 1603812754000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.75,
-            1.25,
-            32.5,
-            25,
-            1.25,
-            10,
-            20,
-            10
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11976,
-          "recipe_id": 1389,
-          "group_label": "Default",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "aa5a4de4-7907-41e5-b94d-9f867f26445d",
-          "fallback_published_recipe_uuids": [
-            "d892a7b5-1fd8-4dce-aac6-201987cd06a0"
-          ],
-          "first_published_at": 1603812754000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            2.25,
-            3.75,
-            97.5,
-            75,
-            3.75,
-            30,
-            60,
-            30
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11975,
-          "recipe_id": 1389,
-          "group_label": "Default",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "b6aa36cd-7d8e-4e85-a625-c3a18648434d",
-          "fallback_published_recipe_uuids": [
-            "e8663a8d-befe-4508-abca-c6484ea8e928"
-          ],
-          "first_published_at": 1603812753000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1.5,
-            2.5,
-            65,
-            50,
-            2.5,
-            20,
-            30,
-            20
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11979,
-          "recipe_id": 1389,
-          "group_label": "Default auto-gluten-free",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "d8a7d100-f4ef-4387-afe6-dc2603dbc5da",
-          "fallback_published_recipe_uuids": [
-            "5a64dbc8-b166-410a-b178-b4c2951f008b"
-          ],
-          "first_published_at": 1603812755000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            2.25,
-            3.75,
-            97.5,
-            75,
-            3.75,
-            30,
-            60,
-            30
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11974,
-          "recipe_id": 1389,
-          "group_label": "Default",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "c866cbc4-8681-4551-b737-b74a2a180494",
-          "fallback_published_recipe_uuids": [
-            "008873dd-ecb2-4068-a340-8ab346b2508c"
-          ],
-          "first_published_at": 1603812753000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.75,
-            1.25,
-            32.5,
-            25,
-            1.25,
-            10,
-            20,
-            10
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11985,
-          "recipe_id": 1389,
-          "group_label": "Default auto-gluten-free",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "75186292-28ee-43aa-b630-0069b3b69a44",
-          "fallback_published_recipe_uuids": [
-            "10a9a09e-3a32-4f3f-81d0-2bccbf07240e"
-          ],
-          "first_published_at": 1603812758000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            1.02,
-            3.75,
-            97.5,
-            75,
-            3.75,
-            30,
-            60,
-            30
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11984,
-          "recipe_id": 1389,
-          "group_label": "Default auto-gluten-free",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "a2d19be0-33bc-4a4c-b639-8b381967456d",
-          "fallback_published_recipe_uuids": [
-            "2935bc32-34f4-4102-a2c0-0975ced76abc"
-          ],
-          "first_published_at": 1603812757000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.68,
-            2.5,
-            65,
-            50,
-            2.5,
-            20,
-            30,
-            20
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11983,
-          "recipe_id": 1389,
-          "group_label": "Default auto-gluten-free",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "0a1924ec-e6d4-488c-a1c4-dc2516f19b97",
-          "fallback_published_recipe_uuids": [
-            "eabfcf14-e8dc-44db-93cb-8f7b57b9a8a3"
-          ],
-          "first_published_at": 1603812757000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.34,
-            1.25,
-            32.5,
-            25,
-            1.25,
-            10,
-            20,
-            10
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11982,
-          "recipe_id": 1389,
-          "group_label": "Default",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "e423a75a-0d91-443b-a812-977c368998d9",
-          "fallback_published_recipe_uuids": [
-            "6a17940d-fd0c-4b75-a42f-f30d4d402b6d"
-          ],
-          "first_published_at": 1603812757000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            1.02,
-            3.75,
-            97.5,
-            75,
-            3.75,
-            30,
-            60,
-            30
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11981,
-          "recipe_id": 1389,
-          "group_label": "Default",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "a74377e2-895d-4172-bf4f-975d91155b1a",
-          "fallback_published_recipe_uuids": [
-            "34f202db-65b4-49c4-8a2b-1c428e5568f9"
-          ],
-          "first_published_at": 1603812756000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.68,
-            2.5,
-            65,
-            50,
-            2.5,
-            20,
-            30,
-            20
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11980,
-          "recipe_id": 1389,
-          "group_label": "Default",
-          "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
-          "published_recipe_uuid": "87ccf4a0-2f8a-45bd-b909-2a182656687a",
-          "fallback_published_recipe_uuids": [
-            "6f6520e3-10c1-44b0-857f-bc829c52c317"
-          ],
-          "first_published_at": 1603812756000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            269,
-            330,
-            155,
-            6,
-            79,
-            104,
-            257,
-            88,
-            181,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.34,
-            1.25,
-            32.5,
-            25,
-            1.25,
-            10,
-            20,
-            10
-          ],
-          "average_rating": 0.838,
-          "rating_count": 471,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-            24
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Bowls"
-        ],
-        "cuisine": "Japanese",
-        "reviewCount": 471,
-        "reviewScore": 4.2
-      }
+  "id": 11975,
+  "recipe_id": 1389,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Maple-Teriyaki Salmon Sushi Bowls with Cucumber & Edamame",
+  "slug": "maple-teriyaki-salmon-sushi-bowls-cucumber-edamame",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/thumbnail_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1389/presentation_ffd9a1f5-3fdd-43e2-9bbd-e7990fc0c5c2.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "maple-teriyaki-salmon-sushi-bowls-cucumber-edamame",
-    "variantId": "11975"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 202240,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water and bring the mixture to a boil over high heat.",
+      "secondary_message": "1 cup basmati rice\n2 cup water"
+    },
+    {
+      "id": 202241,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce heat to low. Cook rice until the liquid is fully absorbed, 15-18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 202242,
+      "primary_message": "Place maple syrup, soy sauce, oil, vinegar, and garlic powder in a medium bowl; whisk to combine the marinade.",
+      "secondary_message": "¼ cup pure maple syrup\n2 tbsp soy sauce\n4 tsp toasted sesame oil\n4 tsp rice vinegar\n½ tsp garlic powder"
+    },
+    {
+      "id": 202243,
+      "primary_message": "If using salmon with skin, place the fillet, skin-side down, on a cutting board. Holding the tail end firmly, use a knife to cut between the flesh and skin; continue to cut through the length of the fillet (take care not to cut through the skin); discard the skin. If you don’t have a tail end, start at one corner of the fillet and work your way in until the knife is between the skin and flesh.",
+      "secondary_message": "1 ½ lb salmon fillet"
+    },
+    {
+      "id": 202244,
+      "primary_message": "Cut salmon into bite-size pieces. Add to the bowl with the marinade and gently toss to coat. Set aside for 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 202245,
+      "primary_message": "Meanwhile, wash and dry cucumber. Trim and cut into thin sticks.",
+      "secondary_message": "1 English cucumber"
+    },
+    {
+      "id": 202246,
+      "primary_message": "Place edamame in a colander and rinse under hot water (from the tap) to defrost; set aside to drain further.",
+      "secondary_message": "1 cup edamame"
+    },
+    {
+      "id": 202247,
+      "primary_message": "When the salmon is done marinating, preheat a large skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 202248,
+      "primary_message": "Once the skillet is hot, add salmon and all of the marinade. Cook, stirring occasionally, until sauce thickens and salmon is opaque and flaky, 4-5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 202249,
+      "primary_message": "Place vinegar, maple syrup, and salt in a small bowl; whisk to combine. When the rice is done, pour the mixture over it and stir to combine.",
+      "secondary_message": "2 tbsp rice vinegar\n1 tsp pure maple syrup\n½ tsp salt"
+    },
+    {
+      "id": 202250,
+      "primary_message": "To serve, divide rice between bowls and top with cucumber, edamame, and salmon. Sprinkle with sesame seeds and enjoy!",
+      "secondary_message": "4 tsp sesame seeds"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 211525,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 211526,
+      "quantity": "1 cup",
+      "ingredient_name": "edamame, shelled"
+    },
+    {
+      "id": 211522,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 211516,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "salmon fillet"
+    },
+    {
+      "id": 211519,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 211521,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 211524,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 211520,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 211523,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    },
+    {
+      "id": 211518,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    },
+    {
+      "id": 211517,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 600.77,
+    "alcohol": 0,
+    "ash": 5.47,
+    "caffeine": 0,
+    "water": 254.44,
+    "carbs": 58.79,
+    "fiber": 3.95,
+    "starch": 1.76,
+    "sugars": 15.3,
+    "fructose": 0.83,
+    "galactose": 0,
+    "glucose": 0.96,
+    "lactose": 0,
+    "maltose": 0.38,
+    "sucrose": 13.14,
+    "sugar_alcohol": 0,
+    "fat": 19.1,
+    "monounsaturated": 6.82,
+    "polyunsaturated": 7.09,
+    "omega_3": 2.89,
+    "omega_6": 4.09,
+    "saturated": 3.44,
+    "transfats": 0,
+    "cholesterol": 76.54,
+    "protein": 46.64,
+    "alanine": 2.67,
+    "arginine": 2.95,
+    "aspartic_acid": 4.77,
+    "cystine": 0.54,
+    "glutamic_acid": 7.37,
+    "glycine": 2.17,
+    "histidine": 1.3,
+    "isoleucine": 2.02,
+    "leucine": 3.67,
+    "lysine": 3.86,
+    "methionine": 1.26,
+    "phenylalanine": 1.88,
+    "proline": 1.82,
+    "serine": 2.02,
+    "threonine": 1.92,
+    "tryptophan": 0.52,
+    "tyrosine": 1.54,
+    "valine": 2.3,
+    "b1_thiamine": 0.6,
+    "b2_riboflavin": 0.64,
+    "b3_niacin": 15.07,
+    "b5_pantothenic_acid": 2.26,
+    "b6_pyridoxine": 1.11,
+    "b12_cobalamin": 7.09,
+    "choline": 218.21,
+    "folate": 253.02,
+    "vitamin_a": 426.18,
+    "vitamin_c": 6.18,
+    "vitamin_d": 614.05,
+    "vitamin_e": 1.7,
+    "vitamin_k": 23.53,
+    "calcium": 138.88,
+    "copper": 0.41,
+    "iron": 4.42,
+    "magnesium": 121.56,
+    "manganese": 1.76,
+    "phosphorus": 621.31,
+    "potassium": 1149.86,
+    "selenium": 71.03,
+    "sodium": 89.72,
+    "zinc": 2.52
+  }
 }

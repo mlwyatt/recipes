@@ -1,1018 +1,225 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 23219,
-        "recipe_id": 2599,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
-        "slug": "bbq-beef-sloppy-joe-roasted-cajun-cauliflower",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 382208,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 382209,
-            "primary_message": "Place cauliflower on a baking sheet pan, drizzle with oil, then sprinkle with Cajun seasoning and salt. Stir to coat and spread out in an even layer.",
-            "secondary_message": "2 (10 oz) bags cauliflower florets\n4 tsp extra virgin olive oil\n2 tsp Cajun seasoning\n⅛ tsp salt"
-          },
-          {
-            "id": 382210,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until cauliflower is golden and fork-tender, 20-25 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 382211,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 382212,
-            "primary_message": "Once the skillet is hot, add beef, salt, and pepper. Cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes. ",
-            "secondary_message": "1 ½ lb lean ground beef\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 382213,
-            "primary_message": "Meanwhile, wash, dry, and shave parsley leaves off the stems; discard stems and mince the leaves. Set aside.",
-            "secondary_message": "1 small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 382214,
-            "primary_message": "When the beef is done, add barbecue sauce and stir to combine. Continue to cook until heated through and slightly thickened, 1-2 minutes more. Cover with a lid and remove from heat.",
-            "secondary_message": "1 cup barbecue sauce"
-          },
-          {
-            "id": 382215,
-            "primary_message": "Toast buns if desired.",
-            "secondary_message": "4 whole grain buns or rolls"
-          },
-          {
-            "id": 382216,
-            "primary_message": "When the cauliflower is done, remove from the oven, add parsley, and stir to combine.",
-            "secondary_message": null
-          },
-          {
-            "id": 382217,
-            "primary_message": "Place bottom half of each bun on a plate. Top with barbecue beef, then close with the top half of the buns. Serve roasted cauliflower on the side. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 408005,
-            "quantity": "2 (10 oz) bags",
-            "ingredient_name": "cauliflower florets"
-          },
-          {
-            "id": 408000,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 408002,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 408001,
-            "quantity": "4",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 408003,
-            "quantity": "",
-            "ingredient_name": "barbecue sauce"
-          },
-          {
-            "id": 407998,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 408004,
-            "quantity": "",
-            "ingredient_name": "Cajun seasoning"
-          },
-          {
-            "id": 407997,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 407999,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 671.66,
-          "alcohol": 0,
-          "ash": 7.68,
-          "caffeine": 0,
-          "water": 309.48,
-          "carbs": 53.96,
-          "fiber": 6.87,
-          "starch": 10.15,
-          "sugars": 30.1,
-          "fructose": 12.84,
-          "galactose": 0,
-          "glucose": 13.89,
-          "lactose": 0,
-          "maltose": 1.45,
-          "sucrose": 1.88,
-          "sugar_alcohol": 0,
-          "fat": 32.47,
-          "monounsaturated": 15.17,
-          "polyunsaturated": 2.28,
-          "omega_3": 0.29,
-          "omega_6": 1.42,
-          "saturated": 10.91,
-          "transfats": 1.83,
-          "cholesterol": 115.67,
-          "protein": 40.93,
-          "alanine": 2.27,
-          "arginine": 2.31,
-          "aspartic_acid": 3.28,
-          "cystine": 0.42,
-          "glutamic_acid": 5.96,
-          "glycine": 2.37,
-          "histidine": 1.18,
-          "isoleucine": 1.61,
-          "leucine": 2.82,
-          "lysine": 3.03,
-          "methionine": 0.89,
-          "phenylalanine": 1.47,
-          "proline": 2.02,
-          "serine": 1.53,
-          "threonine": 1.42,
-          "tryptophan": 0.23,
-          "tyrosine": 1.14,
-          "valine": 1.87,
-          "b1_thiamine": 0.32,
-          "b2_riboflavin": 0.49,
-          "b3_niacin": 11.26,
-          "b5_pantothenic_acid": 2.35,
-          "b6_pyridoxine": 1,
-          "b12_cobalamin": 3.69,
-          "choline": 185.03,
-          "folate": 136.57,
-          "vitamin_a": 181.66,
-          "vitamin_c": 88.57,
-          "vitamin_d": 5.1,
-          "vitamin_e": 1.96,
-          "vitamin_k": 31.88,
-          "calcium": 150.78,
-          "copper": 0.41,
-          "iron": 6.61,
-          "magnesium": 103.83,
-          "manganese": 1.29,
-          "phosphorus": 462.72,
-          "potassium": 1289.73,
-          "selenium": 45.97,
-          "sodium": 1504.22,
-          "zinc": 9.06
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/bbq-beef-sloppy-joe-roasted-cajun-cauliflower/23219",
-      "altVariants": [
-        {
-          "id": 23220,
-          "recipe_id": 2599,
-          "group_label": "Default",
-          "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "9d328b22-e156-4706-bdeb-7c130360bd2d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774290000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            168,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            2.25,
-            6,
-            360,
-            2.5,
-            15,
-            30,
-            4.6875
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23219,
-          "recipe_id": 2599,
-          "group_label": "Default",
-          "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "614c4f1f-2404-4f41-9c5d-ada6dff6b6b0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774291000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            168,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1.5,
-            4,
-            240,
-            1.25,
-            10,
-            20,
-            3.125
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23218,
-          "recipe_id": 2599,
-          "group_label": "Default",
-          "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "1df55b5e-cfd5-472d-bb4b-32f37018e5e5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774291000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            168,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.75,
-            2,
-            120,
-            0.625,
-            5,
-            10,
-            1.5625
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23223,
-          "recipe_id": 2599,
-          "group_label": "Vegan",
-          "name": "BBQ Veggie Ground Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "aae52bda-7ccd-409b-bb6d-cd52ebe94abd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774290000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            444,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            24,
-            6,
-            360,
-            2.5,
-            15,
-            75,
-            3.4375
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23222,
-          "recipe_id": 2599,
-          "group_label": "Vegan",
-          "name": "BBQ Veggie Ground Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "21ebdf90-6370-4f74-97e9-fa45f16a0dfa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774290000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            444,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            16,
-            4,
-            240,
-            1.25,
-            10,
-            50,
-            1.875
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23221,
-          "recipe_id": 2599,
-          "group_label": "Vegan",
-          "name": "BBQ Veggie Ground Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "0b7d821b-402f-43ca-bc69-66dd1c38116b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774290000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            444,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            8,
-            2,
-            120,
-            0.625,
-            5,
-            25,
-            0.9375
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23229,
-          "recipe_id": 2599,
-          "group_label": "Vegan",
-          "name": "BBQ Veggie Ground Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "d3d7b5cb-227b-4e70-b7fd-f231e3583a03",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774287000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            444,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            680,
-            6,
-            360,
-            2.5,
-            15,
-            75,
-            3.4375
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23228,
-          "recipe_id": 2599,
-          "group_label": "Vegan",
-          "name": "BBQ Veggie Ground Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "eb5eeb49-45a5-47c7-a3dd-25de6ee1553e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774287000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            444,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            454,
-            4,
-            240,
-            1.25,
-            10,
-            50,
-            1.875
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23227,
-          "recipe_id": 2599,
-          "group_label": "Vegan",
-          "name": "BBQ Veggie Ground Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "f411a491-baec-4061-a70f-8ee71f99a240",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774288000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            444,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            227,
-            2,
-            120,
-            0.625,
-            5,
-            25,
-            0.9375
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23226,
-          "recipe_id": 2599,
-          "group_label": "Default",
-          "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "385920dd-5f17-4d7b-9671-43b09da686b2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774288000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            168,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1.02,
-            6,
-            360,
-            2.5,
-            15,
-            30,
-            4.6875
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23225,
-          "recipe_id": 2599,
-          "group_label": "Default",
-          "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "26d22a4b-0e73-41d3-ad93-4a7582b07af8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774289000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            168,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.68,
-            4,
-            240,
-            1.25,
-            10,
-            20,
-            3.125
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        },
-        {
-          "id": 23224,
-          "recipe_id": 2599,
-          "group_label": "Default",
-          "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
-          "published_recipe_uuid": "e843f359-982b-4201-904d-15c00f17d7fe",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774289000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            106,
-            168,
-            128,
-            399,
-            72,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.34,
-            2,
-            120,
-            0.625,
-            5,
-            10,
-            1.5625
-          ],
-          "average_rating": 0.764,
-          "rating_count": 142,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Keep the summer bbq burger flavors going all year long with this easy weeknight classic",
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "American",
-        "reviewCount": 142,
-        "reviewScore": null
-      }
+  "id": 23219,
+  "recipe_id": 2599,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "BBQ Beef Sloppy Joe with Roasted Cajun Cauliflower",
+  "slug": "bbq-beef-sloppy-joe-roasted-cajun-cauliflower",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/thumbnail_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2599/presentation_68ff79d7-c545-48e7-a672-4342598918eb.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "bbq-beef-sloppy-joe-roasted-cajun-cauliflower",
-    "variantId": "23219"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 382208,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 382209,
+      "primary_message": "Place cauliflower on a baking sheet pan, drizzle with oil, then sprinkle with Cajun seasoning and salt. Stir to coat and spread out in an even layer.",
+      "secondary_message": "2 (10 oz) bags cauliflower florets\n4 tsp extra virgin olive oil\n2 tsp Cajun seasoning\n⅛ tsp salt"
+    },
+    {
+      "id": 382210,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until cauliflower is golden and fork-tender, 20-25 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 382211,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 382212,
+      "primary_message": "Once the skillet is hot, add beef, salt, and pepper. Cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes. ",
+      "secondary_message": "1 ½ lb lean ground beef\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 382213,
+      "primary_message": "Meanwhile, wash, dry, and shave parsley leaves off the stems; discard stems and mince the leaves. Set aside.",
+      "secondary_message": "1 small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 382214,
+      "primary_message": "When the beef is done, add barbecue sauce and stir to combine. Continue to cook until heated through and slightly thickened, 1-2 minutes more. Cover with a lid and remove from heat.",
+      "secondary_message": "1 cup barbecue sauce"
+    },
+    {
+      "id": 382215,
+      "primary_message": "Toast buns if desired.",
+      "secondary_message": "4 whole grain buns or rolls"
+    },
+    {
+      "id": 382216,
+      "primary_message": "When the cauliflower is done, remove from the oven, add parsley, and stir to combine.",
+      "secondary_message": null
+    },
+    {
+      "id": 382217,
+      "primary_message": "Place bottom half of each bun on a plate. Top with barbecue beef, then close with the top half of the buns. Serve roasted cauliflower on the side. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 408005,
+      "quantity": "2 (10 oz) bags",
+      "ingredient_name": "cauliflower florets"
+    },
+    {
+      "id": 408000,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 408002,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 408001,
+      "quantity": "4",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 408003,
+      "quantity": "",
+      "ingredient_name": "barbecue sauce"
+    },
+    {
+      "id": 407998,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 408004,
+      "quantity": "",
+      "ingredient_name": "Cajun seasoning"
+    },
+    {
+      "id": 407997,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 407999,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 671.66,
+    "alcohol": 0,
+    "ash": 7.68,
+    "caffeine": 0,
+    "water": 309.48,
+    "carbs": 53.96,
+    "fiber": 6.87,
+    "starch": 10.15,
+    "sugars": 30.1,
+    "fructose": 12.84,
+    "galactose": 0,
+    "glucose": 13.89,
+    "lactose": 0,
+    "maltose": 1.45,
+    "sucrose": 1.88,
+    "sugar_alcohol": 0,
+    "fat": 32.47,
+    "monounsaturated": 15.17,
+    "polyunsaturated": 2.28,
+    "omega_3": 0.29,
+    "omega_6": 1.42,
+    "saturated": 10.91,
+    "transfats": 1.83,
+    "cholesterol": 115.67,
+    "protein": 40.93,
+    "alanine": 2.27,
+    "arginine": 2.31,
+    "aspartic_acid": 3.28,
+    "cystine": 0.42,
+    "glutamic_acid": 5.96,
+    "glycine": 2.37,
+    "histidine": 1.18,
+    "isoleucine": 1.61,
+    "leucine": 2.82,
+    "lysine": 3.03,
+    "methionine": 0.89,
+    "phenylalanine": 1.47,
+    "proline": 2.02,
+    "serine": 1.53,
+    "threonine": 1.42,
+    "tryptophan": 0.23,
+    "tyrosine": 1.14,
+    "valine": 1.87,
+    "b1_thiamine": 0.32,
+    "b2_riboflavin": 0.49,
+    "b3_niacin": 11.26,
+    "b5_pantothenic_acid": 2.35,
+    "b6_pyridoxine": 1,
+    "b12_cobalamin": 3.69,
+    "choline": 185.03,
+    "folate": 136.57,
+    "vitamin_a": 181.66,
+    "vitamin_c": 88.57,
+    "vitamin_d": 5.1,
+    "vitamin_e": 1.96,
+    "vitamin_k": 31.88,
+    "calcium": 150.78,
+    "copper": 0.41,
+    "iron": 6.61,
+    "magnesium": 103.83,
+    "manganese": 1.29,
+    "phosphorus": 462.72,
+    "potassium": 1289.73,
+    "selenium": 45.97,
+    "sodium": 1504.22,
+    "zinc": 9.06
+  }
 }

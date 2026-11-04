@@ -1,1046 +1,235 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 28103,
-        "recipe_id": 3186,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
-        "slug": "cheesy-pork-sausage-bell-pepper-quesadilla-lettuce-tomato",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 450269,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 green bell peppers\n1 head butter (Boston) lettuce\n2 tomatoes"
-          },
-          {
-            "id": 450270,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 450271,
-            "primary_message": "While the skillet heats up, trim, seed, and small dice bell peppers.",
-            "secondary_message": null
-          },
-          {
-            "id": 450272,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell pepper, pork, and spices; cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes. Remove from heat.",
-            "secondary_message": "2 tsp extra virgin olive oil\n1 lb ground pork sausage\n½ tsp coriander, ground\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 450273,
-            "primary_message": "Meanwhile, coarsely grate cheese.",
-            "secondary_message": "½ (8 oz) block cheddar cheese"
-          },
-          {
-            "id": 450274,
-            "primary_message": "To assemble the quesadillas, lay tortillas on a flat surface and divide pork and bell pepper between them, arranging on one half of each tortilla. Top with cheese and fold in half to close. (Reserve skillet for the next step.)",
-            "secondary_message": "4 large flour tortillas"
-          },
-          {
-            "id": 450275,
-            "primary_message": "Wipe the skillet clean with paper towels and return to medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 450276,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, place assembled quesadillas in the skillet and cook, flipping halfway through, until cheese is melted and tortillas are golden on both sides, 5-6 minutes. Remove to a plate.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 450277,
-            "primary_message": "Meanwhile, chop lettuce crosswise into thin (shred-like) strips. Transfer to another plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 450278,
-            "primary_message": "Small dice tomatoes. Add to plate with the lettuce.",
-            "secondary_message": null
-          },
-          {
-            "id": 450279,
-            "primary_message": "To serve, cut each quesadilla into wedges and divide between plates; top with lettuce and tomatoes. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 482310,
-            "quantity": "1 head",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 482302,
-            "quantity": "½ (8 oz) block",
-            "ingredient_name": "cheddar cheese"
-          },
-          {
-            "id": 482309,
-            "quantity": "2",
-            "ingredient_name": "green bell peppers"
-          },
-          {
-            "id": 482311,
-            "quantity": "1 lb",
-            "ingredient_name": "ground pork sausage"
-          },
-          {
-            "id": 482307,
-            "quantity": "4",
-            "ingredient_name": "large flour tortillas"
-          },
-          {
-            "id": 482308,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 482304,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 482305,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 482303,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 482306,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 707.1,
-          "alcohol": 0,
-          "ash": 7.27,
-          "caffeine": 0,
-          "water": 245.22,
-          "carbs": 42.69,
-          "fiber": 3.75,
-          "starch": 26.42,
-          "sugars": 6.25,
-          "fructose": 1.74,
-          "galactose": 0.03,
-          "glucose": 1.7,
-          "lactose": 0.05,
-          "maltose": 2.25,
-          "sucrose": 0.47,
-          "sugar_alcohol": 0,
-          "fat": 47.13,
-          "monounsaturated": 19.99,
-          "polyunsaturated": 6.79,
-          "omega_3": 0.33,
-          "omega_6": 5.99,
-          "saturated": 16.95,
-          "transfats": 1.24,
-          "cholesterol": 100.38,
-          "protein": 28.88,
-          "alanine": 0.46,
-          "arginine": 0.43,
-          "aspartic_acid": 1.01,
-          "cystine": 0.16,
-          "glutamic_acid": 3.61,
-          "glycine": 0.4,
-          "histidine": 0.3,
-          "isoleucine": 0.58,
-          "leucine": 1,
-          "lysine": 0.49,
-          "methionine": 0.27,
-          "phenylalanine": 0.68,
-          "proline": 1.37,
-          "serine": 0.56,
-          "threonine": 0.51,
-          "tryptophan": 0.24,
-          "tyrosine": 0.51,
-          "valine": 0.69,
-          "b1_thiamine": 0.63,
-          "b2_riboflavin": 0.61,
-          "b3_niacin": 9.27,
-          "b5_pantothenic_acid": 0.43,
-          "b6_pyridoxine": 0.62,
-          "b12_cobalamin": 2.52,
-          "choline": 130.22,
-          "folate": 128.58,
-          "vitamin_a": 1016.51,
-          "vitamin_c": 57.82,
-          "vitamin_d": 8.51,
-          "vitamin_e": 1.89,
-          "vitamin_k": 56.87,
-          "calcium": 307.53,
-          "copper": 0.27,
-          "iron": 4.65,
-          "magnesium": 61.71,
-          "manganese": 0.66,
-          "phosphorus": 462.18,
-          "potassium": 812.67,
-          "selenium": 44.31,
-          "sodium": 1509.02,
-          "zinc": 3.49
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cheesy-pork-sausage-bell-pepper-quesadilla-lettuce-tomato/28103",
-      "altVariants": [
-        {
-          "id": 28103,
-          "recipe_id": 3186,
-          "group_label": "Default",
-          "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "7545da38-6cba-4012-abf7-e665ff5327c0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267218000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            445,
-            187,
-            260,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            1,
-            4,
-            2,
-            1.25,
-            2.5,
-            20,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28107,
-          "recipe_id": 3186,
-          "group_label": "Vegetarian",
-          "name": "Cheesy Veggie Ground & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "12c680d2-358e-4c41-9c26-65dce2a21c4a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267217000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            187,
-            260,
-            444,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            0.75,
-            3,
-            6,
-            3,
-            24,
-            2.5,
-            3.75,
-            45,
-            3.75
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28106,
-          "recipe_id": 3186,
-          "group_label": "Vegetarian",
-          "name": "Cheesy Veggie Ground & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "56845300-e807-413e-a0c3-2d2994ed784c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267217000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            187,
-            260,
-            444,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            4,
-            2,
-            16,
-            1.25,
-            2.5,
-            30,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28105,
-          "recipe_id": 3186,
-          "group_label": "Vegetarian",
-          "name": "Cheesy Veggie Ground & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "9d8a4851-c823-48ca-a068-d81038f412a7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267218000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            187,
-            260,
-            444,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.25,
-            1,
-            2,
-            1,
-            8,
-            0.625,
-            1.25,
-            15,
-            1.25
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28104,
-          "recipe_id": 3186,
-          "group_label": "Default",
-          "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "8a1decfe-bb73-415f-b689-a059f5ab023d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267218000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            445,
-            187,
-            260,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            0.75,
-            3,
-            1.5,
-            6,
-            3,
-            2.5,
-            3.75,
-            30,
-            3.75
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28102,
-          "recipe_id": 3186,
-          "group_label": "Default",
-          "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "11c77adc-693f-4fd4-bb71-4d4219107c50",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267219000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            445,
-            187,
-            260,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.25,
-            1,
-            0.5,
-            2,
-            1,
-            0.625,
-            1.25,
-            10,
-            1.25
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28113,
-          "recipe_id": 3186,
-          "group_label": "Vegetarian",
-          "name": "Cheesy Veggie Ground & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "000bd3d6-7bcb-45df-82d3-4837cbf1a9d5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267216000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            187,
-            260,
-            444,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            0.75,
-            3,
-            6,
-            3,
-            680,
-            2.5,
-            3.75,
-            45,
-            3.75
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28112,
-          "recipe_id": 3186,
-          "group_label": "Vegetarian",
-          "name": "Cheesy Veggie Ground & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "a3d5b18d-2179-4fc5-b3cc-1ab97002d3d9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267216000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            187,
-            260,
-            444,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            4,
-            2,
-            454,
-            1.25,
-            2.5,
-            30,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28111,
-          "recipe_id": 3186,
-          "group_label": "Vegetarian",
-          "name": "Cheesy Veggie Ground & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "c2a32938-eec9-4c46-9dea-b2f4ec3bda02",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267216000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            187,
-            260,
-            444,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.25,
-            1,
-            2,
-            1,
-            227,
-            0.625,
-            1.25,
-            15,
-            1.25
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28110,
-          "recipe_id": 3186,
-          "group_label": "Default",
-          "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "e66be75f-1734-4946-ba40-349e1f50267d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267216000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            445,
-            187,
-            260,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            0.75,
-            3,
-            0.68,
-            6,
-            3,
-            2.5,
-            3.75,
-            30,
-            3.75
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28109,
-          "recipe_id": 3186,
-          "group_label": "Default",
-          "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "e94b1735-b59f-4d42-aee3-0a8ca3217f73",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267217000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            445,
-            187,
-            260,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            0.45,
-            4,
-            2,
-            1.25,
-            2.5,
-            20,
-            2.5
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28108,
-          "recipe_id": 3186,
-          "group_label": "Default",
-          "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
-          "published_recipe_uuid": "12ad3526-c06a-43a3-a5b7-f98a524a7469",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710267217000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            308,
-            43,
-            291,
-            445,
-            187,
-            260,
-            72,
-            76,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.25,
-            1,
-            0.23,
-            2,
-            1,
-            0.625,
-            1.25,
-            10,
-            1.25
-          ],
-          "average_rating": 0.769,
-          "rating_count": 275,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "Tex-Mex",
-        "reviewCount": 275,
-        "reviewScore": null
-      }
+  "id": 28103,
+  "recipe_id": 3186,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Cheesy Pork Sausage & Bell Pepper Quesadilla with Lettuce & Tomato",
+  "slug": "cheesy-pork-sausage-bell-pepper-quesadilla-lettuce-tomato",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/thumbnail_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3186/presentation_9e1c5f0b-1716-43b8-b35e-5f87c0e61123.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cheesy-pork-sausage-bell-pepper-quesadilla-lettuce-tomato",
-    "variantId": "28103"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 450269,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 green bell peppers\n1 head butter (Boston) lettuce\n2 tomatoes"
+    },
+    {
+      "id": 450270,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 450271,
+      "primary_message": "While the skillet heats up, trim, seed, and small dice bell peppers.",
+      "secondary_message": null
+    },
+    {
+      "id": 450272,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add bell pepper, pork, and spices; cook, breaking the meat apart with a spoon, until browned and crumbly, 4-5 minutes. Remove from heat.",
+      "secondary_message": "2 tsp extra virgin olive oil\n1 lb ground pork sausage\n½ tsp coriander, ground\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 450273,
+      "primary_message": "Meanwhile, coarsely grate cheese.",
+      "secondary_message": "½ (8 oz) block cheddar cheese"
+    },
+    {
+      "id": 450274,
+      "primary_message": "To assemble the quesadillas, lay tortillas on a flat surface and divide pork and bell pepper between them, arranging on one half of each tortilla. Top with cheese and fold in half to close. (Reserve skillet for the next step.)",
+      "secondary_message": "4 large flour tortillas"
+    },
+    {
+      "id": 450275,
+      "primary_message": "Wipe the skillet clean with paper towels and return to medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 450276,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, place assembled quesadillas in the skillet and cook, flipping halfway through, until cheese is melted and tortillas are golden on both sides, 5-6 minutes. Remove to a plate.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 450277,
+      "primary_message": "Meanwhile, chop lettuce crosswise into thin (shred-like) strips. Transfer to another plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 450278,
+      "primary_message": "Small dice tomatoes. Add to plate with the lettuce.",
+      "secondary_message": null
+    },
+    {
+      "id": 450279,
+      "primary_message": "To serve, cut each quesadilla into wedges and divide between plates; top with lettuce and tomatoes. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 482310,
+      "quantity": "1 head",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 482302,
+      "quantity": "½ (8 oz) block",
+      "ingredient_name": "cheddar cheese"
+    },
+    {
+      "id": 482309,
+      "quantity": "2",
+      "ingredient_name": "green bell peppers"
+    },
+    {
+      "id": 482311,
+      "quantity": "1 lb",
+      "ingredient_name": "ground pork sausage"
+    },
+    {
+      "id": 482307,
+      "quantity": "4",
+      "ingredient_name": "large flour tortillas"
+    },
+    {
+      "id": 482308,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 482304,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 482305,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 482303,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 482306,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 707.1,
+    "alcohol": 0,
+    "ash": 7.27,
+    "caffeine": 0,
+    "water": 245.22,
+    "carbs": 42.69,
+    "fiber": 3.75,
+    "starch": 26.42,
+    "sugars": 6.25,
+    "fructose": 1.74,
+    "galactose": 0.03,
+    "glucose": 1.7,
+    "lactose": 0.05,
+    "maltose": 2.25,
+    "sucrose": 0.47,
+    "sugar_alcohol": 0,
+    "fat": 47.13,
+    "monounsaturated": 19.99,
+    "polyunsaturated": 6.79,
+    "omega_3": 0.33,
+    "omega_6": 5.99,
+    "saturated": 16.95,
+    "transfats": 1.24,
+    "cholesterol": 100.38,
+    "protein": 28.88,
+    "alanine": 0.46,
+    "arginine": 0.43,
+    "aspartic_acid": 1.01,
+    "cystine": 0.16,
+    "glutamic_acid": 3.61,
+    "glycine": 0.4,
+    "histidine": 0.3,
+    "isoleucine": 0.58,
+    "leucine": 1,
+    "lysine": 0.49,
+    "methionine": 0.27,
+    "phenylalanine": 0.68,
+    "proline": 1.37,
+    "serine": 0.56,
+    "threonine": 0.51,
+    "tryptophan": 0.24,
+    "tyrosine": 0.51,
+    "valine": 0.69,
+    "b1_thiamine": 0.63,
+    "b2_riboflavin": 0.61,
+    "b3_niacin": 9.27,
+    "b5_pantothenic_acid": 0.43,
+    "b6_pyridoxine": 0.62,
+    "b12_cobalamin": 2.52,
+    "choline": 130.22,
+    "folate": 128.58,
+    "vitamin_a": 1016.51,
+    "vitamin_c": 57.82,
+    "vitamin_d": 8.51,
+    "vitamin_e": 1.89,
+    "vitamin_k": 56.87,
+    "calcium": 307.53,
+    "copper": 0.27,
+    "iron": 4.65,
+    "magnesium": 61.71,
+    "manganese": 0.66,
+    "phosphorus": 462.18,
+    "potassium": 812.67,
+    "selenium": 44.31,
+    "sodium": 1509.02,
+    "zinc": 3.49
+  }
 }

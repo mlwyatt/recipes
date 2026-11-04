@@ -1,647 +1,230 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4441,
-        "recipe_id": 657,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Striploin Steak with Balsamic Bell Peppers",
-        "slug": "striploin-steak-balsamic-bell-peppers",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 50490,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 red bell peppers\n2 yellow bell peppers"
-          },
-          {
-            "id": 50491,
-            "primary_message": "Quarter the bell peppers lengthwise; remove and discard the stem, seeds, and membranes. Cut the quarters lengthwise into ¼-inch-thick strips. Transfer to a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 50492,
-            "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; cut lengthwise into ¼-inch-thick wedges. Add to the bowl with the bell peppers.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 50493,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the bowl with the peppers and onion.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 50494,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 50495,
-            "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 50496,
-            "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 50497,
-            "primary_message": "Carefully place the steak in the skillet; flipping every 15 to 30 seconds, cook the steak until desired doneness (5 to 7 minutes for medium-rare). (Use a thermometer or cut into the steak to check the doneness.) Once done, transfer the steak to a plate and let it rest for 5 to 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 50498,
-            "primary_message": "Once the steak has been transferred, reduce the heat to medium and add more coconut oil to the skillet.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 50499,
-            "primary_message": "Add the peppers, onion, and garlic to the skillet and season with salt and pepper. Cook, stirring occasionally, until the peppers are just tender and lightly browned, 3 to 5 minutes. Once done, remove from the heat.",
-            "secondary_message": "½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 50500,
-            "primary_message": "Drizzle the peppers with balsamic vinegar and toss to coat.",
-            "secondary_message": "2 tbsp balsamic vinegar"
-          },
-          {
-            "id": 50501,
-            "primary_message": "To serve, divide the steak and bell peppers between plates.",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 53081,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 53083,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 53080,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 53084,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 53082,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 53079,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 53076,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 53077,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 53078,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 463.26,
-          "alcohol": 0,
-          "ash": 4.59,
-          "caffeine": 0,
-          "water": 251.12,
-          "carbs": 12.05,
-          "fiber": 2.39,
-          "starch": 1.1,
-          "sugars": 7.99,
-          "fructose": 4.12,
-          "galactose": 0.01,
-          "glucose": 3.58,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.28,
-          "sugar_alcohol": 0,
-          "fat": 29.89,
-          "monounsaturated": 11.38,
-          "polyunsaturated": 1.32,
-          "omega_3": 0.08,
-          "omega_6": 1.24,
-          "saturated": 15.62,
-          "transfats": 1.35,
-          "cholesterol": 103.76,
-          "protein": 37.61,
-          "alanine": 2.28,
-          "arginine": 2.52,
-          "aspartic_acid": 3.77,
-          "cystine": 0.39,
-          "glutamic_acid": 6.15,
-          "glycine": 1.82,
-          "histidine": 1.35,
-          "isoleucine": 1.71,
-          "leucine": 3.14,
-          "lysine": 3.46,
-          "methionine": 0.98,
-          "phenylalanine": 1.5,
-          "proline": 1.66,
-          "serine": 1.53,
-          "threonine": 1.74,
-          "tryptophan": 0.42,
-          "tyrosine": 1.35,
-          "valine": 1.85,
-          "b1_thiamine": 0.15,
-          "b2_riboflavin": 0.39,
-          "b3_niacin": 11.85,
-          "b5_pantothenic_acid": 0.92,
-          "b6_pyridoxine": 1.25,
-          "b12_cobalamin": 2.77,
-          "choline": 99.76,
-          "folate": 53.29,
-          "vitamin_a": 212.5,
-          "vitamin_c": 187.67,
-          "vitamin_d": 6.8,
-          "vitamin_e": 1.57,
-          "vitamin_k": 7.75,
-          "calcium": 51.58,
-          "copper": 0.16,
-          "iron": 3.92,
-          "magnesium": 36.14,
-          "manganese": 0.27,
-          "phosphorus": 360.3,
-          "potassium": 737.31,
-          "selenium": 32.94,
-          "sodium": 82.55,
-          "zinc": 6.03
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/striploin-steak-balsamic-bell-peppers/4441",
-      "altVariants": [
-        {
-          "id": 6406,
-          "recipe_id": 657,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Balsamic Bell Peppers",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "published_recipe_uuid": "5a3a7f33-a317-43bd-91a9-97795cfc21d1",
-          "fallback_published_recipe_uuids": [
-            "cc13a2a8-4bff-4561-8606-56a861b93aa3",
-            "6b5dc597-70be-4475-9113-7c99ba012d52"
-          ],
-          "first_published_at": 1550527885000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            24,
-            150,
-            184,
-            279,
-            265,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            2.25,
-            3,
-            44.36025,
-            5.5450349999999995,
-            11.090069999999999,
-            44.36025
-          ],
-          "average_rating": 0.826,
-          "rating_count": 23,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4386,
-          "recipe_id": 657,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Balsamic Bell Peppers",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "published_recipe_uuid": "7b723601-a12e-40ea-8234-9ba2e68e0c86",
-          "fallback_published_recipe_uuids": [
-            "5fe74fdc-9364-4c4c-9fd3-04655b4b3a76"
-          ],
-          "first_published_at": 1537544020000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            24,
-            150,
-            184,
-            279,
-            265,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.75,
-            1,
-            14.7868,
-            1.848345,
-            3.69669,
-            14.7868
-          ],
-          "average_rating": 0.826,
-          "rating_count": 23,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4441,
-          "recipe_id": 657,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Balsamic Bell Peppers",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "published_recipe_uuid": "40f639d5-27b1-4a79-b6f7-92f2035a1330",
-          "fallback_published_recipe_uuids": [
-            "3a5ec336-2a61-48da-8c6d-8dbcd4d2bae8"
-          ],
-          "first_published_at": 1537544021000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            24,
-            150,
-            184,
-            279,
-            265,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1.5,
-            2,
-            29.5735,
-            3.69669,
-            7.39338,
-            29.5735
-          ],
-          "average_rating": 0.826,
-          "rating_count": 23,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6407,
-          "recipe_id": 657,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Balsamic Bell Peppers",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "published_recipe_uuid": "d0e430ca-202c-4710-94b4-9900c317ef63",
-          "fallback_published_recipe_uuids": [
-            "9d8c663b-6b48-4fa7-ae4a-9b922214d087",
-            "abeeb669-dafd-4b2b-82ee-5e0d341247bc"
-          ],
-          "first_published_at": 1550527895000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            150,
-            184,
-            279,
-            265,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.02,
-            3,
-            44.36025,
-            5.5450349999999995,
-            11.090069999999999,
-            44.36025
-          ],
-          "average_rating": 0.826,
-          "rating_count": 23,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4443,
-          "recipe_id": 657,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Balsamic Bell Peppers",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "published_recipe_uuid": "e7c54519-369b-49a3-ad7c-4d6984fe0ad5",
-          "fallback_published_recipe_uuids": [
-            "6d4db18c-0a82-45b2-81fb-43f5601be307"
-          ],
-          "first_published_at": 1537544021000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            24,
-            150,
-            184,
-            279,
-            265,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            0.68,
-            2,
-            29.5735,
-            3.69669,
-            7.39338,
-            29.5735
-          ],
-          "average_rating": 0.826,
-          "rating_count": 23,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4442,
-          "recipe_id": 657,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Balsamic Bell Peppers",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
-          "published_recipe_uuid": "3f22f789-4e41-4f8d-80e9-213b52026391",
-          "fallback_published_recipe_uuids": [
-            "e1041e6d-9cb5-4f62-bdb3-f21778f928b3"
-          ],
-          "first_published_at": 1537544020000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            24,
-            150,
-            184,
-            279,
-            265,
-            131,
-            72,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.34,
-            1,
-            14.7868,
-            1.848345,
-            3.69669,
-            14.7868
-          ],
-          "average_rating": 0.826,
-          "rating_count": 23,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 4441,
+  "recipe_id": 657,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Striploin Steak with Balsamic Bell Peppers",
+  "slug": "striploin-steak-balsamic-bell-peppers",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/thumbnail_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/657/presentation_cb52d9fb-3b00-4992-bcbb-c998679fa887.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "striploin-steak-balsamic-bell-peppers",
-    "variantId": "4441"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 50490,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 red bell peppers\n2 yellow bell peppers"
+    },
+    {
+      "id": 50491,
+      "primary_message": "Quarter the bell peppers lengthwise; remove and discard the stem, seeds, and membranes. Cut the quarters lengthwise into ¼-inch-thick strips. Transfer to a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 50492,
+      "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; cut lengthwise into ¼-inch-thick wedges. Add to the bowl with the bell peppers.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 50493,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the bowl with the peppers and onion.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 50494,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 50495,
+      "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 50496,
+      "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 50497,
+      "primary_message": "Carefully place the steak in the skillet; flipping every 15 to 30 seconds, cook the steak until desired doneness (5 to 7 minutes for medium-rare). (Use a thermometer or cut into the steak to check the doneness.) Once done, transfer the steak to a plate and let it rest for 5 to 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 50498,
+      "primary_message": "Once the steak has been transferred, reduce the heat to medium and add more coconut oil to the skillet.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 50499,
+      "primary_message": "Add the peppers, onion, and garlic to the skillet and season with salt and pepper. Cook, stirring occasionally, until the peppers are just tender and lightly browned, 3 to 5 minutes. Once done, remove from the heat.",
+      "secondary_message": "½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 50500,
+      "primary_message": "Drizzle the peppers with balsamic vinegar and toss to coat.",
+      "secondary_message": "2 tbsp balsamic vinegar"
+    },
+    {
+      "id": 50501,
+      "primary_message": "To serve, divide the steak and bell peppers between plates.",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 53081,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 53083,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 53080,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 53084,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 53082,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 53079,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 53076,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 53077,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 53078,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 463.26,
+    "alcohol": 0,
+    "ash": 4.59,
+    "caffeine": 0,
+    "water": 251.12,
+    "carbs": 12.05,
+    "fiber": 2.39,
+    "starch": 1.1,
+    "sugars": 7.99,
+    "fructose": 4.12,
+    "galactose": 0.01,
+    "glucose": 3.58,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.28,
+    "sugar_alcohol": 0,
+    "fat": 29.89,
+    "monounsaturated": 11.38,
+    "polyunsaturated": 1.32,
+    "omega_3": 0.08,
+    "omega_6": 1.24,
+    "saturated": 15.62,
+    "transfats": 1.35,
+    "cholesterol": 103.76,
+    "protein": 37.61,
+    "alanine": 2.28,
+    "arginine": 2.52,
+    "aspartic_acid": 3.77,
+    "cystine": 0.39,
+    "glutamic_acid": 6.15,
+    "glycine": 1.82,
+    "histidine": 1.35,
+    "isoleucine": 1.71,
+    "leucine": 3.14,
+    "lysine": 3.46,
+    "methionine": 0.98,
+    "phenylalanine": 1.5,
+    "proline": 1.66,
+    "serine": 1.53,
+    "threonine": 1.74,
+    "tryptophan": 0.42,
+    "tyrosine": 1.35,
+    "valine": 1.85,
+    "b1_thiamine": 0.15,
+    "b2_riboflavin": 0.39,
+    "b3_niacin": 11.85,
+    "b5_pantothenic_acid": 0.92,
+    "b6_pyridoxine": 1.25,
+    "b12_cobalamin": 2.77,
+    "choline": 99.76,
+    "folate": 53.29,
+    "vitamin_a": 212.5,
+    "vitamin_c": 187.67,
+    "vitamin_d": 6.8,
+    "vitamin_e": 1.57,
+    "vitamin_k": 7.75,
+    "calcium": 51.58,
+    "copper": 0.16,
+    "iron": 3.92,
+    "magnesium": 36.14,
+    "manganese": 0.27,
+    "phosphorus": 360.3,
+    "potassium": 737.31,
+    "selenium": 32.94,
+    "sodium": 82.55,
+    "zinc": 6.03
+  }
 }

@@ -1,1262 +1,295 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 14740,
-        "recipe_id": 1719,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-        "slug": "spicy-turkey-rice-bowl-butternut-squash-radish-lemon-sauce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 243999,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 small butternut squash\n2 bunches radish\n1 lemon\n1 small bunch green onions (scallions)"
-          },
-          {
-            "id": 244000,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan; add water, salt, and pepper.",
-            "secondary_message": "1 cup basmati rice\n2 cup water\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 244001,
-            "primary_message": "Trim and peel squash; halve lengthwise, scrape out seeds, and small dice the flesh. Add to the saucepan with the rice (do not stir). Bring to a boil over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 244002,
-            "primary_message": "Meanwhile, place vinegar, maple syrup, and spices in a medium bowl; whisk to combine the marinade.",
-            "secondary_message": "2 tbsp apple cider vinegar\n1 tsp pure maple syrup\n½ tsp salt\n⅛ tsp crushed red pepper\n⅛ tsp coriander, ground"
-          },
-          {
-            "id": 244003,
-            "primary_message": "Once the liquid comes to a boil, cover the saucepan, and reduce heat to low. Cook rice and squash until liquid is fully absorbed and squash is tender, about 18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 244004,
-            "primary_message": "While the rice and squash are cooking, trim off and discard tops and root ends of radishes; thinly slice and add to the bowl with the marinade. Toss to coat and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 244005,
-            "primary_message": "Juice lemon into a small bowl; add yogurt and spices. Whisk to combine the lemon sauce and set aside.",
-            "secondary_message": "⅔ cup plain Greek yogurt\n1 tsp garlic powder\n¼ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 244006,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 244007,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add ground turkey and cook, breaking apart with a spoon, until browned and crumbly, 5-6 minutes.",
-            "secondary_message": "4 tsp extra virgin olive oil\n1 ½ lb ground turkey"
-          },
-          {
-            "id": 244008,
-            "primary_message": "Meanwhile, trim and thinly slice green onions crosswise.",
-            "secondary_message": null
-          },
-          {
-            "id": 244009,
-            "primary_message": "Add water and spices to the skillet with the turkey; continue to cook, stirring often, until sauce is reduced by half, about 1 minute. Remove from heat.",
-            "secondary_message": "⅔ cup water\n2 tbsp chili powder\n½ tsp cumin, ground\n½ tsp salt\n½ tsp black pepper\n⅛ tsp crushed red pepper"
-          },
-          {
-            "id": 244010,
-            "primary_message": "To serve, divide rice and squash between bowls; top with turkey, marinated radishes, and green onion. Drizzle with lemon sauce and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 256329,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 256324,
-            "quantity": "1 small",
-            "ingredient_name": "butternut squash"
-          },
-          {
-            "id": 256325,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 256326,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ground turkey"
-          },
-          {
-            "id": 256328,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 256322,
-            "quantity": "⅔ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 256330,
-            "quantity": "2 bunches",
-            "ingredient_name": "radish"
-          },
-          {
-            "id": 256323,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 256315,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 256316,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 256317,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 256319,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 256327,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 256314,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 256318,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 256321,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 256320,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 584.6,
-          "alcohol": 0,
-          "ash": 8.05,
-          "caffeine": 0,
-          "water": 417.61,
-          "carbs": 61.88,
-          "fiber": 8.64,
-          "starch": 4.23,
-          "sugars": 8.09,
-          "fructose": 2.15,
-          "galactose": 0.29,
-          "glucose": 2.73,
-          "lactose": 1.04,
-          "maltose": 0,
-          "sucrose": 2.05,
-          "sugar_alcohol": 0.01,
-          "fat": 19.05,
-          "monounsaturated": 8.14,
-          "polyunsaturated": 4.79,
-          "omega_3": 0.35,
-          "omega_6": 4.43,
-          "saturated": 4.4,
-          "transfats": 0.18,
-          "cholesterol": 119.41,
-          "protein": 44.06,
-          "alanine": 2.57,
-          "arginine": 3.01,
-          "aspartic_acid": 4.26,
-          "cystine": 0.52,
-          "glutamic_acid": 7.35,
-          "glycine": 2.18,
-          "histidine": 1.22,
-          "isoleucine": 1.96,
-          "leucine": 3.59,
-          "lysine": 3.58,
-          "methionine": 1.18,
-          "phenylalanine": 1.76,
-          "proline": 2.08,
-          "serine": 1.91,
-          "threonine": 1.95,
-          "tryptophan": 0.53,
-          "tyrosine": 1.5,
-          "valine": 2.11,
-          "b1_thiamine": 0.52,
-          "b2_riboflavin": 0.56,
-          "b3_niacin": 15.57,
-          "b5_pantothenic_acid": 3,
-          "b6_pyridoxine": 1.41,
-          "b12_cobalamin": 2.01,
-          "choline": 120.81,
-          "folate": 192.76,
-          "vitamin_a": 389.72,
-          "vitamin_c": 44.27,
-          "vitamin_d": 23.81,
-          "vitamin_e": 4.16,
-          "vitamin_k": 62.68,
-          "calcium": 206.66,
-          "copper": 0.49,
-          "iron": 6.41,
-          "magnesium": 116.6,
-          "manganese": 1.09,
-          "phosphorus": 532.61,
-          "potassium": 1207.11,
-          "selenium": 50.75,
-          "sodium": 171.95,
-          "zinc": 5.55
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/spicy-turkey-rice-bowl-butternut-squash-radish-lemon-sauce/14740",
-      "altVariants": [
-        {
-          "id": 14741,
-          "recipe_id": 1719,
-          "group_label": "Default",
-          "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "published_recipe_uuid": "3b01e0bd-6694-4475-aa84-45502d500989",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126140000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            170,
-            192,
-            122,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1,
-            2.25,
-            1.5,
-            1,
-            3,
-            45,
-            8.4375,
-            45,
-            0.9375,
-            1.875,
-            3.75,
-            30,
-            7.5,
-            7.5,
-            17.5
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14744,
-          "recipe_id": 1719,
-          "group_label": "Vegan",
-          "name": "Spicy Sausage Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14744/thumbnail_341a6701-e5cb-4e7c-bee9-867ed45e29e7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14744/presentation_341a6701-e5cb-4e7c-bee9-867ed45e29e7.jpeg",
-          "published_recipe_uuid": "b13a8e24-4070-4b4b-8c22-97e788d700ed",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126149000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            192,
-            345,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1,
-            1.5,
-            6,
-            1.5,
-            22.5,
-            8.4375,
-            45,
-            0.625,
-            1.5625,
-            3.75,
-            30,
-            3.75,
-            3.75,
-            14.6875,
-            135
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14742,
-          "recipe_id": 1719,
-          "group_label": "Vegan",
-          "name": "Spicy Sausage Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14742/thumbnail_703dccd5-af37-46f9-a68a-d3f27df0dc1c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14742/presentation_703dccd5-af37-46f9-a68a-d3f27df0dc1c.jpeg",
-          "published_recipe_uuid": "bd8985ad-b676-4693-b555-768fb83781b2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126142000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            192,
-            345,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            10,
-            2.8125,
-            15,
-            0.3125,
-            0.625,
-            1.25,
-            10,
-            1.25,
-            1.25,
-            4.6875,
-            45
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14740,
-          "recipe_id": 1719,
-          "group_label": "Default",
-          "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "published_recipe_uuid": "b780f7a7-3843-40d9-91be-e13f875289c7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126135000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            170,
-            192,
-            122,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1.5,
-            1,
-            0.6666666666666666,
-            2,
-            30,
-            5.625,
-            30,
-            0.625,
-            1.25,
-            2.5,
-            20,
-            5,
-            5,
-            11.25
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14739,
-          "recipe_id": 1719,
-          "group_label": "Default",
-          "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "published_recipe_uuid": "e3964311-8c70-4e59-acdb-68f7e3209499",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126136000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            170,
-            192,
-            122,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.75,
-            0.5,
-            0.3333333333333333,
-            1,
-            15,
-            2.8125,
-            15,
-            0.3125,
-            0.625,
-            1.25,
-            10,
-            2.5,
-            2.5,
-            5.625
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14743,
-          "recipe_id": 1719,
-          "group_label": "Vegan",
-          "name": "Spicy Sausage Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14743/thumbnail_a2ecaf63-1f01-4ef7-8bc3-9bf762e3977f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14743/presentation_a2ecaf63-1f01-4ef7-8bc3-9bf762e3977f.jpeg",
-          "published_recipe_uuid": "836325f4-b255-4660-8417-f4db46744f60",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126144000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            192,
-            345,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1,
-            4,
-            1,
-            15,
-            5.625,
-            30,
-            0.3125,
-            0.9375,
-            2.5,
-            20,
-            2.5,
-            2.5,
-            9.375,
-            90
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14750,
-          "recipe_id": 1719,
-          "group_label": "Vegan",
-          "name": "Spicy Sausage Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14750/thumbnail_e0dd9868-c0b2-4501-93b3-dee7d93a137c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14750/presentation_e0dd9868-c0b2-4501-93b3-dee7d93a137c.jpeg",
-          "published_recipe_uuid": "1e659ff4-738a-4a31-b236-5f6de06dc5ca",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126155000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            192,
-            345,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1,
-            1.5,
-            6,
-            1.5,
-            22.5,
-            8.4375,
-            45,
-            0.625,
-            1.5625,
-            3.75,
-            30,
-            3.75,
-            3.75,
-            14.6875,
-            135
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14749,
-          "recipe_id": 1719,
-          "group_label": "Vegan",
-          "name": "Spicy Sausage Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14749/thumbnail_779d15c3-4712-4e55-b443-ce12ee2132a8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14749/presentation_779d15c3-4712-4e55-b443-ce12ee2132a8.jpeg",
-          "published_recipe_uuid": "b4155d21-be6b-4b56-ab5e-e4817d8e70d5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126156000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            192,
-            345,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1,
-            4,
-            1,
-            15,
-            5.625,
-            30,
-            0.3125,
-            0.9375,
-            2.5,
-            20,
-            2.5,
-            2.5,
-            9.375,
-            90
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14748,
-          "recipe_id": 1719,
-          "group_label": "Vegan",
-          "name": "Spicy Sausage Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14748/thumbnail_3b2a0dd5-1134-437d-83d1-6a711d6f2718.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/14748/presentation_3b2a0dd5-1134-437d-83d1-6a711d6f2718.jpeg",
-          "published_recipe_uuid": "2d69c410-0b95-48d0-992f-8cd0ba6dc20f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126153000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            192,
-            345,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            10,
-            2.8125,
-            15,
-            0.3125,
-            0.625,
-            1.25,
-            10,
-            1.25,
-            1.25,
-            4.6875,
-            45
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14747,
-          "recipe_id": 1719,
-          "group_label": "Default",
-          "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "published_recipe_uuid": "d01f03fa-97ad-4b26-8d6d-258b713a5e8d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126152000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            170,
-            192,
-            122,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1,
-            1.02,
-            1.5,
-            1,
-            3,
-            45,
-            8.4375,
-            45,
-            0.9375,
-            1.875,
-            3.75,
-            30,
-            7.5,
-            7.5,
-            17.5
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14746,
-          "recipe_id": 1719,
-          "group_label": "Default",
-          "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "published_recipe_uuid": "7d978f68-6944-4bbc-85a9-7325f7d0f279",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126150000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            170,
-            192,
-            122,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.68,
-            1,
-            0.6666666666666666,
-            2,
-            30,
-            5.625,
-            30,
-            0.625,
-            1.25,
-            2.5,
-            20,
-            5,
-            5,
-            11.25
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        },
-        {
-          "id": 14745,
-          "recipe_id": 1719,
-          "group_label": "Default",
-          "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
-          "published_recipe_uuid": "a33a2d48-c98c-413c-80c6-417538d0ba88",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1622126147000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            269,
-            142,
-            153,
-            170,
-            192,
-            122,
-            343,
-            133,
-            72,
-            75,
-            76,
-            85,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.34,
-            0.5,
-            0.3333333333333333,
-            1,
-            15,
-            2.8125,
-            15,
-            0.3125,
-            0.625,
-            1.25,
-            10,
-            2.5,
-            2.5,
-            5.625
-          ],
-          "average_rating": 0.718,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            25
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Balanced and nutritious, this rice bowl is perfect for lunch, dinner, or meal prep!",
-        "keywords": [
-          "Bowls"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 14740,
+  "recipe_id": 1719,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Spicy Turkey Rice Bowl with Butternut Squash, Radish & Lemon Sauce",
+  "slug": "spicy-turkey-rice-bowl-butternut-squash-radish-lemon-sauce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/thumbnail_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1719/presentation_2b0de398-ab21-4dac-84e6-2d2081451648.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "spicy-turkey-rice-bowl-butternut-squash-radish-lemon-sauce",
-    "variantId": "14740"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 243999,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 small butternut squash\n2 bunches radish\n1 lemon\n1 small bunch green onions (scallions)"
+    },
+    {
+      "id": 244000,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan; add water, salt, and pepper.",
+      "secondary_message": "1 cup basmati rice\n2 cup water\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 244001,
+      "primary_message": "Trim and peel squash; halve lengthwise, scrape out seeds, and small dice the flesh. Add to the saucepan with the rice (do not stir). Bring to a boil over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 244002,
+      "primary_message": "Meanwhile, place vinegar, maple syrup, and spices in a medium bowl; whisk to combine the marinade.",
+      "secondary_message": "2 tbsp apple cider vinegar\n1 tsp pure maple syrup\n½ tsp salt\n⅛ tsp crushed red pepper\n⅛ tsp coriander, ground"
+    },
+    {
+      "id": 244003,
+      "primary_message": "Once the liquid comes to a boil, cover the saucepan, and reduce heat to low. Cook rice and squash until liquid is fully absorbed and squash is tender, about 18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 244004,
+      "primary_message": "While the rice and squash are cooking, trim off and discard tops and root ends of radishes; thinly slice and add to the bowl with the marinade. Toss to coat and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 244005,
+      "primary_message": "Juice lemon into a small bowl; add yogurt and spices. Whisk to combine the lemon sauce and set aside.",
+      "secondary_message": "⅔ cup plain Greek yogurt\n1 tsp garlic powder\n¼ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 244006,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 244007,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add ground turkey and cook, breaking apart with a spoon, until browned and crumbly, 5-6 minutes.",
+      "secondary_message": "4 tsp extra virgin olive oil\n1 ½ lb ground turkey"
+    },
+    {
+      "id": 244008,
+      "primary_message": "Meanwhile, trim and thinly slice green onions crosswise.",
+      "secondary_message": null
+    },
+    {
+      "id": 244009,
+      "primary_message": "Add water and spices to the skillet with the turkey; continue to cook, stirring often, until sauce is reduced by half, about 1 minute. Remove from heat.",
+      "secondary_message": "⅔ cup water\n2 tbsp chili powder\n½ tsp cumin, ground\n½ tsp salt\n½ tsp black pepper\n⅛ tsp crushed red pepper"
+    },
+    {
+      "id": 244010,
+      "primary_message": "To serve, divide rice and squash between bowls; top with turkey, marinated radishes, and green onion. Drizzle with lemon sauce and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 256329,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 256324,
+      "quantity": "1 small",
+      "ingredient_name": "butternut squash"
+    },
+    {
+      "id": 256325,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 256326,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ground turkey"
+    },
+    {
+      "id": 256328,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 256322,
+      "quantity": "⅔ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 256330,
+      "quantity": "2 bunches",
+      "ingredient_name": "radish"
+    },
+    {
+      "id": 256323,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 256315,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 256316,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 256317,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 256319,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 256327,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 256314,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 256318,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 256321,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 256320,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 584.6,
+    "alcohol": 0,
+    "ash": 8.05,
+    "caffeine": 0,
+    "water": 417.61,
+    "carbs": 61.88,
+    "fiber": 8.64,
+    "starch": 4.23,
+    "sugars": 8.09,
+    "fructose": 2.15,
+    "galactose": 0.29,
+    "glucose": 2.73,
+    "lactose": 1.04,
+    "maltose": 0,
+    "sucrose": 2.05,
+    "sugar_alcohol": 0.01,
+    "fat": 19.05,
+    "monounsaturated": 8.14,
+    "polyunsaturated": 4.79,
+    "omega_3": 0.35,
+    "omega_6": 4.43,
+    "saturated": 4.4,
+    "transfats": 0.18,
+    "cholesterol": 119.41,
+    "protein": 44.06,
+    "alanine": 2.57,
+    "arginine": 3.01,
+    "aspartic_acid": 4.26,
+    "cystine": 0.52,
+    "glutamic_acid": 7.35,
+    "glycine": 2.18,
+    "histidine": 1.22,
+    "isoleucine": 1.96,
+    "leucine": 3.59,
+    "lysine": 3.58,
+    "methionine": 1.18,
+    "phenylalanine": 1.76,
+    "proline": 2.08,
+    "serine": 1.91,
+    "threonine": 1.95,
+    "tryptophan": 0.53,
+    "tyrosine": 1.5,
+    "valine": 2.11,
+    "b1_thiamine": 0.52,
+    "b2_riboflavin": 0.56,
+    "b3_niacin": 15.57,
+    "b5_pantothenic_acid": 3,
+    "b6_pyridoxine": 1.41,
+    "b12_cobalamin": 2.01,
+    "choline": 120.81,
+    "folate": 192.76,
+    "vitamin_a": 389.72,
+    "vitamin_c": 44.27,
+    "vitamin_d": 23.81,
+    "vitamin_e": 4.16,
+    "vitamin_k": 62.68,
+    "calcium": 206.66,
+    "copper": 0.49,
+    "iron": 6.41,
+    "magnesium": 116.6,
+    "manganese": 1.09,
+    "phosphorus": 532.61,
+    "potassium": 1207.11,
+    "selenium": 50.75,
+    "sodium": 171.95,
+    "zinc": 5.55
+  }
 }

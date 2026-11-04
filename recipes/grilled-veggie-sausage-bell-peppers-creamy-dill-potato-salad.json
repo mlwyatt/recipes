@@ -1,1158 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 19002,
-        "recipe_id": 2203,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-        "slug": "grilled-veggie-sausage-bell-peppers-creamy-dill-potato-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 313886,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 medium yellow potatoes\n4 orange bell peppers\n2 sticks celery\n1 small bunch fresh dill"
-          },
-          {
-            "id": 313887,
-            "primary_message": "Peel and medium dice potatoes; place in a medium saucepan, along with salt, and cover with hot water (from the tap). Bring to a boil, reduce heat to low, and simmer until fork-tender, 10-15 minutes.",
-            "secondary_message": "1 tsp salt"
-          },
-          {
-            "id": 313888,
-            "primary_message": "Meanwhile, trim, seed, and quarter bell peppers. Place in a large bowl along with oil, salt, and pepper; toss to combine.",
-            "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 313889,
-            "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 313890,
-            "primary_message": "Once the grill pan is hot, working in batches if necessary, add peppers (reserve bowl for the next step) and cook, turning occasionally, until soft, 7-8 minutes. Transfer peppers to a plate and cover with aluminum foil (reserve grill pan for later use).",
-            "secondary_message": null
-          },
-          {
-            "id": 313891,
-            "primary_message": "Meanwhile, place mayo, vinegar, Dijon, salt, and pepper in the reserved bowl; whisk to combine the dressing.",
-            "secondary_message": "¼ cup mayonnaise\n2 tbsp apple cider vinegar\n2 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 313892,
-            "primary_message": "Trim and small dice celery; add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 313893,
-            "primary_message": "Shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 313894,
-            "primary_message": "Peel and mince shallot; add to the bowl.",
-            "secondary_message": "1 shallot"
-          },
-          {
-            "id": 313895,
-            "primary_message": "Return grill pan to medium heat. Once the pan is hot, coat with oil; add sausages and cook, turning occasionally, until warmed through, about 5 minutes (or cook according to package instructions). Remove from heat.",
-            "secondary_message": "2 tsp extra virgin olive oil\n4 pre-cooked vegan sausage"
-          },
-          {
-            "id": 313896,
-            "primary_message": "When the potatoes are done, drain and rinse under cold water to cool. Add potatoes to the bowl with the dressing and veggies; stir to combine the potato salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 313897,
-            "primary_message": "Slice cooked peppers into bite-sized pieces.",
-            "secondary_message": null
-          },
-          {
-            "id": 313898,
-            "primary_message": "To serve, divide potato salad, peppers, and sausages between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 333493,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 333496,
-            "quantity": "1 small bunch",
-            "ingredient_name": "fresh dill"
-          },
-          {
-            "id": 333494,
-            "quantity": "4",
-            "ingredient_name": "orange bell peppers"
-          },
-          {
-            "id": 333497,
-            "quantity": "4",
-            "ingredient_name": "pre-cooked vegan sausage"
-          },
-          {
-            "id": 333491,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 333492,
-            "quantity": "4 medium",
-            "ingredient_name": "yellow potatoes"
-          },
-          {
-            "id": 333490,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 333487,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 333489,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 333486,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 333495,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 333488,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 590.22,
-          "alcohol": 0,
-          "ash": 9.34,
-          "caffeine": 0,
-          "water": 374.78,
-          "carbs": 52.03,
-          "fiber": 9.82,
-          "starch": 28.93,
-          "sugars": 10.11,
-          "fructose": 4.58,
-          "galactose": 0.11,
-          "glucose": 3.99,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 1.38,
-          "sugar_alcohol": 0,
-          "fat": 34.61,
-          "monounsaturated": 10.59,
-          "polyunsaturated": 16.25,
-          "omega_3": 1.89,
-          "omega_6": 14.36,
-          "saturated": 5.46,
-          "transfats": 0.07,
-          "cholesterol": 9.14,
-          "protein": 25.71,
-          "alanine": 1.05,
-          "arginine": 1.78,
-          "aspartic_acid": 3.38,
-          "cystine": 0.37,
-          "glutamic_acid": 5.06,
-          "glycine": 0.99,
-          "histidine": 0.62,
-          "isoleucine": 1.15,
-          "leucine": 1.86,
-          "lysine": 1.54,
-          "methionine": 0.33,
-          "phenylalanine": 1.25,
-          "proline": 1.32,
-          "serine": 1.29,
-          "threonine": 0.97,
-          "tryptophan": 0.34,
-          "tyrosine": 0.82,
-          "valine": 1.29,
-          "b1_thiamine": 2.52,
-          "b2_riboflavin": 0.54,
-          "b3_niacin": 14.65,
-          "b5_pantothenic_acid": 1.25,
-          "b6_pyridoxine": 1.51,
-          "b12_cobalamin": 0.02,
-          "choline": 109.38,
-          "folate": 117.26,
-          "vitamin_a": 1052.56,
-          "vitamin_c": 245.45,
-          "vitamin_d": 1.84,
-          "vitamin_e": 4.34,
-          "vitamin_k": 55.45,
-          "calcium": 125.51,
-          "copper": 0.65,
-          "iron": 6.1,
-          "magnesium": 104.62,
-          "manganese": 1.4,
-          "phosphorus": 405.04,
-          "potassium": 1489.22,
-          "selenium": 15.03,
-          "sodium": 969.08,
-          "zinc": 2.45
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-veggie-sausage-bell-peppers-creamy-dill-potato-salad/19002",
-      "altVariants": [
-        {
-          "id": 19006,
-          "recipe_id": 2203,
-          "group_label": "Vegan",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "f2dfff65-239a-440e-ab9b-f36ed6ac1916",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775351000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            6,
-            6,
-            2,
-            6,
-            45,
-            5,
-            15,
-            30,
-            15,
-            90
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19002,
-          "recipe_id": 2203,
-          "group_label": "Default",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "12f61c8e-5e40-431f-b357-2ec108825ac6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775347000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            4,
-            1,
-            4,
-            30,
-            2.5,
-            10,
-            20,
-            60,
-            10
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19001,
-          "recipe_id": 2203,
-          "group_label": "Default",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "a32d31bb-e740-46dc-8185-cfc8a2583eb9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775346000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            2,
-            0.5,
-            2,
-            15,
-            1.25,
-            5,
-            10,
-            30,
-            5
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19005,
-          "recipe_id": 2203,
-          "group_label": "Vegan",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "80938f06-2398-44ce-9aa3-ee12530c4f5e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775351000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            4,
-            1,
-            4,
-            30,
-            2.5,
-            10,
-            20,
-            10,
-            60
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19003,
-          "recipe_id": 2203,
-          "group_label": "Default",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "b781542c-c595-4a34-8a23-36e7a18a05e0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775349000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            6,
-            6,
-            2,
-            6,
-            45,
-            5,
-            15,
-            30,
-            90,
-            15
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19004,
-          "recipe_id": 2203,
-          "group_label": "Vegan",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "19bb29b9-47b2-4148-82de-0467f523936a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775350000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            2,
-            0.5,
-            2,
-            15,
-            1.25,
-            5,
-            10,
-            5,
-            30
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19012,
-          "recipe_id": 2203,
-          "group_label": "Vegan",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "c8ea9872-1a85-49a2-813d-236b2b8ed63b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775354000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            6,
-            6,
-            2,
-            6,
-            45,
-            5,
-            15,
-            30,
-            15,
-            90
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19011,
-          "recipe_id": 2203,
-          "group_label": "Vegan",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "060ac9bb-cf4d-455b-a698-ced3e98aab21",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775353000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            4,
-            1,
-            4,
-            30,
-            2.5,
-            10,
-            20,
-            10,
-            60
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19010,
-          "recipe_id": 2203,
-          "group_label": "Vegan",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "4d2b3f7d-4ccc-4e4b-9d01-9c0c66879c1d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775353000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            2,
-            0.5,
-            2,
-            15,
-            1.25,
-            5,
-            10,
-            5,
-            30
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19009,
-          "recipe_id": 2203,
-          "group_label": "Default",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "52727eae-4c3d-4889-9a70-40df826b7b25",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775352000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            6,
-            6,
-            2,
-            6,
-            45,
-            5,
-            15,
-            30,
-            90,
-            15
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19007,
-          "recipe_id": 2203,
-          "group_label": "Default",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "af92d3ba-a061-4b8b-8985-58ecb83243b2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775352000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            2,
-            0.5,
-            2,
-            15,
-            1.25,
-            5,
-            10,
-            30,
-            5
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        },
-        {
-          "id": 19008,
-          "recipe_id": 2203,
-          "group_label": "Default",
-          "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
-          "published_recipe_uuid": "e4dba443-bf5c-446a-9637-cdf012940662",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1649775352000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            157,
-            320,
-            259,
-            345,
-            144,
-            148,
-            133,
-            72,
-            117,
-            47,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            4,
-            1,
-            4,
-            30,
-            2.5,
-            10,
-            20,
-            60,
-            10
-          ],
-          "average_rating": 0.725,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "For all your backyard grilling party needs, vegetarian edition"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "For all your backyard grilling party needs, vegetarian edition",
-        "keywords": [
-          "BBQ & Grilling"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 19002,
+  "recipe_id": 2203,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Grilled Veggie Sausage & Bell Peppers with Creamy Dill Potato Salad",
+  "slug": "grilled-veggie-sausage-bell-peppers-creamy-dill-potato-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/thumbnail_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2203/presentation_1b6f762d-2b58-4c07-896e-691f626b9c7f.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-veggie-sausage-bell-peppers-creamy-dill-potato-salad",
-    "variantId": "19002"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 313886,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 medium yellow potatoes\n4 orange bell peppers\n2 sticks celery\n1 small bunch fresh dill"
+    },
+    {
+      "id": 313887,
+      "primary_message": "Peel and medium dice potatoes; place in a medium saucepan, along with salt, and cover with hot water (from the tap). Bring to a boil, reduce heat to low, and simmer until fork-tender, 10-15 minutes.",
+      "secondary_message": "1 tsp salt"
+    },
+    {
+      "id": 313888,
+      "primary_message": "Meanwhile, trim, seed, and quarter bell peppers. Place in a large bowl along with oil, salt, and pepper; toss to combine.",
+      "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 313889,
+      "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 313890,
+      "primary_message": "Once the grill pan is hot, working in batches if necessary, add peppers (reserve bowl for the next step) and cook, turning occasionally, until soft, 7-8 minutes. Transfer peppers to a plate and cover with aluminum foil (reserve grill pan for later use).",
+      "secondary_message": null
+    },
+    {
+      "id": 313891,
+      "primary_message": "Meanwhile, place mayo, vinegar, Dijon, salt, and pepper in the reserved bowl; whisk to combine the dressing.",
+      "secondary_message": "¼ cup mayonnaise\n2 tbsp apple cider vinegar\n2 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 313892,
+      "primary_message": "Trim and small dice celery; add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 313893,
+      "primary_message": "Shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 313894,
+      "primary_message": "Peel and mince shallot; add to the bowl.",
+      "secondary_message": "1 shallot"
+    },
+    {
+      "id": 313895,
+      "primary_message": "Return grill pan to medium heat. Once the pan is hot, coat with oil; add sausages and cook, turning occasionally, until warmed through, about 5 minutes (or cook according to package instructions). Remove from heat.",
+      "secondary_message": "2 tsp extra virgin olive oil\n4 pre-cooked vegan sausage"
+    },
+    {
+      "id": 313896,
+      "primary_message": "When the potatoes are done, drain and rinse under cold water to cool. Add potatoes to the bowl with the dressing and veggies; stir to combine the potato salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 313897,
+      "primary_message": "Slice cooked peppers into bite-sized pieces.",
+      "secondary_message": null
+    },
+    {
+      "id": 313898,
+      "primary_message": "To serve, divide potato salad, peppers, and sausages between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 333493,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 333496,
+      "quantity": "1 small bunch",
+      "ingredient_name": "fresh dill"
+    },
+    {
+      "id": 333494,
+      "quantity": "4",
+      "ingredient_name": "orange bell peppers"
+    },
+    {
+      "id": 333497,
+      "quantity": "4",
+      "ingredient_name": "pre-cooked vegan sausage"
+    },
+    {
+      "id": 333491,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 333492,
+      "quantity": "4 medium",
+      "ingredient_name": "yellow potatoes"
+    },
+    {
+      "id": 333490,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 333487,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 333489,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 333486,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 333495,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 333488,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 590.22,
+    "alcohol": 0,
+    "ash": 9.34,
+    "caffeine": 0,
+    "water": 374.78,
+    "carbs": 52.03,
+    "fiber": 9.82,
+    "starch": 28.93,
+    "sugars": 10.11,
+    "fructose": 4.58,
+    "galactose": 0.11,
+    "glucose": 3.99,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 1.38,
+    "sugar_alcohol": 0,
+    "fat": 34.61,
+    "monounsaturated": 10.59,
+    "polyunsaturated": 16.25,
+    "omega_3": 1.89,
+    "omega_6": 14.36,
+    "saturated": 5.46,
+    "transfats": 0.07,
+    "cholesterol": 9.14,
+    "protein": 25.71,
+    "alanine": 1.05,
+    "arginine": 1.78,
+    "aspartic_acid": 3.38,
+    "cystine": 0.37,
+    "glutamic_acid": 5.06,
+    "glycine": 0.99,
+    "histidine": 0.62,
+    "isoleucine": 1.15,
+    "leucine": 1.86,
+    "lysine": 1.54,
+    "methionine": 0.33,
+    "phenylalanine": 1.25,
+    "proline": 1.32,
+    "serine": 1.29,
+    "threonine": 0.97,
+    "tryptophan": 0.34,
+    "tyrosine": 0.82,
+    "valine": 1.29,
+    "b1_thiamine": 2.52,
+    "b2_riboflavin": 0.54,
+    "b3_niacin": 14.65,
+    "b5_pantothenic_acid": 1.25,
+    "b6_pyridoxine": 1.51,
+    "b12_cobalamin": 0.02,
+    "choline": 109.38,
+    "folate": 117.26,
+    "vitamin_a": 1052.56,
+    "vitamin_c": 245.45,
+    "vitamin_d": 1.84,
+    "vitamin_e": 4.34,
+    "vitamin_k": 55.45,
+    "calcium": 125.51,
+    "copper": 0.65,
+    "iron": 6.1,
+    "magnesium": 104.62,
+    "manganese": 1.4,
+    "phosphorus": 405.04,
+    "potassium": 1489.22,
+    "selenium": 15.03,
+    "sodium": 969.08,
+    "zinc": 2.45
+  }
 }

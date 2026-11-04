@@ -1,705 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2924,
-        "recipe_id": 369,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
-        "slug": "indian-inspired-beef-kheema-peas-basmati-rice",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 28412,
-            "primary_message": "Rinse the rice in a colander and transfer to a small saucepan. Add water and salt; bring to a boil.",
-            "secondary_message": "1 cup basmati rice\n2 cups water\n¼ tsp salt"
-          },
-          {
-            "id": 28413,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 tomatoes\n2 (1 inch) pieces ginger root\n1 small bunch cilantro"
-          },
-          {
-            "id": 28414,
-            "primary_message": "Small dice the tomatoes; transfer to a medium bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 28415,
-            "primary_message": "Once the water is boiling, reduce the heat to low, stir, and cover. Cook until the liquid is absorbed, 15-18 minutes. Remove from the heat and let the rice stand, covered, for 5 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 28416,
-            "primary_message": "Heat a skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 28417,
-            "primary_message": "Peel and small dice the onion; transfer to a small bowl.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 28418,
-            "primary_message": "Add coconut oil to the skillet and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 28419,
-            "primary_message": "Add the onions to the skillet and cook, stirring frequently, until softened, 3 to 4 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 28420,
-            "primary_message": "While the onion cooks, peel and mince the ginger; transfer to a small bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 28421,
-            "primary_message": "Peel and mince the garlic; add to the bowl of ginger.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 28422,
-            "primary_message": "Add curry powder to the bowl of ginger and garlic.",
-            "secondary_message": "4 tsp curry powder"
-          },
-          {
-            "id": 28423,
-            "primary_message": "Add the spice mixture to the onions; cook, stirring constantly, for about 1 minute.",
-            "secondary_message": null
-          },
-          {
-            "id": 28424,
-            "primary_message": "Add the ground beef and cook, breaking apart into smaller pieces, until browned, 2 to 3 minutes.",
-            "secondary_message": "1 ½ lb lean ground beef"
-          },
-          {
-            "id": 28425,
-            "primary_message": "Add the tomato, water and season with salt; bring to a boil. Reduce heat to medium-low and simmer for 6 to 8 minutes.",
-            "secondary_message": "1 cup water\n1 tsp salt"
-          },
-          {
-            "id": 28426,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and chop the leaves.",
-            "secondary_message": ""
-          },
-          {
-            "id": 28427,
-            "primary_message": "Add the peas and half of the cilantro (save the rest for garnishing) to the skillet; stir to combine and cook until the peas are warmed through, 2 to 3 minutes.",
-            "secondary_message": "2 cups frozen peas"
-          },
-          {
-            "id": 28428,
-            "primary_message": "Divide the rice between four plates (or two plates and two lunch containers), top with the beef kheema, and garnish with the remaining cilantro. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 36084,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 36080,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 36074,
-            "quantity": "2 cups",
-            "ingredient_name": "frozen peas"
-          },
-          {
-            "id": 36077,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 36081,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 36075,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 36082,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 36079,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 36076,
-            "quantity": "",
-            "ingredient_name": "curry powder"
-          },
-          {
-            "id": 36083,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 36078,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 653.6,
-          "alcohol": 0,
-          "ash": 5.12,
-          "caffeine": 0,
-          "water": 275.17,
-          "carbs": 54.05,
-          "fiber": 6.17,
-          "starch": 4.22,
-          "sugars": 6.49,
-          "fructose": 1.48,
-          "galactose": 0,
-          "glucose": 1.51,
-          "lactose": 0,
-          "maltose": 0.05,
-          "sucrose": 3.41,
-          "sugar_alcohol": 0,
-          "fat": 30.07,
-          "monounsaturated": 11.52,
-          "polyunsaturated": 1.12,
-          "omega_3": 0.24,
-          "omega_6": 0.98,
-          "saturated": 12.88,
-          "transfats": 1.46,
-          "cholesterol": 115.67,
-          "protein": 40.1,
-          "alanine": 2.36,
-          "arginine": 2.67,
-          "aspartic_acid": 3.6,
-          "cystine": 0.42,
-          "glutamic_acid": 6.22,
-          "glycine": 2.44,
-          "histidine": 1.19,
-          "isoleucine": 1.69,
-          "leucine": 2.98,
-          "lysine": 2.98,
-          "methionine": 0.95,
-          "phenylalanine": 1.57,
-          "proline": 1.9,
-          "serine": 1.58,
-          "threonine": 1.5,
-          "tryptophan": 0.23,
-          "tyrosine": 1.17,
-          "valine": 1.93,
-          "b1_thiamine": 0.57,
-          "b2_riboflavin": 0.41,
-          "b3_niacin": 11.73,
-          "b5_pantothenic_acid": 1.99,
-          "b6_pyridoxine": 0.88,
-          "b12_cobalamin": 3.69,
-          "choline": 135.8,
-          "folate": 183.01,
-          "vitamin_a": 560.04,
-          "vitamin_c": 28.78,
-          "vitamin_d": 5.1,
-          "vitamin_e": 1.66,
-          "vitamin_k": 90.06,
-          "calcium": 92.77,
-          "copper": 0.42,
-          "iron": 7.82,
-          "magnesium": 81.34,
-          "manganese": 1.06,
-          "phosphorus": 441.97,
-          "potassium": 966.23,
-          "selenium": 36.04,
-          "sodium": 202.77,
-          "zinc": 9.04
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/indian-inspired-beef-kheema-peas-basmati-rice/2924",
-      "altVariants": [
-        {
-          "id": 5701,
-          "recipe_id": 369,
-          "group_label": "Classic",
-          "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "published_recipe_uuid": "93aa0f35-1f2e-468c-8996-2688e103763f",
-          "fallback_published_recipe_uuids": [
-            "8947972d-605b-4849-869f-da2c98e8661f",
-            "39e06773-89ee-4483-99a0-38028f4bd947"
-          ],
-          "first_published_at": 1550528340000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            188,
-            275,
-            24,
-            221,
-            168,
-            260,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            3,
-            3,
-            3,
-            2.25,
-            3,
-            1.5,
-            29.573549999999997,
-            9.241725,
-            22.1802
-          ],
-          "average_rating": 0.733,
-          "rating_count": 30,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2924,
-          "recipe_id": 369,
-          "group_label": "Classic",
-          "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "published_recipe_uuid": "a9b00874-86f7-4735-9b34-53aa902b953e",
-          "fallback_published_recipe_uuids": [
-            "5105fad9-2c8e-48c0-9f05-2830e7eeceee",
-            "258094cc-f406-463c-a70f-599c64265443",
-            "f956faec-cd22-49b9-a7ee-01e6ee87533d"
-          ],
-          "first_published_at": 1459363225000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            188,
-            275,
-            24,
-            221,
-            168,
-            260,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            2,
-            2,
-            1.5,
-            2,
-            1,
-            19.7157,
-            6.16115,
-            14.7868
-          ],
-          "average_rating": 0.733,
-          "rating_count": 30,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2918,
-          "recipe_id": 369,
-          "group_label": "Classic",
-          "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "published_recipe_uuid": "654892a0-ecf0-4f98-91bf-3b5d77b5e1f4",
-          "fallback_published_recipe_uuids": [
-            "3549ec50-ab13-42b5-9020-37efc41d6a92",
-            "02f1ef55-2f43-4ef9-ab6f-c4f44c4cc4f6",
-            "2f618e52-43a7-4429-bc06-a14c02f53197"
-          ],
-          "first_published_at": 1459362575000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            188,
-            275,
-            24,
-            221,
-            168,
-            260,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.75,
-            1,
-            0.5,
-            9.85784,
-            3.080575,
-            7.39338
-          ],
-          "average_rating": 0.733,
-          "rating_count": 30,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3263,
-          "recipe_id": 369,
-          "group_label": "Classic",
-          "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "published_recipe_uuid": "9f9e1348-fde7-42c3-92ef-d07a998ead20",
-          "fallback_published_recipe_uuids": [
-            "31a9143c-6cf1-435d-b821-74aeee1289ec",
-            "6e11e52d-e380-46e3-ae2f-5de2eed0dba7",
-            "8934b711-7dc6-4564-8698-67fa2ed09272"
-          ],
-          "first_published_at": 1484625240000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            188,
-            275,
-            24,
-            221,
-            168,
-            260,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            2,
-            2,
-            0.68,
-            2,
-            1,
-            19.7157,
-            6.16115,
-            14.7868
-          ],
-          "average_rating": 0.733,
-          "rating_count": 30,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3262,
-          "recipe_id": 369,
-          "group_label": "Classic",
-          "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "published_recipe_uuid": "19cb4af1-ef98-4264-b2af-192bc602f43e",
-          "fallback_published_recipe_uuids": [
-            "a867295e-4a3f-4e86-9b0c-d3eb9629d38c",
-            "65c5d23d-ee36-49c1-af1f-afb5f93665e5",
-            "aade3334-67d3-4458-9b0a-d099ffc00dce"
-          ],
-          "first_published_at": 1484625180000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            188,
-            275,
-            24,
-            221,
-            168,
-            260,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            0.34,
-            1,
-            0.5,
-            9.85784,
-            3.080575,
-            7.39338
-          ],
-          "average_rating": 0.733,
-          "rating_count": 30,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5860,
-          "recipe_id": 369,
-          "group_label": "Classic",
-          "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
-          "published_recipe_uuid": "b8b93763-efa4-45f0-893a-d470f1c11155",
-          "fallback_published_recipe_uuids": [
-            "cc8e6c50-c386-4174-a167-ff139615e4d9",
-            "7be0571a-b430-484f-83d5-67247afe024c"
-          ],
-          "first_published_at": 1550528230000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            269,
-            188,
-            275,
-            24,
-            221,
-            168,
-            260,
-            152,
-            73,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            3,
-            3,
-            3,
-            1.02,
-            3,
-            1.5,
-            29.573549999999997,
-            9.241725,
-            22.1802
-          ],
-          "average_rating": 0.733,
-          "rating_count": 30,
-          "variety_tag_ids": [
-            6
-          ],
-          "cuisine_tag_ids": [
-            17
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Curries"
-        ],
-        "cuisine": "Indian",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2924,
+  "recipe_id": 369,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Indian-Inspired Beef Kheema with Peas & Basmati Rice",
+  "slug": "indian-inspired-beef-kheema-peas-basmati-rice",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/thumbnail_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/369/presentation_3a709c03-de66-47c5-a72c-b1330d5bd57a.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "indian-inspired-beef-kheema-peas-basmati-rice",
-    "variantId": "2924"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 28412,
+      "primary_message": "Rinse the rice in a colander and transfer to a small saucepan. Add water and salt; bring to a boil.",
+      "secondary_message": "1 cup basmati rice\n2 cups water\n¼ tsp salt"
+    },
+    {
+      "id": 28413,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 tomatoes\n2 (1 inch) pieces ginger root\n1 small bunch cilantro"
+    },
+    {
+      "id": 28414,
+      "primary_message": "Small dice the tomatoes; transfer to a medium bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 28415,
+      "primary_message": "Once the water is boiling, reduce the heat to low, stir, and cover. Cook until the liquid is absorbed, 15-18 minutes. Remove from the heat and let the rice stand, covered, for 5 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 28416,
+      "primary_message": "Heat a skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 28417,
+      "primary_message": "Peel and small dice the onion; transfer to a small bowl.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 28418,
+      "primary_message": "Add coconut oil to the skillet and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 28419,
+      "primary_message": "Add the onions to the skillet and cook, stirring frequently, until softened, 3 to 4 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 28420,
+      "primary_message": "While the onion cooks, peel and mince the ginger; transfer to a small bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 28421,
+      "primary_message": "Peel and mince the garlic; add to the bowl of ginger.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 28422,
+      "primary_message": "Add curry powder to the bowl of ginger and garlic.",
+      "secondary_message": "4 tsp curry powder"
+    },
+    {
+      "id": 28423,
+      "primary_message": "Add the spice mixture to the onions; cook, stirring constantly, for about 1 minute.",
+      "secondary_message": null
+    },
+    {
+      "id": 28424,
+      "primary_message": "Add the ground beef and cook, breaking apart into smaller pieces, until browned, 2 to 3 minutes.",
+      "secondary_message": "1 ½ lb lean ground beef"
+    },
+    {
+      "id": 28425,
+      "primary_message": "Add the tomato, water and season with salt; bring to a boil. Reduce heat to medium-low and simmer for 6 to 8 minutes.",
+      "secondary_message": "1 cup water\n1 tsp salt"
+    },
+    {
+      "id": 28426,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and chop the leaves.",
+      "secondary_message": ""
+    },
+    {
+      "id": 28427,
+      "primary_message": "Add the peas and half of the cilantro (save the rest for garnishing) to the skillet; stir to combine and cook until the peas are warmed through, 2 to 3 minutes.",
+      "secondary_message": "2 cups frozen peas"
+    },
+    {
+      "id": 28428,
+      "primary_message": "Divide the rice between four plates (or two plates and two lunch containers), top with the beef kheema, and garnish with the remaining cilantro. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 36084,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 36080,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 36074,
+      "quantity": "2 cups",
+      "ingredient_name": "frozen peas"
+    },
+    {
+      "id": 36077,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 36081,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 36075,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 36082,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 36079,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 36076,
+      "quantity": "",
+      "ingredient_name": "curry powder"
+    },
+    {
+      "id": 36083,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 36078,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 653.6,
+    "alcohol": 0,
+    "ash": 5.12,
+    "caffeine": 0,
+    "water": 275.17,
+    "carbs": 54.05,
+    "fiber": 6.17,
+    "starch": 4.22,
+    "sugars": 6.49,
+    "fructose": 1.48,
+    "galactose": 0,
+    "glucose": 1.51,
+    "lactose": 0,
+    "maltose": 0.05,
+    "sucrose": 3.41,
+    "sugar_alcohol": 0,
+    "fat": 30.07,
+    "monounsaturated": 11.52,
+    "polyunsaturated": 1.12,
+    "omega_3": 0.24,
+    "omega_6": 0.98,
+    "saturated": 12.88,
+    "transfats": 1.46,
+    "cholesterol": 115.67,
+    "protein": 40.1,
+    "alanine": 2.36,
+    "arginine": 2.67,
+    "aspartic_acid": 3.6,
+    "cystine": 0.42,
+    "glutamic_acid": 6.22,
+    "glycine": 2.44,
+    "histidine": 1.19,
+    "isoleucine": 1.69,
+    "leucine": 2.98,
+    "lysine": 2.98,
+    "methionine": 0.95,
+    "phenylalanine": 1.57,
+    "proline": 1.9,
+    "serine": 1.58,
+    "threonine": 1.5,
+    "tryptophan": 0.23,
+    "tyrosine": 1.17,
+    "valine": 1.93,
+    "b1_thiamine": 0.57,
+    "b2_riboflavin": 0.41,
+    "b3_niacin": 11.73,
+    "b5_pantothenic_acid": 1.99,
+    "b6_pyridoxine": 0.88,
+    "b12_cobalamin": 3.69,
+    "choline": 135.8,
+    "folate": 183.01,
+    "vitamin_a": 560.04,
+    "vitamin_c": 28.78,
+    "vitamin_d": 5.1,
+    "vitamin_e": 1.66,
+    "vitamin_k": 90.06,
+    "calcium": 92.77,
+    "copper": 0.42,
+    "iron": 7.82,
+    "magnesium": 81.34,
+    "manganese": 1.06,
+    "phosphorus": 441.97,
+    "potassium": 966.23,
+    "selenium": 36.04,
+    "sodium": 202.77,
+    "zinc": 9.04
+  }
 }

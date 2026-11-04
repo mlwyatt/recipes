@@ -1,691 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 24713,
-        "recipe_id": 2777,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
-        "slug": "grilled-ribeye-spicy-miso-sauce-sesame-steamed-veggies",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 398881,
-            "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 398882,
-            "primary_message": "While the grill pan heats up, pat the steak dry with paper towels and place on a plate; season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb ribeye steak\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 398883,
-            "primary_message": "Once the grill pan is hot, coat with oil; add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate, loosely cover with aluminum foil, and set aside to rest, 5 minutes.",
-            "secondary_message": "2 tsp toasted sesame oil"
-          },
-          {
-            "id": 398884,
-            "primary_message": "Meanwhile, fill a large pot with 2-inches of hot water (from the tap), cover, and bring to a boil over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 398885,
-            "primary_message": "While the water comes to a boil, peel and mince shallot. Place in a small bowl along with miso paste, chili-garlic sauce, oil, sesame seeds, sugar, and garlic powder. Stir to combine the spicy miso sauce and set aside.",
-            "secondary_message": "1 shallot\n3 tbsp miso paste, white\n4 tsp chili-garlic sauce\n4 tsp toasted sesame oil\n2 tsp sesame seeds\n2 tsp brown sugar\n½ tsp garlic powder"
-          },
-          {
-            "id": 398886,
-            "primary_message": "Once the water is boiling, reduce heat to medium, then add cauliflower and broccoli. Re-cover and steam until veggies are fork tender, 5-6 minutes.",
-            "secondary_message": "2 (10 oz) bags cauliflower florets\n1 (18 oz) bag broccoli florets"
-          },
-          {
-            "id": 398887,
-            "primary_message": "When the veggies are done, drain and return to the pot. Drizzle with oil, sprinkle with sesame seeds, and season with salt and pepper; toss to coat.",
-            "secondary_message": "4 tsp toasted sesame oil\n4 tsp sesame seeds\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 398888,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": null
-          },
-          {
-            "id": 398889,
-            "primary_message": "To serve, divide steak and veggies between plates; drizzle steak with spicy miso sauce. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 426262,
-            "quantity": "1 (18 oz) bag",
-            "ingredient_name": "broccoli florets"
-          },
-          {
-            "id": 426263,
-            "quantity": "2 (10 oz) bags",
-            "ingredient_name": "cauliflower florets"
-          },
-          {
-            "id": 426261,
-            "quantity": "45 ml",
-            "ingredient_name": "miso paste, white"
-          },
-          {
-            "id": 426260,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ribeye steak"
-          },
-          {
-            "id": 426256,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 426253,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 426258,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 426259,
-            "quantity": "",
-            "ingredient_name": "chili-garlic sauce"
-          },
-          {
-            "id": 426254,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 426255,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 426257,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          },
-          {
-            "id": 426252,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 684.68,
-          "alcohol": 0,
-          "ash": 8.12,
-          "caffeine": 0,
-          "water": 361.74,
-          "carbs": 23.92,
-          "fiber": 7.96,
-          "starch": 0.39,
-          "sugars": 8.92,
-          "fructose": 3.1,
-          "galactose": 0,
-          "glucose": 2.2,
-          "lactose": 0.27,
-          "maltose": 0.29,
-          "sucrose": 3,
-          "sugar_alcohol": 0,
-          "fat": 49.95,
-          "monounsaturated": 21.79,
-          "polyunsaturated": 8.13,
-          "omega_3": 0.26,
-          "omega_6": 7.86,
-          "saturated": 17.39,
-          "transfats": 2.12,
-          "cholesterol": 115.67,
-          "protein": 40.43,
-          "alanine": 2.35,
-          "arginine": 2.75,
-          "aspartic_acid": 3.96,
-          "cystine": 0.4,
-          "glutamic_acid": 6.68,
-          "glycine": 1.87,
-          "histidine": 1.37,
-          "isoleucine": 1.76,
-          "leucine": 3.17,
-          "lysine": 3.54,
-          "methionine": 0.98,
-          "phenylalanine": 1.6,
-          "proline": 1.78,
-          "serine": 1.69,
-          "threonine": 1.79,
-          "tryptophan": 0.46,
-          "tyrosine": 1.38,
-          "valine": 2.02,
-          "b1_thiamine": 0.4,
-          "b2_riboflavin": 0.69,
-          "b3_niacin": 9.89,
-          "b5_pantothenic_acid": 2.6,
-          "b6_pyridoxine": 1.25,
-          "b12_cobalamin": 2.99,
-          "choline": 167.7,
-          "folate": 176.81,
-          "vitamin_a": 867.96,
-          "vitamin_c": 183.26,
-          "vitamin_d": 10.21,
-          "vitamin_e": 1.74,
-          "vitamin_k": 159.94,
-          "calcium": 122.28,
-          "copper": 0.36,
-          "iron": 5.4,
-          "magnesium": 105.52,
-          "manganese": 0.86,
-          "phosphorus": 423.08,
-          "potassium": 1292.76,
-          "selenium": 46.39,
-          "sodium": 598.15,
-          "zinc": 9.6
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-ribeye-spicy-miso-sauce-sesame-steamed-veggies/24713",
-      "altVariants": [
-        {
-          "id": 24713,
-          "recipe_id": 2777,
-          "group_label": "Default",
-          "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "published_recipe_uuid": "4de0fa68-5c9c-4477-b4bc-02a5808ed0cd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682453119000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            14,
-            10,
-            9
-          ],
-          "ingredient_ids": [
-            428,
-            429,
-            422,
-            307,
-            144,
-            72,
-            293,
-            306,
-            79,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            45,
-            1.5,
-            1,
-            3.75,
-            10,
-            20,
-            2.5,
-            7.5,
-            30,
-            50
-          ],
-          "average_rating": 0.795,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Topped with a delicious savory-nutty miso sauce this is a steak you don't want to miss!"
-        },
-        {
-          "id": 24712,
-          "recipe_id": 2777,
-          "group_label": "Default",
-          "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "published_recipe_uuid": "5fa965c6-6a99-4f20-9420-6f425e650d68",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682453119000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            14,
-            10,
-            9
-          ],
-          "ingredient_ids": [
-            428,
-            429,
-            422,
-            307,
-            144,
-            72,
-            293,
-            306,
-            79,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            22.5,
-            0.75,
-            0.5,
-            1.875,
-            5,
-            10,
-            1.25,
-            3.75,
-            15,
-            25
-          ],
-          "average_rating": 0.795,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Topped with a delicious savory-nutty miso sauce this is a steak you don't want to miss!"
-        },
-        {
-          "id": 24714,
-          "recipe_id": 2777,
-          "group_label": "Default",
-          "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "published_recipe_uuid": "773a6d3b-534d-49f2-a9b1-5b1d63a5ebae",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682453118000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            14,
-            10,
-            9
-          ],
-          "ingredient_ids": [
-            428,
-            429,
-            422,
-            307,
-            144,
-            72,
-            293,
-            306,
-            79,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            67.5,
-            2.25,
-            2,
-            6.25,
-            15,
-            30,
-            3.75,
-            11.25,
-            45,
-            75
-          ],
-          "average_rating": 0.795,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Topped with a delicious savory-nutty miso sauce this is a steak you don't want to miss!"
-        },
-        {
-          "id": 24717,
-          "recipe_id": 2777,
-          "group_label": "Default",
-          "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "published_recipe_uuid": "174a3f1e-c7d8-4143-b64d-fec4aed78166",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682453117000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            14,
-            10,
-            9
-          ],
-          "ingredient_ids": [
-            428,
-            429,
-            422,
-            307,
-            144,
-            72,
-            293,
-            306,
-            79,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            67.5,
-            1.02,
-            2,
-            6.25,
-            15,
-            30,
-            3.75,
-            11.25,
-            45,
-            75
-          ],
-          "average_rating": 0.795,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Topped with a delicious savory-nutty miso sauce this is a steak you don't want to miss!"
-        },
-        {
-          "id": 24716,
-          "recipe_id": 2777,
-          "group_label": "Default",
-          "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "published_recipe_uuid": "0113ab5c-b0aa-4a4f-be49-b2cd50b360c1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682453118000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            14,
-            10,
-            9
-          ],
-          "ingredient_ids": [
-            428,
-            429,
-            422,
-            307,
-            144,
-            72,
-            293,
-            306,
-            79,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            45,
-            0.68,
-            1,
-            3.75,
-            10,
-            20,
-            2.5,
-            7.5,
-            30,
-            50
-          ],
-          "average_rating": 0.795,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Topped with a delicious savory-nutty miso sauce this is a steak you don't want to miss!"
-        },
-        {
-          "id": 24715,
-          "recipe_id": 2777,
-          "group_label": "Default",
-          "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
-          "published_recipe_uuid": "242e9280-974f-47e1-8c7b-50d291194fc2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682453118000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            14,
-            10,
-            9
-          ],
-          "ingredient_ids": [
-            428,
-            429,
-            422,
-            307,
-            144,
-            72,
-            293,
-            306,
-            79,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            22.5,
-            0.34,
-            0.5,
-            1.875,
-            5,
-            10,
-            1.25,
-            3.75,
-            15,
-            25
-          ],
-          "average_rating": 0.795,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            13
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Topped with a delicious savory-nutty miso sauce this is a steak you don't want to miss!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Topped with a delicious savory-nutty miso sauce this is a steak you don't want to miss!",
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "Asian",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 24713,
+  "recipe_id": 2777,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Grilled Ribeye with Spicy Miso Sauce & Sesame Steamed Veggies",
+  "slug": "grilled-ribeye-spicy-miso-sauce-sesame-steamed-veggies",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/thumbnail_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2777/presentation_f3e3f374-78f9-48a3-9125-5fd27bcce97a.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-ribeye-spicy-miso-sauce-sesame-steamed-veggies",
-    "variantId": "24713"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 398881,
+      "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 398882,
+      "primary_message": "While the grill pan heats up, pat the steak dry with paper towels and place on a plate; season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb ribeye steak\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 398883,
+      "primary_message": "Once the grill pan is hot, coat with oil; add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate, loosely cover with aluminum foil, and set aside to rest, 5 minutes.",
+      "secondary_message": "2 tsp toasted sesame oil"
+    },
+    {
+      "id": 398884,
+      "primary_message": "Meanwhile, fill a large pot with 2-inches of hot water (from the tap), cover, and bring to a boil over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 398885,
+      "primary_message": "While the water comes to a boil, peel and mince shallot. Place in a small bowl along with miso paste, chili-garlic sauce, oil, sesame seeds, sugar, and garlic powder. Stir to combine the spicy miso sauce and set aside.",
+      "secondary_message": "1 shallot\n3 tbsp miso paste, white\n4 tsp chili-garlic sauce\n4 tsp toasted sesame oil\n2 tsp sesame seeds\n2 tsp brown sugar\n½ tsp garlic powder"
+    },
+    {
+      "id": 398886,
+      "primary_message": "Once the water is boiling, reduce heat to medium, then add cauliflower and broccoli. Re-cover and steam until veggies are fork tender, 5-6 minutes.",
+      "secondary_message": "2 (10 oz) bags cauliflower florets\n1 (18 oz) bag broccoli florets"
+    },
+    {
+      "id": 398887,
+      "primary_message": "When the veggies are done, drain and return to the pot. Drizzle with oil, sprinkle with sesame seeds, and season with salt and pepper; toss to coat.",
+      "secondary_message": "4 tsp toasted sesame oil\n4 tsp sesame seeds\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 398888,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": null
+    },
+    {
+      "id": 398889,
+      "primary_message": "To serve, divide steak and veggies between plates; drizzle steak with spicy miso sauce. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 426262,
+      "quantity": "1 (18 oz) bag",
+      "ingredient_name": "broccoli florets"
+    },
+    {
+      "id": 426263,
+      "quantity": "2 (10 oz) bags",
+      "ingredient_name": "cauliflower florets"
+    },
+    {
+      "id": 426261,
+      "quantity": "45 ml",
+      "ingredient_name": "miso paste, white"
+    },
+    {
+      "id": 426260,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ribeye steak"
+    },
+    {
+      "id": 426256,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 426253,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 426258,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 426259,
+      "quantity": "",
+      "ingredient_name": "chili-garlic sauce"
+    },
+    {
+      "id": 426254,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 426255,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 426257,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    },
+    {
+      "id": 426252,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 684.68,
+    "alcohol": 0,
+    "ash": 8.12,
+    "caffeine": 0,
+    "water": 361.74,
+    "carbs": 23.92,
+    "fiber": 7.96,
+    "starch": 0.39,
+    "sugars": 8.92,
+    "fructose": 3.1,
+    "galactose": 0,
+    "glucose": 2.2,
+    "lactose": 0.27,
+    "maltose": 0.29,
+    "sucrose": 3,
+    "sugar_alcohol": 0,
+    "fat": 49.95,
+    "monounsaturated": 21.79,
+    "polyunsaturated": 8.13,
+    "omega_3": 0.26,
+    "omega_6": 7.86,
+    "saturated": 17.39,
+    "transfats": 2.12,
+    "cholesterol": 115.67,
+    "protein": 40.43,
+    "alanine": 2.35,
+    "arginine": 2.75,
+    "aspartic_acid": 3.96,
+    "cystine": 0.4,
+    "glutamic_acid": 6.68,
+    "glycine": 1.87,
+    "histidine": 1.37,
+    "isoleucine": 1.76,
+    "leucine": 3.17,
+    "lysine": 3.54,
+    "methionine": 0.98,
+    "phenylalanine": 1.6,
+    "proline": 1.78,
+    "serine": 1.69,
+    "threonine": 1.79,
+    "tryptophan": 0.46,
+    "tyrosine": 1.38,
+    "valine": 2.02,
+    "b1_thiamine": 0.4,
+    "b2_riboflavin": 0.69,
+    "b3_niacin": 9.89,
+    "b5_pantothenic_acid": 2.6,
+    "b6_pyridoxine": 1.25,
+    "b12_cobalamin": 2.99,
+    "choline": 167.7,
+    "folate": 176.81,
+    "vitamin_a": 867.96,
+    "vitamin_c": 183.26,
+    "vitamin_d": 10.21,
+    "vitamin_e": 1.74,
+    "vitamin_k": 159.94,
+    "calcium": 122.28,
+    "copper": 0.36,
+    "iron": 5.4,
+    "magnesium": 105.52,
+    "manganese": 0.86,
+    "phosphorus": 423.08,
+    "potassium": 1292.76,
+    "selenium": 46.39,
+    "sodium": 598.15,
+    "zinc": 9.6
+  }
 }

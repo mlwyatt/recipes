@@ -1,544 +1,165 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 30308,
-        "recipe_id": 3377,
-        "serving_count": 4,
-        "cooking_minutes": 18,
-        "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
-        "slug": "cottage-cheese-apricot-bites-almonds-sesame-honey-cinnamon",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 483125,
-            "primary_message": "Wash, dry, and halve apricots lengthwise (around the pit); twist halves to separate, then remove and discard pits. Arrange on a baking sheet pan or platter, cut-side facing up.",
-            "secondary_message": "12 apricots"
-          },
-          {
-            "id": 483126,
-            "primary_message": "Top each apricot half with 1 tablespoon of cottage cheese.",
-            "secondary_message": "1 ⅓ cups cottage cheese"
-          },
-          {
-            "id": 483127,
-            "primary_message": "Roughly chop almonds. Sprinkle almonds and sesame seeds over the apricots.",
-            "secondary_message": "⅔ cup almonds\n1 tsp sesame seeds"
-          },
-          {
-            "id": 483128,
-            "primary_message": "To serve, divide apricots between plates. Drizzle with honey and sprinkle with cinnamon. Enjoy!",
-            "secondary_message": "3 tbsp honey\n½ tsp cinnamon, ground"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 518841,
-            "quantity": "⅔ cup",
-            "ingredient_name": "almonds"
-          },
-          {
-            "id": 518846,
-            "quantity": "12",
-            "ingredient_name": "apricots"
-          },
-          {
-            "id": 518845,
-            "quantity": "1 ⅓ cups",
-            "ingredient_name": "cottage cheese"
-          },
-          {
-            "id": 518842,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          },
-          {
-            "id": 518843,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 518844,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          }
-        ],
-        "nutrition": {
-          "energy": 331.81,
-          "alcohol": 0,
-          "ash": 1.84,
-          "caffeine": 0,
-          "water": 180.92,
-          "carbs": 36.32,
-          "fiber": 5.98,
-          "starch": 13.49,
-          "sugars": 28.78,
-          "fructose": 6.63,
-          "galactose": 0.52,
-          "glucose": 5.81,
-          "lactose": 2.02,
-          "maltose": 0.24,
-          "sucrose": 1.09,
-          "sugar_alcohol": 0,
-          "fat": 16.17,
-          "monounsaturated": 8.53,
-          "polyunsaturated": 3.34,
-          "omega_3": 0.02,
-          "omega_6": 3.32,
-          "saturated": 2.32,
-          "transfats": 0,
-          "cholesterol": 12.87,
-          "protein": 15.57,
-          "alanine": 0.54,
-          "arginine": 0.99,
-          "aspartic_acid": 1.34,
-          "cystine": 0.11,
-          "glutamic_acid": 3.49,
-          "glycine": 0.52,
-          "histidine": 0.38,
-          "isoleucine": 0.63,
-          "leucine": 1.21,
-          "lysine": 0.85,
-          "methionine": 0.25,
-          "phenylalanine": 0.72,
-          "proline": 1.19,
-          "serine": 0.71,
-          "threonine": 0.53,
-          "tryptophan": 0.17,
-          "tyrosine": 0.57,
-          "valine": 0.78,
-          "b1_thiamine": 0.12,
-          "b2_riboflavin": 0.46,
-          "b3_niacin": 1.82,
-          "b5_pantothenic_acid": 0.55,
-          "b6_pyridoxine": 0.15,
-          "b12_cobalamin": 0.33,
-          "choline": 30.72,
-          "folate": 32.98,
-          "vitamin_a": 107.96,
-          "vitamin_c": 13.59,
-          "vitamin_d": 0.08,
-          "vitamin_e": 7.39,
-          "vitamin_k": 4.56,
-          "calcium": 145.95,
-          "copper": 0.39,
-          "iron": 1.61,
-          "magnesium": 87.16,
-          "manganese": 0.6,
-          "phosphorus": 272.21,
-          "potassium": 615.82,
-          "selenium": 8.87,
-          "sodium": 241.12,
-          "zinc": 1.41
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cottage-cheese-apricot-bites-almonds-sesame-honey-cinnamon/30308",
-      "altVariants": [
-        {
-          "id": 30308,
-          "recipe_id": 3377,
-          "group_label": "Default",
-          "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "published_recipe_uuid": "edcb9f2e-ab71-4ee8-88d4-3b84203a10e3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465796000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            12,
-            2
-          ],
-          "ingredient_ids": [
-            29,
-            468,
-            467,
-            74,
-            103,
-            181
-          ],
-          "ingredient_amounts": [
-            0.6666666666666666,
-            12,
-            1.3333333333333333,
-            2.5,
-            45,
-            5
-          ],
-          "average_rating": 0,
-          "rating_count": 0,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30307,
-          "recipe_id": 3377,
-          "group_label": "Default",
-          "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "published_recipe_uuid": "44b3afdd-c26c-4c86-862c-98fdd7f1b3d0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465796000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            12,
-            2
-          ],
-          "ingredient_ids": [
-            29,
-            468,
-            467,
-            74,
-            103,
-            181
-          ],
-          "ingredient_amounts": [
-            0.3333333333333333,
-            6,
-            0.6666666666666666,
-            1.25,
-            20,
-            2.5
-          ],
-          "average_rating": 0,
-          "rating_count": 0,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30309,
-          "recipe_id": 3377,
-          "group_label": "Default",
-          "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "published_recipe_uuid": "f6df8baf-ada5-4011-bcdf-5ade46d08f31",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465795000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            12,
-            2
-          ],
-          "ingredient_ids": [
-            29,
-            468,
-            467,
-            74,
-            103,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            18,
-            2,
-            3.75,
-            60,
-            7.5
-          ],
-          "average_rating": 0,
-          "rating_count": 0,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30312,
-          "recipe_id": 3377,
-          "group_label": "Default",
-          "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "published_recipe_uuid": "075181c1-b2c2-4c3f-9259-306d3ca6cb4e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465794000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            12,
-            2
-          ],
-          "ingredient_ids": [
-            29,
-            468,
-            467,
-            74,
-            103,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            18,
-            2,
-            3.75,
-            60,
-            7.5
-          ],
-          "average_rating": 0,
-          "rating_count": 0,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30311,
-          "recipe_id": 3377,
-          "group_label": "Default",
-          "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "published_recipe_uuid": "47fb2ee3-3baa-4c24-bf21-ab2cd744e90a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465794000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            12,
-            2
-          ],
-          "ingredient_ids": [
-            29,
-            468,
-            467,
-            74,
-            103,
-            181
-          ],
-          "ingredient_amounts": [
-            0.6666666666666666,
-            12,
-            1.3333333333333333,
-            2.5,
-            45,
-            5
-          ],
-          "average_rating": 0,
-          "rating_count": 0,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30310,
-          "recipe_id": 3377,
-          "group_label": "Default",
-          "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
-          "published_recipe_uuid": "25b62114-bb61-4ea1-968a-f15f8f9f0c3d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465795000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6,
-            12,
-            2
-          ],
-          "ingredient_ids": [
-            29,
-            468,
-            467,
-            74,
-            103,
-            181
-          ],
-          "ingredient_amounts": [
-            0.3333333333333333,
-            6,
-            0.6666666666666666,
-            1.25,
-            20,
-            2.5
-          ],
-          "average_rating": 0,
-          "rating_count": 0,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-            3
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Snack",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "Middle Eastern",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 30308,
+  "recipe_id": 3377,
+  "serving_count": 4,
+  "cooking_minutes": 18,
+  "name": "Cottage Cheese Apricot Bites with Almonds, Sesame, Honey & Cinnamon",
+  "slug": "cottage-cheese-apricot-bites-almonds-sesame-honey-cinnamon",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/thumbnail_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3377/presentation_c1be8f90-bfdd-48a4-af63-0c9e27e99294.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cottage-cheese-apricot-bites-almonds-sesame-honey-cinnamon",
-    "variantId": "30308"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 483125,
+      "primary_message": "Wash, dry, and halve apricots lengthwise (around the pit); twist halves to separate, then remove and discard pits. Arrange on a baking sheet pan or platter, cut-side facing up.",
+      "secondary_message": "12 apricots"
+    },
+    {
+      "id": 483126,
+      "primary_message": "Top each apricot half with 1 tablespoon of cottage cheese.",
+      "secondary_message": "1 ⅓ cups cottage cheese"
+    },
+    {
+      "id": 483127,
+      "primary_message": "Roughly chop almonds. Sprinkle almonds and sesame seeds over the apricots.",
+      "secondary_message": "⅔ cup almonds\n1 tsp sesame seeds"
+    },
+    {
+      "id": 483128,
+      "primary_message": "To serve, divide apricots between plates. Drizzle with honey and sprinkle with cinnamon. Enjoy!",
+      "secondary_message": "3 tbsp honey\n½ tsp cinnamon, ground"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 518841,
+      "quantity": "⅔ cup",
+      "ingredient_name": "almonds"
+    },
+    {
+      "id": 518846,
+      "quantity": "12",
+      "ingredient_name": "apricots"
+    },
+    {
+      "id": 518845,
+      "quantity": "1 ⅓ cups",
+      "ingredient_name": "cottage cheese"
+    },
+    {
+      "id": 518842,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    },
+    {
+      "id": 518843,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 518844,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    }
+  ],
+  "nutrition": {
+    "energy": 331.81,
+    "alcohol": 0,
+    "ash": 1.84,
+    "caffeine": 0,
+    "water": 180.92,
+    "carbs": 36.32,
+    "fiber": 5.98,
+    "starch": 13.49,
+    "sugars": 28.78,
+    "fructose": 6.63,
+    "galactose": 0.52,
+    "glucose": 5.81,
+    "lactose": 2.02,
+    "maltose": 0.24,
+    "sucrose": 1.09,
+    "sugar_alcohol": 0,
+    "fat": 16.17,
+    "monounsaturated": 8.53,
+    "polyunsaturated": 3.34,
+    "omega_3": 0.02,
+    "omega_6": 3.32,
+    "saturated": 2.32,
+    "transfats": 0,
+    "cholesterol": 12.87,
+    "protein": 15.57,
+    "alanine": 0.54,
+    "arginine": 0.99,
+    "aspartic_acid": 1.34,
+    "cystine": 0.11,
+    "glutamic_acid": 3.49,
+    "glycine": 0.52,
+    "histidine": 0.38,
+    "isoleucine": 0.63,
+    "leucine": 1.21,
+    "lysine": 0.85,
+    "methionine": 0.25,
+    "phenylalanine": 0.72,
+    "proline": 1.19,
+    "serine": 0.71,
+    "threonine": 0.53,
+    "tryptophan": 0.17,
+    "tyrosine": 0.57,
+    "valine": 0.78,
+    "b1_thiamine": 0.12,
+    "b2_riboflavin": 0.46,
+    "b3_niacin": 1.82,
+    "b5_pantothenic_acid": 0.55,
+    "b6_pyridoxine": 0.15,
+    "b12_cobalamin": 0.33,
+    "choline": 30.72,
+    "folate": 32.98,
+    "vitamin_a": 107.96,
+    "vitamin_c": 13.59,
+    "vitamin_d": 0.08,
+    "vitamin_e": 7.39,
+    "vitamin_k": 4.56,
+    "calcium": 145.95,
+    "copper": 0.39,
+    "iron": 1.61,
+    "magnesium": 87.16,
+    "manganese": 0.6,
+    "phosphorus": 272.21,
+    "potassium": 615.82,
+    "selenium": 8.87,
+    "sodium": 241.12,
+    "zinc": 1.41
+  }
 }

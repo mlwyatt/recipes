@@ -1,1020 +1,215 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 23183,
-        "recipe_id": 2597,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
-        "slug": "beef-lasagna-noodle-soup-carrots-spinach-basil",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 57,
-            "name": "ladle",
-            "slug": "ladle"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 381929,
-            "primary_message": "Preheat a large pot over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 381930,
-            "primary_message": "Once the pot is hot, add beef, carrots, and spices. Cook, breaking the meat apart with a spoon, until almost cooked through, 4-5 minutes.",
-            "secondary_message": "1 ½ lb lean ground beef\n1 (10 oz) bag shredded carrots\n2 tsp onion powder\n2 tsp Italian seasoning\n1 tsp salt"
-          },
-          {
-            "id": 381931,
-            "primary_message": "Meanwhile, break lasagna noodles into bite-sized pieces. ",
-            "secondary_message": "8 no-boil lasagna noodles"
-          },
-          {
-            "id": 381932,
-            "primary_message": "When the beef is done, add noodles, broth, and tomato sauce to the pot; stir to combine the soup and bring to a boil. Once boiling, reduce heat to low and simmer until noodles start to soften, 7-8 minutes. ",
-            "secondary_message": "40 fl oz (5 cups) chicken or vegetable broth\n2 (8 oz) cans tomato sauce"
-          },
-          {
-            "id": 381933,
-            "primary_message": "While the soup is cooking, wash, dry, and pick basil leaves off the stems; roll up crosswise and thinly slice into ribbons.",
-            "secondary_message": "1 small pkg fresh basil"
-          },
-          {
-            "id": 381934,
-            "primary_message": "Add spinach and half of the basil to the pot (reserve remaining basil for serving). Return soup to a simmer and continue to cook, stirring occasionally, until spinach is warmed through and noodles are tender, 3-4 minutes more. ",
-            "secondary_message": "1 (16oz) bag frozen chopped spinach"
-          },
-          {
-            "id": 381935,
-            "primary_message": "To serve, divide soup between bowls and top with reserved basil. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 407669,
-            "quantity": "40 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 407662,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 407670,
-            "quantity": "1 (16oz) bag",
-            "ingredient_name": "frozen chopped spinach"
-          },
-          {
-            "id": 407666,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 407667,
-            "quantity": "8",
-            "ingredient_name": "no-boil lasagna noodles"
-          },
-          {
-            "id": 407671,
-            "quantity": "1 (10 oz) bag",
-            "ingredient_name": "shredded carrots"
-          },
-          {
-            "id": 407665,
-            "quantity": "2 (8 oz) cans",
-            "ingredient_name": "tomato sauce"
-          },
-          {
-            "id": 407663,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 407668,
-            "quantity": "",
-            "ingredient_name": "onion powder"
-          },
-          {
-            "id": 407664,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 702.02,
-          "alcohol": 0,
-          "ash": 8.74,
-          "caffeine": 0,
-          "water": 686.07,
-          "carbs": 60.56,
-          "fiber": 9.92,
-          "starch": 32.96,
-          "sugars": 9.71,
-          "fructose": 2.44,
-          "galactose": 0.02,
-          "glucose": 3.04,
-          "lactose": 0,
-          "maltose": 0.98,
-          "sucrose": 3.17,
-          "sugar_alcohol": 0,
-          "fat": 29.72,
-          "monounsaturated": 12.01,
-          "polyunsaturated": 2.08,
-          "omega_3": 0.69,
-          "omega_6": 1.48,
-          "saturated": 10.68,
-          "transfats": 1.53,
-          "cholesterol": 115.67,
-          "protein": 51.31,
-          "alanine": 2.93,
-          "arginine": 3.35,
-          "aspartic_acid": 4.58,
-          "cystine": 0.66,
-          "glutamic_acid": 9.51,
-          "glycine": 3.01,
-          "histidine": 1.48,
-          "isoleucine": 2.23,
-          "leucine": 3.79,
-          "lysine": 3.72,
-          "methionine": 1.13,
-          "phenylalanine": 2.15,
-          "proline": 2.99,
-          "serine": 2.07,
-          "threonine": 2.17,
-          "tryptophan": 0.45,
-          "tyrosine": 1.62,
-          "valine": 2.46,
-          "b1_thiamine": 0.29,
-          "b2_riboflavin": 0.7,
-          "b3_niacin": 15.4,
-          "b5_pantothenic_acid": 2.2,
-          "b6_pyridoxine": 1.08,
-          "b12_cobalamin": 4,
-          "choline": 170.16,
-          "folate": 186.78,
-          "vitamin_a": 26012.66,
-          "vitamin_c": 16.06,
-          "vitamin_d": 5.1,
-          "vitamin_e": 6.52,
-          "vitamin_k": 657.47,
-          "calcium": 278.15,
-          "copper": 0.8,
-          "iron": 8.99,
-          "magnesium": 186.12,
-          "manganese": 1.83,
-          "phosphorus": 598.73,
-          "potassium": 1809.95,
-          "selenium": 65.66,
-          "sodium": 381.64,
-          "zinc": 9.73
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/beef-lasagna-noodle-soup-carrots-spinach-basil/23183",
-      "altVariants": [
-        {
-          "id": 23187,
-          "recipe_id": 2597,
-          "group_label": "Vegan",
-          "name": "Veggie Ground Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "eb093ee1-832e-4715-847a-99e34f4addf9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774549000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            195,
-            451,
-            99,
-            444,
-            47,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            60,
-            1,
-            1.5,
-            12,
-            1.5,
-            3,
-            24,
-            30,
-            15,
-            7.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23186,
-          "recipe_id": 2597,
-          "group_label": "Vegan",
-          "name": "Veggie Ground Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "920fb8d7-e105-4fe1-a8b2-9d60698e0b4f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774549000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            195,
-            451,
-            99,
-            444,
-            47,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            40,
-            1,
-            1,
-            8,
-            1,
-            2,
-            16,
-            20,
-            10,
-            5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23185,
-          "recipe_id": 2597,
-          "group_label": "Vegan",
-          "name": "Veggie Ground Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "7eef0549-d950-46f7-9ae6-5dc7ca1634e6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774550000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            195,
-            451,
-            99,
-            444,
-            47,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            20,
-            0.5,
-            0.5,
-            4,
-            0.5,
-            1,
-            8,
-            10,
-            5,
-            2.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23184,
-          "recipe_id": 2597,
-          "group_label": "Default",
-          "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "93250806-5876-4675-9784-af06c414fdcc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774550000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            168,
-            195,
-            451,
-            99,
-            81,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            60,
-            1,
-            1.5,
-            2.25,
-            12,
-            1.5,
-            3,
-            15,
-            15,
-            7.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23183,
-          "recipe_id": 2597,
-          "group_label": "Default",
-          "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "0c30c2d4-a29f-4545-9500-ef2b2f1fec25",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774550000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            168,
-            195,
-            451,
-            99,
-            81,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            40,
-            1,
-            1,
-            1.5,
-            8,
-            1,
-            2,
-            10,
-            10,
-            5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23182,
-          "recipe_id": 2597,
-          "group_label": "Default",
-          "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "24c5cb0a-e3ed-4c48-ba55-bd0846ceda85",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774551000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            168,
-            195,
-            451,
-            99,
-            81,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            20,
-            0.5,
-            0.5,
-            0.75,
-            4,
-            0.5,
-            1,
-            5,
-            5,
-            2.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23193,
-          "recipe_id": 2597,
-          "group_label": "Vegan",
-          "name": "Veggie Ground Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "3408d757-d802-4b76-a73c-cebcd71a9a76",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774547000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            195,
-            451,
-            99,
-            444,
-            47,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            1774,
-            1,
-            1.5,
-            12,
-            1.5,
-            3,
-            680,
-            30,
-            15,
-            7.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23192,
-          "recipe_id": 2597,
-          "group_label": "Vegan",
-          "name": "Veggie Ground Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "eaa1d52d-1e67-491c-bc4a-de88fa4ecdbb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774547000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            195,
-            451,
-            99,
-            444,
-            47,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            1183,
-            1,
-            1,
-            8,
-            1,
-            2,
-            454,
-            20,
-            10,
-            5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23191,
-          "recipe_id": 2597,
-          "group_label": "Vegan",
-          "name": "Veggie Ground Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "d040b840-a3bc-4d63-84d5-6a62a55ca1aa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774548000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            195,
-            451,
-            99,
-            444,
-            47,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            591,
-            0.5,
-            0.5,
-            4,
-            0.5,
-            1,
-            227,
-            10,
-            5,
-            2.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23190,
-          "recipe_id": 2597,
-          "group_label": "Default",
-          "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "0eeb6ac3-b089-4ec7-a0ff-6b33c46be111",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774548000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            168,
-            195,
-            451,
-            99,
-            81,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            1774,
-            1,
-            1.5,
-            1.02,
-            12,
-            1.5,
-            3,
-            15,
-            15,
-            7.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23189,
-          "recipe_id": 2597,
-          "group_label": "Default",
-          "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "ae22917c-ec13-46a6-8e2c-ba35c46d1fd0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774549000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            168,
-            195,
-            451,
-            99,
-            81,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            1183,
-            1,
-            1,
-            0.68,
-            8,
-            1,
-            2,
-            10,
-            10,
-            5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        },
-        {
-          "id": 23188,
-          "recipe_id": 2597,
-          "group_label": "Default",
-          "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
-          "published_recipe_uuid": "8e0e5d10-4829-45c6-8e25-acbab36c6e20",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1672774549000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            201,
-            28,
-            449,
-            168,
-            195,
-            451,
-            99,
-            81,
-            200,
-            88
-          ],
-          "ingredient_amounts": [
-            591,
-            0.5,
-            0.5,
-            0.34,
-            4,
-            0.5,
-            1,
-            5,
-            5,
-            2.5
-          ],
-          "average_rating": 0.803,
-          "rating_count": 33,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "A cozy bowl of this lasagna soup is the perfect choice for a chilly day",
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 23183,
+  "recipe_id": 2597,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Beef Lasagna Noodle Soup with Carrots, Spinach & Basil",
+  "slug": "beef-lasagna-noodle-soup-carrots-spinach-basil",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/thumbnail_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2597/presentation_8aa9fcc7-90cb-4169-8b30-811dbea71480.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "beef-lasagna-noodle-soup-carrots-spinach-basil",
-    "variantId": "23183"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 57,
+      "name": "ladle",
+      "slug": "ladle"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 381929,
+      "primary_message": "Preheat a large pot over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 381930,
+      "primary_message": "Once the pot is hot, add beef, carrots, and spices. Cook, breaking the meat apart with a spoon, until almost cooked through, 4-5 minutes.",
+      "secondary_message": "1 ½ lb lean ground beef\n1 (10 oz) bag shredded carrots\n2 tsp onion powder\n2 tsp Italian seasoning\n1 tsp salt"
+    },
+    {
+      "id": 381931,
+      "primary_message": "Meanwhile, break lasagna noodles into bite-sized pieces. ",
+      "secondary_message": "8 no-boil lasagna noodles"
+    },
+    {
+      "id": 381932,
+      "primary_message": "When the beef is done, add noodles, broth, and tomato sauce to the pot; stir to combine the soup and bring to a boil. Once boiling, reduce heat to low and simmer until noodles start to soften, 7-8 minutes. ",
+      "secondary_message": "40 fl oz (5 cups) chicken or vegetable broth\n2 (8 oz) cans tomato sauce"
+    },
+    {
+      "id": 381933,
+      "primary_message": "While the soup is cooking, wash, dry, and pick basil leaves off the stems; roll up crosswise and thinly slice into ribbons.",
+      "secondary_message": "1 small pkg fresh basil"
+    },
+    {
+      "id": 381934,
+      "primary_message": "Add spinach and half of the basil to the pot (reserve remaining basil for serving). Return soup to a simmer and continue to cook, stirring occasionally, until spinach is warmed through and noodles are tender, 3-4 minutes more. ",
+      "secondary_message": "1 (16oz) bag frozen chopped spinach"
+    },
+    {
+      "id": 381935,
+      "primary_message": "To serve, divide soup between bowls and top with reserved basil. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 407669,
+      "quantity": "40 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 407662,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 407670,
+      "quantity": "1 (16oz) bag",
+      "ingredient_name": "frozen chopped spinach"
+    },
+    {
+      "id": 407666,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 407667,
+      "quantity": "8",
+      "ingredient_name": "no-boil lasagna noodles"
+    },
+    {
+      "id": 407671,
+      "quantity": "1 (10 oz) bag",
+      "ingredient_name": "shredded carrots"
+    },
+    {
+      "id": 407665,
+      "quantity": "2 (8 oz) cans",
+      "ingredient_name": "tomato sauce"
+    },
+    {
+      "id": 407663,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 407668,
+      "quantity": "",
+      "ingredient_name": "onion powder"
+    },
+    {
+      "id": 407664,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 702.02,
+    "alcohol": 0,
+    "ash": 8.74,
+    "caffeine": 0,
+    "water": 686.07,
+    "carbs": 60.56,
+    "fiber": 9.92,
+    "starch": 32.96,
+    "sugars": 9.71,
+    "fructose": 2.44,
+    "galactose": 0.02,
+    "glucose": 3.04,
+    "lactose": 0,
+    "maltose": 0.98,
+    "sucrose": 3.17,
+    "sugar_alcohol": 0,
+    "fat": 29.72,
+    "monounsaturated": 12.01,
+    "polyunsaturated": 2.08,
+    "omega_3": 0.69,
+    "omega_6": 1.48,
+    "saturated": 10.68,
+    "transfats": 1.53,
+    "cholesterol": 115.67,
+    "protein": 51.31,
+    "alanine": 2.93,
+    "arginine": 3.35,
+    "aspartic_acid": 4.58,
+    "cystine": 0.66,
+    "glutamic_acid": 9.51,
+    "glycine": 3.01,
+    "histidine": 1.48,
+    "isoleucine": 2.23,
+    "leucine": 3.79,
+    "lysine": 3.72,
+    "methionine": 1.13,
+    "phenylalanine": 2.15,
+    "proline": 2.99,
+    "serine": 2.07,
+    "threonine": 2.17,
+    "tryptophan": 0.45,
+    "tyrosine": 1.62,
+    "valine": 2.46,
+    "b1_thiamine": 0.29,
+    "b2_riboflavin": 0.7,
+    "b3_niacin": 15.4,
+    "b5_pantothenic_acid": 2.2,
+    "b6_pyridoxine": 1.08,
+    "b12_cobalamin": 4,
+    "choline": 170.16,
+    "folate": 186.78,
+    "vitamin_a": 26012.66,
+    "vitamin_c": 16.06,
+    "vitamin_d": 5.1,
+    "vitamin_e": 6.52,
+    "vitamin_k": 657.47,
+    "calcium": 278.15,
+    "copper": 0.8,
+    "iron": 8.99,
+    "magnesium": 186.12,
+    "manganese": 1.83,
+    "phosphorus": 598.73,
+    "potassium": 1809.95,
+    "selenium": 65.66,
+    "sodium": 381.64,
+    "zinc": 9.73
+  }
 }

@@ -1,702 +1,245 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3108,
-        "recipe_id": 439,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
-        "slug": "buffalo-chicken-lettuce-wraps-celery-sticks",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 31171,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 pint grape tomatoes\n2 avocados\n1 small bunch green onions (scallions)\n4 sticks celery\n1 head butter (Boston) lettuce "
-          },
-          {
-            "id": 31172,
-            "primary_message": "In a medium bowl, combine and mix together the spices. Transfer ½ tsp of the mixture to a small bowl for garnishing and set aside.",
-            "secondary_message": "4 tsp chili powder\n1 tsp garlic powder\n1 tsp onion powder\n½ tsp salt\n½ tsp pepper"
-          },
-          {
-            "id": 31173,
-            "primary_message": "Preheat a skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 31174,
-            "primary_message": "While the skillet heats up, cut the chicken thighs into ¼-inch strips. Add the chicken to the spice mixture and mix thoroughly with your hands.",
-            "secondary_message": "2 lb chicken thighs, boneless skinless"
-          },
-          {
-            "id": 31175,
-            "primary_message": "Wash and dry the cutting board.",
-            "secondary_message": null
-          },
-          {
-            "id": 31176,
-            "primary_message": "Add coconut oil to the skillet and swirl to coat the bottom.",
-            "secondary_message": "4 tbsp virgin coconut oil"
-          },
-          {
-            "id": 31177,
-            "primary_message": "Add the chicken to the skillet; cook, stirring occasionally, until golden brown and cooked through, 7 to 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31178,
-            "primary_message": "While the chicken cooks, halve the tomatoes and transfer to a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 31179,
-            "primary_message": "Trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces. Place the onions next to the tomatoes.",
-            "secondary_message": null
-          },
-          {
-            "id": 31180,
-            "primary_message": "Halve the avocados lengthwise and twist the halves to separate, then remove the pit with a knife or spoon; thinly slice the flesh crosswise (without piercing the skin) and scoop out. Place the avocado slices next to the tomatoes and onions.",
-            "secondary_message": null
-          },
-          {
-            "id": 31181,
-            "primary_message": "Trim off and discard the root end of the lettuce; separate the leaves and place on a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 31182,
-            "primary_message": "Trim off and discard the ends of the celery sticks; cut the sticks crosswise into thirds.",
-            "secondary_message": null
-          },
-          {
-            "id": 31183,
-            "primary_message": "To serve, scoop the chicken into the lettuce leaves, then top with the tomatoes, green onions, and avocado slices. Garnish with the remaining spice mix and serve with the celery sticks on the side. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 38260,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 38257,
-            "quantity": "1 head",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 38256,
-            "quantity": "4 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 38255,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 38259,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 38258,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 38250,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 38252,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 38254,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 38253,
-            "quantity": "",
-            "ingredient_name": "onion powder"
-          },
-          {
-            "id": 38251,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 38249,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 597.98,
-          "alcohol": 0,
-          "ash": 5.97,
-          "caffeine": 0,
-          "water": 413.34,
-          "carbs": 17.81,
-          "fiber": 10.48,
-          "starch": 2.05,
-          "sugars": 4.28,
-          "fructose": 1.77,
-          "galactose": 0.3,
-          "glucose": 2.15,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.24,
-          "sugar_alcohol": 0,
-          "fat": 38.45,
-          "monounsaturated": 14.17,
-          "polyunsaturated": 4.58,
-          "omega_3": 0.3,
-          "omega_6": 4.29,
-          "saturated": 16.54,
-          "transfats": 0.05,
-          "cholesterol": 213.19,
-          "protein": 49.09,
-          "alanine": 2.87,
-          "arginine": 3.33,
-          "aspartic_acid": 4.93,
-          "cystine": 0.58,
-          "glutamic_acid": 8.2,
-          "glycine": 2.24,
-          "histidine": 1.42,
-          "isoleucine": 2.29,
-          "leucine": 4.06,
-          "lysine": 4.43,
-          "methionine": 1.33,
-          "phenylalanine": 1.96,
-          "proline": 2.01,
-          "serine": 2.06,
-          "threonine": 2.26,
-          "tryptophan": 0.55,
-          "tyrosine": 1.77,
-          "valine": 2.36,
-          "b1_thiamine": 0.35,
-          "b2_riboflavin": 0.68,
-          "b3_niacin": 15.5,
-          "b5_pantothenic_acid": 1.68,
-          "b6_pyridoxine": 1.49,
-          "b12_cobalamin": 1.38,
-          "choline": 150.48,
-          "folate": 162.78,
-          "vitamin_a": 1222.93,
-          "vitamin_c": 27.35,
-          "vitamin_d": 2.27,
-          "vitamin_e": 4.25,
-          "vitamin_k": 141.81,
-          "calcium": 96.38,
-          "copper": 0.45,
-          "iron": 4.1,
-          "magnesium": 109.56,
-          "manganese": 0.51,
-          "phosphorus": 534.76,
-          "potassium": 1479.7,
-          "selenium": 53.73,
-          "sodium": 265.34,
-          "zinc": 4.76
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/buffalo-chicken-lettuce-wraps-celery-sticks/3108",
-      "altVariants": [
-        {
-          "id": 3065,
-          "recipe_id": 439,
-          "group_label": "Classic",
-          "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "published_recipe_uuid": "be104d6b-672e-4bfb-a3b1-c19e30b62ae2",
-          "fallback_published_recipe_uuids": [
-            "90f528a4-a450-4983-924b-0948ca62b982",
-            "e4aa7e73-d78a-45c9-9bf2-63539bb5d44d",
-            "f4aec517-4e36-43fe-8f6d-d4e2122032a3"
-          ],
-          "first_published_at": 1477421922000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            157,
-            164,
-            277,
-            153,
-            72,
-            75,
-            79,
-            200,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            1,
-            0.5,
-            0.5,
-            1.23223,
-            9.85784,
-            2.46446,
-            2.46446,
-            1.23223,
-            29.5735
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3108,
-          "recipe_id": 439,
-          "group_label": "Classic",
-          "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "published_recipe_uuid": "e77fe762-ad4e-40ea-90f7-3945c1991667",
-          "fallback_published_recipe_uuids": [
-            "ab92f821-4685-4540-af14-d76aa2998e31",
-            "834d5d0b-3720-465a-b072-cd2b716a9a2e",
-            "a4f5fb71-db79-4760-9ee6-937a54c17b2d"
-          ],
-          "first_published_at": 1479957925000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            157,
-            164,
-            277,
-            153,
-            72,
-            75,
-            79,
-            200,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            2,
-            1,
-            1,
-            2.46446,
-            19.7157,
-            4.92892,
-            4.92892,
-            2.46446,
-            59.1471
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5776,
-          "recipe_id": 439,
-          "group_label": "Classic",
-          "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "published_recipe_uuid": "ce7fce86-7af8-4cf8-8398-80d32e1446c5",
-          "fallback_published_recipe_uuids": [
-            "1a016970-09ea-4901-84ab-777e24e3a82d",
-            "0048373f-6c31-418e-95a8-ce3ec08446b9",
-            "213be99d-7ca0-4317-aaf2-81901514e4dd"
-          ],
-          "first_published_at": 1550531788000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            157,
-            164,
-            277,
-            153,
-            72,
-            75,
-            79,
-            200,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            6,
-            3,
-            1.5,
-            1.5,
-            3.69669,
-            29.573549999999997,
-            7.39338,
-            7.39338,
-            3.69669,
-            88.72065
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3546,
-          "recipe_id": 439,
-          "group_label": "Classic",
-          "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "published_recipe_uuid": "f0c60118-e434-4f3c-8139-f0b33990b8b3",
-          "fallback_published_recipe_uuids": [
-            "41825b2a-9660-4ffa-a193-40b1d4bf61dc",
-            "90d24b8c-e488-4f55-8688-6fd0282aa2f3",
-            "fe2534ee-c472-4adc-b6d4-bc072b9c6e10"
-          ],
-          "first_published_at": 1486593576000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            157,
-            164,
-            277,
-            153,
-            72,
-            75,
-            79,
-            200,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            0.907,
-            1,
-            1,
-            2.46446,
-            19.7157,
-            4.92892,
-            4.92892,
-            2.46446,
-            59.1471
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3545,
-          "recipe_id": 439,
-          "group_label": "Classic",
-          "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "published_recipe_uuid": "0a4df467-1eee-4a89-8ee7-438125435bd2",
-          "fallback_published_recipe_uuids": [
-            "0c5807d7-bd0b-425d-88c0-58edfdf57fb0",
-            "4ddb91ff-4e98-4a61-9a67-ceb41a227793",
-            "062a2b17-4c3c-4f08-be9a-1a4f542d1312"
-          ],
-          "first_published_at": 1486593505000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            157,
-            164,
-            277,
-            153,
-            72,
-            75,
-            79,
-            200,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            0.454,
-            0.5,
-            0.5,
-            1.23223,
-            9.85784,
-            2.46446,
-            2.46446,
-            1.23223,
-            29.5735
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5994,
-          "recipe_id": 439,
-          "group_label": "Classic",
-          "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
-          "published_recipe_uuid": "a3f1c085-9c8c-476a-ba08-8b0ce0716d9c",
-          "fallback_published_recipe_uuids": [
-            "8313fb3c-31fd-4e28-be3e-3fd96e4de449",
-            "a18c999a-fcfd-410f-a18e-d3afc1aabeac",
-            "c210d09b-3513-4641-8fe1-b96da8923195"
-          ],
-          "first_published_at": 1550527743000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            157,
-            164,
-            277,
-            153,
-            72,
-            75,
-            79,
-            200,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            6,
-            1.3605,
-            1.5,
-            1.5,
-            3.69669,
-            29.573549999999997,
-            7.39338,
-            7.39338,
-            3.69669,
-            88.72065
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Wraps"
-        ],
-        "cuisine": "American",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3108,
+  "recipe_id": 439,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Buffalo Chicken Lettuce Wraps with Celery Sticks",
+  "slug": "buffalo-chicken-lettuce-wraps-celery-sticks",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/thumbnail_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/439/presentation_f4bdfd1e-dbdb-4053-8143-9f8b16339d25.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "buffalo-chicken-lettuce-wraps-celery-sticks",
-    "variantId": "3108"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 31171,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 pint grape tomatoes\n2 avocados\n1 small bunch green onions (scallions)\n4 sticks celery\n1 head butter (Boston) lettuce "
+    },
+    {
+      "id": 31172,
+      "primary_message": "In a medium bowl, combine and mix together the spices. Transfer ½ tsp of the mixture to a small bowl for garnishing and set aside.",
+      "secondary_message": "4 tsp chili powder\n1 tsp garlic powder\n1 tsp onion powder\n½ tsp salt\n½ tsp pepper"
+    },
+    {
+      "id": 31173,
+      "primary_message": "Preheat a skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 31174,
+      "primary_message": "While the skillet heats up, cut the chicken thighs into ¼-inch strips. Add the chicken to the spice mixture and mix thoroughly with your hands.",
+      "secondary_message": "2 lb chicken thighs, boneless skinless"
+    },
+    {
+      "id": 31175,
+      "primary_message": "Wash and dry the cutting board.",
+      "secondary_message": null
+    },
+    {
+      "id": 31176,
+      "primary_message": "Add coconut oil to the skillet and swirl to coat the bottom.",
+      "secondary_message": "4 tbsp virgin coconut oil"
+    },
+    {
+      "id": 31177,
+      "primary_message": "Add the chicken to the skillet; cook, stirring occasionally, until golden brown and cooked through, 7 to 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31178,
+      "primary_message": "While the chicken cooks, halve the tomatoes and transfer to a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 31179,
+      "primary_message": "Trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces. Place the onions next to the tomatoes.",
+      "secondary_message": null
+    },
+    {
+      "id": 31180,
+      "primary_message": "Halve the avocados lengthwise and twist the halves to separate, then remove the pit with a knife or spoon; thinly slice the flesh crosswise (without piercing the skin) and scoop out. Place the avocado slices next to the tomatoes and onions.",
+      "secondary_message": null
+    },
+    {
+      "id": 31181,
+      "primary_message": "Trim off and discard the root end of the lettuce; separate the leaves and place on a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 31182,
+      "primary_message": "Trim off and discard the ends of the celery sticks; cut the sticks crosswise into thirds.",
+      "secondary_message": null
+    },
+    {
+      "id": 31183,
+      "primary_message": "To serve, scoop the chicken into the lettuce leaves, then top with the tomatoes, green onions, and avocado slices. Garnish with the remaining spice mix and serve with the celery sticks on the side. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 38260,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 38257,
+      "quantity": "1 head",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 38256,
+      "quantity": "4 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 38255,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 38259,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 38258,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 38250,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 38252,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 38254,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 38253,
+      "quantity": "",
+      "ingredient_name": "onion powder"
+    },
+    {
+      "id": 38251,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 38249,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 597.98,
+    "alcohol": 0,
+    "ash": 5.97,
+    "caffeine": 0,
+    "water": 413.34,
+    "carbs": 17.81,
+    "fiber": 10.48,
+    "starch": 2.05,
+    "sugars": 4.28,
+    "fructose": 1.77,
+    "galactose": 0.3,
+    "glucose": 2.15,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.24,
+    "sugar_alcohol": 0,
+    "fat": 38.45,
+    "monounsaturated": 14.17,
+    "polyunsaturated": 4.58,
+    "omega_3": 0.3,
+    "omega_6": 4.29,
+    "saturated": 16.54,
+    "transfats": 0.05,
+    "cholesterol": 213.19,
+    "protein": 49.09,
+    "alanine": 2.87,
+    "arginine": 3.33,
+    "aspartic_acid": 4.93,
+    "cystine": 0.58,
+    "glutamic_acid": 8.2,
+    "glycine": 2.24,
+    "histidine": 1.42,
+    "isoleucine": 2.29,
+    "leucine": 4.06,
+    "lysine": 4.43,
+    "methionine": 1.33,
+    "phenylalanine": 1.96,
+    "proline": 2.01,
+    "serine": 2.06,
+    "threonine": 2.26,
+    "tryptophan": 0.55,
+    "tyrosine": 1.77,
+    "valine": 2.36,
+    "b1_thiamine": 0.35,
+    "b2_riboflavin": 0.68,
+    "b3_niacin": 15.5,
+    "b5_pantothenic_acid": 1.68,
+    "b6_pyridoxine": 1.49,
+    "b12_cobalamin": 1.38,
+    "choline": 150.48,
+    "folate": 162.78,
+    "vitamin_a": 1222.93,
+    "vitamin_c": 27.35,
+    "vitamin_d": 2.27,
+    "vitamin_e": 4.25,
+    "vitamin_k": 141.81,
+    "calcium": 96.38,
+    "copper": 0.45,
+    "iron": 4.1,
+    "magnesium": 109.56,
+    "manganese": 0.51,
+    "phosphorus": 534.76,
+    "potassium": 1479.7,
+    "selenium": 53.73,
+    "sodium": 265.34,
+    "zinc": 4.76
+  }
 }

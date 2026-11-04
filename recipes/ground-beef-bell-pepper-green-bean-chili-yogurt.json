@@ -1,715 +1,260 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2974,
-        "recipe_id": 405,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
-        "slug": "ground-beef-bell-pepper-green-bean-chili-yogurt",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 29174,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 lb green beans\n2 red bell peppers\n1 small bunch green onions (scallions)"
-          },
-          {
-            "id": 29175,
-            "primary_message": "Trim and discard the ends of the green beans; cut the beans into ½-inch pieces and transfer to a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 29176,
-            "primary_message": "Quarter the bell peppers lengthwise; remove and discard the seeds and white membrane, then small dice the peppers. Add to the bowl with the beans.",
-            "secondary_message": ""
-          },
-          {
-            "id": 29177,
-            "primary_message": "Peel and small dice the onion; add to the bowl.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 29178,
-            "primary_message": "Preheat a medium saucepan over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 29179,
-            "primary_message": "Peel and mince the garlic; add to the bowl.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 29180,
-            "primary_message": "Add coconut oil to the saucepan and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 29181,
-            "primary_message": "Add the ground beef to the saucepan; cook, breaking apart with a spoon, until browned and crumbly, 3 to 4 minutes. Once done, transfer to a bowl, leaving the juices in the saucepan.",
-            "secondary_message": "1 ½ lb lean ground beef"
-          },
-          {
-            "id": 29182,
-            "primary_message": "Once the beef has been transferred, add all of the vegetables to the pan. Cook, stirring frequently, until the vegetables have softened, 5 to 7 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 29183,
-            "primary_message": "Return the beef to the saucepan and season with chili powder, salt, and black pepper; stir to combine.",
-            "secondary_message": "2 tbsp chili powder\n1 tsp salt\n1 tsp black pepper"
-          },
-          {
-            "id": 29184,
-            "primary_message": "Add the diced tomatoes to the saucepan; bring to a boil, then reduce the heat to a simmer and cook for 5 to 10 minutes.",
-            "secondary_message": "2 (14.5 oz) cans diced tomatoes"
-          },
-          {
-            "id": 29185,
-            "primary_message": "While the chili cooks, trim and discard the root ends of the green onions; chop the onions into ¼-inch pieces. Stir the white parts into the chili and transfer the green parts to a small bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 29186,
-            "primary_message": "To serve, spoon the chili into a bowl, add dollops of yogurt over top, and sprinkle with the green onions. Enjoy!",
-            "secondary_message": "½ cup plain Greek yogurt"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 36658,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 36659,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 36663,
-            "quantity": "1 lb",
-            "ingredient_name": "green beans"
-          },
-          {
-            "id": 36653,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 36664,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 36654,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 36662,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 36661,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 36655,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 36657,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 36656,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 36660,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 535.81,
-          "alcohol": 0,
-          "ash": 6.68,
-          "caffeine": 0,
-          "water": 538.97,
-          "carbs": 27.48,
-          "fiber": 10.93,
-          "starch": 2.63,
-          "sugars": 14.5,
-          "fructose": 6.35,
-          "galactose": 0.22,
-          "glucose": 6.54,
-          "lactose": 0.78,
-          "maltose": 0,
-          "sucrose": 0.81,
-          "sugar_alcohol": 0.01,
-          "fat": 30.66,
-          "monounsaturated": 11.46,
-          "polyunsaturated": 1.54,
-          "omega_3": 0.32,
-          "omega_6": 1.31,
-          "saturated": 12.97,
-          "transfats": 1.46,
-          "cholesterol": 117.2,
-          "protein": 40.58,
-          "alanine": 2.34,
-          "arginine": 2.4,
-          "aspartic_acid": 4.07,
-          "cystine": 0.44,
-          "glutamic_acid": 6.86,
-          "glycine": 2.4,
-          "histidine": 1.2,
-          "isoleucine": 1.73,
-          "leucine": 3.04,
-          "lysine": 3.12,
-          "methionine": 0.94,
-          "phenylalanine": 1.56,
-          "proline": 2.04,
-          "serine": 1.65,
-          "threonine": 1.62,
-          "tryptophan": 0.28,
-          "tyrosine": 1.19,
-          "valine": 1.93,
-          "b1_thiamine": 1.43,
-          "b2_riboflavin": 0.69,
-          "b3_niacin": 11.5,
-          "b5_pantothenic_acid": 1.83,
-          "b6_pyridoxine": 1.34,
-          "b12_cobalamin": 3.92,
-          "choline": 150.32,
-          "folate": 116.11,
-          "vitamin_a": 1969.9,
-          "vitamin_c": 123.41,
-          "vitamin_d": 5.1,
-          "vitamin_e": 4.59,
-          "vitamin_k": 84.51,
-          "calcium": 219.01,
-          "copper": 0.4,
-          "iron": 7.4,
-          "magnesium": 105.49,
-          "manganese": 0.74,
-          "phosphorus": 460.43,
-          "potassium": 1423.64,
-          "selenium": 33.58,
-          "sodium": 159.37,
-          "zinc": 8.81
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/ground-beef-bell-pepper-green-bean-chili-yogurt/2974",
-      "altVariants": [
-        {
-          "id": 2974,
-          "recipe_id": 405,
-          "group_label": "Classic",
-          "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "published_recipe_uuid": "7288292e-6134-4cc2-ad1e-66c74f1fe055",
-          "fallback_published_recipe_uuids": [
-            "7476ecc5-4567-423d-a8f2-68c1f90ca667",
-            "b49e4108-e1c7-4dbb-902d-d8b5cc820b46",
-            "5b363a04-5e6f-46e1-a593-443f0c89b070"
-          ],
-          "first_published_at": 1467295019000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            97,
-            24,
-            111,
-            153,
-            168,
-            122,
-            150,
-            152,
-            72,
-            75,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1,
-            1.5,
-            0.5,
-            2,
-            1,
-            4.92892,
-            29.5735,
-            4.92892,
-            14.7868
-          ],
-          "average_rating": 0.735,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2970,
-          "recipe_id": 405,
-          "group_label": "Classic",
-          "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "published_recipe_uuid": "4f2e0b56-a14d-4361-96c6-ac79714a8d09",
-          "fallback_published_recipe_uuids": [
-            "38345775-e116-4ece-b9e5-f4c20b3358b2",
-            "afdfc691-f7bf-42d9-9a65-803dc8d89338",
-            "988d3dab-90d2-4225-b5db-e5afd3e3adfe"
-          ],
-          "first_published_at": 1467294665000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            97,
-            24,
-            111,
-            153,
-            168,
-            122,
-            150,
-            152,
-            72,
-            75,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.5,
-            0.75,
-            0.25,
-            1,
-            0.5,
-            2.46446,
-            14.7868,
-            2.46446,
-            7.39338
-          ],
-          "average_rating": 0.735,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5719,
-          "recipe_id": 405,
-          "group_label": "Classic",
-          "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "published_recipe_uuid": "a8a2ec60-24b7-47ba-b703-63c1a9bdc267",
-          "fallback_published_recipe_uuids": [
-            "f329e54a-d38d-4de5-a63a-07308614c057",
-            "307cd38c-b08e-4830-9275-f8e4fefe0ad7"
-          ],
-          "first_published_at": 1550528636000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            97,
-            24,
-            111,
-            153,
-            168,
-            122,
-            150,
-            152,
-            72,
-            75,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1.5,
-            1.5,
-            2.25,
-            0.75,
-            3,
-            1.5,
-            7.39338,
-            44.36025,
-            7.39338,
-            22.1802
-          ],
-          "average_rating": 0.735,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5925,
-          "recipe_id": 405,
-          "group_label": "Classic",
-          "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "published_recipe_uuid": "15bc889b-debd-4750-9e58-cf237fc2731d",
-          "fallback_published_recipe_uuids": [
-            "19ef4e64-d3cf-433a-8743-7d74db0095d0",
-            "f59f925d-c21d-42f8-b273-a8eafc7b6c60"
-          ],
-          "first_published_at": 1550530483000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            97,
-            24,
-            111,
-            153,
-            168,
-            122,
-            150,
-            152,
-            72,
-            75,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            0.681,
-            1.5,
-            1.02,
-            0.75,
-            3,
-            1.5,
-            7.39338,
-            44.36025,
-            7.39338,
-            22.1802
-          ],
-          "average_rating": 0.735,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3396,
-          "recipe_id": 405,
-          "group_label": "Classic",
-          "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "published_recipe_uuid": "2dbfc6d8-2bb3-43fa-b51c-775a335af5aa",
-          "fallback_published_recipe_uuids": [
-            "f27cdf05-9a4b-4c2d-87de-76e8700a6651",
-            "6f20619f-5317-40b6-89ab-5acd5345d254",
-            "fb3406f0-588c-4c89-81a9-331c201ca1fa"
-          ],
-          "first_published_at": 1485471679000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            97,
-            24,
-            111,
-            153,
-            168,
-            122,
-            150,
-            152,
-            72,
-            75,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            0.454,
-            1,
-            0.68,
-            0.5,
-            2,
-            1,
-            4.92892,
-            29.5735,
-            4.92892,
-            14.7868
-          ],
-          "average_rating": 0.735,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3395,
-          "recipe_id": 405,
-          "group_label": "Classic",
-          "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
-          "published_recipe_uuid": "5ea8fefa-1cc1-4d63-ab8d-ae985ff7d445",
-          "fallback_published_recipe_uuids": [
-            "7513f410-4314-428a-8637-983068095b55",
-            "188e1613-9d12-40af-9a1e-e0f6fa2c3a7f",
-            "08bcc8d5-2947-43c0-9889-105494278b45"
-          ],
-          "first_published_at": 1485471599000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            97,
-            24,
-            111,
-            153,
-            168,
-            122,
-            150,
-            152,
-            72,
-            75,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.227,
-            0.5,
-            0.34,
-            0.25,
-            1,
-            0.5,
-            2.46446,
-            14.7868,
-            2.46446,
-            7.39338
-          ],
-          "average_rating": 0.735,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "American",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2974,
+  "recipe_id": 405,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Ground Beef, Bell Pepper & Green Bean Chili with Yogurt",
+  "slug": "ground-beef-bell-pepper-green-bean-chili-yogurt",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/thumbnail_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/405/presentation_a75e9fad-77e3-4335-aa07-b78accc83d1d.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "ground-beef-bell-pepper-green-bean-chili-yogurt",
-    "variantId": "2974"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 29174,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 lb green beans\n2 red bell peppers\n1 small bunch green onions (scallions)"
+    },
+    {
+      "id": 29175,
+      "primary_message": "Trim and discard the ends of the green beans; cut the beans into ½-inch pieces and transfer to a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 29176,
+      "primary_message": "Quarter the bell peppers lengthwise; remove and discard the seeds and white membrane, then small dice the peppers. Add to the bowl with the beans.",
+      "secondary_message": ""
+    },
+    {
+      "id": 29177,
+      "primary_message": "Peel and small dice the onion; add to the bowl.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 29178,
+      "primary_message": "Preheat a medium saucepan over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 29179,
+      "primary_message": "Peel and mince the garlic; add to the bowl.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 29180,
+      "primary_message": "Add coconut oil to the saucepan and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 29181,
+      "primary_message": "Add the ground beef to the saucepan; cook, breaking apart with a spoon, until browned and crumbly, 3 to 4 minutes. Once done, transfer to a bowl, leaving the juices in the saucepan.",
+      "secondary_message": "1 ½ lb lean ground beef"
+    },
+    {
+      "id": 29182,
+      "primary_message": "Once the beef has been transferred, add all of the vegetables to the pan. Cook, stirring frequently, until the vegetables have softened, 5 to 7 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 29183,
+      "primary_message": "Return the beef to the saucepan and season with chili powder, salt, and black pepper; stir to combine.",
+      "secondary_message": "2 tbsp chili powder\n1 tsp salt\n1 tsp black pepper"
+    },
+    {
+      "id": 29184,
+      "primary_message": "Add the diced tomatoes to the saucepan; bring to a boil, then reduce the heat to a simmer and cook for 5 to 10 minutes.",
+      "secondary_message": "2 (14.5 oz) cans diced tomatoes"
+    },
+    {
+      "id": 29185,
+      "primary_message": "While the chili cooks, trim and discard the root ends of the green onions; chop the onions into ¼-inch pieces. Stir the white parts into the chili and transfer the green parts to a small bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 29186,
+      "primary_message": "To serve, spoon the chili into a bowl, add dollops of yogurt over top, and sprinkle with the green onions. Enjoy!",
+      "secondary_message": "½ cup plain Greek yogurt"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 36658,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 36659,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 36663,
+      "quantity": "1 lb",
+      "ingredient_name": "green beans"
+    },
+    {
+      "id": 36653,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 36664,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 36654,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 36662,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 36661,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 36655,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 36657,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 36656,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 36660,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 535.81,
+    "alcohol": 0,
+    "ash": 6.68,
+    "caffeine": 0,
+    "water": 538.97,
+    "carbs": 27.48,
+    "fiber": 10.93,
+    "starch": 2.63,
+    "sugars": 14.5,
+    "fructose": 6.35,
+    "galactose": 0.22,
+    "glucose": 6.54,
+    "lactose": 0.78,
+    "maltose": 0,
+    "sucrose": 0.81,
+    "sugar_alcohol": 0.01,
+    "fat": 30.66,
+    "monounsaturated": 11.46,
+    "polyunsaturated": 1.54,
+    "omega_3": 0.32,
+    "omega_6": 1.31,
+    "saturated": 12.97,
+    "transfats": 1.46,
+    "cholesterol": 117.2,
+    "protein": 40.58,
+    "alanine": 2.34,
+    "arginine": 2.4,
+    "aspartic_acid": 4.07,
+    "cystine": 0.44,
+    "glutamic_acid": 6.86,
+    "glycine": 2.4,
+    "histidine": 1.2,
+    "isoleucine": 1.73,
+    "leucine": 3.04,
+    "lysine": 3.12,
+    "methionine": 0.94,
+    "phenylalanine": 1.56,
+    "proline": 2.04,
+    "serine": 1.65,
+    "threonine": 1.62,
+    "tryptophan": 0.28,
+    "tyrosine": 1.19,
+    "valine": 1.93,
+    "b1_thiamine": 1.43,
+    "b2_riboflavin": 0.69,
+    "b3_niacin": 11.5,
+    "b5_pantothenic_acid": 1.83,
+    "b6_pyridoxine": 1.34,
+    "b12_cobalamin": 3.92,
+    "choline": 150.32,
+    "folate": 116.11,
+    "vitamin_a": 1969.9,
+    "vitamin_c": 123.41,
+    "vitamin_d": 5.1,
+    "vitamin_e": 4.59,
+    "vitamin_k": 84.51,
+    "calcium": 219.01,
+    "copper": 0.4,
+    "iron": 7.4,
+    "magnesium": 105.49,
+    "manganese": 0.74,
+    "phosphorus": 460.43,
+    "potassium": 1423.64,
+    "selenium": 33.58,
+    "sodium": 159.37,
+    "zinc": 8.81
+  }
 }

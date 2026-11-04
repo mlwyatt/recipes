@@ -1,770 +1,295 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22115,
-        "recipe_id": 2512,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
-        "slug": "warm-beet-sweet-potato-salad-chickpeas-arugula-tahini-yogurt",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 370717,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 370718,
-            "primary_message": "Wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
-            "secondary_message": "4 medium beets\n1 lb sweet potato\n2 lemons\n1 small bunch Italian (flat-leaf) parsley\n1 (5 oz) pkg baby arugula"
-          },
-          {
-            "id": 370719,
-            "primary_message": "Drain and rinse chickpeas. Transfer to a large baking sheet pan and pat dry with paper towels. ",
-            "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 370720,
-            "primary_message": "Peel, trim, and medium dice beets. Add to the baking sheet with the chickpeas.",
-            "secondary_message": null
-          },
-          {
-            "id": 370721,
-            "primary_message": "Peel and medium dice sweet potatoes. Add to the baking sheet.",
-            "secondary_message": null
-          },
-          {
-            "id": 370722,
-            "primary_message": "Drizzle chickpeas and veggies with oil, then season with spices. Toss to coat and spread out in an even layer.",
-            "secondary_message": "¼ cup extra virgin olive oil\n4 tsp cumin, ground\n2 tsp coriander, ground\n1 tsp salt\n½ tsp cayenne pepper"
-          },
-          {
-            "id": 370723,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until chickpeas are crisp and veggies are fork-tender, about 25 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 370724,
-            "primary_message": "Meanwhile, zest and juice one lemon into a small bowl (set remaining lemon aside for the next step). Add yogurt, tahini, and salt; whisk to combine the tahini yogurt. Set aside.",
-            "secondary_message": "1 ½ cups plain Greek yogurt\n⅓ cup tahini\n½ tsp salt"
-          },
-          {
-            "id": 370725,
-            "primary_message": "Juice remaining lemon into a medium bowl. Add oil, salt, and pepper; whisk to combine the dressing and set aside.",
-            "secondary_message": "4 tsp extra virgin olive oil\n⅛ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 370726,
-            "primary_message": "Shave parsley leaves off the stems; discard stems and roughly chop the leaves. ",
-            "secondary_message": null
-          },
-          {
-            "id": 370727,
-            "primary_message": "When the chickpeas and veggies are done, remove from the oven. Add half of the parsley to the baking sheet and toss to combine. (Reserve remaining parsley for serving.)",
-            "secondary_message": null
-          },
-          {
-            "id": 370728,
-            "primary_message": "Add arugula to the bowl with the dressing and toss to coat.",
-            "secondary_message": null
-          },
-          {
-            "id": 370729,
-            "primary_message": "To serve, spoon the tahini yogurt over the bottom of each plate. Top with the dressed arugula, chickpea-veggie mixture, and reserved parsley. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 395339,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby arugula"
-          },
-          {
-            "id": 395330,
-            "quantity": "4 medium",
-            "ingredient_name": "beets"
-          },
-          {
-            "id": 395336,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 395337,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 395342,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 395338,
-            "quantity": "1 ½ cups",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 395340,
-            "quantity": "1 lb",
-            "ingredient_name": "sweet potato"
-          },
-          {
-            "id": 395333,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 395332,
-            "quantity": "",
-            "ingredient_name": "cayenne pepper"
-          },
-          {
-            "id": 395334,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 395341,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 395331,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 395335,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 395343,
-            "quantity": "",
-            "ingredient_name": "tahini"
-          }
-        ],
-        "nutrition": {
-          "energy": 690.78,
-          "alcohol": 0,
-          "ash": 8.56,
-          "caffeine": 0,
-          "water": 391.2,
-          "carbs": 72.83,
-          "fiber": 17.46,
-          "starch": 32.36,
-          "sugars": 15.55,
-          "fructose": 1.68,
-          "galactose": 0.64,
-          "glucose": 1.89,
-          "lactose": 2.33,
-          "maltose": 0,
-          "sucrose": 8.6,
-          "sugar_alcohol": 0.07,
-          "fat": 35.61,
-          "monounsaturated": 19.11,
-          "polyunsaturated": 8.82,
-          "omega_3": 0.36,
-          "omega_6": 8.46,
-          "saturated": 4.76,
-          "transfats": 0.03,
-          "cholesterol": 4.59,
-          "protein": 27.23,
-          "alanine": 1.14,
-          "arginine": 1.82,
-          "aspartic_acid": 2.9,
-          "cystine": 0.4,
-          "glutamic_acid": 4.79,
-          "glycine": 0.95,
-          "histidine": 0.64,
-          "isoleucine": 1.14,
-          "leucine": 2.03,
-          "lysine": 1.69,
-          "methionine": 0.5,
-          "phenylalanine": 1.2,
-          "proline": 1.32,
-          "serine": 1.3,
-          "threonine": 1.09,
-          "tryptophan": 0.41,
-          "tyrosine": 0.77,
-          "valine": 1.27,
-          "b1_thiamine": 0.5,
-          "b2_riboflavin": 0.55,
-          "b3_niacin": 2.97,
-          "b5_pantothenic_acid": 2.11,
-          "b6_pyridoxine": 0.62,
-          "b12_cobalamin": 0.69,
-          "choline": 93.89,
-          "folate": 254,
-          "vitamin_a": 16166.82,
-          "vitamin_c": 41.94,
-          "vitamin_d": 0,
-          "vitamin_e": 3.93,
-          "vitamin_k": 57.77,
-          "calcium": 388.55,
-          "copper": 1.01,
-          "iron": 7.79,
-          "magnesium": 148.31,
-          "manganese": 2.22,
-          "phosphorus": 527.93,
-          "potassium": 1249.95,
-          "selenium": 22.42,
-          "sodium": 478.13,
-          "zinc": 3.44
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/warm-beet-sweet-potato-salad-chickpeas-arugula-tahini-yogurt/22115",
-      "altVariants": [
-        {
-          "id": 22116,
-          "recipe_id": 2512,
-          "group_label": "Default",
-          "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "published_recipe_uuid": "43baafe0-cc52-4369-9897-2075c66f8399",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1667930246000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            12
-          ],
-          "ingredient_ids": [
-            139,
-            13,
-            92,
-            106,
-            192,
-            122,
-            143,
-            72,
-            71,
-            76,
-            186,
-            47,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            3,
-            1,
-            3,
-            2.25,
-            1.5,
-            0.9375,
-            3.75,
-            15,
-            30,
-            120,
-            12.1875,
-            135
-          ],
-          "average_rating": 0.857,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This warm root vegetable salad is food for the soul"
-        },
-        {
-          "id": 22115,
-          "recipe_id": 2512,
-          "group_label": "Default",
-          "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "published_recipe_uuid": "9855de12-e8e0-4d11-869b-82da8286e275",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1667930246000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            12
-          ],
-          "ingredient_ids": [
-            139,
-            13,
-            92,
-            106,
-            192,
-            122,
-            143,
-            72,
-            71,
-            76,
-            186,
-            47,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            1,
-            2,
-            1.5,
-            1,
-            0.625,
-            2.5,
-            10,
-            20,
-            80,
-            8.125,
-            90
-          ],
-          "average_rating": 0.857,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This warm root vegetable salad is food for the soul"
-        },
-        {
-          "id": 22114,
-          "recipe_id": 2512,
-          "group_label": "Default",
-          "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "published_recipe_uuid": "45474bf2-d212-4ac4-b728-39daf29420a2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1667930246000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            12
-          ],
-          "ingredient_ids": [
-            139,
-            13,
-            92,
-            106,
-            192,
-            122,
-            143,
-            72,
-            71,
-            76,
-            186,
-            47,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            1,
-            0.5,
-            1,
-            0.75,
-            0.5,
-            0.3125,
-            1.25,
-            5,
-            10,
-            40,
-            4.0625,
-            45
-          ],
-          "average_rating": 0.857,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This warm root vegetable salad is food for the soul"
-        },
-        {
-          "id": 22118,
-          "recipe_id": 2512,
-          "group_label": "Default",
-          "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "published_recipe_uuid": "8f2cb452-134f-45b5-8e3b-9186e46d23b5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1667930245000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            12
-          ],
-          "ingredient_ids": [
-            139,
-            13,
-            92,
-            106,
-            192,
-            122,
-            143,
-            72,
-            71,
-            76,
-            186,
-            47,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            1,
-            2,
-            1.5,
-            0.45,
-            0.625,
-            2.5,
-            10,
-            20,
-            80,
-            8.125,
-            90
-          ],
-          "average_rating": 0.857,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This warm root vegetable salad is food for the soul"
-        },
-        {
-          "id": 22119,
-          "recipe_id": 2512,
-          "group_label": "Default",
-          "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "published_recipe_uuid": "bdcda3ba-0517-4ced-bbc6-7f90be3597d1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1667930245000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            12
-          ],
-          "ingredient_ids": [
-            139,
-            13,
-            92,
-            106,
-            192,
-            122,
-            143,
-            72,
-            71,
-            76,
-            186,
-            47,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            3,
-            1,
-            3,
-            2.25,
-            0.68,
-            0.9375,
-            3.75,
-            15,
-            30,
-            120,
-            12.1875,
-            135
-          ],
-          "average_rating": 0.857,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This warm root vegetable salad is food for the soul"
-        },
-        {
-          "id": 22117,
-          "recipe_id": 2512,
-          "group_label": "Default",
-          "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
-          "published_recipe_uuid": "47c34d49-cb7f-4851-a82c-5be1b42eebd4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1667930245000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            12
-          ],
-          "ingredient_ids": [
-            139,
-            13,
-            92,
-            106,
-            192,
-            122,
-            143,
-            72,
-            71,
-            76,
-            186,
-            47,
-            88,
-            334
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            1,
-            0.5,
-            1,
-            0.75,
-            0.23,
-            0.3125,
-            1.25,
-            5,
-            10,
-            40,
-            4.0625,
-            45
-          ],
-          "average_rating": 0.857,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "This warm root vegetable salad is food for the soul"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "This warm root vegetable salad is food for the soul",
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 22115,
+  "recipe_id": 2512,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Warm Beet-Sweet Potato Salad with Chickpeas, Arugula & Tahini Yogurt",
+  "slug": "warm-beet-sweet-potato-salad-chickpeas-arugula-tahini-yogurt",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/thumbnail_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2512/presentation_9cba2e40-7d4c-4b61-b426-d4397bd9d968.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "warm-beet-sweet-potato-salad-chickpeas-arugula-tahini-yogurt",
-    "variantId": "22115"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 370717,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 370718,
+      "primary_message": "Wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
+      "secondary_message": "4 medium beets\n1 lb sweet potato\n2 lemons\n1 small bunch Italian (flat-leaf) parsley\n1 (5 oz) pkg baby arugula"
+    },
+    {
+      "id": 370719,
+      "primary_message": "Drain and rinse chickpeas. Transfer to a large baking sheet pan and pat dry with paper towels. ",
+      "secondary_message": "2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 370720,
+      "primary_message": "Peel, trim, and medium dice beets. Add to the baking sheet with the chickpeas.",
+      "secondary_message": null
+    },
+    {
+      "id": 370721,
+      "primary_message": "Peel and medium dice sweet potatoes. Add to the baking sheet.",
+      "secondary_message": null
+    },
+    {
+      "id": 370722,
+      "primary_message": "Drizzle chickpeas and veggies with oil, then season with spices. Toss to coat and spread out in an even layer.",
+      "secondary_message": "¼ cup extra virgin olive oil\n4 tsp cumin, ground\n2 tsp coriander, ground\n1 tsp salt\n½ tsp cayenne pepper"
+    },
+    {
+      "id": 370723,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until chickpeas are crisp and veggies are fork-tender, about 25 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 370724,
+      "primary_message": "Meanwhile, zest and juice one lemon into a small bowl (set remaining lemon aside for the next step). Add yogurt, tahini, and salt; whisk to combine the tahini yogurt. Set aside.",
+      "secondary_message": "1 ½ cups plain Greek yogurt\n⅓ cup tahini\n½ tsp salt"
+    },
+    {
+      "id": 370725,
+      "primary_message": "Juice remaining lemon into a medium bowl. Add oil, salt, and pepper; whisk to combine the dressing and set aside.",
+      "secondary_message": "4 tsp extra virgin olive oil\n⅛ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 370726,
+      "primary_message": "Shave parsley leaves off the stems; discard stems and roughly chop the leaves. ",
+      "secondary_message": null
+    },
+    {
+      "id": 370727,
+      "primary_message": "When the chickpeas and veggies are done, remove from the oven. Add half of the parsley to the baking sheet and toss to combine. (Reserve remaining parsley for serving.)",
+      "secondary_message": null
+    },
+    {
+      "id": 370728,
+      "primary_message": "Add arugula to the bowl with the dressing and toss to coat.",
+      "secondary_message": null
+    },
+    {
+      "id": 370729,
+      "primary_message": "To serve, spoon the tahini yogurt over the bottom of each plate. Top with the dressed arugula, chickpea-veggie mixture, and reserved parsley. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 395339,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby arugula"
+    },
+    {
+      "id": 395330,
+      "quantity": "4 medium",
+      "ingredient_name": "beets"
+    },
+    {
+      "id": 395336,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 395337,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 395342,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 395338,
+      "quantity": "1 ½ cups",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 395340,
+      "quantity": "1 lb",
+      "ingredient_name": "sweet potato"
+    },
+    {
+      "id": 395333,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 395332,
+      "quantity": "",
+      "ingredient_name": "cayenne pepper"
+    },
+    {
+      "id": 395334,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 395341,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 395331,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 395335,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 395343,
+      "quantity": "",
+      "ingredient_name": "tahini"
+    }
+  ],
+  "nutrition": {
+    "energy": 690.78,
+    "alcohol": 0,
+    "ash": 8.56,
+    "caffeine": 0,
+    "water": 391.2,
+    "carbs": 72.83,
+    "fiber": 17.46,
+    "starch": 32.36,
+    "sugars": 15.55,
+    "fructose": 1.68,
+    "galactose": 0.64,
+    "glucose": 1.89,
+    "lactose": 2.33,
+    "maltose": 0,
+    "sucrose": 8.6,
+    "sugar_alcohol": 0.07,
+    "fat": 35.61,
+    "monounsaturated": 19.11,
+    "polyunsaturated": 8.82,
+    "omega_3": 0.36,
+    "omega_6": 8.46,
+    "saturated": 4.76,
+    "transfats": 0.03,
+    "cholesterol": 4.59,
+    "protein": 27.23,
+    "alanine": 1.14,
+    "arginine": 1.82,
+    "aspartic_acid": 2.9,
+    "cystine": 0.4,
+    "glutamic_acid": 4.79,
+    "glycine": 0.95,
+    "histidine": 0.64,
+    "isoleucine": 1.14,
+    "leucine": 2.03,
+    "lysine": 1.69,
+    "methionine": 0.5,
+    "phenylalanine": 1.2,
+    "proline": 1.32,
+    "serine": 1.3,
+    "threonine": 1.09,
+    "tryptophan": 0.41,
+    "tyrosine": 0.77,
+    "valine": 1.27,
+    "b1_thiamine": 0.5,
+    "b2_riboflavin": 0.55,
+    "b3_niacin": 2.97,
+    "b5_pantothenic_acid": 2.11,
+    "b6_pyridoxine": 0.62,
+    "b12_cobalamin": 0.69,
+    "choline": 93.89,
+    "folate": 254,
+    "vitamin_a": 16166.82,
+    "vitamin_c": 41.94,
+    "vitamin_d": 0,
+    "vitamin_e": 3.93,
+    "vitamin_k": 57.77,
+    "calcium": 388.55,
+    "copper": 1.01,
+    "iron": 7.79,
+    "magnesium": 148.31,
+    "manganese": 2.22,
+    "phosphorus": 527.93,
+    "potassium": 1249.95,
+    "selenium": 22.42,
+    "sodium": 478.13,
+    "zinc": 3.44
+  }
 }

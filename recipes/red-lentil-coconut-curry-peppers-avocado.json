@@ -1,749 +1,260 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 8594,
-        "recipe_id": 969,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Red Lentil Coconut Curry with Peppers & Avocado",
-        "slug": "red-lentil-coconut-curry-peppers-avocado",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 139188,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 (1 inch) pieces ginger root\n2 jalapeño peppers\n2 red bell peppers\n2 avocados\n1 small bunch cilantro"
-          },
-          {
-            "id": 139189,
-            "primary_message": "Heat a large pot over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 139190,
-            "primary_message": "Peel and mince the garlic and red onion. Peel and mince or grate the ginger. ",
-            "secondary_message": "4 cloves garlic\n½ medium red onion"
-          },
-          {
-            "id": 139191,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 139192,
-            "primary_message": "Add the garlic, onion, and ginger to the pot and cook, stirring occasionally, 2-3 minutes. ",
-            "secondary_message": null
-          },
-          {
-            "id": 139193,
-            "primary_message": "Quarter the jalapeño peppers lengthwise; seed and remove ribs of the jalapeños with a spoon. Finely dice (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing).",
-            "secondary_message": null
-          },
-          {
-            "id": 139194,
-            "primary_message": "Small dice the bell peppers. Add the jalapeños, bell peppers, curry powder, and salt to the pot. Cook, stirring occasionally, 2-3 minutes. ",
-            "secondary_message": "1 tsp curry powder\n1 tsp salt"
-          },
-          {
-            "id": 139195,
-            "primary_message": "Add the diced tomatoes, coconut milk, and broth to the pot. Stir and bring to a boil over high heat, then add the red lentils. Reduce heat to medium-low and cook, stirring occasionally, until lentils are tender, 22-25 minutes.",
-            "secondary_message": "2 (14.5 oz) cans diced tomatoes\n1 (13.5 fl oz) can coconut milk\n16 fl oz (2 cups) chicken or vegetable broth\n1 cup red lentils"
-          },
-          {
-            "id": 139196,
-            "primary_message": "Meanwhile, halve and pit the avocados; slice crosswise while still in the skin and scoop out with a spoon.",
-            "secondary_message": null
-          },
-          {
-            "id": 139197,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves.",
-            "secondary_message": null
-          },
-          {
-            "id": 139198,
-            "primary_message": "To serve, divide the lentil curry between bowls; top with sliced avocado and minced cilantro. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 144787,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 144790,
-            "quantity": "16 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 144789,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 144780,
-            "quantity": "1 (13.5 fl oz) can",
-            "ingredient_name": "coconut milk"
-          },
-          {
-            "id": 144784,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 144779,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 144791,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 144786,
-            "quantity": "2",
-            "ingredient_name": "jalapeño peppers"
-          },
-          {
-            "id": 144785,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 144788,
-            "quantity": "½ medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 144782,
-            "quantity": "",
-            "ingredient_name": "curry powder"
-          },
-          {
-            "id": 144781,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 144792,
-            "quantity": "",
-            "ingredient_name": "red lentils, dried"
-          },
-          {
-            "id": 144783,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 671.25,
-          "alcohol": 0,
-          "ash": 7.61,
-          "caffeine": 0,
-          "water": 558.16,
-          "carbs": 59.79,
-          "fiber": 19.04,
-          "starch": 23.45,
-          "sugars": 13.99,
-          "fructose": 4.66,
-          "galactose": 0.1,
-          "glucose": 5,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 4.17,
-          "sugar_alcohol": 0,
-          "fat": 44.05,
-          "monounsaturated": 16.44,
-          "polyunsaturated": 3.74,
-          "omega_3": 0.35,
-          "omega_6": 3.4,
-          "saturated": 21.13,
-          "transfats": 0.04,
-          "cholesterol": 0,
-          "protein": 20.16,
-          "alanine": 0.89,
-          "arginine": 1.47,
-          "aspartic_acid": 2.41,
-          "cystine": 0.28,
-          "glutamic_acid": 3.91,
-          "glycine": 0.84,
-          "histidine": 0.53,
-          "isoleucine": 0.84,
-          "leucine": 1.37,
-          "lysine": 1.31,
-          "methionine": 0.25,
-          "phenylalanine": 0.93,
-          "proline": 0.81,
-          "serine": 0.9,
-          "threonine": 0.77,
-          "tryptophan": 0.2,
-          "tyrosine": 0.54,
-          "valine": 0.96,
-          "b1_thiamine": 1.56,
-          "b2_riboflavin": 0.43,
-          "b3_niacin": 7.23,
-          "b5_pantothenic_acid": 2.48,
-          "b6_pyridoxine": 1.01,
-          "b12_cobalamin": 0.12,
-          "choline": 54.64,
-          "folate": 250.07,
-          "vitamin_a": 1088.28,
-          "vitamin_c": 129.79,
-          "vitamin_d": 0,
-          "vitamin_e": 6.11,
-          "vitamin_k": 98.14,
-          "calcium": 141.56,
-          "copper": 1.27,
-          "iron": 7.07,
-          "magnesium": 127.92,
-          "manganese": 2.17,
-          "phosphorus": 354.2,
-          "potassium": 1818.39,
-          "selenium": 6.26,
-          "sodium": 94.22,
-          "zinc": 3.58
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/red-lentil-coconut-curry-peppers-avocado/8594",
-      "altVariants": [
-        {
-          "id": 8595,
-          "recipe_id": 969,
-          "group_label": "Default",
-          "name": "Red Lentil Coconut Curry with Peppers & Avocado",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "published_recipe_uuid": "60533367-235d-4d92-902c-85a09d8e1c0d",
-          "fallback_published_recipe_uuids": [
-            "c6678d06-e94c-4a73-96a8-118eed7d74fc",
-            "50d99de1-a7e6-4faa-b05f-57dd4dc8ecc1"
-          ],
-          "first_published_at": 1571330390000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            201,
-            188,
-            41,
-            97,
-            24,
-            221,
-            151,
-            150,
-            184,
-            73,
-            47,
-            338,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            24,
-            1.5,
-            1.5,
-            3,
-            6,
-            3,
-            3,
-            3,
-            1,
-            7.5,
-            45,
-            360,
-            7.5
-          ],
-          "average_rating": 0.798,
-          "rating_count": 52,
-          "variety_tag_ids": [
-            25,
-            6,
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8594,
-          "recipe_id": 969,
-          "group_label": "Default",
-          "name": "Red Lentil Coconut Curry with Peppers & Avocado",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "published_recipe_uuid": "f3897b7a-fb1a-438a-aea4-7a652335de45",
-          "fallback_published_recipe_uuids": [
-            "55bdf395-6022-40da-a4a4-1f42cac9c9dd",
-            "87f2fe7d-976d-4222-9ccb-f3dc80fa785f"
-          ],
-          "first_published_at": 1571330390000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            201,
-            188,
-            41,
-            97,
-            24,
-            221,
-            151,
-            150,
-            184,
-            73,
-            47,
-            338,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            16,
-            1,
-            1,
-            2,
-            4,
-            2,
-            2,
-            2,
-            0.5,
-            5,
-            30,
-            240,
-            5
-          ],
-          "average_rating": 0.798,
-          "rating_count": 52,
-          "variety_tag_ids": [
-            25,
-            6,
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8593,
-          "recipe_id": 969,
-          "group_label": "Default",
-          "name": "Red Lentil Coconut Curry with Peppers & Avocado",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "published_recipe_uuid": "cf92ca2d-6d52-414d-bbc4-1a976aeeb1da",
-          "fallback_published_recipe_uuids": [
-            "accad6c7-103b-4f1f-b832-93c69fbb5919",
-            "58c00f7d-4681-4d5a-b692-d41ecf8cd2df"
-          ],
-          "first_published_at": 1571330389000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            201,
-            188,
-            41,
-            97,
-            24,
-            221,
-            151,
-            150,
-            144,
-            73,
-            47,
-            338,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            0.5,
-            0.5,
-            1,
-            2,
-            1,
-            1,
-            1,
-            1,
-            2.5,
-            15,
-            120,
-            2.5
-          ],
-          "average_rating": 0.798,
-          "rating_count": 52,
-          "variety_tag_ids": [
-            25,
-            6,
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8598,
-          "recipe_id": 969,
-          "group_label": "Default",
-          "name": "Red Lentil Coconut Curry with Peppers & Avocado",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "published_recipe_uuid": "dbb34070-6cfe-4ba7-b87c-9460192cca31",
-          "fallback_published_recipe_uuids": [
-            "e1afbc8d-18f2-42fd-a95a-f78a79e0faa5",
-            "0d91ef5f-65d6-445f-ac04-84e3c9948ac2"
-          ],
-          "first_published_at": 1571330393000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            201,
-            188,
-            41,
-            97,
-            24,
-            221,
-            151,
-            150,
-            184,
-            73,
-            47,
-            338,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            710,
-            1.5,
-            1.5,
-            3,
-            6,
-            3,
-            3,
-            3,
-            1,
-            7.5,
-            45,
-            360,
-            7.5
-          ],
-          "average_rating": 0.798,
-          "rating_count": 52,
-          "variety_tag_ids": [
-            25,
-            6,
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8597,
-          "recipe_id": 969,
-          "group_label": "Default",
-          "name": "Red Lentil Coconut Curry with Peppers & Avocado",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "published_recipe_uuid": "fd83606b-b46d-4772-a489-f111ab12cd18",
-          "fallback_published_recipe_uuids": [
-            "1ee49db8-0ed3-4df3-81e7-222197843901",
-            "43a70b7b-622e-4f0d-9e9a-0acad6a26cee"
-          ],
-          "first_published_at": 1571330392000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            201,
-            188,
-            41,
-            97,
-            24,
-            221,
-            151,
-            150,
-            184,
-            73,
-            47,
-            338,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            473,
-            1,
-            1,
-            2,
-            4,
-            2,
-            2,
-            2,
-            0.5,
-            5,
-            30,
-            240,
-            5
-          ],
-          "average_rating": 0.798,
-          "rating_count": 52,
-          "variety_tag_ids": [
-            25,
-            6,
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8596,
-          "recipe_id": 969,
-          "group_label": "Default",
-          "name": "Red Lentil Coconut Curry with Peppers & Avocado",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
-          "published_recipe_uuid": "a9457e4e-1c61-417a-af36-2e601427c7e3",
-          "fallback_published_recipe_uuids": [
-            "258e61d1-e4c8-433e-906d-13a25a1c40ac",
-            "d602dfa2-f980-43ef-9689-42659413e67e"
-          ],
-          "first_published_at": 1571330391000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            201,
-            188,
-            41,
-            97,
-            24,
-            221,
-            151,
-            150,
-            144,
-            73,
-            47,
-            338,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            237,
-            0.5,
-            0.5,
-            1,
-            2,
-            1,
-            1,
-            1,
-            1,
-            2.5,
-            15,
-            120,
-            2.5
-          ],
-          "average_rating": 0.798,
-          "rating_count": 52,
-          "variety_tag_ids": [
-            25,
-            6,
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Bowls",
-          "Curries",
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "",
-        "reviewCount": 52,
-        "reviewScore": null
-      }
+  "id": 8594,
+  "recipe_id": 969,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Red Lentil Coconut Curry with Peppers & Avocado",
+  "slug": "red-lentil-coconut-curry-peppers-avocado",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/thumbnail_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/969/presentation_b0b6363d-97c2-4982-8960-e2ca552bac0b.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "red-lentil-coconut-curry-peppers-avocado",
-    "variantId": "8594"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 139188,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 (1 inch) pieces ginger root\n2 jalapeño peppers\n2 red bell peppers\n2 avocados\n1 small bunch cilantro"
+    },
+    {
+      "id": 139189,
+      "primary_message": "Heat a large pot over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 139190,
+      "primary_message": "Peel and mince the garlic and red onion. Peel and mince or grate the ginger. ",
+      "secondary_message": "4 cloves garlic\n½ medium red onion"
+    },
+    {
+      "id": 139191,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 139192,
+      "primary_message": "Add the garlic, onion, and ginger to the pot and cook, stirring occasionally, 2-3 minutes. ",
+      "secondary_message": null
+    },
+    {
+      "id": 139193,
+      "primary_message": "Quarter the jalapeño peppers lengthwise; seed and remove ribs of the jalapeños with a spoon. Finely dice (Be careful, with jalapeños, do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing).",
+      "secondary_message": null
+    },
+    {
+      "id": 139194,
+      "primary_message": "Small dice the bell peppers. Add the jalapeños, bell peppers, curry powder, and salt to the pot. Cook, stirring occasionally, 2-3 minutes. ",
+      "secondary_message": "1 tsp curry powder\n1 tsp salt"
+    },
+    {
+      "id": 139195,
+      "primary_message": "Add the diced tomatoes, coconut milk, and broth to the pot. Stir and bring to a boil over high heat, then add the red lentils. Reduce heat to medium-low and cook, stirring occasionally, until lentils are tender, 22-25 minutes.",
+      "secondary_message": "2 (14.5 oz) cans diced tomatoes\n1 (13.5 fl oz) can coconut milk\n16 fl oz (2 cups) chicken or vegetable broth\n1 cup red lentils"
+    },
+    {
+      "id": 139196,
+      "primary_message": "Meanwhile, halve and pit the avocados; slice crosswise while still in the skin and scoop out with a spoon.",
+      "secondary_message": null
+    },
+    {
+      "id": 139197,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves.",
+      "secondary_message": null
+    },
+    {
+      "id": 139198,
+      "primary_message": "To serve, divide the lentil curry between bowls; top with sliced avocado and minced cilantro. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 144787,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 144790,
+      "quantity": "16 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 144789,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 144780,
+      "quantity": "1 (13.5 fl oz) can",
+      "ingredient_name": "coconut milk"
+    },
+    {
+      "id": 144784,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 144779,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 144791,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 144786,
+      "quantity": "2",
+      "ingredient_name": "jalapeño peppers"
+    },
+    {
+      "id": 144785,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 144788,
+      "quantity": "½ medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 144782,
+      "quantity": "",
+      "ingredient_name": "curry powder"
+    },
+    {
+      "id": 144781,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 144792,
+      "quantity": "",
+      "ingredient_name": "red lentils, dried"
+    },
+    {
+      "id": 144783,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 671.25,
+    "alcohol": 0,
+    "ash": 7.61,
+    "caffeine": 0,
+    "water": 558.16,
+    "carbs": 59.79,
+    "fiber": 19.04,
+    "starch": 23.45,
+    "sugars": 13.99,
+    "fructose": 4.66,
+    "galactose": 0.1,
+    "glucose": 5,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 4.17,
+    "sugar_alcohol": 0,
+    "fat": 44.05,
+    "monounsaturated": 16.44,
+    "polyunsaturated": 3.74,
+    "omega_3": 0.35,
+    "omega_6": 3.4,
+    "saturated": 21.13,
+    "transfats": 0.04,
+    "cholesterol": 0,
+    "protein": 20.16,
+    "alanine": 0.89,
+    "arginine": 1.47,
+    "aspartic_acid": 2.41,
+    "cystine": 0.28,
+    "glutamic_acid": 3.91,
+    "glycine": 0.84,
+    "histidine": 0.53,
+    "isoleucine": 0.84,
+    "leucine": 1.37,
+    "lysine": 1.31,
+    "methionine": 0.25,
+    "phenylalanine": 0.93,
+    "proline": 0.81,
+    "serine": 0.9,
+    "threonine": 0.77,
+    "tryptophan": 0.2,
+    "tyrosine": 0.54,
+    "valine": 0.96,
+    "b1_thiamine": 1.56,
+    "b2_riboflavin": 0.43,
+    "b3_niacin": 7.23,
+    "b5_pantothenic_acid": 2.48,
+    "b6_pyridoxine": 1.01,
+    "b12_cobalamin": 0.12,
+    "choline": 54.64,
+    "folate": 250.07,
+    "vitamin_a": 1088.28,
+    "vitamin_c": 129.79,
+    "vitamin_d": 0,
+    "vitamin_e": 6.11,
+    "vitamin_k": 98.14,
+    "calcium": 141.56,
+    "copper": 1.27,
+    "iron": 7.07,
+    "magnesium": 127.92,
+    "manganese": 2.17,
+    "phosphorus": 354.2,
+    "potassium": 1818.39,
+    "selenium": 6.26,
+    "sodium": 94.22,
+    "zinc": 3.58
+  }
 }

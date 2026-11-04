@@ -1,1093 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 9156,
-        "recipe_id": 1054,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
-        "slug": "cheesy-one-pot-gnocchi-italian-sausage-spinach",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 302466,
-            "primary_message": "Peel and small dice the onion. Peel and mince the garlic.",
-            "secondary_message": "1 medium yellow onion\n4 cloves garlic"
-          },
-          {
-            "id": 302467,
-            "primary_message": "Heat a large pot over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 302468,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 302469,
-            "primary_message": "Add the onion and garlic to the pot; cook, stirring frequently, until slightly softened, 4-5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 302470,
-            "primary_message": "Use the tip of a knife to slice down the length of the sausages. Peel off the casings and discard. Add the pork to the pot and break apart with a spoon. Cook, stirring occasionally, until pork is browned and crumbly, 6-8 minutes.",
-            "secondary_message": "4 pork sausages"
-          },
-          {
-            "id": 302471,
-            "primary_message": "Coarsely grate the mozzarella. Finely grate the Parmesan.",
-            "secondary_message": "½ (8 oz) block mozzarella cheese\n1 oz Parmesan cheese"
-          },
-          {
-            "id": 302472,
-            "primary_message": "Add gnocchi, diced tomatoes with their juices, water, Italian seasoning, and salt to the pot. Cover and cook on medium heat until gnocchi is cooked through, 3-5 minutes. Remove from heat.",
-            "secondary_message": "1 (16 oz) pkg potato gnocchi\n2 (14.5 oz) cans diced tomatoes\n½ cup water\n1 tsp Italian seasoning\n½ tsp salt"
-          },
-          {
-            "id": 302473,
-            "primary_message": "Wash and dry the spinach (Skip the spinach if it came pre-washed.) Add spinach to the pot in handfuls, waiting for the spinach to wilt slightly before adding the next handful, 1-2 minutes. Stir until well combined. ",
-            "secondary_message": "1 (5 oz) pkg baby spinach"
-          },
-          {
-            "id": 302474,
-            "primary_message": "Sprinkle both cheeses over the gnocchi and cover. Let sit for 3-5 minutes until cheese is melted.",
-            "secondary_message": null
-          },
-          {
-            "id": 302475,
-            "primary_message": "To serve, divide gnocchi between bowls and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 320962,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 320967,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 320961,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 320964,
-            "quantity": "½ (8 oz) block",
-            "ingredient_name": "mozzarella cheese"
-          },
-          {
-            "id": 320968,
-            "quantity": "1 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 320971,
-            "quantity": "4",
-            "ingredient_name": "pork sausages"
-          },
-          {
-            "id": 320970,
-            "quantity": "1 (16 oz) pkg",
-            "ingredient_name": "potato gnocchi"
-          },
-          {
-            "id": 320969,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 320963,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 320965,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 320966,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 690.01,
-          "alcohol": 0,
-          "ash": 8.29,
-          "caffeine": 0,
-          "water": 397.99,
-          "carbs": 32.33,
-          "fiber": 6.56,
-          "starch": 17.35,
-          "sugars": 8.03,
-          "fructose": 3.28,
-          "galactose": 0.08,
-          "glucose": 3.44,
-          "lactose": 0.78,
-          "maltose": 0.03,
-          "sucrose": 0.42,
-          "sugar_alcohol": 0,
-          "fat": 48.61,
-          "monounsaturated": 20.56,
-          "polyunsaturated": 5,
-          "omega_3": 0.27,
-          "omega_6": 4.42,
-          "saturated": 18.67,
-          "transfats": 0.59,
-          "cholesterol": 122.32,
-          "protein": 32.35,
-          "alanine": 1.48,
-          "arginine": 1.54,
-          "aspartic_acid": 2.81,
-          "cystine": 0.31,
-          "glutamic_acid": 6.17,
-          "glycine": 1.44,
-          "histidine": 0.88,
-          "isoleucine": 1.31,
-          "leucine": 2.29,
-          "lysine": 2.11,
-          "methionine": 0.74,
-          "phenylalanine": 1.27,
-          "proline": 2.11,
-          "serine": 1.27,
-          "threonine": 1.3,
-          "tryptophan": 0.4,
-          "tyrosine": 1.13,
-          "valine": 1.5,
-          "b1_thiamine": 1.66,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 7.64,
-          "b5_pantothenic_acid": 1.36,
-          "b6_pyridoxine": 0.8,
-          "b12_cobalamin": 1.9,
-          "choline": 100.5,
-          "folate": 119.34,
-          "vitamin_a": 1458.25,
-          "vitamin_c": 42.42,
-          "vitamin_d": 42.22,
-          "vitamin_e": 3.77,
-          "vitamin_k": 184.31,
-          "calcium": 295.61,
-          "copper": 0.35,
-          "iron": 4.69,
-          "magnesium": 90.39,
-          "manganese": 0.73,
-          "phosphorus": 409.28,
-          "potassium": 1102.87,
-          "selenium": 14.21,
-          "sodium": 1249.72,
-          "zinc": 3.73
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cheesy-one-pot-gnocchi-italian-sausage-spinach/9156",
-      "altVariants": [
-        {
-          "id": 18475,
-          "recipe_id": 1054,
-          "group_label": "Vegetarian",
-          "name": "Cheesy One-Pot Gnocchi with Veggie Ground & Spinach",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18475/thumbnail_b35e9c69-7769-48bf-b4b0-c49e3e4d141b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18475/presentation_b35e9c69-7769-48bf-b4b0-c49e3e4d141b.jpeg",
-          "published_recipe_uuid": "f1252514-05b2-48d5-a159-3cc801f234b6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1650995094000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            284,
-            444,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            0.75,
-            1.5,
-            1.5,
-            24,
-            1.5,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9157,
-          "recipe_id": 1054,
-          "group_label": "Default",
-          "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "published_recipe_uuid": "ee0b4704-67e8-409e-94ac-c4c4368dd561",
-          "fallback_published_recipe_uuids": [
-            "7199979e-59cd-4fad-a7fc-dbd3e40c64f1",
-            "8cf4c237-191e-4e6e-b97b-50f6624bc26d"
-          ],
-          "first_published_at": 1578931336000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            313,
-            284,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            0.75,
-            1.5,
-            6,
-            1.5,
-            1.5,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9156,
-          "recipe_id": 1054,
-          "group_label": "Default",
-          "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "published_recipe_uuid": "69e9e7da-adef-4b00-bbb7-3135c09f81f3",
-          "fallback_published_recipe_uuids": [
-            "85a0db22-61ff-417c-a6b5-04a8ca0f9d89",
-            "86528876-ed88-436c-ae67-decc9c7224e6"
-          ],
-          "first_published_at": 1578931335000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            313,
-            284,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.5,
-            1,
-            4,
-            1,
-            1,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9155,
-          "recipe_id": 1054,
-          "group_label": "Default",
-          "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "published_recipe_uuid": "554a631c-2fdd-4bf9-85b5-a26c9da27d49",
-          "fallback_published_recipe_uuids": [
-            "c69380a1-4e03-45a0-80c2-2bd1eeee9ced",
-            "8cabfe86-65f6-4075-a58d-15b226f3a926"
-          ],
-          "first_published_at": 1578931334000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            313,
-            284,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.25,
-            0.5,
-            2,
-            0.5,
-            0.5,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 18474,
-          "recipe_id": 1054,
-          "group_label": "Vegetarian",
-          "name": "Cheesy One-Pot Gnocchi with Veggie Ground & Spinach",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18474/thumbnail_626a0b72-68ea-4d82-b9aa-865e250ead87.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18474/presentation_626a0b72-68ea-4d82-b9aa-865e250ead87.jpeg",
-          "published_recipe_uuid": "0c1f77b3-c900-4724-b510-808c01852cdc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1650995094000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            284,
-            444,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.5,
-            1,
-            1,
-            16,
-            1,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 18473,
-          "recipe_id": 1054,
-          "group_label": "Vegetarian",
-          "name": "Cheesy One-Pot Gnocchi with Veggie Ground & Spinach",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18473/thumbnail_15dd6551-90d6-4502-b720-f70565d33b3e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18473/presentation_15dd6551-90d6-4502-b720-f70565d33b3e.jpeg",
-          "published_recipe_uuid": "ffe8fcd0-e925-4760-b966-7291026dd113",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1650995093000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            284,
-            444,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.25,
-            0.5,
-            0.5,
-            8,
-            0.5,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9159,
-          "recipe_id": 1054,
-          "group_label": "Default",
-          "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "published_recipe_uuid": "73661daa-4d3c-42e0-bc69-2ce3da6c086d",
-          "fallback_published_recipe_uuids": [
-            "7327728e-6be2-48ff-93e1-d868b11433a7",
-            "4bb80480-d639-469a-b70c-a1e3bdcad466"
-          ],
-          "first_published_at": 1578931337000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            313,
-            284,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.5,
-            28,
-            4,
-            1,
-            1,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 18480,
-          "recipe_id": 1054,
-          "group_label": "Vegetarian",
-          "name": "Cheesy One-Pot Gnocchi with Veggie Ground & Spinach",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18480/thumbnail_caee129d-00fe-4a12-8352-c2a45ea9c89d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18480/presentation_caee129d-00fe-4a12-8352-c2a45ea9c89d.jpeg",
-          "published_recipe_uuid": "02260d12-e169-4cd5-9c91-aa537c6f9cd9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1650995096000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            284,
-            444,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            0.75,
-            43,
-            1.5,
-            680,
-            1.5,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 18479,
-          "recipe_id": 1054,
-          "group_label": "Vegetarian",
-          "name": "Cheesy One-Pot Gnocchi with Veggie Ground & Spinach",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18479/thumbnail_f6ee82ec-099a-4a55-a9e8-442d3d9852d2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18479/presentation_f6ee82ec-099a-4a55-a9e8-442d3d9852d2.jpeg",
-          "published_recipe_uuid": "852814b5-f435-4722-b77c-1a6522d2e391",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1650995096000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            284,
-            444,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            4,
-            0.5,
-            28,
-            1,
-            454,
-            1,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 18477,
-          "recipe_id": 1054,
-          "group_label": "Vegetarian",
-          "name": "Cheesy One-Pot Gnocchi with Veggie Ground & Spinach",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18477/thumbnail_fba205ee-f20e-4f97-b5fd-b9598379446e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18477/presentation_fba205ee-f20e-4f97-b5fd-b9598379446e.jpeg",
-          "published_recipe_uuid": "9d82d355-8ce3-4001-892d-443029a5a894",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1650995095000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            284,
-            444,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.25,
-            14,
-            0.5,
-            227,
-            0.5,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9160,
-          "recipe_id": 1054,
-          "group_label": "Default",
-          "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "published_recipe_uuid": "bd5fa461-b2a8-4aed-8d6c-0c459431de6d",
-          "fallback_published_recipe_uuids": [
-            "95ee42ca-8b79-476d-a188-a4226444b58f",
-            "80decb08-649c-483c-bdcd-673cb86fba6c"
-          ],
-          "first_published_at": 1578931338000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            313,
-            284,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            6,
-            0.75,
-            43,
-            6,
-            1.5,
-            1.5,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9158,
-          "recipe_id": 1054,
-          "group_label": "Default",
-          "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
-          "published_recipe_uuid": "f57b00c8-28dc-4377-8f9d-d44897c1b887",
-          "fallback_published_recipe_uuids": [
-            "5e4a441a-c993-4281-b762-cefc1a33a386",
-            "c5e95818-4610-4b4a-af2b-277bf844417c"
-          ],
-          "first_published_at": 1578931337000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            33,
-            97,
-            24,
-            57,
-            120,
-            313,
-            284,
-            152,
-            47,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.25,
-            14,
-            2,
-            0.5,
-            0.5,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.807,
-          "rating_count": 379,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "Italian",
-        "reviewCount": 379,
-        "reviewScore": null
-      }
+  "id": 9156,
+  "recipe_id": 1054,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Cheesy One-Pot Gnocchi with Italian Sausage & Spinach",
+  "slug": "cheesy-one-pot-gnocchi-italian-sausage-spinach",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/thumbnail_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1054/presentation_1dfa2cb6-a10f-4484-94ae-eb3f1cb72c05.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cheesy-one-pot-gnocchi-italian-sausage-spinach",
-    "variantId": "9156"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 302466,
+      "primary_message": "Peel and small dice the onion. Peel and mince the garlic.",
+      "secondary_message": "1 medium yellow onion\n4 cloves garlic"
+    },
+    {
+      "id": 302467,
+      "primary_message": "Heat a large pot over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 302468,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 302469,
+      "primary_message": "Add the onion and garlic to the pot; cook, stirring frequently, until slightly softened, 4-5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 302470,
+      "primary_message": "Use the tip of a knife to slice down the length of the sausages. Peel off the casings and discard. Add the pork to the pot and break apart with a spoon. Cook, stirring occasionally, until pork is browned and crumbly, 6-8 minutes.",
+      "secondary_message": "4 pork sausages"
+    },
+    {
+      "id": 302471,
+      "primary_message": "Coarsely grate the mozzarella. Finely grate the Parmesan.",
+      "secondary_message": "½ (8 oz) block mozzarella cheese\n1 oz Parmesan cheese"
+    },
+    {
+      "id": 302472,
+      "primary_message": "Add gnocchi, diced tomatoes with their juices, water, Italian seasoning, and salt to the pot. Cover and cook on medium heat until gnocchi is cooked through, 3-5 minutes. Remove from heat.",
+      "secondary_message": "1 (16 oz) pkg potato gnocchi\n2 (14.5 oz) cans diced tomatoes\n½ cup water\n1 tsp Italian seasoning\n½ tsp salt"
+    },
+    {
+      "id": 302473,
+      "primary_message": "Wash and dry the spinach (Skip the spinach if it came pre-washed.) Add spinach to the pot in handfuls, waiting for the spinach to wilt slightly before adding the next handful, 1-2 minutes. Stir until well combined. ",
+      "secondary_message": "1 (5 oz) pkg baby spinach"
+    },
+    {
+      "id": 302474,
+      "primary_message": "Sprinkle both cheeses over the gnocchi and cover. Let sit for 3-5 minutes until cheese is melted.",
+      "secondary_message": null
+    },
+    {
+      "id": 302475,
+      "primary_message": "To serve, divide gnocchi between bowls and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 320962,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 320967,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 320961,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 320964,
+      "quantity": "½ (8 oz) block",
+      "ingredient_name": "mozzarella cheese"
+    },
+    {
+      "id": 320968,
+      "quantity": "1 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 320971,
+      "quantity": "4",
+      "ingredient_name": "pork sausages"
+    },
+    {
+      "id": 320970,
+      "quantity": "1 (16 oz) pkg",
+      "ingredient_name": "potato gnocchi"
+    },
+    {
+      "id": 320969,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 320963,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 320965,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 320966,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 690.01,
+    "alcohol": 0,
+    "ash": 8.29,
+    "caffeine": 0,
+    "water": 397.99,
+    "carbs": 32.33,
+    "fiber": 6.56,
+    "starch": 17.35,
+    "sugars": 8.03,
+    "fructose": 3.28,
+    "galactose": 0.08,
+    "glucose": 3.44,
+    "lactose": 0.78,
+    "maltose": 0.03,
+    "sucrose": 0.42,
+    "sugar_alcohol": 0,
+    "fat": 48.61,
+    "monounsaturated": 20.56,
+    "polyunsaturated": 5,
+    "omega_3": 0.27,
+    "omega_6": 4.42,
+    "saturated": 18.67,
+    "transfats": 0.59,
+    "cholesterol": 122.32,
+    "protein": 32.35,
+    "alanine": 1.48,
+    "arginine": 1.54,
+    "aspartic_acid": 2.81,
+    "cystine": 0.31,
+    "glutamic_acid": 6.17,
+    "glycine": 1.44,
+    "histidine": 0.88,
+    "isoleucine": 1.31,
+    "leucine": 2.29,
+    "lysine": 2.11,
+    "methionine": 0.74,
+    "phenylalanine": 1.27,
+    "proline": 2.11,
+    "serine": 1.27,
+    "threonine": 1.3,
+    "tryptophan": 0.4,
+    "tyrosine": 1.13,
+    "valine": 1.5,
+    "b1_thiamine": 1.66,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 7.64,
+    "b5_pantothenic_acid": 1.36,
+    "b6_pyridoxine": 0.8,
+    "b12_cobalamin": 1.9,
+    "choline": 100.5,
+    "folate": 119.34,
+    "vitamin_a": 1458.25,
+    "vitamin_c": 42.42,
+    "vitamin_d": 42.22,
+    "vitamin_e": 3.77,
+    "vitamin_k": 184.31,
+    "calcium": 295.61,
+    "copper": 0.35,
+    "iron": 4.69,
+    "magnesium": 90.39,
+    "manganese": 0.73,
+    "phosphorus": 409.28,
+    "potassium": 1102.87,
+    "selenium": 14.21,
+    "sodium": 1249.72,
+    "zinc": 3.73
+  }
 }

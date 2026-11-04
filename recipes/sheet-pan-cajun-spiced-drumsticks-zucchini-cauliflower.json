@@ -1,569 +1,190 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22109,
-        "recipe_id": 2511,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
-        "slug": "sheet-pan-cajun-spiced-drumsticks-zucchini-cauliflower",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 370669,
-            "primary_message": "Preheat oven to 500°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 370670,
-            "primary_message": "Pat chicken dry with paper towels and place in a large bowl.",
-            "secondary_message": "2 ½ lb chicken drumsticks"
-          },
-          {
-            "id": 370671,
-            "primary_message": "Wash, dry, trim, and slice zucchini crosswise into ½-inch thick rounds. Add to the bowl with the chicken along with the cauliflower.",
-            "secondary_message": "4 medium zucchini squash\n2 (10 oz) bags cauliflower florets"
-          },
-          {
-            "id": 370672,
-            "primary_message": "Drizzle chicken and veggies with oil, then sprinkle with Cajun seasoning and salt. Toss to coat.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n3 tbsp Cajun seasoning\n½ tsp salt"
-          },
-          {
-            "id": 370673,
-            "primary_message": "Divide chicken and veggies between two baking sheet pans, then spread out in an even layer.",
-            "secondary_message": null
-          },
-          {
-            "id": 370674,
-            "primary_message": "Place baking sheets in the oven (it doesn't have to be fully heated) and roast, flipping halfway through, until veggies are tender and chicken is cooked through, about 25 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 370675,
-            "primary_message": "To serve, divide chicken and veggies between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 395291,
-            "quantity": "2 (10 oz) bags",
-            "ingredient_name": "cauliflower florets"
-          },
-          {
-            "id": 395289,
-            "quantity": "2 ½ lb",
-            "ingredient_name": "chicken drumsticks"
-          },
-          {
-            "id": 395288,
-            "quantity": "4 medium",
-            "ingredient_name": "zucchini squash"
-          },
-          {
-            "id": 395290,
-            "quantity": "",
-            "ingredient_name": "Cajun seasoning"
-          },
-          {
-            "id": 395286,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 395287,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 585.65,
-          "alcohol": 0,
-          "ash": 5.42,
-          "caffeine": 0,
-          "water": 521.49,
-          "carbs": 13.44,
-          "fiber": 4.79,
-          "starch": 0,
-          "sugars": 7.6,
-          "fructose": 4.08,
-          "galactose": 0,
-          "glucose": 3.43,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.1,
-          "sugar_alcohol": 0,
-          "fat": 33.95,
-          "monounsaturated": 15.61,
-          "polyunsaturated": 6.51,
-          "omega_3": 0.29,
-          "omega_6": 2.55,
-          "saturated": 8.27,
-          "transfats": 0.14,
-          "cholesterol": 260.82,
-          "protein": 56.34,
-          "alanine": 3.39,
-          "arginine": 3.81,
-          "aspartic_acid": 5.49,
-          "cystine": 0.64,
-          "glutamic_acid": 8.84,
-          "glycine": 2.84,
-          "histidine": 1.62,
-          "isoleucine": 2.56,
-          "leucine": 4.54,
-          "lysine": 5.14,
-          "methionine": 1.49,
-          "phenylalanine": 2.19,
-          "proline": 2.37,
-          "serine": 2.34,
-          "threonine": 2.53,
-          "tryptophan": 0.6,
-          "tyrosine": 2.01,
-          "valine": 2.73,
-          "b1_thiamine": 0.39,
-          "b2_riboflavin": 0.82,
-          "b3_niacin": 15.33,
-          "b5_pantothenic_acid": 4.27,
-          "b6_pyridoxine": 1.56,
-          "b12_cobalamin": 1.5,
-          "choline": 231.01,
-          "folate": 136.2,
-          "vitamin_a": 522.41,
-          "vitamin_c": 103.29,
-          "vitamin_d": 5.67,
-          "vitamin_e": 1.87,
-          "vitamin_k": 41.57,
-          "calcium": 102.23,
-          "copper": 0.34,
-          "iron": 3.37,
-          "magnesium": 73.52,
-          "manganese": 0.62,
-          "phosphorus": 598.84,
-          "potassium": 1600.06,
-          "selenium": 58.51,
-          "sodium": 2289.7,
-          "zinc": 6.28
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sheet-pan-cajun-spiced-drumsticks-zucchini-cauliflower/22109",
-      "altVariants": [
-        {
-          "id": 22110,
-          "recipe_id": 2511,
-          "group_label": "Default",
-          "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "published_recipe_uuid": "4da688c9-d3e8-4c18-ab83-6a244c24f676",
-          "fallback_published_recipe_uuids": [
-            "75369b17-7237-4ac6-8fa8-9a721da6a994"
-          ],
-          "first_published_at": 1666714993000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            161,
-            140,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3.75,
-            6,
-            67.5,
-            45,
-            3.75
-          ],
-          "average_rating": 0.661,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "These delicious drumsticks will give you time to put your feet up and put a meal on the table the whole family loves"
-        },
-        {
-          "id": 22109,
-          "recipe_id": 2511,
-          "group_label": "Default",
-          "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "published_recipe_uuid": "ac8d25cf-260f-4871-aebe-83795213bdfd",
-          "fallback_published_recipe_uuids": [
-            "09c21319-2c3e-468a-8ecf-b9fd132c7f12"
-          ],
-          "first_published_at": 1666714994000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            161,
-            140,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2.5,
-            4,
-            45,
-            30,
-            2.5
-          ],
-          "average_rating": 0.661,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "These delicious drumsticks will give you time to put your feet up and put a meal on the table the whole family loves"
-        },
-        {
-          "id": 22108,
-          "recipe_id": 2511,
-          "group_label": "Default",
-          "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "published_recipe_uuid": "b4e81e96-233c-4112-948a-ca77c7437784",
-          "fallback_published_recipe_uuids": [
-            "6a3452d4-077c-4079-83e4-93cde580c86f"
-          ],
-          "first_published_at": 1666714994000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            161,
-            140,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1.25,
-            2,
-            22.5,
-            15,
-            1.25
-          ],
-          "average_rating": 0.661,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "These delicious drumsticks will give you time to put your feet up and put a meal on the table the whole family loves"
-        },
-        {
-          "id": 22113,
-          "recipe_id": 2511,
-          "group_label": "Default",
-          "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "published_recipe_uuid": "671e5b0f-7a27-4f0f-9108-1c128c3f8851",
-          "fallback_published_recipe_uuids": [
-            "b5b5ecf0-d865-4328-8f9e-1cde2fd4d878"
-          ],
-          "first_published_at": 1666714992000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            161,
-            140,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.7,
-            6,
-            67.5,
-            45,
-            3.75
-          ],
-          "average_rating": 0.661,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "These delicious drumsticks will give you time to put your feet up and put a meal on the table the whole family loves"
-        },
-        {
-          "id": 22112,
-          "recipe_id": 2511,
-          "group_label": "Default",
-          "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "published_recipe_uuid": "bbf034d3-028d-4aeb-92fd-65f0b34ab833",
-          "fallback_published_recipe_uuids": [
-            "b8a68445-46b1-4276-bb17-c16e6adec902"
-          ],
-          "first_published_at": 1666714993000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            161,
-            140,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1.13,
-            4,
-            45,
-            30,
-            2.5
-          ],
-          "average_rating": 0.661,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "These delicious drumsticks will give you time to put your feet up and put a meal on the table the whole family loves"
-        },
-        {
-          "id": 22111,
-          "recipe_id": 2511,
-          "group_label": "Default",
-          "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
-          "published_recipe_uuid": "7218d0b7-7354-4db7-a643-827cb1a83bea",
-          "fallback_published_recipe_uuids": [
-            "967cf4f2-ce0c-43eb-82ef-75f988ad32af"
-          ],
-          "first_published_at": 1666714993000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13
-          ],
-          "ingredient_ids": [
-            429,
-            161,
-            140,
-            412,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.57,
-            2,
-            22.5,
-            15,
-            1.25
-          ],
-          "average_rating": 0.661,
-          "rating_count": 28,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "These delicious drumsticks will give you time to put your feet up and put a meal on the table the whole family loves"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "These delicious drumsticks will give you time to put your feet up and put a meal on the table the whole family loves",
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 22109,
+  "recipe_id": 2511,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Sheet Pan Cajun-Spiced Drumsticks with Zucchini & Cauliflower",
+  "slug": "sheet-pan-cajun-spiced-drumsticks-zucchini-cauliflower",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/thumbnail_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2511/presentation_bcd44bdb-d178-4c15-b48d-a03099481858.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sheet-pan-cajun-spiced-drumsticks-zucchini-cauliflower",
-    "variantId": "22109"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 370669,
+      "primary_message": "Preheat oven to 500°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 370670,
+      "primary_message": "Pat chicken dry with paper towels and place in a large bowl.",
+      "secondary_message": "2 ½ lb chicken drumsticks"
+    },
+    {
+      "id": 370671,
+      "primary_message": "Wash, dry, trim, and slice zucchini crosswise into ½-inch thick rounds. Add to the bowl with the chicken along with the cauliflower.",
+      "secondary_message": "4 medium zucchini squash\n2 (10 oz) bags cauliflower florets"
+    },
+    {
+      "id": 370672,
+      "primary_message": "Drizzle chicken and veggies with oil, then sprinkle with Cajun seasoning and salt. Toss to coat.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n3 tbsp Cajun seasoning\n½ tsp salt"
+    },
+    {
+      "id": 370673,
+      "primary_message": "Divide chicken and veggies between two baking sheet pans, then spread out in an even layer.",
+      "secondary_message": null
+    },
+    {
+      "id": 370674,
+      "primary_message": "Place baking sheets in the oven (it doesn't have to be fully heated) and roast, flipping halfway through, until veggies are tender and chicken is cooked through, about 25 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 370675,
+      "primary_message": "To serve, divide chicken and veggies between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 395291,
+      "quantity": "2 (10 oz) bags",
+      "ingredient_name": "cauliflower florets"
+    },
+    {
+      "id": 395289,
+      "quantity": "2 ½ lb",
+      "ingredient_name": "chicken drumsticks"
+    },
+    {
+      "id": 395288,
+      "quantity": "4 medium",
+      "ingredient_name": "zucchini squash"
+    },
+    {
+      "id": 395290,
+      "quantity": "",
+      "ingredient_name": "Cajun seasoning"
+    },
+    {
+      "id": 395286,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 395287,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 585.65,
+    "alcohol": 0,
+    "ash": 5.42,
+    "caffeine": 0,
+    "water": 521.49,
+    "carbs": 13.44,
+    "fiber": 4.79,
+    "starch": 0,
+    "sugars": 7.6,
+    "fructose": 4.08,
+    "galactose": 0,
+    "glucose": 3.43,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.1,
+    "sugar_alcohol": 0,
+    "fat": 33.95,
+    "monounsaturated": 15.61,
+    "polyunsaturated": 6.51,
+    "omega_3": 0.29,
+    "omega_6": 2.55,
+    "saturated": 8.27,
+    "transfats": 0.14,
+    "cholesterol": 260.82,
+    "protein": 56.34,
+    "alanine": 3.39,
+    "arginine": 3.81,
+    "aspartic_acid": 5.49,
+    "cystine": 0.64,
+    "glutamic_acid": 8.84,
+    "glycine": 2.84,
+    "histidine": 1.62,
+    "isoleucine": 2.56,
+    "leucine": 4.54,
+    "lysine": 5.14,
+    "methionine": 1.49,
+    "phenylalanine": 2.19,
+    "proline": 2.37,
+    "serine": 2.34,
+    "threonine": 2.53,
+    "tryptophan": 0.6,
+    "tyrosine": 2.01,
+    "valine": 2.73,
+    "b1_thiamine": 0.39,
+    "b2_riboflavin": 0.82,
+    "b3_niacin": 15.33,
+    "b5_pantothenic_acid": 4.27,
+    "b6_pyridoxine": 1.56,
+    "b12_cobalamin": 1.5,
+    "choline": 231.01,
+    "folate": 136.2,
+    "vitamin_a": 522.41,
+    "vitamin_c": 103.29,
+    "vitamin_d": 5.67,
+    "vitamin_e": 1.87,
+    "vitamin_k": 41.57,
+    "calcium": 102.23,
+    "copper": 0.34,
+    "iron": 3.37,
+    "magnesium": 73.52,
+    "manganese": 0.62,
+    "phosphorus": 598.84,
+    "potassium": 1600.06,
+    "selenium": 58.51,
+    "sodium": 2289.7,
+    "zinc": 6.28
+  }
 }

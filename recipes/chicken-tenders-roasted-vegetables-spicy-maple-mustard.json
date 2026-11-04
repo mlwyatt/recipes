@@ -1,790 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4735,
-        "recipe_id": 707,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
-        "slug": "chicken-tenders-roasted-vegetables-spicy-maple-mustard",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 195748,
-            "primary_message": "Preheat the oven to 425°F and position rack in the center and bottom of the oven. Line two baking sheets with parchment paper.",
-            "secondary_message": null
-          },
-          {
-            "id": 195749,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 crowns broccoli\n⅔ lb sweet potato\n½ small bunch Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 195750,
-            "primary_message": "Cut the sweet potatoes in half lengthwise, then cut each half into ½-inch planks, then into sticks. Add to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 195751,
-            "primary_message": "Drizzle sweet potatoes with oil and season with garlic powder, salt, and pepper and toss until evenly coated. Spread out in an even layer on one of the prepared baking sheets and place in the oven, cook for 10 minutes. Set the bowl aside for the broccoli.",
-            "secondary_message": "2 tsp extra virgin olive oil\n½ tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 195752,
-            "primary_message": "Separate broccoli into bite-sized florets and cut stems into strips. Add to the bowl used for the sweet potatoes and toss with oil and spices. Set aside.",
-            "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 195753,
-            "primary_message": "Meanwhile, measure out the cornstarch in a medium bowl for dredging.",
-            "secondary_message": "½ cup cornstarch"
-          },
-          {
-            "id": 195754,
-            "primary_message": "In another medium bowl, whisk the egg.",
-            "secondary_message": "2 eggs"
-          },
-          {
-            "id": 195755,
-            "primary_message": "In a third medium bowl, mix together the almond meal, garlic powder, paprika, salt, and cayenne pepper. Stir to combine.",
-            "secondary_message": "1 ½ cup almond meal/flour\n1 tsp garlic powder\n1 tsp paprika\n2 tsp salt\n½ tsp cayenne pepper"
-          },
-          {
-            "id": 195756,
-            "primary_message": "Cut the chicken into 1-inch thick strips.",
-            "secondary_message": "1 ½ lb chicken breasts, boneless skinless"
-          },
-          {
-            "id": 195757,
-            "primary_message": "First, dredge the strips in cornstarch, shaking off any excess. Then, dip the chicken strips into the egg. Finally, dredge in almond meal mixture, pressing gently to adhere. Shake off excess and place on another prepared baking sheet. Place in the oven for 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 195758,
-            "primary_message": "Meanwhile, in small bowl prepare the dip by whisking together Dijon, maple syrup, salt, and cayenne. Set aside.",
-            "secondary_message": "2 tbsp Dijon mustard\n3 tbsp pure maple syrup\n¼ tsp salt\n¼ tsp cayenne pepper"
-          },
-          {
-            "id": 195759,
-            "primary_message": "When the potatoes have baked for 10 minutes, remove from oven and spread broccoli evenly over top. Return to oven and bake for another 15 minutes, until potatoes are fork tender.",
-            "secondary_message": null
-          },
-          {
-            "id": 195760,
-            "primary_message": "Once the chicken has cooked for 10 minutes remove from oven and flip. Return to oven and bake an additional 8-10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 195761,
-            "primary_message": "Using a knife, shave the parsley leaves off the stems at a downward angle; discard the stems and finely chop the leaves.",
-            "secondary_message": null
-          },
-          {
-            "id": 195762,
-            "primary_message": "To serve, arrange chicken tenders, wedges and broccoli on a plate. Garnish with parsley and serve with the maple mustard dip. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 204304,
-            "quantity": "2 crowns",
-            "ingredient_name": "broccoli"
-          },
-          {
-            "id": 204296,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 204307,
-            "quantity": "2",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 204305,
-            "quantity": "½ small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 204308,
-            "quantity": "⅔ lb",
-            "ingredient_name": "sweet potato"
-          },
-          {
-            "id": 204309,
-            "quantity": "",
-            "ingredient_name": "almond meal/flour"
-          },
-          {
-            "id": 204299,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 204298,
-            "quantity": "",
-            "ingredient_name": "cayenne pepper"
-          },
-          {
-            "id": 204310,
-            "quantity": "",
-            "ingredient_name": "cornstarch"
-          },
-          {
-            "id": 204306,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 204297,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 204300,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 204301,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 204303,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 204302,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 702.68,
-          "alcohol": 0.01,
-          "ash": 10.63,
-          "caffeine": 0,
-          "water": 297.12,
-          "carbs": 55.18,
-          "fiber": 9.21,
-          "starch": 25.52,
-          "sugars": 15.69,
-          "fructose": 1.29,
-          "galactose": 0,
-          "glucose": 1.55,
-          "lactose": 0.18,
-          "maltose": 0.23,
-          "sucrose": 12.41,
-          "sugar_alcohol": 0.03,
-          "fat": 31.19,
-          "monounsaturated": 17.76,
-          "polyunsaturated": 6.34,
-          "omega_3": 0.17,
-          "omega_6": 6.17,
-          "saturated": 3.83,
-          "transfats": 0.03,
-          "cholesterol": 206.01,
-          "protein": 53.34,
-          "alanine": 2.95,
-          "arginine": 3.95,
-          "aspartic_acid": 5.55,
-          "cystine": 0.62,
-          "glutamic_acid": 8.66,
-          "glycine": 2.49,
-          "histidine": 1.81,
-          "isoleucine": 2.42,
-          "leucine": 4.18,
-          "lysine": 4.31,
-          "methionine": 1.22,
-          "phenylalanine": 2.32,
-          "proline": 1.89,
-          "serine": 2.25,
-          "threonine": 2.26,
-          "tryptophan": 0.65,
-          "tyrosine": 1.78,
-          "valine": 2.68,
-          "b1_thiamine": 0.39,
-          "b2_riboflavin": 1.02,
-          "b3_niacin": 18.9,
-          "b5_pantothenic_acid": 4.15,
-          "b6_pyridoxine": 1.82,
-          "b12_cobalamin": 0.55,
-          "choline": 252.38,
-          "folate": 119.75,
-          "vitamin_a": 11491.64,
-          "vitamin_c": 88.39,
-          "vitamin_d": 19.74,
-          "vitamin_e": 12.29,
-          "vitamin_k": 92.6,
-          "calcium": 205.08,
-          "copper": 0.65,
-          "iron": 4.31,
-          "magnesium": 198.06,
-          "manganese": 1.72,
-          "phosphorus": 695.73,
-          "potassium": 1451.17,
-          "selenium": 52.24,
-          "sodium": 195.2,
-          "zinc": 3.56
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/chicken-tenders-roasted-vegetables-spicy-maple-mustard/4735",
-      "altVariants": [
-        {
-          "id": 6488,
-          "recipe_id": 707,
-          "group_label": "Default",
-          "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "published_recipe_uuid": "3530b6e8-4d19-4b2d-aeef-23ccd1de5253",
-          "fallback_published_recipe_uuids": [
-            "cd1f85cb-6873-4a19-9d46-a11f55524b41",
-            "8bc69570-ebbf-4ff1-b12b-194f5ebbb097",
-            "db676806-ec0f-4720-9526-e8704a2c42cb"
-          ],
-          "first_published_at": 1551301070000,
-          "allowed_type_ids": [
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            105,
-            44,
-            121,
-            106,
-            143,
-            253,
-            72,
-            71,
-            264,
-            117,
-            47,
-            79,
-            83,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            2.25,
-            3,
-            0.75,
-            1,
-            540,
-            5,
-            5,
-            180,
-            45,
-            30,
-            12.5,
-            7.5,
-            67.5,
-            26.25
-          ],
-          "average_rating": 0.69,
-          "rating_count": 46,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4735,
-          "recipe_id": 707,
-          "group_label": "Default",
-          "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "published_recipe_uuid": "e8051c60-3077-414c-81b0-ea96a6dbc6ed",
-          "fallback_published_recipe_uuids": [
-            "6eff8b0b-48aa-4b7f-821f-f2fad8a63edd",
-            "39fbccbe-d631-44df-a2ed-967fb08894dd",
-            "4eb94dc6-0e3d-4895-98da-c0cd9797f6a2"
-          ],
-          "first_published_at": 1549171296000,
-          "allowed_type_ids": [
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            105,
-            44,
-            121,
-            106,
-            143,
-            253,
-            72,
-            71,
-            264,
-            117,
-            47,
-            79,
-            83,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1.5,
-            2,
-            0.5,
-            0.6666666666666666,
-            360,
-            2.5,
-            3.75,
-            120,
-            30,
-            20,
-            7.5,
-            5,
-            45,
-            16.25
-          ],
-          "average_rating": 0.69,
-          "rating_count": 46,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4734,
-          "recipe_id": 707,
-          "group_label": "Default",
-          "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "published_recipe_uuid": "69e08648-9b34-4113-afbb-4d9999dbf73f",
-          "fallback_published_recipe_uuids": [
-            "4bf14f87-1fba-402c-8d3d-b1962d41a711",
-            "ea791a4e-4f90-41e9-9270-13c01e85b7d9",
-            "e19df272-47e6-4efc-978c-f24d624e05d1"
-          ],
-          "first_published_at": 1549171291000,
-          "allowed_type_ids": [
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            105,
-            44,
-            121,
-            106,
-            143,
-            253,
-            72,
-            71,
-            264,
-            117,
-            47,
-            79,
-            83,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.75,
-            1,
-            0.25,
-            0.3333333333333333,
-            180,
-            1.25,
-            1.875,
-            60,
-            15,
-            10,
-            3.75,
-            2.5,
-            22.5,
-            8.125
-          ],
-          "average_rating": 0.69,
-          "rating_count": 46,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6489,
-          "recipe_id": 707,
-          "group_label": "Default",
-          "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "published_recipe_uuid": "5c767c40-2f6b-4c4f-9b1b-67d059a8c855",
-          "fallback_published_recipe_uuids": [
-            "2343cc14-490d-4c18-8025-801b0e481969",
-            "9fa92ca0-a761-411f-8f91-85c5ea4ed7cc",
-            "68fc7491-bcdd-46b6-99e4-6a5577c09aad"
-          ],
-          "first_published_at": 1551301072000,
-          "allowed_type_ids": [
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            105,
-            44,
-            121,
-            106,
-            143,
-            253,
-            72,
-            71,
-            264,
-            117,
-            47,
-            79,
-            83,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.02,
-            3,
-            0.75,
-            0.45,
-            540,
-            5,
-            5,
-            180,
-            45,
-            30,
-            12.5,
-            7.5,
-            67.5,
-            26.25
-          ],
-          "average_rating": 0.69,
-          "rating_count": 46,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4737,
-          "recipe_id": 707,
-          "group_label": "Default",
-          "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "published_recipe_uuid": "2e9325d8-3718-4785-87f7-d9004b71aec5",
-          "fallback_published_recipe_uuids": [
-            "e8199007-9916-401f-bcb4-1eadbf219843",
-            "f665d381-2131-4781-86ca-a24750dfb4c2",
-            "d59cccd1-de2c-477e-8694-ec92606a5fcf"
-          ],
-          "first_published_at": 1549171297000,
-          "allowed_type_ids": [
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            105,
-            44,
-            121,
-            106,
-            143,
-            253,
-            72,
-            71,
-            264,
-            117,
-            47,
-            79,
-            83,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.68,
-            2,
-            0.5,
-            0.3,
-            360,
-            2.5,
-            3.75,
-            120,
-            30,
-            20,
-            7.5,
-            5,
-            45,
-            16.25
-          ],
-          "average_rating": 0.69,
-          "rating_count": 46,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4736,
-          "recipe_id": 707,
-          "group_label": "Default",
-          "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
-          "published_recipe_uuid": "95131780-29db-4ccf-866c-2eca59907360",
-          "fallback_published_recipe_uuids": [
-            "bad5d8cb-b363-4246-b968-cf068dfe93f1",
-            "2881a3a6-8df4-403c-a80d-28b989cc48ad",
-            "899bc4b8-f2fa-4169-83e3-3945c2e4afc9"
-          ],
-          "first_published_at": 1549171297000,
-          "allowed_type_ids": [
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            105,
-            44,
-            121,
-            106,
-            143,
-            253,
-            72,
-            71,
-            264,
-            117,
-            47,
-            79,
-            83,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.34,
-            1,
-            0.25,
-            0.15,
-            180,
-            1.25,
-            1.875,
-            60,
-            15,
-            10,
-            3.75,
-            2.5,
-            22.5,
-            8.125
-          ],
-          "average_rating": 0.69,
-          "rating_count": 46,
-          "variety_tag_ids": [
-            30
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Wings & Tenders"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 4735,
+  "recipe_id": 707,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Chicken Tenders with Roasted Vegetables & Spicy Maple Mustard",
+  "slug": "chicken-tenders-roasted-vegetables-spicy-maple-mustard",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/thumbnail_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/707/presentation_c28dcae9-a11e-4ff4-8fa7-b2db849904b5.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "chicken-tenders-roasted-vegetables-spicy-maple-mustard",
-    "variantId": "4735"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 195748,
+      "primary_message": "Preheat the oven to 425°F and position rack in the center and bottom of the oven. Line two baking sheets with parchment paper.",
+      "secondary_message": null
+    },
+    {
+      "id": 195749,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 crowns broccoli\n⅔ lb sweet potato\n½ small bunch Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 195750,
+      "primary_message": "Cut the sweet potatoes in half lengthwise, then cut each half into ½-inch planks, then into sticks. Add to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 195751,
+      "primary_message": "Drizzle sweet potatoes with oil and season with garlic powder, salt, and pepper and toss until evenly coated. Spread out in an even layer on one of the prepared baking sheets and place in the oven, cook for 10 minutes. Set the bowl aside for the broccoli.",
+      "secondary_message": "2 tsp extra virgin olive oil\n½ tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 195752,
+      "primary_message": "Separate broccoli into bite-sized florets and cut stems into strips. Add to the bowl used for the sweet potatoes and toss with oil and spices. Set aside.",
+      "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 195753,
+      "primary_message": "Meanwhile, measure out the cornstarch in a medium bowl for dredging.",
+      "secondary_message": "½ cup cornstarch"
+    },
+    {
+      "id": 195754,
+      "primary_message": "In another medium bowl, whisk the egg.",
+      "secondary_message": "2 eggs"
+    },
+    {
+      "id": 195755,
+      "primary_message": "In a third medium bowl, mix together the almond meal, garlic powder, paprika, salt, and cayenne pepper. Stir to combine.",
+      "secondary_message": "1 ½ cup almond meal/flour\n1 tsp garlic powder\n1 tsp paprika\n2 tsp salt\n½ tsp cayenne pepper"
+    },
+    {
+      "id": 195756,
+      "primary_message": "Cut the chicken into 1-inch thick strips.",
+      "secondary_message": "1 ½ lb chicken breasts, boneless skinless"
+    },
+    {
+      "id": 195757,
+      "primary_message": "First, dredge the strips in cornstarch, shaking off any excess. Then, dip the chicken strips into the egg. Finally, dredge in almond meal mixture, pressing gently to adhere. Shake off excess and place on another prepared baking sheet. Place in the oven for 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 195758,
+      "primary_message": "Meanwhile, in small bowl prepare the dip by whisking together Dijon, maple syrup, salt, and cayenne. Set aside.",
+      "secondary_message": "2 tbsp Dijon mustard\n3 tbsp pure maple syrup\n¼ tsp salt\n¼ tsp cayenne pepper"
+    },
+    {
+      "id": 195759,
+      "primary_message": "When the potatoes have baked for 10 minutes, remove from oven and spread broccoli evenly over top. Return to oven and bake for another 15 minutes, until potatoes are fork tender.",
+      "secondary_message": null
+    },
+    {
+      "id": 195760,
+      "primary_message": "Once the chicken has cooked for 10 minutes remove from oven and flip. Return to oven and bake an additional 8-10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 195761,
+      "primary_message": "Using a knife, shave the parsley leaves off the stems at a downward angle; discard the stems and finely chop the leaves.",
+      "secondary_message": null
+    },
+    {
+      "id": 195762,
+      "primary_message": "To serve, arrange chicken tenders, wedges and broccoli on a plate. Garnish with parsley and serve with the maple mustard dip. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 204304,
+      "quantity": "2 crowns",
+      "ingredient_name": "broccoli"
+    },
+    {
+      "id": 204296,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 204307,
+      "quantity": "2",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 204305,
+      "quantity": "½ small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 204308,
+      "quantity": "⅔ lb",
+      "ingredient_name": "sweet potato"
+    },
+    {
+      "id": 204309,
+      "quantity": "",
+      "ingredient_name": "almond meal/flour"
+    },
+    {
+      "id": 204299,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 204298,
+      "quantity": "",
+      "ingredient_name": "cayenne pepper"
+    },
+    {
+      "id": 204310,
+      "quantity": "",
+      "ingredient_name": "cornstarch"
+    },
+    {
+      "id": 204306,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 204297,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 204300,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 204301,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 204303,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 204302,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 702.68,
+    "alcohol": 0.01,
+    "ash": 10.63,
+    "caffeine": 0,
+    "water": 297.12,
+    "carbs": 55.18,
+    "fiber": 9.21,
+    "starch": 25.52,
+    "sugars": 15.69,
+    "fructose": 1.29,
+    "galactose": 0,
+    "glucose": 1.55,
+    "lactose": 0.18,
+    "maltose": 0.23,
+    "sucrose": 12.41,
+    "sugar_alcohol": 0.03,
+    "fat": 31.19,
+    "monounsaturated": 17.76,
+    "polyunsaturated": 6.34,
+    "omega_3": 0.17,
+    "omega_6": 6.17,
+    "saturated": 3.83,
+    "transfats": 0.03,
+    "cholesterol": 206.01,
+    "protein": 53.34,
+    "alanine": 2.95,
+    "arginine": 3.95,
+    "aspartic_acid": 5.55,
+    "cystine": 0.62,
+    "glutamic_acid": 8.66,
+    "glycine": 2.49,
+    "histidine": 1.81,
+    "isoleucine": 2.42,
+    "leucine": 4.18,
+    "lysine": 4.31,
+    "methionine": 1.22,
+    "phenylalanine": 2.32,
+    "proline": 1.89,
+    "serine": 2.25,
+    "threonine": 2.26,
+    "tryptophan": 0.65,
+    "tyrosine": 1.78,
+    "valine": 2.68,
+    "b1_thiamine": 0.39,
+    "b2_riboflavin": 1.02,
+    "b3_niacin": 18.9,
+    "b5_pantothenic_acid": 4.15,
+    "b6_pyridoxine": 1.82,
+    "b12_cobalamin": 0.55,
+    "choline": 252.38,
+    "folate": 119.75,
+    "vitamin_a": 11491.64,
+    "vitamin_c": 88.39,
+    "vitamin_d": 19.74,
+    "vitamin_e": 12.29,
+    "vitamin_k": 92.6,
+    "calcium": 205.08,
+    "copper": 0.65,
+    "iron": 4.31,
+    "magnesium": 198.06,
+    "manganese": 1.72,
+    "phosphorus": 695.73,
+    "potassium": 1451.17,
+    "selenium": 52.24,
+    "sodium": 195.2,
+    "zinc": 3.56
+  }
 }

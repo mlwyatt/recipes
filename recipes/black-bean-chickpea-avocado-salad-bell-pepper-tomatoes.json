@@ -1,725 +1,260 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3942,
-        "recipe_id": 568,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
-        "slug": "black-bean-chickpea-avocado-salad-bell-pepper-tomatoes",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 43883,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 pint grape tomatoes\n2 yellow bell peppers\n2 avocados\n2 limes\n1 small bunch cilantro"
-          },
-          {
-            "id": 43884,
-            "primary_message": "Drain and rinse the beans in a colander; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans black beans\n2 (15 oz) cans garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 43885,
-            "primary_message": "Grate all of the zest from the limes, then juice the limes; transfer both to a large bowl (that will hold the salad).",
-            "secondary_message": null
-          },
-          {
-            "id": 43886,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the bowl.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 43887,
-            "primary_message": "Add olive oil, cumin, salt, and pepper to the bowl; whisk together.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp cumin\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 43888,
-            "primary_message": "Halve the grape tomatoes crosswise; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 43889,
-            "primary_message": "Quarter the bell peppers lengthwise; remove and discard the stem, seeds, and membranes. Medium dice the peppers and add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 43890,
-            "primary_message": "Halve the avocados lengthwise and twist the halves to separate, then remove the pit with a knife or spoon; scoop out and medium dice the flesh. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 43891,
-            "primary_message": "Using a knife, shave the cilantro leaves off the stems at a downward angle, working away from your body; discard the stems and finely chop the leaves. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 43892,
-            "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces). Add to the bowl.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 43893,
-            "primary_message": "Add the beans to the salad, then toss until the salad is thoroughly coated with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 43894,
-            "primary_message": "To serve, divide the salad between bowls and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 47999,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 48007,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 47998,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 48006,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "garbanzo beans (chickpeas)"
-          },
-          {
-            "id": 48005,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 48000,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 48004,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 47997,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 47995,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 48001,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 48003,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 47996,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 48002,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 632.35,
-          "alcohol": 0,
-          "ash": 7.09,
-          "caffeine": 0,
-          "water": 426.15,
-          "carbs": 83.36,
-          "fiber": 30.8,
-          "starch": 38.01,
-          "sugars": 8.41,
-          "fructose": 3.47,
-          "galactose": 0.11,
-          "glucose": 3.3,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 1.48,
-          "sugar_alcohol": 0,
-          "fat": 26.34,
-          "monounsaturated": 15.73,
-          "polyunsaturated": 4.5,
-          "omega_3": 0.48,
-          "omega_6": 3.81,
-          "saturated": 3.53,
-          "transfats": 0.01,
-          "cholesterol": 0,
-          "protein": 23.83,
-          "alanine": 1.03,
-          "arginine": 1.57,
-          "aspartic_acid": 2.91,
-          "cystine": 0.28,
-          "glutamic_acid": 3.98,
-          "glycine": 0.96,
-          "histidine": 0.6,
-          "isoleucine": 1.01,
-          "leucine": 1.76,
-          "lysine": 1.48,
-          "methionine": 0.31,
-          "phenylalanine": 1.24,
-          "proline": 1.1,
-          "serine": 1.25,
-          "threonine": 0.83,
-          "tryptophan": 0.26,
-          "tyrosine": 0.57,
-          "valine": 1.19,
-          "b1_thiamine": 0.5,
-          "b2_riboflavin": 0.32,
-          "b3_niacin": 4.04,
-          "b5_pantothenic_acid": 2.4,
-          "b6_pyridoxine": 0.84,
-          "b12_cobalamin": 0,
-          "choline": 131.36,
-          "folate": 369.02,
-          "vitamin_a": 963.6,
-          "vitamin_c": 144.76,
-          "vitamin_d": 0,
-          "vitamin_e": 4.71,
-          "vitamin_k": 101.16,
-          "calcium": 199.07,
-          "copper": 0.96,
-          "iron": 6.17,
-          "magnesium": 157.89,
-          "manganese": 2.26,
-          "phosphorus": 403.15,
-          "potassium": 1597.79,
-          "selenium": 8.85,
-          "sodium": 790.26,
-          "zinc": 3.2
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/black-bean-chickpea-avocado-salad-bell-pepper-tomatoes/3942",
-      "altVariants": [
-        {
-          "id": 6176,
-          "recipe_id": 568,
-          "group_label": "Classic",
-          "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "published_recipe_uuid": "8cc6f328-1635-4f29-b5f1-84c454c45787",
-          "fallback_published_recipe_uuids": [
-            "e2922869-5c1d-4e6a-9e26-6a2666c99dd8",
-            "6bcc5de5-a29e-4f7d-8c85-b227ba66a635",
-            "89136605-b317-4b44-bd8c-4ec1f125d48e"
-          ],
-          "first_published_at": 1550528424000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            188,
-            92,
-            24,
-            277,
-            228,
-            184,
-            265,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            3,
-            3,
-            1.5,
-            3,
-            1.5,
-            3,
-            3.69669,
-            7.39338,
-            44.36025,
-            7.39338
-          ],
-          "average_rating": 0.791,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3917,
-          "recipe_id": 568,
-          "group_label": "Classic",
-          "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "published_recipe_uuid": "fc7b4b46-5b03-47d6-b8d8-f3607743cb85",
-          "fallback_published_recipe_uuids": [
-            "f18f536a-4d5d-4959-b38e-84c401ebf881",
-            "8d85ed00-973d-4cb5-9f0f-de7ef6978efb"
-          ],
-          "first_published_at": 1501384221000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            188,
-            92,
-            24,
-            277,
-            228,
-            184,
-            265,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.5,
-            1,
-            0.5,
-            1,
-            1.23223,
-            2.46446,
-            14.7868,
-            2.46446
-          ],
-          "average_rating": 0.791,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3942,
-          "recipe_id": 568,
-          "group_label": "Classic",
-          "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "published_recipe_uuid": "e76967ea-ff20-4a82-9d30-bfa032ee673c",
-          "fallback_published_recipe_uuids": [
-            "7eef4798-8796-408a-9e41-b4538d906ea1",
-            "f6526ca3-6d41-41b1-a0f0-f64e02744dab"
-          ],
-          "first_published_at": 1501385978000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            188,
-            92,
-            24,
-            277,
-            228,
-            184,
-            265,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            2,
-            2,
-            1,
-            2,
-            1,
-            2,
-            2.46446,
-            4.92892,
-            29.5735,
-            4.92892
-          ],
-          "average_rating": 0.791,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3944,
-          "recipe_id": 568,
-          "group_label": "Classic",
-          "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "published_recipe_uuid": "170ec3d8-0492-4e1a-8908-217439f0c22e",
-          "fallback_published_recipe_uuids": [
-            "3e967330-dd85-4b4a-a5c4-cf6eee8604c5",
-            "933f6129-32d5-4b07-9675-bbe4d1c1ea67"
-          ],
-          "first_published_at": 1501386395000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            188,
-            92,
-            24,
-            277,
-            228,
-            184,
-            265,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            2,
-            2,
-            1,
-            2,
-            1,
-            2,
-            2.46446,
-            4.92892,
-            29.5735,
-            4.92892
-          ],
-          "average_rating": 0.791,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3943,
-          "recipe_id": 568,
-          "group_label": "Classic",
-          "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "published_recipe_uuid": "3ddb7bae-4fbd-4bb9-a79f-ec65799030e1",
-          "fallback_published_recipe_uuids": [
-            "6000bec7-a0f6-47a7-ad90-8884476029d3",
-            "9038dcc6-f3da-4fba-9125-bdf353dd5786"
-          ],
-          "first_published_at": 1501386331000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            188,
-            92,
-            24,
-            277,
-            228,
-            184,
-            265,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            1,
-            1,
-            0.5,
-            1,
-            0.5,
-            1,
-            1.23223,
-            2.46446,
-            14.7868,
-            2.46446
-          ],
-          "average_rating": 0.791,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6177,
-          "recipe_id": 568,
-          "group_label": "Classic",
-          "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
-          "published_recipe_uuid": "933c17a0-3eda-4b3a-8360-f923bedcb411",
-          "fallback_published_recipe_uuids": [
-            "0dc67551-8519-46b6-9c7f-e4d762107c42",
-            "953db677-ff16-4c15-9e5b-f677784eb51f",
-            "5aea5ab2-d15b-4e1c-abea-badcba855138"
-          ],
-          "first_published_at": 1550528447000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            185,
-            188,
-            92,
-            24,
-            277,
-            228,
-            184,
-            265,
-            72,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            3,
-            3,
-            1.5,
-            3,
-            1.5,
-            3,
-            3.69669,
-            7.39338,
-            44.36025,
-            7.39338
-          ],
-          "average_rating": 0.791,
-          "rating_count": 73,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": 73,
-        "reviewScore": null
-      }
+  "id": 3942,
+  "recipe_id": 568,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Black Bean, Chickpea & Avocado Salad with Bell Pepper & Tomatoes",
+  "slug": "black-bean-chickpea-avocado-salad-bell-pepper-tomatoes",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/thumbnail_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/568/presentation_fd229bd4-4642-42b0-b8cb-e6083330470e.jpg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "black-bean-chickpea-avocado-salad-bell-pepper-tomatoes",
-    "variantId": "3942"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 43883,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 pint grape tomatoes\n2 yellow bell peppers\n2 avocados\n2 limes\n1 small bunch cilantro"
+    },
+    {
+      "id": 43884,
+      "primary_message": "Drain and rinse the beans in a colander; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans black beans\n2 (15 oz) cans garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 43885,
+      "primary_message": "Grate all of the zest from the limes, then juice the limes; transfer both to a large bowl (that will hold the salad).",
+      "secondary_message": null
+    },
+    {
+      "id": 43886,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Add to the bowl.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 43887,
+      "primary_message": "Add olive oil, cumin, salt, and pepper to the bowl; whisk together.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp cumin\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 43888,
+      "primary_message": "Halve the grape tomatoes crosswise; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 43889,
+      "primary_message": "Quarter the bell peppers lengthwise; remove and discard the stem, seeds, and membranes. Medium dice the peppers and add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 43890,
+      "primary_message": "Halve the avocados lengthwise and twist the halves to separate, then remove the pit with a knife or spoon; scoop out and medium dice the flesh. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 43891,
+      "primary_message": "Using a knife, shave the cilantro leaves off the stems at a downward angle, working away from your body; discard the stems and finely chop the leaves. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 43892,
+      "primary_message": "Trim off and discard the ends of the onion and remove the outer layer; small dice the onion (cut into ¼-inch pieces). Add to the bowl.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 43893,
+      "primary_message": "Add the beans to the salad, then toss until the salad is thoroughly coated with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 43894,
+      "primary_message": "To serve, divide the salad between bowls and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 47999,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 48007,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 47998,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 48006,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "garbanzo beans (chickpeas)"
+    },
+    {
+      "id": 48005,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 48000,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 48004,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 47997,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 47995,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 48001,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 48003,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 47996,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 48002,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 632.35,
+    "alcohol": 0,
+    "ash": 7.09,
+    "caffeine": 0,
+    "water": 426.15,
+    "carbs": 83.36,
+    "fiber": 30.8,
+    "starch": 38.01,
+    "sugars": 8.41,
+    "fructose": 3.47,
+    "galactose": 0.11,
+    "glucose": 3.3,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 1.48,
+    "sugar_alcohol": 0,
+    "fat": 26.34,
+    "monounsaturated": 15.73,
+    "polyunsaturated": 4.5,
+    "omega_3": 0.48,
+    "omega_6": 3.81,
+    "saturated": 3.53,
+    "transfats": 0.01,
+    "cholesterol": 0,
+    "protein": 23.83,
+    "alanine": 1.03,
+    "arginine": 1.57,
+    "aspartic_acid": 2.91,
+    "cystine": 0.28,
+    "glutamic_acid": 3.98,
+    "glycine": 0.96,
+    "histidine": 0.6,
+    "isoleucine": 1.01,
+    "leucine": 1.76,
+    "lysine": 1.48,
+    "methionine": 0.31,
+    "phenylalanine": 1.24,
+    "proline": 1.1,
+    "serine": 1.25,
+    "threonine": 0.83,
+    "tryptophan": 0.26,
+    "tyrosine": 0.57,
+    "valine": 1.19,
+    "b1_thiamine": 0.5,
+    "b2_riboflavin": 0.32,
+    "b3_niacin": 4.04,
+    "b5_pantothenic_acid": 2.4,
+    "b6_pyridoxine": 0.84,
+    "b12_cobalamin": 0,
+    "choline": 131.36,
+    "folate": 369.02,
+    "vitamin_a": 963.6,
+    "vitamin_c": 144.76,
+    "vitamin_d": 0,
+    "vitamin_e": 4.71,
+    "vitamin_k": 101.16,
+    "calcium": 199.07,
+    "copper": 0.96,
+    "iron": 6.17,
+    "magnesium": 157.89,
+    "manganese": 2.26,
+    "phosphorus": 403.15,
+    "potassium": 1597.79,
+    "selenium": 8.85,
+    "sodium": 790.26,
+    "zinc": 3.2
+  }
 }

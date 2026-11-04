@@ -1,635 +1,220 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 30428,
-        "recipe_id": 3391,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
-        "slug": "blueberry-banana-pecan-oatmeal-protein-bites",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 125,
-            "name": "parchment paper",
-            "slug": "parchment-paper"
-          },
-          {
-            "id": 16,
-            "name": "potato masher",
-            "slug": "potato-masher"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 484163,
-            "primary_message": "Preheat oven to 350°F. Line two baking sheet pans with parchment paper.",
-            "secondary_message": null
-          },
-          {
-            "id": 484164,
-            "primary_message": "Peel bananas, break into chunks, and place in a medium bowl. Mash with a fork or potato masher until smooth.",
-            "secondary_message": "2 bananas"
-          },
-          {
-            "id": 484165,
-            "primary_message": "Roughly chop pecans. Add to the bowl with the banana along with eggs and maple syrup. Stir to combine.",
-            "secondary_message": "½ cup pecan halves\n2 eggs\n2 tbsp pure maple syrup"
-          },
-          {
-            "id": 484166,
-            "primary_message": "Wash and dry blueberries. Add to the bowl along with oats, protein powder, cinnamon, and salt. Stir once more to combine the batter.",
-            "secondary_message": "1 (6 oz) pkg blueberries\n1 ½ cup oats, quick cooking\n2 servings vanilla whey-based protein powder (containing 20 grams protein/serving)\n1 tsp cinnamon, ground\n⅛ tsp salt"
-          },
-          {
-            "id": 484167,
-            "primary_message": "Using a ¼-cup measure, scoop batter onto the baking sheets, leaving some space between. Use the back of a spoon to spread each \"bite\" into a 3-inch circle. Place in the oven and bake until just firm to the touch, about 15 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 484168,
-            "primary_message": "Allow to cool for a few minutes before transferring to plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 520397,
-            "quantity": "2",
-            "ingredient_name": "bananas"
-          },
-          {
-            "id": 520395,
-            "quantity": "1 (6 oz) pkg",
-            "ingredient_name": "blueberries"
-          },
-          {
-            "id": 520396,
-            "quantity": "2",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 520398,
-            "quantity": "½ cup",
-            "ingredient_name": "pecan halves"
-          },
-          {
-            "id": 520392,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          },
-          {
-            "id": 520399,
-            "quantity": "",
-            "ingredient_name": "oats, quick cooking"
-          },
-          {
-            "id": 520394,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 520393,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 520400,
-            "quantity": "",
-            "ingredient_name": "vanilla whey-based protein powder (containing 20 grams protein/serving)"
-          }
-        ],
-        "nutrition": {
-          "energy": 395.15,
-          "alcohol": 0,
-          "ash": 3.21,
-          "caffeine": 0,
-          "water": 103.96,
-          "carbs": 50.41,
-          "fiber": 7.69,
-          "starch": 17.94,
-          "sugars": 18.44,
-          "fructose": 5.04,
-          "galactose": 0,
-          "glucose": 5.27,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 8.13,
-          "sugar_alcohol": 0,
-          "fat": 14.85,
-          "monounsaturated": 7.52,
-          "polyunsaturated": 4.1,
-          "omega_3": 0.22,
-          "omega_6": 3.84,
-          "saturated": 2.01,
-          "transfats": 0.01,
-          "cholesterol": 83.92,
-          "protein": 18.6,
-          "alanine": 0.4,
-          "arginine": 0.63,
-          "aspartic_acid": 0.82,
-          "cystine": 0.22,
-          "glutamic_acid": 1.54,
-          "glycine": 0.37,
-          "histidine": 0.19,
-          "isoleucine": 0.36,
-          "leucine": 0.64,
-          "lysine": 0.44,
-          "methionine": 0.18,
-          "phenylalanine": 0.43,
-          "proline": 0.32,
-          "serine": 0.51,
-          "threonine": 0.29,
-          "tryptophan": 0.11,
-          "tyrosine": 0.27,
-          "valine": 0.47,
-          "b1_thiamine": 0.31,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 0.86,
-          "b5_pantothenic_acid": 1.55,
-          "b6_pyridoxine": 0.2,
-          "b12_cobalamin": 0.51,
-          "choline": 114.47,
-          "folate": 29.21,
-          "vitamin_a": 164.05,
-          "vitamin_c": 4.24,
-          "vitamin_d": 18.04,
-          "vitamin_e": 0.8,
-          "vitamin_k": 9.57,
-          "calcium": 111.89,
-          "copper": 0.33,
-          "iron": 2.4,
-          "magnesium": 93.41,
-          "manganese": 2.21,
-          "phosphorus": 386.76,
-          "potassium": 321.18,
-          "selenium": 19.74,
-          "sodium": 55.26,
-          "zinc": 3.13
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/blueberry-banana-pecan-oatmeal-protein-bites/30428",
-      "altVariants": [
-        {
-          "id": 30429,
-          "recipe_id": 3391,
-          "group_label": "Default",
-          "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "published_recipe_uuid": "080cffd9-ed16-4446-9565-6d40d3c6b8a0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465610000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            6,
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            114,
-            121,
-            327,
-            74,
-            332,
-            104,
-            88,
-            485
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            0.75,
-            7.5,
-            540,
-            45,
-            0.9375,
-            3
-          ],
-          "average_rating": 0.75,
-          "rating_count": 1,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30428,
-          "recipe_id": 3391,
-          "group_label": "Default",
-          "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "published_recipe_uuid": "bb810681-c965-4f0f-812b-60b43a0b0b48",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465610000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            6,
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            114,
-            121,
-            327,
-            74,
-            332,
-            104,
-            88,
-            485
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            0.5,
-            5,
-            360,
-            30,
-            0.625,
-            2
-          ],
-          "average_rating": 0.75,
-          "rating_count": 1,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30427,
-          "recipe_id": 3391,
-          "group_label": "Default",
-          "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "published_recipe_uuid": "43b4d99e-5dbc-4a75-af66-199d71462c32",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465611000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            6,
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            114,
-            121,
-            327,
-            74,
-            332,
-            104,
-            88,
-            485
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.25,
-            2.5,
-            180,
-            15,
-            0.3125,
-            1
-          ],
-          "average_rating": 0.75,
-          "rating_count": 1,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30432,
-          "recipe_id": 3391,
-          "group_label": "Default",
-          "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "published_recipe_uuid": "f51e5d9e-88f5-415e-b70d-3fcd0d2f99ec",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465609000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            6,
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            114,
-            121,
-            327,
-            74,
-            332,
-            104,
-            88,
-            485
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3,
-            0.75,
-            7.5,
-            540,
-            45,
-            0.9375,
-            3
-          ],
-          "average_rating": 0.75,
-          "rating_count": 1,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30431,
-          "recipe_id": 3391,
-          "group_label": "Default",
-          "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "published_recipe_uuid": "b6971ac1-e5af-4a88-85ff-de25309fd687",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465609000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            6,
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            114,
-            121,
-            327,
-            74,
-            332,
-            104,
-            88,
-            485
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            0.5,
-            5,
-            360,
-            30,
-            0.625,
-            2
-          ],
-          "average_rating": 0.75,
-          "rating_count": 1,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30430,
-          "recipe_id": 3391,
-          "group_label": "Default",
-          "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
-          "published_recipe_uuid": "7b44362e-1bf1-4cb3-bb33-ad8efdd0c9d2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1720465610000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            6,
-            2
-          ],
-          "ingredient_ids": [
-            317,
-            114,
-            121,
-            327,
-            74,
-            332,
-            104,
-            88,
-            485
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.25,
-            2.5,
-            180,
-            15,
-            0.3125,
-            1
-          ],
-          "average_rating": 0.75,
-          "rating_count": 1,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 30428,
+  "recipe_id": 3391,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Blueberry, Banana & Pecan Oatmeal Protein Bites",
+  "slug": "blueberry-banana-pecan-oatmeal-protein-bites",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/thumbnail_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3391/presentation_bbb7d22b-6c47-4028-8a92-5a2f66132147.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "blueberry-banana-pecan-oatmeal-protein-bites",
-    "variantId": "30428"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 125,
+      "name": "parchment paper",
+      "slug": "parchment-paper"
+    },
+    {
+      "id": 16,
+      "name": "potato masher",
+      "slug": "potato-masher"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 484163,
+      "primary_message": "Preheat oven to 350°F. Line two baking sheet pans with parchment paper.",
+      "secondary_message": null
+    },
+    {
+      "id": 484164,
+      "primary_message": "Peel bananas, break into chunks, and place in a medium bowl. Mash with a fork or potato masher until smooth.",
+      "secondary_message": "2 bananas"
+    },
+    {
+      "id": 484165,
+      "primary_message": "Roughly chop pecans. Add to the bowl with the banana along with eggs and maple syrup. Stir to combine.",
+      "secondary_message": "½ cup pecan halves\n2 eggs\n2 tbsp pure maple syrup"
+    },
+    {
+      "id": 484166,
+      "primary_message": "Wash and dry blueberries. Add to the bowl along with oats, protein powder, cinnamon, and salt. Stir once more to combine the batter.",
+      "secondary_message": "1 (6 oz) pkg blueberries\n1 ½ cup oats, quick cooking\n2 servings vanilla whey-based protein powder (containing 20 grams protein/serving)\n1 tsp cinnamon, ground\n⅛ tsp salt"
+    },
+    {
+      "id": 484167,
+      "primary_message": "Using a ¼-cup measure, scoop batter onto the baking sheets, leaving some space between. Use the back of a spoon to spread each \"bite\" into a 3-inch circle. Place in the oven and bake until just firm to the touch, about 15 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 484168,
+      "primary_message": "Allow to cool for a few minutes before transferring to plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 520397,
+      "quantity": "2",
+      "ingredient_name": "bananas"
+    },
+    {
+      "id": 520395,
+      "quantity": "1 (6 oz) pkg",
+      "ingredient_name": "blueberries"
+    },
+    {
+      "id": 520396,
+      "quantity": "2",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 520398,
+      "quantity": "½ cup",
+      "ingredient_name": "pecan halves"
+    },
+    {
+      "id": 520392,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    },
+    {
+      "id": 520399,
+      "quantity": "",
+      "ingredient_name": "oats, quick cooking"
+    },
+    {
+      "id": 520394,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 520393,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 520400,
+      "quantity": "",
+      "ingredient_name": "vanilla whey-based protein powder (containing 20 grams protein/serving)"
+    }
+  ],
+  "nutrition": {
+    "energy": 395.15,
+    "alcohol": 0,
+    "ash": 3.21,
+    "caffeine": 0,
+    "water": 103.96,
+    "carbs": 50.41,
+    "fiber": 7.69,
+    "starch": 17.94,
+    "sugars": 18.44,
+    "fructose": 5.04,
+    "galactose": 0,
+    "glucose": 5.27,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 8.13,
+    "sugar_alcohol": 0,
+    "fat": 14.85,
+    "monounsaturated": 7.52,
+    "polyunsaturated": 4.1,
+    "omega_3": 0.22,
+    "omega_6": 3.84,
+    "saturated": 2.01,
+    "transfats": 0.01,
+    "cholesterol": 83.92,
+    "protein": 18.6,
+    "alanine": 0.4,
+    "arginine": 0.63,
+    "aspartic_acid": 0.82,
+    "cystine": 0.22,
+    "glutamic_acid": 1.54,
+    "glycine": 0.37,
+    "histidine": 0.19,
+    "isoleucine": 0.36,
+    "leucine": 0.64,
+    "lysine": 0.44,
+    "methionine": 0.18,
+    "phenylalanine": 0.43,
+    "proline": 0.32,
+    "serine": 0.51,
+    "threonine": 0.29,
+    "tryptophan": 0.11,
+    "tyrosine": 0.27,
+    "valine": 0.47,
+    "b1_thiamine": 0.31,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 0.86,
+    "b5_pantothenic_acid": 1.55,
+    "b6_pyridoxine": 0.2,
+    "b12_cobalamin": 0.51,
+    "choline": 114.47,
+    "folate": 29.21,
+    "vitamin_a": 164.05,
+    "vitamin_c": 4.24,
+    "vitamin_d": 18.04,
+    "vitamin_e": 0.8,
+    "vitamin_k": 9.57,
+    "calcium": 111.89,
+    "copper": 0.33,
+    "iron": 2.4,
+    "magnesium": 93.41,
+    "manganese": 2.21,
+    "phosphorus": 386.76,
+    "potassium": 321.18,
+    "selenium": 19.74,
+    "sodium": 55.26,
+    "zinc": 3.13
+  }
 }

@@ -1,647 +1,220 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 29258,
-        "recipe_id": 3298,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
-        "slug": "cheesy-beef-hash-brown-patties-ranch-mixed-green-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 466548,
-            "primary_message": "Place hash browns in a colander; rinse under hot water (from the tap) to thaw. Using your hands, squeeze as much water from the hash browns as you can.",
-            "secondary_message": "2 cups frozen shredded hash brown potatoes"
-          },
-          {
-            "id": 466549,
-            "primary_message": "Place hash browns in a medium bowl along with beef, cheese, eggs, salt, and pepper. Mix with your hands to combine, then form into 12 equal-sized patties and place on a plate.",
-            "secondary_message": "1 ½ lb lean ground beef\n1 cup shredded cheese, Mexican blend\n2 eggs\n1 tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 466550,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 466551,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, add patties and cook, undisturbed, until golden underneath, about 5 minutes; flip patties and cook an additional 5-6 minutes, until cooked through. Remove from heat.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 466552,
-            "primary_message": "Meanwhile, wash, dry, and halve grape tomatoes. Place in a clean medium bowl.",
-            "secondary_message": "1 pint grape tomatoes"
-          },
-          {
-            "id": 466553,
-            "primary_message": "Wash and dry the mixed greens (skip this step if they came pre-washed). Add to the bowl with the tomatoes, along with dressing, and toss to combine the salad.",
-            "secondary_message": "1 (5 oz) pkg spring mix (mixed greens)\n¼ cup ranch dressing"
-          },
-          {
-            "id": 466554,
-            "primary_message": "To serve, divide salad and patties between plates. Drizzle patties with ketchup and enjoy!",
-            "secondary_message": "¼ cup ketchup"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 500363,
-            "quantity": "2",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 500370,
-            "quantity": "2 cups",
-            "ingredient_name": "frozen shredded hash brown potatoes"
-          },
-          {
-            "id": 500367,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 500365,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 500368,
-            "quantity": "¼ cup",
-            "ingredient_name": "ranch dressing"
-          },
-          {
-            "id": 500369,
-            "quantity": "1 cup",
-            "ingredient_name": "shredded cheese, Mexican blend"
-          },
-          {
-            "id": 500364,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 500361,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 500360,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 500366,
-            "quantity": "",
-            "ingredient_name": "ketchup"
-          },
-          {
-            "id": 500362,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 702.92,
-          "alcohol": 0,
-          "ash": 5.64,
-          "caffeine": 0,
-          "water": 340.9,
-          "carbs": 28.35,
-          "fiber": 3.11,
-          "starch": 0.15,
-          "sugars": 6.56,
-          "fructose": 2.58,
-          "galactose": 0.01,
-          "glucose": 2.78,
-          "lactose": 0.2,
-          "maltose": 0,
-          "sucrose": 0.64,
-          "sugar_alcohol": 0,
-          "fat": 45.46,
-          "monounsaturated": 17.1,
-          "polyunsaturated": 5.93,
-          "omega_3": 0.94,
-          "omega_6": 5.08,
-          "saturated": 16.72,
-          "transfats": 1.5,
-          "cholesterol": 227.85,
-          "protein": 44.63,
-          "alanine": 2.27,
-          "arginine": 2.38,
-          "aspartic_acid": 3.82,
-          "cystine": 0.41,
-          "glutamic_acid": 5.88,
-          "glycine": 2.36,
-          "histidine": 1.15,
-          "isoleucine": 1.68,
-          "leucine": 2.89,
-          "lysine": 2.99,
-          "methionine": 0.93,
-          "phenylalanine": 1.52,
-          "proline": 1.83,
-          "serine": 1.6,
-          "threonine": 1.49,
-          "tryptophan": 0.23,
-          "tyrosine": 1.16,
-          "valine": 1.9,
-          "b1_thiamine": 0.24,
-          "b2_riboflavin": 0.54,
-          "b3_niacin": 10.49,
-          "b5_pantothenic_acid": 1.82,
-          "b6_pyridoxine": 0.85,
-          "b12_cobalamin": 4.25,
-          "choline": 189.44,
-          "folate": 79.25,
-          "vitamin_a": 825.18,
-          "vitamin_c": 22.54,
-          "vitamin_d": 23.3,
-          "vitamin_e": 2.07,
-          "vitamin_k": 99.62,
-          "calcium": 263.1,
-          "copper": 0.33,
-          "iron": 5.87,
-          "magnesium": 71.66,
-          "manganese": 0.43,
-          "phosphorus": 566.09,
-          "potassium": 1179.34,
-          "selenium": 38.92,
-          "sodium": 624.56,
-          "zinc": 9.27
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cheesy-beef-hash-brown-patties-ranch-mixed-green-salad/29258",
-      "altVariants": [
-        {
-          "id": 29258,
-          "recipe_id": 3298,
-          "group_label": "Default",
-          "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "published_recipe_uuid": "9e5ab38b-2c69-4058-a440-401a0ba78ea6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890815000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            121,
-            480,
-            277,
-            168,
-            406,
-            433,
-            145,
-            72,
-            47,
-            273,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1.5,
-            60,
-            1,
-            1,
-            1.25,
-            10,
-            60,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            8
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29259,
-          "recipe_id": 3298,
-          "group_label": "Default",
-          "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "published_recipe_uuid": "42bad504-ca84-4a4a-b2f4-f2d832cb7a3c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890814000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            121,
-            480,
-            277,
-            168,
-            406,
-            433,
-            145,
-            72,
-            47,
-            273,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            2.25,
-            90,
-            1.5,
-            1.5,
-            2.5,
-            15,
-            90,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            8
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29257,
-          "recipe_id": 3298,
-          "group_label": "Default",
-          "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "published_recipe_uuid": "a7b83e7c-f3d2-42bb-b364-8943c72e1ece",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890815000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            121,
-            480,
-            277,
-            168,
-            406,
-            433,
-            145,
-            72,
-            47,
-            273,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.75,
-            30,
-            0.5,
-            0.5,
-            0.625,
-            5,
-            30,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            8
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29262,
-          "recipe_id": 3298,
-          "group_label": "Default",
-          "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "published_recipe_uuid": "3c8e334b-4d6b-4cb2-ada3-92f65e15efe3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890814000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            121,
-            480,
-            277,
-            168,
-            406,
-            433,
-            145,
-            72,
-            47,
-            273,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.02,
-            90,
-            1.5,
-            1.5,
-            2.5,
-            15,
-            90,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            8
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29261,
-          "recipe_id": 3298,
-          "group_label": "Default",
-          "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "published_recipe_uuid": "b6ee1c93-c98c-4977-afc4-f16ce614d3a9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890814000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            121,
-            480,
-            277,
-            168,
-            406,
-            433,
-            145,
-            72,
-            47,
-            273,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            0.68,
-            60,
-            1,
-            1,
-            1.25,
-            10,
-            60,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            8
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29260,
-          "recipe_id": 3298,
-          "group_label": "Default",
-          "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
-          "published_recipe_uuid": "0e6d1bd6-3693-4e62-bc7c-6809131e8ad2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890814000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            121,
-            480,
-            277,
-            168,
-            406,
-            433,
-            145,
-            72,
-            47,
-            273,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.34,
-            30,
-            0.5,
-            0.5,
-            0.625,
-            5,
-            30,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            8
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": null,
-        "keywords": [
-          "Fritters & Cakes"
-        ],
-        "cuisine": "American",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 29258,
+  "recipe_id": 3298,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Cheesy Beef & Hash Brown Patties with Ranch Mixed Green Salad",
+  "slug": "cheesy-beef-hash-brown-patties-ranch-mixed-green-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/thumbnail_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3298/presentation_0301aab9-cf6f-4a9d-803a-aa5f9c40e58f.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cheesy-beef-hash-brown-patties-ranch-mixed-green-salad",
-    "variantId": "29258"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 466548,
+      "primary_message": "Place hash browns in a colander; rinse under hot water (from the tap) to thaw. Using your hands, squeeze as much water from the hash browns as you can.",
+      "secondary_message": "2 cups frozen shredded hash brown potatoes"
+    },
+    {
+      "id": 466549,
+      "primary_message": "Place hash browns in a medium bowl along with beef, cheese, eggs, salt, and pepper. Mix with your hands to combine, then form into 12 equal-sized patties and place on a plate.",
+      "secondary_message": "1 ½ lb lean ground beef\n1 cup shredded cheese, Mexican blend\n2 eggs\n1 tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 466550,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 466551,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, add patties and cook, undisturbed, until golden underneath, about 5 minutes; flip patties and cook an additional 5-6 minutes, until cooked through. Remove from heat.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 466552,
+      "primary_message": "Meanwhile, wash, dry, and halve grape tomatoes. Place in a clean medium bowl.",
+      "secondary_message": "1 pint grape tomatoes"
+    },
+    {
+      "id": 466553,
+      "primary_message": "Wash and dry the mixed greens (skip this step if they came pre-washed). Add to the bowl with the tomatoes, along with dressing, and toss to combine the salad.",
+      "secondary_message": "1 (5 oz) pkg spring mix (mixed greens)\n¼ cup ranch dressing"
+    },
+    {
+      "id": 466554,
+      "primary_message": "To serve, divide salad and patties between plates. Drizzle patties with ketchup and enjoy!",
+      "secondary_message": "¼ cup ketchup"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 500363,
+      "quantity": "2",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 500370,
+      "quantity": "2 cups",
+      "ingredient_name": "frozen shredded hash brown potatoes"
+    },
+    {
+      "id": 500367,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 500365,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 500368,
+      "quantity": "¼ cup",
+      "ingredient_name": "ranch dressing"
+    },
+    {
+      "id": 500369,
+      "quantity": "1 cup",
+      "ingredient_name": "shredded cheese, Mexican blend"
+    },
+    {
+      "id": 500364,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 500361,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 500360,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 500366,
+      "quantity": "",
+      "ingredient_name": "ketchup"
+    },
+    {
+      "id": 500362,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 702.92,
+    "alcohol": 0,
+    "ash": 5.64,
+    "caffeine": 0,
+    "water": 340.9,
+    "carbs": 28.35,
+    "fiber": 3.11,
+    "starch": 0.15,
+    "sugars": 6.56,
+    "fructose": 2.58,
+    "galactose": 0.01,
+    "glucose": 2.78,
+    "lactose": 0.2,
+    "maltose": 0,
+    "sucrose": 0.64,
+    "sugar_alcohol": 0,
+    "fat": 45.46,
+    "monounsaturated": 17.1,
+    "polyunsaturated": 5.93,
+    "omega_3": 0.94,
+    "omega_6": 5.08,
+    "saturated": 16.72,
+    "transfats": 1.5,
+    "cholesterol": 227.85,
+    "protein": 44.63,
+    "alanine": 2.27,
+    "arginine": 2.38,
+    "aspartic_acid": 3.82,
+    "cystine": 0.41,
+    "glutamic_acid": 5.88,
+    "glycine": 2.36,
+    "histidine": 1.15,
+    "isoleucine": 1.68,
+    "leucine": 2.89,
+    "lysine": 2.99,
+    "methionine": 0.93,
+    "phenylalanine": 1.52,
+    "proline": 1.83,
+    "serine": 1.6,
+    "threonine": 1.49,
+    "tryptophan": 0.23,
+    "tyrosine": 1.16,
+    "valine": 1.9,
+    "b1_thiamine": 0.24,
+    "b2_riboflavin": 0.54,
+    "b3_niacin": 10.49,
+    "b5_pantothenic_acid": 1.82,
+    "b6_pyridoxine": 0.85,
+    "b12_cobalamin": 4.25,
+    "choline": 189.44,
+    "folate": 79.25,
+    "vitamin_a": 825.18,
+    "vitamin_c": 22.54,
+    "vitamin_d": 23.3,
+    "vitamin_e": 2.07,
+    "vitamin_k": 99.62,
+    "calcium": 263.1,
+    "copper": 0.33,
+    "iron": 5.87,
+    "magnesium": 71.66,
+    "manganese": 0.43,
+    "phosphorus": 566.09,
+    "potassium": 1179.34,
+    "selenium": 38.92,
+    "sodium": 624.56,
+    "zinc": 9.27
+  }
 }

@@ -1,774 +1,305 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 26429,
-        "recipe_id": 2995,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
-        "slug": "chicken-skewers-roasted-strawberry-arugula-basil-feta-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-        "cookwares": [
-          {
-            "id": 83,
-            "name": "baking dish",
-            "slug": "baking-dish"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 88,
-            "name": "metal or wooden skewers (optional)",
-            "slug": "metal-or-wooden-skewers"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 429244,
-            "primary_message": "Preheat oven to 375°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 429245,
-            "primary_message": "If using wooden skewers, place 8-12 skewers in a shallow dish of water to soak until you are ready to use them.",
-            "secondary_message": null
-          },
-          {
-            "id": 429246,
-            "primary_message": "Wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
-            "secondary_message": "1 (16 oz) pkg strawberries\n2 lemons\n1 small pkg fresh basil\n1 (5 oz) pkg baby arugula"
-          },
-          {
-            "id": 429247,
-            "primary_message": "Trim and quarter strawberries lengthwise. Transfer to a baking dish, drizzle with honey, and season with salt. Stir to coat and spread out in an even layer.",
-            "secondary_message": "2 tsp honey\n⅛ tsp salt"
-          },
-          {
-            "id": 429248,
-            "primary_message": "Place baking dish in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until strawberries are soft, about 25 minutes. Remove from oven and set aside to cool.",
-            "secondary_message": null
-          },
-          {
-            "id": 429249,
-            "primary_message": "Meanwhile, zest lemons into a medium bowl (reserve lemons for later use). Add mayo and spices to the bowl, then whisk to combine the marinade.",
-            "secondary_message": "¼ cup mayonnaise\n1 tsp garlic powder\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 429250,
-            "primary_message": "Pat the chicken dry with paper towels and cut into bite-sized pieces. Add to the bowl with the marinade and stir to coat.",
-            "secondary_message": "2 lb chicken thighs, boneless skinless"
-          },
-          {
-            "id": 429251,
-            "primary_message": "Thread chicken onto skewers and place on a plate. (Alternatively, you can cook the chicken pieces directly on the grill pan without using skewers.)",
-            "secondary_message": null
-          },
-          {
-            "id": 429252,
-            "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 429253,
-            "primary_message": "Once the pan is hot, working in batches if necessary, add the skewers and grill, turning occasionally, until chicken is cooked through, 8-10 minutes. Remove to a clean plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 429254,
-            "primary_message": "Meanwhile, using a clean cutting board, peel and mince shallot. Place in a clean medium bowl.",
-            "secondary_message": "1 shallot"
-          },
-          {
-            "id": 429255,
-            "primary_message": "Juice one lemon into the bowl with the shallot. Add oil, pepper, and salt, then whisk to combine the dressing. (Reserve remaining lemon for serving.)",
-            "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp black pepper\n¼ tsp salt"
-          },
-          {
-            "id": 429256,
-            "primary_message": "Pick basil leaves off the stems and roughly chop the leaves. Add to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 429257,
-            "primary_message": "Roughly chop pistachios. Add to the bowl along with arugula, cooled strawberries, and feta. Gently toss to combine the salad.",
-            "secondary_message": "½ cup pistachios, unsalted\n1 (4 oz) pkg crumbled feta cheese"
-          },
-          {
-            "id": 429258,
-            "primary_message": "To serve, divide skewers and salad between plates. Squeeze reserved lemon over the skewers and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 459969,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby arugula"
-          },
-          {
-            "id": 459971,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 459963,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 459962,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 459972,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 459974,
-            "quantity": "½ cup",
-            "ingredient_name": "pistachios, unsalted"
-          },
-          {
-            "id": 459970,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 459973,
-            "quantity": "1 (16 oz) pkg",
-            "ingredient_name": "strawberries"
-          },
-          {
-            "id": 459965,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 459964,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 459966,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 459968,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 459975,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 459967,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 670.94,
-          "alcohol": 0,
-          "ash": 6.76,
-          "caffeine": 0,
-          "water": 361.33,
-          "carbs": 22.98,
-          "fiber": 5.01,
-          "starch": 3.91,
-          "sugars": 13.02,
-          "fructose": 4.92,
-          "galactose": 0.14,
-          "glucose": 4.23,
-          "lactose": 1.16,
-          "maltose": 0.07,
-          "sucrose": 2.47,
-          "sugar_alcohol": 0,
-          "fat": 41.12,
-          "monounsaturated": 16.06,
-          "polyunsaturated": 11.85,
-          "omega_3": 1.19,
-          "omega_6": 10.65,
-          "saturated": 10.38,
-          "transfats": 0.41,
-          "cholesterol": 247.47,
-          "protein": 54.35,
-          "alanine": 3.07,
-          "arginine": 3.68,
-          "aspartic_acid": 5.14,
-          "cystine": 0.61,
-          "glutamic_acid": 8.84,
-          "glycine": 2.29,
-          "histidine": 1.55,
-          "isoleucine": 2.55,
-          "leucine": 4.53,
-          "lysine": 4.8,
-          "methionine": 1.44,
-          "phenylalanine": 2.19,
-          "proline": 2.39,
-          "serine": 2.45,
-          "threonine": 2.45,
-          "tryptophan": 0.62,
-          "tyrosine": 1.99,
-          "valine": 2.72,
-          "b1_thiamine": 0.41,
-          "b2_riboflavin": 0.79,
-          "b3_niacin": 13.77,
-          "b5_pantothenic_acid": 0.76,
-          "b6_pyridoxine": 1.46,
-          "b12_cobalamin": 1.88,
-          "choline": 159.42,
-          "folate": 101.63,
-          "vitamin_a": 245.46,
-          "vitamin_c": 84.06,
-          "vitamin_d": 8.62,
-          "vitamin_e": 3.33,
-          "vitamin_k": 104.68,
-          "calcium": 268.32,
-          "copper": 0.48,
-          "iron": 4.15,
-          "magnesium": 115.2,
-          "manganese": 0.97,
-          "phosphorus": 651.11,
-          "potassium": 945.01,
-          "selenium": 64.36,
-          "sodium": 519.55,
-          "zinc": 5.25
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/chicken-skewers-roasted-strawberry-arugula-basil-feta-salad/26429",
-      "altVariants": [
-        {
-          "id": 26429,
-          "recipe_id": 2995,
-          "group_label": "Default",
-          "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "published_recipe_uuid": "7b5b1532-509a-4117-b260-a449a5752b5c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381423000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            139,
-            164,
-            32,
-            28,
-            192,
-            256,
-            144,
-            242,
-            72,
-            47,
-            79,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            2,
-            0.5,
-            1,
-            1,
-            5,
-            30,
-            5,
-            10,
-            60,
-            4.375
-          ],
-          "average_rating": 0.845,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26428,
-          "recipe_id": 2995,
-          "group_label": "Default",
-          "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "published_recipe_uuid": "862b243d-1d6f-4842-858d-c267c9bcebad",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381423000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            139,
-            164,
-            32,
-            28,
-            192,
-            256,
-            144,
-            242,
-            72,
-            47,
-            79,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1,
-            0.25,
-            0.5,
-            0.5,
-            2.5,
-            15,
-            2.5,
-            5,
-            30,
-            2.1875
-          ],
-          "average_rating": 0.845,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26430,
-          "recipe_id": 2995,
-          "group_label": "Default",
-          "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "published_recipe_uuid": "5b76f4ba-59b0-4996-a4e6-0a1da106be9c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381423000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            139,
-            164,
-            32,
-            28,
-            192,
-            256,
-            144,
-            242,
-            72,
-            47,
-            79,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            1,
-            3,
-            0.75,
-            2,
-            1.5,
-            7.5,
-            45,
-            7.5,
-            15,
-            90,
-            7.1875
-          ],
-          "average_rating": 0.845,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26433,
-          "recipe_id": 2995,
-          "group_label": "Default",
-          "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "published_recipe_uuid": "ace225d1-6dd7-4002-b942-ef8222d2be73",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381422000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            139,
-            164,
-            32,
-            28,
-            192,
-            256,
-            144,
-            242,
-            72,
-            47,
-            79,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.36,
-            1.5,
-            1,
-            3,
-            0.75,
-            2,
-            1.5,
-            7.5,
-            45,
-            7.5,
-            15,
-            90,
-            7.1875
-          ],
-          "average_rating": 0.845,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26432,
-          "recipe_id": 2995,
-          "group_label": "Default",
-          "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "published_recipe_uuid": "e062bce0-86e6-442a-a8b0-2535f8cd9f31",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381422000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            139,
-            164,
-            32,
-            28,
-            192,
-            256,
-            144,
-            242,
-            72,
-            47,
-            79,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.91,
-            1,
-            1,
-            2,
-            0.5,
-            1,
-            1,
-            5,
-            30,
-            5,
-            10,
-            60,
-            4.375
-          ],
-          "average_rating": 0.845,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26431,
-          "recipe_id": 2995,
-          "group_label": "Default",
-          "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
-          "published_recipe_uuid": "17eba375-470d-44e5-81ce-a8fac01334e4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381422000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            6,
-            11
-          ],
-          "ingredient_ids": [
-            139,
-            164,
-            32,
-            28,
-            192,
-            256,
-            144,
-            242,
-            72,
-            47,
-            79,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.45,
-            0.5,
-            0.5,
-            1,
-            0.25,
-            0.5,
-            0.5,
-            2.5,
-            15,
-            2.5,
-            5,
-            30,
-            2.1875
-          ],
-          "average_rating": 0.845,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "BBQ & Grilling"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.2
-      }
+  "id": 26429,
+  "recipe_id": 2995,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Chicken Skewers with Roasted Strawberry, Arugula, Basil & Feta Salad",
+  "slug": "chicken-skewers-roasted-strawberry-arugula-basil-feta-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/thumbnail_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2995/presentation_da89d704-70fb-45be-a062-a52ea0a034a3.jpeg",
+  "cookwares": [
+    {
+      "id": 83,
+      "name": "baking dish",
+      "slug": "baking-dish"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "chicken-skewers-roasted-strawberry-arugula-basil-feta-salad",
-    "variantId": "26429"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 88,
+      "name": "metal or wooden skewers (optional)",
+      "slug": "metal-or-wooden-skewers"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 429244,
+      "primary_message": "Preheat oven to 375°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 429245,
+      "primary_message": "If using wooden skewers, place 8-12 skewers in a shallow dish of water to soak until you are ready to use them.",
+      "secondary_message": null
+    },
+    {
+      "id": 429246,
+      "primary_message": "Wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
+      "secondary_message": "1 (16 oz) pkg strawberries\n2 lemons\n1 small pkg fresh basil\n1 (5 oz) pkg baby arugula"
+    },
+    {
+      "id": 429247,
+      "primary_message": "Trim and quarter strawberries lengthwise. Transfer to a baking dish, drizzle with honey, and season with salt. Stir to coat and spread out in an even layer.",
+      "secondary_message": "2 tsp honey\n⅛ tsp salt"
+    },
+    {
+      "id": 429248,
+      "primary_message": "Place baking dish in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until strawberries are soft, about 25 minutes. Remove from oven and set aside to cool.",
+      "secondary_message": null
+    },
+    {
+      "id": 429249,
+      "primary_message": "Meanwhile, zest lemons into a medium bowl (reserve lemons for later use). Add mayo and spices to the bowl, then whisk to combine the marinade.",
+      "secondary_message": "¼ cup mayonnaise\n1 tsp garlic powder\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 429250,
+      "primary_message": "Pat the chicken dry with paper towels and cut into bite-sized pieces. Add to the bowl with the marinade and stir to coat.",
+      "secondary_message": "2 lb chicken thighs, boneless skinless"
+    },
+    {
+      "id": 429251,
+      "primary_message": "Thread chicken onto skewers and place on a plate. (Alternatively, you can cook the chicken pieces directly on the grill pan without using skewers.)",
+      "secondary_message": null
+    },
+    {
+      "id": 429252,
+      "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 429253,
+      "primary_message": "Once the pan is hot, working in batches if necessary, add the skewers and grill, turning occasionally, until chicken is cooked through, 8-10 minutes. Remove to a clean plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 429254,
+      "primary_message": "Meanwhile, using a clean cutting board, peel and mince shallot. Place in a clean medium bowl.",
+      "secondary_message": "1 shallot"
+    },
+    {
+      "id": 429255,
+      "primary_message": "Juice one lemon into the bowl with the shallot. Add oil, pepper, and salt, then whisk to combine the dressing. (Reserve remaining lemon for serving.)",
+      "secondary_message": "2 tbsp extra virgin olive oil\n½ tsp black pepper\n¼ tsp salt"
+    },
+    {
+      "id": 429256,
+      "primary_message": "Pick basil leaves off the stems and roughly chop the leaves. Add to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 429257,
+      "primary_message": "Roughly chop pistachios. Add to the bowl along with arugula, cooled strawberries, and feta. Gently toss to combine the salad.",
+      "secondary_message": "½ cup pistachios, unsalted\n1 (4 oz) pkg crumbled feta cheese"
+    },
+    {
+      "id": 429258,
+      "primary_message": "To serve, divide skewers and salad between plates. Squeeze reserved lemon over the skewers and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 459969,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby arugula"
+    },
+    {
+      "id": 459971,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 459963,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 459962,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 459972,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 459974,
+      "quantity": "½ cup",
+      "ingredient_name": "pistachios, unsalted"
+    },
+    {
+      "id": 459970,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 459973,
+      "quantity": "1 (16 oz) pkg",
+      "ingredient_name": "strawberries"
+    },
+    {
+      "id": 459965,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 459964,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 459966,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 459968,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 459975,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 459967,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 670.94,
+    "alcohol": 0,
+    "ash": 6.76,
+    "caffeine": 0,
+    "water": 361.33,
+    "carbs": 22.98,
+    "fiber": 5.01,
+    "starch": 3.91,
+    "sugars": 13.02,
+    "fructose": 4.92,
+    "galactose": 0.14,
+    "glucose": 4.23,
+    "lactose": 1.16,
+    "maltose": 0.07,
+    "sucrose": 2.47,
+    "sugar_alcohol": 0,
+    "fat": 41.12,
+    "monounsaturated": 16.06,
+    "polyunsaturated": 11.85,
+    "omega_3": 1.19,
+    "omega_6": 10.65,
+    "saturated": 10.38,
+    "transfats": 0.41,
+    "cholesterol": 247.47,
+    "protein": 54.35,
+    "alanine": 3.07,
+    "arginine": 3.68,
+    "aspartic_acid": 5.14,
+    "cystine": 0.61,
+    "glutamic_acid": 8.84,
+    "glycine": 2.29,
+    "histidine": 1.55,
+    "isoleucine": 2.55,
+    "leucine": 4.53,
+    "lysine": 4.8,
+    "methionine": 1.44,
+    "phenylalanine": 2.19,
+    "proline": 2.39,
+    "serine": 2.45,
+    "threonine": 2.45,
+    "tryptophan": 0.62,
+    "tyrosine": 1.99,
+    "valine": 2.72,
+    "b1_thiamine": 0.41,
+    "b2_riboflavin": 0.79,
+    "b3_niacin": 13.77,
+    "b5_pantothenic_acid": 0.76,
+    "b6_pyridoxine": 1.46,
+    "b12_cobalamin": 1.88,
+    "choline": 159.42,
+    "folate": 101.63,
+    "vitamin_a": 245.46,
+    "vitamin_c": 84.06,
+    "vitamin_d": 8.62,
+    "vitamin_e": 3.33,
+    "vitamin_k": 104.68,
+    "calcium": 268.32,
+    "copper": 0.48,
+    "iron": 4.15,
+    "magnesium": 115.2,
+    "manganese": 0.97,
+    "phosphorus": 651.11,
+    "potassium": 945.01,
+    "selenium": 64.36,
+    "sodium": 519.55,
+    "zinc": 5.25
+  }
 }

@@ -1,660 +1,215 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 1046,
-        "recipe_id": 169,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Asparagus, Tomato & Feta Frittata",
-        "slug": "asparagus-tomato-feta-frittata",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 7981,
-            "primary_message": "Preheat oven to broil.",
-            "secondary_message": ""
-          },
-          {
-            "id": 7982,
-            "primary_message": "Peel and mince garlic. Wash asparagus and snap off woody ends. Cut diagonally into 2 inch pieces. Wash and medium dice tomatoes.",
-            "secondary_message": "4 cloves garlic\r\n2 small bunches asparagus\r\n2 tomatoes"
-          },
-          {
-            "id": 7983,
-            "primary_message": "Preheat a skillet over medium heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 7984,
-            "primary_message": "In a medium bowl, whisk together eggs, water, dill, salt, and pepper. Set aside.",
-            "secondary_message": "12 eggs\r\n½ cup water\r\n1 tsp dill\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 7985,
-            "primary_message": "Coat bottom of skillet with oil. Add garlic and cook until fragrant, 15-30 seconds. Add asparagus and cook until tender crisp, 2-3 minutes.",
-            "secondary_message": "about 2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 7986,
-            "primary_message": "Add tomato and cook for another 2 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 7987,
-            "primary_message": "Pour in egg mixture. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but the top is still runny, 8-10 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 7988,
-            "primary_message": "Sprinkle feta over top. Place skillet in the oven under the broiler until the top is set, 2-3 minutes.",
-            "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
-          },
-          {
-            "id": 7989,
-            "primary_message": "To serve, cut frittata into wedges and place on a plate. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 12774,
-            "quantity": "2 small bunches",
-            "ingredient_name": "asparagus"
-          },
-          {
-            "id": 12773,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 12772,
-            "quantity": "12",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 12775,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 12776,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 12777,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 12778,
-            "quantity": "",
-            "ingredient_name": "dill, dried"
-          },
-          {
-            "id": 12779,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 12780,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 364.44,
-          "alcohol": 0,
-          "ash": 4.73,
-          "caffeine": 0,
-          "water": 287.91,
-          "carbs": 10.39,
-          "fiber": 3.4,
-          "starch": 0.92,
-          "sugars": 5.64,
-          "fructose": 2.08,
-          "galactose": 0,
-          "glucose": 2.08,
-          "lactose": 1.16,
-          "maltose": 0,
-          "sucrose": 0.32,
-          "sugar_alcohol": 0,
-          "fat": 25.71,
-          "monounsaturated": 11.16,
-          "polyunsaturated": 3.53,
-          "omega_3": 0.28,
-          "omega_6": 3.25,
-          "saturated": 9.36,
-          "transfats": 0.36,
-          "cholesterol": 516.18,
-          "protein": 24.03,
-          "alanine": 1.31,
-          "arginine": 1.36,
-          "aspartic_acid": 2.69,
-          "cystine": 0.43,
-          "glutamic_acid": 3.47,
-          "glycine": 0.73,
-          "histidine": 0.59,
-          "isoleucine": 1.22,
-          "leucine": 2.01,
-          "lysine": 1.7,
-          "methionine": 0.65,
-          "phenylalanine": 1.2,
-          "proline": 1.17,
-          "serine": 1.76,
-          "threonine": 1.04,
-          "tryptophan": 0.32,
-          "tyrosine": 0.92,
-          "valine": 1.59,
-          "b1_thiamine": 0.3,
-          "b2_riboflavin": 1.03,
-          "b3_niacin": 1.95,
-          "b5_pantothenic_acid": 2.71,
-          "b6_pyridoxine": 0.54,
-          "b12_cobalamin": 1.65,
-          "choline": 416.38,
-          "folate": 142.82,
-          "vitamin_a": 2252.6,
-          "vitamin_c": 16.21,
-          "vitamin_d": 112.76,
-          "vitamin_e": 4.14,
-          "vitamin_k": 60.1,
-          "calcium": 254.47,
-          "copper": 0.38,
-          "iron": 5.46,
-          "magnesium": 46.96,
-          "manganese": 0.38,
-          "phosphorus": 439.97,
-          "potassium": 600,
-          "selenium": 47.99,
-          "sodium": 453.48,
-          "zinc": 3.31
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/asparagus-tomato-feta-frittata/1046",
-      "altVariants": [
-        {
-          "id": 1045,
-          "recipe_id": 169,
-          "group_label": "Classic",
-          "name": "Asparagus, Tomato & Feta Frittata",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "published_recipe_uuid": "0f9bd926-d1cc-4b36-a5a0-81d5b730c2c4",
-          "fallback_published_recipe_uuids": [
-            "992f5f22-cd75-4a4b-9a64-fd80fb1b817d",
-            "637333cb-1262-4eb5-a5d3-b4a5c099d7f3",
-            "db61bdfa-bca1-4585-8b66-62d25e8a22d6"
-          ],
-          "first_published_at": 1447956182000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            32,
-            121,
-            24,
-            260,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            6,
-            2,
-            1,
-            0.625,
-            2.5,
-            15,
-            1.25
-          ],
-          "average_rating": 0.815,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4785,
-          "recipe_id": 169,
-          "group_label": "Classic",
-          "name": "Asparagus, Tomato & Feta Frittata",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "published_recipe_uuid": "facb4a4f-0c23-4010-9b64-7f614364396e",
-          "fallback_published_recipe_uuids": [
-            "1410ace1-736c-466f-9f37-5f4433b2b6de",
-            "70c521c6-3dde-493c-9f29-6cb9b7a6a843",
-            "23adb569-6ca2-4eae-9c86-12078d2b7d55"
-          ],
-          "first_published_at": 1550527890000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            32,
-            121,
-            24,
-            260,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            18,
-            6,
-            3,
-            1.875,
-            7.5,
-            45,
-            3.75
-          ],
-          "average_rating": 0.815,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1046,
-          "recipe_id": 169,
-          "group_label": "Classic",
-          "name": "Asparagus, Tomato & Feta Frittata",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "published_recipe_uuid": "9b8a2c7f-8a89-4be4-98ce-79f264cade64",
-          "fallback_published_recipe_uuids": [
-            "2a23b7e4-6421-4ae9-8e47-dd42929d71a8",
-            "98459bfa-a8de-49e7-a51d-01c713f15899",
-            "bc7ac9c7-8e0b-4c9b-83bc-eaa899354f59"
-          ],
-          "first_published_at": 1447956182000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            32,
-            121,
-            24,
-            260,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            12,
-            4,
-            2,
-            1.25,
-            5,
-            30,
-            2.5
-          ],
-          "average_rating": 0.815,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4784,
-          "recipe_id": 169,
-          "group_label": "Classic",
-          "name": "Asparagus, Tomato & Feta Frittata",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "published_recipe_uuid": "ab488e3f-e8da-4b6d-8593-6875f7769151",
-          "fallback_published_recipe_uuids": [
-            "969cd9db-d692-45eb-98dc-15bb733ecb60",
-            "dd1277c4-f49b-4e69-b74b-932e08f98709",
-            "627723ec-8c89-40e6-984e-3b1ce8301b91"
-          ],
-          "first_published_at": 1550527881000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            32,
-            121,
-            24,
-            260,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            18,
-            6,
-            3,
-            1.875,
-            7.5,
-            45,
-            3.75
-          ],
-          "average_rating": 0.815,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 937,
-          "recipe_id": 169,
-          "group_label": "Classic",
-          "name": "Asparagus, Tomato & Feta Frittata",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "published_recipe_uuid": "369efd83-a1cf-4934-837d-04ae6ffbaeb3",
-          "fallback_published_recipe_uuids": [
-            "3bc0ee76-1f2d-4a76-8a7c-538da2de2d2d",
-            "31519f67-b2a7-41aa-98a3-034fa2d3007f",
-            "0f71d187-e5fe-4950-be6e-f51064386a83"
-          ],
-          "first_published_at": 1447956160000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            32,
-            121,
-            24,
-            260,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            6,
-            2,
-            1,
-            0.625,
-            2.5,
-            15,
-            1.25
-          ],
-          "average_rating": 0.815,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1044,
-          "recipe_id": 169,
-          "group_label": "Classic",
-          "name": "Asparagus, Tomato & Feta Frittata",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
-          "published_recipe_uuid": "285716bf-be2c-41e1-a4f3-b7cb1af29216",
-          "fallback_published_recipe_uuids": [
-            "4741facb-566a-432f-adb2-8d2155316b33",
-            "c04c9dc9-9cc3-4e55-8a0b-b1921bc9a37a",
-            "50b0a86c-9cbc-4b60-bf8f-550eb5660241"
-          ],
-          "first_published_at": 1447956181000,
-          "allowed_type_ids": [
-            4,
-            7,
-            8,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            26,
-            32,
-            121,
-            24,
-            260,
-            72,
-            78,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            12,
-            4,
-            2,
-            1.25,
-            5,
-            30,
-            2.5
-          ],
-          "average_rating": 0.815,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            7
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Frittatas"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 1046,
+  "recipe_id": 169,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Asparagus, Tomato & Feta Frittata",
+  "slug": "asparagus-tomato-feta-frittata",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/thumbnail_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "asparagus-tomato-feta-frittata",
-    "variantId": "1046"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 7981,
+      "primary_message": "Preheat oven to broil.",
+      "secondary_message": ""
+    },
+    {
+      "id": 7982,
+      "primary_message": "Peel and mince garlic. Wash asparagus and snap off woody ends. Cut diagonally into 2 inch pieces. Wash and medium dice tomatoes.",
+      "secondary_message": "4 cloves garlic\r\n2 small bunches asparagus\r\n2 tomatoes"
+    },
+    {
+      "id": 7983,
+      "primary_message": "Preheat a skillet over medium heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 7984,
+      "primary_message": "In a medium bowl, whisk together eggs, water, dill, salt, and pepper. Set aside.",
+      "secondary_message": "12 eggs\r\n½ cup water\r\n1 tsp dill\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 7985,
+      "primary_message": "Coat bottom of skillet with oil. Add garlic and cook until fragrant, 15-30 seconds. Add asparagus and cook until tender crisp, 2-3 minutes.",
+      "secondary_message": "about 2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 7986,
+      "primary_message": "Add tomato and cook for another 2 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 7987,
+      "primary_message": "Pour in egg mixture. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but the top is still runny, 8-10 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 7988,
+      "primary_message": "Sprinkle feta over top. Place skillet in the oven under the broiler until the top is set, 2-3 minutes.",
+      "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
+    },
+    {
+      "id": 7989,
+      "primary_message": "To serve, cut frittata into wedges and place on a plate. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 12774,
+      "quantity": "2 small bunches",
+      "ingredient_name": "asparagus"
+    },
+    {
+      "id": 12773,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 12772,
+      "quantity": "12",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 12775,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 12776,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 12777,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 12778,
+      "quantity": "",
+      "ingredient_name": "dill, dried"
+    },
+    {
+      "id": 12779,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 12780,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 364.44,
+    "alcohol": 0,
+    "ash": 4.73,
+    "caffeine": 0,
+    "water": 287.91,
+    "carbs": 10.39,
+    "fiber": 3.4,
+    "starch": 0.92,
+    "sugars": 5.64,
+    "fructose": 2.08,
+    "galactose": 0,
+    "glucose": 2.08,
+    "lactose": 1.16,
+    "maltose": 0,
+    "sucrose": 0.32,
+    "sugar_alcohol": 0,
+    "fat": 25.71,
+    "monounsaturated": 11.16,
+    "polyunsaturated": 3.53,
+    "omega_3": 0.28,
+    "omega_6": 3.25,
+    "saturated": 9.36,
+    "transfats": 0.36,
+    "cholesterol": 516.18,
+    "protein": 24.03,
+    "alanine": 1.31,
+    "arginine": 1.36,
+    "aspartic_acid": 2.69,
+    "cystine": 0.43,
+    "glutamic_acid": 3.47,
+    "glycine": 0.73,
+    "histidine": 0.59,
+    "isoleucine": 1.22,
+    "leucine": 2.01,
+    "lysine": 1.7,
+    "methionine": 0.65,
+    "phenylalanine": 1.2,
+    "proline": 1.17,
+    "serine": 1.76,
+    "threonine": 1.04,
+    "tryptophan": 0.32,
+    "tyrosine": 0.92,
+    "valine": 1.59,
+    "b1_thiamine": 0.3,
+    "b2_riboflavin": 1.03,
+    "b3_niacin": 1.95,
+    "b5_pantothenic_acid": 2.71,
+    "b6_pyridoxine": 0.54,
+    "b12_cobalamin": 1.65,
+    "choline": 416.38,
+    "folate": 142.82,
+    "vitamin_a": 2252.6,
+    "vitamin_c": 16.21,
+    "vitamin_d": 112.76,
+    "vitamin_e": 4.14,
+    "vitamin_k": 60.1,
+    "calcium": 254.47,
+    "copper": 0.38,
+    "iron": 5.46,
+    "magnesium": 46.96,
+    "manganese": 0.38,
+    "phosphorus": 439.97,
+    "potassium": 600,
+    "selenium": 47.99,
+    "sodium": 453.48,
+    "zinc": 3.31
+  }
 }

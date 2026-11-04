@@ -1,1181 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 18948,
-        "recipe_id": 2198,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-        "slug": "fajita-style-pork-bowl-bell-peppers-onions-kale-lime-sauce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 311755,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 311756,
-            "primary_message": "Place spices in a small bowl and stir to combine the spice mix; set aside.",
-            "secondary_message": "4 tsp chili powder\n2 tsp cumin, ground\n1 tsp garlic powder\n1 tsp paprika\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 311757,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 red bell peppers\n1 bunch kale\n1 lime"
-          },
-          {
-            "id": 311758,
-            "primary_message": "Trim, halve, seed, and slice bell peppers into thin strips; divide between two baking sheet pans.",
-            "secondary_message": null
-          },
-          {
-            "id": 311759,
-            "primary_message": "Peel, halve, and slice onion lengthwise into ¼-inch thick strips; add to the baking sheets with the bell pepper.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 311760,
-            "primary_message": "Pat pork chops dry with paper towels and place on a cutting board; thinly slice crosswise into bite-sized strips. Add to the baking sheets, sprinkle with ⅔ of the spice mix, then drizzle with oil; toss to combine and spread out in an even layer. (Reserve remaining spice mix for later use.)",
-            "secondary_message": "4 pork chops, boneless\n2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 311761,
-            "primary_message": "Place baking sheets in the oven and roast until veggies start to soften, about 12 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 311762,
-            "primary_message": "Meanwhile, using a clean cutting board, fold kale leaves in half lengthwise and slice off the stems. Chop or tear leaves into bite-sized pieces and place in a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 311763,
-            "primary_message": "Drain and rinse beans in a colander. Add beans to the bowl with the kale along with oil and salt; toss to combine.",
-            "secondary_message": "2 (15 oz) cans black beans\n4 tsp extra virgin olive oil\n½ tsp salt"
-          },
-          {
-            "id": 311764,
-            "primary_message": "When the veggies are soft, add kale and beans to the baking sheets; toss to combine, then return to the oven and continue to bake until kale is tender and pork is cooked through, 6-7 minutes more.",
-            "secondary_message": null
-          },
-          {
-            "id": 311765,
-            "primary_message": "Meanwhile, zest and juice lime into the bowl with the remaining spice mix; add yogurt and water, then stir to combine the sauce.",
-            "secondary_message": "1 cup plain Greek yogurt\n2 tsp water"
-          },
-          {
-            "id": 311766,
-            "primary_message": "To serve, divide pork, beans, and veggies between bowls; drizzle with sauce and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 331254,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 331256,
-            "quantity": "1 bunch",
-            "ingredient_name": "kale"
-          },
-          {
-            "id": 331257,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 331250,
-            "quantity": "1 cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 331252,
-            "quantity": "4",
-            "ingredient_name": "pork chops, boneless"
-          },
-          {
-            "id": 331251,
-            "quantity": "4",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 331253,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 331245,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 331246,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 331255,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 331244,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 331247,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 331248,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 331249,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 696.24,
-          "alcohol": 0,
-          "ash": 7.71,
-          "caffeine": 0,
-          "water": 407.44,
-          "carbs": 53.37,
-          "fiber": 18.75,
-          "starch": 20.87,
-          "sugars": 9.54,
-          "fructose": 3.35,
-          "galactose": 0.43,
-          "glucose": 3.11,
-          "lactose": 1.56,
-          "maltose": 0,
-          "sucrose": 1.07,
-          "sugar_alcohol": 0.02,
-          "fat": 32.62,
-          "monounsaturated": 16.57,
-          "polyunsaturated": 5.34,
-          "omega_3": 0.58,
-          "omega_6": 4.53,
-          "saturated": 8.36,
-          "transfats": 0.14,
-          "cholesterol": 88.61,
-          "protein": 51.15,
-          "alanine": 2.62,
-          "arginine": 2.89,
-          "aspartic_acid": 5.41,
-          "cystine": 0.6,
-          "glutamic_acid": 8.06,
-          "glycine": 2.06,
-          "histidine": 1.72,
-          "isoleucine": 2.4,
-          "leucine": 4.2,
-          "lysine": 4.09,
-          "methionine": 1.14,
-          "phenylalanine": 2.27,
-          "proline": 2.43,
-          "serine": 2.35,
-          "threonine": 2.15,
-          "tryptophan": 0.65,
-          "tyrosine": 1.74,
-          "valine": 2.67,
-          "b1_thiamine": 1.36,
-          "b2_riboflavin": 0.75,
-          "b3_niacin": 13.76,
-          "b5_pantothenic_acid": 2.03,
-          "b6_pyridoxine": 1.29,
-          "b12_cobalamin": 1.08,
-          "choline": 163.74,
-          "folate": 259.13,
-          "vitamin_a": 43.94,
-          "vitamin_c": 206.57,
-          "vitamin_d": 15.95,
-          "vitamin_e": 5.72,
-          "vitamin_k": 344.31,
-          "calcium": 252.49,
-          "copper": 0.56,
-          "iron": 6.46,
-          "magnesium": 149.91,
-          "manganese": 1.3,
-          "phosphorus": 644.53,
-          "potassium": 1571.7,
-          "selenium": 71.05,
-          "sodium": 664.67,
-          "zinc": 4.3
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/fajita-style-pork-bowl-bell-peppers-onions-kale-lime-sauce/18948",
-      "altVariants": [
-        {
-          "id": 18952,
-          "recipe_id": 2198,
-          "group_label": "Vegan",
-          "name": "Fajita-Style Tofu Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18952/thumbnail_ecd143ec-b240-4f3b-9e66-670a0ba8e852.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18952/presentation_ecd143ec-b240-4f3b-9e66-670a0ba8e852.jpeg",
-          "published_recipe_uuid": "7b6d0aa3-2974-48e5-b671-db07a3aeb13a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400889000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            185,
-            56,
-            226,
-            228,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.5,
-            6,
-            1.5,
-            3.75,
-            30,
-            15,
-            75,
-            7.5,
-            7.5,
-            11.25,
-            135
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18949,
-          "recipe_id": 2198,
-          "group_label": "Default",
-          "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "published_recipe_uuid": "84f3e710-b83c-459d-82ee-87b7a7edc792",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400889000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            185,
-            226,
-            228,
-            122,
-            180,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            1.5,
-            6,
-            6,
-            1.5,
-            3.75,
-            30,
-            15,
-            75,
-            7.5,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18951,
-          "recipe_id": 2198,
-          "group_label": "Vegan",
-          "name": "Fajita-Style Tofu Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18951/thumbnail_c6e9fbaa-f0ce-4203-8d60-6bd9c8657d04.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18951/presentation_c6e9fbaa-f0ce-4203-8d60-6bd9c8657d04.jpeg",
-          "published_recipe_uuid": "bcd7770c-3c16-45be-823f-bff3f9d20810",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400889000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            185,
-            56,
-            226,
-            228,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1,
-            4,
-            1,
-            2.5,
-            20,
-            10,
-            50,
-            5,
-            5,
-            7.5,
-            90
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18950,
-          "recipe_id": 2198,
-          "group_label": "Vegan",
-          "name": "Fajita-Style Tofu Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18950/thumbnail_e18932e1-1701-4985-ac8c-512405b86c7f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18950/presentation_e18932e1-1701-4985-ac8c-512405b86c7f.jpeg",
-          "published_recipe_uuid": "caab26b9-49e6-4d12-9b9c-10d3b4220ea0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400889000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            185,
-            56,
-            226,
-            228,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            1.25,
-            10,
-            5,
-            25,
-            2.5,
-            2.5,
-            3.75,
-            45
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18948,
-          "recipe_id": 2198,
-          "group_label": "Default",
-          "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "published_recipe_uuid": "ce819926-d2c8-4a2a-9610-8113b223904f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400890000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            185,
-            226,
-            228,
-            122,
-            180,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            4,
-            4,
-            1,
-            2.5,
-            20,
-            10,
-            50,
-            5,
-            5,
-            7.5
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18947,
-          "recipe_id": 2198,
-          "group_label": "Default",
-          "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "published_recipe_uuid": "07a1637e-b961-47f7-901c-d353318bf6b2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400890000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            185,
-            226,
-            228,
-            122,
-            180,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            2,
-            2,
-            0.5,
-            1.25,
-            10,
-            5,
-            25,
-            2.5,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18955,
-          "recipe_id": 2198,
-          "group_label": "Default",
-          "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "published_recipe_uuid": "3fb5e728-413a-499c-a1d8-5a1e9288ca6d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400888000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            185,
-            226,
-            228,
-            122,
-            180,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            1.5,
-            6,
-            6,
-            1.5,
-            3.75,
-            30,
-            15,
-            75,
-            7.5,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18958,
-          "recipe_id": 2198,
-          "group_label": "Vegan",
-          "name": "Fajita-Style Tofu Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18958/thumbnail_f4aa53ba-faf1-459d-97a4-4cc4e01e0e90.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18958/presentation_f4aa53ba-faf1-459d-97a4-4cc4e01e0e90.jpeg",
-          "published_recipe_uuid": "23130bce-9dd4-4248-b724-0fccca644d5f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400887000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            185,
-            56,
-            226,
-            228,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.5,
-            6,
-            1.5,
-            3.75,
-            30,
-            15,
-            75,
-            7.5,
-            7.5,
-            11.25,
-            135
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18957,
-          "recipe_id": 2198,
-          "group_label": "Vegan",
-          "name": "Fajita-Style Tofu Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18957/thumbnail_f9e1773a-1af3-4749-b263-fdfeb8037dd4.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18957/presentation_f9e1773a-1af3-4749-b263-fdfeb8037dd4.jpeg",
-          "published_recipe_uuid": "c53eca41-51e6-49a5-9b08-212a66b7a777",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400887000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            185,
-            56,
-            226,
-            228,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1,
-            4,
-            1,
-            2.5,
-            20,
-            10,
-            50,
-            5,
-            5,
-            7.5,
-            90
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18956,
-          "recipe_id": 2198,
-          "group_label": "Vegan",
-          "name": "Fajita-Style Tofu Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18956/thumbnail_192f4eb1-9a34-4772-82f1-5f015517458f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/18956/presentation_192f4eb1-9a34-4772-82f1-5f015517458f.jpeg",
-          "published_recipe_uuid": "05eb6810-a061-4095-b26c-aa958898a6a0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400887000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            185,
-            56,
-            226,
-            228,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.5,
-            2,
-            0.5,
-            1.25,
-            10,
-            5,
-            25,
-            2.5,
-            2.5,
-            3.75,
-            45
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18954,
-          "recipe_id": 2198,
-          "group_label": "Default",
-          "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "published_recipe_uuid": "9a7e1374-2984-4c26-8ff3-735ee4b7fcc3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400888000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            185,
-            226,
-            228,
-            122,
-            180,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            4,
-            4,
-            1,
-            2.5,
-            20,
-            10,
-            50,
-            5,
-            5,
-            7.5
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        },
-        {
-          "id": 18953,
-          "recipe_id": 2198,
-          "group_label": "Default",
-          "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
-          "published_recipe_uuid": "e9644565-bb4c-448f-a174-16aaab79f584",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676400888000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            185,
-            226,
-            228,
-            122,
-            180,
-            150,
-            184,
-            72,
-            75,
-            186,
-            47,
-            79,
-            83,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            2,
-            2,
-            0.5,
-            1.25,
-            10,
-            5,
-            25,
-            2.5,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.813,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-            14
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Craving some hearty veggies? This zesty fajita bowl has you covered"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Craving some hearty veggies? This zesty fajita bowl has you covered",
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "Tex-Mex",
-        "reviewCount": null,
-        "reviewScore": 4.1
-      }
+  "id": 18948,
+  "recipe_id": 2198,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Fajita-Style Pork Bowl with Bell Peppers, Onions, Kale & Lime Sauce",
+  "slug": "fajita-style-pork-bowl-bell-peppers-onions-kale-lime-sauce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/thumbnail_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2198/presentation_11f179b3-152b-4029-abf3-baa01269182c.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "fajita-style-pork-bowl-bell-peppers-onions-kale-lime-sauce",
-    "variantId": "18948"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 311755,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 311756,
+      "primary_message": "Place spices in a small bowl and stir to combine the spice mix; set aside.",
+      "secondary_message": "4 tsp chili powder\n2 tsp cumin, ground\n1 tsp garlic powder\n1 tsp paprika\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 311757,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 red bell peppers\n1 bunch kale\n1 lime"
+    },
+    {
+      "id": 311758,
+      "primary_message": "Trim, halve, seed, and slice bell peppers into thin strips; divide between two baking sheet pans.",
+      "secondary_message": null
+    },
+    {
+      "id": 311759,
+      "primary_message": "Peel, halve, and slice onion lengthwise into ¼-inch thick strips; add to the baking sheets with the bell pepper.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 311760,
+      "primary_message": "Pat pork chops dry with paper towels and place on a cutting board; thinly slice crosswise into bite-sized strips. Add to the baking sheets, sprinkle with ⅔ of the spice mix, then drizzle with oil; toss to combine and spread out in an even layer. (Reserve remaining spice mix for later use.)",
+      "secondary_message": "4 pork chops, boneless\n2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 311761,
+      "primary_message": "Place baking sheets in the oven and roast until veggies start to soften, about 12 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 311762,
+      "primary_message": "Meanwhile, using a clean cutting board, fold kale leaves in half lengthwise and slice off the stems. Chop or tear leaves into bite-sized pieces and place in a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 311763,
+      "primary_message": "Drain and rinse beans in a colander. Add beans to the bowl with the kale along with oil and salt; toss to combine.",
+      "secondary_message": "2 (15 oz) cans black beans\n4 tsp extra virgin olive oil\n½ tsp salt"
+    },
+    {
+      "id": 311764,
+      "primary_message": "When the veggies are soft, add kale and beans to the baking sheets; toss to combine, then return to the oven and continue to bake until kale is tender and pork is cooked through, 6-7 minutes more.",
+      "secondary_message": null
+    },
+    {
+      "id": 311765,
+      "primary_message": "Meanwhile, zest and juice lime into the bowl with the remaining spice mix; add yogurt and water, then stir to combine the sauce.",
+      "secondary_message": "1 cup plain Greek yogurt\n2 tsp water"
+    },
+    {
+      "id": 311766,
+      "primary_message": "To serve, divide pork, beans, and veggies between bowls; drizzle with sauce and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 331254,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 331256,
+      "quantity": "1 bunch",
+      "ingredient_name": "kale"
+    },
+    {
+      "id": 331257,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 331250,
+      "quantity": "1 cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 331252,
+      "quantity": "4",
+      "ingredient_name": "pork chops, boneless"
+    },
+    {
+      "id": 331251,
+      "quantity": "4",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 331253,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 331245,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 331246,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 331255,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 331244,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 331247,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 331248,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 331249,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 696.24,
+    "alcohol": 0,
+    "ash": 7.71,
+    "caffeine": 0,
+    "water": 407.44,
+    "carbs": 53.37,
+    "fiber": 18.75,
+    "starch": 20.87,
+    "sugars": 9.54,
+    "fructose": 3.35,
+    "galactose": 0.43,
+    "glucose": 3.11,
+    "lactose": 1.56,
+    "maltose": 0,
+    "sucrose": 1.07,
+    "sugar_alcohol": 0.02,
+    "fat": 32.62,
+    "monounsaturated": 16.57,
+    "polyunsaturated": 5.34,
+    "omega_3": 0.58,
+    "omega_6": 4.53,
+    "saturated": 8.36,
+    "transfats": 0.14,
+    "cholesterol": 88.61,
+    "protein": 51.15,
+    "alanine": 2.62,
+    "arginine": 2.89,
+    "aspartic_acid": 5.41,
+    "cystine": 0.6,
+    "glutamic_acid": 8.06,
+    "glycine": 2.06,
+    "histidine": 1.72,
+    "isoleucine": 2.4,
+    "leucine": 4.2,
+    "lysine": 4.09,
+    "methionine": 1.14,
+    "phenylalanine": 2.27,
+    "proline": 2.43,
+    "serine": 2.35,
+    "threonine": 2.15,
+    "tryptophan": 0.65,
+    "tyrosine": 1.74,
+    "valine": 2.67,
+    "b1_thiamine": 1.36,
+    "b2_riboflavin": 0.75,
+    "b3_niacin": 13.76,
+    "b5_pantothenic_acid": 2.03,
+    "b6_pyridoxine": 1.29,
+    "b12_cobalamin": 1.08,
+    "choline": 163.74,
+    "folate": 259.13,
+    "vitamin_a": 43.94,
+    "vitamin_c": 206.57,
+    "vitamin_d": 15.95,
+    "vitamin_e": 5.72,
+    "vitamin_k": 344.31,
+    "calcium": 252.49,
+    "copper": 0.56,
+    "iron": 6.46,
+    "magnesium": 149.91,
+    "manganese": 1.3,
+    "phosphorus": 644.53,
+    "potassium": 1571.7,
+    "selenium": 71.05,
+    "sodium": 664.67,
+    "zinc": 4.3
+  }
 }

@@ -1,1456 +1,225 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 1234,
-        "recipe_id": 51,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-        "slug": "honey-garlic-chicken-drumsticks-spinach-avocado-orange-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-        "cookwares": [
-          {
-            "id": 83,
-            "name": "baking dish",
-            "slug": "baking-dish"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 10153,
-            "primary_message": "Preheat oven to 450°F. Using a paper towel, lightly coat a large baking dish with oil.",
-            "secondary_message": "about 1 tsp extra virgin olive oil"
-          },
-          {
-            "id": 10154,
-            "primary_message": "Add chicken to the dish, place in the oven, and bake for 10 minutes.",
-            "secondary_message": "2 ½ lb chicken drumsticks"
-          },
-          {
-            "id": 10155,
-            "primary_message": "Peel and mince garlic. In a small bowl, prepare sauce by mixing together ⅔ of the garlic (save the rest for dressing), soy sauce, honey, and parsley flakes. Set aside.",
-            "secondary_message": "6 cloves garlic\r\n2 tbsp soy sauce\r\n4 tbsp honey\r\n1 tsp parsley flakes"
-          },
-          {
-            "id": 10156,
-            "primary_message": "Wash, dry and transfer spinach to a large bowl. Halve and pit avocados; scoop out, medium dice, and add to bowl. Wash, peel, and quarter oranges. Slice 6 of the quarters (save 2 for the dressing) into wedges and add to bowl. Toss salad.",
-            "secondary_message": "1 (5 oz) pkg baby spinach\r\n2 avocados\r\n2 oranges"
-          },
-          {
-            "id": 10157,
-            "primary_message": "Remove dish from oven, pour honey garlic sauce over the drumsticks and turn to coat. Place back in the oven and bake until cooked through, another 20-25 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 10158,
-            "primary_message": "In a small bowl, prepare dressing by whisking together juice of remaining orange, remaining garlic, oil, salt, and pepper.",
-            "secondary_message": "2 tbsp extra virgin olive oil\r\n¼ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 10159,
-            "primary_message": "To serve, place drumsticks on a plate, add salad on the side, and drizzle with dressing. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 15161,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 15151,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 15160,
-            "quantity": "2 ½ lb",
-            "ingredient_name": "chicken drumsticks"
-          },
-          {
-            "id": 15152,
-            "quantity": "6 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 15153,
-            "quantity": "2",
-            "ingredient_name": "oranges"
-          },
-          {
-            "id": 15154,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 15155,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 15156,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 15157,
-            "quantity": "",
-            "ingredient_name": "parsley flakes"
-          },
-          {
-            "id": 15158,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 15159,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 794.35,
-          "alcohol": 0,
-          "ash": 6.83,
-          "caffeine": 0,
-          "water": 381.12,
-          "carbs": 37.68,
-          "fiber": 9.37,
-          "starch": 19.35,
-          "sugars": 24.68,
-          "fructose": 10.32,
-          "galactose": 0.8,
-          "glucose": 9.37,
-          "lactose": 0,
-          "maltose": 0.31,
-          "sucrose": 3.23,
-          "sugar_alcohol": 0,
-          "fat": 47.97,
-          "monounsaturated": 25.42,
-          "polyunsaturated": 8.23,
-          "omega_3": 0.35,
-          "omega_6": 4.22,
-          "saturated": 10.1,
-          "transfats": 0.14,
-          "cholesterol": 260.82,
-          "protein": 56.04,
-          "alanine": 3.33,
-          "arginine": 3.85,
-          "aspartic_acid": 5.45,
-          "cystine": 0.65,
-          "glutamic_acid": 8.89,
-          "glycine": 2.91,
-          "histidine": 1.6,
-          "isoleucine": 2.57,
-          "leucine": 4.56,
-          "lysine": 4.97,
-          "methionine": 1.51,
-          "phenylalanine": 2.22,
-          "proline": 2.44,
-          "serine": 2.34,
-          "threonine": 2.53,
-          "tryptophan": 0.61,
-          "tyrosine": 2,
-          "valine": 2.68,
-          "b1_thiamine": 0.4,
-          "b2_riboflavin": 0.81,
-          "b3_niacin": 16.19,
-          "b5_pantothenic_acid": 4.59,
-          "b6_pyridoxine": 1.42,
-          "b12_cobalamin": 1.5,
-          "choline": 179.67,
-          "folate": 180.54,
-          "vitamin_a": 428.91,
-          "vitamin_c": 56.55,
-          "vitamin_d": 5.67,
-          "vitamin_e": 4.46,
-          "vitamin_k": 204.06,
-          "calcium": 109.34,
-          "copper": 0.47,
-          "iron": 3.98,
-          "magnesium": 89.85,
-          "manganese": 0.75,
-          "phosphorus": 564.64,
-          "potassium": 1471.28,
-          "selenium": 59.23,
-          "sodium": 338.59,
-          "zinc": 6.34
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/honey-garlic-chicken-drumsticks-spinach-avocado-orange-salad/1234",
-      "altVariants": [
-        {
-          "id": 4885,
-          "recipe_id": 51,
-          "group_label": "Classic",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "d341a83e-2623-476f-946f-81a4d3cc1fe0",
-          "fallback_published_recipe_uuids": [
-            "84552049-5adc-47eb-ab30-aa936b524311",
-            "c3bcf308-68cc-4b25-8632-c12752d11d2f",
-            "39887f7f-7b1a-4002-8ee0-2438e38a1880"
-          ],
-          "first_published_at": 1550528873000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3.75,
-            9,
-            3,
-            1.875,
-            45,
-            90,
-            7.5,
-            1.875,
-            45
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4889,
-          "recipe_id": 51,
-          "group_label": "Paleo",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 10,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "a1361021-01c0-4cf2-a9b4-e8548bf3786a",
-          "fallback_published_recipe_uuids": [
-            "aa83a69b-0a0e-4f29-b5dc-e8eec9e39841",
-            "ff77a28c-77d6-4b50-bfce-4c7f7b694ab4",
-            "01e2c80c-0ff9-47bc-885b-230949868791"
-          ],
-          "first_published_at": 1550528949000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            193,
-            47,
-            103,
-            84,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3.75,
-            9,
-            3,
-            1.875,
-            45,
-            45,
-            90,
-            7.5,
-            1.875
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4887,
-          "recipe_id": 51,
-          "group_label": "Classic Gluten-Free",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "64168672-19a1-459b-8bc0-82bca1d84664",
-          "fallback_published_recipe_uuids": [
-            "d6d24840-f487-42dd-a095-7904de8978fb",
-            "b2bfe43d-2f78-4a8d-a11e-546312d1199b",
-            "ef43caec-960e-41d6-ad2c-158b1ec1c3fa"
-          ],
-          "first_published_at": 1550528914000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            3.75,
-            9,
-            3,
-            1.875,
-            45,
-            90,
-            7.5,
-            1.875,
-            45
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1242,
-          "recipe_id": 51,
-          "group_label": "Paleo",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 10,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "f23edb91-bbd6-4362-83ba-99b270c0163c",
-          "fallback_published_recipe_uuids": [
-            "a1e7a582-b791-4bf9-a4dd-010941d0793b",
-            "10dd98fe-5ab4-42d2-91ce-41263de3fc03",
-            "79e50fca-246d-4e7b-9318-16701b58fcff"
-          ],
-          "first_published_at": 1447956256000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            193,
-            47,
-            103,
-            84,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2.5,
-            6,
-            2,
-            1.25,
-            30,
-            30,
-            60,
-            5,
-            1.25
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1240,
-          "recipe_id": 51,
-          "group_label": "Paleo",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 8,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "efbbb1e3-0b53-439d-87d2-cd875856190a",
-          "fallback_published_recipe_uuids": [
-            "7c5d4ba0-420d-49c1-8db0-0146869604f9",
-            "299508ab-88a9-4ff0-8a6f-741b5c125eb3",
-            "56060b5a-a662-4aa0-a945-248776b45b75"
-          ],
-          "first_published_at": 1447956255000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            193,
-            47,
-            103,
-            84,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1.25,
-            3,
-            1,
-            0.625,
-            15,
-            15,
-            30,
-            2.5,
-            0.625
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1238,
-          "recipe_id": 51,
-          "group_label": "Classic Gluten-Free",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "2d65dc03-1ebd-4057-9fe4-c210d9dd637e",
-          "fallback_published_recipe_uuids": [
-            "ac972f00-34f8-4c0e-b023-e3ebe7b4eb4f",
-            "f1f71401-89e6-46c9-a0c8-16d974d5ff85",
-            "0631398a-390b-4827-b71f-b0c73038b078"
-          ],
-          "first_published_at": 1447956255000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2.5,
-            6,
-            2,
-            1.25,
-            30,
-            60,
-            5,
-            1.25,
-            30
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1236,
-          "recipe_id": 51,
-          "group_label": "Classic Gluten-Free",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "c5e59bc4-d878-4856-b725-d5ef4662e1c0",
-          "fallback_published_recipe_uuids": [
-            "752bd5aa-a804-4724-9063-37a699f0f6cc",
-            "183d3347-c86d-42b2-ae00-80665372db17",
-            "88ccb8d1-f58f-4127-b01c-55ef09679cac"
-          ],
-          "first_published_at": 1447956254000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1.25,
-            3,
-            1,
-            0.625,
-            15,
-            30,
-            2.5,
-            0.625,
-            15
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1234,
-          "recipe_id": 51,
-          "group_label": "Classic",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "b82bb681-090e-4594-9f0f-c44e62c4e070",
-          "fallback_published_recipe_uuids": [
-            "21e48440-720e-418f-88c9-6b7f54b2ffc4",
-            "42850010-ffb9-4f5c-be09-14581cfa2558",
-            "0616f836-3811-4854-8016-06eb779ce0d0"
-          ],
-          "first_published_at": 1447956254000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2.5,
-            6,
-            2,
-            1.25,
-            30,
-            60,
-            5,
-            1.25,
-            30
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1233,
-          "recipe_id": 51,
-          "group_label": "Classic",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "7d390137-5f03-40bf-9ae9-1c8c06673964",
-          "fallback_published_recipe_uuids": [
-            "9f4b9a28-a947-409f-8e15-d85fb16fdda4",
-            "32438de4-2b5d-4e70-834e-34cc17a7ff9d",
-            "b42dc1e8-522e-4f6e-9871-3202b7bc2dbc"
-          ],
-          "first_published_at": 1447956254000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1.25,
-            3,
-            1,
-            0.625,
-            15,
-            30,
-            2.5,
-            0.625,
-            15
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 203,
-          "recipe_id": 51,
-          "group_label": "Classic",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "81ca0e57-1862-4388-8f3b-e4901d7db083",
-          "fallback_published_recipe_uuids": [
-            "46e137c7-c6be-4070-bcce-a3fcd886052e",
-            "ad0ba35f-64e7-4c85-8d80-b85587008593",
-            "8a24f0e8-17ca-4fee-9f30-de5a609709f3"
-          ],
-          "first_published_at": 1447956113000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.57,
-            3,
-            1,
-            0.625,
-            15,
-            30,
-            2.5,
-            0.625,
-            15
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1239,
-          "recipe_id": 51,
-          "group_label": "Paleo",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 9,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "9fe8184b-044c-4920-9b0c-f71acdfa22bf",
-          "fallback_published_recipe_uuids": [
-            "761174ba-ab48-45ac-955d-1e3a7dd3a10f",
-            "e899bb82-795b-4739-9491-e3efa261cc05",
-            "e6157939-9eac-4f63-8947-dfe56578478d"
-          ],
-          "first_published_at": 1447956255000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            193,
-            47,
-            103,
-            84,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.57,
-            3,
-            1,
-            0.625,
-            15,
-            15,
-            30,
-            2.5,
-            0.625
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4888,
-          "recipe_id": 51,
-          "group_label": "Paleo",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 11,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "2af377c1-9c03-4db6-85a2-32864643dec7",
-          "fallback_published_recipe_uuids": [
-            "0989cf92-ecb7-450e-8fae-41c5c7ee8384",
-            "8c72325e-4ce4-4246-8eb2-8754ba253e78",
-            "e74ea875-2908-44d3-b49d-e42b859a14e5"
-          ],
-          "first_published_at": 1550528929000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            193,
-            47,
-            103,
-            84,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.71,
-            9,
-            3,
-            1.875,
-            45,
-            45,
-            90,
-            7.5,
-            1.875
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 204,
-          "recipe_id": 51,
-          "group_label": "Classic",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "0261c186-662d-4ffe-8944-96400b1b898c",
-          "fallback_published_recipe_uuids": [
-            "0ea35c1a-569d-445e-968d-739d0cd189de",
-            "4152a82b-8428-485b-aaed-f2da763144ee",
-            "e9be69d4-5478-474e-ac0d-32fae0d8f060"
-          ],
-          "first_published_at": 1447956113000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1.14,
-            6,
-            2,
-            1.25,
-            30,
-            60,
-            5,
-            1.25,
-            30
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1235,
-          "recipe_id": 51,
-          "group_label": "Classic Gluten-Free",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "b05ebfd5-b466-4026-85b6-6b8e3fa80880",
-          "fallback_published_recipe_uuids": [
-            "97c06415-1873-46c5-8935-70a9efcb881e",
-            "ffdc0eca-0659-4d8a-a191-abc5ce8c5643",
-            "b12bf1d2-537b-47e8-b1c2-8c50e96da941"
-          ],
-          "first_published_at": 1447956254000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.57,
-            3,
-            1,
-            0.625,
-            15,
-            30,
-            2.5,
-            0.625,
-            15
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1237,
-          "recipe_id": 51,
-          "group_label": "Classic Gluten-Free",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "3f930b43-288c-4126-a463-3c11269fcde1",
-          "fallback_published_recipe_uuids": [
-            "f8377af5-25c0-4a51-90f8-24b83dd7e75a",
-            "70aed7f5-28e8-4626-abc2-263af362ed2e",
-            "2ae2f789-8100-4ee7-ad39-5a2cccafcdeb"
-          ],
-          "first_published_at": 1447956255000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1.14,
-            6,
-            2,
-            1.25,
-            30,
-            60,
-            5,
-            1.25,
-            30
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4886,
-          "recipe_id": 51,
-          "group_label": "Classic Gluten-Free",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "123ca92e-131a-4682-abbd-c75d5e2ff421",
-          "fallback_published_recipe_uuids": [
-            "70665673-1d6c-4d71-a5da-286cadbaa4a2",
-            "9bd4a73d-5219-4f61-aa32-e18e84766585",
-            "11a6fb24-104f-453b-ad51-b35ad6eeee78"
-          ],
-          "first_published_at": 1550528855000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.71,
-            9,
-            3,
-            1.875,
-            45,
-            90,
-            7.5,
-            1.875,
-            45
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1241,
-          "recipe_id": 51,
-          "group_label": "Paleo",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 11,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "62c9afd2-40f0-43d1-b9a3-445f6a1b0d75",
-          "fallback_published_recipe_uuids": [
-            "edb68ed3-f8d1-4156-aefb-05cebe50d1c7",
-            "96ff9ba2-4b26-42ae-9a5d-2a165e29d177",
-            "4d0db13b-da43-4795-82c3-7d0a2a6cbe97"
-          ],
-          "first_published_at": 1447956256000,
-          "allowed_type_ids": [
-            5
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            193,
-            47,
-            103,
-            84,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1.14,
-            6,
-            2,
-            1.25,
-            30,
-            30,
-            60,
-            5,
-            1.25
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4755,
-          "recipe_id": 51,
-          "group_label": "Classic",
-          "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
-          "published_recipe_uuid": "12265770-35e2-4bba-890d-236cc7029812",
-          "fallback_published_recipe_uuids": [
-            "80026efe-41ad-4cb3-a4c1-d6e5fd9c50e3",
-            "751449da-3d44-4c73-8713-6cf3c9f2cc6f",
-            "10df712b-45c1-4624-a181-9b4d33c91215"
-          ],
-          "first_published_at": 1550527092000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            161,
-            24,
-            232,
-            72,
-            47,
-            103,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.71,
-            9,
-            3,
-            1.875,
-            45,
-            90,
-            7.5,
-            1.875,
-            45
-          ],
-          "average_rating": 0.734,
-          "rating_count": 32,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 1234,
+  "recipe_id": 51,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Honey Garlic Chicken Drumsticks with Spinach, Avocado & Orange Salad",
+  "slug": "honey-garlic-chicken-drumsticks-spinach-avocado-orange-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/thumbnail_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/51/presentation_218a3cd1-536b-4c4c-b9ac-64724038004c.jpg",
+  "cookwares": [
+    {
+      "id": 83,
+      "name": "baking dish",
+      "slug": "baking-dish"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "honey-garlic-chicken-drumsticks-spinach-avocado-orange-salad",
-    "variantId": "1234"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 10153,
+      "primary_message": "Preheat oven to 450°F. Using a paper towel, lightly coat a large baking dish with oil.",
+      "secondary_message": "about 1 tsp extra virgin olive oil"
+    },
+    {
+      "id": 10154,
+      "primary_message": "Add chicken to the dish, place in the oven, and bake for 10 minutes.",
+      "secondary_message": "2 ½ lb chicken drumsticks"
+    },
+    {
+      "id": 10155,
+      "primary_message": "Peel and mince garlic. In a small bowl, prepare sauce by mixing together ⅔ of the garlic (save the rest for dressing), soy sauce, honey, and parsley flakes. Set aside.",
+      "secondary_message": "6 cloves garlic\r\n2 tbsp soy sauce\r\n4 tbsp honey\r\n1 tsp parsley flakes"
+    },
+    {
+      "id": 10156,
+      "primary_message": "Wash, dry and transfer spinach to a large bowl. Halve and pit avocados; scoop out, medium dice, and add to bowl. Wash, peel, and quarter oranges. Slice 6 of the quarters (save 2 for the dressing) into wedges and add to bowl. Toss salad.",
+      "secondary_message": "1 (5 oz) pkg baby spinach\r\n2 avocados\r\n2 oranges"
+    },
+    {
+      "id": 10157,
+      "primary_message": "Remove dish from oven, pour honey garlic sauce over the drumsticks and turn to coat. Place back in the oven and bake until cooked through, another 20-25 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 10158,
+      "primary_message": "In a small bowl, prepare dressing by whisking together juice of remaining orange, remaining garlic, oil, salt, and pepper.",
+      "secondary_message": "2 tbsp extra virgin olive oil\r\n¼ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 10159,
+      "primary_message": "To serve, place drumsticks on a plate, add salad on the side, and drizzle with dressing. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 15161,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 15151,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 15160,
+      "quantity": "2 ½ lb",
+      "ingredient_name": "chicken drumsticks"
+    },
+    {
+      "id": 15152,
+      "quantity": "6 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 15153,
+      "quantity": "2",
+      "ingredient_name": "oranges"
+    },
+    {
+      "id": 15154,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 15155,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 15156,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 15157,
+      "quantity": "",
+      "ingredient_name": "parsley flakes"
+    },
+    {
+      "id": 15158,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 15159,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 794.35,
+    "alcohol": 0,
+    "ash": 6.83,
+    "caffeine": 0,
+    "water": 381.12,
+    "carbs": 37.68,
+    "fiber": 9.37,
+    "starch": 19.35,
+    "sugars": 24.68,
+    "fructose": 10.32,
+    "galactose": 0.8,
+    "glucose": 9.37,
+    "lactose": 0,
+    "maltose": 0.31,
+    "sucrose": 3.23,
+    "sugar_alcohol": 0,
+    "fat": 47.97,
+    "monounsaturated": 25.42,
+    "polyunsaturated": 8.23,
+    "omega_3": 0.35,
+    "omega_6": 4.22,
+    "saturated": 10.1,
+    "transfats": 0.14,
+    "cholesterol": 260.82,
+    "protein": 56.04,
+    "alanine": 3.33,
+    "arginine": 3.85,
+    "aspartic_acid": 5.45,
+    "cystine": 0.65,
+    "glutamic_acid": 8.89,
+    "glycine": 2.91,
+    "histidine": 1.6,
+    "isoleucine": 2.57,
+    "leucine": 4.56,
+    "lysine": 4.97,
+    "methionine": 1.51,
+    "phenylalanine": 2.22,
+    "proline": 2.44,
+    "serine": 2.34,
+    "threonine": 2.53,
+    "tryptophan": 0.61,
+    "tyrosine": 2,
+    "valine": 2.68,
+    "b1_thiamine": 0.4,
+    "b2_riboflavin": 0.81,
+    "b3_niacin": 16.19,
+    "b5_pantothenic_acid": 4.59,
+    "b6_pyridoxine": 1.42,
+    "b12_cobalamin": 1.5,
+    "choline": 179.67,
+    "folate": 180.54,
+    "vitamin_a": 428.91,
+    "vitamin_c": 56.55,
+    "vitamin_d": 5.67,
+    "vitamin_e": 4.46,
+    "vitamin_k": 204.06,
+    "calcium": 109.34,
+    "copper": 0.47,
+    "iron": 3.98,
+    "magnesium": 89.85,
+    "manganese": 0.75,
+    "phosphorus": 564.64,
+    "potassium": 1471.28,
+    "selenium": 59.23,
+    "sodium": 338.59,
+    "zinc": 6.34
+  }
 }

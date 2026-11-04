@@ -1,790 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 14302,
-        "recipe_id": 1677,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
-        "slug": "roman-egg-drop-soup-stracciatella-olive-tomato-avocado-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 57,
-            "name": "ladle",
-            "slug": "ladle"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 237702,
-            "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 small pkg fresh basil\n1 lemon\n2 (5 oz) pkgs baby spinach\n2 avocados\n4 tomatoes"
-          },
-          {
-            "id": 237703,
-            "primary_message": "Mince olives and sun-dried tomatoes; transfer both to a small bowl along with oil, vinegar, salt, and pepper. Stir to combine the tapenade and set aside.",
-            "secondary_message": "¼ cup Kalamata olives, pitted\n8 sun-dried tomatoes, oil-packed\n2 tsp extra virgin olive oil\n1 tsp red wine vinegar\n⅛ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 237704,
-            "primary_message": "Pour broth into a large pot, add spices, and bring to a boil over medium heat. Once boiling, reduce to a simmer.",
-            "secondary_message": "64 fl oz (8 cups) chicken or vegetable broth\n1 tsp salt\n½ tsp black pepper\n¼ tsp nutmeg, ground"
-          },
-          {
-            "id": 237705,
-            "primary_message": "Meanwhile, pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons; transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 237706,
-            "primary_message": "Finely grate Parmesan; add to the bowl with the basil (setting a small handful aside for garnish).",
-            "secondary_message": "4 oz Parmesan cheese"
-          },
-          {
-            "id": 237707,
-            "primary_message": "Juice lemon into the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 237708,
-            "primary_message": "Add eggs to the bowl and whisk until well blended; set aside.",
-            "secondary_message": "8 eggs"
-          },
-          {
-            "id": 237709,
-            "primary_message": "Roughly chop spinach.",
-            "secondary_message": null
-          },
-          {
-            "id": 237710,
-            "primary_message": "Add spinach to the simmering broth in handfuls, waiting for the spinach to wilt slightly before adding the next handful.",
-            "secondary_message": null
-          },
-          {
-            "id": 237711,
-            "primary_message": "Slowly pour the egg mixture into the soup, while gently stirring, to separate into ribbons. Simmer until the egg is cooked through, 2-3 minutes; cover and remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 237712,
-            "primary_message": "Meanwhile, halve and pit the avocados. Slice thinly while still in skin and scoop out with a spoon. Thinly slice tomatoes.",
-            "secondary_message": null
-          },
-          {
-            "id": 237713,
-            "primary_message": "Arrange avocado and tomato slices on plates and spoon tapenade over top.",
-            "secondary_message": null
-          },
-          {
-            "id": 237714,
-            "primary_message": "Divide soup between bowls and top with reserved Parmesan. Serve with salad on the side and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 249709,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 249701,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 249711,
-            "quantity": "64 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 249706,
-            "quantity": "8",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 249700,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 249712,
-            "quantity": "¼ cup",
-            "ingredient_name": "Kalamata olives, pitted"
-          },
-          {
-            "id": 249710,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 249705,
-            "quantity": "4 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 249708,
-            "quantity": "8",
-            "ingredient_name": "sun-dried tomatoes, oil-packed"
-          },
-          {
-            "id": 249713,
-            "quantity": "4",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 249703,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 249702,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 249714,
-            "quantity": "",
-            "ingredient_name": "nutmeg, ground"
-          },
-          {
-            "id": 249707,
-            "quantity": "",
-            "ingredient_name": "red wine vinegar"
-          },
-          {
-            "id": 249704,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 579.3,
-          "alcohol": 0,
-          "ash": 9.17,
-          "caffeine": 0,
-          "water": 830.11,
-          "carbs": 26.8,
-          "fiber": 10.4,
-          "starch": 0.83,
-          "sugars": 6.56,
-          "fructose": 2.69,
-          "galactose": 0.19,
-          "glucose": 3.18,
-          "lactose": 0.23,
-          "maltose": 0,
-          "sucrose": 0.21,
-          "sugar_alcohol": 0,
-          "fat": 39.62,
-          "monounsaturated": 18.81,
-          "polyunsaturated": 4.91,
-          "omega_3": 0.52,
-          "omega_6": 4.41,
-          "saturated": 11,
-          "transfats": 0.31,
-          "cholesterol": 346.64,
-          "protein": 36.89,
-          "alanine": 1.76,
-          "arginine": 1.94,
-          "aspartic_acid": 3.34,
-          "cystine": 0.52,
-          "glutamic_acid": 6.49,
-          "glycine": 1.3,
-          "histidine": 1.08,
-          "isoleucine": 1.9,
-          "leucine": 3.04,
-          "lysine": 2.9,
-          "methionine": 0.94,
-          "phenylalanine": 1.78,
-          "proline": 2.3,
-          "serine": 2.03,
-          "threonine": 1.52,
-          "tryptophan": 0.45,
-          "tyrosine": 1.51,
-          "valine": 2.21,
-          "b1_thiamine": 0.23,
-          "b2_riboflavin": 0.96,
-          "b3_niacin": 10.26,
-          "b5_pantothenic_acid": 3.74,
-          "b6_pyridoxine": 0.76,
-          "b12_cobalamin": 1.62,
-          "choline": 334.16,
-          "folate": 289.68,
-          "vitamin_a": 1877.63,
-          "vitamin_c": 58.88,
-          "vitamin_d": 77.55,
-          "vitamin_e": 5.69,
-          "vitamin_k": 406.98,
-          "calcium": 182.52,
-          "copper": 0.74,
-          "iron": 6.08,
-          "magnesium": 137.86,
-          "manganese": 1.41,
-          "phosphorus": 651.23,
-          "potassium": 1785.27,
-          "selenium": 34.74,
-          "sodium": 505.5,
-          "zinc": 3.76
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/roman-egg-drop-soup-stracciatella-olive-tomato-avocado-salad/14302",
-      "altVariants": [
-        {
-          "id": 14303,
-          "recipe_id": 1677,
-          "group_label": "Default",
-          "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "published_recipe_uuid": "3e5e7133-fc42-43f4-8417-31c3e60ed177",
-          "fallback_published_recipe_uuids": [
-            "0d29cf6b-d0c6-41da-81ae-0e16ab1394e9"
-          ],
-          "first_published_at": 1618532958000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            201,
-            121,
-            28,
-            203,
-            192,
-            120,
-            162,
-            260,
-            72,
-            47,
-            349,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            96,
-            12,
-            1,
-            0.3333333333333333,
-            1.5,
-            6,
-            12,
-            6,
-            4.6875,
-            15,
-            2.5,
-            7.5,
-            8.4375
-          ],
-          "average_rating": 0.75,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Grated parmesean forms small, light clouds in the base of this traditional Italian soup. Whisked eggs are poured in to form quickly cooked ribbons that give the soup a wonderfully delicate texture."
-        },
-        {
-          "id": 14302,
-          "recipe_id": 1677,
-          "group_label": "Default",
-          "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "published_recipe_uuid": "16d01fde-7c0f-4fb3-a956-2287bf7e8d22",
-          "fallback_published_recipe_uuids": [
-            "c050566c-98e7-4cfa-a585-2a629186384a"
-          ],
-          "first_published_at": 1618532959000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            201,
-            121,
-            28,
-            203,
-            192,
-            120,
-            162,
-            260,
-            72,
-            47,
-            349,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            64,
-            8,
-            1,
-            0.25,
-            1,
-            4,
-            8,
-            4,
-            3.125,
-            10,
-            1.25,
-            5,
-            5.625
-          ],
-          "average_rating": 0.75,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Grated parmesean forms small, light clouds in the base of this traditional Italian soup. Whisked eggs are poured in to form quickly cooked ribbons that give the soup a wonderfully delicate texture."
-        },
-        {
-          "id": 14301,
-          "recipe_id": 1677,
-          "group_label": "Default",
-          "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "published_recipe_uuid": "ebc28dba-32a9-4586-90b0-8229ca9c192e",
-          "fallback_published_recipe_uuids": [
-            "72423d98-8124-43ca-896f-63018d6d5d3b"
-          ],
-          "first_published_at": 1618532962000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            201,
-            121,
-            28,
-            203,
-            192,
-            120,
-            162,
-            260,
-            72,
-            47,
-            349,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            32,
-            4,
-            0.5,
-            0.125,
-            0.5,
-            2,
-            4,
-            2,
-            1.5625,
-            5,
-            0.625,
-            2.5,
-            2.8125
-          ],
-          "average_rating": 0.75,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Grated parmesean forms small, light clouds in the base of this traditional Italian soup. Whisked eggs are poured in to form quickly cooked ribbons that give the soup a wonderfully delicate texture."
-        },
-        {
-          "id": 14306,
-          "recipe_id": 1677,
-          "group_label": "Default",
-          "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "published_recipe_uuid": "a40b4565-1152-43cd-9e28-b16709f1e92e",
-          "fallback_published_recipe_uuids": [
-            "b0989007-37ca-4be9-b3ed-aa966d58e0ab"
-          ],
-          "first_published_at": 1618532956000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            201,
-            121,
-            28,
-            203,
-            192,
-            120,
-            162,
-            260,
-            72,
-            47,
-            349,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            2839,
-            12,
-            1,
-            0.3333333333333333,
-            1.5,
-            170,
-            12,
-            6,
-            4.6875,
-            15,
-            2.5,
-            7.5,
-            8.4375
-          ],
-          "average_rating": 0.75,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Grated parmesean forms small, light clouds in the base of this traditional Italian soup. Whisked eggs are poured in to form quickly cooked ribbons that give the soup a wonderfully delicate texture."
-        },
-        {
-          "id": 14304,
-          "recipe_id": 1677,
-          "group_label": "Default",
-          "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "published_recipe_uuid": "28c6dd7b-e0ef-41a2-baff-6af8e707513a",
-          "fallback_published_recipe_uuids": [
-            "65de907c-5ba9-4d8a-a32b-cf391778c98b"
-          ],
-          "first_published_at": 1618532957000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            201,
-            121,
-            28,
-            203,
-            192,
-            120,
-            162,
-            260,
-            72,
-            47,
-            349,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            946,
-            4,
-            0.5,
-            0.125,
-            0.5,
-            57,
-            4,
-            2,
-            1.5625,
-            5,
-            0.625,
-            2.5,
-            2.8125
-          ],
-          "average_rating": 0.75,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Grated parmesean forms small, light clouds in the base of this traditional Italian soup. Whisked eggs are poured in to form quickly cooked ribbons that give the soup a wonderfully delicate texture."
-        },
-        {
-          "id": 14305,
-          "recipe_id": 1677,
-          "group_label": "Default",
-          "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
-          "published_recipe_uuid": "3d253115-1025-4815-a308-da483224d7ca",
-          "fallback_published_recipe_uuids": [
-            "8d2d715f-6425-4e9c-9ba5-3d83398be034"
-          ],
-          "first_published_at": 1618532958000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            33,
-            201,
-            121,
-            28,
-            203,
-            192,
-            120,
-            162,
-            260,
-            72,
-            47,
-            349,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1893,
-            8,
-            1,
-            0.25,
-            1,
-            113,
-            8,
-            4,
-            3.125,
-            10,
-            1.25,
-            5,
-            5.625
-          ],
-          "average_rating": 0.75,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Grated parmesean forms small, light clouds in the base of this traditional Italian soup. Whisked eggs are poured in to form quickly cooked ribbons that give the soup a wonderfully delicate texture."
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Grated parmesean forms small, light clouds in the base of this traditional Italian soup. Whisked eggs are poured in to form quickly cooked ribbons that give the soup a wonderfully delicate texture.",
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "Italian",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 14302,
+  "recipe_id": 1677,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Roman Egg Drop Soup (Stracciatella) with Olive, Tomato & Avocado Salad",
+  "slug": "roman-egg-drop-soup-stracciatella-olive-tomato-avocado-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/thumbnail_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1677/presentation_6beed9ea-1dcb-42f3-896f-2eb4e8d85530.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "roman-egg-drop-soup-stracciatella-olive-tomato-avocado-salad",
-    "variantId": "14302"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 57,
+      "name": "ladle",
+      "slug": "ladle"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 237702,
+      "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 small pkg fresh basil\n1 lemon\n2 (5 oz) pkgs baby spinach\n2 avocados\n4 tomatoes"
+    },
+    {
+      "id": 237703,
+      "primary_message": "Mince olives and sun-dried tomatoes; transfer both to a small bowl along with oil, vinegar, salt, and pepper. Stir to combine the tapenade and set aside.",
+      "secondary_message": "¼ cup Kalamata olives, pitted\n8 sun-dried tomatoes, oil-packed\n2 tsp extra virgin olive oil\n1 tsp red wine vinegar\n⅛ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 237704,
+      "primary_message": "Pour broth into a large pot, add spices, and bring to a boil over medium heat. Once boiling, reduce to a simmer.",
+      "secondary_message": "64 fl oz (8 cups) chicken or vegetable broth\n1 tsp salt\n½ tsp black pepper\n¼ tsp nutmeg, ground"
+    },
+    {
+      "id": 237705,
+      "primary_message": "Meanwhile, pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons; transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 237706,
+      "primary_message": "Finely grate Parmesan; add to the bowl with the basil (setting a small handful aside for garnish).",
+      "secondary_message": "4 oz Parmesan cheese"
+    },
+    {
+      "id": 237707,
+      "primary_message": "Juice lemon into the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 237708,
+      "primary_message": "Add eggs to the bowl and whisk until well blended; set aside.",
+      "secondary_message": "8 eggs"
+    },
+    {
+      "id": 237709,
+      "primary_message": "Roughly chop spinach.",
+      "secondary_message": null
+    },
+    {
+      "id": 237710,
+      "primary_message": "Add spinach to the simmering broth in handfuls, waiting for the spinach to wilt slightly before adding the next handful.",
+      "secondary_message": null
+    },
+    {
+      "id": 237711,
+      "primary_message": "Slowly pour the egg mixture into the soup, while gently stirring, to separate into ribbons. Simmer until the egg is cooked through, 2-3 minutes; cover and remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 237712,
+      "primary_message": "Meanwhile, halve and pit the avocados. Slice thinly while still in skin and scoop out with a spoon. Thinly slice tomatoes.",
+      "secondary_message": null
+    },
+    {
+      "id": 237713,
+      "primary_message": "Arrange avocado and tomato slices on plates and spoon tapenade over top.",
+      "secondary_message": null
+    },
+    {
+      "id": 237714,
+      "primary_message": "Divide soup between bowls and top with reserved Parmesan. Serve with salad on the side and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 249709,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 249701,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 249711,
+      "quantity": "64 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 249706,
+      "quantity": "8",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 249700,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 249712,
+      "quantity": "¼ cup",
+      "ingredient_name": "Kalamata olives, pitted"
+    },
+    {
+      "id": 249710,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 249705,
+      "quantity": "4 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 249708,
+      "quantity": "8",
+      "ingredient_name": "sun-dried tomatoes, oil-packed"
+    },
+    {
+      "id": 249713,
+      "quantity": "4",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 249703,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 249702,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 249714,
+      "quantity": "",
+      "ingredient_name": "nutmeg, ground"
+    },
+    {
+      "id": 249707,
+      "quantity": "",
+      "ingredient_name": "red wine vinegar"
+    },
+    {
+      "id": 249704,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 579.3,
+    "alcohol": 0,
+    "ash": 9.17,
+    "caffeine": 0,
+    "water": 830.11,
+    "carbs": 26.8,
+    "fiber": 10.4,
+    "starch": 0.83,
+    "sugars": 6.56,
+    "fructose": 2.69,
+    "galactose": 0.19,
+    "glucose": 3.18,
+    "lactose": 0.23,
+    "maltose": 0,
+    "sucrose": 0.21,
+    "sugar_alcohol": 0,
+    "fat": 39.62,
+    "monounsaturated": 18.81,
+    "polyunsaturated": 4.91,
+    "omega_3": 0.52,
+    "omega_6": 4.41,
+    "saturated": 11,
+    "transfats": 0.31,
+    "cholesterol": 346.64,
+    "protein": 36.89,
+    "alanine": 1.76,
+    "arginine": 1.94,
+    "aspartic_acid": 3.34,
+    "cystine": 0.52,
+    "glutamic_acid": 6.49,
+    "glycine": 1.3,
+    "histidine": 1.08,
+    "isoleucine": 1.9,
+    "leucine": 3.04,
+    "lysine": 2.9,
+    "methionine": 0.94,
+    "phenylalanine": 1.78,
+    "proline": 2.3,
+    "serine": 2.03,
+    "threonine": 1.52,
+    "tryptophan": 0.45,
+    "tyrosine": 1.51,
+    "valine": 2.21,
+    "b1_thiamine": 0.23,
+    "b2_riboflavin": 0.96,
+    "b3_niacin": 10.26,
+    "b5_pantothenic_acid": 3.74,
+    "b6_pyridoxine": 0.76,
+    "b12_cobalamin": 1.62,
+    "choline": 334.16,
+    "folate": 289.68,
+    "vitamin_a": 1877.63,
+    "vitamin_c": 58.88,
+    "vitamin_d": 77.55,
+    "vitamin_e": 5.69,
+    "vitamin_k": 406.98,
+    "calcium": 182.52,
+    "copper": 0.74,
+    "iron": 6.08,
+    "magnesium": 137.86,
+    "manganese": 1.41,
+    "phosphorus": 651.23,
+    "potassium": 1785.27,
+    "selenium": 34.74,
+    "sodium": 505.5,
+    "zinc": 3.76
+  }
 }

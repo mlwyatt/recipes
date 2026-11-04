@@ -1,595 +1,210 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 23450,
-        "recipe_id": 2649,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
-        "slug": "pork-chop-italian-seasoned-brussels-sprouts-butternut-squash",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 384690,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 384691,
-            "primary_message": "Wash, dry, trim, and halve Brussels sprouts lengthwise. Transfer to a large baking sheet pan along with the butternut squash. Drizzle veggies with dressing and season with spices; toss to coat and spread out in an even layer.",
-            "secondary_message": "1 ½ lb Brussels sprouts\n4 cup frozen butternut squash, pieces\n¼ cup Italian salad dressing\n½ tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 384692,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing halfway through, until veggies are fork-tender, 20-25 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 384693,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 384694,
-            "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
-            "secondary_message": "4 pork chops, bone-in\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 384695,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chops and pan-fry until golden brown and cooked through, 3-4 minutes per side. Transfer to a clean plate and loosely cover with aluminum foil.",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 384696,
-            "primary_message": "To serve, divide veggies and chops between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 410901,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "Brussels sprouts"
-          },
-          {
-            "id": 410907,
-            "quantity": "4 cups",
-            "ingredient_name": "frozen butternut squash, pieces"
-          },
-          {
-            "id": 410906,
-            "quantity": "¼ cup",
-            "ingredient_name": "Italian salad dressing"
-          },
-          {
-            "id": 410900,
-            "quantity": "4",
-            "ingredient_name": "pork chops, bone-in"
-          },
-          {
-            "id": 410903,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 410902,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 410904,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 410905,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 589.19,
-          "alcohol": 0,
-          "ash": 7.03,
-          "caffeine": 0,
-          "water": 514.35,
-          "carbs": 33.39,
-          "fiber": 7.82,
-          "starch": 5.41,
-          "sugars": 12.08,
-          "fructose": 2.47,
-          "galactose": 0,
-          "glucose": 2.05,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.87,
-          "sugar_alcohol": 0,
-          "fat": 30.72,
-          "monounsaturated": 9.8,
-          "polyunsaturated": 4.32,
-          "omega_3": 0.57,
-          "omega_6": 4.7,
-          "saturated": 6.07,
-          "transfats": 0.17,
-          "cholesterol": 116.58,
-          "protein": 49.11,
-          "alanine": 2.4,
-          "arginine": 3.08,
-          "aspartic_acid": 4.01,
-          "cystine": 0.51,
-          "glutamic_acid": 6.54,
-          "glycine": 1.84,
-          "histidine": 1.89,
-          "isoleucine": 2.24,
-          "leucine": 3.74,
-          "lysine": 4.05,
-          "methionine": 1.18,
-          "phenylalanine": 1.89,
-          "proline": 1.66,
-          "serine": 1.77,
-          "threonine": 2.04,
-          "tryptophan": 0.49,
-          "tyrosine": 1.56,
-          "valine": 2.4,
-          "b1_thiamine": 1.28,
-          "b2_riboflavin": 0.78,
-          "b3_niacin": 15.48,
-          "b5_pantothenic_acid": 1.93,
-          "b6_pyridoxine": 1.91,
-          "b12_cobalamin": 1.09,
-          "choline": 163.25,
-          "folate": 142.81,
-          "vitamin_a": 1306.46,
-          "vitamin_c": 166.46,
-          "vitamin_d": 52.26,
-          "vitamin_e": 5.3,
-          "vitamin_k": 315.69,
-          "calcium": 177.43,
-          "copper": 0.57,
-          "iron": 5.64,
-          "magnesium": 116.28,
-          "manganese": 0.66,
-          "phosphorus": 636.71,
-          "potassium": 2176.17,
-          "selenium": 75.23,
-          "sodium": 309.25,
-          "zinc": 5.24
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pork-chop-italian-seasoned-brussels-sprouts-butternut-squash/23450",
-      "altVariants": [
-        {
-          "id": 23451,
-          "recipe_id": 2649,
-          "group_label": "Default",
-          "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "published_recipe_uuid": "d48ee237-85b5-4a38-aa63-a31845e0f85f",
-          "fallback_published_recipe_uuids": [
-            "3ff2fe7d-6c00-41fd-a756-57091383553b"
-          ],
-          "first_published_at": 1675187802000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            14,
-            430,
-            394,
-            3,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            2.25,
-            1440,
-            90,
-            6,
-            6.25,
-            30,
-            3.75,
-            11.25
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This proves that \"simple\" doesn't have to = \"bland\"!"
-        },
-        {
-          "id": 23450,
-          "recipe_id": 2649,
-          "group_label": "Default",
-          "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "published_recipe_uuid": "afaab053-fc36-4c71-8c1b-335465de52aa",
-          "fallback_published_recipe_uuids": [
-            "a79b8ed5-407b-4e48-bcfd-71e6d5e452f0"
-          ],
-          "first_published_at": 1675187802000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            14,
-            430,
-            394,
-            3,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            960,
-            60,
-            4,
-            3.75,
-            20,
-            2.5,
-            7.5
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This proves that \"simple\" doesn't have to = \"bland\"!"
-        },
-        {
-          "id": 23449,
-          "recipe_id": 2649,
-          "group_label": "Default",
-          "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "published_recipe_uuid": "ca08493b-08f7-4fc9-86d8-659511ac332e",
-          "fallback_published_recipe_uuids": [
-            "5e6770d1-14e6-4347-8e33-879c26d4c986"
-          ],
-          "first_published_at": 1675187802000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            14,
-            430,
-            394,
-            3,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.75,
-            480,
-            30,
-            2,
-            1.875,
-            10,
-            1.25,
-            3.75
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This proves that \"simple\" doesn't have to = \"bland\"!"
-        },
-        {
-          "id": 23454,
-          "recipe_id": 2649,
-          "group_label": "Default",
-          "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "published_recipe_uuid": "3ab3390a-45ba-4d61-b2c2-84464c61da41",
-          "fallback_published_recipe_uuids": [
-            "bab6fa95-c4a6-4ba4-8017-93dd4ebd33e2"
-          ],
-          "first_published_at": 1675187800000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            14,
-            430,
-            394,
-            3,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.02,
-            1440,
-            90,
-            6,
-            6.25,
-            30,
-            3.75,
-            11.25
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This proves that \"simple\" doesn't have to = \"bland\"!"
-        },
-        {
-          "id": 23453,
-          "recipe_id": 2649,
-          "group_label": "Default",
-          "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "published_recipe_uuid": "5159de20-cd96-4b0e-9375-8c099787285b",
-          "fallback_published_recipe_uuids": [
-            "99da2cda-9805-4147-86d1-f352dba70423"
-          ],
-          "first_published_at": 1675187801000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            14,
-            430,
-            394,
-            3,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.68,
-            960,
-            60,
-            4,
-            3.75,
-            20,
-            2.5,
-            7.5
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This proves that \"simple\" doesn't have to = \"bland\"!"
-        },
-        {
-          "id": 23452,
-          "recipe_id": 2649,
-          "group_label": "Default",
-          "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
-          "published_recipe_uuid": "c70cb7c9-d3c0-49b1-8a94-470b8c162afa",
-          "fallback_published_recipe_uuids": [
-            "88fed5b3-6985-49c7-a982-d8637577abea"
-          ],
-          "first_published_at": 1675187801000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-
-          ],
-          "ingredient_ids": [
-            14,
-            430,
-            394,
-            3,
-            72,
-            47,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.34,
-            480,
-            30,
-            2,
-            1.875,
-            10,
-            1.25,
-            3.75
-          ],
-          "average_rating": 0.714,
-          "rating_count": 7,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This proves that \"simple\" doesn't have to = \"bland\"!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "This proves that \"simple\" doesn't have to = \"bland\"!",
-        "keywords": [
-          "Chops"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 23450,
+  "recipe_id": 2649,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Pork Chop with Italian Seasoned Brussels Sprouts & Butternut Squash",
+  "slug": "pork-chop-italian-seasoned-brussels-sprouts-butternut-squash",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/thumbnail_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2649/presentation_b6a90614-6977-4b55-ac44-a2c25fbcd86e.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pork-chop-italian-seasoned-brussels-sprouts-butternut-squash",
-    "variantId": "23450"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 384690,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 384691,
+      "primary_message": "Wash, dry, trim, and halve Brussels sprouts lengthwise. Transfer to a large baking sheet pan along with the butternut squash. Drizzle veggies with dressing and season with spices; toss to coat and spread out in an even layer.",
+      "secondary_message": "1 ½ lb Brussels sprouts\n4 cup frozen butternut squash, pieces\n¼ cup Italian salad dressing\n½ tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 384692,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing halfway through, until veggies are fork-tender, 20-25 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 384693,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 384694,
+      "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
+      "secondary_message": "4 pork chops, bone-in\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 384695,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chops and pan-fry until golden brown and cooked through, 3-4 minutes per side. Transfer to a clean plate and loosely cover with aluminum foil.",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 384696,
+      "primary_message": "To serve, divide veggies and chops between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 410901,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "Brussels sprouts"
+    },
+    {
+      "id": 410907,
+      "quantity": "4 cups",
+      "ingredient_name": "frozen butternut squash, pieces"
+    },
+    {
+      "id": 410906,
+      "quantity": "¼ cup",
+      "ingredient_name": "Italian salad dressing"
+    },
+    {
+      "id": 410900,
+      "quantity": "4",
+      "ingredient_name": "pork chops, bone-in"
+    },
+    {
+      "id": 410903,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 410902,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 410904,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 410905,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 589.19,
+    "alcohol": 0,
+    "ash": 7.03,
+    "caffeine": 0,
+    "water": 514.35,
+    "carbs": 33.39,
+    "fiber": 7.82,
+    "starch": 5.41,
+    "sugars": 12.08,
+    "fructose": 2.47,
+    "galactose": 0,
+    "glucose": 2.05,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.87,
+    "sugar_alcohol": 0,
+    "fat": 30.72,
+    "monounsaturated": 9.8,
+    "polyunsaturated": 4.32,
+    "omega_3": 0.57,
+    "omega_6": 4.7,
+    "saturated": 6.07,
+    "transfats": 0.17,
+    "cholesterol": 116.58,
+    "protein": 49.11,
+    "alanine": 2.4,
+    "arginine": 3.08,
+    "aspartic_acid": 4.01,
+    "cystine": 0.51,
+    "glutamic_acid": 6.54,
+    "glycine": 1.84,
+    "histidine": 1.89,
+    "isoleucine": 2.24,
+    "leucine": 3.74,
+    "lysine": 4.05,
+    "methionine": 1.18,
+    "phenylalanine": 1.89,
+    "proline": 1.66,
+    "serine": 1.77,
+    "threonine": 2.04,
+    "tryptophan": 0.49,
+    "tyrosine": 1.56,
+    "valine": 2.4,
+    "b1_thiamine": 1.28,
+    "b2_riboflavin": 0.78,
+    "b3_niacin": 15.48,
+    "b5_pantothenic_acid": 1.93,
+    "b6_pyridoxine": 1.91,
+    "b12_cobalamin": 1.09,
+    "choline": 163.25,
+    "folate": 142.81,
+    "vitamin_a": 1306.46,
+    "vitamin_c": 166.46,
+    "vitamin_d": 52.26,
+    "vitamin_e": 5.3,
+    "vitamin_k": 315.69,
+    "calcium": 177.43,
+    "copper": 0.57,
+    "iron": 5.64,
+    "magnesium": 116.28,
+    "manganese": 0.66,
+    "phosphorus": 636.71,
+    "potassium": 2176.17,
+    "selenium": 75.23,
+    "sodium": 309.25,
+    "zinc": 5.24
+  }
 }

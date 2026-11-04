@@ -1,2070 +1,245 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 22703,
-        "recipe_id": 2567,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-        "slug": "creamy-cauliflower-salad-ham-celery-dill",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 376646,
-            "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover and bring to a boil over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 376647,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "1 medium head cauliflower\n2 sticks celery\n½ small bunch fresh dill"
-          },
-          {
-            "id": 376648,
-            "primary_message": "Cut cauliflower into 1-inch florets and slice stems into smaller pieces.",
-            "secondary_message": null
-          },
-          {
-            "id": 376649,
-            "primary_message": "Once the water comes to a boil, uncover, then add cauliflower and salt; stir for a few seconds. Cook until tender-crisp, about 3 minutes. Drain and set aside to cool slightly.",
-            "secondary_message": "½ tsp salt"
-          },
-          {
-            "id": 376650,
-            "primary_message": "Meanwhile, place mayo, Dijon, vinegar, and spices in a medium bowl; whisk to combine the dressing.",
-            "secondary_message": "⅓ cup mayonnaise\n4 tsp Dijon mustard\n4 tsp red wine vinegar\n½ tsp salt\n½ tsp black pepper\n½ tsp garlic powder\n½ tsp curry powder\n¼ tsp paprika"
-          },
-          {
-            "id": 376651,
-            "primary_message": "Peel and mince shallot. Add to the bowl with the dressing.",
-            "secondary_message": "1 shallot"
-          },
-          {
-            "id": 376652,
-            "primary_message": "Trim and small dice celery. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 376653,
-            "primary_message": "Shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 376654,
-            "primary_message": "Small dice ham. Add to the bowl, along with the cauliflower, and stir to combine the salad.",
-            "secondary_message": "16 oz ham steak, boneless"
-          },
-          {
-            "id": 376655,
-            "primary_message": "To serve, divide salad between bowls and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 401824,
-            "quantity": "1 medium head",
-            "ingredient_name": "cauliflower"
-          },
-          {
-            "id": 401823,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 401826,
-            "quantity": "½ small bunch",
-            "ingredient_name": "fresh dill"
-          },
-          {
-            "id": 401827,
-            "quantity": "16 oz",
-            "ingredient_name": "ham steak, boneless"
-          },
-          {
-            "id": 401822,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 401815,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 401816,
-            "quantity": "",
-            "ingredient_name": "curry powder"
-          },
-          {
-            "id": 401820,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 401817,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 401825,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 401818,
-            "quantity": "",
-            "ingredient_name": "paprika"
-          },
-          {
-            "id": 401821,
-            "quantity": "",
-            "ingredient_name": "red wine vinegar"
-          },
-          {
-            "id": 401819,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 347.63,
-          "alcohol": 0.01,
-          "ash": 8.01,
-          "caffeine": 0,
-          "water": 256.44,
-          "carbs": 10.92,
-          "fiber": 4,
-          "starch": 1.05,
-          "sugars": 4.25,
-          "fructose": 1.59,
-          "galactose": 0.1,
-          "glucose": 1.65,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.86,
-          "sugar_alcohol": 0,
-          "fat": 22.67,
-          "monounsaturated": 6.48,
-          "polyunsaturated": 10.33,
-          "omega_3": 1.23,
-          "omega_6": 9.1,
-          "saturated": 4.59,
-          "transfats": 0.09,
-          "cholesterol": 64.73,
-          "protein": 26.07,
-          "alanine": 1.53,
-          "arginine": 1.64,
-          "aspartic_acid": 2.47,
-          "cystine": 0.38,
-          "glutamic_acid": 4.15,
-          "glycine": 1.3,
-          "histidine": 0.9,
-          "isoleucine": 1.12,
-          "leucine": 1.98,
-          "lysine": 2.26,
-          "methionine": 0.63,
-          "phenylalanine": 1.09,
-          "proline": 1.12,
-          "serine": 1.08,
-          "threonine": 1.13,
-          "tryptophan": 0.31,
-          "tyrosine": 0.83,
-          "valine": 1.2,
-          "b1_thiamine": 1,
-          "b2_riboflavin": 0.35,
-          "b3_niacin": 6.75,
-          "b5_pantothenic_acid": 1.82,
-          "b6_pyridoxine": 0.76,
-          "b12_cobalamin": 0.92,
-          "choline": 79.89,
-          "folate": 107.35,
-          "vitamin_a": 430.05,
-          "vitamin_c": 112.64,
-          "vitamin_d": 2.75,
-          "vitamin_e": 1.8,
-          "vitamin_k": 70.17,
-          "calcium": 64.13,
-          "copper": 0.18,
-          "iron": 2.47,
-          "magnesium": 54.06,
-          "manganese": 0.51,
-          "phosphorus": 386.72,
-          "potassium": 926.82,
-          "selenium": 28.77,
-          "sodium": 1549.69,
-          "zinc": 2.9
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-cauliflower-salad-ham-celery-dill/22703",
-      "altVariants": [
-        {
-          "id": 22707,
-          "recipe_id": 2567,
-          "group_label": "Paleo",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "023933fd-7f7b-4930-9e35-63ee91dd3e13",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349226000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            268,
-            72,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            24,
-            2,
-            135,
-            3.75,
-            3.75,
-            30,
-            3.75,
-            2.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22713,
-          "recipe_id": 2567,
-          "group_label": "Vegan",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 11,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22713/thumbnail_fc4aba35-8f1d-46f3-a07d-fc7f2028efbd.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22713/presentation_fc4aba35-8f1d-46f3-a07d-fc7f2028efbd.jpeg",
-          "published_recipe_uuid": "062ab105-167d-42aa-9445-11d22e8051ce",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349224000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            1,
-            2,
-            3.75,
-            7.5,
-            3.75,
-            30,
-            3.75,
-            2.5,
-            30,
-            7.5,
-            135
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22712,
-          "recipe_id": 2567,
-          "group_label": "Vegan",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 10,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22712/thumbnail_49def36b-8ef0-476b-9a5e-5afcc7c89aef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22712/presentation_49def36b-8ef0-476b-9a5e-5afcc7c89aef.jpeg",
-          "published_recipe_uuid": "b36919a3-f804-4924-b17c-f43c1c6c23b9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349224000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            0.5,
-            1,
-            2.5,
-            5,
-            2.5,
-            20,
-            2.5,
-            1.25,
-            20,
-            5,
-            90
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22711,
-          "recipe_id": 2567,
-          "group_label": "Vegan",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 9,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22711/thumbnail_c7ea9ad5-c7cf-4c60-b605-37246d80815d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22711/presentation_c7ea9ad5-c7cf-4c60-b605-37246d80815d.jpeg",
-          "published_recipe_uuid": "fe1fc762-9b43-4b69-b3ba-0d8511e75445",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349224000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.25,
-            0.5,
-            1.25,
-            2.5,
-            1.25,
-            10,
-            1.25,
-            0.625,
-            10,
-            2.5,
-            45
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22706,
-          "recipe_id": 2567,
-          "group_label": "Paleo",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "40587b8a-d390-4be6-8e37-7aa2d8592f29",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349226000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            268,
-            72,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            16,
-            1,
-            90,
-            2.5,
-            2.5,
-            20,
-            2.5,
-            1.25,
-            20,
-            5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22705,
-          "recipe_id": 2567,
-          "group_label": "Paleo",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "56dea4a4-c6a7-48f5-89bf-dc1c25f52772",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349226000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            268,
-            72,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.25,
-            8,
-            0.5,
-            45,
-            1.25,
-            1.25,
-            10,
-            1.25,
-            0.625,
-            10,
-            2.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22704,
-          "recipe_id": 2567,
-          "group_label": "Default",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "78d4a992-6182-4b9e-835b-a57df9063965",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349227000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            72,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            24,
-            2,
-            3.75,
-            3.75,
-            30,
-            3.75,
-            135,
-            2.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22703,
-          "recipe_id": 2567,
-          "group_label": "Default",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "29a19330-681c-4570-a388-8cac50019c97",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349227000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            72,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            16,
-            1,
-            2.5,
-            2.5,
-            20,
-            2.5,
-            90,
-            1.25,
-            20,
-            5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22702,
-          "recipe_id": 2567,
-          "group_label": "Default",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "c7b5c32c-1c7d-4640-a38f-22b48a73bca9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349227000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            72,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.25,
-            8,
-            0.5,
-            1.25,
-            1.25,
-            10,
-            1.25,
-            45,
-            0.625,
-            10,
-            2.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22710,
-          "recipe_id": 2567,
-          "group_label": "Vegetarian",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 8,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22710/thumbnail_5c6e0cbb-82cd-45cc-901e-0e2b45617198.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22710/presentation_5c6e0cbb-82cd-45cc-901e-0e2b45617198.jpeg",
-          "published_recipe_uuid": "492a7deb-af1f-4f7d-ad4b-abc1fa352534",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349225000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            1,
-            2,
-            3.75,
-            7.5,
-            3.75,
-            30,
-            3.75,
-            135,
-            2.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22709,
-          "recipe_id": 2567,
-          "group_label": "Vegetarian",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22709/thumbnail_3bd40bb5-01f6-4d6e-89bb-208cc6d1444f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22709/presentation_3bd40bb5-01f6-4d6e-89bb-208cc6d1444f.jpeg",
-          "published_recipe_uuid": "a6f791e9-2a82-46e3-91b3-8496e90069bd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349225000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            0.5,
-            1,
-            2.5,
-            5,
-            2.5,
-            20,
-            2.5,
-            90,
-            1.25,
-            20,
-            5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22708,
-          "recipe_id": 2567,
-          "group_label": "Vegetarian",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 6,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22708/thumbnail_77dff531-c8c4-4aa2-a9f9-f7913daeccd8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22708/presentation_77dff531-c8c4-4aa2-a9f9-f7913daeccd8.jpeg",
-          "published_recipe_uuid": "e367d8b9-8dd7-4256-bf85-4e6bb033ad4d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349226000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.25,
-            0.5,
-            1.25,
-            2.5,
-            1.25,
-            10,
-            1.25,
-            45,
-            0.625,
-            10,
-            2.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22725,
-          "recipe_id": 2567,
-          "group_label": "Vegan",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 11,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22725/thumbnail_bfa5c5f4-35e7-4505-b586-69e654b773c6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22725/presentation_bfa5c5f4-35e7-4505-b586-69e654b773c6.jpeg",
-          "published_recipe_uuid": "c60dfb1d-8b9b-4303-aec5-98b5bddbd5bc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349220000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            1,
-            2,
-            3.75,
-            7.5,
-            3.75,
-            30,
-            3.75,
-            2.5,
-            30,
-            7.5,
-            135
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22724,
-          "recipe_id": 2567,
-          "group_label": "Vegan",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 10,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22724/thumbnail_8d10ab65-9a96-4bf6-8e33-9bd9067fef67.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22724/presentation_8d10ab65-9a96-4bf6-8e33-9bd9067fef67.jpeg",
-          "published_recipe_uuid": "af2c67e1-d3d4-4d95-89fb-77a37cb0abd4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349220000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            0.5,
-            1,
-            2.5,
-            5,
-            2.5,
-            20,
-            2.5,
-            1.25,
-            20,
-            5,
-            90
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22723,
-          "recipe_id": 2567,
-          "group_label": "Vegan",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 9,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22723/thumbnail_e1f735c0-bc49-40cf-9a78-b3e53dc11522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22723/presentation_e1f735c0-bc49-40cf-9a78-b3e53dc11522.jpeg",
-          "published_recipe_uuid": "b2713a46-7cd0-43ba-aebc-796d170ae526",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349221000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88,
-            340
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.25,
-            0.5,
-            1.25,
-            2.5,
-            1.25,
-            10,
-            1.25,
-            0.625,
-            10,
-            2.5,
-            45
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22722,
-          "recipe_id": 2567,
-          "group_label": "Vegetarian",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 8,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22722/thumbnail_4cf7affd-a9a1-4e77-9bfe-7857237fc981.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22722/presentation_4cf7affd-a9a1-4e77-9bfe-7857237fc981.jpeg",
-          "published_recipe_uuid": "0b644a13-1de1-4766-8872-2afb6d9d1fc5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349221000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            3,
-            1,
-            2,
-            3.75,
-            7.5,
-            3.75,
-            30,
-            3.75,
-            135,
-            2.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22721,
-          "recipe_id": 2567,
-          "group_label": "Vegetarian",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22721/thumbnail_9f1cfb04-efd8-43cf-af53-3a1d12627865.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22721/presentation_9f1cfb04-efd8-43cf-af53-3a1d12627865.jpeg",
-          "published_recipe_uuid": "b7b4e79d-326c-493f-9168-3db8a5540bde",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349221000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            2,
-            0.5,
-            1,
-            2.5,
-            5,
-            2.5,
-            20,
-            2.5,
-            90,
-            1.25,
-            20,
-            5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22720,
-          "recipe_id": 2567,
-          "group_label": "Vegetarian",
-          "name": "Creamy Cauliflower Salad with Edamame, Celery & Dill",
-          "position": 6,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22720/thumbnail_efa04077-a08a-4cc8-a671-71edecbffbac.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22720/presentation_efa04077-a08a-4cc8-a671-71edecbffbac.jpeg",
-          "published_recipe_uuid": "557c9c9f-e237-47dc-b125-cc915f91c51f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349222000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11,
-            9
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            330,
-            320,
-            144,
-            72,
-            293,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            1,
-            0.25,
-            0.5,
-            1.25,
-            2.5,
-            1.25,
-            10,
-            1.25,
-            45,
-            0.625,
-            10,
-            2.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22719,
-          "recipe_id": 2567,
-          "group_label": "Paleo",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "64f2898c-97c4-42c9-9fdc-7a61e5c29589",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349222000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            268,
-            72,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            680,
-            2,
-            135,
-            3.75,
-            3.75,
-            30,
-            3.75,
-            2.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22718,
-          "recipe_id": 2567,
-          "group_label": "Paleo",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "6609339d-5969-4447-844e-22962951b195",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349222000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            268,
-            72,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            454,
-            1,
-            90,
-            2.5,
-            2.5,
-            20,
-            2.5,
-            1.25,
-            20,
-            5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22717,
-          "recipe_id": 2567,
-          "group_label": "Paleo",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "5c99ebd9-14f0-49f7-ae2d-dc3db4aeef7e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349223000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            268,
-            72,
-            73,
-            117,
-            79,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.25,
-            227,
-            0.5,
-            45,
-            1.25,
-            1.25,
-            10,
-            1.25,
-            0.625,
-            10,
-            2.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22716,
-          "recipe_id": 2567,
-          "group_label": "Default",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "45514e8d-b600-4bae-8d0f-05dfa8c400ee",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349223000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            72,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            680,
-            2,
-            3.75,
-            3.75,
-            30,
-            3.75,
-            135,
-            2.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22715,
-          "recipe_id": 2567,
-          "group_label": "Default",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "e886c4f2-36e1-430b-a7b0-3a5f2773663e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349223000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            72,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            454,
-            1,
-            2.5,
-            2.5,
-            20,
-            2.5,
-            90,
-            1.25,
-            20,
-            5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        },
-        {
-          "id": 22714,
-          "recipe_id": 2567,
-          "group_label": "Default",
-          "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
-          "published_recipe_uuid": "ba548ed2-c6e0-4a0a-ae19-b8e35596bca1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670349224000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            320,
-            417,
-            144,
-            72,
-            73,
-            117,
-            79,
-            267,
-            83,
-            130,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.25,
-            227,
-            0.5,
-            1.25,
-            1.25,
-            10,
-            1.25,
-            45,
-            0.625,
-            10,
-            2.5
-          ],
-          "average_rating": 0.764,
-          "rating_count": 18,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "snack",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Snack",
-        "description": "If you're a fan of potato salad, you won't want to miss this deliciously creamy low carb cauliflower salad",
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 22703,
+  "recipe_id": 2567,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Creamy Cauliflower Salad with Ham, Celery & Dill",
+  "slug": "creamy-cauliflower-salad-ham-celery-dill",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/thumbnail_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2567/presentation_ae02b202-0267-480e-b283-f61ede33ce93.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-cauliflower-salad-ham-celery-dill",
-    "variantId": "22703"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 376646,
+      "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover and bring to a boil over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 376647,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "1 medium head cauliflower\n2 sticks celery\n½ small bunch fresh dill"
+    },
+    {
+      "id": 376648,
+      "primary_message": "Cut cauliflower into 1-inch florets and slice stems into smaller pieces.",
+      "secondary_message": null
+    },
+    {
+      "id": 376649,
+      "primary_message": "Once the water comes to a boil, uncover, then add cauliflower and salt; stir for a few seconds. Cook until tender-crisp, about 3 minutes. Drain and set aside to cool slightly.",
+      "secondary_message": "½ tsp salt"
+    },
+    {
+      "id": 376650,
+      "primary_message": "Meanwhile, place mayo, Dijon, vinegar, and spices in a medium bowl; whisk to combine the dressing.",
+      "secondary_message": "⅓ cup mayonnaise\n4 tsp Dijon mustard\n4 tsp red wine vinegar\n½ tsp salt\n½ tsp black pepper\n½ tsp garlic powder\n½ tsp curry powder\n¼ tsp paprika"
+    },
+    {
+      "id": 376651,
+      "primary_message": "Peel and mince shallot. Add to the bowl with the dressing.",
+      "secondary_message": "1 shallot"
+    },
+    {
+      "id": 376652,
+      "primary_message": "Trim and small dice celery. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 376653,
+      "primary_message": "Shave dill leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 376654,
+      "primary_message": "Small dice ham. Add to the bowl, along with the cauliflower, and stir to combine the salad.",
+      "secondary_message": "16 oz ham steak, boneless"
+    },
+    {
+      "id": 376655,
+      "primary_message": "To serve, divide salad between bowls and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 401824,
+      "quantity": "1 medium head",
+      "ingredient_name": "cauliflower"
+    },
+    {
+      "id": 401823,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 401826,
+      "quantity": "½ small bunch",
+      "ingredient_name": "fresh dill"
+    },
+    {
+      "id": 401827,
+      "quantity": "16 oz",
+      "ingredient_name": "ham steak, boneless"
+    },
+    {
+      "id": 401822,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 401815,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 401816,
+      "quantity": "",
+      "ingredient_name": "curry powder"
+    },
+    {
+      "id": 401820,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 401817,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 401825,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 401818,
+      "quantity": "",
+      "ingredient_name": "paprika"
+    },
+    {
+      "id": 401821,
+      "quantity": "",
+      "ingredient_name": "red wine vinegar"
+    },
+    {
+      "id": 401819,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 347.63,
+    "alcohol": 0.01,
+    "ash": 8.01,
+    "caffeine": 0,
+    "water": 256.44,
+    "carbs": 10.92,
+    "fiber": 4,
+    "starch": 1.05,
+    "sugars": 4.25,
+    "fructose": 1.59,
+    "galactose": 0.1,
+    "glucose": 1.65,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.86,
+    "sugar_alcohol": 0,
+    "fat": 22.67,
+    "monounsaturated": 6.48,
+    "polyunsaturated": 10.33,
+    "omega_3": 1.23,
+    "omega_6": 9.1,
+    "saturated": 4.59,
+    "transfats": 0.09,
+    "cholesterol": 64.73,
+    "protein": 26.07,
+    "alanine": 1.53,
+    "arginine": 1.64,
+    "aspartic_acid": 2.47,
+    "cystine": 0.38,
+    "glutamic_acid": 4.15,
+    "glycine": 1.3,
+    "histidine": 0.9,
+    "isoleucine": 1.12,
+    "leucine": 1.98,
+    "lysine": 2.26,
+    "methionine": 0.63,
+    "phenylalanine": 1.09,
+    "proline": 1.12,
+    "serine": 1.08,
+    "threonine": 1.13,
+    "tryptophan": 0.31,
+    "tyrosine": 0.83,
+    "valine": 1.2,
+    "b1_thiamine": 1,
+    "b2_riboflavin": 0.35,
+    "b3_niacin": 6.75,
+    "b5_pantothenic_acid": 1.82,
+    "b6_pyridoxine": 0.76,
+    "b12_cobalamin": 0.92,
+    "choline": 79.89,
+    "folate": 107.35,
+    "vitamin_a": 430.05,
+    "vitamin_c": 112.64,
+    "vitamin_d": 2.75,
+    "vitamin_e": 1.8,
+    "vitamin_k": 70.17,
+    "calcium": 64.13,
+    "copper": 0.18,
+    "iron": 2.47,
+    "magnesium": 54.06,
+    "manganese": 0.51,
+    "phosphorus": 386.72,
+    "potassium": 926.82,
+    "selenium": 28.77,
+    "sodium": 1549.69,
+    "zinc": 2.9
+  }
 }

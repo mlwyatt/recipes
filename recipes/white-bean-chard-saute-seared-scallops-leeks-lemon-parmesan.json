@@ -1,736 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 30605,
-        "recipe_id": 3434,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
-        "slug": "white-bean-chard-saute-seared-scallops-leeks-lemon-parmesan",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 485955,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 leeks\n1 bunch Swiss chard\n1 lemon"
-          },
-          {
-            "id": 485956,
-            "primary_message": "Trim off root end and dark green top of the leeks, leaving only the white and pale green parts. Cut leeks in half lengthwise and rinse under running water, separating the layers to remove any dirt and grit. Thinly slice crosswise and place in a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 485957,
-            "primary_message": "Fold chard leaves in half lengthwise and slice off the stems. Cut leaves crosswise into thin (shred-like) strips and thinly slice the stems, keeping them separate. Place leaves in another medium bowl and add stems to the bowl with the leek. Set the leaves aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 485958,
-            "primary_message": "Peel and mince garlic. Add to the bowl with the leek and chard stems, then set aside.",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 485959,
-            "primary_message": "Drain and rinse beans in a colander; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
-          },
-          {
-            "id": 485960,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 485961,
-            "primary_message": "While the skillet heats up, pat the scallops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb sea scallops\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 485962,
-            "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add scallops in a single layer; cook until golden brown and opaque throughout, 1½-2 minutes per side. Transfer to a clean plate and loosely cover with aluminum foil.",
-            "secondary_message": "2 tbsp butter, unsalted"
-          },
-          {
-            "id": 485963,
-            "primary_message": "Return skillet (with any cooking juices) to medium-high heat, add more butter, and swirl to coat the bottom. Add leek, chard stems, garlic, and spices; cook, stirring often, until softened, 1-2 minutes. (Reserve bowl for later use.)",
-            "secondary_message": "2 tbsp butter, unsalted\n½ tsp thyme, dried\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 485964,
-            "primary_message": "Add chard leaves to the skillet in handfuls, waiting for the leaves to wilt slightly before adding the next handful. Add beans and continue to cook, stirring occasionally, until chard is tender, 2-3 minutes more.",
-            "secondary_message": null
-          },
-          {
-            "id": 485965,
-            "primary_message": "Add broth to the skillet and cook, stirring occasionally, until the sauce has thickened slightly, 3-4 minutes. Remove from heat.",
-            "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth"
-          },
-          {
-            "id": 485966,
-            "primary_message": "Meanwhile, zest lemon into the reserved bowl. Cut lemon into wedges and set aside for serving.",
-            "secondary_message": null
-          },
-          {
-            "id": 485967,
-            "primary_message": "Finely grate Parmesan. Add half to the bowl with the lemon zest and stir to combine. Add remaining Parmesan to the skillet, along with pumpkin seeds, and stir to combine.",
-            "secondary_message": "3 oz Parmesan cheese\n½ cup pumpkin seeds"
-          },
-          {
-            "id": 485968,
-            "primary_message": "To serve, divide bean and chard sauté between plates or bowls. Top with scallops, lemon zest, and Parmesan. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 522491,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "cannellini (white kidney) beans"
-          },
-          {
-            "id": 522495,
-            "quantity": "8 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 522487,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 522497,
-            "quantity": "2",
-            "ingredient_name": "leeks"
-          },
-          {
-            "id": 522494,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 522493,
-            "quantity": "3 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 522496,
-            "quantity": "½ cup",
-            "ingredient_name": "pumpkin seeds"
-          },
-          {
-            "id": 522498,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "sea scallops"
-          },
-          {
-            "id": 522499,
-            "quantity": "1 bunch",
-            "ingredient_name": "Swiss chard"
-          },
-          {
-            "id": 522488,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 522492,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 522489,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 522490,
-            "quantity": "",
-            "ingredient_name": "thyme, dried"
-          }
-        ],
-        "nutrition": {
-          "energy": 614.9,
-          "alcohol": 0,
-          "ash": 10.29,
-          "caffeine": 0,
-          "water": 428.39,
-          "carbs": 49.16,
-          "fiber": 10.65,
-          "starch": 21.48,
-          "sugars": 8.51,
-          "fructose": 1.01,
-          "galactose": 0,
-          "glucose": 1.14,
-          "lactose": 0.26,
-          "maltose": 0,
-          "sucrose": 5.23,
-          "sugar_alcohol": 0,
-          "fat": 27.37,
-          "monounsaturated": 7.28,
-          "polyunsaturated": 4.19,
-          "omega_3": 0.47,
-          "omega_6": 3.71,
-          "saturated": 12.77,
-          "transfats": 0.63,
-          "cholesterol": 86.22,
-          "protein": 46.97,
-          "alanine": 1.94,
-          "arginine": 2.98,
-          "aspartic_acid": 4.01,
-          "cystine": 0.44,
-          "glutamic_acid": 7.08,
-          "glycine": 2.69,
-          "histidine": 1.1,
-          "isoleucine": 2.02,
-          "leucine": 3.49,
-          "lysine": 3.13,
-          "methionine": 0.98,
-          "phenylalanine": 2.06,
-          "proline": 2.28,
-          "serine": 2.06,
-          "threonine": 1.6,
-          "tryptophan": 0.53,
-          "tyrosine": 1.41,
-          "valine": 2.21,
-          "b1_thiamine": 0.19,
-          "b2_riboflavin": 0.26,
-          "b3_niacin": 3.94,
-          "b5_pantothenic_acid": 1.17,
-          "b6_pyridoxine": 0.54,
-          "b12_cobalamin": 2.74,
-          "choline": 188.78,
-          "folate": 118.02,
-          "vitamin_a": 5374.26,
-          "vitamin_c": 37.01,
-          "vitamin_d": 14.38,
-          "vitamin_e": 2.55,
-          "vitamin_k": 739.48,
-          "calcium": 177.26,
-          "copper": 0.85,
-          "iron": 6.84,
-          "magnesium": 252.26,
-          "manganese": 1.86,
-          "phosphorus": 959.81,
-          "potassium": 1301.67,
-          "selenium": 31.88,
-          "sodium": 1157.83,
-          "zinc": 4.74
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/white-bean-chard-saute-seared-scallops-leeks-lemon-parmesan/30605",
-      "altVariants": [
-        {
-          "id": 30606,
-          "recipe_id": 3434,
-          "group_label": "Default",
-          "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "published_recipe_uuid": "f5961802-829f-45d5-af3c-c9b168d6b1e1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1721154689000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            91,
-            201,
-            24,
-            309,
-            192,
-            120,
-            304,
-            326,
-            471,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            12,
-            6,
-            3,
-            1.5,
-            4.5,
-            0.75,
-            2.25,
-            1.5,
-            5,
-            90,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.736,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30605,
-          "recipe_id": 3434,
-          "group_label": "Default",
-          "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "published_recipe_uuid": "d67379b2-50a6-4c3c-900d-38751139b1c7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1721154689000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            91,
-            201,
-            24,
-            309,
-            192,
-            120,
-            304,
-            326,
-            471,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            8,
-            4,
-            2,
-            1,
-            3,
-            0.5,
-            1.5,
-            1,
-            2.5,
-            60,
-            5,
-            2.5
-          ],
-          "average_rating": 0.736,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30604,
-          "recipe_id": 3434,
-          "group_label": "Default",
-          "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "published_recipe_uuid": "d03b2352-b45b-467b-9e91-5d8acfb23c2a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1721154690000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            91,
-            201,
-            24,
-            309,
-            192,
-            120,
-            304,
-            326,
-            471,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            1,
-            0.5,
-            1.5,
-            0.25,
-            0.75,
-            0.5,
-            1.25,
-            30,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.736,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30609,
-          "recipe_id": 3434,
-          "group_label": "Default",
-          "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "published_recipe_uuid": "112c7fed-b44c-4d1a-9a13-65e008c5e670",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1721154688000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            91,
-            201,
-            24,
-            309,
-            192,
-            120,
-            304,
-            326,
-            471,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            355,
-            6,
-            3,
-            1.5,
-            128,
-            0.75,
-            1.02,
-            1.5,
-            5,
-            90,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.736,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30608,
-          "recipe_id": 3434,
-          "group_label": "Default",
-          "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "published_recipe_uuid": "61e7cf3c-ebf7-4596-a820-a9bdbc24307f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1721154688000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            91,
-            201,
-            24,
-            309,
-            192,
-            120,
-            304,
-            326,
-            471,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            237,
-            4,
-            2,
-            1,
-            85,
-            0.5,
-            0.68,
-            1,
-            2.5,
-            60,
-            5,
-            2.5
-          ],
-          "average_rating": 0.736,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 30607,
-          "recipe_id": 3434,
-          "group_label": "Default",
-          "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
-          "published_recipe_uuid": "a5e22625-2d32-4b96-9a9c-c4bdd9ac8936",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1721154689000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            4
-          ],
-          "ingredient_ids": [
-            91,
-            201,
-            24,
-            309,
-            192,
-            120,
-            304,
-            326,
-            471,
-            72,
-            115,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            118,
-            2,
-            1,
-            0.5,
-            43,
-            0.25,
-            0.34,
-            0.5,
-            1.25,
-            30,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.736,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Skillets & Sautés"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 30605,
+  "recipe_id": 3434,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "White Bean-Chard Sauté with Seared Scallops, Leeks, Lemon & Parmesan",
+  "slug": "white-bean-chard-saute-seared-scallops-leeks-lemon-parmesan",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/thumbnail_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3434/presentation_9a834cab-9d11-4df0-bd92-0c92ebfcc94b.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "white-bean-chard-saute-seared-scallops-leeks-lemon-parmesan",
-    "variantId": "30605"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 485955,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 leeks\n1 bunch Swiss chard\n1 lemon"
+    },
+    {
+      "id": 485956,
+      "primary_message": "Trim off root end and dark green top of the leeks, leaving only the white and pale green parts. Cut leeks in half lengthwise and rinse under running water, separating the layers to remove any dirt and grit. Thinly slice crosswise and place in a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 485957,
+      "primary_message": "Fold chard leaves in half lengthwise and slice off the stems. Cut leaves crosswise into thin (shred-like) strips and thinly slice the stems, keeping them separate. Place leaves in another medium bowl and add stems to the bowl with the leek. Set the leaves aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 485958,
+      "primary_message": "Peel and mince garlic. Add to the bowl with the leek and chard stems, then set aside.",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 485959,
+      "primary_message": "Drain and rinse beans in a colander; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans cannellini (white kidney) beans"
+    },
+    {
+      "id": 485960,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 485961,
+      "primary_message": "While the skillet heats up, pat the scallops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb sea scallops\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 485962,
+      "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add scallops in a single layer; cook until golden brown and opaque throughout, 1½-2 minutes per side. Transfer to a clean plate and loosely cover with aluminum foil.",
+      "secondary_message": "2 tbsp butter, unsalted"
+    },
+    {
+      "id": 485963,
+      "primary_message": "Return skillet (with any cooking juices) to medium-high heat, add more butter, and swirl to coat the bottom. Add leek, chard stems, garlic, and spices; cook, stirring often, until softened, 1-2 minutes. (Reserve bowl for later use.)",
+      "secondary_message": "2 tbsp butter, unsalted\n½ tsp thyme, dried\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 485964,
+      "primary_message": "Add chard leaves to the skillet in handfuls, waiting for the leaves to wilt slightly before adding the next handful. Add beans and continue to cook, stirring occasionally, until chard is tender, 2-3 minutes more.",
+      "secondary_message": null
+    },
+    {
+      "id": 485965,
+      "primary_message": "Add broth to the skillet and cook, stirring occasionally, until the sauce has thickened slightly, 3-4 minutes. Remove from heat.",
+      "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth"
+    },
+    {
+      "id": 485966,
+      "primary_message": "Meanwhile, zest lemon into the reserved bowl. Cut lemon into wedges and set aside for serving.",
+      "secondary_message": null
+    },
+    {
+      "id": 485967,
+      "primary_message": "Finely grate Parmesan. Add half to the bowl with the lemon zest and stir to combine. Add remaining Parmesan to the skillet, along with pumpkin seeds, and stir to combine.",
+      "secondary_message": "3 oz Parmesan cheese\n½ cup pumpkin seeds"
+    },
+    {
+      "id": 485968,
+      "primary_message": "To serve, divide bean and chard sauté between plates or bowls. Top with scallops, lemon zest, and Parmesan. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 522491,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "cannellini (white kidney) beans"
+    },
+    {
+      "id": 522495,
+      "quantity": "8 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 522487,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 522497,
+      "quantity": "2",
+      "ingredient_name": "leeks"
+    },
+    {
+      "id": 522494,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 522493,
+      "quantity": "3 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 522496,
+      "quantity": "½ cup",
+      "ingredient_name": "pumpkin seeds"
+    },
+    {
+      "id": 522498,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "sea scallops"
+    },
+    {
+      "id": 522499,
+      "quantity": "1 bunch",
+      "ingredient_name": "Swiss chard"
+    },
+    {
+      "id": 522488,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 522492,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 522489,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 522490,
+      "quantity": "",
+      "ingredient_name": "thyme, dried"
+    }
+  ],
+  "nutrition": {
+    "energy": 614.9,
+    "alcohol": 0,
+    "ash": 10.29,
+    "caffeine": 0,
+    "water": 428.39,
+    "carbs": 49.16,
+    "fiber": 10.65,
+    "starch": 21.48,
+    "sugars": 8.51,
+    "fructose": 1.01,
+    "galactose": 0,
+    "glucose": 1.14,
+    "lactose": 0.26,
+    "maltose": 0,
+    "sucrose": 5.23,
+    "sugar_alcohol": 0,
+    "fat": 27.37,
+    "monounsaturated": 7.28,
+    "polyunsaturated": 4.19,
+    "omega_3": 0.47,
+    "omega_6": 3.71,
+    "saturated": 12.77,
+    "transfats": 0.63,
+    "cholesterol": 86.22,
+    "protein": 46.97,
+    "alanine": 1.94,
+    "arginine": 2.98,
+    "aspartic_acid": 4.01,
+    "cystine": 0.44,
+    "glutamic_acid": 7.08,
+    "glycine": 2.69,
+    "histidine": 1.1,
+    "isoleucine": 2.02,
+    "leucine": 3.49,
+    "lysine": 3.13,
+    "methionine": 0.98,
+    "phenylalanine": 2.06,
+    "proline": 2.28,
+    "serine": 2.06,
+    "threonine": 1.6,
+    "tryptophan": 0.53,
+    "tyrosine": 1.41,
+    "valine": 2.21,
+    "b1_thiamine": 0.19,
+    "b2_riboflavin": 0.26,
+    "b3_niacin": 3.94,
+    "b5_pantothenic_acid": 1.17,
+    "b6_pyridoxine": 0.54,
+    "b12_cobalamin": 2.74,
+    "choline": 188.78,
+    "folate": 118.02,
+    "vitamin_a": 5374.26,
+    "vitamin_c": 37.01,
+    "vitamin_d": 14.38,
+    "vitamin_e": 2.55,
+    "vitamin_k": 739.48,
+    "calcium": 177.26,
+    "copper": 0.85,
+    "iron": 6.84,
+    "magnesium": 252.26,
+    "manganese": 1.86,
+    "phosphorus": 959.81,
+    "potassium": 1301.67,
+    "selenium": 31.88,
+    "sodium": 1157.83,
+    "zinc": 4.74
+  }
 }

@@ -1,1216 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 13649,
-        "recipe_id": 1596,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
-        "slug": "cumin-steak-yellow-rice-tomato-cucumber-salad-garlic-sauce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 227241,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water, turmeric, and salt; bring the mixture to a boil over high heat.",
-            "secondary_message": "1 cup basmati rice\n2 cup water\n1 tsp turmeric, ground\n½ tsp salt"
-          },
-          {
-            "id": 227242,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce heat to low. Cook rice until liquid is fully absorbed, 15-18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 227243,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "1 English cucumber\n2 tomatoes\n1 lemon"
-          },
-          {
-            "id": 227244,
-            "primary_message": "Trim and medium dice cucumber; transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 227245,
-            "primary_message": "Medium dice tomatoes and add to the bowl with the cucumber.",
-            "secondary_message": null
-          },
-          {
-            "id": 227246,
-            "primary_message": "Peel and small dice onion; add to the bowl.",
-            "secondary_message": "½ medium red onion"
-          },
-          {
-            "id": 227247,
-            "primary_message": "Juice lemon into the bowl, drizzle with oil, and season with spices. Stir to combine the salad and set aside. ",
-            "secondary_message": "2 tsp extra virgin olive oil\n½ tsp oregano, dried\n½ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 227248,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 227249,
-            "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate; season with spices on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n½ tsp salt\n½ tsp cumin, ground\n¼ tsp coriander, ground"
-          },
-          {
-            "id": 227250,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate and let rest, about 5 minutes.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 227251,
-            "primary_message": "Meanwhile, place mayo, vinegar, and spices in a small bowl. Whisk to combine the garlic sauce. ",
-            "secondary_message": "¼ cup mayonnaise\n2 tsp apple cider vinegar\n½ tsp garlic powder\n⅛ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 227252,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": null
-          },
-          {
-            "id": 227253,
-            "primary_message": "Divide rice, salad, and steak between plates. Serve with garlic sauce on the side and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 238291,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 238285,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 238288,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 238286,
-            "quantity": "½ medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 238292,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 238289,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 238284,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 238278,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 238279,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 238287,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 238277,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 238280,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 238290,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 238281,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 238282,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 238283,
-            "quantity": "",
-            "ingredient_name": "turmeric, ground"
-          }
-        ],
-        "nutrition": {
-          "energy": 696.74,
-          "alcohol": 0,
-          "ash": 5.28,
-          "caffeine": 0,
-          "water": 272.9,
-          "carbs": 45.78,
-          "fiber": 2.86,
-          "starch": 1.25,
-          "sugars": 4.14,
-          "fructose": 1.85,
-          "galactose": 0,
-          "glucose": 1.77,
-          "lactose": 0,
-          "maltose": 0.01,
-          "sucrose": 0.49,
-          "sugar_alcohol": 0,
-          "fat": 39.28,
-          "monounsaturated": 17.13,
-          "polyunsaturated": 8.23,
-          "omega_3": 0.87,
-          "omega_6": 7.36,
-          "saturated": 12.28,
-          "transfats": 1.42,
-          "cholesterol": 112.9,
-          "protein": 40.86,
-          "alanine": 2.46,
-          "arginine": 2.79,
-          "aspartic_acid": 3.95,
-          "cystine": 0.44,
-          "glutamic_acid": 6.99,
-          "glycine": 1.97,
-          "histidine": 1.43,
-          "isoleucine": 1.86,
-          "leucine": 3.41,
-          "lysine": 3.58,
-          "methionine": 1.06,
-          "phenylalanine": 1.66,
-          "proline": 1.8,
-          "serine": 1.69,
-          "threonine": 1.85,
-          "tryptophan": 0.45,
-          "tyrosine": 1.47,
-          "valine": 2.05,
-          "b1_thiamine": 0.41,
-          "b2_riboflavin": 0.39,
-          "b3_niacin": 13.14,
-          "b5_pantothenic_acid": 1.38,
-          "b6_pyridoxine": 1.12,
-          "b12_cobalamin": 2.79,
-          "choline": 111.4,
-          "folate": 133.66,
-          "vitamin_a": 629.31,
-          "vitamin_c": 16.65,
-          "vitamin_d": 8.64,
-          "vitamin_e": 2.48,
-          "vitamin_k": 44.09,
-          "calcium": 67.62,
-          "copper": 0.26,
-          "iron": 6.39,
-          "magnesium": 51.57,
-          "manganese": 0.86,
-          "phosphorus": 419.46,
-          "potassium": 777.5,
-          "selenium": 45.52,
-          "sodium": 115.2,
-          "zinc": 6.59
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cumin-steak-yellow-rice-tomato-cucumber-salad-garlic-sauce/13649",
-      "altVariants": [
-        {
-          "id": 13649,
-          "recipe_id": 1596,
-          "group_label": "Default",
-          "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "published_recipe_uuid": "4d438141-76c7-4e2c-b47f-0294a5ece7dd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098310000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            269,
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            72,
-            76,
-            186,
-            47,
-            79,
-            267,
-            82,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.5,
-            1.5,
-            2,
-            10,
-            1.25,
-            1.25,
-            2.5,
-            20,
-            2.5,
-            60,
-            2.5,
-            8.125,
-            5
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13648,
-          "recipe_id": 1596,
-          "group_label": "Default",
-          "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "published_recipe_uuid": "4d13cafe-026c-46b5-8b1e-703b669e830d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098311000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            269,
-            155,
-            192,
-            144,
-            279,
-            260,
-            133,
-            72,
-            76,
-            186,
-            47,
-            79,
-            267,
-            82,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            1,
-            0.75,
-            1,
-            5,
-            0.625,
-            0.625,
-            1.25,
-            10,
-            1.25,
-            30,
-            1.25,
-            4.0625,
-            2.5
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13651,
-          "recipe_id": 1596,
-          "group_label": "Keto",
-          "name": "Cumin Steak with Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13651/thumbnail_9870462f-189a-4590-a8d3-db8fc8a05a78.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13651/presentation_9870462f-189a-4590-a8d3-db8fc8a05a78.jpeg",
-          "published_recipe_uuid": "1e2853d5-b702-4d92-9780-bf2ba8f1f2d2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098308000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            268,
-            72,
-            76,
-            186,
-            47,
-            79,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.75,
-            2,
-            5,
-            30,
-            0.9375,
-            0.625,
-            1.25,
-            17.5,
-            1.25,
-            2.5,
-            4.0625
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13653,
-          "recipe_id": 1596,
-          "group_label": "Keto",
-          "name": "Cumin Steak with Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13653/thumbnail_284671f7-005e-4edf-9e79-71627bae9ae8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13653/presentation_284671f7-005e-4edf-9e79-71627bae9ae8.jpeg",
-          "published_recipe_uuid": "5abd9ce2-954c-440f-8acc-95e3f15f58e6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098308000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            268,
-            72,
-            76,
-            186,
-            47,
-            79,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            2.25,
-            6,
-            15,
-            90,
-            3.4375,
-            2.5,
-            3.75,
-            52.5,
-            3.75,
-            7.5,
-            12.1875
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13650,
-          "recipe_id": 1596,
-          "group_label": "Default",
-          "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "published_recipe_uuid": "8ae2769c-7e10-44db-bc94-d22e010fef2f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098310000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            269,
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            72,
-            76,
-            186,
-            47,
-            79,
-            267,
-            82,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            1,
-            2.25,
-            3,
-            15,
-            1.875,
-            2.5,
-            3.75,
-            30,
-            3.75,
-            90,
-            3.75,
-            12.1875,
-            7.5
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13652,
-          "recipe_id": 1596,
-          "group_label": "Keto",
-          "name": "Cumin Steak with Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13652/thumbnail_f6f22cf2-f59a-4d99-876c-24ba0996107b.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13652/presentation_f6f22cf2-f59a-4d99-876c-24ba0996107b.jpeg",
-          "published_recipe_uuid": "9a519c63-9176-4149-8c8b-8663314156bc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098307000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            268,
-            72,
-            76,
-            186,
-            47,
-            79,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1.5,
-            4,
-            10,
-            60,
-            1.875,
-            1.25,
-            2.5,
-            35,
-            2.5,
-            5,
-            8.125
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13659,
-          "recipe_id": 1596,
-          "group_label": "Keto",
-          "name": "Cumin Steak with Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13659/thumbnail_b306abbc-2335-4c0b-b9a0-c352bc6d91e0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13659/presentation_b306abbc-2335-4c0b-b9a0-c352bc6d91e0.jpeg",
-          "published_recipe_uuid": "a0facd42-09bd-46a6-9f4c-beea4584653c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098300000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            268,
-            72,
-            76,
-            186,
-            47,
-            79,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.02,
-            6,
-            15,
-            90,
-            3.4375,
-            2.5,
-            3.75,
-            52.5,
-            3.75,
-            7.5,
-            12.1875
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13658,
-          "recipe_id": 1596,
-          "group_label": "Keto",
-          "name": "Cumin Steak with Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13658/thumbnail_34906238-05e8-421c-9eb8-6197499cccb8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13658/presentation_34906238-05e8-421c-9eb8-6197499cccb8.jpeg",
-          "published_recipe_uuid": "027d9a26-cd04-4c0b-a0a3-e3b8a3e0b19e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098301000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            268,
-            72,
-            76,
-            186,
-            47,
-            79,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            0.68,
-            4,
-            10,
-            60,
-            1.875,
-            1.25,
-            2.5,
-            35,
-            2.5,
-            5,
-            8.125
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13657,
-          "recipe_id": 1596,
-          "group_label": "Keto",
-          "name": "Cumin Steak with Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13657/thumbnail_d45a6c99-b74d-4d48-9179-39d231b4e33c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/13657/presentation_d45a6c99-b74d-4d48-9179-39d231b4e33c.jpeg",
-          "published_recipe_uuid": "7ad7bf07-adb9-40c7-8677-9511b42a0314",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098302000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            13,
-            11
-          ],
-          "ingredient_ids": [
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            268,
-            72,
-            76,
-            186,
-            47,
-            79,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.34,
-            2,
-            5,
-            30,
-            0.9375,
-            0.625,
-            1.25,
-            17.5,
-            1.25,
-            2.5,
-            4.0625
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13656,
-          "recipe_id": 1596,
-          "group_label": "Default",
-          "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "published_recipe_uuid": "0d81aea9-95d6-4fd9-94fc-5715f36e0c1e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098303000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            269,
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            72,
-            76,
-            186,
-            47,
-            79,
-            267,
-            82,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            1,
-            1.02,
-            3,
-            15,
-            1.875,
-            2.5,
-            3.75,
-            30,
-            3.75,
-            90,
-            3.75,
-            12.1875,
-            7.5
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13655,
-          "recipe_id": 1596,
-          "group_label": "Default",
-          "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "published_recipe_uuid": "23c4c433-8f08-48b7-abce-a75024643ce0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098305000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            269,
-            155,
-            192,
-            184,
-            279,
-            260,
-            133,
-            72,
-            76,
-            186,
-            47,
-            79,
-            267,
-            82,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.5,
-            0.68,
-            2,
-            10,
-            1.25,
-            1.25,
-            2.5,
-            20,
-            2.5,
-            60,
-            2.5,
-            8.125,
-            5
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 13654,
-          "recipe_id": 1596,
-          "group_label": "Default",
-          "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
-          "published_recipe_uuid": "5279b7dc-ac74-436d-b685-3bcd38bc6e69",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1614098305000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11
-          ],
-          "ingredient_ids": [
-            269,
-            155,
-            192,
-            144,
-            279,
-            260,
-            133,
-            72,
-            76,
-            186,
-            47,
-            79,
-            267,
-            82,
-            88,
-            90
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            1,
-            0.34,
-            1,
-            5,
-            0.625,
-            0.625,
-            1.25,
-            10,
-            1.25,
-            30,
-            1.25,
-            4.0625,
-            2.5
-          ],
-          "average_rating": 0.832,
-          "rating_count": 173,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "",
-        "reviewCount": 173,
-        "reviewScore": 4.2
-      }
+  "id": 13649,
+  "recipe_id": 1596,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Cumin Steak with Yellow Rice, Tomato-Cucumber Salad & Garlic Sauce",
+  "slug": "cumin-steak-yellow-rice-tomato-cucumber-salad-garlic-sauce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/thumbnail_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1596/presentation_285c6fd9-fc21-40be-9e1a-34ff295774ef.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cumin-steak-yellow-rice-tomato-cucumber-salad-garlic-sauce",
-    "variantId": "13649"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 227241,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a medium saucepan. Add water, turmeric, and salt; bring the mixture to a boil over high heat.",
+      "secondary_message": "1 cup basmati rice\n2 cup water\n1 tsp turmeric, ground\n½ tsp salt"
+    },
+    {
+      "id": 227242,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce heat to low. Cook rice until liquid is fully absorbed, 15-18 minutes. Once done, remove rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 227243,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "1 English cucumber\n2 tomatoes\n1 lemon"
+    },
+    {
+      "id": 227244,
+      "primary_message": "Trim and medium dice cucumber; transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 227245,
+      "primary_message": "Medium dice tomatoes and add to the bowl with the cucumber.",
+      "secondary_message": null
+    },
+    {
+      "id": 227246,
+      "primary_message": "Peel and small dice onion; add to the bowl.",
+      "secondary_message": "½ medium red onion"
+    },
+    {
+      "id": 227247,
+      "primary_message": "Juice lemon into the bowl, drizzle with oil, and season with spices. Stir to combine the salad and set aside. ",
+      "secondary_message": "2 tsp extra virgin olive oil\n½ tsp oregano, dried\n½ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 227248,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 227249,
+      "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate; season with spices on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n½ tsp salt\n½ tsp cumin, ground\n¼ tsp coriander, ground"
+    },
+    {
+      "id": 227250,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate and let rest, about 5 minutes.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 227251,
+      "primary_message": "Meanwhile, place mayo, vinegar, and spices in a small bowl. Whisk to combine the garlic sauce. ",
+      "secondary_message": "¼ cup mayonnaise\n2 tsp apple cider vinegar\n½ tsp garlic powder\n⅛ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 227252,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": null
+    },
+    {
+      "id": 227253,
+      "primary_message": "Divide rice, salad, and steak between plates. Serve with garlic sauce on the side and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 238291,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 238285,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 238288,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 238286,
+      "quantity": "½ medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 238292,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 238289,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 238284,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 238278,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 238279,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 238287,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 238277,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 238280,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 238290,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 238281,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 238282,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 238283,
+      "quantity": "",
+      "ingredient_name": "turmeric, ground"
+    }
+  ],
+  "nutrition": {
+    "energy": 696.74,
+    "alcohol": 0,
+    "ash": 5.28,
+    "caffeine": 0,
+    "water": 272.9,
+    "carbs": 45.78,
+    "fiber": 2.86,
+    "starch": 1.25,
+    "sugars": 4.14,
+    "fructose": 1.85,
+    "galactose": 0,
+    "glucose": 1.77,
+    "lactose": 0,
+    "maltose": 0.01,
+    "sucrose": 0.49,
+    "sugar_alcohol": 0,
+    "fat": 39.28,
+    "monounsaturated": 17.13,
+    "polyunsaturated": 8.23,
+    "omega_3": 0.87,
+    "omega_6": 7.36,
+    "saturated": 12.28,
+    "transfats": 1.42,
+    "cholesterol": 112.9,
+    "protein": 40.86,
+    "alanine": 2.46,
+    "arginine": 2.79,
+    "aspartic_acid": 3.95,
+    "cystine": 0.44,
+    "glutamic_acid": 6.99,
+    "glycine": 1.97,
+    "histidine": 1.43,
+    "isoleucine": 1.86,
+    "leucine": 3.41,
+    "lysine": 3.58,
+    "methionine": 1.06,
+    "phenylalanine": 1.66,
+    "proline": 1.8,
+    "serine": 1.69,
+    "threonine": 1.85,
+    "tryptophan": 0.45,
+    "tyrosine": 1.47,
+    "valine": 2.05,
+    "b1_thiamine": 0.41,
+    "b2_riboflavin": 0.39,
+    "b3_niacin": 13.14,
+    "b5_pantothenic_acid": 1.38,
+    "b6_pyridoxine": 1.12,
+    "b12_cobalamin": 2.79,
+    "choline": 111.4,
+    "folate": 133.66,
+    "vitamin_a": 629.31,
+    "vitamin_c": 16.65,
+    "vitamin_d": 8.64,
+    "vitamin_e": 2.48,
+    "vitamin_k": 44.09,
+    "calcium": 67.62,
+    "copper": 0.26,
+    "iron": 6.39,
+    "magnesium": 51.57,
+    "manganese": 0.86,
+    "phosphorus": 419.46,
+    "potassium": 777.5,
+    "selenium": 45.52,
+    "sodium": 115.2,
+    "zinc": 6.59
+  }
 }

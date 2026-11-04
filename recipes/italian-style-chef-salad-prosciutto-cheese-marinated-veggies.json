@@ -1,1034 +1,205 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 26597,
-        "recipe_id": 3013,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
-        "slug": "italian-style-chef-salad-prosciutto-cheese-marinated-veggies",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 430772,
-            "primary_message": "Place dressing, mayo, and salt in a small bowl. Stir to combine and set aside.",
-            "secondary_message": "½ cup Italian salad dressing\n¼ cup mayonnaise\n¼ tsp salt"
-          },
-          {
-            "id": 430773,
-            "primary_message": "Drain and roughly chop roasted peppers and artichoke hearts. Transfer both to a plate.",
-            "secondary_message": "1 (12 oz) jar roasted red bell peppers\n2 (6 oz) jars artichoke hearts, marinated"
-          },
-          {
-            "id": 430774,
-            "primary_message": "Cut or tear each slice of prosciutto in half; roll each piece and add to the plate with the roasted peppers and artichokes.",
-            "secondary_message": "12 slices prosciutto"
-          },
-          {
-            "id": 430775,
-            "primary_message": "Slice eggs crosswise. Season with salt and add to the plate.",
-            "secondary_message": "8 hard-cooked eggs, peeled\n⅛ tsp salt"
-          },
-          {
-            "id": 430776,
-            "primary_message": "Wash, dry, and halve tomatoes lengthwise. Add to the plate.",
-            "secondary_message": "1 pint grape tomatoes"
-          },
-          {
-            "id": 430777,
-            "primary_message": "Wash, dry, and chop (or tear) lettuce into bite-sized pieces.",
-            "secondary_message": "4 hearts romaine hearts"
-          },
-          {
-            "id": 430778,
-            "primary_message": "To serve, divide lettuce between plates or bowls. Top with roasted peppers, artichoke hearts, prosciutto, eggs, tomatoes, and cheese. Drizzle with the dressing and enjoy!",
-            "secondary_message": "1 ⅓ cups shredded cheese, Italian blend"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 461882,
-            "quantity": "2 (6 oz) jars",
-            "ingredient_name": "artichoke hearts, marinated"
-          },
-          {
-            "id": 461880,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 461884,
-            "quantity": "8",
-            "ingredient_name": "hard-cooked eggs, peeled"
-          },
-          {
-            "id": 461883,
-            "quantity": "½ cup",
-            "ingredient_name": "Italian salad dressing"
-          },
-          {
-            "id": 461881,
-            "quantity": "12 slices",
-            "ingredient_name": "prosciutto"
-          },
-          {
-            "id": 461887,
-            "quantity": "1 (12 oz) jar",
-            "ingredient_name": "roasted red bell peppers"
-          },
-          {
-            "id": 461886,
-            "quantity": "4 hearts",
-            "ingredient_name": "romaine hearts"
-          },
-          {
-            "id": 461885,
-            "quantity": "1 ⅓ cups",
-            "ingredient_name": "shredded cheese, Italian blend"
-          },
-          {
-            "id": 461879,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 461878,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 582.55,
-          "alcohol": 0,
-          "ash": 5.59,
-          "caffeine": 0,
-          "water": 319.78,
-          "carbs": 24.81,
-          "fiber": 6.27,
-          "starch": 0,
-          "sugars": 13.37,
-          "fructose": 3.67,
-          "galactose": 0.28,
-          "glucose": 2.81,
-          "lactose": 0.54,
-          "maltose": 0,
-          "sucrose": 0.77,
-          "sugar_alcohol": 0,
-          "fat": 39.96,
-          "monounsaturated": 9.75,
-          "polyunsaturated": 11.52,
-          "omega_3": 1.42,
-          "omega_6": 9.91,
-          "saturated": 12.09,
-          "transfats": 0.34,
-          "cholesterol": 380.1,
-          "protein": 33.79,
-          "alanine": 0.99,
-          "arginine": 1.13,
-          "aspartic_acid": 2.06,
-          "cystine": 0.32,
-          "glutamic_acid": 3.99,
-          "glycine": 0.61,
-          "histidine": 0.55,
-          "isoleucine": 1.13,
-          "leucine": 1.92,
-          "lysine": 1.61,
-          "methionine": 0.57,
-          "phenylalanine": 1.13,
-          "proline": 1.46,
-          "serine": 1.39,
-          "threonine": 0.99,
-          "tryptophan": 0.26,
-          "tyrosine": 0.96,
-          "valine": 1.33,
-          "b1_thiamine": 0.21,
-          "b2_riboflavin": 0.71,
-          "b3_niacin": 1.52,
-          "b5_pantothenic_acid": 1.75,
-          "b6_pyridoxine": 0.35,
-          "b12_cobalamin": 1.45,
-          "choline": 297.07,
-          "folate": 260.83,
-          "vitamin_a": 12379.21,
-          "vitamin_c": 44.17,
-          "vitamin_d": 3.85,
-          "vitamin_e": 3.28,
-          "vitamin_k": 167.64,
-          "calcium": 369.08,
-          "copper": 0.19,
-          "iron": 3.37,
-          "magnesium": 67.04,
-          "manganese": 0.43,
-          "phosphorus": 443.48,
-          "potassium": 925.33,
-          "selenium": 42.98,
-          "sodium": 1879.9,
-          "zinc": 2.87
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/italian-style-chef-salad-prosciutto-cheese-marinated-veggies/26597",
-      "altVariants": [
-        {
-          "id": 26601,
-          "recipe_id": 3013,
-          "group_label": "Vegetarian",
-          "name": "Italian-Style Chef Salad with Chickpeas, Cheese & Marinated Veggies",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26601/thumbnail_22750049-626f-4802-a74f-ca80cccd711e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26601/presentation_22750049-626f-4802-a74f-ca80cccd711e.jpeg",
-          "published_recipe_uuid": "5283cd8e-f86c-4ff8-8fab-1cec7b3c5022",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573398000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            92,
-            277,
-            396,
-            394,
-            452,
-            440,
-            426,
-            133,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            12,
-            180,
-            1.5,
-            6,
-            2,
-            30,
-            90,
-            5.9375
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26600,
-          "recipe_id": 3013,
-          "group_label": "Vegetarian",
-          "name": "Italian-Style Chef Salad with Chickpeas, Cheese & Marinated Veggies",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26600/thumbnail_48217b2e-b184-4ed4-b0ba-878b4a652b13.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26600/presentation_48217b2e-b184-4ed4-b0ba-878b4a652b13.jpeg",
-          "published_recipe_uuid": "697118ff-82ef-442e-89f5-e56badfcda73",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573399000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            92,
-            277,
-            396,
-            394,
-            452,
-            440,
-            426,
-            133,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            8,
-            120,
-            1,
-            4,
-            1.3333333333333333,
-            20,
-            60,
-            3.125
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26599,
-          "recipe_id": 3013,
-          "group_label": "Vegetarian",
-          "name": "Italian-Style Chef Salad with Chickpeas, Cheese & Marinated Veggies",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26599/thumbnail_6dd0170a-186e-44c7-85fa-8779bbd0e232.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26599/presentation_6dd0170a-186e-44c7-85fa-8779bbd0e232.jpeg",
-          "published_recipe_uuid": "b2523f2a-23b1-44e3-a87d-106d4f404452",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573399000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            92,
-            277,
-            396,
-            394,
-            452,
-            440,
-            426,
-            133,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            4,
-            60,
-            0.5,
-            2,
-            0.6666666666666666,
-            10,
-            30,
-            1.5625
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26598,
-          "recipe_id": 3013,
-          "group_label": "Default",
-          "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "published_recipe_uuid": "bb91c3f9-5818-428b-b8c9-49431cdac64e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573399000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            277,
-            396,
-            394,
-            329,
-            452,
-            440,
-            426,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            12,
-            180,
-            18,
-            1.5,
-            6,
-            2,
-            90,
-            3.4375
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26597,
-          "recipe_id": 3013,
-          "group_label": "Default",
-          "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "published_recipe_uuid": "2fa11d3b-befa-480b-abf9-3e4dc2dd9034",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573399000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            277,
-            396,
-            394,
-            329,
-            452,
-            440,
-            426,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            8,
-            120,
-            12,
-            1,
-            4,
-            1.3333333333333333,
-            60,
-            1.875
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26596,
-          "recipe_id": 3013,
-          "group_label": "Default",
-          "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "published_recipe_uuid": "15fd1540-d7a8-437a-ae97-ede4d0f1bf4c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573400000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            277,
-            396,
-            394,
-            329,
-            452,
-            440,
-            426,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            4,
-            60,
-            6,
-            0.5,
-            2,
-            0.6666666666666666,
-            30,
-            0.9375
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26607,
-          "recipe_id": 3013,
-          "group_label": "Vegetarian",
-          "name": "Italian-Style Chef Salad with Chickpeas, Cheese & Marinated Veggies",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26607/thumbnail_aede82b7-6914-435d-a5fd-406da5e35d6a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26607/presentation_aede82b7-6914-435d-a5fd-406da5e35d6a.jpeg",
-          "published_recipe_uuid": "73d7767f-2524-458a-981a-d4aa29b5d4e5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573396000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            92,
-            277,
-            396,
-            394,
-            452,
-            440,
-            426,
-            133,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            12,
-            180,
-            1.5,
-            6,
-            2,
-            30,
-            90,
-            5.9375
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26606,
-          "recipe_id": 3013,
-          "group_label": "Vegetarian",
-          "name": "Italian-Style Chef Salad with Chickpeas, Cheese & Marinated Veggies",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26606/thumbnail_dff14e67-278d-4a46-830e-7474a09c8c12.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26606/presentation_dff14e67-278d-4a46-830e-7474a09c8c12.jpeg",
-          "published_recipe_uuid": "87f867f9-0c0d-462c-b875-11c58f4e3ba6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573396000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            92,
-            277,
-            396,
-            394,
-            452,
-            440,
-            426,
-            133,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            8,
-            120,
-            1,
-            4,
-            1.3333333333333333,
-            20,
-            60,
-            3.125
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26605,
-          "recipe_id": 3013,
-          "group_label": "Vegetarian",
-          "name": "Italian-Style Chef Salad with Chickpeas, Cheese & Marinated Veggies",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26605/thumbnail_8ad06775-6a30-42b8-891d-33cac730c7fa.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/26605/presentation_8ad06775-6a30-42b8-891d-33cac730c7fa.jpeg",
-          "published_recipe_uuid": "0edda5f5-fee3-4795-bdd6-e198a053e305",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573397000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            92,
-            277,
-            396,
-            394,
-            452,
-            440,
-            426,
-            133,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            4,
-            60,
-            0.5,
-            2,
-            0.6666666666666666,
-            10,
-            30,
-            1.5625
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26604,
-          "recipe_id": 3013,
-          "group_label": "Default",
-          "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "published_recipe_uuid": "b896cf87-70b2-4bd6-bad2-1e9d862e0f6d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573397000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            277,
-            396,
-            394,
-            329,
-            452,
-            440,
-            426,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            12,
-            180,
-            18,
-            1.5,
-            6,
-            2,
-            90,
-            3.4375
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26603,
-          "recipe_id": 3013,
-          "group_label": "Default",
-          "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "published_recipe_uuid": "e701bd4e-4edf-4328-9305-5bbadec0cdae",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573398000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            277,
-            396,
-            394,
-            329,
-            452,
-            440,
-            426,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            8,
-            120,
-            12,
-            1,
-            4,
-            1.3333333333333333,
-            60,
-            1.875
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 26602,
-          "recipe_id": 3013,
-          "group_label": "Default",
-          "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
-          "published_recipe_uuid": "c940041f-f3a9-4e5e-bf3a-b1514d11af3d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1700573398000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10,
-            2
-          ],
-          "ingredient_ids": [
-            344,
-            277,
-            396,
-            394,
-            329,
-            452,
-            440,
-            426,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            4,
-            60,
-            6,
-            0.5,
-            2,
-            0.6666666666666666,
-            30,
-            0.9375
-          ],
-          "average_rating": 0.875,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            20
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "Italian-American",
-        "reviewCount": null,
-        "reviewScore": 4.4
-      }
+  "id": 26597,
+  "recipe_id": 3013,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Italian-Style Chef Salad with Prosciutto, Cheese & Marinated Veggies",
+  "slug": "italian-style-chef-salad-prosciutto-cheese-marinated-veggies",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/thumbnail_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3013/presentation_c1f58980-5425-420e-aee3-ad9074ced5f2.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "italian-style-chef-salad-prosciutto-cheese-marinated-veggies",
-    "variantId": "26597"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 430772,
+      "primary_message": "Place dressing, mayo, and salt in a small bowl. Stir to combine and set aside.",
+      "secondary_message": "½ cup Italian salad dressing\n¼ cup mayonnaise\n¼ tsp salt"
+    },
+    {
+      "id": 430773,
+      "primary_message": "Drain and roughly chop roasted peppers and artichoke hearts. Transfer both to a plate.",
+      "secondary_message": "1 (12 oz) jar roasted red bell peppers\n2 (6 oz) jars artichoke hearts, marinated"
+    },
+    {
+      "id": 430774,
+      "primary_message": "Cut or tear each slice of prosciutto in half; roll each piece and add to the plate with the roasted peppers and artichokes.",
+      "secondary_message": "12 slices prosciutto"
+    },
+    {
+      "id": 430775,
+      "primary_message": "Slice eggs crosswise. Season with salt and add to the plate.",
+      "secondary_message": "8 hard-cooked eggs, peeled\n⅛ tsp salt"
+    },
+    {
+      "id": 430776,
+      "primary_message": "Wash, dry, and halve tomatoes lengthwise. Add to the plate.",
+      "secondary_message": "1 pint grape tomatoes"
+    },
+    {
+      "id": 430777,
+      "primary_message": "Wash, dry, and chop (or tear) lettuce into bite-sized pieces.",
+      "secondary_message": "4 hearts romaine hearts"
+    },
+    {
+      "id": 430778,
+      "primary_message": "To serve, divide lettuce between plates or bowls. Top with roasted peppers, artichoke hearts, prosciutto, eggs, tomatoes, and cheese. Drizzle with the dressing and enjoy!",
+      "secondary_message": "1 ⅓ cups shredded cheese, Italian blend"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 461882,
+      "quantity": "2 (6 oz) jars",
+      "ingredient_name": "artichoke hearts, marinated"
+    },
+    {
+      "id": 461880,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 461884,
+      "quantity": "8",
+      "ingredient_name": "hard-cooked eggs, peeled"
+    },
+    {
+      "id": 461883,
+      "quantity": "½ cup",
+      "ingredient_name": "Italian salad dressing"
+    },
+    {
+      "id": 461881,
+      "quantity": "12 slices",
+      "ingredient_name": "prosciutto"
+    },
+    {
+      "id": 461887,
+      "quantity": "1 (12 oz) jar",
+      "ingredient_name": "roasted red bell peppers"
+    },
+    {
+      "id": 461886,
+      "quantity": "4 hearts",
+      "ingredient_name": "romaine hearts"
+    },
+    {
+      "id": 461885,
+      "quantity": "1 ⅓ cups",
+      "ingredient_name": "shredded cheese, Italian blend"
+    },
+    {
+      "id": 461879,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 461878,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 582.55,
+    "alcohol": 0,
+    "ash": 5.59,
+    "caffeine": 0,
+    "water": 319.78,
+    "carbs": 24.81,
+    "fiber": 6.27,
+    "starch": 0,
+    "sugars": 13.37,
+    "fructose": 3.67,
+    "galactose": 0.28,
+    "glucose": 2.81,
+    "lactose": 0.54,
+    "maltose": 0,
+    "sucrose": 0.77,
+    "sugar_alcohol": 0,
+    "fat": 39.96,
+    "monounsaturated": 9.75,
+    "polyunsaturated": 11.52,
+    "omega_3": 1.42,
+    "omega_6": 9.91,
+    "saturated": 12.09,
+    "transfats": 0.34,
+    "cholesterol": 380.1,
+    "protein": 33.79,
+    "alanine": 0.99,
+    "arginine": 1.13,
+    "aspartic_acid": 2.06,
+    "cystine": 0.32,
+    "glutamic_acid": 3.99,
+    "glycine": 0.61,
+    "histidine": 0.55,
+    "isoleucine": 1.13,
+    "leucine": 1.92,
+    "lysine": 1.61,
+    "methionine": 0.57,
+    "phenylalanine": 1.13,
+    "proline": 1.46,
+    "serine": 1.39,
+    "threonine": 0.99,
+    "tryptophan": 0.26,
+    "tyrosine": 0.96,
+    "valine": 1.33,
+    "b1_thiamine": 0.21,
+    "b2_riboflavin": 0.71,
+    "b3_niacin": 1.52,
+    "b5_pantothenic_acid": 1.75,
+    "b6_pyridoxine": 0.35,
+    "b12_cobalamin": 1.45,
+    "choline": 297.07,
+    "folate": 260.83,
+    "vitamin_a": 12379.21,
+    "vitamin_c": 44.17,
+    "vitamin_d": 3.85,
+    "vitamin_e": 3.28,
+    "vitamin_k": 167.64,
+    "calcium": 369.08,
+    "copper": 0.19,
+    "iron": 3.37,
+    "magnesium": 67.04,
+    "manganese": 0.43,
+    "phosphorus": 443.48,
+    "potassium": 925.33,
+    "selenium": 42.98,
+    "sodium": 1879.9,
+    "zinc": 2.87
+  }
 }

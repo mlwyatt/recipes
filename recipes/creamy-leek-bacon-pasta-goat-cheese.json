@@ -1,939 +1,225 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3977,
-        "recipe_id": 576,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-        "slug": "creamy-leek-bacon-pasta-goat-cheese",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 44368,
-            "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 44369,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 leeks"
-          },
-          {
-            "id": 44370,
-            "primary_message": "Preheat a skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 44371,
-            "primary_message": "Cut the bacon crosswise into ¼-inch-thick strips.",
-            "secondary_message": "6 slices bacon"
-          },
-          {
-            "id": 44372,
-            "primary_message": "When the water in the saucepan comes to a boil, uncover the pan and season the water with salt, then add the pasta and stir for a few seconds. Cook the pasta, uncovered, for 11 to 12 minutes (or according to package directions). Drain the pasta in a colander, reserving 1 cup of the cooking water.",
-            "secondary_message": "2 tbsp salt\n10 oz (about 3 cups) penne pasta"
-          },
-          {
-            "id": 44373,
-            "primary_message": "Add the bacon to the skillet; cook, stirring occasionally, until cooked through but not crispy, 2 to 4 minutes. Once done, transfer to a bowl, leaving the drippings in the skillet.",
-            "secondary_message": null
-          },
-          {
-            "id": 44374,
-            "primary_message": "While the bacon cooks, trim off and discard the ends of the leeks; thinly slice the leeks crosswise.",
-            "secondary_message": null
-          },
-          {
-            "id": 44375,
-            "primary_message": "Once the bacon has been transferred, add the leeks to the skillet and season with salt and pepper. Cook, stirring occasionally, until tender, 6 to 8 minutes.",
-            "secondary_message": "½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 44376,
-            "primary_message": "Finely grate 2 cups of Parmesan and transfer to a small bowl.",
-            "secondary_message": "2 oz Parmesan cheese"
-          },
-          {
-            "id": 44377,
-            "primary_message": "Add the pasta, bacon, goat cheese, ¾ of the Parmesan (save the rest for garnishing) and reserved cooking water to the skillet; cook, stirring constantly, until the mixture is smooth and thoroughly combined, 1 to 2 minutes.",
-            "secondary_message": "1 (4 oz) log goat cheese"
-          },
-          {
-            "id": 44378,
-            "primary_message": "To serve, divide the pasta between bowls, sprinkle with the remaining Parmesan, and garnish with black pepper. Enjoy!",
-            "secondary_message": "¼ tsp black pepper"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 48360,
-            "quantity": "6 slices",
-            "ingredient_name": "bacon"
-          },
-          {
-            "id": 48359,
-            "quantity": "1 (4 oz) log",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 48358,
-            "quantity": "4",
-            "ingredient_name": "leeks"
-          },
-          {
-            "id": 48357,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 48361,
-            "quantity": "10 oz",
-            "ingredient_name": "penne pasta"
-          },
-          {
-            "id": 48356,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 48355,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 623.24,
-          "alcohol": 0,
-          "ash": 5.3,
-          "caffeine": 0,
-          "water": 120.8,
-          "carbs": 66.69,
-          "fiber": 3.94,
-          "starch": 45.4,
-          "sugars": 6.02,
-          "fructose": 1.5,
-          "galactose": 0,
-          "glucose": 1.35,
-          "lactose": 0.11,
-          "maltose": 1.39,
-          "sucrose": 1.63,
-          "sugar_alcohol": 0,
-          "fat": 27.63,
-          "monounsaturated": 9.87,
-          "polyunsaturated": 3.48,
-          "omega_3": 0.27,
-          "omega_6": 3.21,
-          "saturated": 12.26,
-          "transfats": 0.34,
-          "cholesterol": 50.35,
-          "protein": 26.21,
-          "alanine": 0.92,
-          "arginine": 1.09,
-          "aspartic_acid": 1.64,
-          "cystine": 0.32,
-          "glutamic_acid": 6.41,
-          "glycine": 0.76,
-          "histidine": 0.79,
-          "isoleucine": 1.15,
-          "leucine": 2.17,
-          "lysine": 1.6,
-          "methionine": 0.54,
-          "phenylalanine": 1.22,
-          "proline": 2.61,
-          "serine": 1.24,
-          "threonine": 1,
-          "tryptophan": 0.33,
-          "tyrosine": 0.91,
-          "valine": 1.44,
-          "b1_thiamine": 0.83,
-          "b2_riboflavin": 0.5,
-          "b3_niacin": 7.3,
-          "b5_pantothenic_acid": 0.92,
-          "b6_pyridoxine": 0.5,
-          "b12_cobalamin": 0.43,
-          "choline": 45.8,
-          "folate": 229.36,
-          "vitamin_a": 128.99,
-          "vitamin_c": 10.68,
-          "vitamin_d": 13.65,
-          "vitamin_e": 1.16,
-          "vitamin_k": 43.12,
-          "calcium": 110.82,
-          "copper": 0.54,
-          "iron": 5.07,
-          "magnesium": 78.79,
-          "manganese": 1.15,
-          "phosphorus": 396.73,
-          "potassium": 421.92,
-          "selenium": 58.12,
-          "sodium": 404.83,
-          "zinc": 2.26
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-leek-bacon-pasta-goat-cheese/3977",
-      "altVariants": [
-        {
-          "id": 6192,
-          "recipe_id": 576,
-          "group_label": "Classic Gluten-Free",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "3701b0d0-562c-4567-bb63-963818bd51e2",
-          "fallback_published_recipe_uuids": [
-            "212366f4-39b6-4eed-97ce-211e0b704e1c",
-            "a54a58d9-94e4-4605-bb90-d9c695f2265e"
-          ],
-          "first_published_at": 1550528844000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            64,
-            126,
-            309,
-            120,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            9,
-            15,
-            1.5,
-            6,
-            3,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6190,
-          "recipe_id": 576,
-          "group_label": "Classic",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "e3c423e0-80d3-4480-8a42-f1a70bb0a84e",
-          "fallback_published_recipe_uuids": [
-            "18553749-7b1f-44cf-a1e5-4714c9c088ac",
-            "5d6feae9-bc74-49af-a67c-c4d294cf6437"
-          ],
-          "first_published_at": 1550528790000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            126,
-            309,
-            120,
-            63,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            9,
-            1.5,
-            6,
-            3,
-            15,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3981,
-          "recipe_id": 576,
-          "group_label": "Classic Gluten-Free",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "f3466f70-c6c4-44da-959d-4867a0cee441",
-          "fallback_published_recipe_uuids": [
-            "4b5c46f7-45ec-473e-85db-cda58ffc8663"
-          ],
-          "first_published_at": 1503526892000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            64,
-            126,
-            309,
-            120,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            10,
-            1,
-            4,
-            2,
-            2.46446,
-            4.92892
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3977,
-          "recipe_id": 576,
-          "group_label": "Classic",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "a4b74527-05d1-41b5-a3c3-1892d4641a2d",
-          "fallback_published_recipe_uuids": [
-            "7a46a720-7334-4c53-94a4-2e9846350db8",
-            "d48ab651-e4ed-4f24-9060-345927ecb228"
-          ],
-          "first_published_at": 1503526498000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            302,
-            126,
-            309,
-            120,
-            63,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            1,
-            4,
-            2,
-            10,
-            2.46446,
-            4.92892
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3980,
-          "recipe_id": 576,
-          "group_label": "Classic Gluten-Free",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "a55141b6-bf85-4835-b5e2-99819ac7676b",
-          "fallback_published_recipe_uuids": [
-            "c1639507-c9f5-47a1-969f-17de18428bbc"
-          ],
-          "first_published_at": 1503526856000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            64,
-            126,
-            309,
-            120,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            5,
-            0.5,
-            2,
-            1,
-            1.23223,
-            2.46446
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3948,
-          "recipe_id": 576,
-          "group_label": "Classic",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "fff67f83-cbc3-4e73-b422-5e4916e19b73",
-          "fallback_published_recipe_uuids": [
-            "3b2b5732-258c-4add-a3f9-410e91e710a0"
-          ],
-          "first_published_at": 1503511287000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            126,
-            309,
-            120,
-            63,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.5,
-            2,
-            1,
-            5,
-            1.23223,
-            2.46446
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6193,
-          "recipe_id": 576,
-          "group_label": "Classic Gluten-Free",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "381996ed-4e02-4cf2-a37a-ea48d6a796b9",
-          "fallback_published_recipe_uuids": [
-            "b9bd22f3-ccd4-43c2-bf24-b039faee4f2d",
-            "3b8e3fc4-83be-43da-a15f-b97cbeaff6a0"
-          ],
-          "first_published_at": 1550528874000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            64,
-            126,
-            309,
-            120,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            9,
-            424.5,
-            1.5,
-            6,
-            85.5,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6191,
-          "recipe_id": 576,
-          "group_label": "Classic",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "622909ee-ca6d-4c8c-bf8c-aeede4d309f3",
-          "fallback_published_recipe_uuids": [
-            "8fec1ea0-2e66-48a1-8081-95a1f1d2dafc",
-            "dd2aa025-27be-4068-a99c-6f6b7a448333"
-          ],
-          "first_published_at": 1550528802000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            302,
-            126,
-            309,
-            120,
-            63,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            9,
-            1.5,
-            6,
-            85.5,
-            424.5,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3982,
-          "recipe_id": 576,
-          "group_label": "Classic Gluten-Free",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "7304fef6-ea6c-4d8a-8475-080209349715",
-          "fallback_published_recipe_uuids": [
-            "c24e58a8-6619-4b0b-8f65-cead2deef634"
-          ],
-          "first_published_at": 1503526941000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            64,
-            126,
-            309,
-            120,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            142,
-            0.5,
-            2,
-            28,
-            1.23223,
-            2.46446
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3979,
-          "recipe_id": 576,
-          "group_label": "Classic",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "7d157916-d497-4adb-82d7-cf14a197365f",
-          "fallback_published_recipe_uuids": [
-            "a90feb00-bd6b-4d12-8fc1-fd4da0bdf64f"
-          ],
-          "first_published_at": 1503526754000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            302,
-            126,
-            309,
-            120,
-            63,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            1,
-            4,
-            57,
-            283,
-            2.46446,
-            4.92892
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3978,
-          "recipe_id": 576,
-          "group_label": "Classic",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "477025b9-a5bf-4000-8a94-6b90458e3326",
-          "fallback_published_recipe_uuids": [
-            "971c5f48-cec9-4445-9fd2-b322d4f9eabe"
-          ],
-          "first_published_at": 1503526655000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            302,
-            126,
-            309,
-            120,
-            63,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.5,
-            2,
-            28,
-            142,
-            1.23223,
-            2.46446
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3983,
-          "recipe_id": 576,
-          "group_label": "Classic Gluten-Free",
-          "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
-          "published_recipe_uuid": "d6a3747f-5f77-400e-8e8c-0a530ff3fd83",
-          "fallback_published_recipe_uuids": [
-            "13c0f12f-a119-4c32-b3b9-f9f7042039fd"
-          ],
-          "first_published_at": 1503526977000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            64,
-            126,
-            309,
-            120,
-            72,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            283,
-            1,
-            4,
-            57,
-            2.46446,
-            4.92892
-          ],
-          "average_rating": 0.871,
-          "rating_count": 66,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": 66,
-        "reviewScore": 4.4
-      }
+  "id": 3977,
+  "recipe_id": 576,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Creamy Leek & Bacon Pasta with Goat Cheese",
+  "slug": "creamy-leek-bacon-pasta-goat-cheese",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/thumbnail_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/576/presentation_ecc5a43b-93af-4dbe-bc09-8a8b205d4fc7.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-leek-bacon-pasta-goat-cheese",
-    "variantId": "3977"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 44368,
+      "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 44369,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 leeks"
+    },
+    {
+      "id": 44370,
+      "primary_message": "Preheat a skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 44371,
+      "primary_message": "Cut the bacon crosswise into ¼-inch-thick strips.",
+      "secondary_message": "6 slices bacon"
+    },
+    {
+      "id": 44372,
+      "primary_message": "When the water in the saucepan comes to a boil, uncover the pan and season the water with salt, then add the pasta and stir for a few seconds. Cook the pasta, uncovered, for 11 to 12 minutes (or according to package directions). Drain the pasta in a colander, reserving 1 cup of the cooking water.",
+      "secondary_message": "2 tbsp salt\n10 oz (about 3 cups) penne pasta"
+    },
+    {
+      "id": 44373,
+      "primary_message": "Add the bacon to the skillet; cook, stirring occasionally, until cooked through but not crispy, 2 to 4 minutes. Once done, transfer to a bowl, leaving the drippings in the skillet.",
+      "secondary_message": null
+    },
+    {
+      "id": 44374,
+      "primary_message": "While the bacon cooks, trim off and discard the ends of the leeks; thinly slice the leeks crosswise.",
+      "secondary_message": null
+    },
+    {
+      "id": 44375,
+      "primary_message": "Once the bacon has been transferred, add the leeks to the skillet and season with salt and pepper. Cook, stirring occasionally, until tender, 6 to 8 minutes.",
+      "secondary_message": "½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 44376,
+      "primary_message": "Finely grate 2 cups of Parmesan and transfer to a small bowl.",
+      "secondary_message": "2 oz Parmesan cheese"
+    },
+    {
+      "id": 44377,
+      "primary_message": "Add the pasta, bacon, goat cheese, ¾ of the Parmesan (save the rest for garnishing) and reserved cooking water to the skillet; cook, stirring constantly, until the mixture is smooth and thoroughly combined, 1 to 2 minutes.",
+      "secondary_message": "1 (4 oz) log goat cheese"
+    },
+    {
+      "id": 44378,
+      "primary_message": "To serve, divide the pasta between bowls, sprinkle with the remaining Parmesan, and garnish with black pepper. Enjoy!",
+      "secondary_message": "¼ tsp black pepper"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 48360,
+      "quantity": "6 slices",
+      "ingredient_name": "bacon"
+    },
+    {
+      "id": 48359,
+      "quantity": "1 (4 oz) log",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 48358,
+      "quantity": "4",
+      "ingredient_name": "leeks"
+    },
+    {
+      "id": 48357,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 48361,
+      "quantity": "10 oz",
+      "ingredient_name": "penne pasta"
+    },
+    {
+      "id": 48356,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 48355,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 623.24,
+    "alcohol": 0,
+    "ash": 5.3,
+    "caffeine": 0,
+    "water": 120.8,
+    "carbs": 66.69,
+    "fiber": 3.94,
+    "starch": 45.4,
+    "sugars": 6.02,
+    "fructose": 1.5,
+    "galactose": 0,
+    "glucose": 1.35,
+    "lactose": 0.11,
+    "maltose": 1.39,
+    "sucrose": 1.63,
+    "sugar_alcohol": 0,
+    "fat": 27.63,
+    "monounsaturated": 9.87,
+    "polyunsaturated": 3.48,
+    "omega_3": 0.27,
+    "omega_6": 3.21,
+    "saturated": 12.26,
+    "transfats": 0.34,
+    "cholesterol": 50.35,
+    "protein": 26.21,
+    "alanine": 0.92,
+    "arginine": 1.09,
+    "aspartic_acid": 1.64,
+    "cystine": 0.32,
+    "glutamic_acid": 6.41,
+    "glycine": 0.76,
+    "histidine": 0.79,
+    "isoleucine": 1.15,
+    "leucine": 2.17,
+    "lysine": 1.6,
+    "methionine": 0.54,
+    "phenylalanine": 1.22,
+    "proline": 2.61,
+    "serine": 1.24,
+    "threonine": 1,
+    "tryptophan": 0.33,
+    "tyrosine": 0.91,
+    "valine": 1.44,
+    "b1_thiamine": 0.83,
+    "b2_riboflavin": 0.5,
+    "b3_niacin": 7.3,
+    "b5_pantothenic_acid": 0.92,
+    "b6_pyridoxine": 0.5,
+    "b12_cobalamin": 0.43,
+    "choline": 45.8,
+    "folate": 229.36,
+    "vitamin_a": 128.99,
+    "vitamin_c": 10.68,
+    "vitamin_d": 13.65,
+    "vitamin_e": 1.16,
+    "vitamin_k": 43.12,
+    "calcium": 110.82,
+    "copper": 0.54,
+    "iron": 5.07,
+    "magnesium": 78.79,
+    "manganese": 1.15,
+    "phosphorus": 396.73,
+    "potassium": 421.92,
+    "selenium": 58.12,
+    "sodium": 404.83,
+    "zinc": 2.26
+  }
 }

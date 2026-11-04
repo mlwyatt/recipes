@@ -1,764 +1,265 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 21500,
-        "recipe_id": 2438,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
-        "slug": "everything-spice-crusted-salmon-avocado-cucumber-caper-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 361965,
-            "primary_message": "Preheat oven to 450°F. Coat a baking sheet pan with a thin layer of oil and set aside.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 361966,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 English cucumbers\n2 avocados\n1 small bunch fresh dill"
-          },
-          {
-            "id": 361967,
-            "primary_message": "Place seeds and spices in a small bowl; stir to combine the \"everything spice\" mixture.",
-            "secondary_message": "4 tsp sesame seeds\n2 tsp poppy seeds\n½ tsp garlic powder\n½ tsp onion powder\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 361968,
-            "primary_message": "Pat the salmon dry with paper towels and place, skin-side down, on the baking sheet. Spread with Dijon, then sprinkle evenly with the spice mixture, pressing gently to adhere.",
-            "secondary_message": "1 ½ lb salmon fillet\n2 tbsp Dijon mustard"
-          },
-          {
-            "id": 361969,
-            "primary_message": "Place fish in the oven (it doesn't have to be fully heated) and bake until cooked through, 8-10 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 361970,
-            "primary_message": "Meanwhile, place oil, vinegar, capers, and salt in a large bowl; stir to combine the dressing.",
-            "secondary_message": "¼ cup extra virgin olive oil\n2 tbsp red wine vinegar\n2 tbsp capers\n½ tsp salt"
-          },
-          {
-            "id": 361971,
-            "primary_message": "Peel, halve, and thinly slice onion crosswise into half-moons. Add to the bowl with the dressing.",
-            "secondary_message": "1 medium red onion"
-          },
-          {
-            "id": 361972,
-            "primary_message": "Trim and slice cucumbers crosswise into thin rounds. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 361973,
-            "primary_message": "Halve and pit avocados; cut crosswise while still in the skin, then scoop out with a spoon into the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 361974,
-            "primary_message": "Shave dill leaves off the stems; discard stems and roughly chop the leaves. Add to the bowl and stir to combine the salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 361975,
-            "primary_message": "To serve, divide the salmon and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 386566,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 386557,
-            "quantity": "2 tbsp",
-            "ingredient_name": "capers"
-          },
-          {
-            "id": 386564,
-            "quantity": "2",
-            "ingredient_name": "English cucumbers"
-          },
-          {
-            "id": 386570,
-            "quantity": "1 small bunch",
-            "ingredient_name": "fresh dill"
-          },
-          {
-            "id": 386567,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 386556,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "salmon fillet"
-          },
-          {
-            "id": 386559,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 386562,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 386558,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 386560,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 386568,
-            "quantity": "",
-            "ingredient_name": "onion powder"
-          },
-          {
-            "id": 386569,
-            "quantity": "",
-            "ingredient_name": "poppy seeds"
-          },
-          {
-            "id": 386563,
-            "quantity": "",
-            "ingredient_name": "red wine vinegar"
-          },
-          {
-            "id": 386561,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 386565,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          }
-        ],
-        "nutrition": {
-          "energy": 628.4,
-          "alcohol": 0.01,
-          "ash": 7.16,
-          "caffeine": 0,
-          "water": 387.79,
-          "carbs": 19.33,
-          "fiber": 10.27,
-          "starch": 1.99,
-          "sugars": 4.83,
-          "fructose": 1.9,
-          "galactose": 0.1,
-          "glucose": 2.23,
-          "lactose": 0,
-          "maltose": 0.02,
-          "sucrose": 0.58,
-          "sugar_alcohol": 0,
-          "fat": 44.15,
-          "monounsaturated": 26.34,
-          "polyunsaturated": 8.31,
-          "omega_3": 3.04,
-          "omega_6": 5.17,
-          "saturated": 6.96,
-          "transfats": 0.03,
-          "cholesterol": 76.54,
-          "protein": 41.8,
-          "alanine": 2.46,
-          "arginine": 2.58,
-          "aspartic_acid": 4.26,
-          "cystine": 0.46,
-          "glutamic_acid": 6.49,
-          "glycine": 2,
-          "histidine": 1.19,
-          "isoleucine": 1.88,
-          "leucine": 3.29,
-          "lysine": 3.64,
-          "methionine": 1.18,
-          "phenylalanine": 1.63,
-          "proline": 1.55,
-          "serine": 1.73,
-          "threonine": 1.78,
-          "tryptophan": 0.47,
-          "tyrosine": 1.37,
-          "valine": 2.12,
-          "b1_thiamine": 0.36,
-          "b2_riboflavin": 0.46,
-          "b3_niacin": 14.67,
-          "b5_pantothenic_acid": 3.27,
-          "b6_pyridoxine": 1.33,
-          "b12_cobalamin": 7.09,
-          "choline": 215.26,
-          "folate": 131.07,
-          "vitamin_a": 1155.24,
-          "vitamin_c": 24.77,
-          "vitamin_d": 614.05,
-          "vitamin_e": 6,
-          "vitamin_k": 77.27,
-          "calcium": 130.47,
-          "copper": 0.46,
-          "iron": 3.24,
-          "magnesium": 130.56,
-          "manganese": 0.74,
-          "phosphorus": 593.73,
-          "potassium": 1566.55,
-          "selenium": 66.75,
-          "sodium": 97.81,
-          "zinc": 2.21
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/everything-spice-crusted-salmon-avocado-cucumber-caper-salad/21500",
-      "altVariants": [
-        {
-          "id": 21501,
-          "recipe_id": 2438,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "published_recipe_uuid": "97b0798c-ed1f-46a0-8207-0ec4884a6d2e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1663003765000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            14,
-            13,
-            12
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            155,
-            320,
-            184,
-            6,
-            72,
-            117,
-            47,
-            79,
-            200,
-            311,
-            130,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1,
-            1.5,
-            2.25,
-            3.75,
-            45,
-            105,
-            3.75,
-            3.75,
-            15,
-            45,
-            7.5,
-            30
-          ],
-          "average_rating": 0.837,
-          "rating_count": 26,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Everything bagels have met their match with this flaky crusted salmon fillet"
-        },
-        {
-          "id": 21500,
-          "recipe_id": 2438,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "published_recipe_uuid": "42d0178d-7559-4ac0-8eb5-a72ce3a8463d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1663003764000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            14,
-            13,
-            12
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            155,
-            320,
-            184,
-            6,
-            72,
-            117,
-            47,
-            79,
-            200,
-            311,
-            130,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            1,
-            1,
-            1.5,
-            2.5,
-            30,
-            70,
-            2.5,
-            2.5,
-            10,
-            30,
-            5,
-            20
-          ],
-          "average_rating": 0.837,
-          "rating_count": 26,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Everything bagels have met their match with this flaky crusted salmon fillet"
-        },
-        {
-          "id": 21499,
-          "recipe_id": 2438,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "published_recipe_uuid": "44047bf4-149d-4dff-aa86-46567c765bdb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1663003764000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            14,
-            13,
-            12
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            155,
-            320,
-            184,
-            6,
-            72,
-            117,
-            47,
-            79,
-            200,
-            311,
-            130,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.5,
-            0.5,
-            0.75,
-            1.25,
-            15,
-            35,
-            1.25,
-            1.25,
-            5,
-            15,
-            2.5,
-            10
-          ],
-          "average_rating": 0.837,
-          "rating_count": 26,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Everything bagels have met their match with this flaky crusted salmon fillet"
-        },
-        {
-          "id": 21503,
-          "recipe_id": 2438,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "published_recipe_uuid": "a707112b-3718-4f1a-82af-669911031dee",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1663003766000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            14,
-            13,
-            12
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            155,
-            320,
-            184,
-            6,
-            72,
-            117,
-            47,
-            79,
-            200,
-            311,
-            130,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            1,
-            1,
-            0.68,
-            2.5,
-            30,
-            70,
-            2.5,
-            2.5,
-            10,
-            30,
-            5,
-            20
-          ],
-          "average_rating": 0.837,
-          "rating_count": 26,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Everything bagels have met their match with this flaky crusted salmon fillet"
-        },
-        {
-          "id": 21504,
-          "recipe_id": 2438,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "published_recipe_uuid": "f5a7add2-5f16-46c7-a121-ab1714968f96",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1663003766000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            14,
-            13,
-            12
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            155,
-            320,
-            184,
-            6,
-            72,
-            117,
-            47,
-            79,
-            200,
-            311,
-            130,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1,
-            1.5,
-            1.02,
-            3.75,
-            45,
-            105,
-            3.75,
-            3.75,
-            15,
-            45,
-            7.5,
-            30
-          ],
-          "average_rating": 0.837,
-          "rating_count": 26,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Everything bagels have met their match with this flaky crusted salmon fillet"
-        },
-        {
-          "id": 21502,
-          "recipe_id": 2438,
-          "group_label": "Default",
-          "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
-          "published_recipe_uuid": "622ca49c-7ee4-4ac1-8755-687494a2f5c1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1663003765000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            14,
-            13,
-            12
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            155,
-            320,
-            184,
-            6,
-            72,
-            117,
-            47,
-            79,
-            200,
-            311,
-            130,
-            88,
-            181
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.5,
-            0.5,
-            0.34,
-            1.25,
-            15,
-            35,
-            1.25,
-            1.25,
-            5,
-            15,
-            2.5,
-            10
-          ],
-          "average_rating": 0.837,
-          "rating_count": 26,
-          "variety_tag_ids": [
-            24
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Everything bagels have met their match with this flaky crusted salmon fillet"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Everything bagels have met their match with this flaky crusted salmon fillet",
-        "keywords": [
-          "Baked"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.2
-      }
+  "id": 21500,
+  "recipe_id": 2438,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "\"Everything Spice\" Crusted Salmon with Avocado, Cucumber & Caper Salad",
+  "slug": "everything-spice-crusted-salmon-avocado-cucumber-caper-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/thumbnail_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2438/presentation_27b521d5-d7ed-41e1-8a46-7ab6b9beeee4.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "everything-spice-crusted-salmon-avocado-cucumber-caper-salad",
-    "variantId": "21500"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 361965,
+      "primary_message": "Preheat oven to 450°F. Coat a baking sheet pan with a thin layer of oil and set aside.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 361966,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 English cucumbers\n2 avocados\n1 small bunch fresh dill"
+    },
+    {
+      "id": 361967,
+      "primary_message": "Place seeds and spices in a small bowl; stir to combine the \"everything spice\" mixture.",
+      "secondary_message": "4 tsp sesame seeds\n2 tsp poppy seeds\n½ tsp garlic powder\n½ tsp onion powder\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 361968,
+      "primary_message": "Pat the salmon dry with paper towels and place, skin-side down, on the baking sheet. Spread with Dijon, then sprinkle evenly with the spice mixture, pressing gently to adhere.",
+      "secondary_message": "1 ½ lb salmon fillet\n2 tbsp Dijon mustard"
+    },
+    {
+      "id": 361969,
+      "primary_message": "Place fish in the oven (it doesn't have to be fully heated) and bake until cooked through, 8-10 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 361970,
+      "primary_message": "Meanwhile, place oil, vinegar, capers, and salt in a large bowl; stir to combine the dressing.",
+      "secondary_message": "¼ cup extra virgin olive oil\n2 tbsp red wine vinegar\n2 tbsp capers\n½ tsp salt"
+    },
+    {
+      "id": 361971,
+      "primary_message": "Peel, halve, and thinly slice onion crosswise into half-moons. Add to the bowl with the dressing.",
+      "secondary_message": "1 medium red onion"
+    },
+    {
+      "id": 361972,
+      "primary_message": "Trim and slice cucumbers crosswise into thin rounds. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 361973,
+      "primary_message": "Halve and pit avocados; cut crosswise while still in the skin, then scoop out with a spoon into the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 361974,
+      "primary_message": "Shave dill leaves off the stems; discard stems and roughly chop the leaves. Add to the bowl and stir to combine the salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 361975,
+      "primary_message": "To serve, divide the salmon and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 386566,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 386557,
+      "quantity": "2 tbsp",
+      "ingredient_name": "capers"
+    },
+    {
+      "id": 386564,
+      "quantity": "2",
+      "ingredient_name": "English cucumbers"
+    },
+    {
+      "id": 386570,
+      "quantity": "1 small bunch",
+      "ingredient_name": "fresh dill"
+    },
+    {
+      "id": 386567,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 386556,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "salmon fillet"
+    },
+    {
+      "id": 386559,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 386562,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 386558,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 386560,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 386568,
+      "quantity": "",
+      "ingredient_name": "onion powder"
+    },
+    {
+      "id": 386569,
+      "quantity": "",
+      "ingredient_name": "poppy seeds"
+    },
+    {
+      "id": 386563,
+      "quantity": "",
+      "ingredient_name": "red wine vinegar"
+    },
+    {
+      "id": 386561,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 386565,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    }
+  ],
+  "nutrition": {
+    "energy": 628.4,
+    "alcohol": 0.01,
+    "ash": 7.16,
+    "caffeine": 0,
+    "water": 387.79,
+    "carbs": 19.33,
+    "fiber": 10.27,
+    "starch": 1.99,
+    "sugars": 4.83,
+    "fructose": 1.9,
+    "galactose": 0.1,
+    "glucose": 2.23,
+    "lactose": 0,
+    "maltose": 0.02,
+    "sucrose": 0.58,
+    "sugar_alcohol": 0,
+    "fat": 44.15,
+    "monounsaturated": 26.34,
+    "polyunsaturated": 8.31,
+    "omega_3": 3.04,
+    "omega_6": 5.17,
+    "saturated": 6.96,
+    "transfats": 0.03,
+    "cholesterol": 76.54,
+    "protein": 41.8,
+    "alanine": 2.46,
+    "arginine": 2.58,
+    "aspartic_acid": 4.26,
+    "cystine": 0.46,
+    "glutamic_acid": 6.49,
+    "glycine": 2,
+    "histidine": 1.19,
+    "isoleucine": 1.88,
+    "leucine": 3.29,
+    "lysine": 3.64,
+    "methionine": 1.18,
+    "phenylalanine": 1.63,
+    "proline": 1.55,
+    "serine": 1.73,
+    "threonine": 1.78,
+    "tryptophan": 0.47,
+    "tyrosine": 1.37,
+    "valine": 2.12,
+    "b1_thiamine": 0.36,
+    "b2_riboflavin": 0.46,
+    "b3_niacin": 14.67,
+    "b5_pantothenic_acid": 3.27,
+    "b6_pyridoxine": 1.33,
+    "b12_cobalamin": 7.09,
+    "choline": 215.26,
+    "folate": 131.07,
+    "vitamin_a": 1155.24,
+    "vitamin_c": 24.77,
+    "vitamin_d": 614.05,
+    "vitamin_e": 6,
+    "vitamin_k": 77.27,
+    "calcium": 130.47,
+    "copper": 0.46,
+    "iron": 3.24,
+    "magnesium": 130.56,
+    "manganese": 0.74,
+    "phosphorus": 593.73,
+    "potassium": 1566.55,
+    "selenium": 66.75,
+    "sodium": 97.81,
+    "zinc": 2.21
+  }
 }

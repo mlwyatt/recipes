@@ -1,639 +1,230 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 24569,
-        "recipe_id": 2763,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
-        "slug": "seared-pork-chop-warm-ranch-tossed-radishes-snap-peas",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 397030,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 397031,
-            "primary_message": "Wash, dry, trim, and halve radishes. Transfer to a large baking sheet pan. ",
-            "secondary_message": "2 bunches radish"
-          },
-          {
-            "id": 397032,
-            "primary_message": "Wash and dry snap peas. Add to the baking sheet with the radishes. ",
-            "secondary_message": "2 (8 oz) pkg sugar snap peas"
-          },
-          {
-            "id": 397033,
-            "primary_message": "Drizzle veggies with oil and season with spices; toss to coat and spread out in an even layer. ",
-            "secondary_message": "2 tbsp extra virgin olive oil\n2 tsp Italian seasoning\n1 tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 397034,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing halfway through, until veggies are charred and fork-tender, 12-15 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 397035,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 397036,
-            "primary_message": "While the skillet heats up, pat pork chops dry with paper towels and place on a plate; season with salt and pepper on both sides. ",
-            "secondary_message": "4 pork chops, boneless\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 397037,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chops and pan-fry until golden brown and cooked through, 3-4 minutes per side. Transfer to a clean plate and loosely cover with aluminum foil. ",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 397038,
-            "primary_message": "When the veggies are done, remove from the oven and let cool slightly, about 5 minutes. Drizzle with dressing and toss to coat.",
-            "secondary_message": "⅓ cup ranch dressing"
-          },
-          {
-            "id": 397039,
-            "primary_message": "To serve, divide chops and veggies between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 424209,
-            "quantity": "4",
-            "ingredient_name": "pork chops, boneless"
-          },
-          {
-            "id": 424210,
-            "quantity": "2 bunches",
-            "ingredient_name": "radish"
-          },
-          {
-            "id": 424211,
-            "quantity": "90 ml",
-            "ingredient_name": "ranch dressing"
-          },
-          {
-            "id": 424203,
-            "quantity": "2 (8 oz) pkgs",
-            "ingredient_name": "sugar snap peas"
-          },
-          {
-            "id": 424205,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 424204,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 424206,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 424207,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 424208,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 561.05,
-          "alcohol": 0,
-          "ash": 5.75,
-          "caffeine": 0,
-          "water": 314.03,
-          "carbs": 14.95,
-          "fiber": 5.15,
-          "starch": 2.08,
-          "sugars": 7.75,
-          "fructose": 1.42,
-          "galactose": 0.01,
-          "glucose": 4.07,
-          "lactose": 0.31,
-          "maltose": 0,
-          "sucrose": 1.52,
-          "sugar_alcohol": 0,
-          "fat": 40.72,
-          "monounsaturated": 18.23,
-          "polyunsaturated": 10.21,
-          "omega_3": 1.05,
-          "omega_6": 9.14,
-          "saturated": 9.66,
-          "transfats": 0.18,
-          "cholesterol": 91.46,
-          "protein": 35.15,
-          "alanine": 1.86,
-          "arginine": 2.2,
-          "aspartic_acid": 3.23,
-          "cystine": 0.4,
-          "glutamic_acid": 5.41,
-          "glycine": 1.5,
-          "histidine": 1.28,
-          "isoleucine": 1.66,
-          "leucine": 2.83,
-          "lysine": 3,
-          "methionine": 0.87,
-          "phenylalanine": 1.42,
-          "proline": 1.36,
-          "serine": 1.46,
-          "threonine": 1.49,
-          "tryptophan": 0.41,
-          "tyrosine": 1.34,
-          "valine": 1.91,
-          "b1_thiamine": 1.08,
-          "b2_riboflavin": 0.45,
-          "b3_niacin": 11.77,
-          "b5_pantothenic_acid": 2.09,
-          "b6_pyridoxine": 0.78,
-          "b12_cobalamin": 0.66,
-          "choline": 120.12,
-          "folate": 78.78,
-          "vitamin_a": 50.37,
-          "vitamin_c": 85.04,
-          "vitamin_d": 15.97,
-          "vitamin_e": 2.87,
-          "vitamin_k": 67.96,
-          "calcium": 99.85,
-          "copper": 0.25,
-          "iron": 4.03,
-          "magnesium": 76.45,
-          "manganese": 0.46,
-          "phosphorus": 424.58,
-          "potassium": 1006.57,
-          "selenium": 62.4,
-          "sodium": 374.39,
-          "zinc": 2.62
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/seared-pork-chop-warm-ranch-tossed-radishes-snap-peas/24569",
-      "altVariants": [
-        {
-          "id": 24570,
-          "recipe_id": 2763,
-          "group_label": "Default",
-          "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "published_recipe_uuid": "99b9190a-c4d1-4031-a773-a85ada1493d1",
-          "fallback_published_recipe_uuids": [
-            "5c361b34-9565-43ab-9f3d-6d506c47f574",
-            "8375219c-f293-4e97-8db8-a431c188b628"
-          ],
-          "first_published_at": 1681221212000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            180,
-            343,
-            406,
-            36,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            135,
-            3,
-            6.25,
-            75,
-            7.5,
-            15,
-            11.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Simple and delicious, this juicy seared pork chop pairs perfectly with crunchy ranch-tossed radishes and snap peas"
-        },
-        {
-          "id": 24569,
-          "recipe_id": 2763,
-          "group_label": "Default",
-          "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "published_recipe_uuid": "76122809-d0bd-4d76-92b0-a2cbb1b0ec59",
-          "fallback_published_recipe_uuids": [
-            "1619640f-703f-461b-bd5b-5b77c2998618",
-            "ae75e94e-8fcc-41c5-b4c0-065245a472e5"
-          ],
-          "first_published_at": 1681221213000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            180,
-            343,
-            406,
-            36,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            90,
-            2,
-            3.75,
-            50,
-            5,
-            10,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Simple and delicious, this juicy seared pork chop pairs perfectly with crunchy ranch-tossed radishes and snap peas"
-        },
-        {
-          "id": 24568,
-          "recipe_id": 2763,
-          "group_label": "Default",
-          "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "published_recipe_uuid": "cdcf2666-8147-4e3c-8f7f-37aea093a89a",
-          "fallback_published_recipe_uuids": [
-            "5e84269e-4603-494d-b371-be47c35ad9ac",
-            "7cb9b406-26f2-4204-b896-86d227f7a977"
-          ],
-          "first_published_at": 1681221213000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            180,
-            343,
-            406,
-            36,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            45,
-            1,
-            1.875,
-            25,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Simple and delicious, this juicy seared pork chop pairs perfectly with crunchy ranch-tossed radishes and snap peas"
-        },
-        {
-          "id": 24571,
-          "recipe_id": 2763,
-          "group_label": "Default",
-          "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "published_recipe_uuid": "3f4e941d-eb51-4a96-8b83-249d7127c382",
-          "fallback_published_recipe_uuids": [
-            "b946bdd8-27ba-4054-a103-7339ce2c2144",
-            "dc05855d-6a7a-4acc-89e6-a388e7afbbed"
-          ],
-          "first_published_at": 1681221212000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            180,
-            343,
-            406,
-            36,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            45,
-            1,
-            1.875,
-            25,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Simple and delicious, this juicy seared pork chop pairs perfectly with crunchy ranch-tossed radishes and snap peas"
-        },
-        {
-          "id": 24572,
-          "recipe_id": 2763,
-          "group_label": "Default",
-          "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "published_recipe_uuid": "f3ba6183-9587-4089-b69c-6729d136a2a1",
-          "fallback_published_recipe_uuids": [
-            "5eb8ce56-578c-45c2-80e1-9e2132d86af6",
-            "437e56dd-3735-4789-b5c2-1bd2c660bf0d"
-          ],
-          "first_published_at": 1681221211000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            180,
-            343,
-            406,
-            36,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            90,
-            2,
-            3.75,
-            50,
-            5,
-            10,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Simple and delicious, this juicy seared pork chop pairs perfectly with crunchy ranch-tossed radishes and snap peas"
-        },
-        {
-          "id": 24573,
-          "recipe_id": 2763,
-          "group_label": "Default",
-          "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
-          "published_recipe_uuid": "a15c6a5f-f8e9-403d-94e6-78b2ea8c971d",
-          "fallback_published_recipe_uuids": [
-            "d452dc5d-e0a3-41df-9654-a9b3b7770c6d",
-            "0a65e762-8c7d-4a54-99ac-188e1b56655d"
-          ],
-          "first_published_at": 1681221211000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            180,
-            343,
-            406,
-            36,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            135,
-            3,
-            6.25,
-            75,
-            7.5,
-            15,
-            11.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 2,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Simple and delicious, this juicy seared pork chop pairs perfectly with crunchy ranch-tossed radishes and snap peas"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Simple and delicious, this juicy seared pork chop pairs perfectly with crunchy ranch-tossed radishes and snap peas",
-        "keywords": [
-          "Chops"
-        ],
-        "cuisine": "Southern",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 24569,
+  "recipe_id": 2763,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Seared Pork Chop with Warm Ranch-Tossed Radishes & Snap Peas",
+  "slug": "seared-pork-chop-warm-ranch-tossed-radishes-snap-peas",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/thumbnail_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2763/presentation_2671bb2c-a0d5-4d03-85c3-a0789cdfdd28.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "seared-pork-chop-warm-ranch-tossed-radishes-snap-peas",
-    "variantId": "24569"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 397030,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 397031,
+      "primary_message": "Wash, dry, trim, and halve radishes. Transfer to a large baking sheet pan. ",
+      "secondary_message": "2 bunches radish"
+    },
+    {
+      "id": 397032,
+      "primary_message": "Wash and dry snap peas. Add to the baking sheet with the radishes. ",
+      "secondary_message": "2 (8 oz) pkg sugar snap peas"
+    },
+    {
+      "id": 397033,
+      "primary_message": "Drizzle veggies with oil and season with spices; toss to coat and spread out in an even layer. ",
+      "secondary_message": "2 tbsp extra virgin olive oil\n2 tsp Italian seasoning\n1 tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 397034,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast, tossing halfway through, until veggies are charred and fork-tender, 12-15 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 397035,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 397036,
+      "primary_message": "While the skillet heats up, pat pork chops dry with paper towels and place on a plate; season with salt and pepper on both sides. ",
+      "secondary_message": "4 pork chops, boneless\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 397037,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chops and pan-fry until golden brown and cooked through, 3-4 minutes per side. Transfer to a clean plate and loosely cover with aluminum foil. ",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 397038,
+      "primary_message": "When the veggies are done, remove from the oven and let cool slightly, about 5 minutes. Drizzle with dressing and toss to coat.",
+      "secondary_message": "⅓ cup ranch dressing"
+    },
+    {
+      "id": 397039,
+      "primary_message": "To serve, divide chops and veggies between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 424209,
+      "quantity": "4",
+      "ingredient_name": "pork chops, boneless"
+    },
+    {
+      "id": 424210,
+      "quantity": "2 bunches",
+      "ingredient_name": "radish"
+    },
+    {
+      "id": 424211,
+      "quantity": "90 ml",
+      "ingredient_name": "ranch dressing"
+    },
+    {
+      "id": 424203,
+      "quantity": "2 (8 oz) pkgs",
+      "ingredient_name": "sugar snap peas"
+    },
+    {
+      "id": 424205,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 424204,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 424206,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 424207,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 424208,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 561.05,
+    "alcohol": 0,
+    "ash": 5.75,
+    "caffeine": 0,
+    "water": 314.03,
+    "carbs": 14.95,
+    "fiber": 5.15,
+    "starch": 2.08,
+    "sugars": 7.75,
+    "fructose": 1.42,
+    "galactose": 0.01,
+    "glucose": 4.07,
+    "lactose": 0.31,
+    "maltose": 0,
+    "sucrose": 1.52,
+    "sugar_alcohol": 0,
+    "fat": 40.72,
+    "monounsaturated": 18.23,
+    "polyunsaturated": 10.21,
+    "omega_3": 1.05,
+    "omega_6": 9.14,
+    "saturated": 9.66,
+    "transfats": 0.18,
+    "cholesterol": 91.46,
+    "protein": 35.15,
+    "alanine": 1.86,
+    "arginine": 2.2,
+    "aspartic_acid": 3.23,
+    "cystine": 0.4,
+    "glutamic_acid": 5.41,
+    "glycine": 1.5,
+    "histidine": 1.28,
+    "isoleucine": 1.66,
+    "leucine": 2.83,
+    "lysine": 3,
+    "methionine": 0.87,
+    "phenylalanine": 1.42,
+    "proline": 1.36,
+    "serine": 1.46,
+    "threonine": 1.49,
+    "tryptophan": 0.41,
+    "tyrosine": 1.34,
+    "valine": 1.91,
+    "b1_thiamine": 1.08,
+    "b2_riboflavin": 0.45,
+    "b3_niacin": 11.77,
+    "b5_pantothenic_acid": 2.09,
+    "b6_pyridoxine": 0.78,
+    "b12_cobalamin": 0.66,
+    "choline": 120.12,
+    "folate": 78.78,
+    "vitamin_a": 50.37,
+    "vitamin_c": 85.04,
+    "vitamin_d": 15.97,
+    "vitamin_e": 2.87,
+    "vitamin_k": 67.96,
+    "calcium": 99.85,
+    "copper": 0.25,
+    "iron": 4.03,
+    "magnesium": 76.45,
+    "manganese": 0.46,
+    "phosphorus": 424.58,
+    "potassium": 1006.57,
+    "selenium": 62.4,
+    "sodium": 374.39,
+    "zinc": 2.62
+  }
 }

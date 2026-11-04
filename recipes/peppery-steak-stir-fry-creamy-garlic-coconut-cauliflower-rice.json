@@ -1,1200 +1,275 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 11597,
-        "recipe_id": 1359,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-        "slug": "peppery-steak-stir-fry-creamy-garlic-coconut-cauliflower-rice",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 87,
-            "name": "grater or food processor",
-            "slug": "grater-or-food-processor"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 195985,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 medium head cauliflower\n2 yellow bell peppers\n2 red bell peppers\n2 sticks celery"
-          },
-          {
-            "id": 195986,
-            "primary_message": "Cut the cauliflower head into quarters, then trim off and discard the leaves and thick stem. Using a box grater or food processor, coarsely grate the cauliflower and transfer to a large pot.",
-            "secondary_message": null
-          },
-          {
-            "id": 195987,
-            "primary_message": "Peel and mince garlic. Add to the pot along with coconut milk and salt; stir to combine. Bring to a simmer over medium heat and cook, stirring occasionally, until cauliflower is soft and creamy, 10-12 minutes. Remove from heat, cover, and set aside. ",
-            "secondary_message": "4 cloves garlic\n1 (13.5 fl oz) can coconut milk\n1 tsp salt"
-          },
-          {
-            "id": 195988,
-            "primary_message": "Meanwhile, seed and slice peppers into strips; transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 195989,
-            "primary_message": "Cut celery crosswise into ¼-inch pieces at an angle; add to the bowl with the peppers and set aside. ",
-            "secondary_message": null
-          },
-          {
-            "id": 195990,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 195991,
-            "primary_message": "While the skillet heats up, pat steak dry with paper towels and thinly slice against the grain. Cut slices into bite-sized pieces.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak"
-          },
-          {
-            "id": 195992,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. ",
-            "secondary_message": "2 tsp toasted sesame oil"
-          },
-          {
-            "id": 195993,
-            "primary_message": "Add steak and stir-fry until golden brown and cooked through, 3-4 minutes. Add peppers and celery; continue to cook, stirring often, until veggies begin to soften, 3-4 minutes more.",
-            "secondary_message": null
-          },
-          {
-            "id": 195994,
-            "primary_message": "Meanwhile, place broth, soy sauce, vinegar, cornstarch, and pepper in the bowl used for the veggies; whisk to combine the sauce. ",
-            "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n2 tbsp soy sauce\n2 tbsp rice vinegar\n2 tsp cornstarch\n1 tsp black pepper"
-          },
-          {
-            "id": 195995,
-            "primary_message": "Pour sauce into the skillet. Reduce heat to medium and cook, stirring often, until the sauce thickens, 3-4 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 195996,
-            "primary_message": "To serve, divide cauliflower rice and stir-fry between plates or bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 204567,
-            "quantity": "1 medium head",
-            "ingredient_name": "cauliflower"
-          },
-          {
-            "id": 204566,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 204568,
-            "quantity": "8 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 204560,
-            "quantity": "1 (13.5 fl oz) can",
-            "ingredient_name": "coconut milk"
-          },
-          {
-            "id": 204559,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 204565,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 204572,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 204571,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 204563,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 204570,
-            "quantity": "",
-            "ingredient_name": "cornstarch"
-          },
-          {
-            "id": 204569,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 204564,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 204562,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          },
-          {
-            "id": 204561,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 662.67,
-          "alcohol": 0,
-          "ash": 7.1,
-          "caffeine": 0,
-          "water": 517.25,
-          "carbs": 24.35,
-          "fiber": 6.21,
-          "starch": 3.14,
-          "sugars": 13.07,
-          "fructose": 4.69,
-          "galactose": 0.1,
-          "glucose": 4.27,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 3.99,
-          "sugar_alcohol": 0,
-          "fat": 46,
-          "monounsaturated": 12.98,
-          "polyunsaturated": 2.54,
-          "omega_3": 0.12,
-          "omega_6": 2.42,
-          "saturated": 27.89,
-          "transfats": 1.37,
-          "cholesterol": 103.76,
-          "protein": 43.86,
-          "alanine": 2.62,
-          "arginine": 2.99,
-          "aspartic_acid": 4.36,
-          "cystine": 0.48,
-          "glutamic_acid": 7.16,
-          "glycine": 2.09,
-          "histidine": 1.53,
-          "isoleucine": 1.97,
-          "leucine": 3.56,
-          "lysine": 3.99,
-          "methionine": 1.08,
-          "phenylalanine": 1.75,
-          "proline": 1.93,
-          "serine": 1.82,
-          "threonine": 1.99,
-          "tryptophan": 0.49,
-          "tyrosine": 1.54,
-          "valine": 2.23,
-          "b1_thiamine": 0.24,
-          "b2_riboflavin": 0.52,
-          "b3_niacin": 14.33,
-          "b5_pantothenic_acid": 2.19,
-          "b6_pyridoxine": 1.57,
-          "b12_cobalamin": 2.83,
-          "choline": 178.04,
-          "folate": 153.7,
-          "vitamin_a": 302.71,
-          "vitamin_c": 258.62,
-          "vitamin_d": 6.8,
-          "vitamin_e": 1.76,
-          "vitamin_k": 36.93,
-          "calcium": 96.43,
-          "copper": 0.48,
-          "iron": 5.54,
-          "magnesium": 95.2,
-          "manganese": 1.42,
-          "phosphorus": 513.18,
-          "potassium": 1499.56,
-          "selenium": 37.61,
-          "sodium": 170.53,
-          "zinc": 7.12
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/peppery-steak-stir-fry-creamy-garlic-coconut-cauliflower-rice/11597",
-      "altVariants": [
-        {
-          "id": 11601,
-          "recipe_id": 1359,
-          "group_label": "Default auto-gluten-free",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "8dda7165-2577-4adc-be4f-f7be54c3b671",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572099000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            12,
-            1.5,
-            6,
-            3,
-            2.25,
-            3,
-            7.5,
-            15,
-            45,
-            7.5,
-            45,
-            15
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11600,
-          "recipe_id": 1359,
-          "group_label": "Default auto-gluten-free",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "2820e540-4651-4eb5-a9fa-313453f30efb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572099000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            8,
-            1,
-            4,
-            2,
-            1.5,
-            2,
-            5,
-            10,
-            30,
-            5,
-            30,
-            10
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11599,
-          "recipe_id": 1359,
-          "group_label": "Default auto-gluten-free",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "eb543e6d-c3f7-4d93-832f-f84a8b5663b2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572100000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            4,
-            0.5,
-            2,
-            1,
-            0.75,
-            1,
-            2.5,
-            5,
-            15,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11598,
-          "recipe_id": 1359,
-          "group_label": "Default",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "ce734be7-c34a-45ff-9ac2-d37bb7488969",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572100000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            12,
-            1.5,
-            6,
-            3,
-            2.25,
-            3,
-            7.5,
-            15,
-            45,
-            7.5,
-            45,
-            15
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11597,
-          "recipe_id": 1359,
-          "group_label": "Default",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "c25fb248-2fcb-4d44-a0cc-e4fd694d6f6d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572101000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            8,
-            1,
-            4,
-            2,
-            1.5,
-            2,
-            5,
-            10,
-            30,
-            5,
-            30,
-            10
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11596,
-          "recipe_id": 1359,
-          "group_label": "Default",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "7cc7009e-b1a8-43df-93b4-f3b93b36bbc1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572101000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            4,
-            0.5,
-            2,
-            1,
-            0.75,
-            1,
-            2.5,
-            5,
-            15,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11607,
-          "recipe_id": 1359,
-          "group_label": "Default auto-gluten-free",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "1b6d1b63-7c7f-4f9a-bc13-4bd888450260",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572096000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            355,
-            1.5,
-            6,
-            3,
-            1.02,
-            3,
-            7.5,
-            15,
-            45,
-            7.5,
-            45,
-            15
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11606,
-          "recipe_id": 1359,
-          "group_label": "Default auto-gluten-free",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "c959b186-f47e-4920-95e8-561cd08a12ea",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572096000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            237,
-            1,
-            4,
-            2,
-            0.68,
-            2,
-            5,
-            10,
-            30,
-            5,
-            30,
-            10
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11605,
-          "recipe_id": 1359,
-          "group_label": "Default auto-gluten-free",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "14c80e7d-0498-42b1-959c-f8e44ffd0e4e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572097000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            54,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            118,
-            0.5,
-            2,
-            1,
-            0.34,
-            1,
-            2.5,
-            5,
-            15,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11604,
-          "recipe_id": 1359,
-          "group_label": "Default",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "1da64ec2-c6a5-4fb5-8ba0-1e1bbcc0a799",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572097000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            355,
-            1.5,
-            6,
-            3,
-            1.02,
-            3,
-            7.5,
-            15,
-            45,
-            7.5,
-            45,
-            15
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11603,
-          "recipe_id": 1359,
-          "group_label": "Default",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "c17a8801-c560-4033-8852-f6e4ce5a2278",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572098000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            237,
-            1,
-            4,
-            2,
-            0.68,
-            2,
-            5,
-            10,
-            30,
-            5,
-            30,
-            10
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11602,
-          "recipe_id": 1359,
-          "group_label": "Default",
-          "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
-          "published_recipe_uuid": "2172d1b9-40e8-4f45-951b-d61dbfc93a74",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572098000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            158,
-            157,
-            201,
-            41,
-            24,
-            150,
-            279,
-            265,
-            72,
-            264,
-            257,
-            88,
-            53,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            118,
-            0.5,
-            2,
-            1,
-            0.34,
-            1,
-            2.5,
-            5,
-            15,
-            2.5,
-            15,
-            5
-          ],
-          "average_rating": 0.625,
-          "rating_count": 4,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Stir-Fries"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 11597,
+  "recipe_id": 1359,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Peppery Steak Stir-Fry with Creamy Garlic-Coconut Cauliflower Rice",
+  "slug": "peppery-steak-stir-fry-creamy-garlic-coconut-cauliflower-rice",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/thumbnail_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1359/presentation_29da0f5f-252f-479a-8a4e-e54564e476e2.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "peppery-steak-stir-fry-creamy-garlic-coconut-cauliflower-rice",
-    "variantId": "11597"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 87,
+      "name": "grater or food processor",
+      "slug": "grater-or-food-processor"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 195985,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 medium head cauliflower\n2 yellow bell peppers\n2 red bell peppers\n2 sticks celery"
+    },
+    {
+      "id": 195986,
+      "primary_message": "Cut the cauliflower head into quarters, then trim off and discard the leaves and thick stem. Using a box grater or food processor, coarsely grate the cauliflower and transfer to a large pot.",
+      "secondary_message": null
+    },
+    {
+      "id": 195987,
+      "primary_message": "Peel and mince garlic. Add to the pot along with coconut milk and salt; stir to combine. Bring to a simmer over medium heat and cook, stirring occasionally, until cauliflower is soft and creamy, 10-12 minutes. Remove from heat, cover, and set aside. ",
+      "secondary_message": "4 cloves garlic\n1 (13.5 fl oz) can coconut milk\n1 tsp salt"
+    },
+    {
+      "id": 195988,
+      "primary_message": "Meanwhile, seed and slice peppers into strips; transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 195989,
+      "primary_message": "Cut celery crosswise into ¼-inch pieces at an angle; add to the bowl with the peppers and set aside. ",
+      "secondary_message": null
+    },
+    {
+      "id": 195990,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 195991,
+      "primary_message": "While the skillet heats up, pat steak dry with paper towels and thinly slice against the grain. Cut slices into bite-sized pieces.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak"
+    },
+    {
+      "id": 195992,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. ",
+      "secondary_message": "2 tsp toasted sesame oil"
+    },
+    {
+      "id": 195993,
+      "primary_message": "Add steak and stir-fry until golden brown and cooked through, 3-4 minutes. Add peppers and celery; continue to cook, stirring often, until veggies begin to soften, 3-4 minutes more.",
+      "secondary_message": null
+    },
+    {
+      "id": 195994,
+      "primary_message": "Meanwhile, place broth, soy sauce, vinegar, cornstarch, and pepper in the bowl used for the veggies; whisk to combine the sauce. ",
+      "secondary_message": "8 fl oz (1 cup) chicken or vegetable broth\n2 tbsp soy sauce\n2 tbsp rice vinegar\n2 tsp cornstarch\n1 tsp black pepper"
+    },
+    {
+      "id": 195995,
+      "primary_message": "Pour sauce into the skillet. Reduce heat to medium and cook, stirring often, until the sauce thickens, 3-4 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 195996,
+      "primary_message": "To serve, divide cauliflower rice and stir-fry between plates or bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 204567,
+      "quantity": "1 medium head",
+      "ingredient_name": "cauliflower"
+    },
+    {
+      "id": 204566,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 204568,
+      "quantity": "8 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 204560,
+      "quantity": "1 (13.5 fl oz) can",
+      "ingredient_name": "coconut milk"
+    },
+    {
+      "id": 204559,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 204565,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 204572,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 204571,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 204563,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 204570,
+      "quantity": "",
+      "ingredient_name": "cornstarch"
+    },
+    {
+      "id": 204569,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 204564,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 204562,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    },
+    {
+      "id": 204561,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 662.67,
+    "alcohol": 0,
+    "ash": 7.1,
+    "caffeine": 0,
+    "water": 517.25,
+    "carbs": 24.35,
+    "fiber": 6.21,
+    "starch": 3.14,
+    "sugars": 13.07,
+    "fructose": 4.69,
+    "galactose": 0.1,
+    "glucose": 4.27,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 3.99,
+    "sugar_alcohol": 0,
+    "fat": 46,
+    "monounsaturated": 12.98,
+    "polyunsaturated": 2.54,
+    "omega_3": 0.12,
+    "omega_6": 2.42,
+    "saturated": 27.89,
+    "transfats": 1.37,
+    "cholesterol": 103.76,
+    "protein": 43.86,
+    "alanine": 2.62,
+    "arginine": 2.99,
+    "aspartic_acid": 4.36,
+    "cystine": 0.48,
+    "glutamic_acid": 7.16,
+    "glycine": 2.09,
+    "histidine": 1.53,
+    "isoleucine": 1.97,
+    "leucine": 3.56,
+    "lysine": 3.99,
+    "methionine": 1.08,
+    "phenylalanine": 1.75,
+    "proline": 1.93,
+    "serine": 1.82,
+    "threonine": 1.99,
+    "tryptophan": 0.49,
+    "tyrosine": 1.54,
+    "valine": 2.23,
+    "b1_thiamine": 0.24,
+    "b2_riboflavin": 0.52,
+    "b3_niacin": 14.33,
+    "b5_pantothenic_acid": 2.19,
+    "b6_pyridoxine": 1.57,
+    "b12_cobalamin": 2.83,
+    "choline": 178.04,
+    "folate": 153.7,
+    "vitamin_a": 302.71,
+    "vitamin_c": 258.62,
+    "vitamin_d": 6.8,
+    "vitamin_e": 1.76,
+    "vitamin_k": 36.93,
+    "calcium": 96.43,
+    "copper": 0.48,
+    "iron": 5.54,
+    "magnesium": 95.2,
+    "manganese": 1.42,
+    "phosphorus": 513.18,
+    "potassium": 1499.56,
+    "selenium": 37.61,
+    "sodium": 170.53,
+    "zinc": 7.12
+  }
 }

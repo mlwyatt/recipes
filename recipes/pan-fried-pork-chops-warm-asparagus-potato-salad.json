@@ -1,690 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3855,
-        "recipe_id": 546,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
-        "slug": "pan-fried-pork-chops-warm-asparagus-potato-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 42707,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 small bunches asparagus\n4 medium red potatoes\n1 small bunch green onions (scallions)\n1 lemon"
-          },
-          {
-            "id": 42708,
-            "primary_message": "Halve the potatoes lengthwise, then place in a small saucepan and cover with hot water (from the tap); bring to a boil. Once boiling, cook until the potatoes are tender (but not falling apart) when pierced with a knife, 12 to 18 minutes. Once done, take the potatoes out of the saucepan with a spoon and place on a plate.",
-            "secondary_message": ""
-          },
-          {
-            "id": 42709,
-            "primary_message": "Snap or cut off and discard the woody ends of the asparagus; cut the spears into 1-inch pieces at an angle and transfer to a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 42710,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 42711,
-            "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate; season generously with salt and pepper on both sides.",
-            "secondary_message": "4 pork chops, bone-in\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 42712,
-            "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 42713,
-            "primary_message": "Place the pork chops in the skillet and sear until they develop a nice crust, 2 to 3 minutes per side. Then, reduce the heat to medium and cook the chops, flipping occasionally, until they are cooked through (test using a thermometer or cut into a chop with a knife), another 3 to 5 minutes. Once done, transfer the pork to a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 42714,
-            "primary_message": "While the pork chops cook, juice the lemon into a large salad bowl, then add yogurt, Dijon, salt, and pepper; whisk together.",
-            "secondary_message": "½ cup plain Greek yogurt\n2 tbsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 42715,
-            "primary_message": "Once the pork chops have been transferred, add the asparagus to the skillet. Cook, tossing frequently, until the asparagus is bright green and just tender, 4 to 6 minutes, lowering the heat if needed to keep it from burning. Once done, add to the salad bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 42716,
-            "primary_message": "While the asparagus cooks, trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces at an angle and add to the salad bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 42717,
-            "primary_message": "Transfer the cooked potatoes to the cutting board. Halve each half lengthwise, then cut crosswise into ¼-inch-thick pieces. Add to the salad bowl.",
-            "secondary_message": ""
-          },
-          {
-            "id": 42718,
-            "primary_message": "Toss the salad until it is thoroughly coated in the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 42719,
-            "primary_message": "To serve, divide the pork chops and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 47048,
-            "quantity": "2 small bunches",
-            "ingredient_name": "asparagus"
-          },
-          {
-            "id": 47045,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 47044,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 47041,
-            "quantity": "½ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 47049,
-            "quantity": "4",
-            "ingredient_name": "pork chops, bone-in"
-          },
-          {
-            "id": 47047,
-            "quantity": "4 medium",
-            "ingredient_name": "red potatoes"
-          },
-          {
-            "id": 47042,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 47040,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 47043,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 47046,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 614.11,
-          "alcohol": 0.01,
-          "ash": 8.24,
-          "caffeine": 0,
-          "water": 485.93,
-          "carbs": 43.05,
-          "fiber": 7.18,
-          "starch": 29.17,
-          "sugars": 6.96,
-          "fructose": 2.21,
-          "galactose": 0.22,
-          "glucose": 2.28,
-          "lactose": 0.78,
-          "maltose": 0,
-          "sucrose": 1.06,
-          "sugar_alcohol": 0.01,
-          "fat": 26.71,
-          "monounsaturated": 6.05,
-          "polyunsaturated": 2.32,
-          "omega_3": 0.21,
-          "omega_6": 3.05,
-          "saturated": 7.91,
-          "transfats": 0.15,
-          "cholesterol": 118.11,
-          "protein": 51.43,
-          "alanine": 2.82,
-          "arginine": 3.17,
-          "aspartic_acid": 5.91,
-          "cystine": 0.62,
-          "glutamic_acid": 8.23,
-          "glycine": 2.16,
-          "histidine": 1.98,
-          "isoleucine": 2.42,
-          "leucine": 4.17,
-          "lysine": 4.42,
-          "methionine": 1.3,
-          "phenylalanine": 2.11,
-          "proline": 2.13,
-          "serine": 2.23,
-          "threonine": 2.25,
-          "tryptophan": 0.57,
-          "tyrosine": 1.83,
-          "valine": 2.68,
-          "b1_thiamine": 1.29,
-          "b2_riboflavin": 0.7,
-          "b3_niacin": 16.66,
-          "b5_pantothenic_acid": 2.46,
-          "b6_pyridoxine": 1.89,
-          "b12_cobalamin": 1.32,
-          "choline": 172.4,
-          "folate": 123.15,
-          "vitamin_a": 1261.17,
-          "vitamin_c": 34.88,
-          "vitamin_d": 52.26,
-          "vitamin_e": 1.88,
-          "vitamin_k": 109,
-          "calcium": 159.99,
-          "copper": 0.68,
-          "iron": 5.94,
-          "magnesium": 123.23,
-          "manganese": 0.74,
-          "phosphorus": 661.34,
-          "potassium": 2029.72,
-          "selenium": 80.34,
-          "sodium": 169.55,
-          "zinc": 5.42
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-fried-pork-chops-warm-asparagus-potato-salad/3855",
-      "altVariants": [
-        {
-          "id": 6134,
-          "recipe_id": 546,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "published_recipe_uuid": "0436fb52-85d5-4894-bfb3-d6d20feccb89",
-          "fallback_published_recipe_uuids": [
-            "6bf23e77-84ba-456a-ad6e-34dd884276a2",
-            "9e629a7a-8a3f-4a0f-a388-1b560e0e57a9"
-          ],
-          "first_published_at": 1550527960000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            153,
-            192,
-            122,
-            3,
-            149,
-            72,
-            117,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            0.75,
-            6,
-            6,
-            5.5450349999999995,
-            44.36025,
-            11.090069999999999,
-            22.1802
-          ],
-          "average_rating": 0.769,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            33,
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3855,
-          "recipe_id": 546,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "published_recipe_uuid": "4bc215ec-7709-4089-a4a1-8b4d978515fb",
-          "fallback_published_recipe_uuids": [
-            "396d315a-6f38-4c76-a9e3-346e45337b78",
-            "d0d9685e-8fee-473d-8b5b-abdf3758bb9a"
-          ],
-          "first_published_at": 1496334116000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            10,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            153,
-            192,
-            122,
-            3,
-            149,
-            72,
-            117,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            0.5,
-            4,
-            4,
-            3.69669,
-            29.5735,
-            7.39338,
-            14.7868
-          ],
-          "average_rating": 0.769,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            33,
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3838,
-          "recipe_id": 546,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "published_recipe_uuid": "2a53b51b-115f-4735-b35f-a6f26d6cc512",
-          "fallback_published_recipe_uuids": [
-            "881e3b08-6514-4c3d-86eb-5d2ef5a451d2",
-            "b34c474b-0820-4154-a618-6fdf3d2637b7"
-          ],
-          "first_published_at": 1496333425000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            153,
-            192,
-            122,
-            3,
-            149,
-            72,
-            117,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.25,
-            2,
-            2,
-            1.848345,
-            14.7868,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.769,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            33,
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3857,
-          "recipe_id": 546,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "published_recipe_uuid": "43e8a867-8bff-4d9d-a379-7e3232bc825c",
-          "fallback_published_recipe_uuids": [
-            "5e8dc4d5-9abd-4620-91d5-4b57e677d5d3",
-            "9d3017d8-2eb0-436e-915f-36f56e17c6b5",
-            "87101d2b-7b82-46a0-903e-dcd564f4556d"
-          ],
-          "first_published_at": 1496334282000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            26,
-            153,
-            192,
-            122,
-            3,
-            149,
-            72,
-            117,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            0.5,
-            4,
-            4,
-            3.69669,
-            29.5735,
-            7.39338,
-            14.7868
-          ],
-          "average_rating": 0.769,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            33,
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3856,
-          "recipe_id": 546,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "published_recipe_uuid": "3bed2d07-9f09-487e-8d10-aeff1ce32fde",
-          "fallback_published_recipe_uuids": [
-            "b486ce17-6a19-46a4-9e70-86f8ab6abaf0",
-            "cdfa3ccf-d920-42f4-97f8-db2203008239"
-          ],
-          "first_published_at": 1496334232000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            153,
-            192,
-            122,
-            3,
-            149,
-            72,
-            117,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.25,
-            2,
-            2,
-            1.848345,
-            14.7868,
-            3.69669,
-            7.39338
-          ],
-          "average_rating": 0.769,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            33,
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6135,
-          "recipe_id": 546,
-          "group_label": "Classic",
-          "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
-          "published_recipe_uuid": "4805302f-295d-4198-9b19-dfc4aa986015",
-          "fallback_published_recipe_uuids": [
-            "9c0c5d59-e7ba-494e-9d18-ca304126abc8",
-            "750cdb1f-d4b6-43bc-be30-28c355794d78"
-          ],
-          "first_published_at": 1550527974000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            153,
-            192,
-            122,
-            3,
-            149,
-            72,
-            117,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            0.75,
-            6,
-            6,
-            5.5450349999999995,
-            44.36025,
-            11.090069999999999,
-            22.1802
-          ],
-          "average_rating": 0.769,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            33,
-            15
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried",
-          "Chops"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3855,
+  "recipe_id": 546,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Pan-Fried Pork Chops with Warm Asparagus-Potato Salad",
+  "slug": "pan-fried-pork-chops-warm-asparagus-potato-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/thumbnail_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/546/presentation_2dda62f4-5e75-4dfb-8b68-b6be09ab8b66.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pan-fried-pork-chops-warm-asparagus-potato-salad",
-    "variantId": "3855"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 42707,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 small bunches asparagus\n4 medium red potatoes\n1 small bunch green onions (scallions)\n1 lemon"
+    },
+    {
+      "id": 42708,
+      "primary_message": "Halve the potatoes lengthwise, then place in a small saucepan and cover with hot water (from the tap); bring to a boil. Once boiling, cook until the potatoes are tender (but not falling apart) when pierced with a knife, 12 to 18 minutes. Once done, take the potatoes out of the saucepan with a spoon and place on a plate.",
+      "secondary_message": ""
+    },
+    {
+      "id": 42709,
+      "primary_message": "Snap or cut off and discard the woody ends of the asparagus; cut the spears into 1-inch pieces at an angle and transfer to a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 42710,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 42711,
+      "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate; season generously with salt and pepper on both sides.",
+      "secondary_message": "4 pork chops, bone-in\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 42712,
+      "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 42713,
+      "primary_message": "Place the pork chops in the skillet and sear until they develop a nice crust, 2 to 3 minutes per side. Then, reduce the heat to medium and cook the chops, flipping occasionally, until they are cooked through (test using a thermometer or cut into a chop with a knife), another 3 to 5 minutes. Once done, transfer the pork to a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 42714,
+      "primary_message": "While the pork chops cook, juice the lemon into a large salad bowl, then add yogurt, Dijon, salt, and pepper; whisk together.",
+      "secondary_message": "½ cup plain Greek yogurt\n2 tbsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 42715,
+      "primary_message": "Once the pork chops have been transferred, add the asparagus to the skillet. Cook, tossing frequently, until the asparagus is bright green and just tender, 4 to 6 minutes, lowering the heat if needed to keep it from burning. Once done, add to the salad bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 42716,
+      "primary_message": "While the asparagus cooks, trim off and discard the ends of the green onions; cut the onions crosswise into ¼-inch pieces at an angle and add to the salad bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 42717,
+      "primary_message": "Transfer the cooked potatoes to the cutting board. Halve each half lengthwise, then cut crosswise into ¼-inch-thick pieces. Add to the salad bowl.",
+      "secondary_message": ""
+    },
+    {
+      "id": 42718,
+      "primary_message": "Toss the salad until it is thoroughly coated in the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 42719,
+      "primary_message": "To serve, divide the pork chops and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 47048,
+      "quantity": "2 small bunches",
+      "ingredient_name": "asparagus"
+    },
+    {
+      "id": 47045,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 47044,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 47041,
+      "quantity": "½ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 47049,
+      "quantity": "4",
+      "ingredient_name": "pork chops, bone-in"
+    },
+    {
+      "id": 47047,
+      "quantity": "4 medium",
+      "ingredient_name": "red potatoes"
+    },
+    {
+      "id": 47042,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 47040,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 47043,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 47046,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 614.11,
+    "alcohol": 0.01,
+    "ash": 8.24,
+    "caffeine": 0,
+    "water": 485.93,
+    "carbs": 43.05,
+    "fiber": 7.18,
+    "starch": 29.17,
+    "sugars": 6.96,
+    "fructose": 2.21,
+    "galactose": 0.22,
+    "glucose": 2.28,
+    "lactose": 0.78,
+    "maltose": 0,
+    "sucrose": 1.06,
+    "sugar_alcohol": 0.01,
+    "fat": 26.71,
+    "monounsaturated": 6.05,
+    "polyunsaturated": 2.32,
+    "omega_3": 0.21,
+    "omega_6": 3.05,
+    "saturated": 7.91,
+    "transfats": 0.15,
+    "cholesterol": 118.11,
+    "protein": 51.43,
+    "alanine": 2.82,
+    "arginine": 3.17,
+    "aspartic_acid": 5.91,
+    "cystine": 0.62,
+    "glutamic_acid": 8.23,
+    "glycine": 2.16,
+    "histidine": 1.98,
+    "isoleucine": 2.42,
+    "leucine": 4.17,
+    "lysine": 4.42,
+    "methionine": 1.3,
+    "phenylalanine": 2.11,
+    "proline": 2.13,
+    "serine": 2.23,
+    "threonine": 2.25,
+    "tryptophan": 0.57,
+    "tyrosine": 1.83,
+    "valine": 2.68,
+    "b1_thiamine": 1.29,
+    "b2_riboflavin": 0.7,
+    "b3_niacin": 16.66,
+    "b5_pantothenic_acid": 2.46,
+    "b6_pyridoxine": 1.89,
+    "b12_cobalamin": 1.32,
+    "choline": 172.4,
+    "folate": 123.15,
+    "vitamin_a": 1261.17,
+    "vitamin_c": 34.88,
+    "vitamin_d": 52.26,
+    "vitamin_e": 1.88,
+    "vitamin_k": 109,
+    "calcium": 159.99,
+    "copper": 0.68,
+    "iron": 5.94,
+    "magnesium": 123.23,
+    "manganese": 0.74,
+    "phosphorus": 661.34,
+    "potassium": 2029.72,
+    "selenium": 80.34,
+    "sodium": 169.55,
+    "zinc": 5.42
+  }
 }

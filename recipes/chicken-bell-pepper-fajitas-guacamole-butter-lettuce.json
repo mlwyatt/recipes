@@ -1,753 +1,265 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2311,
-        "recipe_id": 258,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-        "slug": "chicken-bell-pepper-fajitas-guacamole-butter-lettuce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 22086,
-            "primary_message": "Wash and dry bell peppers. Seed, slice into thin strips, and transfer to a bowl.",
-            "secondary_message": "2 red bell peppers\r\n2 yellow bell peppers"
-          },
-          {
-            "id": 22087,
-            "primary_message": "Peel, thinly slice into half rings, and add onion to bowl with peppers. Peel and mince garlic; add ½ to bowl with vegetables and place the other ½ into a medium bowl for preparing guacamole.",
-            "secondary_message": "1 medium red onion\r\n4 cloves garlic"
-          },
-          {
-            "id": 22088,
-            "primary_message": "Halve avocados and remove pit; scoop out the flesh into bowl with garlic.",
-            "secondary_message": "2 avocados"
-          },
-          {
-            "id": 22089,
-            "primary_message": "Wash and dry cilantro. Shave leaves off the stems; discard the stems and mince the leaves. Add ½ to bowl with avocado and save the rest for garnishing.",
-            "secondary_message": "1 small bunch cilantro"
-          },
-          {
-            "id": 22090,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 22091,
-            "primary_message": "Slice chicken in half horizontally to form thin fillets, then thinly slice fillets crosswise into strips. Season with salt and pepper.",
-            "secondary_message": "1 lb chicken breasts, boneless skinless\r\n¼ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 22092,
-            "primary_message": "Coat bottom of skillet with oil. Add chicken strips and cook until no longer pink, 2-3 minutes per side. Transfer to a plate.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 22093,
-            "primary_message": "Add lime juice, salt, and pepper to avocado. Mash with a fork until smooth. Set aside.",
-            "secondary_message": "juice of 1 lime\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 22094,
-            "primary_message": "After chicken has been transferred add more oil to skillet. Add peppers, onion, and garlic from bowl. Stirring frequently, cook until peppers are tender-crisp, 4-5 minutes.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 22095,
-            "primary_message": "Wash and dry lettuce.",
-            "secondary_message": "2 heads butter (Boston) lettuce"
-          },
-          {
-            "id": 22096,
-            "primary_message": "Cut remaining lime into wedges.",
-            "secondary_message": ""
-          },
-          {
-            "id": 22097,
-            "primary_message": "Return chicken and any juices to skillet. Season with chili powder, cumin, salt, and pepper. Stir to combine and cook for 1-2 minutes.",
-            "secondary_message": "1 tsp chili powder\r\n1 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 22098,
-            "primary_message": "To serve, fill lettuce leaves with fajita mix. Garnish with guacamole, remaining cilantro, and lime wedges. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 28752,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 28753,
-            "quantity": "2 heads",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 28754,
-            "quantity": "1 lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 28755,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 28756,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 28757,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 28758,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 28759,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 28760,
-            "quantity": "2",
-            "ingredient_name": "yellow bell peppers"
-          },
-          {
-            "id": 28761,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 28762,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 28763,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 28765,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 28764,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 461.83,
-          "alcohol": 0,
-          "ash": 6.45,
-          "caffeine": 0,
-          "water": 409.8,
-          "carbs": 24.73,
-          "fiber": 10.99,
-          "starch": 1.95,
-          "sugars": 8.84,
-          "fructose": 4.3,
-          "galactose": 0.11,
-          "glucose": 3.94,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 0.45,
-          "sugar_alcohol": 0,
-          "fat": 28.94,
-          "monounsaturated": 11.4,
-          "polyunsaturated": 2.73,
-          "omega_3": 0.26,
-          "omega_6": 2.48,
-          "saturated": 11.85,
-          "transfats": 0.01,
-          "cholesterol": 82.78,
-          "protein": 31.05,
-          "alanine": 1.7,
-          "arginine": 1.96,
-          "aspartic_acid": 3.09,
-          "cystine": 0.33,
-          "glutamic_acid": 4.57,
-          "glycine": 1.33,
-          "histidine": 1.05,
-          "isoleucine": 1.42,
-          "leucine": 2.39,
-          "lysine": 2.71,
-          "methionine": 0.73,
-          "phenylalanine": 1.24,
-          "proline": 1.01,
-          "serine": 1.2,
-          "threonine": 1.31,
-          "tryptophan": 0.38,
-          "tyrosine": 1.01,
-          "valine": 1.54,
-          "b1_thiamine": 0.31,
-          "b2_riboflavin": 0.5,
-          "b3_niacin": 14.45,
-          "b5_pantothenic_acid": 3.71,
-          "b6_pyridoxine": 1.64,
-          "b12_cobalamin": 0.24,
-          "choline": 127.59,
-          "folate": 214.18,
-          "vitamin_a": 378.78,
-          "vitamin_c": 213.24,
-          "vitamin_d": 1.13,
-          "vitamin_e": 4.91,
-          "vitamin_k": 172.83,
-          "calcium": 89.84,
-          "copper": 0.41,
-          "iron": 3.5,
-          "magnesium": 99.9,
-          "manganese": 0.7,
-          "phosphorus": 380.96,
-          "potassium": 1494.12,
-          "selenium": 27.94,
-          "sodium": 78.64,
-          "zinc": 2.1
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/chicken-bell-pepper-fajitas-guacamole-butter-lettuce/2311",
-      "altVariants": [
-        {
-          "id": 2311,
-          "recipe_id": 258,
-          "group_label": "Classic",
-          "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "published_recipe_uuid": "a1c345e5-77a4-4da1-a59c-e06b5e6b2470",
-          "fallback_published_recipe_uuids": [
-            "1a844304-c982-4761-812a-297c7ad05f13",
-            "09dc3f15-1257-4e76-9d97-1c3a7f3005fd",
-            "abfe2527-6fba-4302-b82c-b5962315fbd1"
-          ],
-          "first_published_at": 1447956405000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            44,
-            188,
-            24,
-            228,
-            150,
-            184,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            1,
-            1,
-            4,
-            2,
-            2,
-            1,
-            2,
-            3.75,
-            5,
-            5,
-            6.25,
-            45
-          ],
-          "average_rating": 0.831,
-          "rating_count": 37,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2309,
-          "recipe_id": 258,
-          "group_label": "Classic",
-          "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "published_recipe_uuid": "ad266213-4540-4a55-be0e-4724cba0f7cb",
-          "fallback_published_recipe_uuids": [
-            "90cb865e-37ac-42dc-923b-f83209b74825",
-            "ae144295-9cbb-4c5c-9620-202deba9c4d8",
-            "41fd5f79-8a6d-49ca-9814-41ed3eb5b4cf"
-          ],
-          "first_published_at": 1447956405000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            44,
-            188,
-            24,
-            228,
-            150,
-            184,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.5,
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            1.875,
-            2.5,
-            2.5,
-            3.125,
-            22.5
-          ],
-          "average_rating": 0.831,
-          "rating_count": 37,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5420,
-          "recipe_id": 258,
-          "group_label": "Classic",
-          "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "published_recipe_uuid": "0a83b1ff-46b0-442e-8192-84a969078467",
-          "fallback_published_recipe_uuids": [
-            "408e2618-dba1-4dda-b75f-1b9d8b6d53e9",
-            "24cd95d5-532b-4026-9a62-4aa51bff140f",
-            "f8bd191e-59d0-413e-bc75-a5b794ebf57a"
-          ],
-          "first_published_at": 1550528475000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            44,
-            188,
-            24,
-            228,
-            150,
-            184,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            1.5,
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            3,
-            5.625,
-            7.5,
-            7.5,
-            9.375,
-            67.5
-          ],
-          "average_rating": 0.831,
-          "rating_count": 37,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2310,
-          "recipe_id": 258,
-          "group_label": "Classic",
-          "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "published_recipe_uuid": "02870a5b-8e83-45ed-b5e4-739ad28ad989",
-          "fallback_published_recipe_uuids": [
-            "e996285b-edc8-4f24-985b-451f5a0c60bc",
-            "a1f7fb91-a721-47aa-993a-a3958e880c2a",
-            "51695a1e-1c1b-4368-8d84-b7aee0d50ff9"
-          ],
-          "first_published_at": 1447956405000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            44,
-            188,
-            24,
-            228,
-            150,
-            184,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            0.227,
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            1,
-            1.875,
-            2.5,
-            2.5,
-            3.125,
-            22.5
-          ],
-          "average_rating": 0.831,
-          "rating_count": 37,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2312,
-          "recipe_id": 258,
-          "group_label": "Classic",
-          "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "published_recipe_uuid": "e54067f9-aa32-435f-9ab4-832a23bde120",
-          "fallback_published_recipe_uuids": [
-            "114bff89-32c4-4205-bc1b-a04a4d41d0cf",
-            "9153236d-533b-4eb4-9c2d-ed08ff16310e",
-            "461d096c-515b-4484-ad33-f1717d37e720"
-          ],
-          "first_published_at": 1447956405000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            44,
-            188,
-            24,
-            228,
-            150,
-            184,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.454,
-            1,
-            4,
-            2,
-            2,
-            1,
-            2,
-            3.75,
-            5,
-            5,
-            6.25,
-            45
-          ],
-          "average_rating": 0.831,
-          "rating_count": 37,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5421,
-          "recipe_id": 258,
-          "group_label": "Classic",
-          "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
-          "published_recipe_uuid": "ae842423-e59c-478f-af2a-50319437f7c4",
-          "fallback_published_recipe_uuids": [
-            "975a3a5f-c397-42ec-abec-f0d5932c6609",
-            "bc421bc3-ca15-4270-a3b0-860b7a02b1ab",
-            "1d5cafb9-4361-4a5b-97b3-c65c3bcecf81"
-          ],
-          "first_published_at": 1550528484000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            308,
-            44,
-            188,
-            24,
-            228,
-            150,
-            184,
-            265,
-            72,
-            75,
-            186,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            0.681,
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            3,
-            5.625,
-            7.5,
-            7.5,
-            9.375,
-            67.5
-          ],
-          "average_rating": 0.831,
-          "rating_count": 37,
-          "variety_tag_ids": [
-            27,
-            12
-          ],
-          "cuisine_tag_ids": [
-            7
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Wraps",
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "Mexican",
-        "reviewCount": null,
-        "reviewScore": 4.2
-      }
+  "id": 2311,
+  "recipe_id": 258,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Chicken & Bell Pepper Fajitas with Guacamole & Butter Lettuce",
+  "slug": "chicken-bell-pepper-fajitas-guacamole-butter-lettuce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/thumbnail_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/258/presentation_4244582f-6cba-4b80-ae65-d66f654f8100.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "chicken-bell-pepper-fajitas-guacamole-butter-lettuce",
-    "variantId": "2311"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 22086,
+      "primary_message": "Wash and dry bell peppers. Seed, slice into thin strips, and transfer to a bowl.",
+      "secondary_message": "2 red bell peppers\r\n2 yellow bell peppers"
+    },
+    {
+      "id": 22087,
+      "primary_message": "Peel, thinly slice into half rings, and add onion to bowl with peppers. Peel and mince garlic; add ½ to bowl with vegetables and place the other ½ into a medium bowl for preparing guacamole.",
+      "secondary_message": "1 medium red onion\r\n4 cloves garlic"
+    },
+    {
+      "id": 22088,
+      "primary_message": "Halve avocados and remove pit; scoop out the flesh into bowl with garlic.",
+      "secondary_message": "2 avocados"
+    },
+    {
+      "id": 22089,
+      "primary_message": "Wash and dry cilantro. Shave leaves off the stems; discard the stems and mince the leaves. Add ½ to bowl with avocado and save the rest for garnishing.",
+      "secondary_message": "1 small bunch cilantro"
+    },
+    {
+      "id": 22090,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 22091,
+      "primary_message": "Slice chicken in half horizontally to form thin fillets, then thinly slice fillets crosswise into strips. Season with salt and pepper.",
+      "secondary_message": "1 lb chicken breasts, boneless skinless\r\n¼ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 22092,
+      "primary_message": "Coat bottom of skillet with oil. Add chicken strips and cook until no longer pink, 2-3 minutes per side. Transfer to a plate.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 22093,
+      "primary_message": "Add lime juice, salt, and pepper to avocado. Mash with a fork until smooth. Set aside.",
+      "secondary_message": "juice of 1 lime\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 22094,
+      "primary_message": "After chicken has been transferred add more oil to skillet. Add peppers, onion, and garlic from bowl. Stirring frequently, cook until peppers are tender-crisp, 4-5 minutes.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 22095,
+      "primary_message": "Wash and dry lettuce.",
+      "secondary_message": "2 heads butter (Boston) lettuce"
+    },
+    {
+      "id": 22096,
+      "primary_message": "Cut remaining lime into wedges.",
+      "secondary_message": ""
+    },
+    {
+      "id": 22097,
+      "primary_message": "Return chicken and any juices to skillet. Season with chili powder, cumin, salt, and pepper. Stir to combine and cook for 1-2 minutes.",
+      "secondary_message": "1 tsp chili powder\r\n1 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 22098,
+      "primary_message": "To serve, fill lettuce leaves with fajita mix. Garnish with guacamole, remaining cilantro, and lime wedges. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 28752,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 28753,
+      "quantity": "2 heads",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 28754,
+      "quantity": "1 lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 28755,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 28756,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 28757,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 28758,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 28759,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 28760,
+      "quantity": "2",
+      "ingredient_name": "yellow bell peppers"
+    },
+    {
+      "id": 28761,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 28762,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 28763,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 28765,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 28764,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 461.83,
+    "alcohol": 0,
+    "ash": 6.45,
+    "caffeine": 0,
+    "water": 409.8,
+    "carbs": 24.73,
+    "fiber": 10.99,
+    "starch": 1.95,
+    "sugars": 8.84,
+    "fructose": 4.3,
+    "galactose": 0.11,
+    "glucose": 3.94,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 0.45,
+    "sugar_alcohol": 0,
+    "fat": 28.94,
+    "monounsaturated": 11.4,
+    "polyunsaturated": 2.73,
+    "omega_3": 0.26,
+    "omega_6": 2.48,
+    "saturated": 11.85,
+    "transfats": 0.01,
+    "cholesterol": 82.78,
+    "protein": 31.05,
+    "alanine": 1.7,
+    "arginine": 1.96,
+    "aspartic_acid": 3.09,
+    "cystine": 0.33,
+    "glutamic_acid": 4.57,
+    "glycine": 1.33,
+    "histidine": 1.05,
+    "isoleucine": 1.42,
+    "leucine": 2.39,
+    "lysine": 2.71,
+    "methionine": 0.73,
+    "phenylalanine": 1.24,
+    "proline": 1.01,
+    "serine": 1.2,
+    "threonine": 1.31,
+    "tryptophan": 0.38,
+    "tyrosine": 1.01,
+    "valine": 1.54,
+    "b1_thiamine": 0.31,
+    "b2_riboflavin": 0.5,
+    "b3_niacin": 14.45,
+    "b5_pantothenic_acid": 3.71,
+    "b6_pyridoxine": 1.64,
+    "b12_cobalamin": 0.24,
+    "choline": 127.59,
+    "folate": 214.18,
+    "vitamin_a": 378.78,
+    "vitamin_c": 213.24,
+    "vitamin_d": 1.13,
+    "vitamin_e": 4.91,
+    "vitamin_k": 172.83,
+    "calcium": 89.84,
+    "copper": 0.41,
+    "iron": 3.5,
+    "magnesium": 99.9,
+    "manganese": 0.7,
+    "phosphorus": 380.96,
+    "potassium": 1494.12,
+    "selenium": 27.94,
+    "sodium": 78.64,
+    "zinc": 2.1
+  }
 }

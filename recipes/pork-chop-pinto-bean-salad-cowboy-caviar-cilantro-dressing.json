@@ -1,1240 +1,285 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 21308,
-        "recipe_id": 2423,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-        "slug": "pork-chop-pinto-bean-salad-cowboy-caviar-cilantro-dressing",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 357985,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 limes\n1 small bunch cilantro\n1 jalapeño pepper\n1 green bell pepper\n2 tomatoes\n1 avocado"
-          },
-          {
-            "id": 357986,
-            "primary_message": "Drain and rinse beans; set aside to drain further.",
-            "secondary_message": "2 (15 oz) cans pinto beans"
-          },
-          {
-            "id": 357987,
-            "primary_message": "Juice limes into a medium bowl. Add oil, honey, and spices; whisk to combine the dressing and set aside. ",
-            "secondary_message": "4 tsp extra virgin olive oil\n2 tsp honey\n1 tsp chili powder\n1 tsp cumin, ground\n½ tsp salt"
-          },
-          {
-            "id": 357988,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 357989,
-            "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate. Season with spices on both sides. ",
-            "secondary_message": "4 pork chops, boneless\n1 tsp garlic powder\n1 tsp cumin, ground\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 357990,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chops and pan-fry until golden brown and cooked through, 3-4 minutes per side. Transfer to a clean plate.",
-            "secondary_message": "4 tsp extra virgin olive oil"
-          },
-          {
-            "id": 357991,
-            "primary_message": "Meanwhile, peel and mince shallots; add to the bowl with the dressing. ",
-            "secondary_message": "2 shallots"
-          },
-          {
-            "id": 357992,
-            "primary_message": "Shave cilantro leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 357993,
-            "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon. Mince and add to the bowl. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
-            "secondary_message": null
-          },
-          {
-            "id": 357994,
-            "primary_message": "Trim, seed, and small dice bell pepper; add to the bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 357995,
-            "primary_message": "Small dice tomatoes and add to the bowl. ",
-            "secondary_message": null
-          },
-          {
-            "id": 357996,
-            "primary_message": "Halve and pit avocado; scoop out with a spoon and small dice the flesh. Add to the bowl, along with the beans, and stir to combine the salad. ",
-            "secondary_message": null
-          },
-          {
-            "id": 357997,
-            "primary_message": "To serve, divide chops and bean salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 382433,
-            "quantity": "1",
-            "ingredient_name": "avocado"
-          },
-          {
-            "id": 382435,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 382438,
-            "quantity": "1",
-            "ingredient_name": "green bell pepper"
-          },
-          {
-            "id": 382431,
-            "quantity": "1",
-            "ingredient_name": "jalapeño pepper"
-          },
-          {
-            "id": 382436,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 382428,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "pinto beans"
-          },
-          {
-            "id": 382432,
-            "quantity": "4",
-            "ingredient_name": "pork chops, boneless"
-          },
-          {
-            "id": 382430,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 382437,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 382424,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 382425,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 382434,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 382423,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 382426,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 382429,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 382427,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 657.91,
-          "alcohol": 0,
-          "ash": 7.41,
-          "caffeine": 0,
-          "water": 362.06,
-          "carbs": 43.83,
-          "fiber": 13.4,
-          "starch": 16.79,
-          "sugars": 8.19,
-          "fructose": 3.02,
-          "galactose": 0.16,
-          "glucose": 3.01,
-          "lactose": 0,
-          "maltose": 0.05,
-          "sucrose": 1.78,
-          "sugar_alcohol": 0,
-          "fat": 37.11,
-          "monounsaturated": 19.78,
-          "polyunsaturated": 5.38,
-          "omega_3": 0.49,
-          "omega_6": 4.9,
-          "saturated": 9.02,
-          "transfats": 0.13,
-          "cholesterol": 85.55,
-          "protein": 42.82,
-          "alanine": 2.25,
-          "arginine": 2.57,
-          "aspartic_acid": 4.2,
-          "cystine": 0.45,
-          "glutamic_acid": 6.58,
-          "glycine": 1.83,
-          "histidine": 1.53,
-          "isoleucine": 1.91,
-          "leucine": 3.32,
-          "lysine": 3.44,
-          "methionine": 0.99,
-          "phenylalanine": 1.85,
-          "proline": 1.82,
-          "serine": 1.91,
-          "threonine": 1.78,
-          "tryptophan": 0.5,
-          "tyrosine": 1.45,
-          "valine": 2.08,
-          "b1_thiamine": 1.07,
-          "b2_riboflavin": 0.46,
-          "b3_niacin": 12.94,
-          "b5_pantothenic_acid": 2.17,
-          "b6_pyridoxine": 1.1,
-          "b12_cobalamin": 0.62,
-          "choline": 139.84,
-          "folate": 104.97,
-          "vitamin_a": 733.53,
-          "vitamin_c": 54.88,
-          "vitamin_d": 15.95,
-          "vitamin_e": 4.95,
-          "vitamin_k": 90.73,
-          "calcium": 136.6,
-          "copper": 0.66,
-          "iron": 4.45,
-          "magnesium": 115.34,
-          "manganese": 0.9,
-          "phosphorus": 504.6,
-          "potassium": 1431.19,
-          "selenium": 67.09,
-          "sodium": 414.77,
-          "zinc": 3.45
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pork-chop-pinto-bean-salad-cowboy-caviar-cilantro-dressing/21308",
-      "altVariants": [
-        {
-          "id": 21313,
-          "recipe_id": 2423,
-          "group_label": "Default",
-          "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "published_recipe_uuid": "d2dc92c5-021c-4547-8859-680ddf63d25f",
-          "fallback_published_recipe_uuids": [
-            "f06aa057-b4d5-4d47-8c24-eb57924a9b26"
-          ],
-          "first_published_at": 1675188999000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            291,
-            151,
-            228,
-            94,
-            180,
-            144,
-            260,
-            72,
-            75,
-            186,
-            47,
-            79,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1,
-            2,
-            1,
-            1,
-            1.25,
-            2.5,
-            5,
-            20,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21314,
-          "recipe_id": 2423,
-          "group_label": "Default",
-          "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "published_recipe_uuid": "a14e0d32-5e14-4e0b-bbf8-ca382554b6f7",
-          "fallback_published_recipe_uuids": [
-            "4d582daf-6cb0-4b8e-aec5-798af892f7f3"
-          ],
-          "first_published_at": 1675188999000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            291,
-            151,
-            228,
-            94,
-            180,
-            144,
-            260,
-            72,
-            75,
-            186,
-            47,
-            79,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1,
-            2,
-            2,
-            4,
-            2,
-            2,
-            2.5,
-            5,
-            10,
-            40,
-            5,
-            10,
-            7.5
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21315,
-          "recipe_id": 2423,
-          "group_label": "Default",
-          "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "published_recipe_uuid": "3b6dba1c-be16-489d-97be-0d9ec9e5e4e7",
-          "fallback_published_recipe_uuids": [
-            "951f3649-4c7d-4336-a44f-3b357059fac8"
-          ],
-          "first_published_at": 1675188998000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            291,
-            151,
-            228,
-            94,
-            180,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            79,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3,
-            6,
-            0.5,
-            3,
-            3.75,
-            7.5,
-            15,
-            60,
-            7.5,
-            15,
-            11.25
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21316,
-          "recipe_id": 2423,
-          "group_label": "Vegan",
-          "name": "Seared Tofu & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21316/thumbnail_4f3f74e1-269c-4746-a62f-0dd5f2045a9c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21316/presentation_4f3f74e1-269c-4746-a62f-0dd5f2045a9c.jpeg",
-          "published_recipe_uuid": "760f7287-4a95-4cd6-9c2e-648222362d68",
-          "fallback_published_recipe_uuids": [
-            "a3f1495c-4998-4fe3-8e19-644f1d60d07a"
-          ],
-          "first_published_at": 1675188998000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            56,
-            291,
-            151,
-            228,
-            94,
-            144,
-            260,
-            72,
-            75,
-            264,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            1,
-            1.25,
-            2.5,
-            15,
-            5,
-            25,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21318,
-          "recipe_id": 2423,
-          "group_label": "Vegan",
-          "name": "Seared Tofu & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21318/thumbnail_ef3dadc9-5b35-46e1-b752-39372a8b70c0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21318/presentation_ef3dadc9-5b35-46e1-b752-39372a8b70c0.jpeg",
-          "published_recipe_uuid": "078c9e96-3430-40c4-a38f-8f5535ec4719",
-          "fallback_published_recipe_uuids": [
-            "c0380230-6dca-44f6-8718-f750d5a8623d"
-          ],
-          "first_published_at": 1675188997000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            56,
-            291,
-            151,
-            228,
-            94,
-            184,
-            260,
-            72,
-            75,
-            264,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            1.5,
-            1.5,
-            3,
-            3,
-            0.5,
-            3,
-            3.75,
-            7.5,
-            45,
-            15,
-            75,
-            7.5,
-            15,
-            11.25
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21309,
-          "recipe_id": 2423,
-          "group_label": "Default",
-          "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "published_recipe_uuid": "75fdf4dc-dd9a-4f3a-a308-93bb84876455",
-          "fallback_published_recipe_uuids": [
-            "7d9864be-d678-45db-811b-063d8f8db0a8"
-          ],
-          "first_published_at": 1675189000000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            291,
-            151,
-            228,
-            94,
-            180,
-            184,
-            260,
-            72,
-            75,
-            186,
-            47,
-            79,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3,
-            6,
-            0.5,
-            3,
-            3.75,
-            7.5,
-            15,
-            60,
-            7.5,
-            15,
-            11.25
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21317,
-          "recipe_id": 2423,
-          "group_label": "Vegan",
-          "name": "Seared Tofu & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21317/thumbnail_1d0147bd-5674-4f2a-9cb7-17a653c9c84e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21317/presentation_1d0147bd-5674-4f2a-9cb7-17a653c9c84e.jpeg",
-          "published_recipe_uuid": "1c6d52ba-5572-4d46-a093-7a72a54ab3c8",
-          "fallback_published_recipe_uuids": [
-            "1c022a68-0c8e-4d56-992d-ee87c8f50609"
-          ],
-          "first_published_at": 1675188997000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            56,
-            291,
-            151,
-            228,
-            94,
-            144,
-            260,
-            72,
-            75,
-            264,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            1,
-            1,
-            2,
-            2,
-            2,
-            2,
-            2.5,
-            5,
-            30,
-            10,
-            50,
-            5,
-            10,
-            7.5
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21307,
-          "recipe_id": 2423,
-          "group_label": "Default",
-          "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "published_recipe_uuid": "b856be7f-69b0-42e4-8bd2-d3b0e823cd13",
-          "fallback_published_recipe_uuids": [
-            "e6774ec3-a3e3-4566-8abb-8abef96b4df5"
-          ],
-          "first_published_at": 1675189001000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            291,
-            151,
-            228,
-            94,
-            180,
-            144,
-            260,
-            72,
-            75,
-            186,
-            47,
-            79,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1,
-            2,
-            1,
-            1,
-            1.25,
-            2.5,
-            5,
-            20,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21308,
-          "recipe_id": 2423,
-          "group_label": "Default",
-          "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
-          "published_recipe_uuid": "80e4309c-2516-42e8-a212-188c5b578ae4",
-          "fallback_published_recipe_uuids": [
-            "df3d8fe6-888e-4b0b-a2a6-8393cf21e4d5"
-          ],
-          "first_published_at": 1675189001000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            291,
-            151,
-            228,
-            94,
-            180,
-            144,
-            260,
-            72,
-            75,
-            186,
-            47,
-            79,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1,
-            2,
-            2,
-            4,
-            2,
-            2,
-            2.5,
-            5,
-            10,
-            40,
-            5,
-            10,
-            7.5
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21310,
-          "recipe_id": 2423,
-          "group_label": "Vegan",
-          "name": "Seared Tofu & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21310/thumbnail_f666a89b-bda2-45f1-99ca-40093c67c91c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21310/presentation_f666a89b-bda2-45f1-99ca-40093c67c91c.jpeg",
-          "published_recipe_uuid": "99d77dfc-35e4-47d9-81b6-0d6f4a59dd16",
-          "fallback_published_recipe_uuids": [
-            "c0c9414d-0487-4628-9e65-b186534efcd7"
-          ],
-          "first_published_at": 1675189000000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            56,
-            291,
-            151,
-            228,
-            94,
-            144,
-            260,
-            72,
-            75,
-            264,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1,
-            1,
-            1,
-            1,
-            1.25,
-            2.5,
-            15,
-            5,
-            25,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21311,
-          "recipe_id": 2423,
-          "group_label": "Vegan",
-          "name": "Seared Tofu & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21311/thumbnail_42472f60-e526-4cfb-b68e-c86ad4aab5cb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21311/presentation_42472f60-e526-4cfb-b68e-c86ad4aab5cb.jpeg",
-          "published_recipe_uuid": "8302d3e6-8e00-4839-aaed-7646a58811f9",
-          "fallback_published_recipe_uuids": [
-            "68d716f1-5f3d-4271-8ac2-6c451071e061"
-          ],
-          "first_published_at": 1675189000000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            56,
-            291,
-            151,
-            228,
-            94,
-            144,
-            260,
-            72,
-            75,
-            264,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            2,
-            1,
-            1,
-            2,
-            2,
-            2,
-            2,
-            2.5,
-            5,
-            30,
-            10,
-            50,
-            5,
-            10,
-            7.5
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        },
-        {
-          "id": 21312,
-          "recipe_id": 2423,
-          "group_label": "Vegan",
-          "name": "Seared Tofu & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21312/thumbnail_d852bfb0-0bca-4bb1-b57f-c48da7c5dba1.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/21312/presentation_d852bfb0-0bca-4bb1-b57f-c48da7c5dba1.jpeg",
-          "published_recipe_uuid": "282d72f8-8061-4a4c-8984-3549c8a6dde6",
-          "fallback_published_recipe_uuids": [
-            "d4980ff3-4206-4b34-af0d-588c3177d2f4"
-          ],
-          "first_published_at": 1675188999000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            56,
-            291,
-            151,
-            228,
-            94,
-            184,
-            260,
-            72,
-            75,
-            264,
-            186,
-            47,
-            79,
-            104,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1,
-            3,
-            1.5,
-            1.5,
-            3,
-            3,
-            0.5,
-            3,
-            3.75,
-            7.5,
-            45,
-            15,
-            75,
-            7.5,
-            15,
-            11.25
-          ],
-          "average_rating": 0.766,
-          "rating_count": 16,
-          "variety_tag_ids": [
-            15
-          ],
-          "cuisine_tag_ids": [
-            21
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "'Pork & Beans' are re-imagined with this seared pork chop & cilantro-dressed pinto bean salad",
-        "keywords": [
-          "Chops"
-        ],
-        "cuisine": "Southern",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 21308,
+  "recipe_id": 2423,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Pork Chop & Pinto Bean Salad (Cowboy Caviar) with Cilantro Dressing",
+  "slug": "pork-chop-pinto-bean-salad-cowboy-caviar-cilantro-dressing",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/thumbnail_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2423/presentation_3c16a606-1d4e-4d96-8434-9a69cc351361.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pork-chop-pinto-bean-salad-cowboy-caviar-cilantro-dressing",
-    "variantId": "21308"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 357985,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 limes\n1 small bunch cilantro\n1 jalapeño pepper\n1 green bell pepper\n2 tomatoes\n1 avocado"
+    },
+    {
+      "id": 357986,
+      "primary_message": "Drain and rinse beans; set aside to drain further.",
+      "secondary_message": "2 (15 oz) cans pinto beans"
+    },
+    {
+      "id": 357987,
+      "primary_message": "Juice limes into a medium bowl. Add oil, honey, and spices; whisk to combine the dressing and set aside. ",
+      "secondary_message": "4 tsp extra virgin olive oil\n2 tsp honey\n1 tsp chili powder\n1 tsp cumin, ground\n½ tsp salt"
+    },
+    {
+      "id": 357988,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 357989,
+      "primary_message": "While the skillet heats up, pat the pork chops dry with paper towels and place on a plate. Season with spices on both sides. ",
+      "secondary_message": "4 pork chops, boneless\n1 tsp garlic powder\n1 tsp cumin, ground\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 357990,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add chops and pan-fry until golden brown and cooked through, 3-4 minutes per side. Transfer to a clean plate.",
+      "secondary_message": "4 tsp extra virgin olive oil"
+    },
+    {
+      "id": 357991,
+      "primary_message": "Meanwhile, peel and mince shallots; add to the bowl with the dressing. ",
+      "secondary_message": "2 shallots"
+    },
+    {
+      "id": 357992,
+      "primary_message": "Shave cilantro leaves off the stems; discard stems and mince the leaves. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 357993,
+      "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon. Mince and add to the bowl. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.)",
+      "secondary_message": null
+    },
+    {
+      "id": 357994,
+      "primary_message": "Trim, seed, and small dice bell pepper; add to the bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 357995,
+      "primary_message": "Small dice tomatoes and add to the bowl. ",
+      "secondary_message": null
+    },
+    {
+      "id": 357996,
+      "primary_message": "Halve and pit avocado; scoop out with a spoon and small dice the flesh. Add to the bowl, along with the beans, and stir to combine the salad. ",
+      "secondary_message": null
+    },
+    {
+      "id": 357997,
+      "primary_message": "To serve, divide chops and bean salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 382433,
+      "quantity": "1",
+      "ingredient_name": "avocado"
+    },
+    {
+      "id": 382435,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 382438,
+      "quantity": "1",
+      "ingredient_name": "green bell pepper"
+    },
+    {
+      "id": 382431,
+      "quantity": "1",
+      "ingredient_name": "jalapeño pepper"
+    },
+    {
+      "id": 382436,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 382428,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "pinto beans"
+    },
+    {
+      "id": 382432,
+      "quantity": "4",
+      "ingredient_name": "pork chops, boneless"
+    },
+    {
+      "id": 382430,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 382437,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 382424,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 382425,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 382434,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 382423,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 382426,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 382429,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 382427,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 657.91,
+    "alcohol": 0,
+    "ash": 7.41,
+    "caffeine": 0,
+    "water": 362.06,
+    "carbs": 43.83,
+    "fiber": 13.4,
+    "starch": 16.79,
+    "sugars": 8.19,
+    "fructose": 3.02,
+    "galactose": 0.16,
+    "glucose": 3.01,
+    "lactose": 0,
+    "maltose": 0.05,
+    "sucrose": 1.78,
+    "sugar_alcohol": 0,
+    "fat": 37.11,
+    "monounsaturated": 19.78,
+    "polyunsaturated": 5.38,
+    "omega_3": 0.49,
+    "omega_6": 4.9,
+    "saturated": 9.02,
+    "transfats": 0.13,
+    "cholesterol": 85.55,
+    "protein": 42.82,
+    "alanine": 2.25,
+    "arginine": 2.57,
+    "aspartic_acid": 4.2,
+    "cystine": 0.45,
+    "glutamic_acid": 6.58,
+    "glycine": 1.83,
+    "histidine": 1.53,
+    "isoleucine": 1.91,
+    "leucine": 3.32,
+    "lysine": 3.44,
+    "methionine": 0.99,
+    "phenylalanine": 1.85,
+    "proline": 1.82,
+    "serine": 1.91,
+    "threonine": 1.78,
+    "tryptophan": 0.5,
+    "tyrosine": 1.45,
+    "valine": 2.08,
+    "b1_thiamine": 1.07,
+    "b2_riboflavin": 0.46,
+    "b3_niacin": 12.94,
+    "b5_pantothenic_acid": 2.17,
+    "b6_pyridoxine": 1.1,
+    "b12_cobalamin": 0.62,
+    "choline": 139.84,
+    "folate": 104.97,
+    "vitamin_a": 733.53,
+    "vitamin_c": 54.88,
+    "vitamin_d": 15.95,
+    "vitamin_e": 4.95,
+    "vitamin_k": 90.73,
+    "calcium": 136.6,
+    "copper": 0.66,
+    "iron": 4.45,
+    "magnesium": 115.34,
+    "manganese": 0.9,
+    "phosphorus": 504.6,
+    "potassium": 1431.19,
+    "selenium": 67.09,
+    "sodium": 414.77,
+    "zinc": 3.45
+  }
 }

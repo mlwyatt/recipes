@@ -1,1191 +1,290 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 28715,
-        "recipe_id": 3228,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-        "slug": "spaghetti-spinach-peas-asparagus-poached-eggs-parmesan",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 126,
-            "name": "slotted spoon",
-            "slug": "slotted-spoon"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 459110,
-            "primary_message": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and set aside.",
-            "secondary_message": "1 tsp salt\n10 oz spaghetti pasta"
-          },
-          {
-            "id": 459111,
-            "primary_message": "Meanwhile, fill another large pot about halfway with hot water (from the tap); add vinegar, cover with a lid, and bring to a boil over medium-high heat. Once the water in the pot is boiling, reduce heat to medium-low.",
-            "secondary_message": "2 tsp white wine vinegar"
-          },
-          {
-            "id": 459112,
-            "primary_message": "While the water is heating, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
-            "secondary_message": "1 small bunch green onions (scallions)\n1 small bunch asparagus\n1 (5 oz) pkg baby spinach\n1 lemon"
-          },
-          {
-            "id": 459113,
-            "primary_message": "Trim and cut green onions crosswise into thin pieces. Place in a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 459114,
-            "primary_message": "Snap (or cut) off woody ends of the asparagus; cut into 1-inch pieces. Add to the bowl with the green onions.",
-            "secondary_message": null
-          },
-          {
-            "id": 459115,
-            "primary_message": "Preheat a large skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 459116,
-            "primary_message": "While the skillet heats up, peel and mince garlic. Add garlic and peas to the bowl.",
-            "secondary_message": "2 cloves garlic\n1 cup frozen peas"
-          },
-          {
-            "id": 459117,
-            "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add veggies, salt, and pepper; cook, stirring occasionally, until fork-tender, 5-6 minutes. (Reserve bowl for the next step.)",
-            "secondary_message": "¼ cup butter, unsalted\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 459118,
-            "primary_message": "Meanwhile, finely grate Parmesan. Place in the reserved bowl and set aside.",
-            "secondary_message": "2 oz Parmesan cheese"
-          },
-          {
-            "id": 459119,
-            "primary_message": "Gently crack eggs into additional small bowls (two eggs per bowl).",
-            "secondary_message": "8 eggs"
-          },
-          {
-            "id": 459120,
-            "primary_message": "Adjust heat of the pot as necessary so that the vinegar water is simmering. Working in batches if necessary, gently tip bowls into the pot, sliding the eggs carefully into the water. Cook until whites are set but yolks are still soft, 2½-3 minutes. Using a slotted spoon, transfer eggs to a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 459121,
-            "primary_message": "When the veggies are done, add spinach to the skillet in handfuls, waiting for it to wilt slightly before adding the next handful.",
-            "secondary_message": null
-          },
-          {
-            "id": 459122,
-            "primary_message": "Zest and juice lemon into the skillet, then add drained spaghetti. Continue to cook, tossing occasionally, until warmed through, 1-2 minutes more. Remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 459123,
-            "primary_message": "To serve, divide pasta and eggs between bowls. Top with Parmesan and enjoy! ",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 491978,
-            "quantity": "1 small bunch",
-            "ingredient_name": "asparagus"
-          },
-          {
-            "id": 491979,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 491985,
-            "quantity": "8",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 491989,
-            "quantity": "1 cup",
-            "ingredient_name": "frozen peas"
-          },
-          {
-            "id": 491977,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 491987,
-            "quantity": "1 small bunch",
-            "ingredient_name": "green onions (scallions)"
-          },
-          {
-            "id": 491988,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 491984,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 491980,
-            "quantity": "10 oz",
-            "ingredient_name": "spaghetti pasta"
-          },
-          {
-            "id": 491981,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 491983,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 491982,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 491986,
-            "quantity": "",
-            "ingredient_name": "white wine vinegar"
-          }
-        ],
-        "nutrition": {
-          "energy": 607.22,
-          "alcohol": 0,
-          "ash": 6.21,
-          "caffeine": 0,
-          "water": 232.74,
-          "carbs": 65.46,
-          "fiber": 6.57,
-          "starch": 46.25,
-          "sugars": 6.19,
-          "fructose": 1.15,
-          "galactose": 0.04,
-          "glucose": 1.48,
-          "lactose": 0.2,
-          "maltose": 1.42,
-          "sucrose": 2.19,
-          "sugar_alcohol": 0,
-          "fat": 25.21,
-          "monounsaturated": 7.45,
-          "polyunsaturated": 2.77,
-          "omega_3": 0.26,
-          "omega_6": 2.51,
-          "saturated": 12.75,
-          "transfats": 0.59,
-          "cholesterol": 367.94,
-          "protein": 30.18,
-          "alanine": 1.33,
-          "arginine": 1.54,
-          "aspartic_acid": 2.54,
-          "cystine": 0.5,
-          "glutamic_acid": 6.53,
-          "glycine": 0.97,
-          "histidine": 0.78,
-          "isoleucine": 1.41,
-          "leucine": 2.45,
-          "lysine": 1.75,
-          "methionine": 0.65,
-          "phenylalanine": 1.52,
-          "proline": 2.34,
-          "serine": 1.77,
-          "threonine": 1.19,
-          "tryptophan": 0.4,
-          "tyrosine": 1.02,
-          "valine": 1.76,
-          "b1_thiamine": 0.89,
-          "b2_riboflavin": 0.95,
-          "b3_niacin": 6.77,
-          "b5_pantothenic_acid": 2.15,
-          "b6_pyridoxine": 0.45,
-          "b12_cobalamin": 0.98,
-          "choline": 302.18,
-          "folate": 347.05,
-          "vitamin_a": 1294.56,
-          "vitamin_c": 29.19,
-          "vitamin_d": 83.49,
-          "vitamin_e": 2.93,
-          "vitamin_k": 259.33,
-          "calcium": 147.46,
-          "copper": 0.51,
-          "iron": 7.19,
-          "magnesium": 106.27,
-          "manganese": 1.29,
-          "phosphorus": 499.02,
-          "potassium": 755.07,
-          "selenium": 77.9,
-          "sodium": 201.85,
-          "zinc": 3.45
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/spaghetti-spinach-peas-asparagus-poached-eggs-parmesan/28715",
-      "altVariants": [
-        {
-          "id": 28715,
-          "recipe_id": 3228,
-          "group_label": "Default",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "d764ccfd-df1f-4ddd-a99e-e556c09c95ef",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262800000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            153,
-            192,
-            120,
-            59,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            8,
-            1,
-            2,
-            1,
-            1,
-            2,
-            10,
-            1.25,
-            60,
-            7.5,
-            10
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28719,
-          "recipe_id": 3228,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "7fb22358-48ae-4e95-95ac-763c2d95fef4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262799000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            60,
-            153,
-            192,
-            120,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            12,
-            1.5,
-            3,
-            15,
-            1,
-            1.5,
-            3,
-            2.5,
-            90,
-            11.25,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28718,
-          "recipe_id": 3228,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "36ba1b60-f4d9-4692-8756-cf51e651a8f7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262800000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            60,
-            153,
-            192,
-            120,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            8,
-            1,
-            2,
-            10,
-            1,
-            1,
-            2,
-            1.25,
-            60,
-            7.5,
-            10
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28716,
-          "recipe_id": 3228,
-          "group_label": "Default",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "50935263-c862-4aba-a3ee-6f017442a1e3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262800000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            153,
-            192,
-            120,
-            59,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            12,
-            1.5,
-            3,
-            1,
-            1.5,
-            3,
-            15,
-            2.5,
-            90,
-            11.25,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28714,
-          "recipe_id": 3228,
-          "group_label": "Default",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "1e9ad9a2-eae3-49eb-8bd0-096b8669aeb6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262801000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            153,
-            192,
-            120,
-            59,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            4,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            1,
-            5,
-            0.625,
-            30,
-            3.75,
-            5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28717,
-          "recipe_id": 3228,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "c8d24f73-77e4-464c-a72c-d2190bb4c246",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262800000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            60,
-            153,
-            192,
-            120,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            4,
-            0.5,
-            1,
-            5,
-            0.5,
-            0.5,
-            1,
-            0.625,
-            30,
-            3.75,
-            5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28725,
-          "recipe_id": 3228,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "96980d1f-f43d-405e-90ad-d602a4ca1cc3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262798000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            60,
-            153,
-            192,
-            120,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            12,
-            1.5,
-            3,
-            425,
-            1,
-            1.5,
-            85,
-            2.5,
-            90,
-            11.25,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28724,
-          "recipe_id": 3228,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "4f5977eb-7599-4f1a-ab8c-62d8e6985177",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262798000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            60,
-            153,
-            192,
-            120,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            8,
-            1,
-            2,
-            283,
-            1,
-            1,
-            57,
-            1.25,
-            60,
-            7.5,
-            10
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28723,
-          "recipe_id": 3228,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "f5011579-af98-49d6-9e97-510239f4f49f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262798000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            60,
-            153,
-            192,
-            120,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            4,
-            0.5,
-            1,
-            142,
-            0.5,
-            0.5,
-            28,
-            0.625,
-            30,
-            3.75,
-            5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28722,
-          "recipe_id": 3228,
-          "group_label": "Default",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "16d942f8-a763-4164-b951-36cedefa5757",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262799000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            153,
-            192,
-            120,
-            59,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            12,
-            1.5,
-            3,
-            1,
-            1.5,
-            85,
-            425,
-            2.5,
-            90,
-            11.25,
-            15
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28721,
-          "recipe_id": 3228,
-          "group_label": "Default",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "d7f0f766-1777-4f5c-9327-3b3f07c593ba",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262799000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            153,
-            192,
-            120,
-            59,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            8,
-            1,
-            2,
-            1,
-            1,
-            57,
-            283,
-            1.25,
-            60,
-            7.5,
-            10
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 28720,
-          "recipe_id": 3228,
-          "group_label": "Default",
-          "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
-          "published_recipe_uuid": "5917f990-26fd-4dd4-9462-d131b5d81706",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1710262799000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            11,
-            14
-          ],
-          "ingredient_ids": [
-            26,
-            33,
-            121,
-            275,
-            24,
-            153,
-            192,
-            120,
-            59,
-            72,
-            115,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            4,
-            0.5,
-            1,
-            0.5,
-            0.5,
-            28,
-            142,
-            0.625,
-            30,
-            3.75,
-            5
-          ],
-          "average_rating": 0.795,
-          "rating_count": 116,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": 116,
-        "reviewScore": null
-      }
+  "id": 28715,
+  "recipe_id": 3228,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Spaghetti with Spinach, Peas, Asparagus, Poached Eggs & Parmesan",
+  "slug": "spaghetti-spinach-peas-asparagus-poached-eggs-parmesan",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/thumbnail_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3228/presentation_f5ed3d4c-d7ff-44e2-b695-542df775e5d9.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "spaghetti-spinach-peas-asparagus-poached-eggs-parmesan",
-    "variantId": "28715"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 126,
+      "name": "slotted spoon",
+      "slug": "slotted-spoon"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 459110,
+      "primary_message": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes. Drain and set aside.",
+      "secondary_message": "1 tsp salt\n10 oz spaghetti pasta"
+    },
+    {
+      "id": 459111,
+      "primary_message": "Meanwhile, fill another large pot about halfway with hot water (from the tap); add vinegar, cover with a lid, and bring to a boil over medium-high heat. Once the water in the pot is boiling, reduce heat to medium-low.",
+      "secondary_message": "2 tsp white wine vinegar"
+    },
+    {
+      "id": 459112,
+      "primary_message": "While the water is heating, wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+      "secondary_message": "1 small bunch green onions (scallions)\n1 small bunch asparagus\n1 (5 oz) pkg baby spinach\n1 lemon"
+    },
+    {
+      "id": 459113,
+      "primary_message": "Trim and cut green onions crosswise into thin pieces. Place in a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 459114,
+      "primary_message": "Snap (or cut) off woody ends of the asparagus; cut into 1-inch pieces. Add to the bowl with the green onions.",
+      "secondary_message": null
+    },
+    {
+      "id": 459115,
+      "primary_message": "Preheat a large skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 459116,
+      "primary_message": "While the skillet heats up, peel and mince garlic. Add garlic and peas to the bowl.",
+      "secondary_message": "2 cloves garlic\n1 cup frozen peas"
+    },
+    {
+      "id": 459117,
+      "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add veggies, salt, and pepper; cook, stirring occasionally, until fork-tender, 5-6 minutes. (Reserve bowl for the next step.)",
+      "secondary_message": "¼ cup butter, unsalted\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 459118,
+      "primary_message": "Meanwhile, finely grate Parmesan. Place in the reserved bowl and set aside.",
+      "secondary_message": "2 oz Parmesan cheese"
+    },
+    {
+      "id": 459119,
+      "primary_message": "Gently crack eggs into additional small bowls (two eggs per bowl).",
+      "secondary_message": "8 eggs"
+    },
+    {
+      "id": 459120,
+      "primary_message": "Adjust heat of the pot as necessary so that the vinegar water is simmering. Working in batches if necessary, gently tip bowls into the pot, sliding the eggs carefully into the water. Cook until whites are set but yolks are still soft, 2½-3 minutes. Using a slotted spoon, transfer eggs to a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 459121,
+      "primary_message": "When the veggies are done, add spinach to the skillet in handfuls, waiting for it to wilt slightly before adding the next handful.",
+      "secondary_message": null
+    },
+    {
+      "id": 459122,
+      "primary_message": "Zest and juice lemon into the skillet, then add drained spaghetti. Continue to cook, tossing occasionally, until warmed through, 1-2 minutes more. Remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 459123,
+      "primary_message": "To serve, divide pasta and eggs between bowls. Top with Parmesan and enjoy! ",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 491978,
+      "quantity": "1 small bunch",
+      "ingredient_name": "asparagus"
+    },
+    {
+      "id": 491979,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 491985,
+      "quantity": "8",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 491989,
+      "quantity": "1 cup",
+      "ingredient_name": "frozen peas"
+    },
+    {
+      "id": 491977,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 491987,
+      "quantity": "1 small bunch",
+      "ingredient_name": "green onions (scallions)"
+    },
+    {
+      "id": 491988,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 491984,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 491980,
+      "quantity": "10 oz",
+      "ingredient_name": "spaghetti pasta"
+    },
+    {
+      "id": 491981,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 491983,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 491982,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 491986,
+      "quantity": "",
+      "ingredient_name": "white wine vinegar"
+    }
+  ],
+  "nutrition": {
+    "energy": 607.22,
+    "alcohol": 0,
+    "ash": 6.21,
+    "caffeine": 0,
+    "water": 232.74,
+    "carbs": 65.46,
+    "fiber": 6.57,
+    "starch": 46.25,
+    "sugars": 6.19,
+    "fructose": 1.15,
+    "galactose": 0.04,
+    "glucose": 1.48,
+    "lactose": 0.2,
+    "maltose": 1.42,
+    "sucrose": 2.19,
+    "sugar_alcohol": 0,
+    "fat": 25.21,
+    "monounsaturated": 7.45,
+    "polyunsaturated": 2.77,
+    "omega_3": 0.26,
+    "omega_6": 2.51,
+    "saturated": 12.75,
+    "transfats": 0.59,
+    "cholesterol": 367.94,
+    "protein": 30.18,
+    "alanine": 1.33,
+    "arginine": 1.54,
+    "aspartic_acid": 2.54,
+    "cystine": 0.5,
+    "glutamic_acid": 6.53,
+    "glycine": 0.97,
+    "histidine": 0.78,
+    "isoleucine": 1.41,
+    "leucine": 2.45,
+    "lysine": 1.75,
+    "methionine": 0.65,
+    "phenylalanine": 1.52,
+    "proline": 2.34,
+    "serine": 1.77,
+    "threonine": 1.19,
+    "tryptophan": 0.4,
+    "tyrosine": 1.02,
+    "valine": 1.76,
+    "b1_thiamine": 0.89,
+    "b2_riboflavin": 0.95,
+    "b3_niacin": 6.77,
+    "b5_pantothenic_acid": 2.15,
+    "b6_pyridoxine": 0.45,
+    "b12_cobalamin": 0.98,
+    "choline": 302.18,
+    "folate": 347.05,
+    "vitamin_a": 1294.56,
+    "vitamin_c": 29.19,
+    "vitamin_d": 83.49,
+    "vitamin_e": 2.93,
+    "vitamin_k": 259.33,
+    "calcium": 147.46,
+    "copper": 0.51,
+    "iron": 7.19,
+    "magnesium": 106.27,
+    "manganese": 1.29,
+    "phosphorus": 499.02,
+    "potassium": 755.07,
+    "selenium": 77.9,
+    "sodium": 201.85,
+    "zinc": 3.45
+  }
 }

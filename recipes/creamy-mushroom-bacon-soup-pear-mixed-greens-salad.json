@@ -1,1167 +1,260 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2813,
-        "recipe_id": 321,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-        "slug": "creamy-mushroom-bacon-soup-pear-mixed-greens-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 57,
-            "name": "ladle",
-            "slug": "ladle"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 27274,
-            "primary_message": "Wash and slice the mushrooms.",
-            "secondary_message": "1 lb white mushrooms"
-          },
-          {
-            "id": 27275,
-            "primary_message": "Peel and small dice the onion. Peel and mince the garlic.",
-            "secondary_message": "1 medium yellow onion\r\n2 cloves garlic"
-          },
-          {
-            "id": 27276,
-            "primary_message": "Melt butter in a medium saucepan over medium heat. Add the mushrooms, onion, and garlic. Season with thyme, salt, and pepper. Cook, stirring occasionally, until tender, 5-6 minutes.",
-            "secondary_message": "2 tbsp butter, unsalted\r\n½ tsp thyme\r\n1 tsp salt\r\n1 tsp black pepper"
-          },
-          {
-            "id": 27277,
-            "primary_message": "Heat a skillet over medium heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 27278,
-            "primary_message": "Chop the bacon into smaller pieces. Add to the skillet and cook until crispy, 3-4 minutes.",
-            "secondary_message": "8 slices bacon\r\n"
-          },
-          {
-            "id": 27279,
-            "primary_message": "Sprinkle cornstarch over the mushrooms and stir to coat.",
-            "secondary_message": "2 tbsp cornstarch\r\n"
-          },
-          {
-            "id": 27280,
-            "primary_message": "Pour in the broth and cream. Stir well and bring the soup to a simmer. Cook until thickened, 1-2 minutes.",
-            "secondary_message": "24 fl oz (3 cups) chicken or vegetable broth\n4 fl oz (½ cup) heavy cream"
-          },
-          {
-            "id": 27281,
-            "primary_message": "Wash and dry the greens.",
-            "secondary_message": "1 (5 oz) pkg spring mix (mixed greens)\r\n"
-          },
-          {
-            "id": 27282,
-            "primary_message": "Wash, core, and thinly slice the pears.",
-            "secondary_message": "2 pears\r\n"
-          },
-          {
-            "id": 27283,
-            "primary_message": "Purée the soup with an immersion (hand) blender or regular blender if desired. Otherwise, leave as is.",
-            "secondary_message": ""
-          },
-          {
-            "id": 27284,
-            "primary_message": "Arrange a bed of greens on a plate, top with pear slices, and drizzle with olive oil. Pour soup into a bowl and sprinkle with bacon. Enjoy!",
-            "secondary_message": "4 tbsp extra virgin olive oil\r\n"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 34754,
-            "quantity": "8 slices",
-            "ingredient_name": "bacon"
-          },
-          {
-            "id": 34753,
-            "quantity": "24 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 34752,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 34751,
-            "quantity": "4 fl oz",
-            "ingredient_name": "heavy whipping cream"
-          },
-          {
-            "id": 34749,
-            "quantity": "2",
-            "ingredient_name": "pears"
-          },
-          {
-            "id": 34750,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 34748,
-            "quantity": "1 lb",
-            "ingredient_name": "white mushrooms"
-          },
-          {
-            "id": 34747,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 34746,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 34745,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 34744,
-            "quantity": "",
-            "ingredient_name": "cornstarch"
-          },
-          {
-            "id": 34743,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 34742,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 34741,
-            "quantity": "",
-            "ingredient_name": "thyme, dried"
-          }
-        ],
-        "nutrition": {
-          "energy": 650.95,
-          "alcohol": 0,
-          "ash": 5.01,
-          "caffeine": 0,
-          "water": 461.28,
-          "carbs": 29.4,
-          "fiber": 5.33,
-          "starch": 7.26,
-          "sugars": 14.23,
-          "fructose": 6.46,
-          "galactose": 0.01,
-          "glucose": 4.86,
-          "lactose": 0.87,
-          "maltose": 0,
-          "sucrose": 1.66,
-          "sugar_alcohol": 0,
-          "fat": 54.55,
-          "monounsaturated": 25.05,
-          "polyunsaturated": 6.24,
-          "omega_3": 0.51,
-          "omega_6": 5.74,
-          "saturated": 20.33,
-          "transfats": 0.76,
-          "cholesterol": 93.19,
-          "protein": 16.32,
-          "alanine": 0.91,
-          "arginine": 0.87,
-          "aspartic_acid": 1.46,
-          "cystine": 0.16,
-          "glutamic_acid": 2.36,
-          "glycine": 0.67,
-          "histidine": 0.5,
-          "isoleucine": 0.71,
-          "leucine": 1.14,
-          "lysine": 1.18,
-          "methionine": 0.35,
-          "phenylalanine": 0.62,
-          "proline": 0.66,
-          "serine": 0.61,
-          "threonine": 0.67,
-          "tryptophan": 0.18,
-          "tyrosine": 0.52,
-          "valine": 0.91,
-          "b1_thiamine": 0.31,
-          "b2_riboflavin": 0.66,
-          "b3_niacin": 9.25,
-          "b5_pantothenic_acid": 2.53,
-          "b6_pyridoxine": 0.4,
-          "b12_cobalamin": 0.58,
-          "choline": 75.76,
-          "folate": 70.86,
-          "vitamin_a": 486.09,
-          "vitamin_c": 12.54,
-          "vitamin_d": 29.25,
-          "vitamin_e": 3.04,
-          "vitamin_k": 83.35,
-          "calcium": 71.86,
-          "copper": 0.6,
-          "iron": 2.15,
-          "magnesium": 40.85,
-          "manganese": 0.49,
-          "phosphorus": 288.06,
-          "potassium": 910.09,
-          "selenium": 22.77,
-          "sodium": 458.6,
-          "zinc": 1.82
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-mushroom-bacon-soup-pear-mixed-greens-salad/2813",
-      "altVariants": [
-        {
-          "id": 5667,
-          "recipe_id": 321,
-          "group_label": "Low Carb",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 6,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "a30c118a-60f8-4c6d-860d-52366810be54",
-          "fallback_published_recipe_uuids": [
-            "4ea59922-6275-4979-a125-288d36fc6c8a",
-            "f08f20c1-af4f-4c34-8dc4-2b1cd4cd365b",
-            "01f9f9e5-1672-40cf-a8cf-b8b4995db803"
-          ],
-          "first_published_at": 1550527986000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            198,
-            72,
-            115,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            12,
-            36,
-            3,
-            6,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            45,
-            7.5,
-            45,
-            90,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5664,
-          "recipe_id": 321,
-          "group_label": "Classic",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "037f0ba0-1f04-466e-8ff9-2c21b00580f8",
-          "fallback_published_recipe_uuids": [
-            "a53b3f0d-a60f-4228-8c78-5a04bf5d89ad",
-            "e52b272c-52b2-4b51-a7d4-ec22536e3f11",
-            "fc2cb687-99a9-4345-9ca4-5494c751f5d5"
-          ],
-          "first_published_at": 1550527951000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            72,
-            115,
-            264,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            12,
-            36,
-            3,
-            6,
-            3,
-            1.5,
-            1.5,
-            1.5,
-            7.5,
-            45,
-            45,
-            90,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2818,
-          "recipe_id": 321,
-          "group_label": "Low Carb",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 4,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "0712c5e9-a3c3-4d0f-90c1-27ec87793676",
-          "fallback_published_recipe_uuids": [
-            "fe459fae-2ebd-4c4a-871e-7b4f57474219",
-            "458e48d6-ce30-4ddb-aaca-933b3ab947c9",
-            "18939289-5c71-47c7-ab3d-596171c65fbc"
-          ],
-          "first_published_at": 1447956475000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            198,
-            72,
-            115,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            4,
-            12,
-            1,
-            2,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            15,
-            2.5,
-            15,
-            30,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2813,
-          "recipe_id": 321,
-          "group_label": "Classic",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "c4a5ddaf-ff5d-4a5e-9dfa-0d5f6d5a3738",
-          "fallback_published_recipe_uuids": [
-            "cfe4171d-e2e9-4153-90be-a4234cbd1e97",
-            "5c14c590-8f81-4f9b-a034-c6309de33399",
-            "e12c0a86-f979-42dc-8bf3-1c955b428fa1"
-          ],
-          "first_published_at": 1447956474000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            72,
-            115,
-            264,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            8,
-            24,
-            2,
-            4,
-            2,
-            1,
-            1,
-            1,
-            5,
-            30,
-            30,
-            60,
-            5,
-            2.5
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2811,
-          "recipe_id": 321,
-          "group_label": "Classic",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "d0ad0801-688b-4e00-bfd4-a34484fb5f6a",
-          "fallback_published_recipe_uuids": [
-            "01bd0384-cb92-4dc1-9c84-4a5c4a3af194",
-            "fd9f3f92-1609-4c41-9cbc-0eee00df44a0",
-            "a9a65dbe-b9c2-40fd-8b3a-141f10ed1522"
-          ],
-          "first_published_at": 1447956474000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            72,
-            115,
-            264,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            4,
-            12,
-            1,
-            2,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            2.5,
-            15,
-            15,
-            30,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2816,
-          "recipe_id": 321,
-          "group_label": "Low Carb",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 6,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "526e723d-1534-4398-b915-619841c0e8a4",
-          "fallback_published_recipe_uuids": [
-            "8c61139f-fdc5-4d3b-98a2-1fed0d40ef4e",
-            "0f0abc07-c1e9-415a-be22-2b2f4a85ffff",
-            "dcf1421f-907b-4cf3-ac5a-86cdf21a6952"
-          ],
-          "first_published_at": 1447956475000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            198,
-            72,
-            115,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            8,
-            24,
-            2,
-            4,
-            2,
-            1,
-            1,
-            1,
-            30,
-            5,
-            30,
-            60,
-            5,
-            2.5
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2817,
-          "recipe_id": 321,
-          "group_label": "Low Carb",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 5,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "53e13574-3813-4ecb-a1b5-b4e20dab48ee",
-          "fallback_published_recipe_uuids": [
-            "221f2c9e-3c03-4a2c-8878-caa3ea116a8d",
-            "32b242ba-5593-40d5-8a08-1dc6336ccb58",
-            "7326cc92-1b92-4d2e-8b41-f642315dcde8"
-          ],
-          "first_published_at": 1447956475000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            198,
-            72,
-            115,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            4,
-            354,
-            1,
-            59,
-            1,
-            0.5,
-            0.227,
-            0.5,
-            15,
-            2.5,
-            15,
-            30,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2815,
-          "recipe_id": 321,
-          "group_label": "Low Carb",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 7,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "902219fb-56f2-4c2c-8268-3666d858c2b3",
-          "fallback_published_recipe_uuids": [
-            "94c0b6b1-0b8c-467d-ad9a-7adeb85daa41",
-            "efda95ef-1609-4ca3-ab97-ab6bfe3d5066",
-            "8ff48dd2-96ae-4f2d-a125-26398f481250"
-          ],
-          "first_published_at": 1447956475000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            198,
-            72,
-            115,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            8,
-            708,
-            2,
-            118,
-            2,
-            1,
-            0.454,
-            1,
-            30,
-            5,
-            30,
-            60,
-            5,
-            2.5
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2814,
-          "recipe_id": 321,
-          "group_label": "Classic",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "d2a81465-7764-4a10-a8ae-f46bea5ca386",
-          "fallback_published_recipe_uuids": [
-            "91b010f6-903f-436e-81a6-19b2eb94e1e2",
-            "114a7f89-e3fc-43ba-8d63-71fdf583c138",
-            "ed94bef9-00c9-4ee8-a8f0-af9d38b416a3"
-          ],
-          "first_published_at": 1447956475000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            72,
-            115,
-            264,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            8,
-            708,
-            2,
-            118,
-            2,
-            1,
-            0.454,
-            1,
-            5,
-            30,
-            30,
-            60,
-            5,
-            2.5
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2812,
-          "recipe_id": 321,
-          "group_label": "Classic",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "2a4a050e-f35d-495e-8d67-958e1ac5af61",
-          "fallback_published_recipe_uuids": [
-            "41d32199-d791-4ebf-9be3-0353e96fb0cb",
-            "59976e13-10ef-4ca6-8053-7ad063f07bde",
-            "5ed1f7a7-82fa-45d5-8f1b-3de3d0c6b01d"
-          ],
-          "first_published_at": 1447956474000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            72,
-            115,
-            264,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            4,
-            354,
-            1,
-            59,
-            1,
-            0.5,
-            0.227,
-            0.5,
-            2.5,
-            15,
-            15,
-            30,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5666,
-          "recipe_id": 321,
-          "group_label": "Low Carb",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 7,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "1d28e3c9-36f2-4c90-9cdd-0ddb14e10b16",
-          "fallback_published_recipe_uuids": [
-            "28662a63-c8fa-4c81-839e-9b7679442f4b",
-            "c87012ec-36f7-4a00-9cf1-7cc08a874e0b",
-            "bfa7c015-220e-413c-b65d-c7e5341c74b4"
-          ],
-          "first_published_at": 1550527975000,
-          "allowed_type_ids": [
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            198,
-            72,
-            115,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            12,
-            1062,
-            3,
-            177,
-            3,
-            1.5,
-            0.681,
-            1.5,
-            45,
-            7.5,
-            45,
-            90,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5665,
-          "recipe_id": 321,
-          "group_label": "Classic",
-          "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
-          "published_recipe_uuid": "349ac0d1-1ccd-4f6e-8dbc-379246fa4494",
-          "fallback_published_recipe_uuids": [
-            "87daa618-59c0-4464-96dc-1a00c62e0c28",
-            "e9235e88-41a7-4ab0-a539-298d9195ec63",
-            "b84c83f1-5c14-4232-b714-615381ada38e"
-          ],
-          "first_published_at": 1550527961000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            302,
-            201,
-            24,
-            316,
-            247,
-            145,
-            19,
-            152,
-            72,
-            115,
-            264,
-            47,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            12,
-            1062,
-            3,
-            177,
-            3,
-            1.5,
-            0.681,
-            1.5,
-            7.5,
-            45,
-            45,
-            90,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.85,
-          "rating_count": 10,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 2813,
+  "recipe_id": 321,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Creamy Mushroom Bacon Soup with Pear & Mixed Greens Salad",
+  "slug": "creamy-mushroom-bacon-soup-pear-mixed-greens-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/thumbnail_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/321/presentation_9c8a0eba-3591-4e3e-8bbd-9f60b5dad5e8.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-mushroom-bacon-soup-pear-mixed-greens-salad",
-    "variantId": "2813"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 57,
+      "name": "ladle",
+      "slug": "ladle"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 27274,
+      "primary_message": "Wash and slice the mushrooms.",
+      "secondary_message": "1 lb white mushrooms"
+    },
+    {
+      "id": 27275,
+      "primary_message": "Peel and small dice the onion. Peel and mince the garlic.",
+      "secondary_message": "1 medium yellow onion\r\n2 cloves garlic"
+    },
+    {
+      "id": 27276,
+      "primary_message": "Melt butter in a medium saucepan over medium heat. Add the mushrooms, onion, and garlic. Season with thyme, salt, and pepper. Cook, stirring occasionally, until tender, 5-6 minutes.",
+      "secondary_message": "2 tbsp butter, unsalted\r\n½ tsp thyme\r\n1 tsp salt\r\n1 tsp black pepper"
+    },
+    {
+      "id": 27277,
+      "primary_message": "Heat a skillet over medium heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 27278,
+      "primary_message": "Chop the bacon into smaller pieces. Add to the skillet and cook until crispy, 3-4 minutes.",
+      "secondary_message": "8 slices bacon\r\n"
+    },
+    {
+      "id": 27279,
+      "primary_message": "Sprinkle cornstarch over the mushrooms and stir to coat.",
+      "secondary_message": "2 tbsp cornstarch\r\n"
+    },
+    {
+      "id": 27280,
+      "primary_message": "Pour in the broth and cream. Stir well and bring the soup to a simmer. Cook until thickened, 1-2 minutes.",
+      "secondary_message": "24 fl oz (3 cups) chicken or vegetable broth\n4 fl oz (½ cup) heavy cream"
+    },
+    {
+      "id": 27281,
+      "primary_message": "Wash and dry the greens.",
+      "secondary_message": "1 (5 oz) pkg spring mix (mixed greens)\r\n"
+    },
+    {
+      "id": 27282,
+      "primary_message": "Wash, core, and thinly slice the pears.",
+      "secondary_message": "2 pears\r\n"
+    },
+    {
+      "id": 27283,
+      "primary_message": "Purée the soup with an immersion (hand) blender or regular blender if desired. Otherwise, leave as is.",
+      "secondary_message": ""
+    },
+    {
+      "id": 27284,
+      "primary_message": "Arrange a bed of greens on a plate, top with pear slices, and drizzle with olive oil. Pour soup into a bowl and sprinkle with bacon. Enjoy!",
+      "secondary_message": "4 tbsp extra virgin olive oil\r\n"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 34754,
+      "quantity": "8 slices",
+      "ingredient_name": "bacon"
+    },
+    {
+      "id": 34753,
+      "quantity": "24 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 34752,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 34751,
+      "quantity": "4 fl oz",
+      "ingredient_name": "heavy whipping cream"
+    },
+    {
+      "id": 34749,
+      "quantity": "2",
+      "ingredient_name": "pears"
+    },
+    {
+      "id": 34750,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 34748,
+      "quantity": "1 lb",
+      "ingredient_name": "white mushrooms"
+    },
+    {
+      "id": 34747,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 34746,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 34745,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 34744,
+      "quantity": "",
+      "ingredient_name": "cornstarch"
+    },
+    {
+      "id": 34743,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 34742,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 34741,
+      "quantity": "",
+      "ingredient_name": "thyme, dried"
+    }
+  ],
+  "nutrition": {
+    "energy": 650.95,
+    "alcohol": 0,
+    "ash": 5.01,
+    "caffeine": 0,
+    "water": 461.28,
+    "carbs": 29.4,
+    "fiber": 5.33,
+    "starch": 7.26,
+    "sugars": 14.23,
+    "fructose": 6.46,
+    "galactose": 0.01,
+    "glucose": 4.86,
+    "lactose": 0.87,
+    "maltose": 0,
+    "sucrose": 1.66,
+    "sugar_alcohol": 0,
+    "fat": 54.55,
+    "monounsaturated": 25.05,
+    "polyunsaturated": 6.24,
+    "omega_3": 0.51,
+    "omega_6": 5.74,
+    "saturated": 20.33,
+    "transfats": 0.76,
+    "cholesterol": 93.19,
+    "protein": 16.32,
+    "alanine": 0.91,
+    "arginine": 0.87,
+    "aspartic_acid": 1.46,
+    "cystine": 0.16,
+    "glutamic_acid": 2.36,
+    "glycine": 0.67,
+    "histidine": 0.5,
+    "isoleucine": 0.71,
+    "leucine": 1.14,
+    "lysine": 1.18,
+    "methionine": 0.35,
+    "phenylalanine": 0.62,
+    "proline": 0.66,
+    "serine": 0.61,
+    "threonine": 0.67,
+    "tryptophan": 0.18,
+    "tyrosine": 0.52,
+    "valine": 0.91,
+    "b1_thiamine": 0.31,
+    "b2_riboflavin": 0.66,
+    "b3_niacin": 9.25,
+    "b5_pantothenic_acid": 2.53,
+    "b6_pyridoxine": 0.4,
+    "b12_cobalamin": 0.58,
+    "choline": 75.76,
+    "folate": 70.86,
+    "vitamin_a": 486.09,
+    "vitamin_c": 12.54,
+    "vitamin_d": 29.25,
+    "vitamin_e": 3.04,
+    "vitamin_k": 83.35,
+    "calcium": 71.86,
+    "copper": 0.6,
+    "iron": 2.15,
+    "magnesium": 40.85,
+    "manganese": 0.49,
+    "phosphorus": 288.06,
+    "potassium": 910.09,
+    "selenium": 22.77,
+    "sodium": 458.6,
+    "zinc": 1.82
+  }
 }

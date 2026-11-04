@@ -1,832 +1,315 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 15423,
-        "recipe_id": 1804,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
-        "slug": "salisbury-steak-mushroom-gravy-roasted-new-potatoes-broccoli",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 253891,
-            "primary_message": "Preheat oven to 425°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 253892,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 lb new potatoes\n1 lb cremini mushrooms\n2 crowns broccoli"
-          },
-          {
-            "id": 253893,
-            "primary_message": "Halve potatoes and place on a large baking sheet pan; drizzle with oil and season with spices. Toss to combine and spread out in an even layer.",
-            "secondary_message": "2 tsp extra virgin olive oil\n¼ tsp basil, dried\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 253894,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast until the potatoes start to soften, about 15 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 253895,
-            "primary_message": "Meanwhile, peel and mince garlic; peel and thinly slice onion. Transfer both to a medium bowl.",
-            "secondary_message": "2 cloves garlic\n1 medium yellow onion"
-          },
-          {
-            "id": 253896,
-            "primary_message": "Thinly slice mushrooms, add to the bowl with the garlic and onion, and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 253897,
-            "primary_message": "Place beef, eggs, bread crumbs, Dijon, Worcestershire, and spices in another medium bowl; mix with your hands until well combined. Form the beef mixture into 4 equal-sized patties and place on a plate.",
-            "secondary_message": "1 ½ lb lean ground beef\n2 eggs\n½ cup panko bread crumbs\n2 tbsp Dijon mustard\n2 tsp Worcestershire sauce\n1 tsp thyme, dried\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 253898,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 253899,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add patties and cook, undisturbed, for 5 minutes; flip and pan-fry until cooked through, 3-4 minutes more. Once done, transfer to a clean plate (leaving the cooking juices in the skillet) and loosely cover with aluminum foil.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 253900,
-            "primary_message": "Meanwhile, separate broccoli into bite-sized florets and cut stems into smaller pieces. ",
-            "secondary_message": null
-          },
-          {
-            "id": 253901,
-            "primary_message": "Remove baking sheet from the oven; add broccoli, drizzle with additional oil, and season with salt and pepper. Stir to combine with the potatoes and return to the oven. Roast until the veggies are fork-tender, 10 minutes more.",
-            "secondary_message": "2 tsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 253902,
-            "primary_message": "Return the skillet (with cooking juices) to medium heat, add more oil, and swirl to coat the bottom. Add garlic, onion, and mushrooms; cook, stirring often, until softened, about 5 minutes.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 253903,
-            "primary_message": "Sprinkle flour into the skillet and cook, stirring constantly, until fragrant, about 1 minute. Add broth and Worcestershire, stir to combine, and bring the gravy to a boil.",
-            "secondary_message": "2 tbsp all-purpose flour\n16 fl oz (2 cups) chicken or vegetable broth\n2 tsp Worcestershire sauce"
-          },
-          {
-            "id": 253904,
-            "primary_message": "Return patties to the skillet and cook, stirring occasionally, until the gravy has thickened and patties are warmed through, about 3 minutes. Remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 253905,
-            "primary_message": "To serve, divide potatoes, broccoli, and beef patties between plates. Top patties with mushroom gravy and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 267215,
-            "quantity": "2 crowns",
-            "ingredient_name": "broccoli"
-          },
-          {
-            "id": 267223,
-            "quantity": "16 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 267224,
-            "quantity": "1 lb",
-            "ingredient_name": "cremini mushrooms"
-          },
-          {
-            "id": 267219,
-            "quantity": "2",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 267209,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 267222,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 267225,
-            "quantity": "1 lb",
-            "ingredient_name": "new potatoes"
-          },
-          {
-            "id": 267221,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 267216,
-            "quantity": "",
-            "ingredient_name": "all-purpose flour"
-          },
-          {
-            "id": 267211,
-            "quantity": "",
-            "ingredient_name": "basil, dried"
-          },
-          {
-            "id": 267212,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 267217,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 267210,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 267218,
-            "quantity": "",
-            "ingredient_name": "panko bread crumbs"
-          },
-          {
-            "id": 267213,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 267214,
-            "quantity": "",
-            "ingredient_name": "thyme, dried"
-          },
-          {
-            "id": 267220,
-            "quantity": "",
-            "ingredient_name": "Worcestershire sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 702.02,
-          "alcohol": 0.01,
-          "ash": 8.34,
-          "caffeine": 0,
-          "water": 557.55,
-          "carbs": 43.64,
-          "fiber": 7.07,
-          "starch": 24.76,
-          "sugars": 7.27,
-          "fructose": 1.84,
-          "galactose": 0,
-          "glucose": 3.72,
-          "lactose": 0.18,
-          "maltose": 0.33,
-          "sucrose": 1.1,
-          "sugar_alcohol": 0,
-          "fat": 39,
-          "monounsaturated": 19.2,
-          "polyunsaturated": 2.7,
-          "omega_3": 0.39,
-          "omega_6": 2.4,
-          "saturated": 12.13,
-          "transfats": 1.52,
-          "cholesterol": 197.51,
-          "protein": 46.25,
-          "alanine": 2.72,
-          "arginine": 2.9,
-          "aspartic_acid": 4.48,
-          "cystine": 0.51,
-          "glutamic_acid": 7.36,
-          "glycine": 2.7,
-          "histidine": 1.38,
-          "isoleucine": 2,
-          "leucine": 3.41,
-          "lysine": 3.61,
-          "methionine": 1.11,
-          "phenylalanine": 1.86,
-          "proline": 2.38,
-          "serine": 1.96,
-          "threonine": 1.79,
-          "tryptophan": 0.36,
-          "tyrosine": 1.38,
-          "valine": 2.29,
-          "b1_thiamine": 0.46,
-          "b2_riboflavin": 1.16,
-          "b3_niacin": 16.63,
-          "b5_pantothenic_acid": 4.06,
-          "b6_pyridoxine": 1.22,
-          "b12_cobalamin": 4.15,
-          "choline": 235.21,
-          "folate": 146.55,
-          "vitamin_a": 760.55,
-          "vitamin_c": 90.02,
-          "vitamin_d": 26.54,
-          "vitamin_e": 3.23,
-          "vitamin_k": 98.04,
-          "calcium": 151.04,
-          "copper": 1,
-          "iron": 7.42,
-          "magnesium": 99.73,
-          "manganese": 1.02,
-          "phosphorus": 675.05,
-          "potassium": 2007.41,
-          "selenium": 71.26,
-          "sodium": 348.64,
-          "zinc": 10.27
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/salisbury-steak-mushroom-gravy-roasted-new-potatoes-broccoli/15423",
-      "altVariants": [
-        {
-          "id": 15423,
-          "recipe_id": 1804,
-          "group_label": "Default",
-          "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "published_recipe_uuid": "ad555de4-9617-48f7-9319-8fe54adffeb0",
-          "fallback_published_recipe_uuids": [
-            "b876b057-f479-4d24-991c-bd078b0892af"
-          ],
-          "first_published_at": 1637701204000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            11,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            105,
-            201,
-            230,
-            121,
-            24,
-            168,
-            238,
-            152,
-            116,
-            70,
-            72,
-            117,
-            47,
-            119,
-            88,
-            89,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            16,
-            1,
-            2,
-            2,
-            1.5,
-            1,
-            1,
-            30,
-            1.25,
-            5,
-            30,
-            40,
-            120,
-            7.5,
-            5,
-            20
-          ],
-          "average_rating": 0.83,
-          "rating_count": 72,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's comfort food season and we're not mad about it"
-        },
-        {
-          "id": 15424,
-          "recipe_id": 1804,
-          "group_label": "Default",
-          "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "published_recipe_uuid": "a17eb525-4385-4eb4-813b-c5bccaf33011",
-          "fallback_published_recipe_uuids": [
-            "4b9c8890-47d4-447f-9ad6-084dbc9ce569"
-          ],
-          "first_published_at": 1637701204000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            11,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            105,
-            201,
-            230,
-            121,
-            24,
-            168,
-            238,
-            152,
-            116,
-            70,
-            72,
-            117,
-            47,
-            119,
-            88,
-            89,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            24,
-            1.5,
-            3,
-            3,
-            2.25,
-            1.5,
-            1.5,
-            45,
-            2.5,
-            8.75,
-            45,
-            60,
-            180,
-            12.5,
-            7.5,
-            30
-          ],
-          "average_rating": 0.83,
-          "rating_count": 72,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's comfort food season and we're not mad about it"
-        },
-        {
-          "id": 15422,
-          "recipe_id": 1804,
-          "group_label": "Default",
-          "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "published_recipe_uuid": "e5066b6d-2b4b-4268-ba66-b90dc3562689",
-          "fallback_published_recipe_uuids": [
-            "49932f99-388c-4b46-8884-49261b65e740"
-          ],
-          "first_published_at": 1637701204000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            11,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            105,
-            201,
-            230,
-            121,
-            24,
-            168,
-            238,
-            152,
-            116,
-            70,
-            72,
-            117,
-            47,
-            119,
-            88,
-            89,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            0.5,
-            1,
-            1,
-            0.75,
-            0.5,
-            0.5,
-            15,
-            0.625,
-            2.5,
-            15,
-            20,
-            60,
-            3.75,
-            2.5,
-            10
-          ],
-          "average_rating": 0.83,
-          "rating_count": 72,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's comfort food season and we're not mad about it"
-        },
-        {
-          "id": 15427,
-          "recipe_id": 1804,
-          "group_label": "Default",
-          "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "published_recipe_uuid": "39c1cece-77cb-4b35-b40d-c1114f3eafb5",
-          "fallback_published_recipe_uuids": [
-            "19f838bd-b78e-4f0b-8e46-fe11bfe9d26f"
-          ],
-          "first_published_at": 1637701203000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            11,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            105,
-            201,
-            230,
-            121,
-            24,
-            168,
-            238,
-            152,
-            116,
-            70,
-            72,
-            117,
-            47,
-            119,
-            88,
-            89,
-            136
-          ],
-          "ingredient_amounts": [
-            3,
-            710,
-            0.68,
-            3,
-            3,
-            1.02,
-            0.68,
-            1.5,
-            45,
-            2.5,
-            8.75,
-            45,
-            60,
-            180,
-            12.5,
-            7.5,
-            30
-          ],
-          "average_rating": 0.83,
-          "rating_count": 72,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's comfort food season and we're not mad about it"
-        },
-        {
-          "id": 15426,
-          "recipe_id": 1804,
-          "group_label": "Default",
-          "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "published_recipe_uuid": "c380894f-8792-4343-9f85-08a6e8046d2c",
-          "fallback_published_recipe_uuids": [
-            "7a9cf0e4-3836-4a1d-ad3f-40cd6be8746c"
-          ],
-          "first_published_at": 1637701203000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            11,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            105,
-            201,
-            230,
-            121,
-            24,
-            168,
-            238,
-            152,
-            116,
-            70,
-            72,
-            117,
-            47,
-            119,
-            88,
-            89,
-            136
-          ],
-          "ingredient_amounts": [
-            2,
-            473,
-            0.45,
-            2,
-            2,
-            0.68,
-            0.45,
-            1,
-            30,
-            1.25,
-            5,
-            30,
-            40,
-            120,
-            7.5,
-            5,
-            20
-          ],
-          "average_rating": 0.83,
-          "rating_count": 72,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's comfort food season and we're not mad about it"
-        },
-        {
-          "id": 15425,
-          "recipe_id": 1804,
-          "group_label": "Default",
-          "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
-          "published_recipe_uuid": "3a8a4115-1ba8-4494-8057-a8a557a946da",
-          "fallback_published_recipe_uuids": [
-            "22082e00-d001-44b9-8dcc-5c01fb59be93"
-          ],
-          "first_published_at": 1637701204000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            14,
-            13,
-            11,
-            10,
-            3
-          ],
-          "ingredient_ids": [
-            105,
-            201,
-            230,
-            121,
-            24,
-            168,
-            238,
-            152,
-            116,
-            70,
-            72,
-            117,
-            47,
-            119,
-            88,
-            89,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            237,
-            0.23,
-            1,
-            1,
-            0.34,
-            0.23,
-            0.5,
-            15,
-            0.625,
-            2.5,
-            15,
-            20,
-            60,
-            3.75,
-            2.5,
-            10
-          ],
-          "average_rating": 0.83,
-          "rating_count": 72,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's comfort food season and we're not mad about it"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "It's comfort food season and we're not mad about it",
-        "keywords": [
-          "Pan-Fried"
-        ],
-        "cuisine": "American",
-        "reviewCount": 72,
-        "reviewScore": 4.1
-      }
+  "id": 15423,
+  "recipe_id": 1804,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Salisbury Steak with Mushroom Gravy, Roasted New Potatoes & Broccoli",
+  "slug": "salisbury-steak-mushroom-gravy-roasted-new-potatoes-broccoli",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/thumbnail_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1804/presentation_0d0baff5-0096-4411-9ec9-ad8b4e30ba31.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "salisbury-steak-mushroom-gravy-roasted-new-potatoes-broccoli",
-    "variantId": "15423"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 253891,
+      "primary_message": "Preheat oven to 425°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 253892,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 lb new potatoes\n1 lb cremini mushrooms\n2 crowns broccoli"
+    },
+    {
+      "id": 253893,
+      "primary_message": "Halve potatoes and place on a large baking sheet pan; drizzle with oil and season with spices. Toss to combine and spread out in an even layer.",
+      "secondary_message": "2 tsp extra virgin olive oil\n¼ tsp basil, dried\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 253894,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and roast until the potatoes start to soften, about 15 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 253895,
+      "primary_message": "Meanwhile, peel and mince garlic; peel and thinly slice onion. Transfer both to a medium bowl.",
+      "secondary_message": "2 cloves garlic\n1 medium yellow onion"
+    },
+    {
+      "id": 253896,
+      "primary_message": "Thinly slice mushrooms, add to the bowl with the garlic and onion, and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 253897,
+      "primary_message": "Place beef, eggs, bread crumbs, Dijon, Worcestershire, and spices in another medium bowl; mix with your hands until well combined. Form the beef mixture into 4 equal-sized patties and place on a plate.",
+      "secondary_message": "1 ½ lb lean ground beef\n2 eggs\n½ cup panko bread crumbs\n2 tbsp Dijon mustard\n2 tsp Worcestershire sauce\n1 tsp thyme, dried\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 253898,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 253899,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add patties and cook, undisturbed, for 5 minutes; flip and pan-fry until cooked through, 3-4 minutes more. Once done, transfer to a clean plate (leaving the cooking juices in the skillet) and loosely cover with aluminum foil.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 253900,
+      "primary_message": "Meanwhile, separate broccoli into bite-sized florets and cut stems into smaller pieces. ",
+      "secondary_message": null
+    },
+    {
+      "id": 253901,
+      "primary_message": "Remove baking sheet from the oven; add broccoli, drizzle with additional oil, and season with salt and pepper. Stir to combine with the potatoes and return to the oven. Roast until the veggies are fork-tender, 10 minutes more.",
+      "secondary_message": "2 tsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 253902,
+      "primary_message": "Return the skillet (with cooking juices) to medium heat, add more oil, and swirl to coat the bottom. Add garlic, onion, and mushrooms; cook, stirring often, until softened, about 5 minutes.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 253903,
+      "primary_message": "Sprinkle flour into the skillet and cook, stirring constantly, until fragrant, about 1 minute. Add broth and Worcestershire, stir to combine, and bring the gravy to a boil.",
+      "secondary_message": "2 tbsp all-purpose flour\n16 fl oz (2 cups) chicken or vegetable broth\n2 tsp Worcestershire sauce"
+    },
+    {
+      "id": 253904,
+      "primary_message": "Return patties to the skillet and cook, stirring occasionally, until the gravy has thickened and patties are warmed through, about 3 minutes. Remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 253905,
+      "primary_message": "To serve, divide potatoes, broccoli, and beef patties between plates. Top patties with mushroom gravy and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 267215,
+      "quantity": "2 crowns",
+      "ingredient_name": "broccoli"
+    },
+    {
+      "id": 267223,
+      "quantity": "16 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 267224,
+      "quantity": "1 lb",
+      "ingredient_name": "cremini mushrooms"
+    },
+    {
+      "id": 267219,
+      "quantity": "2",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 267209,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 267222,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 267225,
+      "quantity": "1 lb",
+      "ingredient_name": "new potatoes"
+    },
+    {
+      "id": 267221,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 267216,
+      "quantity": "",
+      "ingredient_name": "all-purpose flour"
+    },
+    {
+      "id": 267211,
+      "quantity": "",
+      "ingredient_name": "basil, dried"
+    },
+    {
+      "id": 267212,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 267217,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 267210,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 267218,
+      "quantity": "",
+      "ingredient_name": "panko bread crumbs"
+    },
+    {
+      "id": 267213,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 267214,
+      "quantity": "",
+      "ingredient_name": "thyme, dried"
+    },
+    {
+      "id": 267220,
+      "quantity": "",
+      "ingredient_name": "Worcestershire sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 702.02,
+    "alcohol": 0.01,
+    "ash": 8.34,
+    "caffeine": 0,
+    "water": 557.55,
+    "carbs": 43.64,
+    "fiber": 7.07,
+    "starch": 24.76,
+    "sugars": 7.27,
+    "fructose": 1.84,
+    "galactose": 0,
+    "glucose": 3.72,
+    "lactose": 0.18,
+    "maltose": 0.33,
+    "sucrose": 1.1,
+    "sugar_alcohol": 0,
+    "fat": 39,
+    "monounsaturated": 19.2,
+    "polyunsaturated": 2.7,
+    "omega_3": 0.39,
+    "omega_6": 2.4,
+    "saturated": 12.13,
+    "transfats": 1.52,
+    "cholesterol": 197.51,
+    "protein": 46.25,
+    "alanine": 2.72,
+    "arginine": 2.9,
+    "aspartic_acid": 4.48,
+    "cystine": 0.51,
+    "glutamic_acid": 7.36,
+    "glycine": 2.7,
+    "histidine": 1.38,
+    "isoleucine": 2,
+    "leucine": 3.41,
+    "lysine": 3.61,
+    "methionine": 1.11,
+    "phenylalanine": 1.86,
+    "proline": 2.38,
+    "serine": 1.96,
+    "threonine": 1.79,
+    "tryptophan": 0.36,
+    "tyrosine": 1.38,
+    "valine": 2.29,
+    "b1_thiamine": 0.46,
+    "b2_riboflavin": 1.16,
+    "b3_niacin": 16.63,
+    "b5_pantothenic_acid": 4.06,
+    "b6_pyridoxine": 1.22,
+    "b12_cobalamin": 4.15,
+    "choline": 235.21,
+    "folate": 146.55,
+    "vitamin_a": 760.55,
+    "vitamin_c": 90.02,
+    "vitamin_d": 26.54,
+    "vitamin_e": 3.23,
+    "vitamin_k": 98.04,
+    "calcium": 151.04,
+    "copper": 1,
+    "iron": 7.42,
+    "magnesium": 99.73,
+    "manganese": 1.02,
+    "phosphorus": 675.05,
+    "potassium": 2007.41,
+    "selenium": 71.26,
+    "sodium": 348.64,
+    "zinc": 10.27
+  }
 }

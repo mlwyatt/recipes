@@ -1,620 +1,205 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 17949,
-        "recipe_id": 2100,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
-        "slug": "california-turkey-tostadas-guacamole-tomatoes-ranch-dressing",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 294068,
-            "primary_message": "Preheat oven to 400°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 294069,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 pint grape tomatoes\n2 hearts romaine hearts\n1 lime"
-          },
-          {
-            "id": 294070,
-            "primary_message": "Drizzle both sides of the tortillas with oil and sprinkle with salt; divide between two baking sheet pans. Place in the oven (it doesn't have to be fully heated), and bake, flipping halfway through, until the tortillas are golden brown and crispy, 10-15 minutes. Remove from oven.",
-            "secondary_message": "12 small corn tortillas\n4 tsp extra virgin olive oil\n½ tsp salt"
-          },
-          {
-            "id": 294071,
-            "primary_message": "Meanwhile, halve tomatoes and place on a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 294072,
-            "primary_message": "Halve lettuce lengthwise, then chop crosswise into thin (shred-like) strips; add to the plate with the tomatoes.",
-            "secondary_message": null
-          },
-          {
-            "id": 294073,
-            "primary_message": "Cut lime into wedges and add to the plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 294074,
-            "primary_message": "To serve, divide the tortillas between plates and spread with guacamole; top with turkey, tomatoes, and lettuce. Drizzle with dressing, juice lime over top, and enjoy!",
-            "secondary_message": "1 cup guacamole\n16 oz oven roasted turkey breast, sliced\n½ cup ranch dressing"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 311720,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 311725,
-            "quantity": "1 cup",
-            "ingredient_name": "guacamole"
-          },
-          {
-            "id": 311719,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 311723,
-            "quantity": "16 oz",
-            "ingredient_name": "oven roasted turkey breast, sliced"
-          },
-          {
-            "id": 311722,
-            "quantity": "½ cup",
-            "ingredient_name": "ranch dressing"
-          },
-          {
-            "id": 311724,
-            "quantity": "2 hearts",
-            "ingredient_name": "romaine hearts"
-          },
-          {
-            "id": 311721,
-            "quantity": "12",
-            "ingredient_name": "small corn tortillas"
-          },
-          {
-            "id": 311717,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 311718,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 565.52,
-          "alcohol": 0,
-          "ash": 2.93,
-          "caffeine": 0,
-          "water": 307.13,
-          "carbs": 47.01,
-          "fiber": 10.5,
-          "starch": 27.72,
-          "sugars": 6.24,
-          "fructose": 1.7,
-          "galactose": 0,
-          "glucose": 1.41,
-          "lactose": 0.41,
-          "maltose": 0.24,
-          "sucrose": 1.01,
-          "sugar_alcohol": 0,
-          "fat": 33.18,
-          "monounsaturated": 13.61,
-          "polyunsaturated": 11.68,
-          "omega_3": 1.29,
-          "omega_6": 10.26,
-          "saturated": 5.37,
-          "transfats": 0.06,
-          "cholesterol": 63.44,
-          "protein": 23.83,
-          "alanine": 0.37,
-          "arginine": 0.26,
-          "aspartic_acid": 0.48,
-          "cystine": 0.09,
-          "glutamic_acid": 1.2,
-          "glycine": 0.21,
-          "histidine": 0.15,
-          "isoleucine": 0.19,
-          "leucine": 0.57,
-          "lysine": 0.17,
-          "methionine": 0.1,
-          "phenylalanine": 0.26,
-          "proline": 0.4,
-          "serine": 0.25,
-          "threonine": 0.2,
-          "tryptophan": 0.04,
-          "tyrosine": 0.19,
-          "valine": 0.26,
-          "b1_thiamine": 0.22,
-          "b2_riboflavin": 0.37,
-          "b3_niacin": 10.82,
-          "b5_pantothenic_acid": 0.32,
-          "b6_pyridoxine": 0.88,
-          "b12_cobalamin": 0.47,
-          "choline": 72.88,
-          "folate": 145.32,
-          "vitamin_a": 5552.72,
-          "vitamin_c": 21.35,
-          "vitamin_d": 0.26,
-          "vitamin_e": 3.35,
-          "vitamin_k": 119.3,
-          "calcium": 117.39,
-          "copper": 0.33,
-          "iron": 2.55,
-          "magnesium": 108.23,
-          "manganese": 0.42,
-          "phosphorus": 630.79,
-          "potassium": 1176.6,
-          "selenium": 20.67,
-          "sodium": 1537.89,
-          "zinc": 2.69
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/california-turkey-tostadas-guacamole-tomatoes-ranch-dressing/17949",
-      "altVariants": [
-        {
-          "id": 17950,
-          "recipe_id": 2100,
-          "group_label": "Default",
-          "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "published_recipe_uuid": "2646cdcb-e407-4a10-a512-b863b9a04483",
-          "fallback_published_recipe_uuids": [
-            "ad52beff-5717-4a96-b44b-1eda1ea35ad1",
-            "0649fa44-3249-400b-b45c-9dba0ae3338d",
-            "01b2025c-4dac-4863-aa43-b4b73eeed73f"
-          ],
-          "first_published_at": 1642524071000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            277,
-            441,
-            228,
-            416,
-            406,
-            440,
-            321,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            24,
-            180,
-            3,
-            18,
-            30,
-            3.75
-          ],
-          "average_rating": 0.788,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Tostadas are meant to be messy so our strategy is load them up and don't hold back!"
-        },
-        {
-          "id": 17949,
-          "recipe_id": 2100,
-          "group_label": "Default",
-          "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "published_recipe_uuid": "9fc6a5f8-a58d-4067-ab1c-55952a06994c",
-          "fallback_published_recipe_uuids": [
-            "897da0f6-7b68-424e-98df-ffa86fda458e",
-            "a7da5caa-ca5b-417f-be4f-a0dd680acd50",
-            "6b138cb2-0134-4fc6-aa96-4c6542ee6cfc"
-          ],
-          "first_published_at": 1642524071000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            277,
-            441,
-            228,
-            416,
-            406,
-            440,
-            321,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            16,
-            120,
-            2,
-            12,
-            20,
-            2.5
-          ],
-          "average_rating": 0.788,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Tostadas are meant to be messy so our strategy is load them up and don't hold back!"
-        },
-        {
-          "id": 17948,
-          "recipe_id": 2100,
-          "group_label": "Default",
-          "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "published_recipe_uuid": "3199293f-16d5-4a79-948f-d804a95b4ba8",
-          "fallback_published_recipe_uuids": [
-            "7578dc3a-faac-4b63-ae9f-d4c8e0ff4b6e",
-            "78ad969e-9e58-424e-bdf2-75387c7b39d7",
-            "935381e9-fc87-4bb4-af02-d24ae361bf8e"
-          ],
-          "first_published_at": 1642524069000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            277,
-            441,
-            228,
-            416,
-            406,
-            440,
-            321,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            8,
-            60,
-            1,
-            6,
-            10,
-            1.25
-          ],
-          "average_rating": 0.788,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Tostadas are meant to be messy so our strategy is load them up and don't hold back!"
-        },
-        {
-          "id": 17953,
-          "recipe_id": 2100,
-          "group_label": "Default",
-          "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "published_recipe_uuid": "80c4fd7f-a457-4725-b609-82bc7c5e8d8b",
-          "fallback_published_recipe_uuids": [
-            "6551ae67-44e4-40fb-9bc9-dd117a705def",
-            "87f58833-b8f9-43e0-8b3b-538edcf9a709",
-            "8c7c601a-9493-4eb1-a358-12263b4eab42"
-          ],
-          "first_published_at": 1642524072000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            277,
-            441,
-            228,
-            416,
-            406,
-            440,
-            321,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            1.5,
-            680,
-            180,
-            3,
-            18,
-            30,
-            3.75
-          ],
-          "average_rating": 0.788,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Tostadas are meant to be messy so our strategy is load them up and don't hold back!"
-        },
-        {
-          "id": 17952,
-          "recipe_id": 2100,
-          "group_label": "Default",
-          "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "published_recipe_uuid": "f78e9ca7-f877-4bf3-9e80-917197520c07",
-          "fallback_published_recipe_uuids": [
-            "2bb7234a-8914-40ca-8abd-8615779bec23",
-            "cd68e335-28ec-418a-9387-7e37c6a450f5",
-            "3d7260c1-c51b-4b4b-9eef-e98f1fbf73d2"
-          ],
-          "first_published_at": 1642524072000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            277,
-            441,
-            228,
-            416,
-            406,
-            440,
-            321,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            454,
-            120,
-            2,
-            12,
-            20,
-            2.5
-          ],
-          "average_rating": 0.788,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Tostadas are meant to be messy so our strategy is load them up and don't hold back!"
-        },
-        {
-          "id": 17951,
-          "recipe_id": 2100,
-          "group_label": "Default",
-          "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
-          "published_recipe_uuid": "95db2ca5-427a-46c5-a3d0-b79a251fc698",
-          "fallback_published_recipe_uuids": [
-            "371e0c57-ed72-4def-95d3-1b2d9cba7970",
-            "8d8a1b6c-d62b-4d52-b3b9-90f01f18c423",
-            "8a5e248b-47c5-44b8-a3a3-c28a712748d8"
-          ],
-          "first_published_at": 1642524071000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            11,
-            2
-          ],
-          "ingredient_ids": [
-            277,
-            441,
-            228,
-            416,
-            406,
-            440,
-            321,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            0.5,
-            227,
-            60,
-            1,
-            6,
-            10,
-            1.25
-          ],
-          "average_rating": 0.788,
-          "rating_count": 13,
-          "variety_tag_ids": [
-            12
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Tostadas are meant to be messy so our strategy is load them up and don't hold back!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Tostadas are meant to be messy so our strategy is load them up and don't hold back!",
-        "keywords": [
-          "Tacos & Quesadillas"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 17949,
+  "recipe_id": 2100,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "California Turkey Tostadas with Guacamole, Tomatoes & Ranch Dressing",
+  "slug": "california-turkey-tostadas-guacamole-tomatoes-ranch-dressing",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/thumbnail_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2100/presentation_5238126b-88b9-4bf5-b711-d9d0ec9edfef.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "california-turkey-tostadas-guacamole-tomatoes-ranch-dressing",
-    "variantId": "17949"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 294068,
+      "primary_message": "Preheat oven to 400°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 294069,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 pint grape tomatoes\n2 hearts romaine hearts\n1 lime"
+    },
+    {
+      "id": 294070,
+      "primary_message": "Drizzle both sides of the tortillas with oil and sprinkle with salt; divide between two baking sheet pans. Place in the oven (it doesn't have to be fully heated), and bake, flipping halfway through, until the tortillas are golden brown and crispy, 10-15 minutes. Remove from oven.",
+      "secondary_message": "12 small corn tortillas\n4 tsp extra virgin olive oil\n½ tsp salt"
+    },
+    {
+      "id": 294071,
+      "primary_message": "Meanwhile, halve tomatoes and place on a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 294072,
+      "primary_message": "Halve lettuce lengthwise, then chop crosswise into thin (shred-like) strips; add to the plate with the tomatoes.",
+      "secondary_message": null
+    },
+    {
+      "id": 294073,
+      "primary_message": "Cut lime into wedges and add to the plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 294074,
+      "primary_message": "To serve, divide the tortillas between plates and spread with guacamole; top with turkey, tomatoes, and lettuce. Drizzle with dressing, juice lime over top, and enjoy!",
+      "secondary_message": "1 cup guacamole\n16 oz oven roasted turkey breast, sliced\n½ cup ranch dressing"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 311720,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 311725,
+      "quantity": "1 cup",
+      "ingredient_name": "guacamole"
+    },
+    {
+      "id": 311719,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 311723,
+      "quantity": "16 oz",
+      "ingredient_name": "oven roasted turkey breast, sliced"
+    },
+    {
+      "id": 311722,
+      "quantity": "½ cup",
+      "ingredient_name": "ranch dressing"
+    },
+    {
+      "id": 311724,
+      "quantity": "2 hearts",
+      "ingredient_name": "romaine hearts"
+    },
+    {
+      "id": 311721,
+      "quantity": "12",
+      "ingredient_name": "small corn tortillas"
+    },
+    {
+      "id": 311717,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 311718,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 565.52,
+    "alcohol": 0,
+    "ash": 2.93,
+    "caffeine": 0,
+    "water": 307.13,
+    "carbs": 47.01,
+    "fiber": 10.5,
+    "starch": 27.72,
+    "sugars": 6.24,
+    "fructose": 1.7,
+    "galactose": 0,
+    "glucose": 1.41,
+    "lactose": 0.41,
+    "maltose": 0.24,
+    "sucrose": 1.01,
+    "sugar_alcohol": 0,
+    "fat": 33.18,
+    "monounsaturated": 13.61,
+    "polyunsaturated": 11.68,
+    "omega_3": 1.29,
+    "omega_6": 10.26,
+    "saturated": 5.37,
+    "transfats": 0.06,
+    "cholesterol": 63.44,
+    "protein": 23.83,
+    "alanine": 0.37,
+    "arginine": 0.26,
+    "aspartic_acid": 0.48,
+    "cystine": 0.09,
+    "glutamic_acid": 1.2,
+    "glycine": 0.21,
+    "histidine": 0.15,
+    "isoleucine": 0.19,
+    "leucine": 0.57,
+    "lysine": 0.17,
+    "methionine": 0.1,
+    "phenylalanine": 0.26,
+    "proline": 0.4,
+    "serine": 0.25,
+    "threonine": 0.2,
+    "tryptophan": 0.04,
+    "tyrosine": 0.19,
+    "valine": 0.26,
+    "b1_thiamine": 0.22,
+    "b2_riboflavin": 0.37,
+    "b3_niacin": 10.82,
+    "b5_pantothenic_acid": 0.32,
+    "b6_pyridoxine": 0.88,
+    "b12_cobalamin": 0.47,
+    "choline": 72.88,
+    "folate": 145.32,
+    "vitamin_a": 5552.72,
+    "vitamin_c": 21.35,
+    "vitamin_d": 0.26,
+    "vitamin_e": 3.35,
+    "vitamin_k": 119.3,
+    "calcium": 117.39,
+    "copper": 0.33,
+    "iron": 2.55,
+    "magnesium": 108.23,
+    "manganese": 0.42,
+    "phosphorus": 630.79,
+    "potassium": 1176.6,
+    "selenium": 20.67,
+    "sodium": 1537.89,
+    "zinc": 2.69
+  }
 }

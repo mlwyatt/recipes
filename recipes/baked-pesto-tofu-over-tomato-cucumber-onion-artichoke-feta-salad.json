@@ -1,1168 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 18774,
-        "recipe_id": 2186,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-        "slug": "baked-pesto-tofu-over-tomato-cucumber-onion-artichoke-feta-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 309019,
-            "primary_message": "Preheat oven to 450°F. Coat a large baking sheet pan with a thin layer of oil.",
-            "secondary_message": "2 tsp extra virgin olive oil"
-          },
-          {
-            "id": 309020,
-            "primary_message": "Cut tofu in half along the long side. Sandwich tofu between clean towels or paper towels and place on another baking sheet. Place a cutting board with something heavy on top and set aside to press out excess water.",
-            "secondary_message": "2 (12 oz) pkg extra firm tofu"
-          },
-          {
-            "id": 309021,
-            "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
-            "secondary_message": "2 pints grape tomatoes\n1 English cucumber\n2 (5 oz) pkgs spring mix (mixed greens)"
-          },
-          {
-            "id": 309022,
-            "primary_message": "Medium dice tofu and place in a large bowl. Sprinkle with salt, drizzle with pesto, and gently stir to coat.",
-            "secondary_message": "½ tsp salt\n½ cup basil pesto"
-          },
-          {
-            "id": 309023,
-            "primary_message": "Sprinkle bread crumbs over the tofu and stir once more to coat. Transfer tofu to the baking sheet and spread out in a single layer. (Wipe the bowl clean with paper towels and set aside for the salad.)",
-            "secondary_message": "1 cup panko bread crumbs"
-          },
-          {
-            "id": 309024,
-            "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and bake, tossing halfway through, until tofu is golden brown, 18-20 minutes. Remove from oven.",
-            "secondary_message": null
-          },
-          {
-            "id": 309025,
-            "primary_message": "Meanwhile, peel, halve, and thinly slice onion. Place in the reserved bowl, along with vinaigrette, and toss to coat.",
-            "secondary_message": "1 medium red onion\n⅓ cup French vinaigrette"
-          },
-          {
-            "id": 309026,
-            "primary_message": "Halve tomatoes and add to the bowl with the onion.",
-            "secondary_message": null
-          },
-          {
-            "id": 309027,
-            "primary_message": "Trim and medium dice cucumber; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 309028,
-            "primary_message": "Drain and thinly slice artichokes; add to the bowl.",
-            "secondary_message": "2 (6 oz) jars artichoke hearts, marinated"
-          },
-          {
-            "id": 309029,
-            "primary_message": "Just before serving, add mixed greens and feta to the bowl with the other veggies; toss to combine the salad. ",
-            "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
-          },
-          {
-            "id": 309030,
-            "primary_message": "To serve, divide salad between plates or bowls; top with tofu and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 328035,
-            "quantity": "2 (6 oz) jars",
-            "ingredient_name": "artichoke hearts, marinated"
-          },
-          {
-            "id": 328036,
-            "quantity": "½ cup",
-            "ingredient_name": "basil pesto"
-          },
-          {
-            "id": 328026,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 328032,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 328028,
-            "quantity": "2 (12 oz) pkg",
-            "ingredient_name": "extra firm tofu"
-          },
-          {
-            "id": 328037,
-            "quantity": "90 ml",
-            "ingredient_name": "French vinaigrette"
-          },
-          {
-            "id": 328034,
-            "quantity": "2 pints",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 328033,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 328031,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 328027,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 328030,
-            "quantity": "",
-            "ingredient_name": "panko bread crumbs"
-          },
-          {
-            "id": 328029,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 625.91,
-          "alcohol": 0,
-          "ash": 7.92,
-          "caffeine": 0,
-          "water": 508.28,
-          "carbs": 37.65,
-          "fiber": 9.37,
-          "starch": 10.86,
-          "sugars": 12.25,
-          "fructose": 3.68,
-          "galactose": 0.07,
-          "glucose": 3.62,
-          "lactose": 3.02,
-          "maltose": 0.3,
-          "sucrose": 1.55,
-          "sugar_alcohol": 0,
-          "fat": 42.21,
-          "monounsaturated": 17.53,
-          "polyunsaturated": 4,
-          "omega_3": 0.79,
-          "omega_6": 3.17,
-          "saturated": 8.77,
-          "transfats": 0.44,
-          "cholesterol": 25.14,
-          "protein": 30.57,
-          "alanine": 1.05,
-          "arginine": 1.47,
-          "aspartic_acid": 2.55,
-          "cystine": 0.32,
-          "glutamic_acid": 5.19,
-          "glycine": 0.85,
-          "histidine": 0.7,
-          "isoleucine": 1.24,
-          "leucine": 1.95,
-          "lysine": 1.64,
-          "methionine": 0.38,
-          "phenylalanine": 1.22,
-          "proline": 1.58,
-          "serine": 1.31,
-          "threonine": 1.03,
-          "tryptophan": 0.37,
-          "tyrosine": 0.87,
-          "valine": 1.34,
-          "b1_thiamine": 0.49,
-          "b2_riboflavin": 0.77,
-          "b3_niacin": 3.74,
-          "b5_pantothenic_acid": 2.33,
-          "b6_pyridoxine": 0.56,
-          "b12_cobalamin": 0.53,
-          "choline": 97.64,
-          "folate": 214.45,
-          "vitamin_a": 1873.35,
-          "vitamin_c": 35.48,
-          "vitamin_d": 4.52,
-          "vitamin_e": 4,
-          "vitamin_k": 222.54,
-          "calcium": 638.08,
-          "copper": 0.64,
-          "iron": 6.03,
-          "magnesium": 185.24,
-          "manganese": 2.26,
-          "phosphorus": 557.82,
-          "potassium": 1291.63,
-          "selenium": 30.91,
-          "sodium": 965.09,
-          "zinc": 4.24
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/baked-pesto-tofu-over-tomato-cucumber-onion-artichoke-feta-salad/18774",
-      "altVariants": [
-        {
-          "id": 18778,
-          "recipe_id": 2186,
-          "group_label": "Default auto-gluten-free",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "715dd6ed-3017-4633-a0f8-35310f36ec5b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575072000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            211,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            180,
-            1.5,
-            1.5,
-            3,
-            135,
-            3,
-            1.5,
-            3,
-            15,
-            360,
-            3.75
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18776,
-          "recipe_id": 2186,
-          "group_label": "Default auto-gluten-free",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "9f7eb673-7980-43a8-90a8-c8c2038b3cdd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575073000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            211,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            60,
-            0.5,
-            0.5,
-            1,
-            45,
-            1,
-            0.5,
-            1,
-            5,
-            120,
-            1.25
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18773,
-          "recipe_id": 2186,
-          "group_label": "Default",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "29339d3a-e75f-46b2-8754-32bc15834230",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575073000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            60,
-            0.5,
-            0.5,
-            1,
-            45,
-            1,
-            0.5,
-            1,
-            5,
-            120,
-            1.25
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18775,
-          "recipe_id": 2186,
-          "group_label": "Default",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "d3186635-86aa-4b71-a5eb-b4d367855bb9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575073000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            180,
-            1.5,
-            1.5,
-            3,
-            135,
-            3,
-            1.5,
-            3,
-            15,
-            360,
-            3.75
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18774,
-          "recipe_id": 2186,
-          "group_label": "Default",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "bfefdcde-b152-4a3f-a7df-070ebe164a58",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575073000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            120,
-            1,
-            1,
-            2,
-            90,
-            2,
-            1,
-            2,
-            10,
-            240,
-            2.5
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18777,
-          "recipe_id": 2186,
-          "group_label": "Default auto-gluten-free",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "f940059e-ce84-462c-9707-20e3025cecc4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575072000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            211,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            120,
-            1,
-            1,
-            2,
-            90,
-            2,
-            1,
-            2,
-            10,
-            240,
-            2.5
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18779,
-          "recipe_id": 2186,
-          "group_label": "Default",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "5c477a37-fd51-4309-b2af-64af233fd308",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575072000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            60,
-            0.5,
-            0.5,
-            1,
-            45,
-            1,
-            0.5,
-            1,
-            5,
-            120,
-            1.25
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18780,
-          "recipe_id": 2186,
-          "group_label": "Default",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "7a45841d-8e63-42dc-8e16-46ca565f7a51",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575071000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            120,
-            1,
-            1,
-            2,
-            90,
-            2,
-            1,
-            2,
-            10,
-            240,
-            2.5
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18781,
-          "recipe_id": 2186,
-          "group_label": "Default",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "ae5c1f19-c6bb-4557-9928-72e7267a8a17",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575071000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            119,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            180,
-            1.5,
-            1.5,
-            3,
-            135,
-            3,
-            1.5,
-            3,
-            15,
-            360,
-            3.75
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18782,
-          "recipe_id": 2186,
-          "group_label": "Default auto-gluten-free",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "411f2a28-61ce-4e29-9d49-7d5c528e3041",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575071000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            211,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            60,
-            0.5,
-            0.5,
-            1,
-            45,
-            1,
-            0.5,
-            1,
-            5,
-            120,
-            1.25
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18783,
-          "recipe_id": 2186,
-          "group_label": "Default auto-gluten-free",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "a303c009-f5c2-46fb-9d42-269cd4fe07dd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575070000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            211,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            120,
-            1,
-            1,
-            2,
-            90,
-            2,
-            1,
-            2,
-            10,
-            240,
-            2.5
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        },
-        {
-          "id": 18784,
-          "recipe_id": 2186,
-          "group_label": "Default auto-gluten-free",
-          "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
-          "published_recipe_uuid": "98830cfc-7659-4b69-b501-81213cefc323",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1648575070000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            5,
-            6,
-            13
-          ],
-          "ingredient_ids": [
-            344,
-            360,
-            32,
-            155,
-            56,
-            432,
-            277,
-            184,
-            145,
-            47,
-            211,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            180,
-            1.5,
-            1.5,
-            3,
-            135,
-            3,
-            1.5,
-            3,
-            15,
-            360,
-            3.75
-          ],
-          "average_rating": 0.708,
-          "rating_count": 12,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Mediterranean inspired flavors never seem to let us down"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Mediterranean inspired flavors never seem to let us down",
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 18774,
+  "recipe_id": 2186,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Baked Pesto Tofu over Tomato, Cucumber, Onion, Artichoke & Feta Salad",
+  "slug": "baked-pesto-tofu-over-tomato-cucumber-onion-artichoke-feta-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/thumbnail_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2186/presentation_01964f85-6fa7-4e42-9400-4a08dd32f522.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "baked-pesto-tofu-over-tomato-cucumber-onion-artichoke-feta-salad",
-    "variantId": "18774"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 309019,
+      "primary_message": "Preheat oven to 450°F. Coat a large baking sheet pan with a thin layer of oil.",
+      "secondary_message": "2 tsp extra virgin olive oil"
+    },
+    {
+      "id": 309020,
+      "primary_message": "Cut tofu in half along the long side. Sandwich tofu between clean towels or paper towels and place on another baking sheet. Place a cutting board with something heavy on top and set aside to press out excess water.",
+      "secondary_message": "2 (12 oz) pkg extra firm tofu"
+    },
+    {
+      "id": 309021,
+      "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
+      "secondary_message": "2 pints grape tomatoes\n1 English cucumber\n2 (5 oz) pkgs spring mix (mixed greens)"
+    },
+    {
+      "id": 309022,
+      "primary_message": "Medium dice tofu and place in a large bowl. Sprinkle with salt, drizzle with pesto, and gently stir to coat.",
+      "secondary_message": "½ tsp salt\n½ cup basil pesto"
+    },
+    {
+      "id": 309023,
+      "primary_message": "Sprinkle bread crumbs over the tofu and stir once more to coat. Transfer tofu to the baking sheet and spread out in a single layer. (Wipe the bowl clean with paper towels and set aside for the salad.)",
+      "secondary_message": "1 cup panko bread crumbs"
+    },
+    {
+      "id": 309024,
+      "primary_message": "Place baking sheet in the oven (it doesn't have to be fully heated) and bake, tossing halfway through, until tofu is golden brown, 18-20 minutes. Remove from oven.",
+      "secondary_message": null
+    },
+    {
+      "id": 309025,
+      "primary_message": "Meanwhile, peel, halve, and thinly slice onion. Place in the reserved bowl, along with vinaigrette, and toss to coat.",
+      "secondary_message": "1 medium red onion\n⅓ cup French vinaigrette"
+    },
+    {
+      "id": 309026,
+      "primary_message": "Halve tomatoes and add to the bowl with the onion.",
+      "secondary_message": null
+    },
+    {
+      "id": 309027,
+      "primary_message": "Trim and medium dice cucumber; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 309028,
+      "primary_message": "Drain and thinly slice artichokes; add to the bowl.",
+      "secondary_message": "2 (6 oz) jars artichoke hearts, marinated"
+    },
+    {
+      "id": 309029,
+      "primary_message": "Just before serving, add mixed greens and feta to the bowl with the other veggies; toss to combine the salad. ",
+      "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
+    },
+    {
+      "id": 309030,
+      "primary_message": "To serve, divide salad between plates or bowls; top with tofu and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 328035,
+      "quantity": "2 (6 oz) jars",
+      "ingredient_name": "artichoke hearts, marinated"
+    },
+    {
+      "id": 328036,
+      "quantity": "½ cup",
+      "ingredient_name": "basil pesto"
+    },
+    {
+      "id": 328026,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 328032,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 328028,
+      "quantity": "2 (12 oz) pkg",
+      "ingredient_name": "extra firm tofu"
+    },
+    {
+      "id": 328037,
+      "quantity": "90 ml",
+      "ingredient_name": "French vinaigrette"
+    },
+    {
+      "id": 328034,
+      "quantity": "2 pints",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 328033,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 328031,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 328027,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 328030,
+      "quantity": "",
+      "ingredient_name": "panko bread crumbs"
+    },
+    {
+      "id": 328029,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 625.91,
+    "alcohol": 0,
+    "ash": 7.92,
+    "caffeine": 0,
+    "water": 508.28,
+    "carbs": 37.65,
+    "fiber": 9.37,
+    "starch": 10.86,
+    "sugars": 12.25,
+    "fructose": 3.68,
+    "galactose": 0.07,
+    "glucose": 3.62,
+    "lactose": 3.02,
+    "maltose": 0.3,
+    "sucrose": 1.55,
+    "sugar_alcohol": 0,
+    "fat": 42.21,
+    "monounsaturated": 17.53,
+    "polyunsaturated": 4,
+    "omega_3": 0.79,
+    "omega_6": 3.17,
+    "saturated": 8.77,
+    "transfats": 0.44,
+    "cholesterol": 25.14,
+    "protein": 30.57,
+    "alanine": 1.05,
+    "arginine": 1.47,
+    "aspartic_acid": 2.55,
+    "cystine": 0.32,
+    "glutamic_acid": 5.19,
+    "glycine": 0.85,
+    "histidine": 0.7,
+    "isoleucine": 1.24,
+    "leucine": 1.95,
+    "lysine": 1.64,
+    "methionine": 0.38,
+    "phenylalanine": 1.22,
+    "proline": 1.58,
+    "serine": 1.31,
+    "threonine": 1.03,
+    "tryptophan": 0.37,
+    "tyrosine": 0.87,
+    "valine": 1.34,
+    "b1_thiamine": 0.49,
+    "b2_riboflavin": 0.77,
+    "b3_niacin": 3.74,
+    "b5_pantothenic_acid": 2.33,
+    "b6_pyridoxine": 0.56,
+    "b12_cobalamin": 0.53,
+    "choline": 97.64,
+    "folate": 214.45,
+    "vitamin_a": 1873.35,
+    "vitamin_c": 35.48,
+    "vitamin_d": 4.52,
+    "vitamin_e": 4,
+    "vitamin_k": 222.54,
+    "calcium": 638.08,
+    "copper": 0.64,
+    "iron": 6.03,
+    "magnesium": 185.24,
+    "manganese": 2.26,
+    "phosphorus": 557.82,
+    "potassium": 1291.63,
+    "selenium": 30.91,
+    "sodium": 965.09,
+    "zinc": 4.24
+  }
 }

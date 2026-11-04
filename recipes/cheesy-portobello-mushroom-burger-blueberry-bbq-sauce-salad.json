@@ -1,1458 +1,335 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 19812,
-        "recipe_id": 2257,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-        "slug": "cheesy-portobello-mushroom-burger-blueberry-bbq-sauce-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 330824,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 lemons\n2 (6 oz) pkgs blueberries\n4 caps portobello mushrooms\n1 pint grape tomatoes\n1 avocado\n1 (5 oz) pkg spring mix (mixed greens)"
-          },
-          {
-            "id": 330825,
-            "primary_message": "Juice one lemon into a blender. (Reserve remaining lemon for the dressing.)",
-            "secondary_message": null
-          },
-          {
-            "id": 330826,
-            "primary_message": "Peel garlic; add to the blender along with blueberries, ketchup, sugar, soy sauce, and spices. Blend on high until very smooth, about 1 minute. Set BBQ sauce aside.",
-            "secondary_message": "2 cloves garlic\n¼ cup ketchup\n2 tsp brown sugar\n1 tsp soy sauce\n½ tsp cumin, ground\n¼ tsp chili powder\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 330827,
-            "primary_message": "Remove stems from the mushrooms and carefully scrape out the gills; place on a plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 330828,
-            "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 330829,
-            "primary_message": "While the grill pan heats up, peel and slice onion crosswise into ¼-inch thick rings; add to the plate with the mushrooms. Drizzle veggies with oil and season with salt and pepper on both sides.",
-            "secondary_message": "1 medium yellow onion\n2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 330830,
-            "primary_message": "Once the grill pan is hot, working in batches if necessary, add the veggies and grill, undisturbed, until tender and lightly charred on one side, 3-4 minutes. (Reserve plate for later use.)",
-            "secondary_message": null
-          },
-          {
-            "id": 330831,
-            "primary_message": "While the veggies are grilling, thinly slice cheese. ",
-            "secondary_message": "½ (8 oz) block cheddar cheese"
-          },
-          {
-            "id": 330832,
-            "primary_message": "When the veggies are charred on one side, flip, then top each mushroom with cheese; continue to grill until veggies are tender and cheese is melted, 3-4 minutes more. Return to the plate and loosely cover with aluminum foil. ",
-            "secondary_message": null
-          },
-          {
-            "id": 330833,
-            "primary_message": "Meanwhile, juice the remaining lemon into a medium bowl; add oil, Dijon, and spices. Whisk to combine the dressing and set aside. ",
-            "secondary_message": "4 tsp extra virgin olive oil\n2 tsp Dijon mustard\n½ tsp parsley flakes\n½ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 330834,
-            "primary_message": "Halve tomatoes and add to the bowl with the dressing. ",
-            "secondary_message": null
-          },
-          {
-            "id": 330835,
-            "primary_message": "Halve and pit avocado; scoop out with a spoon and small dice the flesh. Add to the bowl along with mixed greens and almonds; toss to combine the salad. Set aside. ",
-            "secondary_message": "½ cup almonds, sliced"
-          },
-          {
-            "id": 330836,
-            "primary_message": "Toast buns if desired. ",
-            "secondary_message": "4 whole grain buns or rolls"
-          },
-          {
-            "id": 330837,
-            "primary_message": "Spread half of the BBQ sauce over the bottom half of each bun; layer with mushrooms, onions, and remaining sauce. Close with the top half of each bun.",
-            "secondary_message": null
-          },
-          {
-            "id": 330838,
-            "primary_message": "To serve, divide burgers and salad between plates. Enjoy! ",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 352727,
-            "quantity": "½ cup",
-            "ingredient_name": "almonds, sliced"
-          },
-          {
-            "id": 352720,
-            "quantity": "1",
-            "ingredient_name": "avocado"
-          },
-          {
-            "id": 352715,
-            "quantity": "2 (6 oz) pkgs",
-            "ingredient_name": "blueberries"
-          },
-          {
-            "id": 352708,
-            "quantity": "½ (8 oz) block",
-            "ingredient_name": "cheddar cheese"
-          },
-          {
-            "id": 352707,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 352725,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 352722,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 352723,
-            "quantity": "4 caps",
-            "ingredient_name": "portobello mushrooms"
-          },
-          {
-            "id": 352718,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 352717,
-            "quantity": "4",
-            "ingredient_name": "whole grain buns or rolls"
-          },
-          {
-            "id": 352719,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 352711,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 352726,
-            "quantity": "",
-            "ingredient_name": "brown sugar"
-          },
-          {
-            "id": 352712,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 352721,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 352716,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 352709,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 352724,
-            "quantity": "",
-            "ingredient_name": "ketchup"
-          },
-          {
-            "id": 352713,
-            "quantity": "",
-            "ingredient_name": "parsley flakes"
-          },
-          {
-            "id": 352714,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 352710,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 603.4,
-          "alcohol": 0,
-          "ash": 8.47,
-          "caffeine": 0,
-          "water": 375.31,
-          "carbs": 56.23,
-          "fiber": 13.28,
-          "starch": 11.03,
-          "sugars": 25.34,
-          "fructose": 9.49,
-          "galactose": 0.1,
-          "glucose": 10.69,
-          "lactose": 0.05,
-          "maltose": 1.46,
-          "sucrose": 3.53,
-          "sugar_alcohol": 0,
-          "fat": 36.73,
-          "monounsaturated": 20.19,
-          "polyunsaturated": 5.27,
-          "omega_3": 0.33,
-          "omega_6": 4.28,
-          "saturated": 9.06,
-          "transfats": 0.71,
-          "cholesterol": 28.94,
-          "protein": 20.4,
-          "alanine": 0.72,
-          "arginine": 0.79,
-          "aspartic_acid": 1.53,
-          "cystine": 0.17,
-          "glutamic_acid": 3.96,
-          "glycine": 0.65,
-          "histidine": 0.4,
-          "isoleucine": 0.72,
-          "leucine": 1.22,
-          "lysine": 0.7,
-          "methionine": 0.29,
-          "phenylalanine": 0.77,
-          "proline": 1.31,
-          "serine": 0.67,
-          "threonine": 0.65,
-          "tryptophan": 0.28,
-          "tyrosine": 0.53,
-          "valine": 0.83,
-          "b1_thiamine": 0.38,
-          "b2_riboflavin": 0.65,
-          "b3_niacin": 8.41,
-          "b5_pantothenic_acid": 2.5,
-          "b6_pyridoxine": 0.6,
-          "b12_cobalamin": 0.29,
-          "choline": 67.83,
-          "folate": 164.68,
-          "vitamin_a": 1101.79,
-          "vitamin_c": 39.24,
-          "vitamin_d": 15.21,
-          "vitamin_e": 7.56,
-          "vitamin_k": 113.76,
-          "calcium": 325.66,
-          "copper": 0.79,
-          "iron": 3.47,
-          "magnesium": 130.91,
-          "manganese": 2.01,
-          "phosphorus": 455.87,
-          "potassium": 1227.4,
-          "selenium": 43.17,
-          "sodium": 553.87,
-          "zinc": 3.44
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/cheesy-portobello-mushroom-burger-blueberry-bbq-sauce-salad/19812",
-      "altVariants": [
-        {
-          "id": 19811,
-          "recipe_id": 2257,
-          "group_label": "Default",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "65e93e8b-996c-40d9-a030-a5856f6fe0d2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207313000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            277,
-            192,
-            231,
-            145,
-            128,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            0.25,
-            0.5,
-            1,
-            0.25,
-            1,
-            0.5,
-            1,
-            2,
-            0.5,
-            2,
-            0.5,
-            1.5625,
-            5,
-            0.625,
-            1.25,
-            5,
-            25,
-            30,
-            1.25,
-            3.125,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19816,
-          "recipe_id": 2257,
-          "group_label": "Default auto-gluten-free",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "c6adfada-f64f-4641-9ec3-0a0873e7bbd5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207311000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            127,
-            277,
-            192,
-            231,
-            145,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            0.75,
-            1.5,
-            3,
-            0.75,
-            3,
-            6,
-            1.5,
-            3,
-            6,
-            1.5,
-            1.5,
-            5.9375,
-            15,
-            2.5,
-            3.75,
-            15,
-            75,
-            90,
-            3.75,
-            10,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19815,
-          "recipe_id": 2257,
-          "group_label": "Default auto-gluten-free",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "38e9f2c9-4dee-4fe3-8dfc-0e46b616f8c3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207311000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            127,
-            277,
-            192,
-            231,
-            145,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.5,
-            2,
-            4,
-            1,
-            2,
-            4,
-            1,
-            1,
-            3.125,
-            10,
-            1.25,
-            2.5,
-            10,
-            50,
-            60,
-            2.5,
-            6.25,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19814,
-          "recipe_id": 2257,
-          "group_label": "Default auto-gluten-free",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "2d5611d9-0e39-454a-8328-7f1729dce570",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207312000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            127,
-            277,
-            192,
-            231,
-            145,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            0.25,
-            0.5,
-            1,
-            0.25,
-            1,
-            2,
-            0.5,
-            1,
-            2,
-            0.5,
-            0.5,
-            1.5625,
-            5,
-            0.625,
-            1.25,
-            5,
-            25,
-            30,
-            1.25,
-            3.125,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19813,
-          "recipe_id": 2257,
-          "group_label": "Default",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "69737f7f-628f-473d-b127-ad6d92d700fa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207312000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            277,
-            192,
-            231,
-            145,
-            128,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            0.75,
-            1.5,
-            3,
-            0.75,
-            3,
-            1.5,
-            3,
-            6,
-            1.5,
-            6,
-            1.5,
-            5.9375,
-            15,
-            2.5,
-            3.75,
-            15,
-            75,
-            90,
-            3.75,
-            10,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19812,
-          "recipe_id": 2257,
-          "group_label": "Default",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "578a3fa2-4b77-4be8-9856-642440ff3c1c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207312000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            277,
-            192,
-            231,
-            145,
-            128,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.5,
-            2,
-            1,
-            2,
-            4,
-            1,
-            4,
-            1,
-            3.125,
-            10,
-            1.25,
-            2.5,
-            10,
-            50,
-            60,
-            2.5,
-            6.25,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19822,
-          "recipe_id": 2257,
-          "group_label": "Default auto-gluten-free",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "ab3ee7b6-1806-4df7-b320-cf1d47f68511",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207309000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            127,
-            277,
-            192,
-            231,
-            145,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            0.75,
-            1.5,
-            3,
-            0.75,
-            3,
-            6,
-            1.5,
-            3,
-            6,
-            1.5,
-            1.5,
-            5.9375,
-            15,
-            2.5,
-            3.75,
-            15,
-            75,
-            90,
-            3.75,
-            10,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19821,
-          "recipe_id": 2257,
-          "group_label": "Default auto-gluten-free",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "f38f511f-0995-4759-9efd-b146675b4536",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207309000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            127,
-            277,
-            192,
-            231,
-            145,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.5,
-            2,
-            4,
-            1,
-            2,
-            4,
-            1,
-            1,
-            3.125,
-            10,
-            1.25,
-            2.5,
-            10,
-            50,
-            60,
-            2.5,
-            6.25,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19820,
-          "recipe_id": 2257,
-          "group_label": "Default auto-gluten-free",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "d43a7126-7922-4e11-b90c-a5bb2c55e92d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207310000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            10,
-            14,
-            13,
-            11,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            127,
-            277,
-            192,
-            231,
-            145,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            0.25,
-            0.5,
-            1,
-            0.25,
-            1,
-            2,
-            0.5,
-            1,
-            2,
-            0.5,
-            0.5,
-            1.5625,
-            5,
-            0.625,
-            1.25,
-            5,
-            25,
-            30,
-            1.25,
-            3.125,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19819,
-          "recipe_id": 2257,
-          "group_label": "Default",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "e8d874cb-7ef5-4520-95f5-4c1ff88e5fde",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207310000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            277,
-            192,
-            231,
-            145,
-            128,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            0.75,
-            1.5,
-            3,
-            0.75,
-            3,
-            1.5,
-            3,
-            6,
-            1.5,
-            6,
-            1.5,
-            5.9375,
-            15,
-            2.5,
-            3.75,
-            15,
-            75,
-            90,
-            3.75,
-            10,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19818,
-          "recipe_id": 2257,
-          "group_label": "Default",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "b8cdf0e3-134c-495e-ac35-d5dd0a62de32",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207310000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            277,
-            192,
-            231,
-            145,
-            128,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            2,
-            0.5,
-            2,
-            1,
-            2,
-            4,
-            1,
-            4,
-            1,
-            3.125,
-            10,
-            1.25,
-            2.5,
-            10,
-            50,
-            60,
-            2.5,
-            6.25,
-            5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        },
-        {
-          "id": 19817,
-          "recipe_id": 2257,
-          "group_label": "Default",
-          "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
-          "published_recipe_uuid": "93560e2e-ad00-4d43-baf4-5a9245db02c4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1652207311000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            9,
-            1,
-            10,
-            14,
-            13,
-            6
-          ],
-          "ingredient_ids": [
-            298,
-            183,
-            114,
-            43,
-            24,
-            277,
-            192,
-            231,
-            145,
-            128,
-            152,
-            72,
-            293,
-            75,
-            186,
-            117,
-            47,
-            273,
-            84,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            0.25,
-            0.5,
-            1,
-            0.25,
-            1,
-            0.5,
-            1,
-            2,
-            0.5,
-            2,
-            0.5,
-            1.5625,
-            5,
-            0.625,
-            1.25,
-            5,
-            25,
-            30,
-            1.25,
-            3.125,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger."
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Thanks to the fresh blueberries, this  BBQ sauce has a naturally sweet and tangy flare which makes the  perfect topping to a earthy portobello mushroom burger.",
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 19812,
+  "recipe_id": 2257,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Cheesy Portobello Mushroom Burger with Blueberry BBQ Sauce & Salad",
+  "slug": "cheesy-portobello-mushroom-burger-blueberry-bbq-sauce-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/thumbnail_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2257/presentation_bb47252f-d149-4487-8280-85ad39d1dba8.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "cheesy-portobello-mushroom-burger-blueberry-bbq-sauce-salad",
-    "variantId": "19812"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 330824,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 lemons\n2 (6 oz) pkgs blueberries\n4 caps portobello mushrooms\n1 pint grape tomatoes\n1 avocado\n1 (5 oz) pkg spring mix (mixed greens)"
+    },
+    {
+      "id": 330825,
+      "primary_message": "Juice one lemon into a blender. (Reserve remaining lemon for the dressing.)",
+      "secondary_message": null
+    },
+    {
+      "id": 330826,
+      "primary_message": "Peel garlic; add to the blender along with blueberries, ketchup, sugar, soy sauce, and spices. Blend on high until very smooth, about 1 minute. Set BBQ sauce aside.",
+      "secondary_message": "2 cloves garlic\n¼ cup ketchup\n2 tsp brown sugar\n1 tsp soy sauce\n½ tsp cumin, ground\n¼ tsp chili powder\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 330827,
+      "primary_message": "Remove stems from the mushrooms and carefully scrape out the gills; place on a plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 330828,
+      "primary_message": "Preheat a grill pan, outdoor grill, or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 330829,
+      "primary_message": "While the grill pan heats up, peel and slice onion crosswise into ¼-inch thick rings; add to the plate with the mushrooms. Drizzle veggies with oil and season with salt and pepper on both sides.",
+      "secondary_message": "1 medium yellow onion\n2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 330830,
+      "primary_message": "Once the grill pan is hot, working in batches if necessary, add the veggies and grill, undisturbed, until tender and lightly charred on one side, 3-4 minutes. (Reserve plate for later use.)",
+      "secondary_message": null
+    },
+    {
+      "id": 330831,
+      "primary_message": "While the veggies are grilling, thinly slice cheese. ",
+      "secondary_message": "½ (8 oz) block cheddar cheese"
+    },
+    {
+      "id": 330832,
+      "primary_message": "When the veggies are charred on one side, flip, then top each mushroom with cheese; continue to grill until veggies are tender and cheese is melted, 3-4 minutes more. Return to the plate and loosely cover with aluminum foil. ",
+      "secondary_message": null
+    },
+    {
+      "id": 330833,
+      "primary_message": "Meanwhile, juice the remaining lemon into a medium bowl; add oil, Dijon, and spices. Whisk to combine the dressing and set aside. ",
+      "secondary_message": "4 tsp extra virgin olive oil\n2 tsp Dijon mustard\n½ tsp parsley flakes\n½ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 330834,
+      "primary_message": "Halve tomatoes and add to the bowl with the dressing. ",
+      "secondary_message": null
+    },
+    {
+      "id": 330835,
+      "primary_message": "Halve and pit avocado; scoop out with a spoon and small dice the flesh. Add to the bowl along with mixed greens and almonds; toss to combine the salad. Set aside. ",
+      "secondary_message": "½ cup almonds, sliced"
+    },
+    {
+      "id": 330836,
+      "primary_message": "Toast buns if desired. ",
+      "secondary_message": "4 whole grain buns or rolls"
+    },
+    {
+      "id": 330837,
+      "primary_message": "Spread half of the BBQ sauce over the bottom half of each bun; layer with mushrooms, onions, and remaining sauce. Close with the top half of each bun.",
+      "secondary_message": null
+    },
+    {
+      "id": 330838,
+      "primary_message": "To serve, divide burgers and salad between plates. Enjoy! ",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 352727,
+      "quantity": "½ cup",
+      "ingredient_name": "almonds, sliced"
+    },
+    {
+      "id": 352720,
+      "quantity": "1",
+      "ingredient_name": "avocado"
+    },
+    {
+      "id": 352715,
+      "quantity": "2 (6 oz) pkgs",
+      "ingredient_name": "blueberries"
+    },
+    {
+      "id": 352708,
+      "quantity": "½ (8 oz) block",
+      "ingredient_name": "cheddar cheese"
+    },
+    {
+      "id": 352707,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 352725,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 352722,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 352723,
+      "quantity": "4 caps",
+      "ingredient_name": "portobello mushrooms"
+    },
+    {
+      "id": 352718,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 352717,
+      "quantity": "4",
+      "ingredient_name": "whole grain buns or rolls"
+    },
+    {
+      "id": 352719,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 352711,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 352726,
+      "quantity": "",
+      "ingredient_name": "brown sugar"
+    },
+    {
+      "id": 352712,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 352721,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 352716,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 352709,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 352724,
+      "quantity": "",
+      "ingredient_name": "ketchup"
+    },
+    {
+      "id": 352713,
+      "quantity": "",
+      "ingredient_name": "parsley flakes"
+    },
+    {
+      "id": 352714,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 352710,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 603.4,
+    "alcohol": 0,
+    "ash": 8.47,
+    "caffeine": 0,
+    "water": 375.31,
+    "carbs": 56.23,
+    "fiber": 13.28,
+    "starch": 11.03,
+    "sugars": 25.34,
+    "fructose": 9.49,
+    "galactose": 0.1,
+    "glucose": 10.69,
+    "lactose": 0.05,
+    "maltose": 1.46,
+    "sucrose": 3.53,
+    "sugar_alcohol": 0,
+    "fat": 36.73,
+    "monounsaturated": 20.19,
+    "polyunsaturated": 5.27,
+    "omega_3": 0.33,
+    "omega_6": 4.28,
+    "saturated": 9.06,
+    "transfats": 0.71,
+    "cholesterol": 28.94,
+    "protein": 20.4,
+    "alanine": 0.72,
+    "arginine": 0.79,
+    "aspartic_acid": 1.53,
+    "cystine": 0.17,
+    "glutamic_acid": 3.96,
+    "glycine": 0.65,
+    "histidine": 0.4,
+    "isoleucine": 0.72,
+    "leucine": 1.22,
+    "lysine": 0.7,
+    "methionine": 0.29,
+    "phenylalanine": 0.77,
+    "proline": 1.31,
+    "serine": 0.67,
+    "threonine": 0.65,
+    "tryptophan": 0.28,
+    "tyrosine": 0.53,
+    "valine": 0.83,
+    "b1_thiamine": 0.38,
+    "b2_riboflavin": 0.65,
+    "b3_niacin": 8.41,
+    "b5_pantothenic_acid": 2.5,
+    "b6_pyridoxine": 0.6,
+    "b12_cobalamin": 0.29,
+    "choline": 67.83,
+    "folate": 164.68,
+    "vitamin_a": 1101.79,
+    "vitamin_c": 39.24,
+    "vitamin_d": 15.21,
+    "vitamin_e": 7.56,
+    "vitamin_k": 113.76,
+    "calcium": 325.66,
+    "copper": 0.79,
+    "iron": 3.47,
+    "magnesium": 130.91,
+    "manganese": 2.01,
+    "phosphorus": 455.87,
+    "potassium": 1227.4,
+    "selenium": 43.17,
+    "sodium": 553.87,
+    "zinc": 3.44
+  }
 }

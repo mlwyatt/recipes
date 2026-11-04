@@ -1,814 +1,290 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 9060,
-        "recipe_id": 1043,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
-        "slug": "sesame-encrusted-salmon-over-tahini-parmesan-caesar-salad-apple",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 157516,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "2 lemons\n2 heads romaine lettuce\n2 Gala apples"
-          },
-          {
-            "id": 157517,
-            "primary_message": "Zest the lemons into a large salad bowl. Juice 1 lemon into the same bowl. Cut remaining lemon into wedges and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 157518,
-            "primary_message": "Add water, tahini, Dijon, oil, salt, and pepper to the bowl with lemon juice and zest; whisk until the dressing becomes smooth and glossy.",
-            "secondary_message": "¼ cup water\n¼ cup tahini\n4 tsp Dijon mustard\n4 tsp toasted sesame oil\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 157519,
-            "primary_message": "Peel and finely mince garlic. Finely mince anchovy fillets; transfer both to the salad bowl.",
-            "secondary_message": "2 cloves garlic\n2 anchovy fillets, packed in oil"
-          },
-          {
-            "id": 157520,
-            "primary_message": "Finely grate half of the Parmesan and add to the salad bowl (set the rest aside for garnish). Stir to combine and set aside.",
-            "secondary_message": "2 oz Parmesan cheese"
-          },
-          {
-            "id": 157521,
-            "primary_message": "Pat the salmon fillets dry with paper towels and place on a plate; season with salt and pepper.",
-            "secondary_message": "1 ½ lb salmon fillet\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 157522,
-            "primary_message": "Combine the egg and cornstarch into a medium bowl; beat with a whisk or fork until smooth and frothy.",
-            "secondary_message": "1 egg\n1 tbsp cornstarch"
-          },
-          {
-            "id": 157523,
-            "primary_message": "Dip the skinless side of the salmon into the egg mixture and place back on the plate, skin-side down. Sprinkle sesame seeds over the surface of the fish, pressing down gently with your fingers to adhere.",
-            "secondary_message": "¼ cup sesame seeds"
-          },
-          {
-            "id": 157524,
-            "primary_message": "Preheat a large nonstick skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 157525,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
-            "secondary_message": "2 tsp toasted sesame oil"
-          },
-          {
-            "id": 157526,
-            "primary_message": "Add salmon to the skillet, sesame-seed side down, and cook until crust is firm and seeds are golden brown, about 3 minutes. Flip and cook until salmon is cooked through and skin is crispy, 5-7 minutes longer. Remove skillet from the heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 157527,
-            "primary_message": "Meanwhile, chop or tear the romaine into bite-sized pieces and transfer to the bowl with the dressing.",
-            "secondary_message": null
-          },
-          {
-            "id": 157528,
-            "primary_message": "Wash, core, and thinly slice the apples; add to the bowl and toss to combine the salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 157529,
-            "primary_message": "To serve, divide salad and salmon between bowls or plates. Grate reserved Parmesan over top and garnish with lemon wedges. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 163720,
-            "quantity": "2",
-            "ingredient_name": "anchovy fillets, packed in oil"
-          },
-          {
-            "id": 163715,
-            "quantity": "1",
-            "ingredient_name": "egg"
-          },
-          {
-            "id": 163719,
-            "quantity": "2",
-            "ingredient_name": "Gala apples"
-          },
-          {
-            "id": 163708,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 163717,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 163714,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 163709,
-            "quantity": "2 heads",
-            "ingredient_name": "romaine lettuce"
-          },
-          {
-            "id": 163707,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "salmon fillet"
-          },
-          {
-            "id": 163711,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 163718,
-            "quantity": "",
-            "ingredient_name": "cornstarch"
-          },
-          {
-            "id": 163713,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 163712,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 163716,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          },
-          {
-            "id": 163721,
-            "quantity": "",
-            "ingredient_name": "tahini"
-          },
-          {
-            "id": 163710,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 657.73,
-          "alcohol": 0.01,
-          "ash": 8.28,
-          "caffeine": 0,
-          "water": 539,
-          "carbs": 32.43,
-          "fiber": 11.71,
-          "starch": 2.58,
-          "sugars": 14.13,
-          "fructose": 8.16,
-          "galactose": 0,
-          "glucose": 3.75,
-          "lactose": 0.11,
-          "maltose": 0,
-          "sucrose": 2.04,
-          "sugar_alcohol": 0,
-          "fat": 37.36,
-          "monounsaturated": 13.51,
-          "polyunsaturated": 13.24,
-          "omega_3": 3.31,
-          "omega_6": 9.81,
-          "saturated": 8.03,
-          "transfats": 0.09,
-          "cholesterol": 128.8,
-          "protein": 52.88,
-          "alanine": 2.92,
-          "arginine": 3.4,
-          "aspartic_acid": 5.26,
-          "cystine": 0.58,
-          "glutamic_acid": 8.58,
-          "glycine": 2.39,
-          "histidine": 1.54,
-          "isoleucine": 2.41,
-          "leucine": 4.26,
-          "lysine": 4.37,
-          "methionine": 1.51,
-          "phenylalanine": 2.25,
-          "proline": 2.36,
-          "serine": 2.36,
-          "threonine": 2.22,
-          "tryptophan": 0.63,
-          "tyrosine": 1.87,
-          "valine": 2.81,
-          "b1_thiamine": 0.71,
-          "b2_riboflavin": 0.67,
-          "b3_niacin": 15.29,
-          "b5_pantothenic_acid": 2.33,
-          "b6_pyridoxine": 1.34,
-          "b12_cobalamin": 7.38,
-          "choline": 265.31,
-          "folate": 482.08,
-          "vitamin_a": 542.86,
-          "vitamin_c": 28.5,
-          "vitamin_d": 627.14,
-          "vitamin_e": 2.43,
-          "vitamin_k": 325.72,
-          "calcium": 261.55,
-          "copper": 0.68,
-          "iron": 6.7,
-          "magnesium": 162.49,
-          "manganese": 1.1,
-          "phosphorus": 860.4,
-          "potassium": 1768.79,
-          "selenium": 81.43,
-          "sodium": 216.69,
-          "zinc": 3.48
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/sesame-encrusted-salmon-over-tahini-parmesan-caesar-salad-apple/9060",
-      "altVariants": [
-        {
-          "id": 9061,
-          "recipe_id": 1043,
-          "group_label": "Default",
-          "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "published_recipe_uuid": "4c3792d4-8866-4cbf-a7f0-a18d56971bea",
-          "fallback_published_recipe_uuids": [
-            "03b6dd45-53be-4602-9978-f39705cbdcbc",
-            "f6a5c774-3257-49ab-883b-12663ded86ce"
-          ],
-          "first_published_at": 1578354840000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            14,
-            13,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            325,
-            121,
-            296,
-            24,
-            192,
-            120,
-            25,
-            6,
-            72,
-            264,
-            117,
-            88,
-            181,
-            334,
-            51
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            3,
-            3,
-            3,
-            3,
-            3,
-            2.25,
-            7.5,
-            15,
-            30,
-            7.5,
-            90,
-            90,
-            45
-          ],
-          "average_rating": 0.711,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9060,
-          "recipe_id": 1043,
-          "group_label": "Default",
-          "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "published_recipe_uuid": "0d070653-b6a0-494b-b254-bae85fe125dc",
-          "fallback_published_recipe_uuids": [
-            "639727dd-3d4b-4a57-8b6d-fd8f7f0d4525",
-            "44236966-0d23-4a33-bc34-996c7f854519"
-          ],
-          "first_published_at": 1578354839000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            14,
-            13,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            325,
-            121,
-            296,
-            24,
-            192,
-            120,
-            25,
-            6,
-            72,
-            264,
-            117,
-            88,
-            181,
-            334,
-            51
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            2,
-            2,
-            2,
-            1.5,
-            5,
-            15,
-            20,
-            5,
-            60,
-            60,
-            30
-          ],
-          "average_rating": 0.711,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9059,
-          "recipe_id": 1043,
-          "group_label": "Default",
-          "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "published_recipe_uuid": "3fcff22f-7533-4793-bd22-eb5fdc470988",
-          "fallback_published_recipe_uuids": [
-            "853d6094-f721-4f4c-9000-8cad7d71e168",
-            "8f63cb3e-8190-46cd-b2ab-03c24a1bfb66"
-          ],
-          "first_published_at": 1578354839000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            14,
-            13,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            325,
-            121,
-            296,
-            24,
-            192,
-            120,
-            25,
-            6,
-            72,
-            264,
-            117,
-            88,
-            181,
-            334,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            0.75,
-            2.5,
-            15,
-            10,
-            2.5,
-            30,
-            30,
-            15
-          ],
-          "average_rating": 0.711,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9064,
-          "recipe_id": 1043,
-          "group_label": "Default",
-          "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "published_recipe_uuid": "579180bc-3fcb-4a9d-9e4a-f04380dbfbcb",
-          "fallback_published_recipe_uuids": [
-            "686ba0e6-cecc-4c8b-8e5e-52b72101528a",
-            "bdf2cee1-428b-45ab-912e-234c3852d84d"
-          ],
-          "first_published_at": 1578354841000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            14,
-            13,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            325,
-            121,
-            296,
-            24,
-            192,
-            120,
-            25,
-            6,
-            72,
-            264,
-            117,
-            88,
-            181,
-            334,
-            51
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            3,
-            3,
-            3,
-            85,
-            3,
-            1.02,
-            7.5,
-            15,
-            30,
-            7.5,
-            90,
-            90,
-            45
-          ],
-          "average_rating": 0.711,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9063,
-          "recipe_id": 1043,
-          "group_label": "Default",
-          "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "published_recipe_uuid": "4719794c-fb65-4f89-8232-86ca458bb675",
-          "fallback_published_recipe_uuids": [
-            "c56c6b72-9995-4f80-8b5d-38ab605dab19",
-            "0848b88e-3c1a-4a56-a593-87f4e8e61c97"
-          ],
-          "first_published_at": 1578354841000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            14,
-            13,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            325,
-            121,
-            296,
-            24,
-            192,
-            120,
-            25,
-            6,
-            72,
-            264,
-            117,
-            88,
-            181,
-            334,
-            51
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            2,
-            2,
-            57,
-            2,
-            0.68,
-            5,
-            15,
-            20,
-            5,
-            60,
-            60,
-            30
-          ],
-          "average_rating": 0.711,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 9062,
-          "recipe_id": 1043,
-          "group_label": "Default",
-          "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
-          "published_recipe_uuid": "b499bf1f-0ad6-4a64-899a-af2eebf2bc21",
-          "fallback_published_recipe_uuids": [
-            "0ce8e75e-4ed2-4a76-ad5c-c6abe33693c6",
-            "2b156075-bb84-440f-ac39-ac2182979ae3"
-          ],
-          "first_published_at": 1578354840000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            3,
-            12,
-            14,
-            13,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            325,
-            121,
-            296,
-            24,
-            192,
-            120,
-            25,
-            6,
-            72,
-            264,
-            117,
-            88,
-            181,
-            334,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            28,
-            1,
-            0.34,
-            2.5,
-            15,
-            10,
-            2.5,
-            30,
-            30,
-            15
-          ],
-          "average_rating": 0.711,
-          "rating_count": 19,
-          "variety_tag_ids": [
-            33,
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried",
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 9060,
+  "recipe_id": 1043,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Sesame Encrusted Salmon over Tahini-Parmesan Caesar Salad with Apple",
+  "slug": "sesame-encrusted-salmon-over-tahini-parmesan-caesar-salad-apple",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/thumbnail_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1043/presentation_7fbdc23b-2632-479f-ac10-2ddc39014911.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "sesame-encrusted-salmon-over-tahini-parmesan-caesar-salad-apple",
-    "variantId": "9060"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 157516,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "2 lemons\n2 heads romaine lettuce\n2 Gala apples"
+    },
+    {
+      "id": 157517,
+      "primary_message": "Zest the lemons into a large salad bowl. Juice 1 lemon into the same bowl. Cut remaining lemon into wedges and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 157518,
+      "primary_message": "Add water, tahini, Dijon, oil, salt, and pepper to the bowl with lemon juice and zest; whisk until the dressing becomes smooth and glossy.",
+      "secondary_message": "¼ cup water\n¼ cup tahini\n4 tsp Dijon mustard\n4 tsp toasted sesame oil\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 157519,
+      "primary_message": "Peel and finely mince garlic. Finely mince anchovy fillets; transfer both to the salad bowl.",
+      "secondary_message": "2 cloves garlic\n2 anchovy fillets, packed in oil"
+    },
+    {
+      "id": 157520,
+      "primary_message": "Finely grate half of the Parmesan and add to the salad bowl (set the rest aside for garnish). Stir to combine and set aside.",
+      "secondary_message": "2 oz Parmesan cheese"
+    },
+    {
+      "id": 157521,
+      "primary_message": "Pat the salmon fillets dry with paper towels and place on a plate; season with salt and pepper.",
+      "secondary_message": "1 ½ lb salmon fillet\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 157522,
+      "primary_message": "Combine the egg and cornstarch into a medium bowl; beat with a whisk or fork until smooth and frothy.",
+      "secondary_message": "1 egg\n1 tbsp cornstarch"
+    },
+    {
+      "id": 157523,
+      "primary_message": "Dip the skinless side of the salmon into the egg mixture and place back on the plate, skin-side down. Sprinkle sesame seeds over the surface of the fish, pressing down gently with your fingers to adhere.",
+      "secondary_message": "¼ cup sesame seeds"
+    },
+    {
+      "id": 157524,
+      "primary_message": "Preheat a large nonstick skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 157525,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom.",
+      "secondary_message": "2 tsp toasted sesame oil"
+    },
+    {
+      "id": 157526,
+      "primary_message": "Add salmon to the skillet, sesame-seed side down, and cook until crust is firm and seeds are golden brown, about 3 minutes. Flip and cook until salmon is cooked through and skin is crispy, 5-7 minutes longer. Remove skillet from the heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 157527,
+      "primary_message": "Meanwhile, chop or tear the romaine into bite-sized pieces and transfer to the bowl with the dressing.",
+      "secondary_message": null
+    },
+    {
+      "id": 157528,
+      "primary_message": "Wash, core, and thinly slice the apples; add to the bowl and toss to combine the salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 157529,
+      "primary_message": "To serve, divide salad and salmon between bowls or plates. Grate reserved Parmesan over top and garnish with lemon wedges. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 163720,
+      "quantity": "2",
+      "ingredient_name": "anchovy fillets, packed in oil"
+    },
+    {
+      "id": 163715,
+      "quantity": "1",
+      "ingredient_name": "egg"
+    },
+    {
+      "id": 163719,
+      "quantity": "2",
+      "ingredient_name": "Gala apples"
+    },
+    {
+      "id": 163708,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 163717,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 163714,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 163709,
+      "quantity": "2 heads",
+      "ingredient_name": "romaine lettuce"
+    },
+    {
+      "id": 163707,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "salmon fillet"
+    },
+    {
+      "id": 163711,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 163718,
+      "quantity": "",
+      "ingredient_name": "cornstarch"
+    },
+    {
+      "id": 163713,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 163712,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 163716,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    },
+    {
+      "id": 163721,
+      "quantity": "",
+      "ingredient_name": "tahini"
+    },
+    {
+      "id": 163710,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 657.73,
+    "alcohol": 0.01,
+    "ash": 8.28,
+    "caffeine": 0,
+    "water": 539,
+    "carbs": 32.43,
+    "fiber": 11.71,
+    "starch": 2.58,
+    "sugars": 14.13,
+    "fructose": 8.16,
+    "galactose": 0,
+    "glucose": 3.75,
+    "lactose": 0.11,
+    "maltose": 0,
+    "sucrose": 2.04,
+    "sugar_alcohol": 0,
+    "fat": 37.36,
+    "monounsaturated": 13.51,
+    "polyunsaturated": 13.24,
+    "omega_3": 3.31,
+    "omega_6": 9.81,
+    "saturated": 8.03,
+    "transfats": 0.09,
+    "cholesterol": 128.8,
+    "protein": 52.88,
+    "alanine": 2.92,
+    "arginine": 3.4,
+    "aspartic_acid": 5.26,
+    "cystine": 0.58,
+    "glutamic_acid": 8.58,
+    "glycine": 2.39,
+    "histidine": 1.54,
+    "isoleucine": 2.41,
+    "leucine": 4.26,
+    "lysine": 4.37,
+    "methionine": 1.51,
+    "phenylalanine": 2.25,
+    "proline": 2.36,
+    "serine": 2.36,
+    "threonine": 2.22,
+    "tryptophan": 0.63,
+    "tyrosine": 1.87,
+    "valine": 2.81,
+    "b1_thiamine": 0.71,
+    "b2_riboflavin": 0.67,
+    "b3_niacin": 15.29,
+    "b5_pantothenic_acid": 2.33,
+    "b6_pyridoxine": 1.34,
+    "b12_cobalamin": 7.38,
+    "choline": 265.31,
+    "folate": 482.08,
+    "vitamin_a": 542.86,
+    "vitamin_c": 28.5,
+    "vitamin_d": 627.14,
+    "vitamin_e": 2.43,
+    "vitamin_k": 325.72,
+    "calcium": 261.55,
+    "copper": 0.68,
+    "iron": 6.7,
+    "magnesium": 162.49,
+    "manganese": 1.1,
+    "phosphorus": 860.4,
+    "potassium": 1768.79,
+    "selenium": 81.43,
+    "sodium": 216.69,
+    "zinc": 3.48
+  }
 }

@@ -1,2019 +1,260 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 19626,
-        "recipe_id": 2246,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-        "slug": "filipino-beef-skillet-giniling-potatoes-peppers-raisins",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 326636,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 medium red potatoes\n2 medium carrots\n2 red bell peppers\n2 green bell peppers"
-          },
-          {
-            "id": 326637,
-            "primary_message": "Peel and small dice potatoes.",
-            "secondary_message": null
-          },
-          {
-            "id": 326638,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 326639,
-            "primary_message": "Once the skillet is hot, add potatoes and ground beef; cook, breaking the meat apart with a spoon, until browned and crumbly, 3-4 minutes.",
-            "secondary_message": "1 ½ lb lean ground beef"
-          },
-          {
-            "id": 326640,
-            "primary_message": "Meanwhile, peel, trim, and small dice carrots; place in a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 326641,
-            "primary_message": "Peel, halve, and small dice onion; peel and mince garlic. Add both to the bowl with the carrot.",
-            "secondary_message": "1 medium yellow onion\n2 cloves garlic"
-          },
-          {
-            "id": 326642,
-            "primary_message": "When the beef is done, add veggies to the skillet; continue to cook, stirring occasionally, until starting to soften, 6-7 minutes more.",
-            "secondary_message": null
-          },
-          {
-            "id": 326643,
-            "primary_message": "While the veggies are cooking, trim, seed, and small dice bell peppers.",
-            "secondary_message": null
-          },
-          {
-            "id": 326644,
-            "primary_message": "When the veggies are starting to soften, add bell peppers to the skillet along with tomato sauce, raisins, soy sauce, and spices. Stir to combine, cover, and bring to a simmer.",
-            "secondary_message": "2 (8 oz) cans tomato sauce\n⅔ cup raisins\n2 tbsp soy sauce\n½ tsp salt\n½ tsp black pepper\n⅛ tsp cayenne pepper"
-          },
-          {
-            "id": 326645,
-            "primary_message": "Once simmering, reduce heat to medium and cook, stirring occasionally, until the veggies are tender and liquid is mostly absorbed, 8-10 minutes. Remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 326646,
-            "primary_message": "To serve, divide skillet between plates or bowls and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 347962,
-            "quantity": "2 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 347953,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 347965,
-            "quantity": "2",
-            "ingredient_name": "green bell peppers"
-          },
-          {
-            "id": 347963,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "lean ground beef"
-          },
-          {
-            "id": 347964,
-            "quantity": "⅔ cup",
-            "ingredient_name": "raisins"
-          },
-          {
-            "id": 347960,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 347959,
-            "quantity": "4 medium",
-            "ingredient_name": "red potatoes"
-          },
-          {
-            "id": 347958,
-            "quantity": "2 (8 oz) cans",
-            "ingredient_name": "tomato sauce"
-          },
-          {
-            "id": 347961,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 347956,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 347955,
-            "quantity": "",
-            "ingredient_name": "cayenne pepper"
-          },
-          {
-            "id": 347957,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 347954,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 675.37,
-          "alcohol": 0,
-          "ash": 9.58,
-          "caffeine": 0,
-          "water": 558.11,
-          "carbs": 71.86,
-          "fiber": 9.95,
-          "starch": 30.64,
-          "sugars": 27.58,
-          "fructose": 12.22,
-          "galactose": 0,
-          "glucose": 12.17,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 2.25,
-          "sugar_alcohol": 0,
-          "fat": 26.71,
-          "monounsaturated": 11.1,
-          "polyunsaturated": 1.16,
-          "omega_3": 0.25,
-          "omega_6": 1,
-          "saturated": 9.94,
-          "transfats": 1.46,
-          "cholesterol": 115.67,
-          "protein": 40.27,
-          "alanine": 2.28,
-          "arginine": 2.53,
-          "aspartic_acid": 4.47,
-          "cystine": 0.45,
-          "glutamic_acid": 6.7,
-          "glycine": 2.39,
-          "histidine": 1.19,
-          "isoleucine": 1.66,
-          "leucine": 2.86,
-          "lysine": 3.02,
-          "methionine": 0.91,
-          "phenylalanine": 1.59,
-          "proline": 1.92,
-          "serine": 1.59,
-          "threonine": 1.55,
-          "tryptophan": 0.25,
-          "tyrosine": 1.14,
-          "valine": 1.91,
-          "b1_thiamine": 0.4,
-          "b2_riboflavin": 0.53,
-          "b3_niacin": 13.05,
-          "b5_pantothenic_acid": 2.3,
-          "b6_pyridoxine": 1.52,
-          "b12_cobalamin": 3.69,
-          "choline": 165.68,
-          "folate": 105.45,
-          "vitamin_a": 747.59,
-          "vitamin_c": 154.76,
-          "vitamin_d": 5.1,
-          "vitamin_e": 3.32,
-          "vitamin_k": 24.32,
-          "calcium": 108.13,
-          "copper": 0.69,
-          "iron": 7.42,
-          "magnesium": 128.98,
-          "manganese": 0.89,
-          "phosphorus": 539.08,
-          "potassium": 2392.71,
-          "selenium": 29.25,
-          "sodium": 192.78,
-          "zinc": 9.07
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/filipino-beef-skillet-giniling-potatoes-peppers-raisins/19626",
-      "altVariants": [
-        {
-          "id": 19635,
-          "recipe_id": 2246,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "8ff5ef28-b47d-4596-a842-4fd0adce119f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013346000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            16,
-            1,
-            2.5,
-            0.625,
-            30,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19633,
-          "recipe_id": 2246,
-          "group_label": "Default auto-gluten-free",
-          "name": "Filipino Beef Sauté (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "490b53ee-65fa-4c02-be51-607158be4951",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013347000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            2.25,
-            1,
-            3,
-            6,
-            3,
-            1.5,
-            3.75,
-            0.9375,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19631,
-          "recipe_id": 2246,
-          "group_label": "Default auto-gluten-free",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "f2bf3b12-c26a-4a15-8126-fdea2a54b59a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013348000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.75,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            0.5,
-            1.25,
-            0.3125,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19628,
-          "recipe_id": 2246,
-          "group_label": "Vegan",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "26348fcc-0eb1-401c-b2aa-7301ba971285",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013348000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            8,
-            0.5,
-            1.25,
-            0.3125,
-            15,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19625,
-          "recipe_id": 2246,
-          "group_label": "Default",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "26038954-9e95-4cb4-bf64-685bed8adfdb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013350000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.75,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            0.5,
-            1.25,
-            0.3125,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19636,
-          "recipe_id": 2246,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Filipino-Style Veggie Ground Sauté with Potatoes, Peppers & Raisins",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "c485172a-a795-453c-9cb1-887a175206a9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013346000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1,
-            3,
-            6,
-            3,
-            24,
-            1.5,
-            3.75,
-            0.9375,
-            45,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19634,
-          "recipe_id": 2246,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "10488f45-c5c3-4ca4-a5a9-c85eb09b3491",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013346000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            8,
-            0.5,
-            1.25,
-            0.3125,
-            15,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19630,
-          "recipe_id": 2246,
-          "group_label": "Vegan",
-          "name": "Filipino-Style Veggie Ground Sauté with Potatoes, Peppers & Raisins",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "d43a02bd-13cd-4221-83bb-e42e511feffa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013348000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1,
-            3,
-            6,
-            3,
-            24,
-            1.5,
-            3.75,
-            0.9375,
-            45,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19629,
-          "recipe_id": 2246,
-          "group_label": "Vegan",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "858c3611-ab8f-4df1-bb25-1a206fab9cfa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013348000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            16,
-            1,
-            2.5,
-            0.625,
-            30,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19632,
-          "recipe_id": 2246,
-          "group_label": "Default auto-gluten-free",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "82e0e7b0-4e37-4e15-86d1-5fbe1bfbb1fa",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013347000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            1.5,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            1,
-            2.5,
-            0.625,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19627,
-          "recipe_id": 2246,
-          "group_label": "Default",
-          "name": "Filipino Beef Sauté (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "8bb91fec-11b7-48d0-a6b9-26c58c22c3a7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013349000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            2.25,
-            1,
-            3,
-            6,
-            3,
-            1.5,
-            3.75,
-            0.9375,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19626,
-          "recipe_id": 2246,
-          "group_label": "Default",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "76521ece-f056-4d1b-89c0-cf5d76ba7f3d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013349000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            1.5,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            1,
-            2.5,
-            0.625,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19648,
-          "recipe_id": 2246,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Filipino-Style Veggie Ground Sauté with Potatoes, Peppers & Raisins",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "a898bdf0-73b6-4abd-9ef6-f6bcea1957f5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013341000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1,
-            3,
-            6,
-            3,
-            680,
-            1.5,
-            3.75,
-            0.9375,
-            45,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19647,
-          "recipe_id": 2246,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "5428665a-5e5f-4727-8f2d-fbdde75cbae0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013342000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            454,
-            1,
-            2.5,
-            0.625,
-            30,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19646,
-          "recipe_id": 2246,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "25202d05-e6a4-475d-afea-b2ec94af0d2b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013342000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            227,
-            0.5,
-            1.25,
-            0.3125,
-            15,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19645,
-          "recipe_id": 2246,
-          "group_label": "Default auto-gluten-free",
-          "name": "Filipino Beef Sauté (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "b1cb42cc-3e11-4a41-ab11-92b956c6e114",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013343000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1.02,
-            1,
-            3,
-            6,
-            3,
-            1.5,
-            3.75,
-            0.9375,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19644,
-          "recipe_id": 2246,
-          "group_label": "Default auto-gluten-free",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "b0536bd3-fe0d-47cb-8e03-ffe6349acdd9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013343000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.68,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            1,
-            2.5,
-            0.625,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19643,
-          "recipe_id": 2246,
-          "group_label": "Default auto-gluten-free",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "7b071a59-97a6-45be-9479-e5cd249a7b51",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013343000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.34,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            0.5,
-            1.25,
-            0.3125,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19642,
-          "recipe_id": 2246,
-          "group_label": "Vegan",
-          "name": "Filipino-Style Veggie Ground Sauté with Potatoes, Peppers & Raisins",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "22ced068-9d11-4f1a-873b-a0d0891f41b3",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013344000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1,
-            3,
-            6,
-            3,
-            680,
-            1.5,
-            3.75,
-            0.9375,
-            45,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19641,
-          "recipe_id": 2246,
-          "group_label": "Vegan",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "4c2a3ba8-c4fc-467c-aaa7-7345f1957e46",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013344000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            454,
-            1,
-            2.5,
-            0.625,
-            30,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19640,
-          "recipe_id": 2246,
-          "group_label": "Vegan",
-          "name": "Filipino-Style Veggie Ground Skillet with Potatoes, Peppers & Raisins",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "0c7135fc-75a8-4d54-8b7c-c046d4239ecd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013344000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            214,
-            150,
-            149,
-            99,
-            444,
-            152,
-            72,
-            71,
-            47,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            227,
-            0.5,
-            1.25,
-            0.3125,
-            15,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19639,
-          "recipe_id": 2246,
-          "group_label": "Default",
-          "name": "Filipino Beef Sauté (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "2fc4c136-e273-418c-b65d-3493a143e697",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013345000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            3,
-            3,
-            1.02,
-            1,
-            3,
-            6,
-            3,
-            1.5,
-            3.75,
-            0.9375,
-            3.75,
-            45
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19638,
-          "recipe_id": 2246,
-          "group_label": "Default",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "7a6ba60c-5b5a-4ee7-97e4-9d70f275c902",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013345000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            2,
-            0.68,
-            0.6666666666666666,
-            2,
-            4,
-            2,
-            1,
-            2.5,
-            0.625,
-            2.5,
-            30
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        },
-        {
-          "id": 19637,
-          "recipe_id": 2246,
-          "group_label": "Default",
-          "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
-          "published_recipe_uuid": "bd5206de-9bf8-44c5-a8b5-358eed5731a1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1680013346000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            10
-          ],
-          "ingredient_ids": [
-            159,
-            24,
-            291,
-            168,
-            214,
-            150,
-            149,
-            99,
-            152,
-            72,
-            71,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            1,
-            0.34,
-            0.3333333333333333,
-            1,
-            2,
-            1,
-            0.5,
-            1.25,
-            0.3125,
-            1.25,
-            15
-          ],
-          "average_rating": 0.776,
-          "rating_count": 29,
-          "variety_tag_ids": [
-            32
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Experience the wonderful flavors of the Philippines with this hearty beef skillet. The tender and juicy beef is cooked to perfection with a medley of potatoes, peppers, and sweet raisins",
-        "keywords": [
-          "Skillets & Sautés"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 19626,
+  "recipe_id": 2246,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Filipino Beef Skillet (Giniling) with Potatoes, Peppers & Raisins",
+  "slug": "filipino-beef-skillet-giniling-potatoes-peppers-raisins",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/thumbnail_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2246/presentation_6b71357e-5dbd-4882-827a-613eda3495b8.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "filipino-beef-skillet-giniling-potatoes-peppers-raisins",
-    "variantId": "19626"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 326636,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 medium red potatoes\n2 medium carrots\n2 red bell peppers\n2 green bell peppers"
+    },
+    {
+      "id": 326637,
+      "primary_message": "Peel and small dice potatoes.",
+      "secondary_message": null
+    },
+    {
+      "id": 326638,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 326639,
+      "primary_message": "Once the skillet is hot, add potatoes and ground beef; cook, breaking the meat apart with a spoon, until browned and crumbly, 3-4 minutes.",
+      "secondary_message": "1 ½ lb lean ground beef"
+    },
+    {
+      "id": 326640,
+      "primary_message": "Meanwhile, peel, trim, and small dice carrots; place in a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 326641,
+      "primary_message": "Peel, halve, and small dice onion; peel and mince garlic. Add both to the bowl with the carrot.",
+      "secondary_message": "1 medium yellow onion\n2 cloves garlic"
+    },
+    {
+      "id": 326642,
+      "primary_message": "When the beef is done, add veggies to the skillet; continue to cook, stirring occasionally, until starting to soften, 6-7 minutes more.",
+      "secondary_message": null
+    },
+    {
+      "id": 326643,
+      "primary_message": "While the veggies are cooking, trim, seed, and small dice bell peppers.",
+      "secondary_message": null
+    },
+    {
+      "id": 326644,
+      "primary_message": "When the veggies are starting to soften, add bell peppers to the skillet along with tomato sauce, raisins, soy sauce, and spices. Stir to combine, cover, and bring to a simmer.",
+      "secondary_message": "2 (8 oz) cans tomato sauce\n⅔ cup raisins\n2 tbsp soy sauce\n½ tsp salt\n½ tsp black pepper\n⅛ tsp cayenne pepper"
+    },
+    {
+      "id": 326645,
+      "primary_message": "Once simmering, reduce heat to medium and cook, stirring occasionally, until the veggies are tender and liquid is mostly absorbed, 8-10 minutes. Remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 326646,
+      "primary_message": "To serve, divide skillet between plates or bowls and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 347962,
+      "quantity": "2 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 347953,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 347965,
+      "quantity": "2",
+      "ingredient_name": "green bell peppers"
+    },
+    {
+      "id": 347963,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "lean ground beef"
+    },
+    {
+      "id": 347964,
+      "quantity": "⅔ cup",
+      "ingredient_name": "raisins"
+    },
+    {
+      "id": 347960,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 347959,
+      "quantity": "4 medium",
+      "ingredient_name": "red potatoes"
+    },
+    {
+      "id": 347958,
+      "quantity": "2 (8 oz) cans",
+      "ingredient_name": "tomato sauce"
+    },
+    {
+      "id": 347961,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 347956,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 347955,
+      "quantity": "",
+      "ingredient_name": "cayenne pepper"
+    },
+    {
+      "id": 347957,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 347954,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 675.37,
+    "alcohol": 0,
+    "ash": 9.58,
+    "caffeine": 0,
+    "water": 558.11,
+    "carbs": 71.86,
+    "fiber": 9.95,
+    "starch": 30.64,
+    "sugars": 27.58,
+    "fructose": 12.22,
+    "galactose": 0,
+    "glucose": 12.17,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 2.25,
+    "sugar_alcohol": 0,
+    "fat": 26.71,
+    "monounsaturated": 11.1,
+    "polyunsaturated": 1.16,
+    "omega_3": 0.25,
+    "omega_6": 1,
+    "saturated": 9.94,
+    "transfats": 1.46,
+    "cholesterol": 115.67,
+    "protein": 40.27,
+    "alanine": 2.28,
+    "arginine": 2.53,
+    "aspartic_acid": 4.47,
+    "cystine": 0.45,
+    "glutamic_acid": 6.7,
+    "glycine": 2.39,
+    "histidine": 1.19,
+    "isoleucine": 1.66,
+    "leucine": 2.86,
+    "lysine": 3.02,
+    "methionine": 0.91,
+    "phenylalanine": 1.59,
+    "proline": 1.92,
+    "serine": 1.59,
+    "threonine": 1.55,
+    "tryptophan": 0.25,
+    "tyrosine": 1.14,
+    "valine": 1.91,
+    "b1_thiamine": 0.4,
+    "b2_riboflavin": 0.53,
+    "b3_niacin": 13.05,
+    "b5_pantothenic_acid": 2.3,
+    "b6_pyridoxine": 1.52,
+    "b12_cobalamin": 3.69,
+    "choline": 165.68,
+    "folate": 105.45,
+    "vitamin_a": 747.59,
+    "vitamin_c": 154.76,
+    "vitamin_d": 5.1,
+    "vitamin_e": 3.32,
+    "vitamin_k": 24.32,
+    "calcium": 108.13,
+    "copper": 0.69,
+    "iron": 7.42,
+    "magnesium": 128.98,
+    "manganese": 0.89,
+    "phosphorus": 539.08,
+    "potassium": 2392.71,
+    "selenium": 29.25,
+    "sodium": 192.78,
+    "zinc": 9.07
+  }
 }

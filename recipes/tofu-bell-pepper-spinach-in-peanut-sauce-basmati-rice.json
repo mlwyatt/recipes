@@ -1,741 +1,260 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2181,
-        "recipe_id": 248,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
-        "slug": "tofu-bell-pepper-spinach-in-peanut-sauce-basmati-rice",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 27,
-            "name": "stainless steel skillet",
-            "slug": "stainless-steel-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 20722,
-            "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a small saucepan. Add broth and water; bring the mixture to a boil over high heat.",
-            "secondary_message": "1 cup basmati rice\n12 fl oz (1 ½ cups) chicken or vegetable broth\n½ cup water"
-          },
-          {
-            "id": 20723,
-            "primary_message": "Wash and dry spinach.",
-            "secondary_message": "1 (5 oz) pkg baby spinach"
-          },
-          {
-            "id": 20724,
-            "primary_message": "Heat a skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 20725,
-            "primary_message": "Drain and pat dry tofu. Cut into ½ inch sticks.",
-            "secondary_message": "2 (12 oz) pkg extra firm tofu"
-          },
-          {
-            "id": 40267,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15 to 18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 20726,
-            "primary_message": "Wash, seed, and slice pepper into strips.",
-            "secondary_message": "2 red bell peppers"
-          },
-          {
-            "id": 20727,
-            "primary_message": "Coat bottom of skillet with oil. Add tofu and pepper. Gently stir fry until pepper is tender and tofu is lightly browned, 5-6 minutes.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 20728,
-            "primary_message": "Peel and mince the garlic. Wash, peel, and mince the ginger. Place both in a bowl with peanut butter, soy sauce, chili-garlic sauce, water, and maple syrup. Whisk to combine.",
-            "secondary_message": "2 clove garlic\n2 1-inch piece ginger\n¼ cup natural peanut butter\n¼ cup soy sauce\n2 tsp chili garlic sauce\n½ cup water\n2 tbsp maple syrup"
-          },
-          {
-            "id": 20729,
-            "primary_message": "Pour in sauce and add spinach to skillet. Remove from heat and stir until spinach is just wilted, 1-2 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 40266,
-            "primary_message": "Uncover the rice and fluff with a fork.",
-            "secondary_message": null
-          },
-          {
-            "id": 20730,
-            "primary_message": "Place rice in a bowl and top with tofu and veggies. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 27214,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 27216,
-            "quantity": "1 cup",
-            "ingredient_name": "basmati rice"
-          },
-          {
-            "id": 27212,
-            "quantity": "16 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 27215,
-            "quantity": "2 (12 oz) pkg",
-            "ingredient_name": "extra firm tofu"
-          },
-          {
-            "id": 89580,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 89581,
-            "quantity": "2 (1 inch) pieces",
-            "ingredient_name": "ginger root"
-          },
-          {
-            "id": 27211,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 89578,
-            "quantity": "",
-            "ingredient_name": "chili-garlic sauce"
-          },
-          {
-            "id": 27218,
-            "quantity": "",
-            "ingredient_name": "natural peanut butter"
-          },
-          {
-            "id": 89579,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 89577,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          },
-          {
-            "id": 27219,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 568.06,
-          "alcohol": 0,
-          "ash": 6.82,
-          "caffeine": 0,
-          "water": 371.73,
-          "carbs": 59.36,
-          "fiber": 5,
-          "starch": 3.18,
-          "sugars": 10.83,
-          "fructose": 1.58,
-          "galactose": 0.04,
-          "glucose": 1.68,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 7.53,
-          "sugar_alcohol": 0,
-          "fat": 26.46,
-          "monounsaturated": 12.27,
-          "polyunsaturated": 4.01,
-          "omega_3": 0.2,
-          "omega_6": 3.81,
-          "saturated": 8.39,
-          "transfats": 0.02,
-          "cholesterol": 0,
-          "protein": 29.78,
-          "alanine": 1.3,
-          "arginine": 2.18,
-          "aspartic_acid": 3.27,
-          "cystine": 0.43,
-          "glutamic_acid": 5.31,
-          "glycine": 1.29,
-          "histidine": 0.81,
-          "isoleucine": 1.38,
-          "leucine": 2.19,
-          "lysine": 1.74,
-          "methionine": 0.44,
-          "phenylalanine": 1.44,
-          "proline": 1.49,
-          "serine": 1.39,
-          "threonine": 1.17,
-          "tryptophan": 0.4,
-          "tyrosine": 1.01,
-          "valine": 1.48,
-          "b1_thiamine": 0.5,
-          "b2_riboflavin": 0.43,
-          "b3_niacin": 7.67,
-          "b5_pantothenic_acid": 1.93,
-          "b6_pyridoxine": 0.53,
-          "b12_cobalamin": 0.12,
-          "choline": 83.72,
-          "folate": 258.84,
-          "vitamin_a": 21.33,
-          "vitamin_c": 87.81,
-          "vitamin_d": 0,
-          "vitamin_e": 3.28,
-          "vitamin_k": 178.08,
-          "calcium": 383.46,
-          "copper": 0.68,
-          "iron": 7.31,
-          "magnesium": 184.46,
-          "manganese": 3.11,
-          "phosphorus": 448.23,
-          "potassium": 943.81,
-          "selenium": 31.14,
-          "sodium": 87.45,
-          "zinc": 3.72
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/tofu-bell-pepper-spinach-in-peanut-sauce-basmati-rice/2181",
-      "altVariants": [
-        {
-          "id": 5360,
-          "recipe_id": 248,
-          "group_label": "Classic",
-          "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "published_recipe_uuid": "9fdda54d-5dd5-4992-9213-798c52dbd48f",
-          "fallback_published_recipe_uuids": [
-            "8f3e10ff-f6e2-47cf-aced-67bf1ab231c7",
-            "5f0d1088-2579-4bd2-9ccc-582e24e6db79",
-            "6fc0ae32-0a6a-46a7-8f87-7212758842ff"
-          ],
-          "first_published_at": 1550527931000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            10,
-            5,
-            1,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            56,
-            24,
-            221,
-            150,
-            306,
-            101,
-            104,
-            53,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            24,
-            3,
-            3,
-            3,
-            3,
-            15,
-            90,
-            45,
-            90,
-            45
-          ],
-          "average_rating": 0.896,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2181,
-          "recipe_id": 248,
-          "group_label": "Classic",
-          "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "published_recipe_uuid": "285a3605-f038-44c9-8856-1aab35ea79c7",
-          "fallback_published_recipe_uuids": [
-            "c0fcd32c-f7bf-487a-ae5e-b3be9733f564",
-            "64b3e3a2-e728-463d-80af-0b48581d1eff",
-            "9a9100c4-f2a6-4ac8-a950-3570d4a18b71"
-          ],
-          "first_published_at": 1447956393000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            9,
-            5,
-            1,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            56,
-            24,
-            221,
-            150,
-            306,
-            101,
-            104,
-            53,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            16,
-            2,
-            2,
-            2,
-            2,
-            10,
-            60,
-            30,
-            60,
-            30
-          ],
-          "average_rating": 0.896,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2179,
-          "recipe_id": 248,
-          "group_label": "Classic",
-          "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "published_recipe_uuid": "583ccd63-4afd-4973-ba4f-c70f1facc39d",
-          "fallback_published_recipe_uuids": [
-            "6c255a3c-7f1f-4fc1-8e32-1d0a275a886c",
-            "48f87d5f-1294-4e7d-b61e-1e5bfbf1d698",
-            "a24a438d-b11f-4037-914b-86bc11636fc1"
-          ],
-          "first_published_at": 1447956393000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            9,
-            5,
-            1,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            56,
-            24,
-            221,
-            150,
-            306,
-            101,
-            104,
-            53,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            8,
-            1,
-            1,
-            1,
-            1,
-            5,
-            60,
-            15,
-            30,
-            15
-          ],
-          "average_rating": 0.896,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2180,
-          "recipe_id": 248,
-          "group_label": "Classic",
-          "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "published_recipe_uuid": "35c20100-61ff-4163-97de-4c015a858c1e",
-          "fallback_published_recipe_uuids": [
-            "5f7deff8-6edf-410e-9a15-f2d7874b85f9",
-            "3414e042-7a42-4d60-b4b6-18a07baeb353",
-            "b39ce3de-5939-426c-85a5-8636cf3152ed"
-          ],
-          "first_published_at": 1447956393000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            9,
-            5,
-            1,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            56,
-            24,
-            221,
-            150,
-            306,
-            101,
-            104,
-            53,
-            129
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.5,
-            236,
-            1,
-            1,
-            1,
-            1,
-            5,
-            30,
-            15,
-            30,
-            15
-          ],
-          "average_rating": 0.896,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5361,
-          "recipe_id": 248,
-          "group_label": "Classic",
-          "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "published_recipe_uuid": "f8c3147e-3697-4841-afbe-e4ea53042f7f",
-          "fallback_published_recipe_uuids": [
-            "10f994c1-3818-490c-a182-196eb58d8e2d",
-            "a25432ef-271a-4ca8-9e41-0ef4a3612b45",
-            "e84e02b0-ed08-462f-9f74-b4274b4f88e6"
-          ],
-          "first_published_at": 1550527937000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            5,
-            10,
-            1,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            56,
-            24,
-            221,
-            150,
-            306,
-            101,
-            104,
-            53,
-            129
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.5,
-            708,
-            3,
-            3,
-            3,
-            3,
-            15,
-            90,
-            45,
-            90,
-            45
-          ],
-          "average_rating": 0.896,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2182,
-          "recipe_id": 248,
-          "group_label": "Classic",
-          "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
-          "published_recipe_uuid": "8f7b37a9-1b93-4d8c-8255-b8e0b62d61ce",
-          "fallback_published_recipe_uuids": [
-            "c03b641a-a5b8-41ca-baba-f75bd573f3bc",
-            "30902908-bcbc-44be-bb40-f8196eaacd1b",
-            "90a7973f-c6c3-4e3c-8dfa-4fb2a71eaf1b"
-          ],
-          "first_published_at": 1447956393000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            9,
-            5,
-            1,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            269,
-            201,
-            56,
-            24,
-            221,
-            150,
-            306,
-            101,
-            104,
-            53,
-            129
-          ],
-          "ingredient_amounts": [
-            1,
-            1,
-            472,
-            2,
-            2,
-            2,
-            2,
-            10,
-            60,
-            30,
-            60,
-            30
-          ],
-          "average_rating": 0.896,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            11
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Stir-Fries"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.5
-      }
+  "id": 2181,
+  "recipe_id": 248,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Tofu, Bell Pepper & Spinach in Peanut Sauce with Basmati Rice",
+  "slug": "tofu-bell-pepper-spinach-in-peanut-sauce-basmati-rice",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/thumbnail_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/248/presentation_b9d292dd-a3db-4605-83c8-46df70858301.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "tofu-bell-pepper-spinach-in-peanut-sauce-basmati-rice",
-    "variantId": "2181"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 27,
+      "name": "stainless steel skillet",
+      "slug": "stainless-steel-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 20722,
+      "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a small saucepan. Add broth and water; bring the mixture to a boil over high heat.",
+      "secondary_message": "1 cup basmati rice\n12 fl oz (1 ½ cups) chicken or vegetable broth\n½ cup water"
+    },
+    {
+      "id": 20723,
+      "primary_message": "Wash and dry spinach.",
+      "secondary_message": "1 (5 oz) pkg baby spinach"
+    },
+    {
+      "id": 20724,
+      "primary_message": "Heat a skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 20725,
+      "primary_message": "Drain and pat dry tofu. Cut into ½ inch sticks.",
+      "secondary_message": "2 (12 oz) pkg extra firm tofu"
+    },
+    {
+      "id": 40267,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15 to 18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 20726,
+      "primary_message": "Wash, seed, and slice pepper into strips.",
+      "secondary_message": "2 red bell peppers"
+    },
+    {
+      "id": 20727,
+      "primary_message": "Coat bottom of skillet with oil. Add tofu and pepper. Gently stir fry until pepper is tender and tofu is lightly browned, 5-6 minutes.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 20728,
+      "primary_message": "Peel and mince the garlic. Wash, peel, and mince the ginger. Place both in a bowl with peanut butter, soy sauce, chili-garlic sauce, water, and maple syrup. Whisk to combine.",
+      "secondary_message": "2 clove garlic\n2 1-inch piece ginger\n¼ cup natural peanut butter\n¼ cup soy sauce\n2 tsp chili garlic sauce\n½ cup water\n2 tbsp maple syrup"
+    },
+    {
+      "id": 20729,
+      "primary_message": "Pour in sauce and add spinach to skillet. Remove from heat and stir until spinach is just wilted, 1-2 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 40266,
+      "primary_message": "Uncover the rice and fluff with a fork.",
+      "secondary_message": null
+    },
+    {
+      "id": 20730,
+      "primary_message": "Place rice in a bowl and top with tofu and veggies. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 27214,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 27216,
+      "quantity": "1 cup",
+      "ingredient_name": "basmati rice"
+    },
+    {
+      "id": 27212,
+      "quantity": "16 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 27215,
+      "quantity": "2 (12 oz) pkg",
+      "ingredient_name": "extra firm tofu"
+    },
+    {
+      "id": 89580,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 89581,
+      "quantity": "2 (1 inch) pieces",
+      "ingredient_name": "ginger root"
+    },
+    {
+      "id": 27211,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 89578,
+      "quantity": "",
+      "ingredient_name": "chili-garlic sauce"
+    },
+    {
+      "id": 27218,
+      "quantity": "",
+      "ingredient_name": "natural peanut butter"
+    },
+    {
+      "id": 89579,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 89577,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    },
+    {
+      "id": 27219,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 568.06,
+    "alcohol": 0,
+    "ash": 6.82,
+    "caffeine": 0,
+    "water": 371.73,
+    "carbs": 59.36,
+    "fiber": 5,
+    "starch": 3.18,
+    "sugars": 10.83,
+    "fructose": 1.58,
+    "galactose": 0.04,
+    "glucose": 1.68,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 7.53,
+    "sugar_alcohol": 0,
+    "fat": 26.46,
+    "monounsaturated": 12.27,
+    "polyunsaturated": 4.01,
+    "omega_3": 0.2,
+    "omega_6": 3.81,
+    "saturated": 8.39,
+    "transfats": 0.02,
+    "cholesterol": 0,
+    "protein": 29.78,
+    "alanine": 1.3,
+    "arginine": 2.18,
+    "aspartic_acid": 3.27,
+    "cystine": 0.43,
+    "glutamic_acid": 5.31,
+    "glycine": 1.29,
+    "histidine": 0.81,
+    "isoleucine": 1.38,
+    "leucine": 2.19,
+    "lysine": 1.74,
+    "methionine": 0.44,
+    "phenylalanine": 1.44,
+    "proline": 1.49,
+    "serine": 1.39,
+    "threonine": 1.17,
+    "tryptophan": 0.4,
+    "tyrosine": 1.01,
+    "valine": 1.48,
+    "b1_thiamine": 0.5,
+    "b2_riboflavin": 0.43,
+    "b3_niacin": 7.67,
+    "b5_pantothenic_acid": 1.93,
+    "b6_pyridoxine": 0.53,
+    "b12_cobalamin": 0.12,
+    "choline": 83.72,
+    "folate": 258.84,
+    "vitamin_a": 21.33,
+    "vitamin_c": 87.81,
+    "vitamin_d": 0,
+    "vitamin_e": 3.28,
+    "vitamin_k": 178.08,
+    "calcium": 383.46,
+    "copper": 0.68,
+    "iron": 7.31,
+    "magnesium": 184.46,
+    "manganese": 3.11,
+    "phosphorus": 448.23,
+    "potassium": 943.81,
+    "selenium": 31.14,
+    "sodium": 87.45,
+    "zinc": 3.72
+  }
 }

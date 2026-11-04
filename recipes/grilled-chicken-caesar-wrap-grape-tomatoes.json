@@ -1,763 +1,265 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 1713,
-        "recipe_id": 98,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
-        "slug": "grilled-chicken-caesar-wrap-grape-tomatoes",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 15450,
-            "primary_message": "Heat a grill pan, outdoor grill, or skillet over medium-high heat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 15451,
-            "primary_message": "Peel and mince garlic. Grate 2 tsp of lemon zest. In a medium bowl, prepare marinade by whisking together ½ of the garlic (save the rest for the dressing), lemon zest and juice, olive oil, salt, and pepper.",
-            "secondary_message": "4 cloves garlic\nzest and juice from 1 lemon\n2 tbsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 15452,
-            "primary_message": "Slice chicken in half horizontally to form thin fillets. Add to marinade and toss to coat.",
-            "secondary_message": "1 lb chicken breasts, boneless skinless "
-          },
-          {
-            "id": 15453,
-            "primary_message": "Coat grill or bottom of skillet with oil. Add chicken and cook until cooked through, 2-3 minutes per side.",
-            "secondary_message": "2 tbsp virgin coconut oil"
-          },
-          {
-            "id": 15454,
-            "primary_message": "Wash and dry lettuce. Halve lengthwise, then chop crosswise into 1 inch strips. Transfer to a large bowl.",
-            "secondary_message": "1 head romaine lettuce"
-          },
-          {
-            "id": 15455,
-            "primary_message": "Grate ¼ cup of Parmesan. In a medium bowl, prepare dressing by whisking together remaining garlic, Parmesan, lemon juice, yogurt, olive oil, Dijon, Worcestershire, salt, and pepper.",
-            "secondary_message": "1 oz Parmesan cheese\njuice of ½ lemon\n¼ cup plain Greek yogurt\n4 tbsp extra virgin olive oil\n½ tsp Dijon mustard\n½ tsp Worcestershire sauce\n¼ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 15456,
-            "primary_message": "Pour dressing into bowl with lettuce and toss to coat.",
-            "secondary_message": ""
-          },
-          {
-            "id": 15457,
-            "primary_message": "Thinly slice chicken into strips.",
-            "secondary_message": ""
-          },
-          {
-            "id": 15458,
-            "primary_message": "Place tortillas on a flat surface, add lettuce to the middle, and top with chicken. Tightly roll to close. Place on the grill/skillet seam side down and toast until golden brown, 1-2 minutes per side.",
-            "secondary_message": "4 large flour tortillas"
-          },
-          {
-            "id": 15459,
-            "primary_message": "Slice remaining lemon into wedges. Wash tomatoes.",
-            "secondary_message": "½ lemon\r\n2 pints grape tomatoes"
-          },
-          {
-            "id": 15460,
-            "primary_message": "To serve, place chicken wraps on a plate, add tomatoes on the side, and garnish with lemon wedges. Enjoy!",
-            "secondary_message": ""
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 21141,
-            "quantity": "1 lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 21135,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 21128,
-            "quantity": "2 pints",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 21129,
-            "quantity": "4",
-            "ingredient_name": "large flour tortillas"
-          },
-          {
-            "id": 21138,
-            "quantity": "2",
-            "ingredient_name": "lemons"
-          },
-          {
-            "id": 21130,
-            "quantity": "1 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 21131,
-            "quantity": "¼ cup",
-            "ingredient_name": "plain Greek yogurt"
-          },
-          {
-            "id": 21132,
-            "quantity": "1 head",
-            "ingredient_name": "romaine lettuce"
-          },
-          {
-            "id": 21139,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 21136,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 21133,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 21140,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 21134,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          },
-          {
-            "id": 21137,
-            "quantity": "",
-            "ingredient_name": "Worcestershire sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 664.46,
-          "alcohol": 0,
-          "ash": 5.91,
-          "caffeine": 0,
-          "water": 425.28,
-          "carbs": 46.2,
-          "fiber": 6.64,
-          "starch": 27.84,
-          "sugars": 9.57,
-          "fructose": 3.5,
-          "galactose": 0.11,
-          "glucose": 2.69,
-          "lactose": 0.45,
-          "maltose": 2.25,
-          "sucrose": 0.57,
-          "sugar_alcohol": 0,
-          "fat": 37.34,
-          "monounsaturated": 18.99,
-          "polyunsaturated": 4.09,
-          "omega_3": 0.43,
-          "omega_6": 3.62,
-          "saturated": 11.76,
-          "transfats": 0.84,
-          "cholesterol": 88.37,
-          "protein": 38.07,
-          "alanine": 1.94,
-          "arginine": 2.22,
-          "aspartic_acid": 3.38,
-          "cystine": 0.45,
-          "glutamic_acid": 7.35,
-          "glycine": 1.51,
-          "histidine": 1.27,
-          "isoleucine": 1.76,
-          "leucine": 3.04,
-          "lysine": 3.1,
-          "methionine": 0.9,
-          "phenylalanine": 1.64,
-          "proline": 1.92,
-          "serine": 1.59,
-          "threonine": 1.58,
-          "tryptophan": 0.48,
-          "tyrosine": 1.34,
-          "valine": 1.92,
-          "b1_thiamine": 0.59,
-          "b2_riboflavin": 0.49,
-          "b3_niacin": 14.58,
-          "b5_pantothenic_acid": 2.28,
-          "b6_pyridoxine": 1.25,
-          "b12_cobalamin": 0.44,
-          "choline": 128.55,
-          "folate": 327.25,
-          "vitamin_a": 1285.25,
-          "vitamin_c": 36.01,
-          "vitamin_d": 2.48,
-          "vitamin_e": 4.74,
-          "vitamin_k": 187.01,
-          "calcium": 163.81,
-          "copper": 0.29,
-          "iron": 4.72,
-          "magnesium": 89.52,
-          "manganese": 0.83,
-          "phosphorus": 518.25,
-          "potassium": 1267.82,
-          "selenium": 45.08,
-          "sodium": 510.17,
-          "zinc": 2.05
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-chicken-caesar-wrap-grape-tomatoes/1713",
-      "altVariants": [
-        {
-          "id": 5133,
-          "recipe_id": 98,
-          "group_label": "Classic",
-          "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "published_recipe_uuid": "16b0b14b-c960-47fc-b670-41812d5067e0",
-          "fallback_published_recipe_uuids": [
-            "ad26f9d0-82ea-4c2a-90e1-38b517b113f5",
-            "a62bea89-02e3-465b-9391-77123f5d0501"
-          ],
-          "first_published_at": 1550532914000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            3,
-            13,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            44,
-            24,
-            277,
-            187,
-            192,
-            120,
-            122,
-            25,
-            72,
-            117,
-            47,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            3,
-            6,
-            3,
-            1.5,
-            0.375,
-            1.5,
-            3.69,
-            3.75,
-            135,
-            3.69,
-            45,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            27,
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1713,
-          "recipe_id": 98,
-          "group_label": "Classic",
-          "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "published_recipe_uuid": "e34bdd48-f313-42ef-be33-dc9488663531",
-          "fallback_published_recipe_uuids": [
-            "4674ce80-797a-445e-aaac-d7fb59149ca3",
-            "e6928349-1116-4334-8b55-16bd1f1c1911",
-            "6cc414c2-7978-40b7-9af9-53a001a0d2f9"
-          ],
-          "first_published_at": 1447956327000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            3,
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            44,
-            24,
-            277,
-            187,
-            192,
-            120,
-            122,
-            25,
-            72,
-            117,
-            47,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            4,
-            2,
-            1,
-            0.25,
-            1,
-            2.46,
-            2.5,
-            90,
-            2.46,
-            30,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            27,
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1711,
-          "recipe_id": 98,
-          "group_label": "Classic",
-          "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "published_recipe_uuid": "e7637a28-7c3f-467b-bbfb-eb9044739218",
-          "fallback_published_recipe_uuids": [
-            "1a0eab1b-7866-4157-b2b3-9b541262a14f",
-            "925b7933-ba25-4681-a061-065f9bc62936",
-            "139468a7-a629-4d12-8e52-3abcfeb6c201"
-          ],
-          "first_published_at": 1447956326000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            10,
-            3,
-            1,
-            2
-          ],
-          "ingredient_ids": [
-            44,
-            24,
-            277,
-            187,
-            192,
-            120,
-            122,
-            25,
-            72,
-            117,
-            47,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            1,
-            2,
-            1,
-            0.5,
-            0.125,
-            0.5,
-            1.23,
-            1.25,
-            45,
-            1.23,
-            15,
-            1.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            27,
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5132,
-          "recipe_id": 98,
-          "group_label": "Classic",
-          "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "published_recipe_uuid": "bc2bd87d-89bb-4fdf-8fb5-1c327cf05c5f",
-          "fallback_published_recipe_uuids": [
-            "25f09ad4-f886-41ea-8f33-09ea9c677f58",
-            "4f5573fb-c323-46bc-be25-d4ce6764ebd8"
-          ],
-          "first_published_at": 1550532889000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            10,
-            3,
-            13,
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            44,
-            24,
-            277,
-            187,
-            192,
-            120,
-            122,
-            25,
-            72,
-            117,
-            47,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            0.681,
-            6,
-            3,
-            6,
-            3,
-            42,
-            0.375,
-            1.5,
-            3.69,
-            3.75,
-            135,
-            3.69,
-            45,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            27,
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 1712,
-          "recipe_id": 98,
-          "group_label": "Classic",
-          "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "published_recipe_uuid": "356a469d-1917-4581-b583-cbfee2244561",
-          "fallback_published_recipe_uuids": [
-            "71ad4ec0-fcf8-42cd-b41e-9387b278881c",
-            "ef868191-933c-4de9-bd88-541f1b41ee27",
-            "0bbcbba5-5713-458a-afac-8a2ecfc9cb9b"
-          ],
-          "first_published_at": 1447956327000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            2,
-            14,
-            13,
-            3
-          ],
-          "ingredient_ids": [
-            44,
-            24,
-            277,
-            187,
-            192,
-            120,
-            122,
-            25,
-            72,
-            117,
-            47,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            0.454,
-            4,
-            2,
-            4,
-            2,
-            28,
-            0.25,
-            1,
-            2.46,
-            2.5,
-            90,
-            2.46,
-            30,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            27,
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 651,
-          "recipe_id": 98,
-          "group_label": "Classic",
-          "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
-          "published_recipe_uuid": "5d722624-0336-4c76-a390-d68e5ad04c03",
-          "fallback_published_recipe_uuids": [
-            "1ac37083-795e-4795-8342-b5260b476b22",
-            "e325a31c-f2f1-4290-9cba-8e6be4ac13aa",
-            "03500465-d6b6-4f7a-80c3-d024cc9a47cf"
-          ],
-          "first_published_at": 1447956129000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            1,
-            2,
-            14,
-            13,
-            3
-          ],
-          "ingredient_ids": [
-            44,
-            24,
-            277,
-            187,
-            192,
-            120,
-            122,
-            25,
-            72,
-            117,
-            47,
-            88,
-            129,
-            136
-          ],
-          "ingredient_amounts": [
-            0.227,
-            2,
-            1,
-            2,
-            1,
-            14,
-            0.125,
-            0.5,
-            1.23,
-            1.25,
-            45,
-            1.23,
-            15,
-            1.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-            27,
-            22
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Wraps",
-          "BBQ & Grilling"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 1713,
+  "recipe_id": 98,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Grilled Chicken Caesar Wrap with Grape Tomatoes",
+  "slug": "grilled-chicken-caesar-wrap-grape-tomatoes",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/thumbnail_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/98/presentation_574dfdd3-a861-4906-8cf3-41a8d77582cc.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-chicken-caesar-wrap-grape-tomatoes",
-    "variantId": "1713"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 15450,
+      "primary_message": "Heat a grill pan, outdoor grill, or skillet over medium-high heat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 15451,
+      "primary_message": "Peel and mince garlic. Grate 2 tsp of lemon zest. In a medium bowl, prepare marinade by whisking together ½ of the garlic (save the rest for the dressing), lemon zest and juice, olive oil, salt, and pepper.",
+      "secondary_message": "4 cloves garlic\nzest and juice from 1 lemon\n2 tbsp extra virgin olive oil\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 15452,
+      "primary_message": "Slice chicken in half horizontally to form thin fillets. Add to marinade and toss to coat.",
+      "secondary_message": "1 lb chicken breasts, boneless skinless "
+    },
+    {
+      "id": 15453,
+      "primary_message": "Coat grill or bottom of skillet with oil. Add chicken and cook until cooked through, 2-3 minutes per side.",
+      "secondary_message": "2 tbsp virgin coconut oil"
+    },
+    {
+      "id": 15454,
+      "primary_message": "Wash and dry lettuce. Halve lengthwise, then chop crosswise into 1 inch strips. Transfer to a large bowl.",
+      "secondary_message": "1 head romaine lettuce"
+    },
+    {
+      "id": 15455,
+      "primary_message": "Grate ¼ cup of Parmesan. In a medium bowl, prepare dressing by whisking together remaining garlic, Parmesan, lemon juice, yogurt, olive oil, Dijon, Worcestershire, salt, and pepper.",
+      "secondary_message": "1 oz Parmesan cheese\njuice of ½ lemon\n¼ cup plain Greek yogurt\n4 tbsp extra virgin olive oil\n½ tsp Dijon mustard\n½ tsp Worcestershire sauce\n¼ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 15456,
+      "primary_message": "Pour dressing into bowl with lettuce and toss to coat.",
+      "secondary_message": ""
+    },
+    {
+      "id": 15457,
+      "primary_message": "Thinly slice chicken into strips.",
+      "secondary_message": ""
+    },
+    {
+      "id": 15458,
+      "primary_message": "Place tortillas on a flat surface, add lettuce to the middle, and top with chicken. Tightly roll to close. Place on the grill/skillet seam side down and toast until golden brown, 1-2 minutes per side.",
+      "secondary_message": "4 large flour tortillas"
+    },
+    {
+      "id": 15459,
+      "primary_message": "Slice remaining lemon into wedges. Wash tomatoes.",
+      "secondary_message": "½ lemon\r\n2 pints grape tomatoes"
+    },
+    {
+      "id": 15460,
+      "primary_message": "To serve, place chicken wraps on a plate, add tomatoes on the side, and garnish with lemon wedges. Enjoy!",
+      "secondary_message": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 21141,
+      "quantity": "1 lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 21135,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 21128,
+      "quantity": "2 pints",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 21129,
+      "quantity": "4",
+      "ingredient_name": "large flour tortillas"
+    },
+    {
+      "id": 21138,
+      "quantity": "2",
+      "ingredient_name": "lemons"
+    },
+    {
+      "id": 21130,
+      "quantity": "1 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 21131,
+      "quantity": "¼ cup",
+      "ingredient_name": "plain Greek yogurt"
+    },
+    {
+      "id": 21132,
+      "quantity": "1 head",
+      "ingredient_name": "romaine lettuce"
+    },
+    {
+      "id": 21139,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 21136,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 21133,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 21140,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 21134,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    },
+    {
+      "id": 21137,
+      "quantity": "",
+      "ingredient_name": "Worcestershire sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 664.46,
+    "alcohol": 0,
+    "ash": 5.91,
+    "caffeine": 0,
+    "water": 425.28,
+    "carbs": 46.2,
+    "fiber": 6.64,
+    "starch": 27.84,
+    "sugars": 9.57,
+    "fructose": 3.5,
+    "galactose": 0.11,
+    "glucose": 2.69,
+    "lactose": 0.45,
+    "maltose": 2.25,
+    "sucrose": 0.57,
+    "sugar_alcohol": 0,
+    "fat": 37.34,
+    "monounsaturated": 18.99,
+    "polyunsaturated": 4.09,
+    "omega_3": 0.43,
+    "omega_6": 3.62,
+    "saturated": 11.76,
+    "transfats": 0.84,
+    "cholesterol": 88.37,
+    "protein": 38.07,
+    "alanine": 1.94,
+    "arginine": 2.22,
+    "aspartic_acid": 3.38,
+    "cystine": 0.45,
+    "glutamic_acid": 7.35,
+    "glycine": 1.51,
+    "histidine": 1.27,
+    "isoleucine": 1.76,
+    "leucine": 3.04,
+    "lysine": 3.1,
+    "methionine": 0.9,
+    "phenylalanine": 1.64,
+    "proline": 1.92,
+    "serine": 1.59,
+    "threonine": 1.58,
+    "tryptophan": 0.48,
+    "tyrosine": 1.34,
+    "valine": 1.92,
+    "b1_thiamine": 0.59,
+    "b2_riboflavin": 0.49,
+    "b3_niacin": 14.58,
+    "b5_pantothenic_acid": 2.28,
+    "b6_pyridoxine": 1.25,
+    "b12_cobalamin": 0.44,
+    "choline": 128.55,
+    "folate": 327.25,
+    "vitamin_a": 1285.25,
+    "vitamin_c": 36.01,
+    "vitamin_d": 2.48,
+    "vitamin_e": 4.74,
+    "vitamin_k": 187.01,
+    "calcium": 163.81,
+    "copper": 0.29,
+    "iron": 4.72,
+    "magnesium": 89.52,
+    "manganese": 0.83,
+    "phosphorus": 518.25,
+    "potassium": 1267.82,
+    "selenium": 45.08,
+    "sodium": 510.17,
+    "zinc": 2.05
+  }
 }

@@ -1,573 +1,170 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 8390,
-        "recipe_id": 947,
-        "serving_count": 4,
-        "cooking_minutes": 10,
-        "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
-        "slug": "mixed-berry-smoothie-bowl-cinnamon-almonds",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 175036,
-            "primary_message": "This recipe will make about 8 cups. Work in batches to best fit your blender.",
-            "secondary_message": null
-          },
-          {
-            "id": 175037,
-            "primary_message": "Peel the bananas. Break into chunks and add to blender.",
-            "secondary_message": "2 bananas"
-          },
-          {
-            "id": 175038,
-            "primary_message": "Add almond milk, raspberries, blueberries, almond butter, and cinnamon to the blender. ",
-            "secondary_message": "16 fl oz (2 cups) almond milk, unsweetened\n2 cup frozen raspberries\n2 cup frozen blueberries\n¼ cup natural almond butter\n1 tsp cinnamon"
-          },
-          {
-            "id": 175039,
-            "primary_message": "Blend on high speed for several minutes until smooth. ",
-            "secondary_message": null
-          },
-          {
-            "id": 175040,
-            "primary_message": "Divide the smoothie between bowls and top with additional raspberries, blueberries, and almonds. ",
-            "secondary_message": "½ cup frozen raspberries\n½ cup frozen blueberries\n½ cup almonds, sliced"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 182179,
-            "quantity": "16 fl oz",
-            "ingredient_name": "almond milk, unsweetened"
-          },
-          {
-            "id": 182177,
-            "quantity": "½ cup",
-            "ingredient_name": "almonds, sliced"
-          },
-          {
-            "id": 182178,
-            "quantity": "2",
-            "ingredient_name": "bananas"
-          },
-          {
-            "id": 182181,
-            "quantity": "2 ½ cups",
-            "ingredient_name": "frozen blueberries"
-          },
-          {
-            "id": 182180,
-            "quantity": "2 ½ cups",
-            "ingredient_name": "frozen raspberries"
-          },
-          {
-            "id": 182175,
-            "quantity": "",
-            "ingredient_name": "cinnamon, ground"
-          },
-          {
-            "id": 182176,
-            "quantity": "",
-            "ingredient_name": "natural almond butter"
-          }
-        ],
-        "nutrition": {
-          "energy": 362.53,
-          "alcohol": 0,
-          "ash": 2.91,
-          "caffeine": 0,
-          "water": 315.53,
-          "carbs": 51.72,
-          "fiber": 10.97,
-          "starch": 0.52,
-          "sugars": 32.74,
-          "fructose": 5.75,
-          "galactose": 0.01,
-          "glucose": 5.51,
-          "lactose": 0,
-          "maltose": 0.02,
-          "sucrose": 4.01,
-          "sugar_alcohol": 0,
-          "fat": 16.83,
-          "monounsaturated": 9.6,
-          "polyunsaturated": 4.01,
-          "omega_3": 0.04,
-          "omega_6": 3.95,
-          "saturated": 1.27,
-          "transfats": 0,
-          "cholesterol": 0,
-          "protein": 7.68,
-          "alanine": 0.29,
-          "arginine": 0.68,
-          "aspartic_acid": 0.71,
-          "cystine": 0.07,
-          "glutamic_acid": 1.7,
-          "glycine": 0.41,
-          "histidine": 0.16,
-          "isoleucine": 0.23,
-          "leucine": 0.43,
-          "lysine": 0.17,
-          "methionine": 0.04,
-          "phenylalanine": 0.33,
-          "proline": 0.27,
-          "serine": 0.26,
-          "threonine": 0.17,
-          "tryptophan": 0.05,
-          "tyrosine": 0.15,
-          "valine": 0.26,
-          "b1_thiamine": 0.13,
-          "b2_riboflavin": 0.43,
-          "b3_niacin": 1.84,
-          "b5_pantothenic_acid": 0.59,
-          "b6_pyridoxine": 0.14,
-          "b12_cobalamin": 0,
-          "choline": 23.26,
-          "folate": 45.79,
-          "vitamin_a": 111.19,
-          "vitamin_c": 16.49,
-          "vitamin_d": 53.84,
-          "vitamin_e": 16.24,
-          "vitamin_k": 15.87,
-          "calcium": 354.1,
-          "copper": 0.41,
-          "iron": 2.42,
-          "magnesium": 105.67,
-          "manganese": 1.53,
-          "phosphorus": 180.82,
-          "potassium": 509.61,
-          "selenium": 1.18,
-          "sodium": 100.26,
-          "zinc": 1.3
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/mixed-berry-smoothie-bowl-cinnamon-almonds/8390",
-      "altVariants": [
-        {
-          "id": 8391,
-          "recipe_id": 947,
-          "group_label": "Default",
-          "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "published_recipe_uuid": "3ce64669-13e1-4084-b920-4a7e4a564a54",
-          "fallback_published_recipe_uuids": [
-            "a99c4cfc-fc00-4466-9775-34c365398744",
-            "b070ec17-8030-48c1-906b-d62eff0e6e64",
-            "2409198a-fb12-4438-8737-20179716c722"
-          ],
-          "first_published_at": 1569861884000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            298,
-            317,
-            336,
-            335,
-            74,
-            102
-          ],
-          "ingredient_amounts": [
-            24,
-            0.75,
-            3,
-            900,
-            900,
-            7.5,
-            90
-          ],
-          "average_rating": 0.938,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8390,
-          "recipe_id": 947,
-          "group_label": "Default",
-          "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "published_recipe_uuid": "9c46e850-e6b1-46eb-97bd-c3ce55eae20e",
-          "fallback_published_recipe_uuids": [
-            "c41e86bd-a565-49cc-b187-d2a2e8b56dfb",
-            "8dd3bfc3-13ff-4900-bac2-6bf1cf730f39",
-            "f75fcd2f-d2c1-4430-9ed1-12f60b96aaa1"
-          ],
-          "first_published_at": 1569861884000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            298,
-            317,
-            336,
-            335,
-            74,
-            102
-          ],
-          "ingredient_amounts": [
-            16,
-            0.5,
-            2,
-            600,
-            600,
-            5,
-            60
-          ],
-          "average_rating": 0.938,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8389,
-          "recipe_id": 947,
-          "group_label": "Default",
-          "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "published_recipe_uuid": "ac7a0941-069b-4b06-9c65-94e61f91617a",
-          "fallback_published_recipe_uuids": [
-            "21f7fb9d-f965-4c8f-9980-492a6955df23",
-            "fe67647d-05e8-4a60-bf90-772518b19c19",
-            "7b234f21-2fb8-4a22-8e03-3650b0261cfa"
-          ],
-          "first_published_at": 1569861883000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            298,
-            317,
-            336,
-            335,
-            74,
-            102
-          ],
-          "ingredient_amounts": [
-            8,
-            0.25,
-            1,
-            300,
-            300,
-            2.5,
-            30
-          ],
-          "average_rating": 0.938,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8394,
-          "recipe_id": 947,
-          "group_label": "Default",
-          "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "published_recipe_uuid": "fc31f1fd-8c89-4e26-a7a7-52fa0a1a4dfe",
-          "fallback_published_recipe_uuids": [
-            "c124309c-b78c-40f3-b1d2-2c28dca7ecfc",
-            "0bba346b-02f6-42f3-93c4-6fbd706ff930",
-            "27c1cff4-7ad7-42ec-9fe0-ea45a8a3003c"
-          ],
-          "first_published_at": 1569861886000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            298,
-            317,
-            336,
-            335,
-            74,
-            102
-          ],
-          "ingredient_amounts": [
-            710,
-            0.75,
-            3,
-            900,
-            900,
-            7.5,
-            90
-          ],
-          "average_rating": 0.938,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8393,
-          "recipe_id": 947,
-          "group_label": "Default",
-          "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "published_recipe_uuid": "ffeee784-5823-4532-a9ff-1707fd6be9bf",
-          "fallback_published_recipe_uuids": [
-            "069a2448-2294-41b0-816c-e0807e1f85f6",
-            "b0ebaa40-bc73-4572-aa46-21f526f0f3d5",
-            "b30649fe-f6cd-4023-a477-8f204061f876"
-          ],
-          "first_published_at": 1569861885000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            298,
-            317,
-            336,
-            335,
-            74,
-            102
-          ],
-          "ingredient_amounts": [
-            473,
-            0.5,
-            2,
-            600,
-            600,
-            5,
-            60
-          ],
-          "average_rating": 0.938,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 8392,
-          "recipe_id": 947,
-          "group_label": "Default",
-          "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
-          "published_recipe_uuid": "4f120235-9ac7-412a-a829-8576c47609e4",
-          "fallback_published_recipe_uuids": [
-            "7e4d81cb-6d54-475f-b4b9-78ecb812c9ff",
-            "d0570cd1-394c-4c69-a789-53f22dd165e6",
-            "b0a8f088-681f-431d-ac17-48f7cf103f25"
-          ],
-          "first_published_at": 1569861885000,
-          "allowed_type_ids": [
-            4,
-            5,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            328,
-            298,
-            317,
-            336,
-            335,
-            74,
-            102
-          ],
-          "ingredient_amounts": [
-            237,
-            0.25,
-            1,
-            300,
-            300,
-            2.5,
-            30
-          ],
-          "average_rating": 0.938,
-          "rating_count": 8,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.7
-      }
+  "id": 8390,
+  "recipe_id": 947,
+  "serving_count": 4,
+  "cooking_minutes": 10,
+  "name": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
+  "slug": "mixed-berry-smoothie-bowl-cinnamon-almonds",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/thumbnail_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "mixed-berry-smoothie-bowl-cinnamon-almonds",
-    "variantId": "8390"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 175036,
+      "primary_message": "This recipe will make about 8 cups. Work in batches to best fit your blender.",
+      "secondary_message": null
+    },
+    {
+      "id": 175037,
+      "primary_message": "Peel the bananas. Break into chunks and add to blender.",
+      "secondary_message": "2 bananas"
+    },
+    {
+      "id": 175038,
+      "primary_message": "Add almond milk, raspberries, blueberries, almond butter, and cinnamon to the blender. ",
+      "secondary_message": "16 fl oz (2 cups) almond milk, unsweetened\n2 cup frozen raspberries\n2 cup frozen blueberries\n¼ cup natural almond butter\n1 tsp cinnamon"
+    },
+    {
+      "id": 175039,
+      "primary_message": "Blend on high speed for several minutes until smooth. ",
+      "secondary_message": null
+    },
+    {
+      "id": 175040,
+      "primary_message": "Divide the smoothie between bowls and top with additional raspberries, blueberries, and almonds. ",
+      "secondary_message": "½ cup frozen raspberries\n½ cup frozen blueberries\n½ cup almonds, sliced"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 182179,
+      "quantity": "16 fl oz",
+      "ingredient_name": "almond milk, unsweetened"
+    },
+    {
+      "id": 182177,
+      "quantity": "½ cup",
+      "ingredient_name": "almonds, sliced"
+    },
+    {
+      "id": 182178,
+      "quantity": "2",
+      "ingredient_name": "bananas"
+    },
+    {
+      "id": 182181,
+      "quantity": "2 ½ cups",
+      "ingredient_name": "frozen blueberries"
+    },
+    {
+      "id": 182180,
+      "quantity": "2 ½ cups",
+      "ingredient_name": "frozen raspberries"
+    },
+    {
+      "id": 182175,
+      "quantity": "",
+      "ingredient_name": "cinnamon, ground"
+    },
+    {
+      "id": 182176,
+      "quantity": "",
+      "ingredient_name": "natural almond butter"
+    }
+  ],
+  "nutrition": {
+    "energy": 362.53,
+    "alcohol": 0,
+    "ash": 2.91,
+    "caffeine": 0,
+    "water": 315.53,
+    "carbs": 51.72,
+    "fiber": 10.97,
+    "starch": 0.52,
+    "sugars": 32.74,
+    "fructose": 5.75,
+    "galactose": 0.01,
+    "glucose": 5.51,
+    "lactose": 0,
+    "maltose": 0.02,
+    "sucrose": 4.01,
+    "sugar_alcohol": 0,
+    "fat": 16.83,
+    "monounsaturated": 9.6,
+    "polyunsaturated": 4.01,
+    "omega_3": 0.04,
+    "omega_6": 3.95,
+    "saturated": 1.27,
+    "transfats": 0,
+    "cholesterol": 0,
+    "protein": 7.68,
+    "alanine": 0.29,
+    "arginine": 0.68,
+    "aspartic_acid": 0.71,
+    "cystine": 0.07,
+    "glutamic_acid": 1.7,
+    "glycine": 0.41,
+    "histidine": 0.16,
+    "isoleucine": 0.23,
+    "leucine": 0.43,
+    "lysine": 0.17,
+    "methionine": 0.04,
+    "phenylalanine": 0.33,
+    "proline": 0.27,
+    "serine": 0.26,
+    "threonine": 0.17,
+    "tryptophan": 0.05,
+    "tyrosine": 0.15,
+    "valine": 0.26,
+    "b1_thiamine": 0.13,
+    "b2_riboflavin": 0.43,
+    "b3_niacin": 1.84,
+    "b5_pantothenic_acid": 0.59,
+    "b6_pyridoxine": 0.14,
+    "b12_cobalamin": 0,
+    "choline": 23.26,
+    "folate": 45.79,
+    "vitamin_a": 111.19,
+    "vitamin_c": 16.49,
+    "vitamin_d": 53.84,
+    "vitamin_e": 16.24,
+    "vitamin_k": 15.87,
+    "calcium": 354.1,
+    "copper": 0.41,
+    "iron": 2.42,
+    "magnesium": 105.67,
+    "manganese": 1.53,
+    "phosphorus": 180.82,
+    "potassium": 509.61,
+    "selenium": 1.18,
+    "sodium": 100.26,
+    "zinc": 1.3
+  }
 }

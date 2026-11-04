@@ -1,779 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 2445,
-        "recipe_id": 275,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
-        "slug": "roasted-carrot-lentil-feta-salad-butter-lettuce",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 36,
-            "name": "salad spinner (optional)",
-            "slug": "salad-spinner"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 23599,
-            "primary_message": "Preheat oven to 450°F and position rack in the centre.",
-            "secondary_message": ""
-          },
-          {
-            "id": 23600,
-            "primary_message": "Rinse lentils under cold water and transfer to a medium saucepan. Cover with broth and bring to a boil. Reduce heat to a simmer and, stirring occasionally, cook until just tender, 15-20 minutes.",
-            "secondary_message": "1 ½ cups green lentils\n24 fl oz (3 cups) chicken or vegetable broth"
-          },
-          {
-            "id": 23601,
-            "primary_message": "Wash carrots, trim ends, and peel. Halve lengthwise and thinly slice on the diagonal into ¼ inch thick half rounds; transfer to a baking sheet.",
-            "secondary_message": "6 medium carrots\r\n"
-          },
-          {
-            "id": 23602,
-            "primary_message": "Peel and thinly slice onion into half rings; add to sheet.",
-            "secondary_message": "1 medium red onion\r\n"
-          },
-          {
-            "id": 23603,
-            "primary_message": "Drizzle carrots and onion with olive oil and season with cumin, salt, and pepper; toss to coat.",
-            "secondary_message": "2 tbsp extra virgin olive oil\r\n2 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 23604,
-            "primary_message": "Place carrots in the oven and roast, tossing halfway through cooking, until tender, 10-15 minutes.",
-            "secondary_message": ""
-          },
-          {
-            "id": 23605,
-            "primary_message": "Peel and mince garlic. In a salad bowl, prepare dressing by whisking together the minced garlic, olive oil, vinegar, honey, Dijon, salt, and pepper.",
-            "secondary_message": "2 cloves garlic\r\n6 tbsp extra virgin olive oil\r\n2 tbsp apple cider vinegar\r\n1 tsp honey\r\n¼ tsp Dijon mustard\r\n¼ tsp salt\r\n¼ tsp black pepper"
-          },
-          {
-            "id": 23606,
-            "primary_message": "Wash and dry lettuce. Tear into smaller pieces and add to salad bowl.",
-            "secondary_message": "2 heads butter (Boston) lettuce\r\n"
-          },
-          {
-            "id": 23607,
-            "primary_message": "Wash and dry parsley. Shave leaves off the stems; discard the stems and mince the leaves. Add to salad bowl.",
-            "secondary_message": "1 small bunch Italian (flat-leaf) parsley\r\n"
-          },
-          {
-            "id": 23608,
-            "primary_message": "Assemble salad by adding carrots and lentils to salad bowl and tossing.",
-            "secondary_message": ""
-          },
-          {
-            "id": 23609,
-            "primary_message": "Serve by placing salad on a plate and sprinkle with feta. Enjoy!",
-            "secondary_message": "1 (4 oz) pkg crumbled feta cheese\r\n"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 30417,
-            "quantity": "2 heads",
-            "ingredient_name": "butter (Boston) lettuce"
-          },
-          {
-            "id": 30416,
-            "quantity": "6 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 30410,
-            "quantity": "24 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 30415,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 30414,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 30413,
-            "quantity": "1 ½ cups",
-            "ingredient_name": "green lentils, dried"
-          },
-          {
-            "id": 30411,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 30412,
-            "quantity": "1 medium",
-            "ingredient_name": "red onion"
-          },
-          {
-            "id": 34950,
-            "quantity": "",
-            "ingredient_name": "apple cider vinegar"
-          },
-          {
-            "id": 30409,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 30408,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 34879,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 30407,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 30406,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 30405,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 497.09,
-          "alcohol": 0,
-          "ash": 6.88,
-          "caffeine": 0,
-          "water": 405.76,
-          "carbs": 65.81,
-          "fiber": 12.35,
-          "starch": 39.44,
-          "sugars": 10.8,
-          "fructose": 2.29,
-          "galactose": 0.06,
-          "glucose": 2.29,
-          "lactose": 1.16,
-          "maltose": 0.24,
-          "sucrose": 4.69,
-          "sugar_alcohol": 0,
-          "fat": 15.55,
-          "monounsaturated": 7.18,
-          "polyunsaturated": 1.77,
-          "omega_3": 0.3,
-          "omega_6": 1.47,
-          "saturated": 5.72,
-          "transfats": 0.35,
-          "cholesterol": 25.14,
-          "protein": 28.51,
-          "alanine": 1.32,
-          "arginine": 1.91,
-          "aspartic_acid": 2.89,
-          "cystine": 0.4,
-          "glutamic_acid": 4.63,
-          "glycine": 1.05,
-          "histidine": 0.79,
-          "isoleucine": 1.33,
-          "leucine": 2.16,
-          "lysine": 2.08,
-          "methionine": 0.39,
-          "phenylalanine": 1.35,
-          "proline": 1.42,
-          "serine": 1.4,
-          "threonine": 1.22,
-          "tryptophan": 0.29,
-          "tyrosine": 0.87,
-          "valine": 1.51,
-          "b1_thiamine": 0.81,
-          "b2_riboflavin": 0.58,
-          "b3_niacin": 6.2,
-          "b5_pantothenic_acid": 2.54,
-          "b6_pyridoxine": 0.79,
-          "b12_cobalamin": 0.66,
-          "choline": 104.58,
-          "folate": 459.13,
-          "vitamin_a": 170.76,
-          "vitamin_c": 34.22,
-          "vitamin_d": 4.52,
-          "vitamin_e": 2.34,
-          "vitamin_k": 104.52,
-          "calcium": 262.88,
-          "copper": 0.75,
-          "iron": 8.34,
-          "magnesium": 78.08,
-          "manganese": 1.58,
-          "phosphorus": 438.03,
-          "potassium": 1288.83,
-          "selenium": 5.43,
-          "sodium": 399.17,
-          "zinc": 4.03
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/roasted-carrot-lentil-feta-salad-butter-lettuce/2445",
-      "altVariants": [
-        {
-          "id": 2445,
-          "recipe_id": 275,
-          "group_label": "Classic",
-          "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "published_recipe_uuid": "eba063c0-0f52-414c-861c-50e4cc35d392",
-          "fallback_published_recipe_uuids": [
-            "4077418f-8378-40ad-a2c0-bfe605830000",
-            "2b7ae490-0d9d-42e0-b5a0-083525e13ee5",
-            "d55c5f8f-ac50-4266-8d2e-2cdf5067d333"
-          ],
-          "first_published_at": 1447956416000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            201,
-            32,
-            24,
-            305,
-            106,
-            184,
-            133,
-            72,
-            186,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            6,
-            24,
-            1,
-            2,
-            1.5,
-            1,
-            1,
-            29.5735,
-            2.5,
-            10,
-            1.23223,
-            30,
-            5,
-            3.75
-          ],
-          "average_rating": 0.694,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            12
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5484,
-          "recipe_id": 275,
-          "group_label": "Classic",
-          "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "published_recipe_uuid": "6b9576b5-6f3f-4589-a512-dc936134a404",
-          "fallback_published_recipe_uuids": [
-            "35c72604-e835-4431-a041-22dc4859bf80",
-            "1282eac2-10e3-4dd1-a547-71b9d906ee89",
-            "84b2a3b5-9cae-441f-9a18-5ec28745cb4b"
-          ],
-          "first_published_at": 1550531176000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            201,
-            32,
-            24,
-            305,
-            106,
-            184,
-            133,
-            72,
-            186,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            9,
-            36,
-            1.5,
-            3,
-            2.25,
-            1.5,
-            1.5,
-            44.36025,
-            3.75,
-            15,
-            1.848345,
-            45,
-            7.5,
-            5.625
-          ],
-          "average_rating": 0.694,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            12
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2443,
-          "recipe_id": 275,
-          "group_label": "Classic",
-          "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "published_recipe_uuid": "70d61931-8197-40b9-8416-09ca5dcb9b3a",
-          "fallback_published_recipe_uuids": [
-            "09ff3092-8fad-4459-9fa7-a06b94fdd24f",
-            "49818dc8-40f4-4bd2-826c-884caf11ba08",
-            "c5df65cc-11a7-4ed9-8a17-ba3a9e487403"
-          ],
-          "first_published_at": 1447956416000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            201,
-            32,
-            24,
-            305,
-            106,
-            184,
-            133,
-            72,
-            186,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            12,
-            0.5,
-            1,
-            0.75,
-            0.5,
-            0.5,
-            14.7868,
-            1.25,
-            5,
-            0.616115,
-            15,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.694,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            12
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2446,
-          "recipe_id": 275,
-          "group_label": "Classic",
-          "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "published_recipe_uuid": "4a8a7b5e-1092-4d0b-a334-f3850e77a585",
-          "fallback_published_recipe_uuids": [
-            "fc331bdf-e6c0-4d7c-b320-fb3654518d54",
-            "f2e8b73d-973c-49c7-a5ba-68206f52afcb",
-            "6c8af5e7-aac4-4615-9006-47aab62d64bb"
-          ],
-          "first_published_at": 1447956416000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            201,
-            32,
-            24,
-            305,
-            106,
-            184,
-            133,
-            72,
-            186,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            6,
-            708,
-            1,
-            2,
-            1.5,
-            1,
-            1,
-            29.5735,
-            2.5,
-            10,
-            1.23223,
-            30,
-            5,
-            3.75
-          ],
-          "average_rating": 0.694,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            12
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5485,
-          "recipe_id": 275,
-          "group_label": "Classic",
-          "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "published_recipe_uuid": "4e8c38e5-b728-410a-bc38-4bf775c49be6",
-          "fallback_published_recipe_uuids": [
-            "81ec0e80-92f8-4479-8cf8-07351f1fcb9a",
-            "1f67f149-a786-4473-99e5-e9f419a39df4",
-            "ec196fe7-d5bb-49b2-8754-7713ce9fff8e"
-          ],
-          "first_published_at": 1550531258000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            2
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            201,
-            32,
-            24,
-            305,
-            106,
-            184,
-            133,
-            72,
-            186,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            9,
-            1062,
-            1.5,
-            3,
-            2.25,
-            1.5,
-            1.5,
-            44.36025,
-            3.75,
-            15,
-            1.848345,
-            45,
-            7.5,
-            5.625
-          ],
-          "average_rating": 0.694,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            12
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 2444,
-          "recipe_id": 275,
-          "group_label": "Classic",
-          "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
-          "published_recipe_uuid": "8792d80c-b727-4625-b0c2-8768e551873a",
-          "fallback_published_recipe_uuids": [
-            "6ddae7b6-8f0c-41fc-a479-0d1f7d9feac1",
-            "ff43a2a4-d8c8-43df-be47-b8377e14e188",
-            "6f28ab03-f277-47db-8698-29e25a2bab83"
-          ],
-          "first_published_at": 1447956416000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13
-          ],
-          "ingredient_ids": [
-            308,
-            159,
-            201,
-            32,
-            24,
-            305,
-            106,
-            184,
-            133,
-            72,
-            186,
-            117,
-            47,
-            103,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            354,
-            0.5,
-            1,
-            0.75,
-            0.5,
-            0.5,
-            14.7868,
-            1.25,
-            5,
-            0.616115,
-            15,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.694,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            12
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "French",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 2445,
+  "recipe_id": 275,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Roasted Carrot, Lentil & Feta Salad with Butter Lettuce",
+  "slug": "roasted-carrot-lentil-feta-salad-butter-lettuce",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/thumbnail_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/275/presentation_e662ef53-6670-47be-b323-9fd1e6195f6b.jpg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "roasted-carrot-lentil-feta-salad-butter-lettuce",
-    "variantId": "2445"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 36,
+      "name": "salad spinner (optional)",
+      "slug": "salad-spinner"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 23599,
+      "primary_message": "Preheat oven to 450°F and position rack in the centre.",
+      "secondary_message": ""
+    },
+    {
+      "id": 23600,
+      "primary_message": "Rinse lentils under cold water and transfer to a medium saucepan. Cover with broth and bring to a boil. Reduce heat to a simmer and, stirring occasionally, cook until just tender, 15-20 minutes.",
+      "secondary_message": "1 ½ cups green lentils\n24 fl oz (3 cups) chicken or vegetable broth"
+    },
+    {
+      "id": 23601,
+      "primary_message": "Wash carrots, trim ends, and peel. Halve lengthwise and thinly slice on the diagonal into ¼ inch thick half rounds; transfer to a baking sheet.",
+      "secondary_message": "6 medium carrots\r\n"
+    },
+    {
+      "id": 23602,
+      "primary_message": "Peel and thinly slice onion into half rings; add to sheet.",
+      "secondary_message": "1 medium red onion\r\n"
+    },
+    {
+      "id": 23603,
+      "primary_message": "Drizzle carrots and onion with olive oil and season with cumin, salt, and pepper; toss to coat.",
+      "secondary_message": "2 tbsp extra virgin olive oil\r\n2 tsp cumin\r\n½ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 23604,
+      "primary_message": "Place carrots in the oven and roast, tossing halfway through cooking, until tender, 10-15 minutes.",
+      "secondary_message": ""
+    },
+    {
+      "id": 23605,
+      "primary_message": "Peel and mince garlic. In a salad bowl, prepare dressing by whisking together the minced garlic, olive oil, vinegar, honey, Dijon, salt, and pepper.",
+      "secondary_message": "2 cloves garlic\r\n6 tbsp extra virgin olive oil\r\n2 tbsp apple cider vinegar\r\n1 tsp honey\r\n¼ tsp Dijon mustard\r\n¼ tsp salt\r\n¼ tsp black pepper"
+    },
+    {
+      "id": 23606,
+      "primary_message": "Wash and dry lettuce. Tear into smaller pieces and add to salad bowl.",
+      "secondary_message": "2 heads butter (Boston) lettuce\r\n"
+    },
+    {
+      "id": 23607,
+      "primary_message": "Wash and dry parsley. Shave leaves off the stems; discard the stems and mince the leaves. Add to salad bowl.",
+      "secondary_message": "1 small bunch Italian (flat-leaf) parsley\r\n"
+    },
+    {
+      "id": 23608,
+      "primary_message": "Assemble salad by adding carrots and lentils to salad bowl and tossing.",
+      "secondary_message": ""
+    },
+    {
+      "id": 23609,
+      "primary_message": "Serve by placing salad on a plate and sprinkle with feta. Enjoy!",
+      "secondary_message": "1 (4 oz) pkg crumbled feta cheese\r\n"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 30417,
+      "quantity": "2 heads",
+      "ingredient_name": "butter (Boston) lettuce"
+    },
+    {
+      "id": 30416,
+      "quantity": "6 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 30410,
+      "quantity": "24 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 30415,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 30414,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 30413,
+      "quantity": "1 ½ cups",
+      "ingredient_name": "green lentils, dried"
+    },
+    {
+      "id": 30411,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 30412,
+      "quantity": "1 medium",
+      "ingredient_name": "red onion"
+    },
+    {
+      "id": 34950,
+      "quantity": "",
+      "ingredient_name": "apple cider vinegar"
+    },
+    {
+      "id": 30409,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 30408,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 34879,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 30407,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 30406,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 30405,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 497.09,
+    "alcohol": 0,
+    "ash": 6.88,
+    "caffeine": 0,
+    "water": 405.76,
+    "carbs": 65.81,
+    "fiber": 12.35,
+    "starch": 39.44,
+    "sugars": 10.8,
+    "fructose": 2.29,
+    "galactose": 0.06,
+    "glucose": 2.29,
+    "lactose": 1.16,
+    "maltose": 0.24,
+    "sucrose": 4.69,
+    "sugar_alcohol": 0,
+    "fat": 15.55,
+    "monounsaturated": 7.18,
+    "polyunsaturated": 1.77,
+    "omega_3": 0.3,
+    "omega_6": 1.47,
+    "saturated": 5.72,
+    "transfats": 0.35,
+    "cholesterol": 25.14,
+    "protein": 28.51,
+    "alanine": 1.32,
+    "arginine": 1.91,
+    "aspartic_acid": 2.89,
+    "cystine": 0.4,
+    "glutamic_acid": 4.63,
+    "glycine": 1.05,
+    "histidine": 0.79,
+    "isoleucine": 1.33,
+    "leucine": 2.16,
+    "lysine": 2.08,
+    "methionine": 0.39,
+    "phenylalanine": 1.35,
+    "proline": 1.42,
+    "serine": 1.4,
+    "threonine": 1.22,
+    "tryptophan": 0.29,
+    "tyrosine": 0.87,
+    "valine": 1.51,
+    "b1_thiamine": 0.81,
+    "b2_riboflavin": 0.58,
+    "b3_niacin": 6.2,
+    "b5_pantothenic_acid": 2.54,
+    "b6_pyridoxine": 0.79,
+    "b12_cobalamin": 0.66,
+    "choline": 104.58,
+    "folate": 459.13,
+    "vitamin_a": 170.76,
+    "vitamin_c": 34.22,
+    "vitamin_d": 4.52,
+    "vitamin_e": 2.34,
+    "vitamin_k": 104.52,
+    "calcium": 262.88,
+    "copper": 0.75,
+    "iron": 8.34,
+    "magnesium": 78.08,
+    "manganese": 1.58,
+    "phosphorus": 438.03,
+    "potassium": 1288.83,
+    "selenium": 5.43,
+    "sodium": 399.17,
+    "zinc": 4.03
+  }
 }

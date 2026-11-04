@@ -1,799 +1,300 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 18816,
-        "recipe_id": 2189,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
-        "slug": "creamy-black-bean-wraps-sauteed-bell-peppers-mango-cabbage-slaw",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 74,
-            "name": "hand or regular blender",
-            "slug": "hand-or-regular-blender"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 324623,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 small bunch cilantro\n2 limes\n1 jalapeño pepper\n1 mango\n1 small head red cabbage\n2 red bell peppers"
-          },
-          {
-            "id": 324624,
-            "primary_message": "Shave cilantro leaves off the stems; discard stems and mince the leaves. Place half in a large bowl and half in a blender. ",
-            "secondary_message": null
-          },
-          {
-            "id": 324625,
-            "primary_message": "Juice one lime into the bowl with the cilantro; juice remaining lime into the blender and set aside. ",
-            "secondary_message": null
-          },
-          {
-            "id": 324626,
-            "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon. Mince and add to the bowl with the cilantro. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.) ",
-            "secondary_message": null
-          },
-          {
-            "id": 324627,
-            "primary_message": "Peel and mince shallot; add to the bowl along with oil, salt, and cumin; whisk to combine the dressing. ",
-            "secondary_message": "1 shallot\n4 tsp extra virgin olive oil\n½ tsp salt\n½ tsp cumin, ground"
-          },
-          {
-            "id": 324628,
-            "primary_message": "Peel mango and slice flesh away from the pit, starting with the flat sides; medium dice and add to the bowl with the dressing. ",
-            "secondary_message": null
-          },
-          {
-            "id": 324629,
-            "primary_message": "Quarter the cabbage lengthwise, then cut out and discard the core; slice crosswise into thin (shred-like) strips and add to the bowl. Stir to combine the slaw and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 324630,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 324631,
-            "primary_message": "While the skillet heats up, trim, seed, and thinly slice bell peppers.",
-            "secondary_message": null
-          },
-          {
-            "id": 324632,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom; add bell pepper and salt. Cook, stirring occasionally, until softened, 4-5 minutes. Remove from heat.",
-            "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt"
-          },
-          {
-            "id": 324633,
-            "primary_message": "Meanwhile, drain and rinse beans; add to the blender with the cilantro and lime juice.",
-            "secondary_message": "2 (15 oz) cans black beans"
-          },
-          {
-            "id": 324634,
-            "primary_message": "Peel garlic; add to the blender along with water, pumpkin seeds, and spices. Blend on high until smooth.",
-            "secondary_message": "2 cloves garlic\n1 cup water\n½ cup pumpkin seeds\n2 tsp chili powder\n1 tsp cumin, ground\n1 tsp coriander, ground\n½ tsp salt"
-          },
-          {
-            "id": 324635,
-            "primary_message": "Place tortillas on a flat surface and spread each with an even layer of black bean spread. Top with bell peppers and a small portion of slaw (reserving the rest for serving); roll tightly to close.",
-            "secondary_message": "4 large flour tortillas"
-          },
-          {
-            "id": 324636,
-            "primary_message": "Cut wraps in half and divide between plates; serve with remaining slaw on the side and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 345714,
-            "quantity": "2 (15 oz) cans",
-            "ingredient_name": "black beans"
-          },
-          {
-            "id": 345717,
-            "quantity": "1 small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 345706,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 345713,
-            "quantity": "1",
-            "ingredient_name": "jalapeño pepper"
-          },
-          {
-            "id": 345716,
-            "quantity": "4",
-            "ingredient_name": "large flour tortillas"
-          },
-          {
-            "id": 345718,
-            "quantity": "2",
-            "ingredient_name": "limes"
-          },
-          {
-            "id": 345719,
-            "quantity": "1",
-            "ingredient_name": "mango"
-          },
-          {
-            "id": 345720,
-            "quantity": "½ cup",
-            "ingredient_name": "pumpkin seeds"
-          },
-          {
-            "id": 345712,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 345721,
-            "quantity": "1 small head",
-            "ingredient_name": "red cabbage"
-          },
-          {
-            "id": 345711,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 345708,
-            "quantity": "",
-            "ingredient_name": "chili powder"
-          },
-          {
-            "id": 345709,
-            "quantity": "",
-            "ingredient_name": "coriander, ground"
-          },
-          {
-            "id": 345715,
-            "quantity": "",
-            "ingredient_name": "cumin, ground"
-          },
-          {
-            "id": 345707,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 345710,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 651.54,
-          "alcohol": 0,
-          "ash": 8.37,
-          "caffeine": 0,
-          "water": 403.63,
-          "carbs": 99.87,
-          "fiber": 23.23,
-          "starch": 47.04,
-          "sugars": 24.21,
-          "fructose": 7.77,
-          "galactose": 0,
-          "glucose": 5.77,
-          "lactose": 0,
-          "maltose": 2.25,
-          "sucrose": 8.31,
-          "sugar_alcohol": 0,
-          "fat": 20.35,
-          "monounsaturated": 10.09,
-          "polyunsaturated": 5.55,
-          "omega_3": 0.47,
-          "omega_6": 4.82,
-          "saturated": 3.53,
-          "transfats": 0.77,
-          "cholesterol": 0,
-          "protein": 24.47,
-          "alanine": 1.05,
-          "arginine": 1.75,
-          "aspartic_acid": 2.54,
-          "cystine": 0.3,
-          "glutamic_acid": 5.06,
-          "glycine": 1.01,
-          "histidine": 0.58,
-          "isoleucine": 0.99,
-          "leucine": 1.79,
-          "lysine": 1.15,
-          "methionine": 0.37,
-          "phenylalanine": 1.25,
-          "proline": 1.53,
-          "serine": 1.3,
-          "threonine": 0.8,
-          "tryptophan": 0.32,
-          "tyrosine": 0.65,
-          "valine": 1.24,
-          "b1_thiamine": 0.81,
-          "b2_riboflavin": 0.43,
-          "b3_niacin": 6,
-          "b5_pantothenic_acid": 1.32,
-          "b6_pyridoxine": 0.93,
-          "b12_cobalamin": 0,
-          "choline": 112.28,
-          "folate": 372.7,
-          "vitamin_a": 18.27,
-          "vitamin_c": 206.12,
-          "vitamin_d": 0,
-          "vitamin_e": 4.27,
-          "vitamin_k": 132.59,
-          "calcium": 269.89,
-          "copper": 0.74,
-          "iron": 9.17,
-          "magnesium": 215.68,
-          "manganese": 2.31,
-          "phosphorus": 403.16,
-          "potassium": 1492.32,
-          "selenium": 22.36,
-          "sodium": 979.42,
-          "zinc": 3.61
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/creamy-black-bean-wraps-sauteed-bell-peppers-mango-cabbage-slaw/18816",
-      "altVariants": [
-        {
-          "id": 18816,
-          "recipe_id": 2189,
-          "group_label": "Default",
-          "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "published_recipe_uuid": "b285bada-b5bd-4b1c-bced-ac10408c275e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675188829000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            185,
-            188,
-            24,
-            151,
-            187,
-            228,
-            229,
-            304,
-            150,
-            310,
-            144,
-            75,
-            76,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            4,
-            2,
-            1,
-            0.5,
-            2,
-            1,
-            1,
-            10,
-            5,
-            7.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.679,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Red cabbage in a wrap? Trust us, you'll want to make it your new go-to after trying this!"
-        },
-        {
-          "id": 18817,
-          "recipe_id": 2189,
-          "group_label": "Default",
-          "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "published_recipe_uuid": "f2b8601b-a155-4686-baf0-6d201390bdba",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675188828000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            185,
-            188,
-            24,
-            151,
-            187,
-            228,
-            229,
-            304,
-            150,
-            310,
-            144,
-            75,
-            76,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            3,
-            1.5,
-            6,
-            3,
-            1.5,
-            0.75,
-            3,
-            1.5,
-            2,
-            15,
-            7.5,
-            11.25,
-            45,
-            11.25
-          ],
-          "average_rating": 0.679,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Red cabbage in a wrap? Trust us, you'll want to make it your new go-to after trying this!"
-        },
-        {
-          "id": 18815,
-          "recipe_id": 2189,
-          "group_label": "Default",
-          "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "published_recipe_uuid": "9d7e9cd3-5efe-4440-8f1b-84559d2e44fe",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675188829000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            185,
-            188,
-            24,
-            151,
-            187,
-            228,
-            229,
-            304,
-            150,
-            310,
-            144,
-            75,
-            76,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            2,
-            1,
-            0.5,
-            0.25,
-            1,
-            0.5,
-            0.5,
-            5,
-            2.5,
-            3.75,
-            15,
-            3.75
-          ],
-          "average_rating": 0.679,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Red cabbage in a wrap? Trust us, you'll want to make it your new go-to after trying this!"
-        },
-        {
-          "id": 18820,
-          "recipe_id": 2189,
-          "group_label": "Default",
-          "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "published_recipe_uuid": "b583ccbe-5b03-42d0-abbe-cbfb8a72c309",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675188827000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            185,
-            188,
-            24,
-            151,
-            187,
-            228,
-            229,
-            304,
-            150,
-            310,
-            144,
-            75,
-            76,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            3,
-            1.5,
-            6,
-            3,
-            1.5,
-            0.75,
-            3,
-            1.5,
-            2,
-            15,
-            7.5,
-            11.25,
-            45,
-            11.25
-          ],
-          "average_rating": 0.679,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Red cabbage in a wrap? Trust us, you'll want to make it your new go-to after trying this!"
-        },
-        {
-          "id": 18819,
-          "recipe_id": 2189,
-          "group_label": "Default",
-          "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "published_recipe_uuid": "21305ac9-1aa9-4891-aeec-b03999e58e76",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675188827000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            185,
-            188,
-            24,
-            151,
-            187,
-            228,
-            229,
-            304,
-            150,
-            310,
-            144,
-            75,
-            76,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            2,
-            1,
-            4,
-            2,
-            1,
-            0.5,
-            2,
-            1,
-            1,
-            10,
-            5,
-            7.5,
-            30,
-            7.5
-          ],
-          "average_rating": 0.679,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Red cabbage in a wrap? Trust us, you'll want to make it your new go-to after trying this!"
-        },
-        {
-          "id": 18818,
-          "recipe_id": 2189,
-          "group_label": "Default",
-          "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
-          "published_recipe_uuid": "098c5c92-9ef8-4f9a-8099-1421f6c89452",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1675188828000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            1
-          ],
-          "ingredient_ids": [
-            185,
-            188,
-            24,
-            151,
-            187,
-            228,
-            229,
-            304,
-            150,
-            310,
-            144,
-            75,
-            76,
-            186,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            1,
-            0.5,
-            2,
-            1,
-            0.5,
-            0.25,
-            1,
-            0.5,
-            0.5,
-            5,
-            2.5,
-            3.75,
-            15,
-            3.75
-          ],
-          "average_rating": 0.679,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            27
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Red cabbage in a wrap? Trust us, you'll want to make it your new go-to after trying this!"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Red cabbage in a wrap? Trust us, you'll want to make it your new go-to after trying this!",
-        "keywords": [
-          "Wraps"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 18816,
+  "recipe_id": 2189,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Creamy Black Bean Wraps with Sautéed Bell Peppers & Mango-Cabbage Slaw",
+  "slug": "creamy-black-bean-wraps-sauteed-bell-peppers-mango-cabbage-slaw",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/thumbnail_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2189/presentation_5fc62275-177d-4bbc-84af-0e1c47c8f476.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "creamy-black-bean-wraps-sauteed-bell-peppers-mango-cabbage-slaw",
-    "variantId": "18816"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 74,
+      "name": "hand or regular blender",
+      "slug": "hand-or-regular-blender"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 324623,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 small bunch cilantro\n2 limes\n1 jalapeño pepper\n1 mango\n1 small head red cabbage\n2 red bell peppers"
+    },
+    {
+      "id": 324624,
+      "primary_message": "Shave cilantro leaves off the stems; discard stems and mince the leaves. Place half in a large bowl and half in a blender. ",
+      "secondary_message": null
+    },
+    {
+      "id": 324625,
+      "primary_message": "Juice one lime into the bowl with the cilantro; juice remaining lime into the blender and set aside. ",
+      "secondary_message": null
+    },
+    {
+      "id": 324626,
+      "primary_message": "Quarter jalapeño pepper lengthwise; seed and remove ribs with a spoon. Mince and add to the bowl with the cilantro. (Be careful with jalapeños; do not touch your eyes and ensure you wash your hands after handling or wear gloves while preparing.) ",
+      "secondary_message": null
+    },
+    {
+      "id": 324627,
+      "primary_message": "Peel and mince shallot; add to the bowl along with oil, salt, and cumin; whisk to combine the dressing. ",
+      "secondary_message": "1 shallot\n4 tsp extra virgin olive oil\n½ tsp salt\n½ tsp cumin, ground"
+    },
+    {
+      "id": 324628,
+      "primary_message": "Peel mango and slice flesh away from the pit, starting with the flat sides; medium dice and add to the bowl with the dressing. ",
+      "secondary_message": null
+    },
+    {
+      "id": 324629,
+      "primary_message": "Quarter the cabbage lengthwise, then cut out and discard the core; slice crosswise into thin (shred-like) strips and add to the bowl. Stir to combine the slaw and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 324630,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 324631,
+      "primary_message": "While the skillet heats up, trim, seed, and thinly slice bell peppers.",
+      "secondary_message": null
+    },
+    {
+      "id": 324632,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom; add bell pepper and salt. Cook, stirring occasionally, until softened, 4-5 minutes. Remove from heat.",
+      "secondary_message": "2 tsp extra virgin olive oil\n½ tsp salt"
+    },
+    {
+      "id": 324633,
+      "primary_message": "Meanwhile, drain and rinse beans; add to the blender with the cilantro and lime juice.",
+      "secondary_message": "2 (15 oz) cans black beans"
+    },
+    {
+      "id": 324634,
+      "primary_message": "Peel garlic; add to the blender along with water, pumpkin seeds, and spices. Blend on high until smooth.",
+      "secondary_message": "2 cloves garlic\n1 cup water\n½ cup pumpkin seeds\n2 tsp chili powder\n1 tsp cumin, ground\n1 tsp coriander, ground\n½ tsp salt"
+    },
+    {
+      "id": 324635,
+      "primary_message": "Place tortillas on a flat surface and spread each with an even layer of black bean spread. Top with bell peppers and a small portion of slaw (reserving the rest for serving); roll tightly to close.",
+      "secondary_message": "4 large flour tortillas"
+    },
+    {
+      "id": 324636,
+      "primary_message": "Cut wraps in half and divide between plates; serve with remaining slaw on the side and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 345714,
+      "quantity": "2 (15 oz) cans",
+      "ingredient_name": "black beans"
+    },
+    {
+      "id": 345717,
+      "quantity": "1 small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 345706,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 345713,
+      "quantity": "1",
+      "ingredient_name": "jalapeño pepper"
+    },
+    {
+      "id": 345716,
+      "quantity": "4",
+      "ingredient_name": "large flour tortillas"
+    },
+    {
+      "id": 345718,
+      "quantity": "2",
+      "ingredient_name": "limes"
+    },
+    {
+      "id": 345719,
+      "quantity": "1",
+      "ingredient_name": "mango"
+    },
+    {
+      "id": 345720,
+      "quantity": "½ cup",
+      "ingredient_name": "pumpkin seeds"
+    },
+    {
+      "id": 345712,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 345721,
+      "quantity": "1 small head",
+      "ingredient_name": "red cabbage"
+    },
+    {
+      "id": 345711,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 345708,
+      "quantity": "",
+      "ingredient_name": "chili powder"
+    },
+    {
+      "id": 345709,
+      "quantity": "",
+      "ingredient_name": "coriander, ground"
+    },
+    {
+      "id": 345715,
+      "quantity": "",
+      "ingredient_name": "cumin, ground"
+    },
+    {
+      "id": 345707,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 345710,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 651.54,
+    "alcohol": 0,
+    "ash": 8.37,
+    "caffeine": 0,
+    "water": 403.63,
+    "carbs": 99.87,
+    "fiber": 23.23,
+    "starch": 47.04,
+    "sugars": 24.21,
+    "fructose": 7.77,
+    "galactose": 0,
+    "glucose": 5.77,
+    "lactose": 0,
+    "maltose": 2.25,
+    "sucrose": 8.31,
+    "sugar_alcohol": 0,
+    "fat": 20.35,
+    "monounsaturated": 10.09,
+    "polyunsaturated": 5.55,
+    "omega_3": 0.47,
+    "omega_6": 4.82,
+    "saturated": 3.53,
+    "transfats": 0.77,
+    "cholesterol": 0,
+    "protein": 24.47,
+    "alanine": 1.05,
+    "arginine": 1.75,
+    "aspartic_acid": 2.54,
+    "cystine": 0.3,
+    "glutamic_acid": 5.06,
+    "glycine": 1.01,
+    "histidine": 0.58,
+    "isoleucine": 0.99,
+    "leucine": 1.79,
+    "lysine": 1.15,
+    "methionine": 0.37,
+    "phenylalanine": 1.25,
+    "proline": 1.53,
+    "serine": 1.3,
+    "threonine": 0.8,
+    "tryptophan": 0.32,
+    "tyrosine": 0.65,
+    "valine": 1.24,
+    "b1_thiamine": 0.81,
+    "b2_riboflavin": 0.43,
+    "b3_niacin": 6,
+    "b5_pantothenic_acid": 1.32,
+    "b6_pyridoxine": 0.93,
+    "b12_cobalamin": 0,
+    "choline": 112.28,
+    "folate": 372.7,
+    "vitamin_a": 18.27,
+    "vitamin_c": 206.12,
+    "vitamin_d": 0,
+    "vitamin_e": 4.27,
+    "vitamin_k": 132.59,
+    "calcium": 269.89,
+    "copper": 0.74,
+    "iron": 9.17,
+    "magnesium": 215.68,
+    "manganese": 2.31,
+    "phosphorus": 403.16,
+    "potassium": 1492.32,
+    "selenium": 22.36,
+    "sodium": 979.42,
+    "zinc": 3.61
+  }
 }

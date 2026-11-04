@@ -1,1153 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 7208,
-        "recipe_id": 828,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Southwestern Avocado Toast with Eggs & Salsa",
-        "slug": "southwestern-avocado-toast-eggs-salsa",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 77,
-            "name": "toaster (optional)",
-            "slug": "toaster"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 114740,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 lime\n½ small bunch cilantro\n2 avocados"
-          },
-          {
-            "id": 114741,
-            "primary_message": "Peel and mince the shallot and garlic; place both in a medium bowl.",
-            "secondary_message": "1 shallot\n2 cloves garlic"
-          },
-          {
-            "id": 114742,
-            "primary_message": "Drain and discard the juices from the can of diced tomatoes. Place the tomatoes in the bowl with the shallot and garlic.",
-            "secondary_message": "1 (14.5 oz) can diced tomatoes"
-          },
-          {
-            "id": 114743,
-            "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add to the bowl with the tomatoes; reserving a small amount for garnish.",
-            "secondary_message": null
-          },
-          {
-            "id": 114744,
-            "primary_message": "Juice the lime and add to the bowl with the tomatoes. Add the salt and stir to combine; set aside.",
-            "secondary_message": "¼ tsp salt"
-          },
-          {
-            "id": 114745,
-            "primary_message": "Preheat a large skillet over medium-low heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 114746,
-            "primary_message": "Whisk the eggs in a large bowl.",
-            "secondary_message": "8 eggs"
-          },
-          {
-            "id": 114747,
-            "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom.",
-            "secondary_message": "2 tsp butter, unsalted"
-          },
-          {
-            "id": 114748,
-            "primary_message": "Pour the egg mixture into the skillet. Scramble the eggs using a combination of stirring and flipping, making sure to bring in all the mixture from the edges of the pan. Cook until the eggs are no longer runny.",
-            "secondary_message": null
-          },
-          {
-            "id": 114749,
-            "primary_message": "Toast bread, working in batches if necessary.",
-            "secondary_message": "8 slices whole grain bread"
-          },
-          {
-            "id": 114750,
-            "primary_message": "Halve and pit the avocado, then scoop the flesh out into a medium bowl. Mash with a fork, add the spices and stir to combine.",
-            "secondary_message": "½ tsp salt\n½ tsp cayenne pepper\n1 tsp crushed red pepper"
-          },
-          {
-            "id": 114751,
-            "primary_message": "To assemble, spread the avocado mixture on top of each slice of toasted bread; top with the scrambled egg, salsa, and a sprinkle of cilantro. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 119481,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 119482,
-            "quantity": "½ small bunch",
-            "ingredient_name": "cilantro"
-          },
-          {
-            "id": 119477,
-            "quantity": "1 (14.5 oz) can",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 119479,
-            "quantity": "8",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 119473,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 119484,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 119480,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 119483,
-            "quantity": "8 slices",
-            "ingredient_name": "whole grain bread"
-          },
-          {
-            "id": 119478,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 119474,
-            "quantity": "",
-            "ingredient_name": "cayenne pepper"
-          },
-          {
-            "id": 119475,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 119476,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 496.02,
-          "alcohol": 0,
-          "ash": 6.22,
-          "caffeine": 0,
-          "water": 289.09,
-          "carbs": 43.45,
-          "fiber": 13.29,
-          "starch": 18.89,
-          "sugars": 7.3,
-          "fructose": 3.02,
-          "galactose": 0.1,
-          "glucose": 2.87,
-          "lactose": 0.02,
-          "maltose": 0.65,
-          "sucrose": 0.57,
-          "sugar_alcohol": 0,
-          "fat": 27.73,
-          "monounsaturated": 14.06,
-          "polyunsaturated": 4.77,
-          "omega_3": 0.34,
-          "omega_6": 4.45,
-          "saturated": 6.64,
-          "transfats": 0.12,
-          "cholesterol": 332.52,
-          "protein": 22.47,
-          "alanine": 0.8,
-          "arginine": 0.86,
-          "aspartic_acid": 1.6,
-          "cystine": 0.28,
-          "glutamic_acid": 2.29,
-          "glycine": 0.52,
-          "histidine": 0.34,
-          "isoleucine": 0.71,
-          "leucine": 1.15,
-          "lysine": 0.98,
-          "methionine": 0.39,
-          "phenylalanine": 0.74,
-          "proline": 0.59,
-          "serine": 1.01,
-          "threonine": 0.62,
-          "tryptophan": 0.18,
-          "tyrosine": 0.51,
-          "valine": 0.9,
-          "b1_thiamine": 0.96,
-          "b2_riboflavin": 0.72,
-          "b3_niacin": 5.6,
-          "b5_pantothenic_acid": 3.38,
-          "b6_pyridoxine": 0.74,
-          "b12_cobalamin": 0.79,
-          "choline": 301.19,
-          "folate": 168.37,
-          "vitamin_a": 1083.82,
-          "vitamin_c": 30.54,
-          "vitamin_d": 73.6,
-          "vitamin_e": 5.85,
-          "vitamin_k": 61.2,
-          "calcium": 213.68,
-          "copper": 0.49,
-          "iron": 4.61,
-          "magnesium": 104.39,
-          "manganese": 1.73,
-          "phosphorus": 395.03,
-          "potassium": 1062.72,
-          "selenium": 45.07,
-          "sodium": 440.29,
-          "zinc": 3.16
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/southwestern-avocado-toast-eggs-salsa/7208",
-      "altVariants": [
-        {
-          "id": 7775,
-          "recipe_id": 828,
-          "group_label": "Default auto-gluten-free",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "1fa4e4de-1715-46c3-902f-706a87c1aee1",
-          "fallback_published_recipe_uuids": [
-            "b8afddfa-d188-4a24-b677-ad7d4a79bee9"
-          ],
-          "first_published_at": 1567797653000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            266,
-            228,
-            144,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.75,
-            1.5,
-            12,
-            3,
-            12,
-            1.5,
-            1.5,
-            15,
-            3.75,
-            7.5,
-            6.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7207,
-          "recipe_id": 828,
-          "group_label": "Default",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "b54181f0-4e2a-49b1-b931-9426dee7624e",
-          "fallback_published_recipe_uuids": [
-            "07582255-74d0-40ed-974d-7189c8c1987e",
-            "0a311ae4-4d17-44f7-a2a5-f764723a2e95"
-          ],
-          "first_published_at": 1562876710000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            228,
-            144,
-            191,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.25,
-            0.5,
-            4,
-            1,
-            0.5,
-            0.5,
-            4,
-            5,
-            1.25,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7773,
-          "recipe_id": 828,
-          "group_label": "Default auto-gluten-free",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "f56d319c-5250-4e65-bc13-9383dd560a3d",
-          "fallback_published_recipe_uuids": [
-            "6baab0fe-ee4d-4c02-8058-069fb5a7d912"
-          ],
-          "first_published_at": 1567797657000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            266,
-            228,
-            144,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.25,
-            0.5,
-            4,
-            1,
-            4,
-            0.5,
-            0.5,
-            5,
-            1.25,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7774,
-          "recipe_id": 828,
-          "group_label": "Default auto-gluten-free",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "41aacd1c-5861-4276-94f8-50ed1726ca84",
-          "fallback_published_recipe_uuids": [
-            "6f95579a-72b0-4100-a8bf-4eb432b1f12e"
-          ],
-          "first_published_at": 1567797658000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            266,
-            228,
-            144,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            1,
-            8,
-            2,
-            8,
-            1,
-            1,
-            10,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7209,
-          "recipe_id": 828,
-          "group_label": "Default",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "d23781f9-36c6-4b6b-927d-503155ca6182",
-          "fallback_published_recipe_uuids": [
-            "ef445968-a5bb-4d28-b3ca-1f76c8b07a79",
-            "cd2ea895-39c0-43a7-b660-5e818c0bd46c"
-          ],
-          "first_published_at": 1562876712000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            228,
-            144,
-            191,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.75,
-            1.5,
-            12,
-            3,
-            1.5,
-            1.5,
-            12,
-            15,
-            3.75,
-            7.5,
-            6.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7208,
-          "recipe_id": 828,
-          "group_label": "Default",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "bebfca60-3c83-4d4f-b0b8-e683bf95b432",
-          "fallback_published_recipe_uuids": [
-            "ad3fa8fa-1f84-4694-ae8f-1452c4a1f1f7",
-            "d48b8604-3829-4206-8197-05a2204d9e37"
-          ],
-          "first_published_at": 1562876711000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            228,
-            144,
-            191,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            1,
-            8,
-            2,
-            1,
-            1,
-            8,
-            10,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7778,
-          "recipe_id": 828,
-          "group_label": "Default auto-gluten-free",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "b2922213-9361-486a-b1cb-072de1ffd8cb",
-          "fallback_published_recipe_uuids": [
-            "387bce88-9b20-4630-a94a-f8db073c7b42"
-          ],
-          "first_published_at": 1567797666000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            266,
-            228,
-            144,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.75,
-            1.5,
-            12,
-            3,
-            12,
-            1.5,
-            1.5,
-            15,
-            3.75,
-            7.5,
-            6.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7210,
-          "recipe_id": 828,
-          "group_label": "Default",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "ad6dca71-cb85-4ec5-80c4-d3e497eff7ee",
-          "fallback_published_recipe_uuids": [
-            "2e320848-569b-4bfa-9979-246bccc33d0f",
-            "401552f7-5b6c-48a4-9dcc-83e2154cd920"
-          ],
-          "first_published_at": 1562876713000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            228,
-            144,
-            191,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.25,
-            0.5,
-            4,
-            1,
-            0.5,
-            0.5,
-            4,
-            5,
-            1.25,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7777,
-          "recipe_id": 828,
-          "group_label": "Default auto-gluten-free",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "4831006c-0eaa-40be-ae15-1276d43f6017",
-          "fallback_published_recipe_uuids": [
-            "61a92233-0cf2-4edc-ba80-9db63a0c10d1"
-          ],
-          "first_published_at": 1567797663000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            266,
-            228,
-            144,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            1,
-            8,
-            2,
-            8,
-            1,
-            1,
-            10,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7776,
-          "recipe_id": 828,
-          "group_label": "Default auto-gluten-free",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "29632912-2646-44eb-bc74-477ab331ea27",
-          "fallback_published_recipe_uuids": [
-            "b4466b3e-c846-4ca8-ba4a-336364d0fa03"
-          ],
-          "first_published_at": 1567797662000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            266,
-            228,
-            144,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.25,
-            0.5,
-            4,
-            1,
-            4,
-            0.5,
-            0.5,
-            5,
-            1.25,
-            2.5,
-            1.875
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7212,
-          "recipe_id": 828,
-          "group_label": "Default",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "db29a860-d78a-4dc0-bf93-5d8ee8d1f940",
-          "fallback_published_recipe_uuids": [
-            "bc71a69f-d834-4a34-ab6d-dcb91514daaf",
-            "f1007816-6ef4-4955-b021-765f2eda1db0"
-          ],
-          "first_published_at": 1562876715000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            228,
-            144,
-            191,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            0.75,
-            1.5,
-            12,
-            3,
-            1.5,
-            1.5,
-            12,
-            15,
-            3.75,
-            7.5,
-            6.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 7211,
-          "recipe_id": 828,
-          "group_label": "Default",
-          "name": "Southwestern Avocado Toast with Eggs & Salsa",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
-          "published_recipe_uuid": "b699ae14-824f-4825-8921-0c02d1036fd9",
-          "fallback_published_recipe_uuids": [
-            "98ee7dfc-a207-4c6e-ad09-7b3e6884e7c4",
-            "fdafd2bc-054f-4531-823e-1a689767792b"
-          ],
-          "first_published_at": 1562876714000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            183,
-            188,
-            97,
-            121,
-            24,
-            228,
-            144,
-            191,
-            115,
-            71,
-            85,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            0.5,
-            1,
-            8,
-            2,
-            1,
-            1,
-            8,
-            10,
-            2.5,
-            5,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 17,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 7208,
+  "recipe_id": 828,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Southwestern Avocado Toast with Eggs & Salsa",
+  "slug": "southwestern-avocado-toast-eggs-salsa",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/thumbnail_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/828/presentation_d21b38b7-b193-4f9e-9cdc-3b43676b98a9.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "southwestern-avocado-toast-eggs-salsa",
-    "variantId": "7208"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 77,
+      "name": "toaster (optional)",
+      "slug": "toaster"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 114740,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 lime\n½ small bunch cilantro\n2 avocados"
+    },
+    {
+      "id": 114741,
+      "primary_message": "Peel and mince the shallot and garlic; place both in a medium bowl.",
+      "secondary_message": "1 shallot\n2 cloves garlic"
+    },
+    {
+      "id": 114742,
+      "primary_message": "Drain and discard the juices from the can of diced tomatoes. Place the tomatoes in the bowl with the shallot and garlic.",
+      "secondary_message": "1 (14.5 oz) can diced tomatoes"
+    },
+    {
+      "id": 114743,
+      "primary_message": "Shave the cilantro leaves off the stems; discard the stems and mince the leaves. Add to the bowl with the tomatoes; reserving a small amount for garnish.",
+      "secondary_message": null
+    },
+    {
+      "id": 114744,
+      "primary_message": "Juice the lime and add to the bowl with the tomatoes. Add the salt and stir to combine; set aside.",
+      "secondary_message": "¼ tsp salt"
+    },
+    {
+      "id": 114745,
+      "primary_message": "Preheat a large skillet over medium-low heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 114746,
+      "primary_message": "Whisk the eggs in a large bowl.",
+      "secondary_message": "8 eggs"
+    },
+    {
+      "id": 114747,
+      "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom.",
+      "secondary_message": "2 tsp butter, unsalted"
+    },
+    {
+      "id": 114748,
+      "primary_message": "Pour the egg mixture into the skillet. Scramble the eggs using a combination of stirring and flipping, making sure to bring in all the mixture from the edges of the pan. Cook until the eggs are no longer runny.",
+      "secondary_message": null
+    },
+    {
+      "id": 114749,
+      "primary_message": "Toast bread, working in batches if necessary.",
+      "secondary_message": "8 slices whole grain bread"
+    },
+    {
+      "id": 114750,
+      "primary_message": "Halve and pit the avocado, then scoop the flesh out into a medium bowl. Mash with a fork, add the spices and stir to combine.",
+      "secondary_message": "½ tsp salt\n½ tsp cayenne pepper\n1 tsp crushed red pepper"
+    },
+    {
+      "id": 114751,
+      "primary_message": "To assemble, spread the avocado mixture on top of each slice of toasted bread; top with the scrambled egg, salsa, and a sprinkle of cilantro. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 119481,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 119482,
+      "quantity": "½ small bunch",
+      "ingredient_name": "cilantro"
+    },
+    {
+      "id": 119477,
+      "quantity": "1 (14.5 oz) can",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 119479,
+      "quantity": "8",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 119473,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 119484,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 119480,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 119483,
+      "quantity": "8 slices",
+      "ingredient_name": "whole grain bread"
+    },
+    {
+      "id": 119478,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 119474,
+      "quantity": "",
+      "ingredient_name": "cayenne pepper"
+    },
+    {
+      "id": 119475,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 119476,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 496.02,
+    "alcohol": 0,
+    "ash": 6.22,
+    "caffeine": 0,
+    "water": 289.09,
+    "carbs": 43.45,
+    "fiber": 13.29,
+    "starch": 18.89,
+    "sugars": 7.3,
+    "fructose": 3.02,
+    "galactose": 0.1,
+    "glucose": 2.87,
+    "lactose": 0.02,
+    "maltose": 0.65,
+    "sucrose": 0.57,
+    "sugar_alcohol": 0,
+    "fat": 27.73,
+    "monounsaturated": 14.06,
+    "polyunsaturated": 4.77,
+    "omega_3": 0.34,
+    "omega_6": 4.45,
+    "saturated": 6.64,
+    "transfats": 0.12,
+    "cholesterol": 332.52,
+    "protein": 22.47,
+    "alanine": 0.8,
+    "arginine": 0.86,
+    "aspartic_acid": 1.6,
+    "cystine": 0.28,
+    "glutamic_acid": 2.29,
+    "glycine": 0.52,
+    "histidine": 0.34,
+    "isoleucine": 0.71,
+    "leucine": 1.15,
+    "lysine": 0.98,
+    "methionine": 0.39,
+    "phenylalanine": 0.74,
+    "proline": 0.59,
+    "serine": 1.01,
+    "threonine": 0.62,
+    "tryptophan": 0.18,
+    "tyrosine": 0.51,
+    "valine": 0.9,
+    "b1_thiamine": 0.96,
+    "b2_riboflavin": 0.72,
+    "b3_niacin": 5.6,
+    "b5_pantothenic_acid": 3.38,
+    "b6_pyridoxine": 0.74,
+    "b12_cobalamin": 0.79,
+    "choline": 301.19,
+    "folate": 168.37,
+    "vitamin_a": 1083.82,
+    "vitamin_c": 30.54,
+    "vitamin_d": 73.6,
+    "vitamin_e": 5.85,
+    "vitamin_k": 61.2,
+    "calcium": 213.68,
+    "copper": 0.49,
+    "iron": 4.61,
+    "magnesium": 104.39,
+    "manganese": 1.73,
+    "phosphorus": 395.03,
+    "potassium": 1062.72,
+    "selenium": 45.07,
+    "sodium": 440.29,
+    "zinc": 3.16
+  }
 }

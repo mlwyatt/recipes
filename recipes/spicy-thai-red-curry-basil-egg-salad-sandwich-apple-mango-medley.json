@@ -1,1069 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 20465,
-        "recipe_id": 2331,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-        "slug": "spicy-thai-red-curry-basil-egg-salad-sandwich-apple-mango-medley",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 16,
-            "name": "potato masher",
-            "slug": "potato-masher"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 341372,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "1 lime\n2 mangoes\n2 Gala apples\n½ small pkg fresh basil"
-          },
-          {
-            "id": 341373,
-            "primary_message": "Zest and juice lime into a medium bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 341374,
-            "primary_message": "Peel mangoes and slice flesh away from the pits, starting with the flat sides. Medium dice and add to the bowl with the lime.",
-            "secondary_message": null
-          },
-          {
-            "id": 341375,
-            "primary_message": "Quarter, core, and medium dice apples; add to the bowl and stir to combine the fruit medley. Set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 341376,
-            "primary_message": "Place mayo, curry paste, vinegar, honey, and salt in another medium bowl. Stir to combine the dressing.",
-            "secondary_message": "⅓ cup mayonnaise\n4 tsp Thai curry paste, red\n1 tbsp rice vinegar\n1 tsp honey\n½ tsp salt"
-          },
-          {
-            "id": 341377,
-            "primary_message": "Roughly chop eggs and add to the bowl with the dressing. Using a potato masher, mash and combine the egg salad. ",
-            "secondary_message": "12 hard-cooked eggs, peeled"
-          },
-          {
-            "id": 341378,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Add to the bowl with the egg salad and stir to combine.",
-            "secondary_message": null
-          },
-          {
-            "id": 341379,
-            "primary_message": "Place half of the bread slices on a flat surface and divide egg salad between them; cover with remaining slices and press gently to adhere. Cut sandwiches in half.",
-            "secondary_message": "8 slices whole grain bread"
-          },
-          {
-            "id": 341380,
-            "primary_message": "To serve, divide sandwiches and fruit medley between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 364271,
-            "quantity": "½ small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 364279,
-            "quantity": "2",
-            "ingredient_name": "Gala apples"
-          },
-          {
-            "id": 364280,
-            "quantity": "12",
-            "ingredient_name": "hard-cooked eggs, peeled"
-          },
-          {
-            "id": 364275,
-            "quantity": "1",
-            "ingredient_name": "lime"
-          },
-          {
-            "id": 364276,
-            "quantity": "2",
-            "ingredient_name": "mangoes"
-          },
-          {
-            "id": 364281,
-            "quantity": "20 ml",
-            "ingredient_name": "Thai curry paste, red"
-          },
-          {
-            "id": 364274,
-            "quantity": "8 slices",
-            "ingredient_name": "whole grain bread"
-          },
-          {
-            "id": 364273,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 364278,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 364277,
-            "quantity": "",
-            "ingredient_name": "rice vinegar"
-          },
-          {
-            "id": 364272,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 676.87,
-          "alcohol": 0,
-          "ash": 4.65,
-          "caffeine": 0,
-          "water": 358.1,
-          "carbs": 70.95,
-          "fiber": 8.84,
-          "starch": 20.32,
-          "sugars": 38.66,
-          "fructose": 15.47,
-          "galactose": 0.06,
-          "glucose": 7.01,
-          "lactose": 0.01,
-          "maltose": 0.68,
-          "sucrose": 14.01,
-          "sugar_alcohol": 0,
-          "fat": 33.57,
-          "monounsaturated": 9.8,
-          "polyunsaturated": 12.64,
-          "omega_3": 1.37,
-          "omega_6": 11.03,
-          "saturated": 7.53,
-          "transfats": 0.1,
-          "cholesterol": 489.28,
-          "protein": 26.03,
-          "alanine": 1.06,
-          "arginine": 1.04,
-          "aspartic_acid": 1.84,
-          "cystine": 0.38,
-          "glutamic_acid": 2.33,
-          "glycine": 0.62,
-          "histidine": 0.42,
-          "isoleucine": 0.95,
-          "leucine": 1.5,
-          "lysine": 1.3,
-          "methionine": 0.52,
-          "phenylalanine": 0.92,
-          "proline": 0.71,
-          "serine": 1.29,
-          "threonine": 0.84,
-          "tryptophan": 0.22,
-          "tyrosine": 0.7,
-          "valine": 1.08,
-          "b1_thiamine": 0.41,
-          "b2_riboflavin": 0.86,
-          "b3_niacin": 4.19,
-          "b5_pantothenic_acid": 2.64,
-          "b6_pyridoxine": 0.55,
-          "b12_cobalamin": 1.44,
-          "choline": 419.51,
-          "folate": 163.73,
-          "vitamin_a": 740.01,
-          "vitamin_c": 69.88,
-          "vitamin_d": 5.56,
-          "vitamin_e": 6.14,
-          "vitamin_k": 59.53,
-          "calcium": 201.24,
-          "copper": 0.39,
-          "iron": 3.66,
-          "magnesium": 85.85,
-          "manganese": 1.61,
-          "phosphorus": 398.27,
-          "potassium": 731.64,
-          "selenium": 65.33,
-          "sodium": 640.64,
-          "zinc": 2.74
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/spicy-thai-red-curry-basil-egg-salad-sandwich-apple-mango-medley/20465",
-      "altVariants": [
-        {
-          "id": 20469,
-          "recipe_id": 2331,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "91f45087-f01d-474b-aed0-1dbd0a84bf9b",
-          "fallback_published_recipe_uuids": [
-            "3f22f7f5-07cb-49d9-a7c7-1d3091970d28"
-          ],
-          "first_published_at": 1655826981000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            266,
-            396,
-            228,
-            229,
-            403,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            12,
-            18,
-            1.5,
-            3,
-            30,
-            7.5,
-            135,
-            22.5,
-            3.75
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20468,
-          "recipe_id": 2331,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "e6fb8902-e636-498f-97b0-d11e075a31a7",
-          "fallback_published_recipe_uuids": [
-            "c76edeeb-f64f-4cab-befc-cbef96e0f5b7"
-          ],
-          "first_published_at": 1655826982000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            266,
-            396,
-            228,
-            229,
-            403,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            8,
-            12,
-            1,
-            2,
-            20,
-            5,
-            90,
-            15,
-            2.5
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20467,
-          "recipe_id": 2331,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "232fcd98-f07f-4df9-ba00-47e4f3fd45c1",
-          "fallback_published_recipe_uuids": [
-            "256583dc-5de4-4c83-8c14-ade0d58349ae"
-          ],
-          "first_published_at": 1655826982000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            266,
-            396,
-            228,
-            229,
-            403,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            4,
-            6,
-            0.5,
-            1,
-            10,
-            2.5,
-            45,
-            7.5,
-            1.25
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20465,
-          "recipe_id": 2331,
-          "group_label": "Default",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "4efa13aa-2a6e-4d1b-adec-ddbc0474bde5",
-          "fallback_published_recipe_uuids": [
-            "6416514a-1e23-4631-ac9a-51a20885a3fd"
-          ],
-          "first_published_at": 1655826983000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            396,
-            228,
-            229,
-            403,
-            191,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            12,
-            1,
-            2,
-            20,
-            8,
-            5,
-            90,
-            15,
-            2.5
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20464,
-          "recipe_id": 2331,
-          "group_label": "Default",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "0447253f-f4a8-424d-8eab-63812bc08e88",
-          "fallback_published_recipe_uuids": [
-            "7a125491-e7f7-4020-b5da-33f19f352326"
-          ],
-          "first_published_at": 1655826983000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            396,
-            228,
-            229,
-            403,
-            191,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            6,
-            0.5,
-            1,
-            10,
-            4,
-            2.5,
-            45,
-            7.5,
-            1.25
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20466,
-          "recipe_id": 2331,
-          "group_label": "Default",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "687a7d57-8d90-4dc9-9e14-ce44dab1c82d",
-          "fallback_published_recipe_uuids": [
-            "4f19ecec-a952-4cb3-974c-8bbb61bd2527"
-          ],
-          "first_published_at": 1655826982000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            396,
-            228,
-            229,
-            403,
-            191,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            18,
-            1.5,
-            3,
-            30,
-            12,
-            7.5,
-            135,
-            22.5,
-            3.75
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20475,
-          "recipe_id": 2331,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "bd543659-b965-4894-8e01-e89edd42b5cf",
-          "fallback_published_recipe_uuids": [
-            "df59f39d-14c1-4a5e-85aa-b6f569741686"
-          ],
-          "first_published_at": 1655826979000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            266,
-            396,
-            228,
-            229,
-            403,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            12,
-            18,
-            1.5,
-            3,
-            30,
-            7.5,
-            135,
-            22.5,
-            3.75
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20474,
-          "recipe_id": 2331,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "65d8fc45-bec2-46c9-bb1f-3c116362868d",
-          "fallback_published_recipe_uuids": [
-            "c16f7aa1-c2fe-418a-9742-f02d26916f9d"
-          ],
-          "first_published_at": 1655826980000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            266,
-            396,
-            228,
-            229,
-            403,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            8,
-            12,
-            1,
-            2,
-            20,
-            5,
-            90,
-            15,
-            2.5
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20473,
-          "recipe_id": 2331,
-          "group_label": "Default auto-gluten-free",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "286c8de0-a3b7-4cd4-a27f-3a8a7e4d374e",
-          "fallback_published_recipe_uuids": [
-            "180a70c4-dd6b-4364-b0a8-0f4111f2f6af"
-          ],
-          "first_published_at": 1655826980000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            266,
-            396,
-            228,
-            229,
-            403,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            4,
-            6,
-            0.5,
-            1,
-            10,
-            2.5,
-            45,
-            7.5,
-            1.25
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20472,
-          "recipe_id": 2331,
-          "group_label": "Default",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "ea2e822a-2660-4931-9757-6f187fafbf5b",
-          "fallback_published_recipe_uuids": [
-            "330358a9-3991-43c7-9823-e8c0a74c4b82"
-          ],
-          "first_published_at": 1655826980000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            396,
-            228,
-            229,
-            403,
-            191,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            3,
-            18,
-            1.5,
-            3,
-            30,
-            12,
-            7.5,
-            135,
-            22.5,
-            3.75
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20471,
-          "recipe_id": 2331,
-          "group_label": "Default",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "8168f7de-ec46-414e-bb66-21e59d32a0c3",
-          "fallback_published_recipe_uuids": [
-            "99b46f3f-e106-4081-8c55-ffe7f38b7131"
-          ],
-          "first_published_at": 1655826981000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            396,
-            228,
-            229,
-            403,
-            191,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            12,
-            1,
-            2,
-            20,
-            8,
-            5,
-            90,
-            15,
-            2.5
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        },
-        {
-          "id": 20470,
-          "recipe_id": 2331,
-          "group_label": "Default",
-          "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
-          "published_recipe_uuid": "611e4818-a4a0-4e62-95ff-48fe9465f028",
-          "fallback_published_recipe_uuids": [
-            "32e97950-8fde-4b24-8306-4c3b6dfa6d2c"
-          ],
-          "first_published_at": 1655826981000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            28,
-            296,
-            396,
-            228,
-            229,
-            403,
-            191,
-            103,
-            267,
-            257,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            6,
-            0.5,
-            1,
-            10,
-            4,
-            2.5,
-            45,
-            7.5,
-            1.25
-          ],
-          "average_rating": 0.705,
-          "rating_count": 11,
-          "variety_tag_ids": [
-            4
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "We love a classic, but this spicy twist on our old favorite is currently the apple of our eye",
-        "keywords": [
-          "Burgers & Sandwiches"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 20465,
+  "recipe_id": 2331,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Spicy Thai Red Curry-Basil Egg Salad Sandwich with Apple Mango Medley",
+  "slug": "spicy-thai-red-curry-basil-egg-salad-sandwich-apple-mango-medley",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/thumbnail_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2331/presentation_658662e6-5ba4-48e2-9052-01497de69a03.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "spicy-thai-red-curry-basil-egg-salad-sandwich-apple-mango-medley",
-    "variantId": "20465"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 16,
+      "name": "potato masher",
+      "slug": "potato-masher"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 341372,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "1 lime\n2 mangoes\n2 Gala apples\n½ small pkg fresh basil"
+    },
+    {
+      "id": 341373,
+      "primary_message": "Zest and juice lime into a medium bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 341374,
+      "primary_message": "Peel mangoes and slice flesh away from the pits, starting with the flat sides. Medium dice and add to the bowl with the lime.",
+      "secondary_message": null
+    },
+    {
+      "id": 341375,
+      "primary_message": "Quarter, core, and medium dice apples; add to the bowl and stir to combine the fruit medley. Set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 341376,
+      "primary_message": "Place mayo, curry paste, vinegar, honey, and salt in another medium bowl. Stir to combine the dressing.",
+      "secondary_message": "⅓ cup mayonnaise\n4 tsp Thai curry paste, red\n1 tbsp rice vinegar\n1 tsp honey\n½ tsp salt"
+    },
+    {
+      "id": 341377,
+      "primary_message": "Roughly chop eggs and add to the bowl with the dressing. Using a potato masher, mash and combine the egg salad. ",
+      "secondary_message": "12 hard-cooked eggs, peeled"
+    },
+    {
+      "id": 341378,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Add to the bowl with the egg salad and stir to combine.",
+      "secondary_message": null
+    },
+    {
+      "id": 341379,
+      "primary_message": "Place half of the bread slices on a flat surface and divide egg salad between them; cover with remaining slices and press gently to adhere. Cut sandwiches in half.",
+      "secondary_message": "8 slices whole grain bread"
+    },
+    {
+      "id": 341380,
+      "primary_message": "To serve, divide sandwiches and fruit medley between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 364271,
+      "quantity": "½ small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 364279,
+      "quantity": "2",
+      "ingredient_name": "Gala apples"
+    },
+    {
+      "id": 364280,
+      "quantity": "12",
+      "ingredient_name": "hard-cooked eggs, peeled"
+    },
+    {
+      "id": 364275,
+      "quantity": "1",
+      "ingredient_name": "lime"
+    },
+    {
+      "id": 364276,
+      "quantity": "2",
+      "ingredient_name": "mangoes"
+    },
+    {
+      "id": 364281,
+      "quantity": "20 ml",
+      "ingredient_name": "Thai curry paste, red"
+    },
+    {
+      "id": 364274,
+      "quantity": "8 slices",
+      "ingredient_name": "whole grain bread"
+    },
+    {
+      "id": 364273,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 364278,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 364277,
+      "quantity": "",
+      "ingredient_name": "rice vinegar"
+    },
+    {
+      "id": 364272,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 676.87,
+    "alcohol": 0,
+    "ash": 4.65,
+    "caffeine": 0,
+    "water": 358.1,
+    "carbs": 70.95,
+    "fiber": 8.84,
+    "starch": 20.32,
+    "sugars": 38.66,
+    "fructose": 15.47,
+    "galactose": 0.06,
+    "glucose": 7.01,
+    "lactose": 0.01,
+    "maltose": 0.68,
+    "sucrose": 14.01,
+    "sugar_alcohol": 0,
+    "fat": 33.57,
+    "monounsaturated": 9.8,
+    "polyunsaturated": 12.64,
+    "omega_3": 1.37,
+    "omega_6": 11.03,
+    "saturated": 7.53,
+    "transfats": 0.1,
+    "cholesterol": 489.28,
+    "protein": 26.03,
+    "alanine": 1.06,
+    "arginine": 1.04,
+    "aspartic_acid": 1.84,
+    "cystine": 0.38,
+    "glutamic_acid": 2.33,
+    "glycine": 0.62,
+    "histidine": 0.42,
+    "isoleucine": 0.95,
+    "leucine": 1.5,
+    "lysine": 1.3,
+    "methionine": 0.52,
+    "phenylalanine": 0.92,
+    "proline": 0.71,
+    "serine": 1.29,
+    "threonine": 0.84,
+    "tryptophan": 0.22,
+    "tyrosine": 0.7,
+    "valine": 1.08,
+    "b1_thiamine": 0.41,
+    "b2_riboflavin": 0.86,
+    "b3_niacin": 4.19,
+    "b5_pantothenic_acid": 2.64,
+    "b6_pyridoxine": 0.55,
+    "b12_cobalamin": 1.44,
+    "choline": 419.51,
+    "folate": 163.73,
+    "vitamin_a": 740.01,
+    "vitamin_c": 69.88,
+    "vitamin_d": 5.56,
+    "vitamin_e": 6.14,
+    "vitamin_k": 59.53,
+    "calcium": 201.24,
+    "copper": 0.39,
+    "iron": 3.66,
+    "magnesium": 85.85,
+    "manganese": 1.61,
+    "phosphorus": 398.27,
+    "potassium": 731.64,
+    "selenium": 65.33,
+    "sodium": 640.64,
+    "zinc": 2.74
+  }
 }

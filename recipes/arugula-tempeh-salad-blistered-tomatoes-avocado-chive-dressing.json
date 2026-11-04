@@ -1,2098 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 29804,
-        "recipe_id": 3344,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-        "slug": "arugula-tempeh-salad-blistered-tomatoes-avocado-chive-dressing",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 474895,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 474896,
-            "primary_message": "While the skillet heats up, medium dice tempeh. Place in a medium bowl, drizzle with soy sauce, and stir to coat.",
-            "secondary_message": "2 (8 oz) packages tempeh\n4 tsp soy sauce"
-          },
-          {
-            "id": 474897,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add tempeh and salt; cook, stirring occasionally, until golden, 5-7 minutes. Transfer tempeh to a plate and set aside. (Reserve skillet and bowl for later use.)",
-            "secondary_message": "4 tsp extra virgin olive oil\n⅛ tsp salt"
-          },
-          {
-            "id": 474898,
-            "primary_message": "While the tempeh is cooking, wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
-            "secondary_message": "1 pint grape tomatoes\n1 lemon\n1 small pkg chives\n1 (5 oz) pkg baby arugula\n2 avocados"
-          },
-          {
-            "id": 474899,
-            "primary_message": "Return skillet to medium-high heat, add more oil, and swirl to coat the bottom. Add tomatoes and salt; cook, stirring occasionally, until starting to brown and burst, 3-5 minutes. Remove from heat and set aside to cool, 5 minutes.",
-            "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt"
-          },
-          {
-            "id": 474900,
-            "primary_message": "Meanwhile, juice lemon into the reserved bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 474901,
-            "primary_message": "Chop chives into small pieces. Add half to the bowl with the lemon juice along with mayo, oil, Dijon, maple syrup, salt, and pepper; whisk to combine the dressing. (Reserve remaining chives for serving.)",
-            "secondary_message": "⅓ cup mayonnaise\n2 tsp extra virgin olive oil\n2 tsp Dijon mustard\n2 tsp pure maple syrup\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 474902,
-            "primary_message": "Add arugula and cooled tomatoes to the bowl with the dressing. Gently toss to combine the salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 474903,
-            "primary_message": "Halve and pit avocados; using a spoon, scoop out the flesh and large dice. Season with salt.",
-            "secondary_message": "⅛ tsp salt"
-          },
-          {
-            "id": 474904,
-            "primary_message": "To serve, divide salad between plates or bowls. Top with avocado, tempeh, and reserved chives. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 509705,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 509704,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby arugula"
-          },
-          {
-            "id": 509708,
-            "quantity": "1 small pkg",
-            "ingredient_name": "chives"
-          },
-          {
-            "id": 509709,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 509706,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 509710,
-            "quantity": "2 (8 oz) packages",
-            "ingredient_name": "tempeh"
-          },
-          {
-            "id": 509700,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 509703,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 509698,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 509707,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 509702,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 509701,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 509699,
-            "quantity": "",
-            "ingredient_name": "soy sauce"
-          }
-        ],
-        "nutrition": {
-          "energy": 674.33,
-          "alcohol": 0,
-          "ash": 7.59,
-          "caffeine": 0,
-          "water": 268.31,
-          "carbs": 25.84,
-          "fiber": 8.59,
-          "starch": 0.5,
-          "sugars": 6.13,
-          "fructose": 1.67,
-          "galactose": 0.1,
-          "glucose": 1.86,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 2.48,
-          "sugar_alcohol": 0,
-          "fat": 56.04,
-          "monounsaturated": 25.92,
-          "polyunsaturated": 17.79,
-          "omega_3": 1.72,
-          "omega_6": 16.08,
-          "saturated": 9.4,
-          "transfats": 0.11,
-          "cholesterol": 13.7,
-          "protein": 27.74,
-          "alanine": 1.27,
-          "arginine": 1.59,
-          "aspartic_acid": 2.7,
-          "cystine": 0.27,
-          "glutamic_acid": 4.53,
-          "glycine": 1.02,
-          "histidine": 0.61,
-          "isoleucine": 1.14,
-          "leucine": 1.86,
-          "lysine": 1.24,
-          "methionine": 0.26,
-          "phenylalanine": 1.18,
-          "proline": 1.35,
-          "serine": 1.35,
-          "threonine": 1.04,
-          "tryptophan": 0.26,
-          "tyrosine": 0.85,
-          "valine": 1.22,
-          "b1_thiamine": 0.22,
-          "b2_riboflavin": 0.65,
-          "b3_niacin": 5.52,
-          "b5_pantothenic_acid": 2.03,
-          "b6_pyridoxine": 0.62,
-          "b12_cobalamin": 0.12,
-          "choline": 37.77,
-          "folate": 167.21,
-          "vitamin_a": 781.45,
-          "vitamin_c": 34.55,
-          "vitamin_d": 2.75,
-          "vitamin_e": 5.72,
-          "vitamin_k": 118.14,
-          "calcium": 220.23,
-          "copper": 0.92,
-          "iron": 4.76,
-          "magnesium": 156.65,
-          "manganese": 2.09,
-          "phosphorus": 414.26,
-          "potassium": 1330.59,
-          "selenium": 9.88,
-          "sodium": 78.43,
-          "zinc": 2.44
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/arugula-tempeh-salad-blistered-tomatoes-avocado-chive-dressing/29804",
-      "altVariants": [
-        {
-          "id": 29805,
-          "recipe_id": 3344,
-          "group_label": "Default",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "e2e55cdb-c4d6-48b9-88e7-da09b7b99739",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630539000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            135,
-            15,
-            9.375,
-            30
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29803,
-          "recipe_id": 3344,
-          "group_label": "Default",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "cf82dfee-94d7-4244-b05c-c5e6ebee67ae",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630539000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            45,
-            5,
-            3.125,
-            10
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29813,
-          "recipe_id": 3344,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "b7e0183e-f826-40c7-872e-039ad809fa7c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630536000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            10,
-            6.25,
-            20,
-            80
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29812,
-          "recipe_id": 3344,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "fdd9251c-313c-4e94-9bf6-2fbcbebee07a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630536000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            5,
-            3.125,
-            10,
-            45
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29809,
-          "recipe_id": 3344,
-          "group_label": "Default auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "65c85844-075a-4178-a3b0-c3c1114f39e7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630537000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            45,
-            5,
-            3.125,
-            10
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29807,
-          "recipe_id": 3344,
-          "group_label": "Vegan",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "c642422c-b289-4fd6-8950-b9e9287998d5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630538000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            10,
-            6.25,
-            20,
-            80
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29804,
-          "recipe_id": 3344,
-          "group_label": "Default",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "40b1320b-45df-4b61-b436-a1773e895d14",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630538000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            90,
-            10,
-            6.25,
-            20
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29806,
-          "recipe_id": 3344,
-          "group_label": "Vegan",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "9074792f-0828-41e3-88f3-d42a707f6aa4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630538000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            5,
-            3.125,
-            10,
-            45
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29808,
-          "recipe_id": 3344,
-          "group_label": "Vegan",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "bc14dbd9-ee3c-44ef-b50c-d7abc2b0f6e0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630537000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            15,
-            9.375,
-            30,
-            120
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29814,
-          "recipe_id": 3344,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "740b4daa-ac01-4fd1-8a0f-0c24493095c7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630535000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            15,
-            9.375,
-            30,
-            120
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29811,
-          "recipe_id": 3344,
-          "group_label": "Default auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "70cb7459-89b6-40f8-80f4-40e0078a135c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630536000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            135,
-            15,
-            9.375,
-            30
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29810,
-          "recipe_id": 3344,
-          "group_label": "Default auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "ef7e54f2-3c0a-401f-a2e7-aea52d33bae6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630537000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            90,
-            10,
-            6.25,
-            20
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29826,
-          "recipe_id": 3344,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "a376f883-b128-4591-9736-9c1a7ce67e4a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630531000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            15,
-            9.375,
-            30,
-            120
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29825,
-          "recipe_id": 3344,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "52e6f598-8fba-443d-8705-c48cfd34cbff",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630531000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            10,
-            6.25,
-            20,
-            80
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29824,
-          "recipe_id": 3344,
-          "group_label": "Vegan auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "25748393-106f-4086-8e8a-1a47a7c6951c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630532000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            54,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            5,
-            3.125,
-            10,
-            45
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29823,
-          "recipe_id": 3344,
-          "group_label": "Default auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "ff9eda60-f891-4a3f-b541-bd25c6f548bb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630532000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            135,
-            15,
-            9.375,
-            30
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29822,
-          "recipe_id": 3344,
-          "group_label": "Default auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "708789b9-ab80-413a-a137-ee1de17cbac1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630532000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            90,
-            10,
-            6.25,
-            20
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29821,
-          "recipe_id": 3344,
-          "group_label": "Default auto-gluten-free",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "756b4e61-fd26-4e85-985f-7c1f4dfe2225",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630533000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            54
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            45,
-            5,
-            3.125,
-            10
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29820,
-          "recipe_id": 3344,
-          "group_label": "Vegan",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "0d1febef-efab-4492-bad4-ada1e453e03f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630533000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            15,
-            9.375,
-            30,
-            120
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29819,
-          "recipe_id": 3344,
-          "group_label": "Vegan",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "d51dc9f8-1e39-447c-ac67-9bf65a189f2c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630533000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            10,
-            6.25,
-            20,
-            80
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29818,
-          "recipe_id": 3344,
-          "group_label": "Vegan",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "f7cb25f0-9477-40f9-9a8f-443b33e9081d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630534000,
-          "allowed_type_ids": [
-            4,
-            7,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            104,
-            88,
-            53,
-            340
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            5,
-            3.125,
-            10,
-            45
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29817,
-          "recipe_id": 3344,
-          "group_label": "Default",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "cde0f5cd-570a-444b-81e0-f2cb3f72e2c7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630534000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            15,
-            75,
-            135,
-            15,
-            9.375,
-            30
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29816,
-          "recipe_id": 3344,
-          "group_label": "Default",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "3a83706f-c75a-40dc-8148-a03b943bd664",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630534000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            10,
-            50,
-            90,
-            10,
-            6.25,
-            20
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29815,
-          "recipe_id": 3344,
-          "group_label": "Default",
-          "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
-          "published_recipe_uuid": "07bda026-a252-4144-b85f-79cb9f03d2bd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1717630535000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            9,
-            1,
-            14,
-            13,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            139,
-            270,
-            277,
-            192,
-            474,
-            72,
-            117,
-            47,
-            267,
-            104,
-            88,
-            53
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            5,
-            25,
-            45,
-            5,
-            3.125,
-            10
-          ],
-          "average_rating": 0.79,
-          "rating_count": 62,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": 62,
-        "reviewScore": null
-      }
+  "id": 29804,
+  "recipe_id": 3344,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Arugula-Tempeh Salad with Blistered Tomatoes, Avocado & Chive Dressing",
+  "slug": "arugula-tempeh-salad-blistered-tomatoes-avocado-chive-dressing",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/thumbnail_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3344/presentation_a997ecb3-2c90-4d5a-9582-c0702e27e62f.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "arugula-tempeh-salad-blistered-tomatoes-avocado-chive-dressing",
-    "variantId": "29804"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 474895,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 474896,
+      "primary_message": "While the skillet heats up, medium dice tempeh. Place in a medium bowl, drizzle with soy sauce, and stir to coat.",
+      "secondary_message": "2 (8 oz) packages tempeh\n4 tsp soy sauce"
+    },
+    {
+      "id": 474897,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add tempeh and salt; cook, stirring occasionally, until golden, 5-7 minutes. Transfer tempeh to a plate and set aside. (Reserve skillet and bowl for later use.)",
+      "secondary_message": "4 tsp extra virgin olive oil\n⅛ tsp salt"
+    },
+    {
+      "id": 474898,
+      "primary_message": "While the tempeh is cooking, wash and dry the fresh produce. (Skip the arugula if it came pre-washed.)",
+      "secondary_message": "1 pint grape tomatoes\n1 lemon\n1 small pkg chives\n1 (5 oz) pkg baby arugula\n2 avocados"
+    },
+    {
+      "id": 474899,
+      "primary_message": "Return skillet to medium-high heat, add more oil, and swirl to coat the bottom. Add tomatoes and salt; cook, stirring occasionally, until starting to brown and burst, 3-5 minutes. Remove from heat and set aside to cool, 5 minutes.",
+      "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt"
+    },
+    {
+      "id": 474900,
+      "primary_message": "Meanwhile, juice lemon into the reserved bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 474901,
+      "primary_message": "Chop chives into small pieces. Add half to the bowl with the lemon juice along with mayo, oil, Dijon, maple syrup, salt, and pepper; whisk to combine the dressing. (Reserve remaining chives for serving.)",
+      "secondary_message": "⅓ cup mayonnaise\n2 tsp extra virgin olive oil\n2 tsp Dijon mustard\n2 tsp pure maple syrup\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 474902,
+      "primary_message": "Add arugula and cooled tomatoes to the bowl with the dressing. Gently toss to combine the salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 474903,
+      "primary_message": "Halve and pit avocados; using a spoon, scoop out the flesh and large dice. Season with salt.",
+      "secondary_message": "⅛ tsp salt"
+    },
+    {
+      "id": 474904,
+      "primary_message": "To serve, divide salad between plates or bowls. Top with avocado, tempeh, and reserved chives. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 509705,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 509704,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby arugula"
+    },
+    {
+      "id": 509708,
+      "quantity": "1 small pkg",
+      "ingredient_name": "chives"
+    },
+    {
+      "id": 509709,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 509706,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 509710,
+      "quantity": "2 (8 oz) packages",
+      "ingredient_name": "tempeh"
+    },
+    {
+      "id": 509700,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 509703,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 509698,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 509707,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 509702,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 509701,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 509699,
+      "quantity": "",
+      "ingredient_name": "soy sauce"
+    }
+  ],
+  "nutrition": {
+    "energy": 674.33,
+    "alcohol": 0,
+    "ash": 7.59,
+    "caffeine": 0,
+    "water": 268.31,
+    "carbs": 25.84,
+    "fiber": 8.59,
+    "starch": 0.5,
+    "sugars": 6.13,
+    "fructose": 1.67,
+    "galactose": 0.1,
+    "glucose": 1.86,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 2.48,
+    "sugar_alcohol": 0,
+    "fat": 56.04,
+    "monounsaturated": 25.92,
+    "polyunsaturated": 17.79,
+    "omega_3": 1.72,
+    "omega_6": 16.08,
+    "saturated": 9.4,
+    "transfats": 0.11,
+    "cholesterol": 13.7,
+    "protein": 27.74,
+    "alanine": 1.27,
+    "arginine": 1.59,
+    "aspartic_acid": 2.7,
+    "cystine": 0.27,
+    "glutamic_acid": 4.53,
+    "glycine": 1.02,
+    "histidine": 0.61,
+    "isoleucine": 1.14,
+    "leucine": 1.86,
+    "lysine": 1.24,
+    "methionine": 0.26,
+    "phenylalanine": 1.18,
+    "proline": 1.35,
+    "serine": 1.35,
+    "threonine": 1.04,
+    "tryptophan": 0.26,
+    "tyrosine": 0.85,
+    "valine": 1.22,
+    "b1_thiamine": 0.22,
+    "b2_riboflavin": 0.65,
+    "b3_niacin": 5.52,
+    "b5_pantothenic_acid": 2.03,
+    "b6_pyridoxine": 0.62,
+    "b12_cobalamin": 0.12,
+    "choline": 37.77,
+    "folate": 167.21,
+    "vitamin_a": 781.45,
+    "vitamin_c": 34.55,
+    "vitamin_d": 2.75,
+    "vitamin_e": 5.72,
+    "vitamin_k": 118.14,
+    "calcium": 220.23,
+    "copper": 0.92,
+    "iron": 4.76,
+    "magnesium": 156.65,
+    "manganese": 2.09,
+    "phosphorus": 414.26,
+    "potassium": 1330.59,
+    "selenium": 9.88,
+    "sodium": 78.43,
+    "zinc": 2.44
+  }
 }

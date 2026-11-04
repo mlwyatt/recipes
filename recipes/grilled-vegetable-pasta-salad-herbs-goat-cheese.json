@@ -1,1160 +1,270 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 11849,
-        "recipe_id": 1379,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-        "slug": "grilled-vegetable-pasta-salad-herbs-goat-cheese",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 200443,
-            "primary_message": "Fill a large pot halfway with water, cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes.",
-            "secondary_message": "2 tsp salt\n10 oz rotini pasta"
-          },
-          {
-            "id": 200444,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "2 small bunches asparagus\n4 tomatoes\n1 small pkg fresh basil\n1 small pkg fresh mint"
-          },
-          {
-            "id": 200445,
-            "primary_message": "Snap or cut off woody ends of the asparagus and transfer to a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 200446,
-            "primary_message": "Quarter tomatoes and add to the bowl with the asparagus.",
-            "secondary_message": null
-          },
-          {
-            "id": 200447,
-            "primary_message": "Peel and thinly slice onions into rings. Add to the bowl along with oil, salt, and pepper; toss to coat.",
-            "secondary_message": "2 medium red onions\n2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 200448,
-            "primary_message": "Heat a grill pan, outdoor grill, or skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 200449,
-            "primary_message": "Once the grill pan is hot, working in batches if necessary, add veggies in a single layer. Cook until tender and charred, turning occasionally, 6-8 minutes. Return grilled veggies to the bowl and set aside to cool.",
-            "secondary_message": null
-          },
-          {
-            "id": 200450,
-            "primary_message": "Meanwhile, combine oil, vinegar, honey, and salt in a small bowl.",
-            "secondary_message": "¼ cup extra virgin olive oil\n¼ cup white wine vinegar\n4 tsp honey\n1 tsp salt"
-          },
-          {
-            "id": 200451,
-            "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
-            "secondary_message": null
-          },
-          {
-            "id": 200452,
-            "primary_message": "Pick mint leaves off the stems; discard stems and mince the leaves.",
-            "secondary_message": null
-          },
-          {
-            "id": 200453,
-            "primary_message": "Once the veggies have cooled slightly, cut into bite-sized pieces and return to the bowl. Add dressing and herbs; toss to combine.",
-            "secondary_message": null
-          },
-          {
-            "id": 200454,
-            "primary_message": "When the pasta is done, drain and rinse under cold water; add to the bowl with the veggies.",
-            "secondary_message": null
-          },
-          {
-            "id": 200455,
-            "primary_message": "Crumble cheese and add to the bowl; toss gently to combine. ",
-            "secondary_message": "1 (4 oz) log goat cheese"
-          },
-          {
-            "id": 200456,
-            "primary_message": "To serve, divide pasta salad between bowls and enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 209567,
-            "quantity": "2 small bunches",
-            "ingredient_name": "asparagus"
-          },
-          {
-            "id": 209568,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 209577,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh mint"
-          },
-          {
-            "id": 209574,
-            "quantity": "1 (4 oz) log",
-            "ingredient_name": "goat cheese"
-          },
-          {
-            "id": 209576,
-            "quantity": "2 medium",
-            "ingredient_name": "red onions"
-          },
-          {
-            "id": 209570,
-            "quantity": "10 oz",
-            "ingredient_name": "rotini pasta"
-          },
-          {
-            "id": 209578,
-            "quantity": "4",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 209571,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 209569,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 209573,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 209572,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 209575,
-            "quantity": "",
-            "ingredient_name": "white wine vinegar"
-          }
-        ],
-        "nutrition": {
-          "energy": 616.97,
-          "alcohol": 0,
-          "ash": 8.26,
-          "caffeine": 0,
-          "water": 329.31,
-          "carbs": 74.31,
-          "fiber": 7.84,
-          "starch": 50.39,
-          "sugars": 15.73,
-          "fructose": 6.65,
-          "galactose": 0.24,
-          "glucose": 6.09,
-          "lactose": 0,
-          "maltose": 1.49,
-          "sucrose": 1.26,
-          "sugar_alcohol": 0,
-          "fat": 28.11,
-          "monounsaturated": 16.52,
-          "polyunsaturated": 2.93,
-          "omega_3": 0.24,
-          "omega_6": 2.69,
-          "saturated": 7.27,
-          "transfats": 0.23,
-          "cholesterol": 13,
-          "protein": 19.29,
-          "alanine": 0.61,
-          "arginine": 0.7,
-          "aspartic_acid": 1.58,
-          "cystine": 0.26,
-          "glutamic_acid": 5.23,
-          "glycine": 0.54,
-          "histidine": 0.45,
-          "isoleucine": 0.72,
-          "leucine": 1.38,
-          "lysine": 0.78,
-          "methionine": 0.3,
-          "phenylalanine": 0.84,
-          "proline": 1.88,
-          "serine": 0.83,
-          "threonine": 0.69,
-          "tryptophan": 0.24,
-          "tyrosine": 0.48,
-          "valine": 0.97,
-          "b1_thiamine": 0.9,
-          "b2_riboflavin": 0.62,
-          "b3_niacin": 7.32,
-          "b5_pantothenic_acid": 1.04,
-          "b6_pyridoxine": 0.47,
-          "b12_cobalamin": 0.05,
-          "choline": 48.54,
-          "folate": 274.94,
-          "vitamin_a": 1934.6,
-          "vitamin_c": 29.94,
-          "vitamin_d": 4.24,
-          "vitamin_e": 5.51,
-          "vitamin_k": 118.18,
-          "calcium": 137.99,
-          "copper": 0.78,
-          "iron": 7.19,
-          "magnesium": 87.86,
-          "manganese": 1.27,
-          "phosphorus": 323.99,
-          "potassium": 842.59,
-          "selenium": 49.86,
-          "sodium": 125.33,
-          "zinc": 2.37
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-vegetable-pasta-salad-herbs-goat-cheese/11849",
-      "altVariants": [
-        {
-          "id": 11853,
-          "recipe_id": 1379,
-          "group_label": "Default auto-gluten-free",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "f21dfc4f-ce5a-4c2b-aba2-4370663b0d76",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572286000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            67,
-            126,
-            184,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1,
-            15,
-            1.5,
-            3,
-            6,
-            2.5,
-            135,
-            30,
-            26.25,
-            90
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11852,
-          "recipe_id": 1379,
-          "group_label": "Default auto-gluten-free",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "d40fa6cb-1b86-45ef-976d-17dc4ceae1f9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572287000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            67,
-            126,
-            184,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            10,
-            1,
-            2,
-            4,
-            1.25,
-            90,
-            20,
-            17.5,
-            60
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11851,
-          "recipe_id": 1379,
-          "group_label": "Default auto-gluten-free",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "912aea60-a63a-4a2c-80f3-e60e9306e315",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572287000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            67,
-            126,
-            184,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            5,
-            0.5,
-            1,
-            2,
-            0.625,
-            45,
-            10,
-            8.75,
-            30
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11850,
-          "recipe_id": 1379,
-          "group_label": "Default",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "c18e9200-2728-4f63-9a09-183c374c19c4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572288000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            126,
-            184,
-            66,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1,
-            1.5,
-            3,
-            15,
-            6,
-            2.5,
-            135,
-            30,
-            26.25,
-            90
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11849,
-          "recipe_id": 1379,
-          "group_label": "Default",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "f6a4d504-ec69-45ff-b1ad-da59c5f9d351",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572288000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            126,
-            184,
-            66,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            2,
-            10,
-            4,
-            1.25,
-            90,
-            20,
-            17.5,
-            60
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11848,
-          "recipe_id": 1379,
-          "group_label": "Default",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "94aa1c01-8072-46af-a3f5-24fdff061407",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572288000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            126,
-            184,
-            66,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            5,
-            2,
-            0.625,
-            45,
-            10,
-            8.75,
-            30
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11859,
-          "recipe_id": 1379,
-          "group_label": "Default auto-gluten-free",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "5b248d8f-8ce5-4132-8328-fb2ef39f0cd9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572284000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            67,
-            126,
-            184,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1,
-            425,
-            1.5,
-            3,
-            6,
-            2.5,
-            135,
-            30,
-            26.25,
-            90
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11858,
-          "recipe_id": 1379,
-          "group_label": "Default auto-gluten-free",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "edf7edcc-f4a7-4ad6-b213-cb786f56dd26",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572284000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            67,
-            126,
-            184,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            283,
-            1,
-            2,
-            4,
-            1.25,
-            90,
-            20,
-            17.5,
-            60
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11857,
-          "recipe_id": 1379,
-          "group_label": "Default auto-gluten-free",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "1796323a-953b-4269-b6d1-41a6fe32168f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572285000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            67,
-            126,
-            184,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            142,
-            0.5,
-            1,
-            2,
-            0.625,
-            45,
-            10,
-            8.75,
-            30
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11856,
-          "recipe_id": 1379,
-          "group_label": "Default",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "850c51d6-3b71-46b7-8523-7a9a5efde6d5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572285000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            126,
-            184,
-            66,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            3,
-            1,
-            1,
-            1.5,
-            3,
-            425,
-            6,
-            2.5,
-            135,
-            30,
-            26.25,
-            90
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11855,
-          "recipe_id": 1379,
-          "group_label": "Default",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "fde4afdd-e544-463b-b232-e8cd36b4453d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572286000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            126,
-            184,
-            66,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            2,
-            283,
-            4,
-            1.25,
-            90,
-            20,
-            17.5,
-            60
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 11854,
-          "recipe_id": 1379,
-          "group_label": "Default",
-          "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
-          "published_recipe_uuid": "d29b5d1d-2eda-42a3-b7c2-2d29deb3d7ea",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1598572287000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            1,
-            2,
-            14,
-            10
-          ],
-          "ingredient_ids": [
-            26,
-            28,
-            243,
-            126,
-            184,
-            66,
-            260,
-            72,
-            47,
-            103,
-            88,
-            132
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            142,
-            2,
-            0.625,
-            45,
-            10,
-            8.75,
-            30
-          ],
-          "average_rating": 0.769,
-          "rating_count": 27,
-          "variety_tag_ids": [
-            20,
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Main-Course Salads",
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 11849,
+  "recipe_id": 1379,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Grilled Vegetable Pasta Salad with Herbs & Goat Cheese",
+  "slug": "grilled-vegetable-pasta-salad-herbs-goat-cheese",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/thumbnail_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1379/presentation_dab4bf60-5046-4710-84af-8aab3b98c401.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-vegetable-pasta-salad-herbs-goat-cheese",
-    "variantId": "11849"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 200443,
+      "primary_message": "Fill a large pot halfway with water, cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes.",
+      "secondary_message": "2 tsp salt\n10 oz rotini pasta"
+    },
+    {
+      "id": 200444,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "2 small bunches asparagus\n4 tomatoes\n1 small pkg fresh basil\n1 small pkg fresh mint"
+    },
+    {
+      "id": 200445,
+      "primary_message": "Snap or cut off woody ends of the asparagus and transfer to a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 200446,
+      "primary_message": "Quarter tomatoes and add to the bowl with the asparagus.",
+      "secondary_message": null
+    },
+    {
+      "id": 200447,
+      "primary_message": "Peel and thinly slice onions into rings. Add to the bowl along with oil, salt, and pepper; toss to coat.",
+      "secondary_message": "2 medium red onions\n2 tbsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 200448,
+      "primary_message": "Heat a grill pan, outdoor grill, or skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 200449,
+      "primary_message": "Once the grill pan is hot, working in batches if necessary, add veggies in a single layer. Cook until tender and charred, turning occasionally, 6-8 minutes. Return grilled veggies to the bowl and set aside to cool.",
+      "secondary_message": null
+    },
+    {
+      "id": 200450,
+      "primary_message": "Meanwhile, combine oil, vinegar, honey, and salt in a small bowl.",
+      "secondary_message": "¼ cup extra virgin olive oil\n¼ cup white wine vinegar\n4 tsp honey\n1 tsp salt"
+    },
+    {
+      "id": 200451,
+      "primary_message": "Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons.",
+      "secondary_message": null
+    },
+    {
+      "id": 200452,
+      "primary_message": "Pick mint leaves off the stems; discard stems and mince the leaves.",
+      "secondary_message": null
+    },
+    {
+      "id": 200453,
+      "primary_message": "Once the veggies have cooled slightly, cut into bite-sized pieces and return to the bowl. Add dressing and herbs; toss to combine.",
+      "secondary_message": null
+    },
+    {
+      "id": 200454,
+      "primary_message": "When the pasta is done, drain and rinse under cold water; add to the bowl with the veggies.",
+      "secondary_message": null
+    },
+    {
+      "id": 200455,
+      "primary_message": "Crumble cheese and add to the bowl; toss gently to combine. ",
+      "secondary_message": "1 (4 oz) log goat cheese"
+    },
+    {
+      "id": 200456,
+      "primary_message": "To serve, divide pasta salad between bowls and enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 209567,
+      "quantity": "2 small bunches",
+      "ingredient_name": "asparagus"
+    },
+    {
+      "id": 209568,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 209577,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh mint"
+    },
+    {
+      "id": 209574,
+      "quantity": "1 (4 oz) log",
+      "ingredient_name": "goat cheese"
+    },
+    {
+      "id": 209576,
+      "quantity": "2 medium",
+      "ingredient_name": "red onions"
+    },
+    {
+      "id": 209570,
+      "quantity": "10 oz",
+      "ingredient_name": "rotini pasta"
+    },
+    {
+      "id": 209578,
+      "quantity": "4",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 209571,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 209569,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 209573,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 209572,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 209575,
+      "quantity": "",
+      "ingredient_name": "white wine vinegar"
+    }
+  ],
+  "nutrition": {
+    "energy": 616.97,
+    "alcohol": 0,
+    "ash": 8.26,
+    "caffeine": 0,
+    "water": 329.31,
+    "carbs": 74.31,
+    "fiber": 7.84,
+    "starch": 50.39,
+    "sugars": 15.73,
+    "fructose": 6.65,
+    "galactose": 0.24,
+    "glucose": 6.09,
+    "lactose": 0,
+    "maltose": 1.49,
+    "sucrose": 1.26,
+    "sugar_alcohol": 0,
+    "fat": 28.11,
+    "monounsaturated": 16.52,
+    "polyunsaturated": 2.93,
+    "omega_3": 0.24,
+    "omega_6": 2.69,
+    "saturated": 7.27,
+    "transfats": 0.23,
+    "cholesterol": 13,
+    "protein": 19.29,
+    "alanine": 0.61,
+    "arginine": 0.7,
+    "aspartic_acid": 1.58,
+    "cystine": 0.26,
+    "glutamic_acid": 5.23,
+    "glycine": 0.54,
+    "histidine": 0.45,
+    "isoleucine": 0.72,
+    "leucine": 1.38,
+    "lysine": 0.78,
+    "methionine": 0.3,
+    "phenylalanine": 0.84,
+    "proline": 1.88,
+    "serine": 0.83,
+    "threonine": 0.69,
+    "tryptophan": 0.24,
+    "tyrosine": 0.48,
+    "valine": 0.97,
+    "b1_thiamine": 0.9,
+    "b2_riboflavin": 0.62,
+    "b3_niacin": 7.32,
+    "b5_pantothenic_acid": 1.04,
+    "b6_pyridoxine": 0.47,
+    "b12_cobalamin": 0.05,
+    "choline": 48.54,
+    "folate": 274.94,
+    "vitamin_a": 1934.6,
+    "vitamin_c": 29.94,
+    "vitamin_d": 4.24,
+    "vitamin_e": 5.51,
+    "vitamin_k": 118.18,
+    "calcium": 137.99,
+    "copper": 0.78,
+    "iron": 7.19,
+    "magnesium": 87.86,
+    "manganese": 1.27,
+    "phosphorus": 323.99,
+    "potassium": 842.59,
+    "selenium": 49.86,
+    "sodium": 125.33,
+    "zinc": 2.37
+  }
 }

@@ -1,654 +1,245 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 4335,
-        "recipe_id": 644,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
-        "slug": "pan-seared-chicken-cranberry-pistachio-quinoa-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 48948,
-            "primary_message": "In a small saucepan, combine the quinoa and broth; bring to a boil over high heat.",
-            "secondary_message": "1 cup quinoa\n16 fl oz (2 cups) chicken or vegetable broth"
-          },
-          {
-            "id": 48949,
-            "primary_message": "Roughly chop the pistachios and transfer to a small bowl.",
-            "secondary_message": "½ cup pistachios, unsalted"
-          },
-          {
-            "id": 48950,
-            "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Transfer to a small bowl.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 48951,
-            "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the quinoa for 15 minutes. Once done, remove the quinoa from the heat and let it stand, still covered, for 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 48952,
-            "primary_message": "Preheat a skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 48953,
-            "primary_message": "Pat the chicken dry with paper towels and place on a cutting board. Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin cutlets. Season the cutlets with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 48954,
-            "primary_message": "Add the pistachios to the skillet; cook, stirring frequently, until the nuts are toasted and fragrant, 3 to 5 minutes. Return to the small bowl and wipe out the pan.",
-            "secondary_message": ""
-          },
-          {
-            "id": 48955,
-            "primary_message": "Once the pistachios have been transferred, add olive oil and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 48956,
-            "primary_message": "Place the chicken cutlets in the skillet; cook until they are golden brown on the outside and cooked through in the center, 2 to 4 minutes per side. Once done, transfer to a plate and cover with foil to keep warm. Cook in batches if necessary.",
-            "secondary_message": null
-          },
-          {
-            "id": 48957,
-            "primary_message": "Uncover the quinoa and fluff with a fork.",
-            "secondary_message": null
-          },
-          {
-            "id": 48958,
-            "primary_message": "Once the chicken has been transferred, add olive oil to the skillet followed by the garlic, spinach, cooked quinoa, pistachios, and cranberries. Season with salt and pepper and cook for 1 to 2 minutes. Remove from the heat.",
-            "secondary_message": "1 tbsp extra virgin olive oil\n1 (5 oz) pkg baby spinach\n¼ cup dried cranberries\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 48959,
-            "primary_message": "To serve, divide the quinoa salad and chicken between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 51934,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 51939,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "chicken breasts, boneless skinless"
-          },
-          {
-            "id": 51937,
-            "quantity": "16 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 51935,
-            "quantity": "¼ cup",
-            "ingredient_name": "dried cranberries"
-          },
-          {
-            "id": 51933,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 51936,
-            "quantity": "½ cup",
-            "ingredient_name": "pistachios, unsalted"
-          },
-          {
-            "id": 51938,
-            "quantity": "1 cup",
-            "ingredient_name": "quinoa"
-          },
-          {
-            "id": 51930,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 51932,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 51931,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 562.1,
-          "alcohol": 0,
-          "ash": 6.59,
-          "caffeine": 0,
-          "water": 285.75,
-          "carbs": 41.58,
-          "fiber": 5.85,
-          "starch": 23.11,
-          "sugars": 9.04,
-          "fructose": 0.45,
-          "galactose": 0.04,
-          "glucose": 1.8,
-          "lactose": 0,
-          "maltose": 0.02,
-          "sucrose": 7.28,
-          "sugar_alcohol": 0,
-          "fat": 21.69,
-          "monounsaturated": 10.79,
-          "polyunsaturated": 5.17,
-          "omega_3": 0.33,
-          "omega_6": 4.84,
-          "saturated": 3.29,
-          "transfats": 0.05,
-          "cholesterol": 124.17,
-          "protein": 51.14,
-          "alanine": 2.82,
-          "arginine": 3.61,
-          "aspartic_acid": 4.7,
-          "cystine": 0.59,
-          "glutamic_acid": 7.6,
-          "glycine": 2.32,
-          "histidine": 1.78,
-          "isoleucine": 2.43,
-          "leucine": 4.04,
-          "lysine": 4.47,
-          "methionine": 1.26,
-          "phenylalanine": 2.12,
-          "proline": 1.83,
-          "serine": 2.02,
-          "threonine": 2.16,
-          "tryptophan": 0.64,
-          "tyrosine": 1.7,
-          "valine": 2.62,
-          "b1_thiamine": 0.45,
-          "b2_riboflavin": 0.58,
-          "b3_niacin": 19.24,
-          "b5_pantothenic_acid": 3.17,
-          "b6_pyridoxine": 1.86,
-          "b12_cobalamin": 0.48,
-          "choline": 195.75,
-          "folate": 170.34,
-          "vitamin_a": 93.98,
-          "vitamin_c": 10.92,
-          "vitamin_d": 1.7,
-          "vitamin_e": 4.14,
-          "vitamin_k": 178.88,
-          "calcium": 91.05,
-          "copper": 0.64,
-          "iron": 4.57,
-          "magnesium": 178.91,
-          "manganese": 1.57,
-          "phosphorus": 686.97,
-          "potassium": 1122.01,
-          "selenium": 44.56,
-          "sodium": 146.56,
-          "zinc": 3.18
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pan-seared-chicken-cranberry-pistachio-quinoa-salad/4335",
-      "altVariants": [
-        {
-          "id": 6354,
-          "recipe_id": 644,
-          "group_label": "Classic",
-          "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "published_recipe_uuid": "95757b67-77bd-4f80-a94a-6e5d84445b2a",
-          "fallback_published_recipe_uuids": [
-            "6f43fe9d-8906-4220-9117-59b57de378e5",
-            "f122c2a4-975a-47ed-ab5b-0942ac0ecd1b"
-          ],
-          "first_published_at": 1550530689000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            44,
-            201,
-            30,
-            24,
-            256,
-            249,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            2.25,
-            24,
-            0.375,
-            3,
-            0.75,
-            1.5,
-            5.5450349999999995,
-            44.36025,
-            11.090069999999999
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4323,
-          "recipe_id": 644,
-          "group_label": "Classic",
-          "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "published_recipe_uuid": "01822e7a-9377-44e5-8169-41b1f76ac329",
-          "fallback_published_recipe_uuids": [
-            "d071bf2a-37e4-4fa0-93f8-2962ee4119f7",
-            "1a956788-908c-45e1-b0f0-d2e058aa7622"
-          ],
-          "first_published_at": 1532732657000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            44,
-            201,
-            30,
-            24,
-            256,
-            249,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.75,
-            8,
-            0.125,
-            1,
-            0.25,
-            0.5,
-            1.848345,
-            14.7868,
-            3.69669
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4335,
-          "recipe_id": 644,
-          "group_label": "Classic",
-          "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "published_recipe_uuid": "8c53931c-f6c8-4e83-89c2-23d5c0835fe2",
-          "fallback_published_recipe_uuids": [
-            "de75853b-d8de-4c40-af6a-28e4d5742527",
-            "6594c14d-1399-4b82-a0ea-d444cc343917"
-          ],
-          "first_published_at": 1532735767000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            44,
-            201,
-            30,
-            24,
-            256,
-            249,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            1.5,
-            16,
-            0.25,
-            2,
-            0.5,
-            1,
-            3.69669,
-            29.5735,
-            7.39338
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6355,
-          "recipe_id": 644,
-          "group_label": "Classic",
-          "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "published_recipe_uuid": "6489f5b7-f07f-4823-ac2b-c55acfa75ea2",
-          "fallback_published_recipe_uuids": [
-            "a9adec19-8292-4d62-9a46-683cefcbfbae",
-            "eeddb128-a20d-4bf1-9a02-0042b606f524"
-          ],
-          "first_published_at": 1550530739000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            44,
-            201,
-            30,
-            24,
-            256,
-            249,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            1.02,
-            709.5,
-            0.375,
-            3,
-            0.75,
-            1.5,
-            5.5450349999999995,
-            44.36025,
-            11.090069999999999
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4337,
-          "recipe_id": 644,
-          "group_label": "Classic",
-          "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "published_recipe_uuid": "5437ef05-e2fd-4fae-ab5e-4e38031cae0d",
-          "fallback_published_recipe_uuids": [
-            "d3eebf2d-1b36-49a7-a22f-f0ab82491310",
-            "e7659be2-9688-40fc-a5f6-46fd86eb8ac9"
-          ],
-          "first_published_at": 1532735768000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            44,
-            201,
-            30,
-            24,
-            256,
-            249,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.68,
-            473,
-            0.25,
-            2,
-            0.5,
-            1,
-            3.69669,
-            29.5735,
-            7.39338
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 4336,
-          "recipe_id": 644,
-          "group_label": "Classic",
-          "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
-          "published_recipe_uuid": "bee20ba4-d85e-41e1-903f-b5b3b6fcb6db",
-          "fallback_published_recipe_uuids": [
-            "440e875f-6236-4f9b-92e7-7d13c995543c",
-            "9d992d0d-ecbc-4a24-a35b-828f1bfc5a54"
-          ],
-          "first_published_at": 1532735768000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            6
-          ],
-          "ingredient_ids": [
-            33,
-            44,
-            201,
-            30,
-            24,
-            256,
-            249,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            0.34,
-            236,
-            0.125,
-            1,
-            0.25,
-            0.5,
-            1.848345,
-            14.7868,
-            3.69669
-          ],
-          "average_rating": 0.781,
-          "rating_count": 8,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Pan-Fried"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 4335,
+  "recipe_id": 644,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Pan-Seared Chicken with Cranberry & Pistachio Quinoa Salad",
+  "slug": "pan-seared-chicken-cranberry-pistachio-quinoa-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/thumbnail_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/644/presentation_1400fa86-5db2-4e39-8744-221a13e05ca5.jpg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pan-seared-chicken-cranberry-pistachio-quinoa-salad",
-    "variantId": "4335"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 48948,
+      "primary_message": "In a small saucepan, combine the quinoa and broth; bring to a boil over high heat.",
+      "secondary_message": "1 cup quinoa\n16 fl oz (2 cups) chicken or vegetable broth"
+    },
+    {
+      "id": 48949,
+      "primary_message": "Roughly chop the pistachios and transfer to a small bowl.",
+      "secondary_message": "½ cup pistachios, unsalted"
+    },
+    {
+      "id": 48950,
+      "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. Transfer to a small bowl.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 48951,
+      "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the quinoa for 15 minutes. Once done, remove the quinoa from the heat and let it stand, still covered, for 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 48952,
+      "primary_message": "Preheat a skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 48953,
+      "primary_message": "Pat the chicken dry with paper towels and place on a cutting board. Holding a knife parallel to the cutting board, cut the chicken in half horizontally to form thin cutlets. Season the cutlets with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 48954,
+      "primary_message": "Add the pistachios to the skillet; cook, stirring frequently, until the nuts are toasted and fragrant, 3 to 5 minutes. Return to the small bowl and wipe out the pan.",
+      "secondary_message": ""
+    },
+    {
+      "id": 48955,
+      "primary_message": "Once the pistachios have been transferred, add olive oil and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 48956,
+      "primary_message": "Place the chicken cutlets in the skillet; cook until they are golden brown on the outside and cooked through in the center, 2 to 4 minutes per side. Once done, transfer to a plate and cover with foil to keep warm. Cook in batches if necessary.",
+      "secondary_message": null
+    },
+    {
+      "id": 48957,
+      "primary_message": "Uncover the quinoa and fluff with a fork.",
+      "secondary_message": null
+    },
+    {
+      "id": 48958,
+      "primary_message": "Once the chicken has been transferred, add olive oil to the skillet followed by the garlic, spinach, cooked quinoa, pistachios, and cranberries. Season with salt and pepper and cook for 1 to 2 minutes. Remove from the heat.",
+      "secondary_message": "1 tbsp extra virgin olive oil\n1 (5 oz) pkg baby spinach\n¼ cup dried cranberries\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 48959,
+      "primary_message": "To serve, divide the quinoa salad and chicken between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 51934,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 51939,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "chicken breasts, boneless skinless"
+    },
+    {
+      "id": 51937,
+      "quantity": "16 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 51935,
+      "quantity": "¼ cup",
+      "ingredient_name": "dried cranberries"
+    },
+    {
+      "id": 51933,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 51936,
+      "quantity": "½ cup",
+      "ingredient_name": "pistachios, unsalted"
+    },
+    {
+      "id": 51938,
+      "quantity": "1 cup",
+      "ingredient_name": "quinoa"
+    },
+    {
+      "id": 51930,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 51932,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 51931,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 562.1,
+    "alcohol": 0,
+    "ash": 6.59,
+    "caffeine": 0,
+    "water": 285.75,
+    "carbs": 41.58,
+    "fiber": 5.85,
+    "starch": 23.11,
+    "sugars": 9.04,
+    "fructose": 0.45,
+    "galactose": 0.04,
+    "glucose": 1.8,
+    "lactose": 0,
+    "maltose": 0.02,
+    "sucrose": 7.28,
+    "sugar_alcohol": 0,
+    "fat": 21.69,
+    "monounsaturated": 10.79,
+    "polyunsaturated": 5.17,
+    "omega_3": 0.33,
+    "omega_6": 4.84,
+    "saturated": 3.29,
+    "transfats": 0.05,
+    "cholesterol": 124.17,
+    "protein": 51.14,
+    "alanine": 2.82,
+    "arginine": 3.61,
+    "aspartic_acid": 4.7,
+    "cystine": 0.59,
+    "glutamic_acid": 7.6,
+    "glycine": 2.32,
+    "histidine": 1.78,
+    "isoleucine": 2.43,
+    "leucine": 4.04,
+    "lysine": 4.47,
+    "methionine": 1.26,
+    "phenylalanine": 2.12,
+    "proline": 1.83,
+    "serine": 2.02,
+    "threonine": 2.16,
+    "tryptophan": 0.64,
+    "tyrosine": 1.7,
+    "valine": 2.62,
+    "b1_thiamine": 0.45,
+    "b2_riboflavin": 0.58,
+    "b3_niacin": 19.24,
+    "b5_pantothenic_acid": 3.17,
+    "b6_pyridoxine": 1.86,
+    "b12_cobalamin": 0.48,
+    "choline": 195.75,
+    "folate": 170.34,
+    "vitamin_a": 93.98,
+    "vitamin_c": 10.92,
+    "vitamin_d": 1.7,
+    "vitamin_e": 4.14,
+    "vitamin_k": 178.88,
+    "calcium": 91.05,
+    "copper": 0.64,
+    "iron": 4.57,
+    "magnesium": 178.91,
+    "manganese": 1.57,
+    "phosphorus": 686.97,
+    "potassium": 1122.01,
+    "selenium": 44.56,
+    "sodium": 146.56,
+    "zinc": 3.18
+  }
 }

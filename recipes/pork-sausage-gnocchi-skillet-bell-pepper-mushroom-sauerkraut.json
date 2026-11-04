@@ -1,1018 +1,225 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 29318,
-        "recipe_id": 3303,
-        "serving_count": 4,
-        "cooking_minutes": 20,
-        "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
-        "slug": "pork-sausage-gnocchi-skillet-bell-pepper-mushroom-sauerkraut",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 467295,
-            "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 467296,
-            "primary_message": "Meanwhile, peel, halve, and slice onion crosswise into thin half-moons. Place in a medium bowl.",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 467297,
-            "primary_message": "Once the water in the pot is boiling, add gnocchi and salt. Cook, stirring occasionally, until gnocchi begins to float to the surface, about 3 minutes. Drain in a colander and set aside.",
-            "secondary_message": "2 (16 oz) pkgs potato gnocchi\n1 tsp salt"
-          },
-          {
-            "id": 467298,
-            "primary_message": "While the gnocchi are cooking, wash, dry, trim, and seed bell pepper; medium dice. Add bell pepper and mushrooms to the bowl with the onion.",
-            "secondary_message": "1 red bell pepper\n2 (8 oz) pkgs sliced white mushrooms"
-          },
-          {
-            "id": 467299,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 467300,
-            "primary_message": "While the skillet heats up, slice sausages crosswise into 1-inch thick rounds.",
-            "secondary_message": "4 pork sausages"
-          },
-          {
-            "id": 467301,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add veggies, sausage, salt, and pepper; cook, stirring occasionally, until veggies soften and sausage is cooked through, 4-5 minutes.",
-            "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 467302,
-            "primary_message": "Meanwhile, drain sauerkraut in a colander to remove excess liquid.",
-            "secondary_message": "1 ⅓ cups sauerkraut"
-          },
-          {
-            "id": 467303,
-            "primary_message": "When the veggies and sausage are done, add cooked gnocchi and sauerkraut to the skillet; stir to combine. Continue to cook, stirring occasionally, until gnocchi are warmed through, 1-2 minutes more. Remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 467304,
-            "primary_message": "To serve, divide gnocchi, sausage, and veggies between plates or bowls. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 501246,
-            "quantity": "4",
-            "ingredient_name": "pork sausages"
-          },
-          {
-            "id": 501245,
-            "quantity": "2 (16 oz) pkgs",
-            "ingredient_name": "potato gnocchi"
-          },
-          {
-            "id": 501243,
-            "quantity": "1",
-            "ingredient_name": "red bell pepper"
-          },
-          {
-            "id": 501248,
-            "quantity": "1 ⅓ cups",
-            "ingredient_name": "sauerkraut"
-          },
-          {
-            "id": 501247,
-            "quantity": "2 (8 oz) pkgs",
-            "ingredient_name": "sliced white mushrooms"
-          },
-          {
-            "id": 501244,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 501241,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 501240,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 501242,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 705.17,
-          "alcohol": 0,
-          "ash": 9.75,
-          "caffeine": 0,
-          "water": 411.95,
-          "carbs": 48.88,
-          "fiber": 6.13,
-          "starch": 33.16,
-          "sugars": 7.69,
-          "fructose": 1.49,
-          "galactose": 0,
-          "glucose": 3.16,
-          "lactose": 1.41,
-          "maltose": 0.02,
-          "sucrose": 0.48,
-          "sugar_alcohol": 0,
-          "fat": 45.09,
-          "monounsaturated": 18.22,
-          "polyunsaturated": 4.8,
-          "omega_3": 0.13,
-          "omega_6": 4.37,
-          "saturated": 17.84,
-          "transfats": 0.67,
-          "cholesterol": 113.74,
-          "protein": 27.59,
-          "alanine": 1.43,
-          "arginine": 1.4,
-          "aspartic_acid": 2.39,
-          "cystine": 0.3,
-          "glutamic_acid": 4.52,
-          "glycine": 1.36,
-          "histidine": 0.73,
-          "isoleucine": 0.96,
-          "leucine": 1.74,
-          "lysine": 1.73,
-          "methionine": 0.58,
-          "phenylalanine": 0.99,
-          "proline": 1.43,
-          "serine": 1.1,
-          "threonine": 1.03,
-          "tryptophan": 0.26,
-          "tyrosine": 0.78,
-          "valine": 1.28,
-          "b1_thiamine": 0.71,
-          "b2_riboflavin": 0.86,
-          "b3_niacin": 10.41,
-          "b5_pantothenic_acid": 3.16,
-          "b6_pyridoxine": 0.83,
-          "b12_cobalamin": 1.3,
-          "choline": 109.65,
-          "folate": 97.94,
-          "vitamin_a": 575.05,
-          "vitamin_c": 55.75,
-          "vitamin_d": 48.31,
-          "vitamin_e": 2.21,
-          "vitamin_k": 14.07,
-          "calcium": 89.98,
-          "copper": 0.69,
-          "iron": 4.35,
-          "magnesium": 64.51,
-          "manganese": 0.53,
-          "phosphorus": 363.17,
-          "potassium": 1140.74,
-          "selenium": 21.87,
-          "sodium": 1682.1,
-          "zinc": 3.27
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/pork-sausage-gnocchi-skillet-bell-pepper-mushroom-sauerkraut/29318",
-      "altVariants": [
-        {
-          "id": 29322,
-          "recipe_id": 3303,
-          "group_label": "Vegan",
-          "name": "Veggie Sausage-Gnocchi Sauté with Peppers, Mushrooms & Sauerkraut",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29322/thumbnail_69675abb-8f15-4e54-84fe-4f57c75601ee.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29322/presentation_69675abb-8f15-4e54-84fe-4f57c75601ee.jpeg",
-          "published_recipe_uuid": "2c352d17-a68a-4812-ad76-07461e6ce26a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890850000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            284,
-            345,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1.5,
-            2,
-            3,
-            1.5,
-            2.5,
-            30,
-            11.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29321,
-          "recipe_id": 3303,
-          "group_label": "Vegan",
-          "name": "Veggie Sausage-Gnocchi Skillet with Peppers, Mushrooms & Sauerkraut",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29321/thumbnail_6e1765a1-d349-4138-b696-fdab20b4a8f5.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29321/presentation_6e1765a1-d349-4138-b696-fdab20b4a8f5.jpeg",
-          "published_recipe_uuid": "a99ba006-cd17-41b5-b8c4-12360d6007c1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890849000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            284,
-            345,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1.3333333333333333,
-            2,
-            1,
-            1.25,
-            20,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29320,
-          "recipe_id": 3303,
-          "group_label": "Vegan",
-          "name": "Veggie Sausage-Gnocchi Skillet with Peppers, Mushrooms & Sauerkraut",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29320/thumbnail_240d1e2d-1bea-4b0f-8384-1a258f228213.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29320/presentation_240d1e2d-1bea-4b0f-8384-1a258f228213.jpeg",
-          "published_recipe_uuid": "8bea7458-2385-417c-b74f-a0909132833b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890850000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            284,
-            345,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.6666666666666666,
-            1,
-            0.5,
-            0.625,
-            10,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29319,
-          "recipe_id": 3303,
-          "group_label": "Default",
-          "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "published_recipe_uuid": "a01583b2-d0ca-4974-9d19-81b990480060",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890851000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            313,
-            284,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            1.5,
-            2,
-            3,
-            1.5,
-            2.5,
-            30,
-            11.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29318,
-          "recipe_id": 3303,
-          "group_label": "Default",
-          "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "published_recipe_uuid": "f01c777b-cc0a-44cb-a352-7087fa662c41",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890850000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            313,
-            284,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            1,
-            1.3333333333333333,
-            2,
-            1,
-            1.25,
-            20,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29317,
-          "recipe_id": 3303,
-          "group_label": "Default",
-          "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "published_recipe_uuid": "9d0d0ac6-83b2-4b6a-b4c5-0a4a56fb4918",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890851000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            313,
-            284,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.5,
-            0.6666666666666666,
-            1,
-            0.5,
-            0.625,
-            10,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29328,
-          "recipe_id": 3303,
-          "group_label": "Vegan",
-          "name": "Veggie Sausage-Gnocchi Sauté with Peppers, Mushrooms & Sauerkraut",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29328/thumbnail_27f86fcf-9af2-4c48-adaf-bf529dd56d1e.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29328/presentation_27f86fcf-9af2-4c48-adaf-bf529dd56d1e.jpeg",
-          "published_recipe_uuid": "4654c1e3-2f16-4c23-98f8-4cbf5214acac",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890847000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            284,
-            345,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            6,
-            1.5,
-            2,
-            3,
-            1.5,
-            2.5,
-            30,
-            11.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29327,
-          "recipe_id": 3303,
-          "group_label": "Vegan",
-          "name": "Veggie Sausage-Gnocchi Skillet with Peppers, Mushrooms & Sauerkraut",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29327/thumbnail_f20b57e9-7a73-42c7-a215-1d5341531952.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29327/presentation_f20b57e9-7a73-42c7-a215-1d5341531952.jpeg",
-          "published_recipe_uuid": "39677c88-7192-4728-95b3-4f56ec10db7d",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890847000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            284,
-            345,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            4,
-            1,
-            1.3333333333333333,
-            2,
-            1,
-            1.25,
-            20,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29326,
-          "recipe_id": 3303,
-          "group_label": "Vegan",
-          "name": "Veggie Sausage-Gnocchi Skillet with Peppers, Mushrooms & Sauerkraut",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29326/thumbnail_54ac8e92-74f6-4a4e-9349-caa3525ccb39.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/29326/presentation_54ac8e92-74f6-4a4e-9349-caa3525ccb39.jpeg",
-          "published_recipe_uuid": "4b5386aa-e71c-4018-902c-55c863c2d452",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890848000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            284,
-            345,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.5,
-            0.6666666666666666,
-            1,
-            0.5,
-            0.625,
-            10,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29325,
-          "recipe_id": 3303,
-          "group_label": "Default",
-          "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "published_recipe_uuid": "94c7bc84-6e0f-4b82-94fc-0b9c07c271e6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890849000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            313,
-            284,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            1.5,
-            2,
-            3,
-            1.5,
-            2.5,
-            30,
-            11.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29324,
-          "recipe_id": 3303,
-          "group_label": "Default",
-          "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "published_recipe_uuid": "741a5f2c-d6b6-4c77-8e5c-5efe47407d4a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890848000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            313,
-            284,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            1,
-            1.3333333333333333,
-            2,
-            1,
-            1.25,
-            20,
-            7.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 29323,
-          "recipe_id": 3303,
-          "group_label": "Default",
-          "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
-          "published_recipe_uuid": "40723d2d-6341-4d0e-bb58-8c2815ecf7e0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1713890849000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14,
-            1
-          ],
-          "ingredient_ids": [
-            313,
-            284,
-            150,
-            479,
-            450,
-            152,
-            72,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            0.5,
-            0.6666666666666666,
-            1,
-            0.5,
-            0.625,
-            10,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 24,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": null,
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 29318,
+  "recipe_id": 3303,
+  "serving_count": 4,
+  "cooking_minutes": 20,
+  "name": "Pork Sausage-Gnocchi Skillet with Bell Pepper, Mushroom & Sauerkraut",
+  "slug": "pork-sausage-gnocchi-skillet-bell-pepper-mushroom-sauerkraut",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/thumbnail_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3303/presentation_d875c6f2-0eb6-4d96-985b-f07a360b4875.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "pork-sausage-gnocchi-skillet-bell-pepper-mushroom-sauerkraut",
-    "variantId": "29318"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 467295,
+      "primary_message": "Fill a large pot about halfway with hot water (from the tap); cover with a lid and bring to a boil over high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 467296,
+      "primary_message": "Meanwhile, peel, halve, and slice onion crosswise into thin half-moons. Place in a medium bowl.",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 467297,
+      "primary_message": "Once the water in the pot is boiling, add gnocchi and salt. Cook, stirring occasionally, until gnocchi begins to float to the surface, about 3 minutes. Drain in a colander and set aside.",
+      "secondary_message": "2 (16 oz) pkgs potato gnocchi\n1 tsp salt"
+    },
+    {
+      "id": 467298,
+      "primary_message": "While the gnocchi are cooking, wash, dry, trim, and seed bell pepper; medium dice. Add bell pepper and mushrooms to the bowl with the onion.",
+      "secondary_message": "1 red bell pepper\n2 (8 oz) pkgs sliced white mushrooms"
+    },
+    {
+      "id": 467299,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 467300,
+      "primary_message": "While the skillet heats up, slice sausages crosswise into 1-inch thick rounds.",
+      "secondary_message": "4 pork sausages"
+    },
+    {
+      "id": 467301,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add veggies, sausage, salt, and pepper; cook, stirring occasionally, until veggies soften and sausage is cooked through, 4-5 minutes.",
+      "secondary_message": "4 tsp extra virgin olive oil\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 467302,
+      "primary_message": "Meanwhile, drain sauerkraut in a colander to remove excess liquid.",
+      "secondary_message": "1 ⅓ cups sauerkraut"
+    },
+    {
+      "id": 467303,
+      "primary_message": "When the veggies and sausage are done, add cooked gnocchi and sauerkraut to the skillet; stir to combine. Continue to cook, stirring occasionally, until gnocchi are warmed through, 1-2 minutes more. Remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 467304,
+      "primary_message": "To serve, divide gnocchi, sausage, and veggies between plates or bowls. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 501246,
+      "quantity": "4",
+      "ingredient_name": "pork sausages"
+    },
+    {
+      "id": 501245,
+      "quantity": "2 (16 oz) pkgs",
+      "ingredient_name": "potato gnocchi"
+    },
+    {
+      "id": 501243,
+      "quantity": "1",
+      "ingredient_name": "red bell pepper"
+    },
+    {
+      "id": 501248,
+      "quantity": "1 ⅓ cups",
+      "ingredient_name": "sauerkraut"
+    },
+    {
+      "id": 501247,
+      "quantity": "2 (8 oz) pkgs",
+      "ingredient_name": "sliced white mushrooms"
+    },
+    {
+      "id": 501244,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 501241,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 501240,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 501242,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 705.17,
+    "alcohol": 0,
+    "ash": 9.75,
+    "caffeine": 0,
+    "water": 411.95,
+    "carbs": 48.88,
+    "fiber": 6.13,
+    "starch": 33.16,
+    "sugars": 7.69,
+    "fructose": 1.49,
+    "galactose": 0,
+    "glucose": 3.16,
+    "lactose": 1.41,
+    "maltose": 0.02,
+    "sucrose": 0.48,
+    "sugar_alcohol": 0,
+    "fat": 45.09,
+    "monounsaturated": 18.22,
+    "polyunsaturated": 4.8,
+    "omega_3": 0.13,
+    "omega_6": 4.37,
+    "saturated": 17.84,
+    "transfats": 0.67,
+    "cholesterol": 113.74,
+    "protein": 27.59,
+    "alanine": 1.43,
+    "arginine": 1.4,
+    "aspartic_acid": 2.39,
+    "cystine": 0.3,
+    "glutamic_acid": 4.52,
+    "glycine": 1.36,
+    "histidine": 0.73,
+    "isoleucine": 0.96,
+    "leucine": 1.74,
+    "lysine": 1.73,
+    "methionine": 0.58,
+    "phenylalanine": 0.99,
+    "proline": 1.43,
+    "serine": 1.1,
+    "threonine": 1.03,
+    "tryptophan": 0.26,
+    "tyrosine": 0.78,
+    "valine": 1.28,
+    "b1_thiamine": 0.71,
+    "b2_riboflavin": 0.86,
+    "b3_niacin": 10.41,
+    "b5_pantothenic_acid": 3.16,
+    "b6_pyridoxine": 0.83,
+    "b12_cobalamin": 1.3,
+    "choline": 109.65,
+    "folate": 97.94,
+    "vitamin_a": 575.05,
+    "vitamin_c": 55.75,
+    "vitamin_d": 48.31,
+    "vitamin_e": 2.21,
+    "vitamin_k": 14.07,
+    "calcium": 89.98,
+    "copper": 0.69,
+    "iron": 4.35,
+    "magnesium": 64.51,
+    "manganese": 0.53,
+    "phosphorus": 363.17,
+    "potassium": 1140.74,
+    "selenium": 21.87,
+    "sodium": 1682.1,
+    "zinc": 3.27
+  }
 }

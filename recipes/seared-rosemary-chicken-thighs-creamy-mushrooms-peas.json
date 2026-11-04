@@ -1,686 +1,265 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 13226,
-        "recipe_id": 1532,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
-        "slug": "seared-rosemary-chicken-thighs-creamy-mushrooms-peas",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 221469,
-            "primary_message": "Wash, dry, and thinly slice mushrooms; transfer to a medium bowl and set aside.",
-            "secondary_message": "1 lb cremini mushrooms"
-          },
-          {
-            "id": 221470,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 221471,
-            "primary_message": "While the skillet heats up, pat chicken dry with paper towels and place on a plate; season with salt and pepper on both sides.",
-            "secondary_message": "2 lb chicken thighs, boneless skinless\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 221472,
-            "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Working in batches if necessary, add chicken in a single layer and cook until golden brown, about 2 minutes per side. Transfer to a clean plate, and loosely cover with aluminum foil (the chicken will not be cooked all the way through). ",
-            "secondary_message": "4 tsp butter, unsalted"
-          },
-          {
-            "id": 221473,
-            "primary_message": "While the chicken browns, peel and small dice onion. Peel and mince garlic.",
-            "secondary_message": "1 medium yellow onion\n2 cloves garlic"
-          },
-          {
-            "id": 221474,
-            "primary_message": "Return the skillet to medium heat, add more butter, and swirl to coat the bottom. Add onion and garlic to the skillet; cook, stirring occasionally, until onion begins to soften, 2-3 minutes. ",
-            "secondary_message": "2 tsp butter, unsalted"
-          },
-          {
-            "id": 221475,
-            "primary_message": "Add mushrooms to the skillet and cook until golden brown and tender, 4-5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 221476,
-            "primary_message": "While the mushrooms cook, place peas in a colander and run under hot water (from the tap) to thaw.",
-            "secondary_message": "1 cup frozen peas"
-          },
-          {
-            "id": 221477,
-            "primary_message": "Add peas, cream, and spices to the skillet; stir to combine.",
-            "secondary_message": "8 fl oz (1 cup) heavy cream\n1 tsp rosemary\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 221478,
-            "primary_message": "Return chicken to the skillet (overlapping the chicken thighs slightly, if necessary), along with any accumulated juices. Cover and simmer until chicken is cooked through, 8-10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 221479,
-            "primary_message": "Meanwhile, finely grate Parmesan.",
-            "secondary_message": "2 oz Parmesan cheese"
-          },
-          {
-            "id": 221480,
-            "primary_message": "When the chicken is done, add Parmesan to the skillet and stir to combine.",
-            "secondary_message": null
-          },
-          {
-            "id": 221481,
-            "primary_message": "To serve, divide chicken and veggies between plates, spooning skillet sauce on top. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 232306,
-            "quantity": "2 lb",
-            "ingredient_name": "chicken thighs, boneless skinless"
-          },
-          {
-            "id": 232307,
-            "quantity": "1 lb",
-            "ingredient_name": "cremini mushrooms"
-          },
-          {
-            "id": 232308,
-            "quantity": "1 cup",
-            "ingredient_name": "frozen peas"
-          },
-          {
-            "id": 232299,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 232309,
-            "quantity": "8 fl oz",
-            "ingredient_name": "heavy whipping cream"
-          },
-          {
-            "id": 232304,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 232305,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 232300,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 232303,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 232301,
-            "quantity": "",
-            "ingredient_name": "rosemary, dried"
-          },
-          {
-            "id": 232302,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 653.22,
-          "alcohol": 0,
-          "ash": 6.36,
-          "caffeine": 0,
-          "water": 369.37,
-          "carbs": 15.18,
-          "fiber": 2.95,
-          "starch": 2.8,
-          "sugars": 6.59,
-          "fructose": 0.64,
-          "galactose": 0,
-          "glucose": 2.25,
-          "lactose": 1.82,
-          "maltose": 0.03,
-          "sucrose": 1.82,
-          "sugar_alcohol": 0,
-          "fat": 41.2,
-          "monounsaturated": 12.36,
-          "polyunsaturated": 3.38,
-          "omega_3": 0.51,
-          "omega_6": 2.86,
-          "saturated": 22.29,
-          "transfats": 1.15,
-          "cholesterol": 319.81,
-          "protein": 55.99,
-          "alanine": 3.16,
-          "arginine": 3.66,
-          "aspartic_acid": 5.26,
-          "cystine": 0.59,
-          "glutamic_acid": 9.55,
-          "glycine": 2.36,
-          "histidine": 1.68,
-          "isoleucine": 2.66,
-          "leucine": 4.71,
-          "lysine": 5.18,
-          "methionine": 1.53,
-          "phenylalanine": 2.3,
-          "proline": 2.78,
-          "serine": 2.43,
-          "threonine": 2.56,
-          "tryptophan": 0.67,
-          "tyrosine": 2.13,
-          "valine": 2.82,
-          "b1_thiamine": 0.43,
-          "b2_riboflavin": 1.16,
-          "b3_niacin": 17.61,
-          "b5_pantothenic_acid": 2.17,
-          "b6_pyridoxine": 1.26,
-          "b12_cobalamin": 1.79,
-          "choline": 171.46,
-          "folate": 64.99,
-          "vitamin_a": 1044.48,
-          "vitamin_c": 9.06,
-          "vitamin_d": 28.75,
-          "vitamin_e": 1.31,
-          "vitamin_k": 19.66,
-          "calcium": 96.2,
-          "copper": 0.78,
-          "iron": 3.17,
-          "magnesium": 86.38,
-          "manganese": 0.45,
-          "phosphorus": 731.5,
-          "potassium": 1216.48,
-          "selenium": 86.01,
-          "sodium": 284.18,
-          "zinc": 5.72
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/seared-rosemary-chicken-thighs-creamy-mushrooms-peas/13226",
-      "altVariants": [
-        {
-          "id": 13225,
-          "recipe_id": 1532,
-          "group_label": "Default",
-          "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "published_recipe_uuid": "a0325b28-f5ed-4183-8bda-e5dd7a44a5fe",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1607981725000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            164,
-            230,
-            275,
-            24,
-            316,
-            120,
-            152,
-            72,
-            115,
-            86,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            1,
-            4,
-            1,
-            0.5,
-            2.5,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.879,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's hard to be upset with cold weather when you get to stay inside and eat things like this"
-        },
-        {
-          "id": 13227,
-          "recipe_id": 1532,
-          "group_label": "Default",
-          "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "published_recipe_uuid": "f7f63648-34f4-445c-a81e-9d29c44fa339",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1607981726000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            164,
-            230,
-            275,
-            24,
-            316,
-            120,
-            152,
-            72,
-            115,
-            86,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            3,
-            12,
-            3,
-            1.5,
-            7.5,
-            45,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.879,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's hard to be upset with cold weather when you get to stay inside and eat things like this"
-        },
-        {
-          "id": 13226,
-          "recipe_id": 1532,
-          "group_label": "Default",
-          "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "published_recipe_uuid": "21da5eba-06bb-407a-8002-ea20752408b1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1607981725000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            164,
-            230,
-            275,
-            24,
-            316,
-            120,
-            152,
-            72,
-            115,
-            86,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            2,
-            8,
-            2,
-            1,
-            5,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.879,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's hard to be upset with cold weather when you get to stay inside and eat things like this"
-        },
-        {
-          "id": 13230,
-          "recipe_id": 1532,
-          "group_label": "Default",
-          "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "published_recipe_uuid": "b535d35f-86ec-4e9c-9b60-bd85f8217a50",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1607981729000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            164,
-            230,
-            275,
-            24,
-            316,
-            120,
-            152,
-            72,
-            115,
-            86,
-            88
-          ],
-          "ingredient_amounts": [
-            1.36,
-            0.68,
-            1.5,
-            3,
-            355,
-            85,
-            1.5,
-            7.5,
-            45,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.879,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's hard to be upset with cold weather when you get to stay inside and eat things like this"
-        },
-        {
-          "id": 13229,
-          "recipe_id": 1532,
-          "group_label": "Default",
-          "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "published_recipe_uuid": "6a683486-437a-4ee0-b574-791fb86d51e7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1607981728000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            164,
-            230,
-            275,
-            24,
-            316,
-            120,
-            152,
-            72,
-            115,
-            86,
-            88
-          ],
-          "ingredient_amounts": [
-            0.91,
-            0.45,
-            1,
-            2,
-            237,
-            57,
-            1,
-            5,
-            30,
-            5,
-            5
-          ],
-          "average_rating": 0.879,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's hard to be upset with cold weather when you get to stay inside and eat things like this"
-        },
-        {
-          "id": 13228,
-          "recipe_id": 1532,
-          "group_label": "Default",
-          "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
-          "published_recipe_uuid": "3897459c-e6ee-44f6-be3f-e138255dbc15",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1607981727000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            164,
-            230,
-            275,
-            24,
-            316,
-            120,
-            152,
-            72,
-            115,
-            86,
-            88
-          ],
-          "ingredient_amounts": [
-            0.45,
-            0.23,
-            0.5,
-            1,
-            118,
-            28,
-            0.5,
-            2.5,
-            15,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.879,
-          "rating_count": 31,
-          "variety_tag_ids": [
-            33
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "It's hard to be upset with cold weather when you get to stay inside and eat things like this"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "It's hard to be upset with cold weather when you get to stay inside and eat things like this",
-        "keywords": [
-          "Pan-Fried"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": 4.4
-      }
+  "id": 13226,
+  "recipe_id": 1532,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Seared Rosemary Chicken Thighs with Creamy Mushrooms & Peas",
+  "slug": "seared-rosemary-chicken-thighs-creamy-mushrooms-peas",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/thumbnail_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1532/presentation_4f165ffe-198c-4a09-b9ba-d03ad479db49.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "seared-rosemary-chicken-thighs-creamy-mushrooms-peas",
-    "variantId": "13226"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 221469,
+      "primary_message": "Wash, dry, and thinly slice mushrooms; transfer to a medium bowl and set aside.",
+      "secondary_message": "1 lb cremini mushrooms"
+    },
+    {
+      "id": 221470,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 221471,
+      "primary_message": "While the skillet heats up, pat chicken dry with paper towels and place on a plate; season with salt and pepper on both sides.",
+      "secondary_message": "2 lb chicken thighs, boneless skinless\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 221472,
+      "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Working in batches if necessary, add chicken in a single layer and cook until golden brown, about 2 minutes per side. Transfer to a clean plate, and loosely cover with aluminum foil (the chicken will not be cooked all the way through). ",
+      "secondary_message": "4 tsp butter, unsalted"
+    },
+    {
+      "id": 221473,
+      "primary_message": "While the chicken browns, peel and small dice onion. Peel and mince garlic.",
+      "secondary_message": "1 medium yellow onion\n2 cloves garlic"
+    },
+    {
+      "id": 221474,
+      "primary_message": "Return the skillet to medium heat, add more butter, and swirl to coat the bottom. Add onion and garlic to the skillet; cook, stirring occasionally, until onion begins to soften, 2-3 minutes. ",
+      "secondary_message": "2 tsp butter, unsalted"
+    },
+    {
+      "id": 221475,
+      "primary_message": "Add mushrooms to the skillet and cook until golden brown and tender, 4-5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 221476,
+      "primary_message": "While the mushrooms cook, place peas in a colander and run under hot water (from the tap) to thaw.",
+      "secondary_message": "1 cup frozen peas"
+    },
+    {
+      "id": 221477,
+      "primary_message": "Add peas, cream, and spices to the skillet; stir to combine.",
+      "secondary_message": "8 fl oz (1 cup) heavy cream\n1 tsp rosemary\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 221478,
+      "primary_message": "Return chicken to the skillet (overlapping the chicken thighs slightly, if necessary), along with any accumulated juices. Cover and simmer until chicken is cooked through, 8-10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 221479,
+      "primary_message": "Meanwhile, finely grate Parmesan.",
+      "secondary_message": "2 oz Parmesan cheese"
+    },
+    {
+      "id": 221480,
+      "primary_message": "When the chicken is done, add Parmesan to the skillet and stir to combine.",
+      "secondary_message": null
+    },
+    {
+      "id": 221481,
+      "primary_message": "To serve, divide chicken and veggies between plates, spooning skillet sauce on top. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 232306,
+      "quantity": "2 lb",
+      "ingredient_name": "chicken thighs, boneless skinless"
+    },
+    {
+      "id": 232307,
+      "quantity": "1 lb",
+      "ingredient_name": "cremini mushrooms"
+    },
+    {
+      "id": 232308,
+      "quantity": "1 cup",
+      "ingredient_name": "frozen peas"
+    },
+    {
+      "id": 232299,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 232309,
+      "quantity": "8 fl oz",
+      "ingredient_name": "heavy whipping cream"
+    },
+    {
+      "id": 232304,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 232305,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 232300,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 232303,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 232301,
+      "quantity": "",
+      "ingredient_name": "rosemary, dried"
+    },
+    {
+      "id": 232302,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 653.22,
+    "alcohol": 0,
+    "ash": 6.36,
+    "caffeine": 0,
+    "water": 369.37,
+    "carbs": 15.18,
+    "fiber": 2.95,
+    "starch": 2.8,
+    "sugars": 6.59,
+    "fructose": 0.64,
+    "galactose": 0,
+    "glucose": 2.25,
+    "lactose": 1.82,
+    "maltose": 0.03,
+    "sucrose": 1.82,
+    "sugar_alcohol": 0,
+    "fat": 41.2,
+    "monounsaturated": 12.36,
+    "polyunsaturated": 3.38,
+    "omega_3": 0.51,
+    "omega_6": 2.86,
+    "saturated": 22.29,
+    "transfats": 1.15,
+    "cholesterol": 319.81,
+    "protein": 55.99,
+    "alanine": 3.16,
+    "arginine": 3.66,
+    "aspartic_acid": 5.26,
+    "cystine": 0.59,
+    "glutamic_acid": 9.55,
+    "glycine": 2.36,
+    "histidine": 1.68,
+    "isoleucine": 2.66,
+    "leucine": 4.71,
+    "lysine": 5.18,
+    "methionine": 1.53,
+    "phenylalanine": 2.3,
+    "proline": 2.78,
+    "serine": 2.43,
+    "threonine": 2.56,
+    "tryptophan": 0.67,
+    "tyrosine": 2.13,
+    "valine": 2.82,
+    "b1_thiamine": 0.43,
+    "b2_riboflavin": 1.16,
+    "b3_niacin": 17.61,
+    "b5_pantothenic_acid": 2.17,
+    "b6_pyridoxine": 1.26,
+    "b12_cobalamin": 1.79,
+    "choline": 171.46,
+    "folate": 64.99,
+    "vitamin_a": 1044.48,
+    "vitamin_c": 9.06,
+    "vitamin_d": 28.75,
+    "vitamin_e": 1.31,
+    "vitamin_k": 19.66,
+    "calcium": 96.2,
+    "copper": 0.78,
+    "iron": 3.17,
+    "magnesium": 86.38,
+    "manganese": 0.45,
+    "phosphorus": 731.5,
+    "potassium": 1216.48,
+    "selenium": 86.01,
+    "sodium": 284.18,
+    "zinc": 5.72
+  }
 }

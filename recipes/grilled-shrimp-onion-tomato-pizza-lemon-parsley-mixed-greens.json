@@ -1,817 +1,300 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 19338,
-        "recipe_id": 2227,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
-        "slug": "grilled-shrimp-onion-tomato-pizza-lemon-parsley-mixed-greens",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 45,
-            "name": "grill pan, outdoor grill, or skillet",
-            "slug": "grill-pan-outdoor-grill-or-skillet"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 317914,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 317915,
-            "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
-            "secondary_message": "1 small bunch Italian (flat-leaf) parsley\n1 lemon\n1 pint grape tomatoes\n1 (5 oz) pkg spring mix (mixed greens)"
-          },
-          {
-            "id": 317916,
-            "primary_message": "If using frozen shrimp, place them in the colander and run under cold water to thaw them slightly and remove any ice crystals. (If using fresh shrimp, skip this step.) Place the shrimp on a clean towel or paper towels and pat dry.",
-            "secondary_message": "1 ½ lb raw peeled shrimp, fresh or frozen"
-          },
-          {
-            "id": 317917,
-            "primary_message": "Transfer shrimp to a plate; drizzle with oil and season with spices on both sides, then set aside.",
-            "secondary_message": "2 tsp extra virgin olive oil\n1 tsp Italian seasoning\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 317918,
-            "primary_message": "Preheat a grill pan or regular skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 317919,
-            "primary_message": "While the pan heats up, peel, halve, and cut onions lengthwise into 1-inch wide wedges.",
-            "secondary_message": "2 medium red onions"
-          },
-          {
-            "id": 317920,
-            "primary_message": "Once the grill pan is hot, working in batches if necessary, add shrimp and onion; cook, turning occasionally, until the shrimp are cooked through and onion is tender, 4-5 minutes. Remove to a clean plate.",
-            "secondary_message": null
-          },
-          {
-            "id": 317921,
-            "primary_message": "Meanwhile, peel and mince garlic; place in a medium bowl.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 317922,
-            "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Add to the bowl with the garlic.",
-            "secondary_message": null
-          },
-          {
-            "id": 317923,
-            "primary_message": "Juice lemon into the bowl, then add oil, Dijon, salt, and pepper. Whisk to combine the dressing and set aside.",
-            "secondary_message": "4 tsp extra virgin olive oil\n1 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 317924,
-            "primary_message": "Halve tomatoes.",
-            "secondary_message": null
-          },
-          {
-            "id": 317925,
-            "primary_message": "Divide flatbreads between two baking sheet pans; top with grilled shrimp and onion, tomatoes, and feta. Sprinkle with oregano and crushed red pepper. ",
-            "secondary_message": "4 flatbreads or naan\n1 (4 oz) pkg crumbled feta cheese\n1 tsp oregano, dried\n¼ tsp crushed red pepper"
-          },
-          {
-            "id": 317926,
-            "primary_message": "Place baking sheets in the oven and bake until the cheese starts to melt, about 5 minutes. Remove from oven and cut into wedges.",
-            "secondary_message": null
-          },
-          {
-            "id": 317927,
-            "primary_message": "Meanwhile, add mixed greens to the bowl with the dressing and toss to combine the salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 317928,
-            "primary_message": "To serve, divide pizza and salad between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 338214,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 338226,
-            "quantity": "4",
-            "ingredient_name": "flatbreads or naan"
-          },
-          {
-            "id": 338213,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 338227,
-            "quantity": "1 pint",
-            "ingredient_name": "grape tomatoes"
-          },
-          {
-            "id": 338221,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 338225,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 338212,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "raw peeled shrimp, fresh or frozen"
-          },
-          {
-            "id": 338224,
-            "quantity": "2 medium",
-            "ingredient_name": "red onions"
-          },
-          {
-            "id": 338223,
-            "quantity": "1 (5 oz) pkg",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 338216,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 338219,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 338222,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 338215,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 338217,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 338218,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 338220,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 699.9,
-          "alcohol": 0,
-          "ash": 10.19,
-          "caffeine": 0,
-          "water": 387.68,
-          "carbs": 68.17,
-          "fiber": 5.46,
-          "starch": 49.68,
-          "sugars": 8.58,
-          "fructose": 2.05,
-          "galactose": 0.61,
-          "glucose": 2.25,
-          "lactose": 2.74,
-          "maltose": 0,
-          "sucrose": 0.84,
-          "sugar_alcohol": 0,
-          "fat": 29.68,
-          "monounsaturated": 10.36,
-          "polyunsaturated": 2.55,
-          "omega_3": 0.52,
-          "omega_6": 2.03,
-          "saturated": 14.32,
-          "transfats": 0.85,
-          "cholesterol": 276.69,
-          "protein": 40.32,
-          "alanine": 2.07,
-          "arginine": 2.92,
-          "aspartic_acid": 3.6,
-          "cystine": 0.53,
-          "glutamic_acid": 8.7,
-          "glycine": 1.82,
-          "histidine": 0.9,
-          "isoleucine": 1.79,
-          "leucine": 3.28,
-          "lysine": 3.02,
-          "methionine": 1,
-          "phenylalanine": 1.81,
-          "proline": 2.76,
-          "serine": 1.89,
-          "threonine": 1.5,
-          "tryptophan": 0.46,
-          "tyrosine": 1.45,
-          "valine": 2,
-          "b1_thiamine": 0.9,
-          "b2_riboflavin": 0.82,
-          "b3_niacin": 10.04,
-          "b5_pantothenic_acid": 1.8,
-          "b6_pyridoxine": 0.66,
-          "b12_cobalamin": 2.57,
-          "choline": 175.72,
-          "folate": 250.75,
-          "vitamin_a": 1443.44,
-          "vitamin_c": 42.9,
-          "vitamin_d": 17.52,
-          "vitamin_e": 4.8,
-          "vitamin_k": 83.55,
-          "calcium": 366.75,
-          "copper": 0.58,
-          "iron": 5.76,
-          "magnesium": 101.07,
-          "manganese": 1.06,
-          "phosphorus": 693.52,
-          "potassium": 823.67,
-          "selenium": 84.68,
-          "sodium": 1675.91,
-          "zinc": 4.03
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/grilled-shrimp-onion-tomato-pizza-lemon-parsley-mixed-greens/19338",
-      "altVariants": [
-        {
-          "id": 19339,
-          "recipe_id": 2227,
-          "group_label": "Default",
-          "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "published_recipe_uuid": "1e22b2e5-9f24-4088-8951-0b86c52079c9",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670354587000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            2,
-            10,
-            14,
-            13,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            32,
-            212,
-            24,
-            277,
-            106,
-            192,
-            7,
-            184,
-            145,
-            72,
-            85,
-            117,
-            47,
-            81,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            3,
-            1.5,
-            1,
-            1.5,
-            2.25,
-            3,
-            1.5,
-            6.25,
-            2.5,
-            7.5,
-            45,
-            7.5,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.5,
-          "rating_count": 1,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We can at least pretend we're eating and drinking white wine in the Mediterranean right?"
-        },
-        {
-          "id": 19338,
-          "recipe_id": 2227,
-          "group_label": "Default",
-          "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "published_recipe_uuid": "cebfe38f-0e43-4e49-bb29-4f2372cfb317",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670354588000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            2,
-            10,
-            14,
-            13,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            32,
-            212,
-            24,
-            277,
-            106,
-            192,
-            7,
-            184,
-            145,
-            72,
-            85,
-            117,
-            47,
-            81,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            1,
-            1,
-            1,
-            1.5,
-            2,
-            1,
-            3.75,
-            1.25,
-            5,
-            30,
-            5,
-            5,
-            7.5
-          ],
-          "average_rating": 0.5,
-          "rating_count": 1,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We can at least pretend we're eating and drinking white wine in the Mediterranean right?"
-        },
-        {
-          "id": 19337,
-          "recipe_id": 2227,
-          "group_label": "Default",
-          "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "published_recipe_uuid": "cba6e300-601e-4259-9256-eb9b925959c2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670354588000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            2,
-            10,
-            14,
-            13,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            32,
-            212,
-            24,
-            277,
-            106,
-            192,
-            7,
-            184,
-            145,
-            72,
-            85,
-            117,
-            47,
-            81,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.75,
-            1,
-            0.5,
-            1.875,
-            0.625,
-            2.5,
-            15,
-            2.5,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.5,
-          "rating_count": 1,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We can at least pretend we're eating and drinking white wine in the Mediterranean right?"
-        },
-        {
-          "id": 19342,
-          "recipe_id": 2227,
-          "group_label": "Default",
-          "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "published_recipe_uuid": "14345250-1fe7-4d00-8dab-e78c4174ebe2",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670354586000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            2,
-            10,
-            14,
-            13,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            32,
-            212,
-            24,
-            277,
-            106,
-            192,
-            7,
-            184,
-            145,
-            72,
-            85,
-            117,
-            47,
-            81,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            6,
-            3,
-            1.5,
-            1,
-            1.5,
-            1.02,
-            3,
-            1.5,
-            6.25,
-            2.5,
-            7.5,
-            45,
-            7.5,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.5,
-          "rating_count": 1,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We can at least pretend we're eating and drinking white wine in the Mediterranean right?"
-        },
-        {
-          "id": 19341,
-          "recipe_id": 2227,
-          "group_label": "Default",
-          "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "published_recipe_uuid": "81eba054-fe6d-4601-9875-db5e41d9e9a4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670354586000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            2,
-            10,
-            14,
-            13,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            32,
-            212,
-            24,
-            277,
-            106,
-            192,
-            7,
-            184,
-            145,
-            72,
-            85,
-            117,
-            47,
-            81,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            4,
-            2,
-            1,
-            1,
-            1,
-            0.68,
-            2,
-            1,
-            3.75,
-            1.25,
-            5,
-            30,
-            5,
-            5,
-            7.5
-          ],
-          "average_rating": 0.5,
-          "rating_count": 1,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We can at least pretend we're eating and drinking white wine in the Mediterranean right?"
-        },
-        {
-          "id": 19340,
-          "recipe_id": 2227,
-          "group_label": "Default",
-          "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
-          "published_recipe_uuid": "35a0c894-05fb-473b-af45-a76836a7de91",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1670354587000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            4,
-            2,
-            10,
-            14,
-            13,
-            11,
-            1
-          ],
-          "ingredient_ids": [
-            32,
-            212,
-            24,
-            277,
-            106,
-            192,
-            7,
-            184,
-            145,
-            72,
-            85,
-            117,
-            47,
-            81,
-            82,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            2,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.34,
-            1,
-            0.5,
-            1.875,
-            0.625,
-            2.5,
-            15,
-            2.5,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.5,
-          "rating_count": 1,
-          "variety_tag_ids": [
-            1
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "We can at least pretend we're eating and drinking white wine in the Mediterranean right?"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "We can at least pretend we're eating and drinking white wine in the Mediterranean right?",
-        "keywords": [
-          "Pasta & Pizza"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 19338,
+  "recipe_id": 2227,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Grilled Shrimp, Onion & Tomato Pizza with Lemon-Parsley Mixed Greens",
+  "slug": "grilled-shrimp-onion-tomato-pizza-lemon-parsley-mixed-greens",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/thumbnail_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2227/presentation_a837e641-8acf-47b7-a5e4-1efc55b5f37d.jpeg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "grilled-shrimp-onion-tomato-pizza-lemon-parsley-mixed-greens",
-    "variantId": "19338"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 45,
+      "name": "grill pan, outdoor grill, or skillet",
+      "slug": "grill-pan-outdoor-grill-or-skillet"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 317914,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 317915,
+      "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
+      "secondary_message": "1 small bunch Italian (flat-leaf) parsley\n1 lemon\n1 pint grape tomatoes\n1 (5 oz) pkg spring mix (mixed greens)"
+    },
+    {
+      "id": 317916,
+      "primary_message": "If using frozen shrimp, place them in the colander and run under cold water to thaw them slightly and remove any ice crystals. (If using fresh shrimp, skip this step.) Place the shrimp on a clean towel or paper towels and pat dry.",
+      "secondary_message": "1 ½ lb raw peeled shrimp, fresh or frozen"
+    },
+    {
+      "id": 317917,
+      "primary_message": "Transfer shrimp to a plate; drizzle with oil and season with spices on both sides, then set aside.",
+      "secondary_message": "2 tsp extra virgin olive oil\n1 tsp Italian seasoning\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 317918,
+      "primary_message": "Preheat a grill pan or regular skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 317919,
+      "primary_message": "While the pan heats up, peel, halve, and cut onions lengthwise into 1-inch wide wedges.",
+      "secondary_message": "2 medium red onions"
+    },
+    {
+      "id": 317920,
+      "primary_message": "Once the grill pan is hot, working in batches if necessary, add shrimp and onion; cook, turning occasionally, until the shrimp are cooked through and onion is tender, 4-5 minutes. Remove to a clean plate.",
+      "secondary_message": null
+    },
+    {
+      "id": 317921,
+      "primary_message": "Meanwhile, peel and mince garlic; place in a medium bowl.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 317922,
+      "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Add to the bowl with the garlic.",
+      "secondary_message": null
+    },
+    {
+      "id": 317923,
+      "primary_message": "Juice lemon into the bowl, then add oil, Dijon, salt, and pepper. Whisk to combine the dressing and set aside.",
+      "secondary_message": "4 tsp extra virgin olive oil\n1 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 317924,
+      "primary_message": "Halve tomatoes.",
+      "secondary_message": null
+    },
+    {
+      "id": 317925,
+      "primary_message": "Divide flatbreads between two baking sheet pans; top with grilled shrimp and onion, tomatoes, and feta. Sprinkle with oregano and crushed red pepper. ",
+      "secondary_message": "4 flatbreads or naan\n1 (4 oz) pkg crumbled feta cheese\n1 tsp oregano, dried\n¼ tsp crushed red pepper"
+    },
+    {
+      "id": 317926,
+      "primary_message": "Place baking sheets in the oven and bake until the cheese starts to melt, about 5 minutes. Remove from oven and cut into wedges.",
+      "secondary_message": null
+    },
+    {
+      "id": 317927,
+      "primary_message": "Meanwhile, add mixed greens to the bowl with the dressing and toss to combine the salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 317928,
+      "primary_message": "To serve, divide pizza and salad between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 338214,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 338226,
+      "quantity": "4",
+      "ingredient_name": "flatbreads or naan"
+    },
+    {
+      "id": 338213,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 338227,
+      "quantity": "1 pint",
+      "ingredient_name": "grape tomatoes"
+    },
+    {
+      "id": 338221,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 338225,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 338212,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "raw peeled shrimp, fresh or frozen"
+    },
+    {
+      "id": 338224,
+      "quantity": "2 medium",
+      "ingredient_name": "red onions"
+    },
+    {
+      "id": 338223,
+      "quantity": "1 (5 oz) pkg",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 338216,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 338219,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 338222,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 338215,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 338217,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 338218,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 338220,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 699.9,
+    "alcohol": 0,
+    "ash": 10.19,
+    "caffeine": 0,
+    "water": 387.68,
+    "carbs": 68.17,
+    "fiber": 5.46,
+    "starch": 49.68,
+    "sugars": 8.58,
+    "fructose": 2.05,
+    "galactose": 0.61,
+    "glucose": 2.25,
+    "lactose": 2.74,
+    "maltose": 0,
+    "sucrose": 0.84,
+    "sugar_alcohol": 0,
+    "fat": 29.68,
+    "monounsaturated": 10.36,
+    "polyunsaturated": 2.55,
+    "omega_3": 0.52,
+    "omega_6": 2.03,
+    "saturated": 14.32,
+    "transfats": 0.85,
+    "cholesterol": 276.69,
+    "protein": 40.32,
+    "alanine": 2.07,
+    "arginine": 2.92,
+    "aspartic_acid": 3.6,
+    "cystine": 0.53,
+    "glutamic_acid": 8.7,
+    "glycine": 1.82,
+    "histidine": 0.9,
+    "isoleucine": 1.79,
+    "leucine": 3.28,
+    "lysine": 3.02,
+    "methionine": 1,
+    "phenylalanine": 1.81,
+    "proline": 2.76,
+    "serine": 1.89,
+    "threonine": 1.5,
+    "tryptophan": 0.46,
+    "tyrosine": 1.45,
+    "valine": 2,
+    "b1_thiamine": 0.9,
+    "b2_riboflavin": 0.82,
+    "b3_niacin": 10.04,
+    "b5_pantothenic_acid": 1.8,
+    "b6_pyridoxine": 0.66,
+    "b12_cobalamin": 2.57,
+    "choline": 175.72,
+    "folate": 250.75,
+    "vitamin_a": 1443.44,
+    "vitamin_c": 42.9,
+    "vitamin_d": 17.52,
+    "vitamin_e": 4.8,
+    "vitamin_k": 83.55,
+    "calcium": 366.75,
+    "copper": 0.58,
+    "iron": 5.76,
+    "magnesium": 101.07,
+    "manganese": 1.06,
+    "phosphorus": 693.52,
+    "potassium": 823.67,
+    "selenium": 84.68,
+    "sodium": 1675.91,
+    "zinc": 4.03
+  }
 }

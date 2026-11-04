@@ -1,665 +1,220 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 20618,
-        "recipe_id": 2373,
-        "serving_count": 4,
-        "cooking_minutes": 20,
-        "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
-        "slug": "buffalo-chicken-salad-carrot-celery-blue-cheese-spicy-ranch",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 346196,
-            "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
-            "secondary_message": "1 small bunch Italian (flat-leaf) parsley\n2 sticks celery\n1 avocado\n2 (5 oz) pkgs spring mix (mixed greens)"
-          },
-          {
-            "id": 346197,
-            "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Place in a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 346198,
-            "primary_message": "Add dressing, hot sauce, salt, and pepper to the bowl with the parsley; stir to combine.",
-            "secondary_message": "⅔ cup ranch dressing\n2 tbsp hot sauce\n⅛ tsp salt\n⅛ tsp black pepper"
-          },
-          {
-            "id": 346199,
-            "primary_message": "Trim and thinly slice celery crosswise; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 346200,
-            "primary_message": "Halve and pit avocado; scoop out with a spoon and small dice the flesh. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 346201,
-            "primary_message": "Place chicken on a cutting board and, using your hands, remove meat from the skin and bones. Separate the meat into shred-like pieces and add to the bowl.",
-            "secondary_message": "1 (30 oz) whole chicken rotisserie chicken, white and dark meat"
-          },
-          {
-            "id": 346202,
-            "primary_message": "Add mixed greens and shredded carrots to the bowl; toss to combine the salad.",
-            "secondary_message": "1 (10 oz) bag shredded carrots"
-          },
-          {
-            "id": 346203,
-            "primary_message": "To serve, divide salad between plates or bowls and sprinkle with blue cheese. Enjoy!",
-            "secondary_message": "1 (4 oz) pkg crumbled blue cheese"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 369758,
-            "quantity": "1",
-            "ingredient_name": "avocado"
-          },
-          {
-            "id": 369757,
-            "quantity": "2 sticks",
-            "ingredient_name": "celery"
-          },
-          {
-            "id": 369752,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled blue cheese"
-          },
-          {
-            "id": 369755,
-            "quantity": "1 small bunch",
-            "ingredient_name": "Italian (flat-leaf) parsley"
-          },
-          {
-            "id": 369760,
-            "quantity": "160 ml",
-            "ingredient_name": "ranch dressing"
-          },
-          {
-            "id": 369759,
-            "quantity": "1 (30 oz) whole chicken",
-            "ingredient_name": "rotisserie chicken, white and dark meat"
-          },
-          {
-            "id": 369762,
-            "quantity": "1 (10 oz) bag",
-            "ingredient_name": "shredded carrots"
-          },
-          {
-            "id": 369756,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 369753,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 369761,
-            "quantity": "",
-            "ingredient_name": "hot sauce"
-          },
-          {
-            "id": 369754,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 622.93,
-          "alcohol": 0,
-          "ash": 5.86,
-          "caffeine": 0,
-          "water": 323.42,
-          "carbs": 18.12,
-          "fiber": 7.61,
-          "starch": 1.4,
-          "sugars": 6.87,
-          "fructose": 1.2,
-          "galactose": 0.17,
-          "glucose": 1.28,
-          "lactose": 0.69,
-          "maltose": 0,
-          "sucrose": 3.39,
-          "sugar_alcohol": 0,
-          "fat": 42.47,
-          "monounsaturated": 14.51,
-          "polyunsaturated": 13.01,
-          "omega_3": 1.65,
-          "omega_6": 11.31,
-          "saturated": 11.34,
-          "transfats": 0.27,
-          "cholesterol": 180.74,
-          "protein": 45.6,
-          "alanine": 0.4,
-          "arginine": 0.38,
-          "aspartic_acid": 0.85,
-          "cystine": 0.11,
-          "glutamic_acid": 2.08,
-          "glycine": 0.27,
-          "histidine": 0.3,
-          "isoleucine": 0.49,
-          "leucine": 0.8,
-          "lysine": 0.75,
-          "methionine": 0.22,
-          "phenylalanine": 0.48,
-          "proline": 0.76,
-          "serine": 0.47,
-          "threonine": 0.46,
-          "tryptophan": 0.13,
-          "tyrosine": 0.46,
-          "valine": 0.63,
-          "b1_thiamine": 0.26,
-          "b2_riboflavin": 0.59,
-          "b3_niacin": 12.55,
-          "b5_pantothenic_acid": 1.8,
-          "b6_pyridoxine": 0.71,
-          "b12_cobalamin": 0.89,
-          "choline": 131.76,
-          "folate": 186.24,
-          "vitamin_a": 12243.5,
-          "vitamin_c": 42.62,
-          "vitamin_d": 5.97,
-          "vitamin_e": 3.62,
-          "vitamin_k": 218.42,
-          "calcium": 271.95,
-          "copper": 0.31,
-          "iron": 3.51,
-          "magnesium": 90.57,
-          "manganese": 0.51,
-          "phosphorus": 587.37,
-          "potassium": 1292.08,
-          "selenium": 38.15,
-          "sodium": 1121.32,
-          "zinc": 3.92
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/buffalo-chicken-salad-carrot-celery-blue-cheese-spicy-ranch/20618",
-      "altVariants": [
-        {
-          "id": 20619,
-          "recipe_id": 2373,
-          "group_label": "Default",
-          "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "published_recipe_uuid": "b71e7735-8904-472e-809d-2d74db5c835e",
-          "fallback_published_recipe_uuids": [
-            "5c203fad-fc42-484e-b526-827161efee76",
-            "3ad4c420-17b5-4342-8e38-c820a99064e3"
-          ],
-          "first_published_at": 1657040375000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            157,
-            9,
-            106,
-            406,
-            395,
-            451,
-            145,
-            72,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            1,
-            240,
-            1.5,
-            1.5,
-            3,
-            0.9375,
-            45,
-            0.9375
-          ],
-          "average_rating": 0.85,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Comfort food comes in all shapes and sizes and sometimes even salad's"
-        },
-        {
-          "id": 20618,
-          "recipe_id": 2373,
-          "group_label": "Default",
-          "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "published_recipe_uuid": "204c7774-b8f7-4692-bb16-fa0da3f0ff78",
-          "fallback_published_recipe_uuids": [
-            "fa43f8b6-5657-4be3-a87d-7a200e6daf56",
-            "fb798e93-ad61-4f86-b416-887f6a3e02a3"
-          ],
-          "first_published_at": 1657040375000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            157,
-            9,
-            106,
-            406,
-            395,
-            451,
-            145,
-            72,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            160,
-            1,
-            1,
-            2,
-            0.625,
-            30,
-            0.625
-          ],
-          "average_rating": 0.85,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Comfort food comes in all shapes and sizes and sometimes even salad's"
-        },
-        {
-          "id": 20617,
-          "recipe_id": 2373,
-          "group_label": "Default",
-          "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "published_recipe_uuid": "f162f12a-b8ec-4454-bb20-c83591d1c434",
-          "fallback_published_recipe_uuids": [
-            "699664ec-008d-46de-aae6-9f499e7af708",
-            "fadf725b-d936-4f1e-add3-34d435fba6a0"
-          ],
-          "first_published_at": 1657040376000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            157,
-            9,
-            106,
-            406,
-            395,
-            451,
-            145,
-            72,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            80,
-            0.5,
-            0.5,
-            1,
-            0.3125,
-            15,
-            0.3125
-          ],
-          "average_rating": 0.85,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Comfort food comes in all shapes and sizes and sometimes even salad's"
-        },
-        {
-          "id": 20622,
-          "recipe_id": 2373,
-          "group_label": "Default",
-          "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "published_recipe_uuid": "e9ae9874-e91b-4af9-823a-3f3a251654ad",
-          "fallback_published_recipe_uuids": [
-            "bf1f2cad-668d-4470-a8d7-67e89f9989a1",
-            "0a29db93-0a01-47dc-b2dc-6fbb0989031f"
-          ],
-          "first_published_at": 1657040374000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            157,
-            9,
-            106,
-            406,
-            395,
-            451,
-            145,
-            72,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.5,
-            1,
-            240,
-            1.5,
-            1.5,
-            3,
-            0.9375,
-            45,
-            0.9375
-          ],
-          "average_rating": 0.85,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Comfort food comes in all shapes and sizes and sometimes even salad's"
-        },
-        {
-          "id": 20621,
-          "recipe_id": 2373,
-          "group_label": "Default",
-          "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "published_recipe_uuid": "c4217674-eb78-4856-8fa6-3c0d1b7e4e0d",
-          "fallback_published_recipe_uuids": [
-            "dae0aaad-e4d3-4bff-9688-094b3b08b16e",
-            "53561d5e-820b-495e-8572-654eeab2be97"
-          ],
-          "first_published_at": 1657040374000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            157,
-            9,
-            106,
-            406,
-            395,
-            451,
-            145,
-            72,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            160,
-            1,
-            1,
-            2,
-            0.625,
-            30,
-            0.625
-          ],
-          "average_rating": 0.85,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Comfort food comes in all shapes and sizes and sometimes even salad's"
-        },
-        {
-          "id": 20620,
-          "recipe_id": 2373,
-          "group_label": "Default",
-          "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
-          "published_recipe_uuid": "41b653d1-c57f-4388-af7b-cf894cd491b1",
-          "fallback_published_recipe_uuids": [
-            "7cac117b-c81e-4605-8c85-d7c06719a809",
-            "1f6fc7df-cf09-446e-bec6-46b7105c2f84"
-          ],
-          "first_published_at": 1657040375000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            11,
-            10
-          ],
-          "ingredient_ids": [
-            183,
-            157,
-            9,
-            106,
-            406,
-            395,
-            451,
-            145,
-            72,
-            448,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            80,
-            0.5,
-            0.5,
-            1,
-            0.3125,
-            15,
-            0.3125
-          ],
-          "average_rating": 0.85,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Comfort food comes in all shapes and sizes and sometimes even salad's"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Comfort food comes in all shapes and sizes and sometimes even salad's",
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "American",
-        "reviewCount": null,
-        "reviewScore": 4.3
-      }
+  "id": 20618,
+  "recipe_id": 2373,
+  "serving_count": 4,
+  "cooking_minutes": 20,
+  "name": "Buffalo Chicken Salad with Carrot, Celery, Blue Cheese & Spicy Ranch",
+  "slug": "buffalo-chicken-salad-carrot-celery-blue-cheese-spicy-ranch",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/thumbnail_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2373/presentation_55f1c30b-d4bf-4aef-80f1-6fc6f84ea551.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "buffalo-chicken-salad-carrot-celery-blue-cheese-spicy-ranch",
-    "variantId": "20618"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 346196,
+      "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
+      "secondary_message": "1 small bunch Italian (flat-leaf) parsley\n2 sticks celery\n1 avocado\n2 (5 oz) pkgs spring mix (mixed greens)"
+    },
+    {
+      "id": 346197,
+      "primary_message": "Shave parsley leaves off the stems; discard stems and mince the leaves. Place in a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 346198,
+      "primary_message": "Add dressing, hot sauce, salt, and pepper to the bowl with the parsley; stir to combine.",
+      "secondary_message": "⅔ cup ranch dressing\n2 tbsp hot sauce\n⅛ tsp salt\n⅛ tsp black pepper"
+    },
+    {
+      "id": 346199,
+      "primary_message": "Trim and thinly slice celery crosswise; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 346200,
+      "primary_message": "Halve and pit avocado; scoop out with a spoon and small dice the flesh. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 346201,
+      "primary_message": "Place chicken on a cutting board and, using your hands, remove meat from the skin and bones. Separate the meat into shred-like pieces and add to the bowl.",
+      "secondary_message": "1 (30 oz) whole chicken rotisserie chicken, white and dark meat"
+    },
+    {
+      "id": 346202,
+      "primary_message": "Add mixed greens and shredded carrots to the bowl; toss to combine the salad.",
+      "secondary_message": "1 (10 oz) bag shredded carrots"
+    },
+    {
+      "id": 346203,
+      "primary_message": "To serve, divide salad between plates or bowls and sprinkle with blue cheese. Enjoy!",
+      "secondary_message": "1 (4 oz) pkg crumbled blue cheese"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 369758,
+      "quantity": "1",
+      "ingredient_name": "avocado"
+    },
+    {
+      "id": 369757,
+      "quantity": "2 sticks",
+      "ingredient_name": "celery"
+    },
+    {
+      "id": 369752,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled blue cheese"
+    },
+    {
+      "id": 369755,
+      "quantity": "1 small bunch",
+      "ingredient_name": "Italian (flat-leaf) parsley"
+    },
+    {
+      "id": 369760,
+      "quantity": "160 ml",
+      "ingredient_name": "ranch dressing"
+    },
+    {
+      "id": 369759,
+      "quantity": "1 (30 oz) whole chicken",
+      "ingredient_name": "rotisserie chicken, white and dark meat"
+    },
+    {
+      "id": 369762,
+      "quantity": "1 (10 oz) bag",
+      "ingredient_name": "shredded carrots"
+    },
+    {
+      "id": 369756,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 369753,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 369761,
+      "quantity": "",
+      "ingredient_name": "hot sauce"
+    },
+    {
+      "id": 369754,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 622.93,
+    "alcohol": 0,
+    "ash": 5.86,
+    "caffeine": 0,
+    "water": 323.42,
+    "carbs": 18.12,
+    "fiber": 7.61,
+    "starch": 1.4,
+    "sugars": 6.87,
+    "fructose": 1.2,
+    "galactose": 0.17,
+    "glucose": 1.28,
+    "lactose": 0.69,
+    "maltose": 0,
+    "sucrose": 3.39,
+    "sugar_alcohol": 0,
+    "fat": 42.47,
+    "monounsaturated": 14.51,
+    "polyunsaturated": 13.01,
+    "omega_3": 1.65,
+    "omega_6": 11.31,
+    "saturated": 11.34,
+    "transfats": 0.27,
+    "cholesterol": 180.74,
+    "protein": 45.6,
+    "alanine": 0.4,
+    "arginine": 0.38,
+    "aspartic_acid": 0.85,
+    "cystine": 0.11,
+    "glutamic_acid": 2.08,
+    "glycine": 0.27,
+    "histidine": 0.3,
+    "isoleucine": 0.49,
+    "leucine": 0.8,
+    "lysine": 0.75,
+    "methionine": 0.22,
+    "phenylalanine": 0.48,
+    "proline": 0.76,
+    "serine": 0.47,
+    "threonine": 0.46,
+    "tryptophan": 0.13,
+    "tyrosine": 0.46,
+    "valine": 0.63,
+    "b1_thiamine": 0.26,
+    "b2_riboflavin": 0.59,
+    "b3_niacin": 12.55,
+    "b5_pantothenic_acid": 1.8,
+    "b6_pyridoxine": 0.71,
+    "b12_cobalamin": 0.89,
+    "choline": 131.76,
+    "folate": 186.24,
+    "vitamin_a": 12243.5,
+    "vitamin_c": 42.62,
+    "vitamin_d": 5.97,
+    "vitamin_e": 3.62,
+    "vitamin_k": 218.42,
+    "calcium": 271.95,
+    "copper": 0.31,
+    "iron": 3.51,
+    "magnesium": 90.57,
+    "manganese": 0.51,
+    "phosphorus": 587.37,
+    "potassium": 1292.08,
+    "selenium": 38.15,
+    "sodium": 1121.32,
+    "zinc": 3.92
+  }
 }

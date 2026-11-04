@@ -1,669 +1,255 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 3082,
-        "recipe_id": 450,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
-        "slug": "striploin-steak-roasted-carrot-beet-feta-salad",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-        "cookwares": [
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          },
-          {
-            "id": 59,
-            "name": "stainless steel or cast iron skillet",
-            "slug": "stainless-steel-or-cast-iron-skillet"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 26,
-            "name": "vegetable peeler",
-            "slug": "vegetable-peeler"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 30792,
-            "primary_message": "Preheat the oven to 500°F. Place the rack in the center position.",
-            "secondary_message": ""
-          },
-          {
-            "id": 30793,
-            "primary_message": "Wash and dry the fresh produce.",
-            "secondary_message": "4 medium carrots\n4 medium beets\n1 small pkg fresh thyme"
-          },
-          {
-            "id": 30794,
-            "primary_message": "Peel the carrots, then trim off the ends; discard the peels and trimmings. Cut the carrots into ¼-inch-thick rounds (at an angle). Transfer the carrots to a baking sheet.",
-            "secondary_message": null
-          },
-          {
-            "id": 30795,
-            "primary_message": "Trim off and discard the ends of the beets; peel and cut the beets into ¼-inch thick wedges. (To avoid staining, line your cutting board with paper towels before handling the beets.) Transfer the beets to the baking sheet.",
-            "secondary_message": null
-          },
-          {
-            "id": 30796,
-            "primary_message": "One by one, holding a sprig of thyme at its top, run you fingers down it to remove the leaves. Discard the sprigs and chop the leaves. Sprinkle ¾ of the leaves over the carrots and beets (save the rest for garnishing).",
-            "secondary_message": null
-          },
-          {
-            "id": 30797,
-            "primary_message": "Drizzle the carrots and beets with olive oil and season with salt and pepper; toss to coat, then arrange in a single layer.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 30798,
-            "primary_message": "Place the baking sheet in the oven and roast until the carrots and beets are tender, 15 to 20 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 30799,
-            "primary_message": "Preheat a skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 30800,
-            "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season generously with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n1 tsp black pepper"
-          },
-          {
-            "id": 30801,
-            "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
-            "secondary_message": "1 tbsp virgin coconut oil"
-          },
-          {
-            "id": 30802,
-            "primary_message": "Carefully place the steak in the skillet; flipping every 15 to 30 seconds, cook the steak until desired doneness (5 to 7 minutes for medium-rare). (Use a thermometer or cut into the steak to check the doneness.) Once done, transfer the steak to a plate and let it rest for 5 to 10 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 30803,
-            "primary_message": "Measure out the feta.",
-            "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
-          },
-          {
-            "id": 30804,
-            "primary_message": "To serve, place the steak on a plate, arrange the roasted vegetables on the side and sprinkle with the feta and remaining thyme. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 37959,
-            "quantity": "4 medium",
-            "ingredient_name": "beets"
-          },
-          {
-            "id": 37958,
-            "quantity": "4 medium",
-            "ingredient_name": "carrots"
-          },
-          {
-            "id": 37952,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 37955,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh thyme"
-          },
-          {
-            "id": 37960,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 37953,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 37956,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 37954,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 37957,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 581.82,
-          "alcohol": 0,
-          "ash": 7.84,
-          "caffeine": 0,
-          "water": 255.91,
-          "carbs": 17.1,
-          "fiber": 5.2,
-          "starch": 2.57,
-          "sugars": 9.64,
-          "fructose": 0.5,
-          "galactose": 0,
-          "glucose": 0.53,
-          "lactose": 1.16,
-          "maltose": 0,
-          "sucrose": 7.19,
-          "sugar_alcohol": 0,
-          "fat": 39.32,
-          "monounsaturated": 17.46,
-          "polyunsaturated": 2.25,
-          "omega_3": 0.22,
-          "omega_6": 2.02,
-          "saturated": 17.86,
-          "transfats": 1.66,
-          "cholesterol": 128.9,
-          "protein": 42.32,
-          "alanine": 2.53,
-          "arginine": 2.65,
-          "aspartic_acid": 3.91,
-          "cystine": 0.45,
-          "glutamic_acid": 7.12,
-          "glycine": 1.86,
-          "histidine": 1.48,
-          "isoleucine": 2.01,
-          "leucine": 3.61,
-          "lysine": 3.86,
-          "methionine": 1.1,
-          "phenylalanine": 1.7,
-          "proline": 2.07,
-          "serine": 1.88,
-          "threonine": 2.03,
-          "tryptophan": 0.49,
-          "tyrosine": 1.58,
-          "valine": 2.21,
-          "b1_thiamine": 0.2,
-          "b2_riboflavin": 0.65,
-          "b3_niacin": 11.98,
-          "b5_pantothenic_acid": 1.19,
-          "b6_pyridoxine": 1.21,
-          "b12_cobalamin": 3.25,
-          "choline": 106.23,
-          "folate": 118.41,
-          "vitamin_a": 184.85,
-          "vitamin_c": 18.82,
-          "vitamin_d": 11.32,
-          "vitamin_e": 1.88,
-          "vitamin_k": 16.77,
-          "calcium": 232.71,
-          "copper": 0.21,
-          "iron": 5.57,
-          "magnesium": 61.27,
-          "manganese": 0.6,
-          "phosphorus": 476.22,
-          "potassium": 952.51,
-          "selenium": 37.36,
-          "sodium": 442.04,
-          "zinc": 7.09
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/striploin-steak-roasted-carrot-beet-feta-salad/3082",
-      "altVariants": [
-        {
-          "id": 3082,
-          "recipe_id": 450,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
-          "position": 2,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "published_recipe_uuid": "94adba0d-9e4a-41c6-8c6c-87bcf5e52631",
-          "fallback_published_recipe_uuids": [
-            "980597b0-727b-4d03-ac3d-816c8e0b02f1",
-            "2e314a3a-93b4-4a88-82fa-2c6b34e26b8b"
-          ],
-          "first_published_at": 1478712425000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            13,
-            159,
-            32,
-            287,
-            279,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            1,
-            1,
-            1.5,
-            7.39338,
-            29.5735,
-            9.85784,
-            14.7868
-          ],
-          "average_rating": 0.792,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3077,
-          "recipe_id": 450,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "published_recipe_uuid": "5c1d223b-9d52-49b2-beaa-1194b8e1786b",
-          "fallback_published_recipe_uuids": [
-            "887b520e-fde4-4f84-a5d0-fce70c34d012",
-            "7c18ecba-17bb-4d69-a404-20f1f9d4303d",
-            "92da982e-607a-4adf-b888-76115e91e377"
-          ],
-          "first_published_at": 1478665372000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            13,
-            159,
-            32,
-            287,
-            279,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.5,
-            0.5,
-            0.75,
-            3.69669,
-            14.7868,
-            4.92892,
-            7.39338
-          ],
-          "average_rating": 0.792,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 5764,
-          "recipe_id": 450,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "published_recipe_uuid": "a53e5824-bcc6-4bb1-b554-38ca1b97bf85",
-          "fallback_published_recipe_uuids": [
-            "ae16451c-f4b1-4bb1-b6f6-aa843072a582",
-            "e640254e-7876-4d61-a422-0f83cf32f5bf"
-          ],
-          "first_published_at": 1550531129000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            13,
-            159,
-            32,
-            287,
-            279,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            1.5,
-            1.5,
-            2.25,
-            11.090069999999999,
-            44.36025,
-            14.78676,
-            22.1802
-          ],
-          "average_rating": 0.792,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3566,
-          "recipe_id": 450,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
-          "position": 3,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "published_recipe_uuid": "56042c68-08d0-4c3d-bde6-5d252dadc503",
-          "fallback_published_recipe_uuids": [
-            "ed89d1d1-c474-46e9-a849-b1ac615ef6e8"
-          ],
-          "first_published_at": 1486668333000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            13,
-            159,
-            32,
-            287,
-            279,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            4,
-            1,
-            1,
-            0.68,
-            7.39338,
-            29.5735,
-            9.85784,
-            14.7868
-          ],
-          "average_rating": 0.792,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 3565,
-          "recipe_id": 450,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
-          "position": 1,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "published_recipe_uuid": "91e53185-046c-4748-9d4a-9cc7538e4559",
-          "fallback_published_recipe_uuids": [
-            "e05254c2-d46e-46c7-a1ad-af1550b4a7e9"
-          ],
-          "first_published_at": 1486668279000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            13,
-            159,
-            32,
-            287,
-            279,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            2,
-            0.5,
-            0.5,
-            0.34,
-            3.69669,
-            14.7868,
-            4.92892,
-            7.39338
-          ],
-          "average_rating": 0.792,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 6005,
-          "recipe_id": 450,
-          "group_label": "Classic",
-          "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
-          "position": 3,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
-          "published_recipe_uuid": "c82453d4-697b-4329-8dde-be6417d79f04",
-          "fallback_published_recipe_uuids": [
-            "dd4afcd6-2f88-406b-b12e-9317418da119",
-            "b2f7311e-40f4-4543-844a-ef1b438ba81f"
-          ],
-          "first_published_at": 1550527867000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            13,
-            159,
-            32,
-            287,
-            279,
-            72,
-            47,
-            88,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            6,
-            1.5,
-            1.5,
-            1.02,
-            11.090069999999999,
-            44.36025,
-            14.78676,
-            22.1802
-          ],
-          "average_rating": 0.792,
-          "rating_count": 6,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": null,
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 3082,
+  "recipe_id": 450,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Striploin Steak with Roasted Carrot, Beet & Feta Salad",
+  "slug": "striploin-steak-roasted-carrot-beet-feta-salad",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/thumbnail_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/450/presentation_01e38c80-029e-4ccf-9e0d-f0940b1b1500.jpg",
+  "cookwares": [
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "striploin-steak-roasted-carrot-beet-feta-salad",
-    "variantId": "3082"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    },
+    {
+      "id": 59,
+      "name": "stainless steel or cast iron skillet",
+      "slug": "stainless-steel-or-cast-iron-skillet"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 26,
+      "name": "vegetable peeler",
+      "slug": "vegetable-peeler"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 30792,
+      "primary_message": "Preheat the oven to 500°F. Place the rack in the center position.",
+      "secondary_message": ""
+    },
+    {
+      "id": 30793,
+      "primary_message": "Wash and dry the fresh produce.",
+      "secondary_message": "4 medium carrots\n4 medium beets\n1 small pkg fresh thyme"
+    },
+    {
+      "id": 30794,
+      "primary_message": "Peel the carrots, then trim off the ends; discard the peels and trimmings. Cut the carrots into ¼-inch-thick rounds (at an angle). Transfer the carrots to a baking sheet.",
+      "secondary_message": null
+    },
+    {
+      "id": 30795,
+      "primary_message": "Trim off and discard the ends of the beets; peel and cut the beets into ¼-inch thick wedges. (To avoid staining, line your cutting board with paper towels before handling the beets.) Transfer the beets to the baking sheet.",
+      "secondary_message": null
+    },
+    {
+      "id": 30796,
+      "primary_message": "One by one, holding a sprig of thyme at its top, run you fingers down it to remove the leaves. Discard the sprigs and chop the leaves. Sprinkle ¾ of the leaves over the carrots and beets (save the rest for garnishing).",
+      "secondary_message": null
+    },
+    {
+      "id": 30797,
+      "primary_message": "Drizzle the carrots and beets with olive oil and season with salt and pepper; toss to coat, then arrange in a single layer.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 30798,
+      "primary_message": "Place the baking sheet in the oven and roast until the carrots and beets are tender, 15 to 20 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 30799,
+      "primary_message": "Preheat a skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 30800,
+      "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season generously with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n1 tsp black pepper"
+    },
+    {
+      "id": 30801,
+      "primary_message": "Once the skillet is hot, add coconut oil and swirl to coat the bottom.",
+      "secondary_message": "1 tbsp virgin coconut oil"
+    },
+    {
+      "id": 30802,
+      "primary_message": "Carefully place the steak in the skillet; flipping every 15 to 30 seconds, cook the steak until desired doneness (5 to 7 minutes for medium-rare). (Use a thermometer or cut into the steak to check the doneness.) Once done, transfer the steak to a plate and let it rest for 5 to 10 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 30803,
+      "primary_message": "Measure out the feta.",
+      "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
+    },
+    {
+      "id": 30804,
+      "primary_message": "To serve, place the steak on a plate, arrange the roasted vegetables on the side and sprinkle with the feta and remaining thyme. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 37959,
+      "quantity": "4 medium",
+      "ingredient_name": "beets"
+    },
+    {
+      "id": 37958,
+      "quantity": "4 medium",
+      "ingredient_name": "carrots"
+    },
+    {
+      "id": 37952,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 37955,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh thyme"
+    },
+    {
+      "id": 37960,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 37953,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 37956,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 37954,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 37957,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 581.82,
+    "alcohol": 0,
+    "ash": 7.84,
+    "caffeine": 0,
+    "water": 255.91,
+    "carbs": 17.1,
+    "fiber": 5.2,
+    "starch": 2.57,
+    "sugars": 9.64,
+    "fructose": 0.5,
+    "galactose": 0,
+    "glucose": 0.53,
+    "lactose": 1.16,
+    "maltose": 0,
+    "sucrose": 7.19,
+    "sugar_alcohol": 0,
+    "fat": 39.32,
+    "monounsaturated": 17.46,
+    "polyunsaturated": 2.25,
+    "omega_3": 0.22,
+    "omega_6": 2.02,
+    "saturated": 17.86,
+    "transfats": 1.66,
+    "cholesterol": 128.9,
+    "protein": 42.32,
+    "alanine": 2.53,
+    "arginine": 2.65,
+    "aspartic_acid": 3.91,
+    "cystine": 0.45,
+    "glutamic_acid": 7.12,
+    "glycine": 1.86,
+    "histidine": 1.48,
+    "isoleucine": 2.01,
+    "leucine": 3.61,
+    "lysine": 3.86,
+    "methionine": 1.1,
+    "phenylalanine": 1.7,
+    "proline": 2.07,
+    "serine": 1.88,
+    "threonine": 2.03,
+    "tryptophan": 0.49,
+    "tyrosine": 1.58,
+    "valine": 2.21,
+    "b1_thiamine": 0.2,
+    "b2_riboflavin": 0.65,
+    "b3_niacin": 11.98,
+    "b5_pantothenic_acid": 1.19,
+    "b6_pyridoxine": 1.21,
+    "b12_cobalamin": 3.25,
+    "choline": 106.23,
+    "folate": 118.41,
+    "vitamin_a": 184.85,
+    "vitamin_c": 18.82,
+    "vitamin_d": 11.32,
+    "vitamin_e": 1.88,
+    "vitamin_k": 16.77,
+    "calcium": 232.71,
+    "copper": 0.21,
+    "iron": 5.57,
+    "magnesium": 61.27,
+    "manganese": 0.6,
+    "phosphorus": 476.22,
+    "potassium": 952.51,
+    "selenium": 37.36,
+    "sodium": 442.04,
+    "zinc": 7.09
+  }
 }

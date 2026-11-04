@@ -1,680 +1,235 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 25097,
-        "recipe_id": 2816,
-        "serving_count": 4,
-        "cooking_minutes": 45,
-        "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
-        "slug": "spaghetti-squash-creamy-spinach-artichoke-sauce-basil-parmesan",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 48,
-            "name": "medium saucepan",
-            "slug": "medium-saucepan"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 427295,
-            "primary_message": "Preheat oven to 500°F and place rack in the center position. Line a large baking sheet pan with aluminum foil to make cleanup easier (optional).",
-            "secondary_message": null
-          },
-          {
-            "id": 427296,
-            "primary_message": "Wash, dry, and trim each squash, then halve lengthwise, and scrape out the seeds. Rub the inside of the squash with oil, then season with salt and pepper. Arrange halves, cut-side down, on the baking sheet.",
-            "secondary_message": "2 medium spaghetti squash\n4 tsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 427297,
-            "primary_message": "Place squash in the oven (it doesn't have to be fully heated) and roast until tender, so a knife can easily pierce through the flesh, 20-25 minutes. ",
-            "secondary_message": null
-          },
-          {
-            "id": 427298,
-            "primary_message": "Meanwhile, place Alfredo sauce, spinach, and spices in a medium saucepan. Bring to a simmer over medium-high heat, stirring occasionally.",
-            "secondary_message": "1 (16 oz) jar Alfredo sauce\n1 (16oz) bag frozen chopped spinach\n1 tsp Italian seasoning\n½ tsp garlic powder\n½ tsp salt"
-          },
-          {
-            "id": 427299,
-            "primary_message": "While the sauce comes to a simmer, drain and roughly chop artichoke hearts. Add to the pan with the sauce.",
-            "secondary_message": "2 (6 oz) jars artichoke hearts, marinated"
-          },
-          {
-            "id": 427300,
-            "primary_message": "Wash, dry, and pick basil leaves off the stems; roll up crosswise and thinly slice into ribbons.",
-            "secondary_message": "1 small pkg fresh basil"
-          },
-          {
-            "id": 427301,
-            "primary_message": "Once the sauce is simmering, add Parmesan and half of the basil to the pan, then stir to combine. Remove from heat and cover to keep warm. (Reserve remaining basil for serving.)",
-            "secondary_message": "½ cup Parmesan cheese, shredded"
-          },
-          {
-            "id": 427302,
-            "primary_message": "When the squash is done, remove from the oven and allow to cool slightly, about 5 minutes. Scrape the inside of the squash with a fork to separate into spaghetti-like strands. (Use an oven mitt or towel to hold it with your other hand.)",
-            "secondary_message": null
-          },
-          {
-            "id": 427303,
-            "primary_message": "To serve, divide spaghetti squash between plates or bowls; top with spinach-artichoke sauce, additional Parmesan, and reserved basil. Enjoy!",
-            "secondary_message": "½ cup Parmesan cheese, shredded"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 457895,
-            "quantity": "1 (16 oz) jar",
-            "ingredient_name": "Alfredo sauce"
-          },
-          {
-            "id": 457894,
-            "quantity": "2 (6 oz) jars",
-            "ingredient_name": "artichoke hearts, marinated"
-          },
-          {
-            "id": 457887,
-            "quantity": "1 small pkg",
-            "ingredient_name": "fresh basil"
-          },
-          {
-            "id": 457897,
-            "quantity": "1 (16oz) bag",
-            "ingredient_name": "frozen chopped spinach"
-          },
-          {
-            "id": 457896,
-            "quantity": "1 cup",
-            "ingredient_name": "Parmesan cheese, shredded"
-          },
-          {
-            "id": 457893,
-            "quantity": "2 medium",
-            "ingredient_name": "spaghetti squash"
-          },
-          {
-            "id": 457889,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 457888,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 457890,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 457891,
-            "quantity": "",
-            "ingredient_name": "Italian seasoning"
-          },
-          {
-            "id": 457892,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 578.43,
-          "alcohol": 0,
-          "ash": 8.69,
-          "caffeine": 0,
-          "water": 876.59,
-          "carbs": 58.86,
-          "fiber": 17.06,
-          "starch": 4.75,
-          "sugars": 19.6,
-          "fructose": 6.17,
-          "galactose": 0.02,
-          "glucose": 7.43,
-          "lactose": 0,
-          "maltose": 0,
-          "sucrose": 4.51,
-          "sugar_alcohol": 0,
-          "fat": 32.34,
-          "monounsaturated": 10.22,
-          "polyunsaturated": 2.81,
-          "omega_3": 1.2,
-          "omega_6": 1.55,
-          "saturated": 16.9,
-          "transfats": 0.01,
-          "cholesterol": 72.23,
-          "protein": 24,
-          "alanine": 0.77,
-          "arginine": 1.23,
-          "aspartic_acid": 1.69,
-          "cystine": 0.15,
-          "glutamic_acid": 3.99,
-          "glycine": 0.62,
-          "histidine": 0.58,
-          "isoleucine": 0.93,
-          "leucine": 1.6,
-          "lysine": 1.52,
-          "methionine": 0.42,
-          "phenylalanine": 1.04,
-          "proline": 1.74,
-          "serine": 1.04,
-          "threonine": 0.81,
-          "tryptophan": 0.34,
-          "tyrosine": 1.04,
-          "valine": 1.19,
-          "b1_thiamine": 0.39,
-          "b2_riboflavin": 0.56,
-          "b3_niacin": 6.78,
-          "b5_pantothenic_acid": 2.83,
-          "b6_pyridoxine": 0.95,
-          "b12_cobalamin": 0.53,
-          "choline": 110.16,
-          "folate": 249.09,
-          "vitamin_a": 14686.54,
-          "vitamin_c": 31.78,
-          "vitamin_d": 0.71,
-          "vitamin_e": 6.18,
-          "vitamin_k": 661.25,
-          "calcium": 766.56,
-          "copper": 0.58,
-          "iron": 5.65,
-          "magnesium": 216.29,
-          "manganese": 1.83,
-          "phosphorus": 458.3,
-          "potassium": 1382.07,
-          "selenium": 18.24,
-          "sodium": 1495.85,
-          "zinc": 3.44
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/spaghetti-squash-creamy-spinach-artichoke-sauce-basil-parmesan/25097",
-      "altVariants": [
-        {
-          "id": 25096,
-          "recipe_id": 2816,
-          "group_label": "Default",
-          "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "published_recipe_uuid": "cdace656-afe9-408d-941c-ffe4d193c222",
-          "fallback_published_recipe_uuids": [
-            "fa6d5fb6-3669-48e4-b6c8-ed3124c51d76",
-            "a368e777-75fd-4361-871f-79f8ccef9cb1",
-            "a94eb50f-76f2-44e9-b266-af5d76441993"
-          ],
-          "first_published_at": 1689700641000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            410,
-            344,
-            28,
-            449,
-            427,
-            314,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            10,
-            1.25,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.804,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            29
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25098,
-          "recipe_id": 2816,
-          "group_label": "Default",
-          "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "published_recipe_uuid": "f2e85c71-bd0a-4d4f-a2c9-a1d14e9472e6",
-          "fallback_published_recipe_uuids": [
-            "5f4959b7-1814-4e1d-903f-139aef5ccd4c",
-            "e0aad62f-2064-40e7-bb45-ca5274f49b30",
-            "22b33eb4-71ac-42ac-9ca9-97c6609bc8bb"
-          ],
-          "first_published_at": 1689700640000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            410,
-            344,
-            28,
-            449,
-            427,
-            314,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            30,
-            3.75,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.804,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            29
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25097,
-          "recipe_id": 2816,
-          "group_label": "Default",
-          "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "published_recipe_uuid": "1458d0f6-442a-4e29-ad12-b7b89e719be2",
-          "fallback_published_recipe_uuids": [
-            "348664a8-2d32-4154-9fed-18578a2a20c3",
-            "6e233d65-a2ec-4344-87bf-95014941887c",
-            "0af55749-5f3c-43ed-b95e-d4b97cd5714e"
-          ],
-          "first_published_at": 1689700641000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            410,
-            344,
-            28,
-            449,
-            427,
-            314,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            20,
-            2.5,
-            5,
-            7.5
-          ],
-          "average_rating": 0.804,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            29
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25101,
-          "recipe_id": 2816,
-          "group_label": "Default",
-          "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "published_recipe_uuid": "bc20f765-65d7-4ce5-806d-fcc02026e26c",
-          "fallback_published_recipe_uuids": [
-            "5fc1a9c8-76ab-4570-a39c-6f564a1bb3ab",
-            "3ce450af-a1b4-4680-80e1-6344ebd81c94",
-            "c7d41d9e-d1ad-4c11-a5dd-381a89c9100e"
-          ],
-          "first_published_at": 1689700639000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            410,
-            344,
-            28,
-            449,
-            427,
-            314,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1,
-            1.5,
-            1.5,
-            3,
-            3.75,
-            30,
-            3.75,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.804,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            29
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25100,
-          "recipe_id": 2816,
-          "group_label": "Default",
-          "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "published_recipe_uuid": "fe2566c0-4d93-4dc9-8084-86a190dac912",
-          "fallback_published_recipe_uuids": [
-            "088b074d-b788-4bf5-b739-82c0659b29ee",
-            "0352fd69-362f-463f-ba87-f82474ad641e",
-            "83c776d8-5080-4774-835d-71f49a64359a"
-          ],
-          "first_published_at": 1689700639000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            410,
-            344,
-            28,
-            449,
-            427,
-            314,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1,
-            1,
-            1,
-            2,
-            2.5,
-            20,
-            2.5,
-            5,
-            7.5
-          ],
-          "average_rating": 0.804,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            29
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 25099,
-          "recipe_id": 2816,
-          "group_label": "Default",
-          "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
-          "published_recipe_uuid": "df3c4414-f76f-4843-9812-f8ffe689b716",
-          "fallback_published_recipe_uuids": [
-            "eaf20863-f708-4e3b-9195-91ac989a31c6",
-            "d4a939f6-1b48-4ded-9ddd-430d4a7e33b7",
-            "25e13094-ce7a-4f31-9a6b-31e4ec3e1dd9"
-          ],
-          "first_published_at": 1689700640000,
-          "allowed_type_ids": [
-            4,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2,
-            1
-          ],
-          "ingredient_ids": [
-            410,
-            344,
-            28,
-            449,
-            427,
-            314,
-            72,
-            47,
-            79,
-            81,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.5,
-            0.5,
-            0.5,
-            1,
-            1.25,
-            10,
-            1.25,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.804,
-          "rating_count": 14,
-          "variety_tag_ids": [
-            29
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": null,
-        "keywords": [
-          "Low-Carb \"Pastas\""
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 25097,
+  "recipe_id": 2816,
+  "serving_count": 4,
+  "cooking_minutes": 45,
+  "name": "Spaghetti Squash with Creamy Spinach-Artichoke Sauce, Basil & Parmesan",
+  "slug": "spaghetti-squash-creamy-spinach-artichoke-sauce-basil-parmesan",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/thumbnail_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2816/presentation_b7499bf0-0c6c-40b2-a9ef-575a89bebd14.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "spaghetti-squash-creamy-spinach-artichoke-sauce-basil-parmesan",
-    "variantId": "25097"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 48,
+      "name": "medium saucepan",
+      "slug": "medium-saucepan"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 427295,
+      "primary_message": "Preheat oven to 500°F and place rack in the center position. Line a large baking sheet pan with aluminum foil to make cleanup easier (optional).",
+      "secondary_message": null
+    },
+    {
+      "id": 427296,
+      "primary_message": "Wash, dry, and trim each squash, then halve lengthwise, and scrape out the seeds. Rub the inside of the squash with oil, then season with salt and pepper. Arrange halves, cut-side down, on the baking sheet.",
+      "secondary_message": "2 medium spaghetti squash\n4 tsp extra virgin olive oil\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 427297,
+      "primary_message": "Place squash in the oven (it doesn't have to be fully heated) and roast until tender, so a knife can easily pierce through the flesh, 20-25 minutes. ",
+      "secondary_message": null
+    },
+    {
+      "id": 427298,
+      "primary_message": "Meanwhile, place Alfredo sauce, spinach, and spices in a medium saucepan. Bring to a simmer over medium-high heat, stirring occasionally.",
+      "secondary_message": "1 (16 oz) jar Alfredo sauce\n1 (16oz) bag frozen chopped spinach\n1 tsp Italian seasoning\n½ tsp garlic powder\n½ tsp salt"
+    },
+    {
+      "id": 427299,
+      "primary_message": "While the sauce comes to a simmer, drain and roughly chop artichoke hearts. Add to the pan with the sauce.",
+      "secondary_message": "2 (6 oz) jars artichoke hearts, marinated"
+    },
+    {
+      "id": 427300,
+      "primary_message": "Wash, dry, and pick basil leaves off the stems; roll up crosswise and thinly slice into ribbons.",
+      "secondary_message": "1 small pkg fresh basil"
+    },
+    {
+      "id": 427301,
+      "primary_message": "Once the sauce is simmering, add Parmesan and half of the basil to the pan, then stir to combine. Remove from heat and cover to keep warm. (Reserve remaining basil for serving.)",
+      "secondary_message": "½ cup Parmesan cheese, shredded"
+    },
+    {
+      "id": 427302,
+      "primary_message": "When the squash is done, remove from the oven and allow to cool slightly, about 5 minutes. Scrape the inside of the squash with a fork to separate into spaghetti-like strands. (Use an oven mitt or towel to hold it with your other hand.)",
+      "secondary_message": null
+    },
+    {
+      "id": 427303,
+      "primary_message": "To serve, divide spaghetti squash between plates or bowls; top with spinach-artichoke sauce, additional Parmesan, and reserved basil. Enjoy!",
+      "secondary_message": "½ cup Parmesan cheese, shredded"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 457895,
+      "quantity": "1 (16 oz) jar",
+      "ingredient_name": "Alfredo sauce"
+    },
+    {
+      "id": 457894,
+      "quantity": "2 (6 oz) jars",
+      "ingredient_name": "artichoke hearts, marinated"
+    },
+    {
+      "id": 457887,
+      "quantity": "1 small pkg",
+      "ingredient_name": "fresh basil"
+    },
+    {
+      "id": 457897,
+      "quantity": "1 (16oz) bag",
+      "ingredient_name": "frozen chopped spinach"
+    },
+    {
+      "id": 457896,
+      "quantity": "1 cup",
+      "ingredient_name": "Parmesan cheese, shredded"
+    },
+    {
+      "id": 457893,
+      "quantity": "2 medium",
+      "ingredient_name": "spaghetti squash"
+    },
+    {
+      "id": 457889,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 457888,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 457890,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 457891,
+      "quantity": "",
+      "ingredient_name": "Italian seasoning"
+    },
+    {
+      "id": 457892,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 578.43,
+    "alcohol": 0,
+    "ash": 8.69,
+    "caffeine": 0,
+    "water": 876.59,
+    "carbs": 58.86,
+    "fiber": 17.06,
+    "starch": 4.75,
+    "sugars": 19.6,
+    "fructose": 6.17,
+    "galactose": 0.02,
+    "glucose": 7.43,
+    "lactose": 0,
+    "maltose": 0,
+    "sucrose": 4.51,
+    "sugar_alcohol": 0,
+    "fat": 32.34,
+    "monounsaturated": 10.22,
+    "polyunsaturated": 2.81,
+    "omega_3": 1.2,
+    "omega_6": 1.55,
+    "saturated": 16.9,
+    "transfats": 0.01,
+    "cholesterol": 72.23,
+    "protein": 24,
+    "alanine": 0.77,
+    "arginine": 1.23,
+    "aspartic_acid": 1.69,
+    "cystine": 0.15,
+    "glutamic_acid": 3.99,
+    "glycine": 0.62,
+    "histidine": 0.58,
+    "isoleucine": 0.93,
+    "leucine": 1.6,
+    "lysine": 1.52,
+    "methionine": 0.42,
+    "phenylalanine": 1.04,
+    "proline": 1.74,
+    "serine": 1.04,
+    "threonine": 0.81,
+    "tryptophan": 0.34,
+    "tyrosine": 1.04,
+    "valine": 1.19,
+    "b1_thiamine": 0.39,
+    "b2_riboflavin": 0.56,
+    "b3_niacin": 6.78,
+    "b5_pantothenic_acid": 2.83,
+    "b6_pyridoxine": 0.95,
+    "b12_cobalamin": 0.53,
+    "choline": 110.16,
+    "folate": 249.09,
+    "vitamin_a": 14686.54,
+    "vitamin_c": 31.78,
+    "vitamin_d": 0.71,
+    "vitamin_e": 6.18,
+    "vitamin_k": 661.25,
+    "calcium": 766.56,
+    "copper": 0.58,
+    "iron": 5.65,
+    "magnesium": 216.29,
+    "manganese": 1.83,
+    "phosphorus": 458.3,
+    "potassium": 1382.07,
+    "selenium": 18.24,
+    "sodium": 1495.85,
+    "zinc": 3.44
+  }
 }

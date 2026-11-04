@@ -1,2111 +1,280 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 17373,
-        "recipe_id": 2065,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-        "slug": "italian-sausage-soup-rotini-pasta-bell-pepper-tomato-spinach",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-        "cookwares": [
-          {
-            "id": 10,
-            "name": "can opener",
-            "slug": "can-opener"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 15,
-            "name": "grater",
-            "slug": "grater"
-          },
-          {
-            "id": 57,
-            "name": "ladle",
-            "slug": "ladle"
-          },
-          {
-            "id": 78,
-            "name": "large pot",
-            "slug": "large-pot"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 322883,
-            "primary_message": "Peel, halve, and small dice onion. ",
-            "secondary_message": "1 medium yellow onion"
-          },
-          {
-            "id": 322884,
-            "primary_message": "Peel and mince garlic. ",
-            "secondary_message": "4 cloves garlic"
-          },
-          {
-            "id": 322885,
-            "primary_message": "Preheat a large pot over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 322886,
-            "primary_message": "While the pot heats up, use the tip of a knife to slice down the length of each sausage; peel off casings and discard. ",
-            "secondary_message": "4 pork sausages"
-          },
-          {
-            "id": 322887,
-            "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add onion, garlic, sausage, and spices; cook, breaking the meat apart with a spoon, until sausage is brown and crumbly, 5-7 minutes.",
-            "secondary_message": "4 tsp extra virgin olive oil\n2 tsp parsley flakes\n2 tsp oregano, dried\n1 tsp thyme, dried\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 322888,
-            "primary_message": "Meanwhile, wash and dry bell peppers; using a clean cutting board, trim, seed, and small dice. ",
-            "secondary_message": "2 red bell peppers"
-          },
-          {
-            "id": 322889,
-            "primary_message": "When the sausage is done, add bell pepper to the pot and stir to combine. Continue to cook, stirring occasionally, until starting to soften, 3-4 minutes more.",
-            "secondary_message": null
-          },
-          {
-            "id": 322890,
-            "primary_message": "Add broth, tomatoes, water, pasta, and vinegar to the pot; stir to combine. Cover and bring to a boil; once boiling, reduce heat to medium, and simmer until pasta is cooked through, about 8 minutes.",
-            "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes\n2 cup water\n6 oz rotini pasta\n3 tbsp balsamic vinegar"
-          },
-          {
-            "id": 322891,
-            "primary_message": "While the soup is simmering, wash and dry the spinach (skip this step if the spinach came pre-washed), then roughly chop.",
-            "secondary_message": "2 (5 oz) pkgs baby spinach"
-          },
-          {
-            "id": 322892,
-            "primary_message": "Finely grate Parmesan.",
-            "secondary_message": "2 oz Parmesan cheese"
-          },
-          {
-            "id": 322893,
-            "primary_message": "Add spinach to the soup in handfuls, waiting for the spinach to wilt slightly before adding the next handful. Stir to combine and remove from heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 322894,
-            "primary_message": "To serve, divide the soup between bowls and top with Parmesan. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 343763,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "baby spinach"
-          },
-          {
-            "id": 343776,
-            "quantity": "32 fl oz",
-            "ingredient_name": "chicken or vegetable broth"
-          },
-          {
-            "id": 343771,
-            "quantity": "2 (14.5 oz) cans",
-            "ingredient_name": "diced tomatoes"
-          },
-          {
-            "id": 343762,
-            "quantity": "4 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 343772,
-            "quantity": "2 oz",
-            "ingredient_name": "Parmesan cheese"
-          },
-          {
-            "id": 343777,
-            "quantity": "4",
-            "ingredient_name": "pork sausages"
-          },
-          {
-            "id": 343774,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 343765,
-            "quantity": "6 oz",
-            "ingredient_name": "rotini pasta"
-          },
-          {
-            "id": 343775,
-            "quantity": "1 medium",
-            "ingredient_name": "yellow onion"
-          },
-          {
-            "id": 343773,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 343766,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 343764,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 343767,
-            "quantity": "",
-            "ingredient_name": "oregano, dried"
-          },
-          {
-            "id": 343768,
-            "quantity": "",
-            "ingredient_name": "parsley flakes"
-          },
-          {
-            "id": 343769,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 343770,
-            "quantity": "",
-            "ingredient_name": "thyme, dried"
-          }
-        ],
-        "nutrition": {
-          "energy": 699.31,
-          "alcohol": 0,
-          "ash": 9.1,
-          "caffeine": 0,
-          "water": 642.81,
-          "carbs": 54.94,
-          "fiber": 9.05,
-          "starch": 27.94,
-          "sugars": 12.66,
-          "fructose": 5.48,
-          "galactose": 0.07,
-          "glucose": 5.57,
-          "lactose": 0.11,
-          "maltose": 0.83,
-          "sucrose": 0.58,
-          "sugar_alcohol": 0,
-          "fat": 37.24,
-          "monounsaturated": 16.52,
-          "polyunsaturated": 4.91,
-          "omega_3": 0.25,
-          "omega_6": 4.36,
-          "saturated": 12.01,
-          "transfats": 0.25,
-          "cholesterol": 86.08,
-          "protein": 38.24,
-          "alanine": 1.81,
-          "arginine": 1.98,
-          "aspartic_acid": 3.22,
-          "cystine": 0.46,
-          "glutamic_acid": 7.74,
-          "glycine": 1.77,
-          "histidine": 1.08,
-          "isoleucine": 1.59,
-          "leucine": 2.74,
-          "lysine": 2.6,
-          "methionine": 0.81,
-          "phenylalanine": 1.55,
-          "proline": 2.45,
-          "serine": 1.59,
-          "threonine": 1.52,
-          "tryptophan": 0.4,
-          "tyrosine": 1.2,
-          "valine": 1.75,
-          "b1_thiamine": 1.94,
-          "b2_riboflavin": 0.79,
-          "b3_niacin": 14.88,
-          "b5_pantothenic_acid": 1.76,
-          "b6_pyridoxine": 1.02,
-          "b12_cobalamin": 1.49,
-          "choline": 119.81,
-          "folate": 293.73,
-          "vitamin_a": 1064.87,
-          "vitamin_c": 125.9,
-          "vitamin_d": 27.26,
-          "vitamin_e": 4.97,
-          "vitamin_k": 358.93,
-          "calcium": 189.88,
-          "copper": 0.58,
-          "iron": 7.41,
-          "magnesium": 138.94,
-          "manganese": 1.6,
-          "phosphorus": 504.69,
-          "potassium": 1571.58,
-          "selenium": 32.94,
-          "sodium": 844.61,
-          "zinc": 4.04
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/italian-sausage-soup-rotini-pasta-bell-pepper-tomato-spinach/17373",
-      "altVariants": [
-        {
-          "id": 17377,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "e6fb0253-f83f-4658-b7fc-3d8f52ae42d0",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401037000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            48,
-            3,
-            6,
-            6,
-            3,
-            9,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17375,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "642caca5-5416-4599-8ad2-17d6a8591e84",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401038000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            16,
-            1,
-            2,
-            2,
-            1,
-            3,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17374,
-          "recipe_id": 2065,
-          "group_label": "Default",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "c482ef44-183b-4dac-92ad-2d445e0f55b6",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401038000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            120,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            48,
-            3,
-            6,
-            3,
-            6,
-            3,
-            9,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17378,
-          "recipe_id": 2065,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "ea373abf-7911-497d-b6d8-1bd9fe2d046b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401037000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            120,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            16,
-            1,
-            2,
-            3,
-            1,
-            2,
-            1,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17373,
-          "recipe_id": 2065,
-          "group_label": "Default",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "04ffe12b-47fd-4cde-96f7-613eada93cd1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401038000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            120,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            32,
-            2,
-            4,
-            2,
-            4,
-            2,
-            6,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17372,
-          "recipe_id": 2065,
-          "group_label": "Default",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "4b80ade3-2960-4fdf-a706-4f8bd714adfc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401038000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            120,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            16,
-            1,
-            2,
-            1,
-            2,
-            1,
-            3,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17376,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "39ab55e2-1bad-4a2d-b327-63f1096b32e4",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401037000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            32,
-            2,
-            4,
-            4,
-            2,
-            6,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17383,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "c89be01c-fbc0-4e60-82f7-48951f234289",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401035000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            48,
-            3,
-            6,
-            9,
-            6,
-            3,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17382,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "a9db39c9-d1ce-4a9f-938d-8f70c9da0a22",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401035000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            32,
-            2,
-            4,
-            6,
-            4,
-            2,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17381,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "f66a5f74-19c7-45e1-90f3-025b2c7ed4e7",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401036000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            16,
-            1,
-            2,
-            3,
-            2,
-            1,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17380,
-          "recipe_id": 2065,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "20708727-c1ab-4c9d-8ce3-8fe88a2b1339",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401036000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            120,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            48,
-            3,
-            6,
-            9,
-            3,
-            6,
-            3,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17379,
-          "recipe_id": 2065,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "2554fb73-378e-4764-9008-f8c263f408a5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401037000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            120,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            32,
-            2,
-            4,
-            6,
-            2,
-            4,
-            2,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17395,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 105,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "758ebf7e-374c-49ff-81ed-a1a52d7ab85e",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401031000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            1420,
-            3,
-            6,
-            255,
-            6,
-            3,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17394,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 104,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "4c048b9f-46e0-4240-803a-6a6d76450b79",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401032000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            946,
-            2,
-            4,
-            170,
-            4,
-            2,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17393,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 103,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "28ded700-78eb-4c72-81fa-3af224163aae",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401032000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            473,
-            1,
-            2,
-            85,
-            2,
-            1,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17392,
-          "recipe_id": 2065,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 102,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "3bab48bb-de0f-49c8-bd33-cc166d9b0ecf",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401032000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            120,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            1420,
-            3,
-            6,
-            255,
-            85,
-            6,
-            3,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17391,
-          "recipe_id": 2065,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 101,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "ff80563b-487c-4075-81ba-31b8c5200cbe",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401033000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            120,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            946,
-            2,
-            4,
-            170,
-            57,
-            4,
-            2,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17390,
-          "recipe_id": 2065,
-          "group_label": "Default auto-gluten-free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 100,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "9bd98fc2-13eb-403f-a705-9933b8de46fc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401033000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            67,
-            120,
-            313,
-            150,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            473,
-            1,
-            2,
-            85,
-            28,
-            2,
-            1,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17389,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "f98bb602-9e4d-40cb-b233-21a2d24925b1",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401033000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            1420,
-            3,
-            6,
-            6,
-            3,
-            255,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17388,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "8fe98292-fd3f-4033-a16f-ceca7e5f3114",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401034000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            946,
-            2,
-            4,
-            4,
-            2,
-            170,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17387,
-          "recipe_id": 2065,
-          "group_label": "Dairy-Free",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "4427d2c6-c992-4d16-ba25-d1992b47c276",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401034000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            473,
-            1,
-            2,
-            2,
-            1,
-            85,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17386,
-          "recipe_id": 2065,
-          "group_label": "Default",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "8debcfce-a1a8-4c8d-83a2-bfd99e72410b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401034000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            120,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            3,
-            1420,
-            3,
-            6,
-            85,
-            6,
-            3,
-            255,
-            1.5,
-            67.5,
-            3.75,
-            30,
-            15,
-            15,
-            7.5,
-            7.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17385,
-          "recipe_id": 2065,
-          "group_label": "Default",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "186c9644-df5e-46b8-abca-1e49e9355768",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401035000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            120,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            2,
-            946,
-            2,
-            4,
-            57,
-            4,
-            2,
-            170,
-            1,
-            45,
-            2.5,
-            20,
-            10,
-            10,
-            5,
-            5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        },
-        {
-          "id": 17384,
-          "recipe_id": 2065,
-          "group_label": "Default",
-          "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
-          "published_recipe_uuid": "b03afc41-562f-4095-8905-6ed16b0b7102",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1676401035000,
-          "allowed_type_ids": [
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            1,
-            10,
-            2,
-            14
-          ],
-          "ingredient_ids": [
-            33,
-            201,
-            97,
-            24,
-            120,
-            313,
-            150,
-            66,
-            152,
-            131,
-            72,
-            47,
-            82,
-            84,
-            88,
-            89
-          ],
-          "ingredient_amounts": [
-            1,
-            473,
-            1,
-            2,
-            28,
-            2,
-            1,
-            85,
-            0.5,
-            22.5,
-            1.25,
-            10,
-            5,
-            5,
-            2.5,
-            2.5
-          ],
-          "average_rating": 0.903,
-          "rating_count": 18,
-          "variety_tag_ids": [
-            2
-          ],
-          "cuisine_tag_ids": [
-            4
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "This cozy bowl of soup has everything you need... it's comforting, full of nourishing veggies, and finished with just the right amount of cheese",
-        "keywords": [
-          "Soups, Stews & Chilis"
-        ],
-        "cuisine": "Italian",
-        "reviewCount": null,
-        "reviewScore": 4.5
-      }
+  "id": 17373,
+  "recipe_id": 2065,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Italian Sausage Soup with Rotini Pasta, Bell Pepper, Tomato & Spinach",
+  "slug": "italian-sausage-soup-rotini-pasta-bell-pepper-tomato-spinach",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/thumbnail_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2065/presentation_0338b9a5-99d2-49e3-95e3-89caa82cd098.jpeg",
+  "cookwares": [
+    {
+      "id": 10,
+      "name": "can opener",
+      "slug": "can-opener"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "italian-sausage-soup-rotini-pasta-bell-pepper-tomato-spinach",
-    "variantId": "17373"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 15,
+      "name": "grater",
+      "slug": "grater"
+    },
+    {
+      "id": 57,
+      "name": "ladle",
+      "slug": "ladle"
+    },
+    {
+      "id": 78,
+      "name": "large pot",
+      "slug": "large-pot"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 322883,
+      "primary_message": "Peel, halve, and small dice onion. ",
+      "secondary_message": "1 medium yellow onion"
+    },
+    {
+      "id": 322884,
+      "primary_message": "Peel and mince garlic. ",
+      "secondary_message": "4 cloves garlic"
+    },
+    {
+      "id": 322885,
+      "primary_message": "Preheat a large pot over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 322886,
+      "primary_message": "While the pot heats up, use the tip of a knife to slice down the length of each sausage; peel off casings and discard. ",
+      "secondary_message": "4 pork sausages"
+    },
+    {
+      "id": 322887,
+      "primary_message": "Once the pot is hot, add oil and swirl to coat the bottom. Add onion, garlic, sausage, and spices; cook, breaking the meat apart with a spoon, until sausage is brown and crumbly, 5-7 minutes.",
+      "secondary_message": "4 tsp extra virgin olive oil\n2 tsp parsley flakes\n2 tsp oregano, dried\n1 tsp thyme, dried\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 322888,
+      "primary_message": "Meanwhile, wash and dry bell peppers; using a clean cutting board, trim, seed, and small dice. ",
+      "secondary_message": "2 red bell peppers"
+    },
+    {
+      "id": 322889,
+      "primary_message": "When the sausage is done, add bell pepper to the pot and stir to combine. Continue to cook, stirring occasionally, until starting to soften, 3-4 minutes more.",
+      "secondary_message": null
+    },
+    {
+      "id": 322890,
+      "primary_message": "Add broth, tomatoes, water, pasta, and vinegar to the pot; stir to combine. Cover and bring to a boil; once boiling, reduce heat to medium, and simmer until pasta is cooked through, about 8 minutes.",
+      "secondary_message": "32 fl oz (4 cups) chicken or vegetable broth\n2 (14.5 oz) cans diced tomatoes\n2 cup water\n6 oz rotini pasta\n3 tbsp balsamic vinegar"
+    },
+    {
+      "id": 322891,
+      "primary_message": "While the soup is simmering, wash and dry the spinach (skip this step if the spinach came pre-washed), then roughly chop.",
+      "secondary_message": "2 (5 oz) pkgs baby spinach"
+    },
+    {
+      "id": 322892,
+      "primary_message": "Finely grate Parmesan.",
+      "secondary_message": "2 oz Parmesan cheese"
+    },
+    {
+      "id": 322893,
+      "primary_message": "Add spinach to the soup in handfuls, waiting for the spinach to wilt slightly before adding the next handful. Stir to combine and remove from heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 322894,
+      "primary_message": "To serve, divide the soup between bowls and top with Parmesan. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 343763,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "baby spinach"
+    },
+    {
+      "id": 343776,
+      "quantity": "32 fl oz",
+      "ingredient_name": "chicken or vegetable broth"
+    },
+    {
+      "id": 343771,
+      "quantity": "2 (14.5 oz) cans",
+      "ingredient_name": "diced tomatoes"
+    },
+    {
+      "id": 343762,
+      "quantity": "4 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 343772,
+      "quantity": "2 oz",
+      "ingredient_name": "Parmesan cheese"
+    },
+    {
+      "id": 343777,
+      "quantity": "4",
+      "ingredient_name": "pork sausages"
+    },
+    {
+      "id": 343774,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 343765,
+      "quantity": "6 oz",
+      "ingredient_name": "rotini pasta"
+    },
+    {
+      "id": 343775,
+      "quantity": "1 medium",
+      "ingredient_name": "yellow onion"
+    },
+    {
+      "id": 343773,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 343766,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 343764,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 343767,
+      "quantity": "",
+      "ingredient_name": "oregano, dried"
+    },
+    {
+      "id": 343768,
+      "quantity": "",
+      "ingredient_name": "parsley flakes"
+    },
+    {
+      "id": 343769,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 343770,
+      "quantity": "",
+      "ingredient_name": "thyme, dried"
+    }
+  ],
+  "nutrition": {
+    "energy": 699.31,
+    "alcohol": 0,
+    "ash": 9.1,
+    "caffeine": 0,
+    "water": 642.81,
+    "carbs": 54.94,
+    "fiber": 9.05,
+    "starch": 27.94,
+    "sugars": 12.66,
+    "fructose": 5.48,
+    "galactose": 0.07,
+    "glucose": 5.57,
+    "lactose": 0.11,
+    "maltose": 0.83,
+    "sucrose": 0.58,
+    "sugar_alcohol": 0,
+    "fat": 37.24,
+    "monounsaturated": 16.52,
+    "polyunsaturated": 4.91,
+    "omega_3": 0.25,
+    "omega_6": 4.36,
+    "saturated": 12.01,
+    "transfats": 0.25,
+    "cholesterol": 86.08,
+    "protein": 38.24,
+    "alanine": 1.81,
+    "arginine": 1.98,
+    "aspartic_acid": 3.22,
+    "cystine": 0.46,
+    "glutamic_acid": 7.74,
+    "glycine": 1.77,
+    "histidine": 1.08,
+    "isoleucine": 1.59,
+    "leucine": 2.74,
+    "lysine": 2.6,
+    "methionine": 0.81,
+    "phenylalanine": 1.55,
+    "proline": 2.45,
+    "serine": 1.59,
+    "threonine": 1.52,
+    "tryptophan": 0.4,
+    "tyrosine": 1.2,
+    "valine": 1.75,
+    "b1_thiamine": 1.94,
+    "b2_riboflavin": 0.79,
+    "b3_niacin": 14.88,
+    "b5_pantothenic_acid": 1.76,
+    "b6_pyridoxine": 1.02,
+    "b12_cobalamin": 1.49,
+    "choline": 119.81,
+    "folate": 293.73,
+    "vitamin_a": 1064.87,
+    "vitamin_c": 125.9,
+    "vitamin_d": 27.26,
+    "vitamin_e": 4.97,
+    "vitamin_k": 358.93,
+    "calcium": 189.88,
+    "copper": 0.58,
+    "iron": 7.41,
+    "magnesium": 138.94,
+    "manganese": 1.6,
+    "phosphorus": 504.69,
+    "potassium": 1571.58,
+    "selenium": 32.94,
+    "sodium": 844.61,
+    "zinc": 4.04
+  }
 }

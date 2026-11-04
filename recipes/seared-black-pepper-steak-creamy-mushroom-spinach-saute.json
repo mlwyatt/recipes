@@ -1,1012 +1,225 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 24869,
-        "recipe_id": 2792,
-        "serving_count": 4,
-        "cooking_minutes": 25,
-        "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
-        "slug": "seared-black-pepper-steak-creamy-mushroom-spinach-saute",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 400520,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 400521,
-            "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n1 tsp black pepper"
-          },
-          {
-            "id": 400522,
-            "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer steak to a clean plate, loosely cover with aluminum foil, and set aside to rest. ",
-            "secondary_message": "4 tsp butter, unsalted"
-          },
-          {
-            "id": 400523,
-            "primary_message": "Meanwhile, place spinach in a colander and rinse under hot, running water (from the tap) to defrost; set aside to drain further.",
-            "secondary_message": "1 (16oz) bag frozen chopped spinach"
-          },
-          {
-            "id": 400524,
-            "primary_message": "Peel and mince shallots.",
-            "secondary_message": "2 shallots"
-          },
-          {
-            "id": 400525,
-            "primary_message": "When the steak is done, wipe the skillet clean with paper towels. Return to medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 400526,
-            "primary_message": "Once the skillet is hot, add more butter and swirl to coat the bottom. Add shallot and mushrooms; cook, stirring occasionally, until mushrooms soften, 2-3 minutes. ",
-            "secondary_message": "2 tsp butter, unsalted\n2 (8 oz) pkg sliced white mushrooms"
-          },
-          {
-            "id": 400527,
-            "primary_message": "Add spinach, cream, and spices to the skillet; stir to combine and bring to a simmer. Once simmering, reduce heat to low and cook until spinach is warmed through and sauce thickens slightly, 1-2 minutes. Remove from heat. ",
-            "secondary_message": "8 fl oz (1 cup) heavy whipping cream\n1 tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 400528,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": null
-          },
-          {
-            "id": 400529,
-            "primary_message": "To serve, divide steak and creamy veggie sauté between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 428008,
-            "quantity": "1 (16oz) bag",
-            "ingredient_name": "frozen chopped spinach"
-          },
-          {
-            "id": 428007,
-            "quantity": "8 fl oz",
-            "ingredient_name": "heavy whipping cream"
-          },
-          {
-            "id": 428005,
-            "quantity": "2",
-            "ingredient_name": "shallots"
-          },
-          {
-            "id": 428009,
-            "quantity": "2 (8 oz) pkg",
-            "ingredient_name": "sliced white mushrooms"
-          },
-          {
-            "id": 428006,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "striploin (New York strip) steak"
-          },
-          {
-            "id": 428001,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 428004,
-            "quantity": "",
-            "ingredient_name": "butter, unsalted"
-          },
-          {
-            "id": 428002,
-            "quantity": "",
-            "ingredient_name": "garlic powder"
-          },
-          {
-            "id": 428003,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 683.75,
-          "alcohol": 0,
-          "ash": 6.9,
-          "caffeine": 0,
-          "water": 362.79,
-          "carbs": 14.23,
-          "fiber": 6.04,
-          "starch": 0.72,
-          "sugars": 5.62,
-          "fructose": 0.3,
-          "galactose": 0,
-          "glucose": 2.05,
-          "lactose": 1.7,
-          "maltose": 0,
-          "sucrose": 1.12,
-          "sugar_alcohol": 0,
-          "fat": 51.99,
-          "monounsaturated": 18.86,
-          "polyunsaturated": 2.79,
-          "omega_3": 0.83,
-          "omega_6": 1.97,
-          "saturated": 27.32,
-          "transfats": 2.38,
-          "cholesterol": 200.75,
-          "protein": 45.84,
-          "alanine": 2.77,
-          "arginine": 3.17,
-          "aspartic_acid": 4.34,
-          "cystine": 0.42,
-          "glutamic_acid": 7.2,
-          "glycine": 2.18,
-          "histidine": 1.49,
-          "isoleucine": 2,
-          "leucine": 3.6,
-          "lysine": 3.94,
-          "methionine": 1.1,
-          "phenylalanine": 1.85,
-          "proline": 2.09,
-          "serine": 1.86,
-          "threonine": 2.13,
-          "tryptophan": 0.58,
-          "tyrosine": 1.71,
-          "valine": 2.37,
-          "b1_thiamine": 0.29,
-          "b2_riboflavin": 1.04,
-          "b3_niacin": 15.35,
-          "b5_pantothenic_acid": 2.59,
-          "b6_pyridoxine": 1.28,
-          "b12_cobalamin": 2.94,
-          "choline": 152.01,
-          "folate": 169.6,
-          "vitamin_a": 14592.39,
-          "vitamin_c": 6.37,
-          "vitamin_d": 27.41,
-          "vitamin_e": 5.24,
-          "vitamin_k": 619.96,
-          "calcium": 254.29,
-          "copper": 0.64,
-          "iron": 6.3,
-          "magnesium": 129.44,
-          "manganese": 1.02,
-          "phosphorus": 524.01,
-          "potassium": 1227.36,
-          "selenium": 49.89,
-          "sodium": 217.21,
-          "zinc": 7.08
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/seared-black-pepper-steak-creamy-mushroom-spinach-saute/24869",
-      "altVariants": [
-        {
-          "id": 24868,
-          "recipe_id": 2792,
-          "group_label": "Default",
-          "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "published_recipe_uuid": "d1ba928c-cd31-4fe4-b1a3-bc73b6b0fa29",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663030000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            144,
-            450,
-            279,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            1,
-            1,
-            0.75,
-            3.125,
-            15,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24871,
-          "recipe_id": 2792,
-          "group_label": "Vegetarian",
-          "name": "Seared Veggie Sausage with Creamy Mushroom-Spinach Sauté",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24871/thumbnail_17558bae-9d92-4484-8943-41bba8a38934.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24871/presentation_17558bae-9d92-4484-8943-41bba8a38934.jpeg",
-          "published_recipe_uuid": "c6b9399a-6998-4680-8142-e0c86eb47e2f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663029000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            345,
-            144,
-            450,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            4,
-            2,
-            1,
-            1,
-            1.25,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24870,
-          "recipe_id": 2792,
-          "group_label": "Default",
-          "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "published_recipe_uuid": "d2e95c6b-fb6d-4fee-b56b-baf53fef349a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663030000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            184,
-            450,
-            279,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            0.5,
-            3,
-            2.25,
-            10,
-            45,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24869,
-          "recipe_id": 2792,
-          "group_label": "Default",
-          "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "published_recipe_uuid": "a18821cf-d0dd-4203-968f-26df9e6771bb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663030000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            144,
-            450,
-            279,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            2,
-            2,
-            1.5,
-            6.25,
-            30,
-            5,
-            7.5
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24872,
-          "recipe_id": 2792,
-          "group_label": "Vegetarian",
-          "name": "Seared Veggie Sausage with Creamy Mushroom-Spinach Sauté",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24872/thumbnail_2738c30a-59ff-4bb5-9aa1-c2c4dd7e7582.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24872/presentation_2738c30a-59ff-4bb5-9aa1-c2c4dd7e7582.jpeg",
-          "published_recipe_uuid": "5fe8f55b-4da0-4a55-a2fe-9c977d31f16b",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663029000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            345,
-            144,
-            450,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            8,
-            4,
-            2,
-            2,
-            2.5,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24873,
-          "recipe_id": 2792,
-          "group_label": "Vegetarian",
-          "name": "Seared Veggie Sausage with Creamy Mushroom-Spinach Sauté",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24873/thumbnail_6e35c5e5-2020-433d-838a-844ee3c33b0a.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24873/presentation_6e35c5e5-2020-433d-838a-844ee3c33b0a.jpeg",
-          "published_recipe_uuid": "71d1eb2f-d288-493a-b433-4cc1746b7044",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663029000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            345,
-            184,
-            450,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            12,
-            6,
-            0.5,
-            3,
-            3.75,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24879,
-          "recipe_id": 2792,
-          "group_label": "Vegetarian",
-          "name": "Seared Veggie Sausage with Creamy Mushroom-Spinach Sauté",
-          "position": 5,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24879/thumbnail_6299f0a2-b2c6-465f-abab-338e686931b0.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24879/presentation_6299f0a2-b2c6-465f-abab-338e686931b0.jpeg",
-          "published_recipe_uuid": "6f8712ce-a983-4d4b-b5ac-138b565f0979",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663027000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            345,
-            184,
-            450,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            355,
-            6,
-            0.5,
-            3,
-            3.75,
-            45,
-            7.5,
-            3.75
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24878,
-          "recipe_id": 2792,
-          "group_label": "Vegetarian",
-          "name": "Seared Veggie Sausage with Creamy Mushroom-Spinach Sauté",
-          "position": 4,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24878/thumbnail_a8eb3fda-69b8-4697-98bb-7e462755c68f.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24878/presentation_a8eb3fda-69b8-4697-98bb-7e462755c68f.jpeg",
-          "published_recipe_uuid": "fa450660-cbb9-4edc-849f-5c59477b7c98",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663027000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            345,
-            144,
-            450,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            237,
-            4,
-            2,
-            2,
-            2.5,
-            30,
-            5,
-            2.5
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24877,
-          "recipe_id": 2792,
-          "group_label": "Vegetarian",
-          "name": "Seared Veggie Sausage with Creamy Mushroom-Spinach Sauté",
-          "position": 3,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24877/thumbnail_e77704ff-7447-4ecb-a51d-6327d30c8dd3.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24877/presentation_e77704ff-7447-4ecb-a51d-6327d30c8dd3.jpeg",
-          "published_recipe_uuid": "74fa9f45-06b0-4c75-bae3-60a170d5fbf5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663028000,
-          "allowed_type_ids": [
-            4,
-            7,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            345,
-            144,
-            450,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            118,
-            2,
-            1,
-            1,
-            1.25,
-            15,
-            2.5,
-            1.25
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24876,
-          "recipe_id": 2792,
-          "group_label": "Default",
-          "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "published_recipe_uuid": "30d0532c-e7b8-4cc6-af38-2900a51a88dc",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663028000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            184,
-            450,
-            279,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1.5,
-            355,
-            0.5,
-            3,
-            1.02,
-            10,
-            45,
-            7.5,
-            11.25
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24875,
-          "recipe_id": 2792,
-          "group_label": "Default",
-          "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "published_recipe_uuid": "c1ab4635-61da-481a-b492-4097e28252c5",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663029000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            144,
-            450,
-            279,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            237,
-            2,
-            2,
-            0.68,
-            6.25,
-            30,
-            5,
-            7.5
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        },
-        {
-          "id": 24874,
-          "recipe_id": 2792,
-          "group_label": "Default",
-          "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
-          "published_recipe_uuid": "0671a0f6-ac67-4e21-be91-47d63462725c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1683663029000,
-          "allowed_type_ids": [
-            7,
-            8,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2
-          ],
-          "ingredient_ids": [
-            449,
-            316,
-            144,
-            450,
-            279,
-            72,
-            115,
-            79,
-            88
-          ],
-          "ingredient_amounts": [
-            0.5,
-            118,
-            1,
-            1,
-            0.34,
-            3.125,
-            15,
-            2.5,
-            3.75
-          ],
-          "average_rating": 0.726,
-          "rating_count": 42,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-            5
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Pour yourself a glass of red and enjoy a perfectly seared steak served with a creamy spinach and mushroom side",
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "American",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 24869,
+  "recipe_id": 2792,
+  "serving_count": 4,
+  "cooking_minutes": 25,
+  "name": "Seared Black Pepper Steak with Creamy Mushroom-Spinach Sauté",
+  "slug": "seared-black-pepper-steak-creamy-mushroom-spinach-saute",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/thumbnail_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2792/presentation_e37ff7ec-b450-455a-b0c8-a7831ac77673.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "seared-black-pepper-steak-creamy-mushroom-spinach-saute",
-    "variantId": "24869"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 400520,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 400521,
+      "primary_message": "While the skillet heats up, pat the steak dry with paper towels and place on a plate. Season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb striploin (New York strip) steak\n1 tsp salt\n1 tsp black pepper"
+    },
+    {
+      "id": 400522,
+      "primary_message": "Once the skillet is hot, add butter and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer steak to a clean plate, loosely cover with aluminum foil, and set aside to rest. ",
+      "secondary_message": "4 tsp butter, unsalted"
+    },
+    {
+      "id": 400523,
+      "primary_message": "Meanwhile, place spinach in a colander and rinse under hot, running water (from the tap) to defrost; set aside to drain further.",
+      "secondary_message": "1 (16oz) bag frozen chopped spinach"
+    },
+    {
+      "id": 400524,
+      "primary_message": "Peel and mince shallots.",
+      "secondary_message": "2 shallots"
+    },
+    {
+      "id": 400525,
+      "primary_message": "When the steak is done, wipe the skillet clean with paper towels. Return to medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 400526,
+      "primary_message": "Once the skillet is hot, add more butter and swirl to coat the bottom. Add shallot and mushrooms; cook, stirring occasionally, until mushrooms soften, 2-3 minutes. ",
+      "secondary_message": "2 tsp butter, unsalted\n2 (8 oz) pkg sliced white mushrooms"
+    },
+    {
+      "id": 400527,
+      "primary_message": "Add spinach, cream, and spices to the skillet; stir to combine and bring to a simmer. Once simmering, reduce heat to low and cook until spinach is warmed through and sauce thickens slightly, 1-2 minutes. Remove from heat. ",
+      "secondary_message": "8 fl oz (1 cup) heavy whipping cream\n1 tsp garlic powder\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 400528,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": null
+    },
+    {
+      "id": 400529,
+      "primary_message": "To serve, divide steak and creamy veggie sauté between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 428008,
+      "quantity": "1 (16oz) bag",
+      "ingredient_name": "frozen chopped spinach"
+    },
+    {
+      "id": 428007,
+      "quantity": "8 fl oz",
+      "ingredient_name": "heavy whipping cream"
+    },
+    {
+      "id": 428005,
+      "quantity": "2",
+      "ingredient_name": "shallots"
+    },
+    {
+      "id": 428009,
+      "quantity": "2 (8 oz) pkg",
+      "ingredient_name": "sliced white mushrooms"
+    },
+    {
+      "id": 428006,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "striploin (New York strip) steak"
+    },
+    {
+      "id": 428001,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 428004,
+      "quantity": "",
+      "ingredient_name": "butter, unsalted"
+    },
+    {
+      "id": 428002,
+      "quantity": "",
+      "ingredient_name": "garlic powder"
+    },
+    {
+      "id": 428003,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 683.75,
+    "alcohol": 0,
+    "ash": 6.9,
+    "caffeine": 0,
+    "water": 362.79,
+    "carbs": 14.23,
+    "fiber": 6.04,
+    "starch": 0.72,
+    "sugars": 5.62,
+    "fructose": 0.3,
+    "galactose": 0,
+    "glucose": 2.05,
+    "lactose": 1.7,
+    "maltose": 0,
+    "sucrose": 1.12,
+    "sugar_alcohol": 0,
+    "fat": 51.99,
+    "monounsaturated": 18.86,
+    "polyunsaturated": 2.79,
+    "omega_3": 0.83,
+    "omega_6": 1.97,
+    "saturated": 27.32,
+    "transfats": 2.38,
+    "cholesterol": 200.75,
+    "protein": 45.84,
+    "alanine": 2.77,
+    "arginine": 3.17,
+    "aspartic_acid": 4.34,
+    "cystine": 0.42,
+    "glutamic_acid": 7.2,
+    "glycine": 2.18,
+    "histidine": 1.49,
+    "isoleucine": 2,
+    "leucine": 3.6,
+    "lysine": 3.94,
+    "methionine": 1.1,
+    "phenylalanine": 1.85,
+    "proline": 2.09,
+    "serine": 1.86,
+    "threonine": 2.13,
+    "tryptophan": 0.58,
+    "tyrosine": 1.71,
+    "valine": 2.37,
+    "b1_thiamine": 0.29,
+    "b2_riboflavin": 1.04,
+    "b3_niacin": 15.35,
+    "b5_pantothenic_acid": 2.59,
+    "b6_pyridoxine": 1.28,
+    "b12_cobalamin": 2.94,
+    "choline": 152.01,
+    "folate": 169.6,
+    "vitamin_a": 14592.39,
+    "vitamin_c": 6.37,
+    "vitamin_d": 27.41,
+    "vitamin_e": 5.24,
+    "vitamin_k": 619.96,
+    "calcium": 254.29,
+    "copper": 0.64,
+    "iron": 6.3,
+    "magnesium": 129.44,
+    "manganese": 1.02,
+    "phosphorus": 524.01,
+    "potassium": 1227.36,
+    "selenium": 49.89,
+    "sodium": 217.21,
+    "zinc": 7.08
+  }
 }

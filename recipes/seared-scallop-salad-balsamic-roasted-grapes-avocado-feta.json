@@ -1,717 +1,260 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 24683,
-        "recipe_id": 2773,
-        "serving_count": 4,
-        "cooking_minutes": 35,
-        "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
-        "slug": "seared-scallop-salad-balsamic-roasted-grapes-avocado-feta",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 83,
-            "name": "baking dish",
-            "slug": "baking-dish"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 398538,
-            "primary_message": "Preheat oven to 400°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 398539,
-            "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
-            "secondary_message": "1 lb red grapes\n1 English cucumber\n2 avocados\n2 (5 oz) pkgs spring mix (mixed greens)"
-          },
-          {
-            "id": 398540,
-            "primary_message": "Transfer grapes to a large baking dish; drizzle with oil and vinegar, then season with salt. Toss to coat and spread out in an even layer. ",
-            "secondary_message": "4 tsp extra virgin olive oil\n4 tsp balsamic vinegar\n⅛ tsp salt"
-          },
-          {
-            "id": 398541,
-            "primary_message": "Place baking dish in the oven (it doesn't have to be fully heated) and roast until grapes begin to swell, about 15 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 398542,
-            "primary_message": "Meanwhile, peel and mince shallot. Place in a large bowl along with oil, vinegar, Dijon, salt, and pepper; whisk to combine the dressing.",
-            "secondary_message": "1 shallot\n2 tbsp extra virgin olive oil\n4 tsp balsamic vinegar\n2 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 398543,
-            "primary_message": "Trim and halve cucumber lengthwise, then cut crosswise into thin half-moons. Add to the bowl with the dressing and set aside.",
-            "secondary_message": null
-          },
-          {
-            "id": 398544,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 398545,
-            "primary_message": "While the skillet heats up, pat scallops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
-            "secondary_message": "1 ½ lb sea scallops\n½ tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 398546,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add scallops in a single layer and cook until they develop a nice sear and are opaque throughout, 1½-2 minutes per side. Once done, transfer to a clean plate and loosely cover with aluminum foil.",
-            "secondary_message": "2 tbsp extra virgin olive oil"
-          },
-          {
-            "id": 398547,
-            "primary_message": "When the grapes are done, remove from oven and set aside to cool slightly, 5 minutes.",
-            "secondary_message": null
-          },
-          {
-            "id": 398548,
-            "primary_message": "While the grapes are cooling, halve and pit avocados; using a spoon, scoop out the flesh and medium dice. Add to the bowl with the dressing along with the mixed greens and feta; toss to combine the salad.",
-            "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
-          },
-          {
-            "id": 398549,
-            "primary_message": "To serve, divide salad between plates or bowls; top with grapes and scallops. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 425919,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 425910,
-            "quantity": "1 (4 oz) pkg",
-            "ingredient_name": "crumbled feta cheese"
-          },
-          {
-            "id": 425918,
-            "quantity": "1",
-            "ingredient_name": "English cucumber"
-          },
-          {
-            "id": 425920,
-            "quantity": "1 lb",
-            "ingredient_name": "red grapes"
-          },
-          {
-            "id": 425921,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "sea scallops"
-          },
-          {
-            "id": 425916,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 425917,
-            "quantity": "2 (5 oz) pkgs",
-            "ingredient_name": "spring mix (mixed greens)"
-          },
-          {
-            "id": 425915,
-            "quantity": "",
-            "ingredient_name": "balsamic vinegar"
-          },
-          {
-            "id": 425912,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 425914,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 425911,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 425913,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 634.23,
-          "alcohol": 0,
-          "ash": 9.55,
-          "caffeine": 0,
-          "water": 475.15,
-          "carbs": 44.14,
-          "fiber": 10.44,
-          "starch": 4.66,
-          "sugars": 23.48,
-          "fructose": 11.15,
-          "galactose": 0.12,
-          "glucose": 10.27,
-          "lactose": 1.16,
-          "maltose": 0.01,
-          "sucrose": 0.71,
-          "sugar_alcohol": 0,
-          "fat": 40.45,
-          "monounsaturated": 24.68,
-          "polyunsaturated": 4.33,
-          "omega_3": 0.64,
-          "omega_6": 3.71,
-          "saturated": 9.24,
-          "transfats": 0.34,
-          "cholesterol": 65.97,
-          "protein": 29.31,
-          "alanine": 1.32,
-          "arginine": 1.58,
-          "aspartic_acid": 2.25,
-          "cystine": 0.28,
-          "glutamic_acid": 3.83,
-          "glycine": 1.99,
-          "histidine": 0.54,
-          "isoleucine": 1.09,
-          "leucine": 1.9,
-          "lysine": 1.86,
-          "methionine": 0.66,
-          "phenylalanine": 0.99,
-          "proline": 1.15,
-          "serine": 1.15,
-          "threonine": 0.98,
-          "tryptophan": 0.28,
-          "tyrosine": 0.8,
-          "valine": 1.17,
-          "b1_thiamine": 0.28,
-          "b2_riboflavin": 0.57,
-          "b3_niacin": 3.84,
-          "b5_pantothenic_acid": 2.51,
-          "b6_pyridoxine": 0.72,
-          "b12_cobalamin": 2.88,
-          "choline": 151.29,
-          "folate": 204.79,
-          "vitamin_a": 454.6,
-          "vitamin_c": 23.7,
-          "vitamin_d": 6.22,
-          "vitamin_e": 5.45,
-          "vitamin_k": 199.71,
-          "calcium": 228.37,
-          "copper": 0.48,
-          "iron": 3.2,
-          "magnesium": 112.54,
-          "manganese": 0.72,
-          "phosphorus": 788.38,
-          "potassium": 1428.53,
-          "selenium": 27.87,
-          "sodium": 962,
-          "zinc": 3.57
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/seared-scallop-salad-balsamic-roasted-grapes-avocado-feta/24683",
-      "altVariants": [
-        {
-          "id": 24684,
-          "recipe_id": 2773,
-          "group_label": "Default",
-          "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "published_recipe_uuid": "956e3222-355d-41bd-b7e6-ff8d7585d8fb",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682454561000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            32,
-            155,
-            224,
-            326,
-            144,
-            145,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            1.5,
-            2.25,
-            2,
-            3,
-            60,
-            6.25,
-            15,
-            120,
-            8.4375
-          ],
-          "average_rating": 0.8,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Jammy roasted balsamic grapes are the perfect burst of sweetness to pair with juicy seared scallops in this delightful green salad"
-        },
-        {
-          "id": 24682,
-          "recipe_id": 2773,
-          "group_label": "Default",
-          "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "published_recipe_uuid": "29d06a68-28ab-4c98-b149-288fa01b169a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682454561000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            32,
-            155,
-            224,
-            326,
-            144,
-            145,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.5,
-            0.75,
-            0.5,
-            1,
-            20,
-            1.875,
-            5,
-            40,
-            2.8125
-          ],
-          "average_rating": 0.8,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Jammy roasted balsamic grapes are the perfect burst of sweetness to pair with juicy seared scallops in this delightful green salad"
-        },
-        {
-          "id": 24683,
-          "recipe_id": 2773,
-          "group_label": "Default",
-          "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "published_recipe_uuid": "bb346261-afbc-4a22-bca8-ad2bb771268f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682454561000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            32,
-            155,
-            224,
-            326,
-            144,
-            145,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            1,
-            1.5,
-            1,
-            2,
-            40,
-            3.75,
-            10,
-            80,
-            5.625
-          ],
-          "average_rating": 0.8,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Jammy roasted balsamic grapes are the perfect burst of sweetness to pair with juicy seared scallops in this delightful green salad"
-        },
-        {
-          "id": 24687,
-          "recipe_id": 2773,
-          "group_label": "Default",
-          "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "published_recipe_uuid": "96b566e7-4db4-4fea-bb62-920f5aed5001",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682454560000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            32,
-            155,
-            224,
-            326,
-            144,
-            145,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            1.5,
-            0.68,
-            1.02,
-            2,
-            3,
-            60,
-            6.25,
-            15,
-            120,
-            8.4375
-          ],
-          "average_rating": 0.8,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Jammy roasted balsamic grapes are the perfect burst of sweetness to pair with juicy seared scallops in this delightful green salad"
-        },
-        {
-          "id": 24686,
-          "recipe_id": 2773,
-          "group_label": "Default",
-          "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "published_recipe_uuid": "1cd34887-e10a-449a-acd1-62e55df72c4a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682454560000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            32,
-            155,
-            224,
-            326,
-            144,
-            145,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            1,
-            0.45,
-            0.68,
-            1,
-            2,
-            40,
-            3.75,
-            10,
-            80,
-            5.625
-          ],
-          "average_rating": 0.8,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Jammy roasted balsamic grapes are the perfect burst of sweetness to pair with juicy seared scallops in this delightful green salad"
-        },
-        {
-          "id": 24685,
-          "recipe_id": 2773,
-          "group_label": "Default",
-          "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
-          "published_recipe_uuid": "46234a90-209e-447e-85df-601f4ac71c9c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1682454561000,
-          "allowed_type_ids": [
-            4,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            2,
-            14,
-            13,
-            4
-          ],
-          "ingredient_ids": [
-            183,
-            32,
-            155,
-            224,
-            326,
-            144,
-            145,
-            131,
-            72,
-            117,
-            47,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            0.5,
-            0.23,
-            0.34,
-            0.5,
-            1,
-            20,
-            1.875,
-            5,
-            40,
-            2.8125
-          ],
-          "average_rating": 0.8,
-          "rating_count": 5,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "Jammy roasted balsamic grapes are the perfect burst of sweetness to pair with juicy seared scallops in this delightful green salad"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "Jammy roasted balsamic grapes are the perfect burst of sweetness to pair with juicy seared scallops in this delightful green salad",
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 24683,
+  "recipe_id": 2773,
+  "serving_count": 4,
+  "cooking_minutes": 35,
+  "name": "Seared Scallop Salad with Balsamic Roasted Grapes, Avocado & Feta",
+  "slug": "seared-scallop-salad-balsamic-roasted-grapes-avocado-feta",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/thumbnail_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2773/presentation_551f2fbf-9ed1-4b7f-8b2b-69999dc68ccb.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "seared-scallop-salad-balsamic-roasted-grapes-avocado-feta",
-    "variantId": "24683"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 83,
+      "name": "baking dish",
+      "slug": "baking-dish"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 398538,
+      "primary_message": "Preheat oven to 400°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 398539,
+      "primary_message": "Wash and dry the fresh produce. (Skip the mixed greens if they came pre-washed.)",
+      "secondary_message": "1 lb red grapes\n1 English cucumber\n2 avocados\n2 (5 oz) pkgs spring mix (mixed greens)"
+    },
+    {
+      "id": 398540,
+      "primary_message": "Transfer grapes to a large baking dish; drizzle with oil and vinegar, then season with salt. Toss to coat and spread out in an even layer. ",
+      "secondary_message": "4 tsp extra virgin olive oil\n4 tsp balsamic vinegar\n⅛ tsp salt"
+    },
+    {
+      "id": 398541,
+      "primary_message": "Place baking dish in the oven (it doesn't have to be fully heated) and roast until grapes begin to swell, about 15 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 398542,
+      "primary_message": "Meanwhile, peel and mince shallot. Place in a large bowl along with oil, vinegar, Dijon, salt, and pepper; whisk to combine the dressing.",
+      "secondary_message": "1 shallot\n2 tbsp extra virgin olive oil\n4 tsp balsamic vinegar\n2 tsp Dijon mustard\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 398543,
+      "primary_message": "Trim and halve cucumber lengthwise, then cut crosswise into thin half-moons. Add to the bowl with the dressing and set aside.",
+      "secondary_message": null
+    },
+    {
+      "id": 398544,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 398545,
+      "primary_message": "While the skillet heats up, pat scallops dry with paper towels and place on a plate; season with salt and pepper on both sides.",
+      "secondary_message": "1 ½ lb sea scallops\n½ tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 398546,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add scallops in a single layer and cook until they develop a nice sear and are opaque throughout, 1½-2 minutes per side. Once done, transfer to a clean plate and loosely cover with aluminum foil.",
+      "secondary_message": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "id": 398547,
+      "primary_message": "When the grapes are done, remove from oven and set aside to cool slightly, 5 minutes.",
+      "secondary_message": null
+    },
+    {
+      "id": 398548,
+      "primary_message": "While the grapes are cooling, halve and pit avocados; using a spoon, scoop out the flesh and medium dice. Add to the bowl with the dressing along with the mixed greens and feta; toss to combine the salad.",
+      "secondary_message": "1 (4 oz) pkg crumbled feta cheese"
+    },
+    {
+      "id": 398549,
+      "primary_message": "To serve, divide salad between plates or bowls; top with grapes and scallops. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 425919,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 425910,
+      "quantity": "1 (4 oz) pkg",
+      "ingredient_name": "crumbled feta cheese"
+    },
+    {
+      "id": 425918,
+      "quantity": "1",
+      "ingredient_name": "English cucumber"
+    },
+    {
+      "id": 425920,
+      "quantity": "1 lb",
+      "ingredient_name": "red grapes"
+    },
+    {
+      "id": 425921,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "sea scallops"
+    },
+    {
+      "id": 425916,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 425917,
+      "quantity": "2 (5 oz) pkgs",
+      "ingredient_name": "spring mix (mixed greens)"
+    },
+    {
+      "id": 425915,
+      "quantity": "",
+      "ingredient_name": "balsamic vinegar"
+    },
+    {
+      "id": 425912,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 425914,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 425911,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 425913,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 634.23,
+    "alcohol": 0,
+    "ash": 9.55,
+    "caffeine": 0,
+    "water": 475.15,
+    "carbs": 44.14,
+    "fiber": 10.44,
+    "starch": 4.66,
+    "sugars": 23.48,
+    "fructose": 11.15,
+    "galactose": 0.12,
+    "glucose": 10.27,
+    "lactose": 1.16,
+    "maltose": 0.01,
+    "sucrose": 0.71,
+    "sugar_alcohol": 0,
+    "fat": 40.45,
+    "monounsaturated": 24.68,
+    "polyunsaturated": 4.33,
+    "omega_3": 0.64,
+    "omega_6": 3.71,
+    "saturated": 9.24,
+    "transfats": 0.34,
+    "cholesterol": 65.97,
+    "protein": 29.31,
+    "alanine": 1.32,
+    "arginine": 1.58,
+    "aspartic_acid": 2.25,
+    "cystine": 0.28,
+    "glutamic_acid": 3.83,
+    "glycine": 1.99,
+    "histidine": 0.54,
+    "isoleucine": 1.09,
+    "leucine": 1.9,
+    "lysine": 1.86,
+    "methionine": 0.66,
+    "phenylalanine": 0.99,
+    "proline": 1.15,
+    "serine": 1.15,
+    "threonine": 0.98,
+    "tryptophan": 0.28,
+    "tyrosine": 0.8,
+    "valine": 1.17,
+    "b1_thiamine": 0.28,
+    "b2_riboflavin": 0.57,
+    "b3_niacin": 3.84,
+    "b5_pantothenic_acid": 2.51,
+    "b6_pyridoxine": 0.72,
+    "b12_cobalamin": 2.88,
+    "choline": 151.29,
+    "folate": 204.79,
+    "vitamin_a": 454.6,
+    "vitamin_c": 23.7,
+    "vitamin_d": 6.22,
+    "vitamin_e": 5.45,
+    "vitamin_k": 199.71,
+    "calcium": 228.37,
+    "copper": 0.48,
+    "iron": 3.2,
+    "magnesium": 112.54,
+    "manganese": 0.72,
+    "phosphorus": 788.38,
+    "potassium": 1428.53,
+    "selenium": 27.87,
+    "sodium": 962,
+    "zinc": 3.57
+  }
 }

@@ -1,537 +1,170 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 27251,
-        "recipe_id": 3060,
-        "serving_count": 4,
-        "cooking_minutes": 20,
-        "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
-        "slug": "breakfast-quesadilla-peanut-butter-raspberries-maple-syrup",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 18,
-            "name": "spatula",
-            "slug": "spatula"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 438926,
-            "primary_message": "Wash and dry raspberries.",
-            "secondary_message": "2 (6 oz) pkgs raspberries"
-          },
-          {
-            "id": 438927,
-            "primary_message": "Preheat a large skillet over medium heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 438928,
-            "primary_message": "While the skillet heats up, lay tortillas on a flat surface and spread peanut butter on one half of each tortilla. Top with raspberries and drizzle with maple syrup; fold in half to close.",
-            "secondary_message": "4 large flour tortillas\n½ cup natural peanut butter\n2 tsp pure maple syrup"
-          },
-          {
-            "id": 438929,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, place assembled quesadillas in the skillet and cook, flipping halfway through, until golden on both sides, 5-6 minutes. Remove to a plate.",
-            "secondary_message": "4 tsp virgin coconut oil"
-          },
-          {
-            "id": 438930,
-            "primary_message": "To serve, cut each quesadilla into wedges and divide between plates. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 470546,
-            "quantity": "4",
-            "ingredient_name": "large flour tortillas"
-          },
-          {
-            "id": 470547,
-            "quantity": "2 (6 oz) pkgs",
-            "ingredient_name": "raspberries"
-          },
-          {
-            "id": 470543,
-            "quantity": "",
-            "ingredient_name": "natural peanut butter"
-          },
-          {
-            "id": 470544,
-            "quantity": "",
-            "ingredient_name": "pure maple syrup"
-          },
-          {
-            "id": 470545,
-            "quantity": "",
-            "ingredient_name": "virgin coconut oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 470.57,
-          "alcohol": 0,
-          "ash": 3.13,
-          "caffeine": 0,
-          "water": 94.05,
-          "carbs": 51.17,
-          "fiber": 9.57,
-          "starch": 27.85,
-          "sugars": 9.86,
-          "fructose": 2.03,
-          "galactose": 0,
-          "glucose": 1.76,
-          "lactose": 0,
-          "maltose": 2.25,
-          "sucrose": 3.81,
-          "sugar_alcohol": 0,
-          "fat": 25.56,
-          "monounsaturated": 10.57,
-          "polyunsaturated": 6.42,
-          "omega_3": 0.14,
-          "omega_6": 6.25,
-          "saturated": 7.27,
-          "transfats": 0.76,
-          "cholesterol": 0,
-          "protein": 13.73,
-          "alanine": 0.49,
-          "arginine": 1.15,
-          "aspartic_acid": 1.19,
-          "cystine": 0.21,
-          "glutamic_acid": 3.39,
-          "glycine": 0.67,
-          "histidine": 0.32,
-          "isoleucine": 0.46,
-          "leucine": 0.87,
-          "lysine": 0.41,
-          "methionine": 0.19,
-          "phenylalanine": 0.67,
-          "proline": 0.95,
-          "serine": 0.65,
-          "threonine": 0.42,
-          "tryptophan": 0.14,
-          "tyrosine": 0.48,
-          "valine": 0.55,
-          "b1_thiamine": 0.48,
-          "b2_riboflavin": 0.19,
-          "b3_niacin": 7.19,
-          "b5_pantothenic_acid": 0.84,
-          "b6_pyridoxine": 0.16,
-          "b12_cobalamin": 0,
-          "choline": 36.03,
-          "folate": 141.55,
-          "vitamin_a": 28.05,
-          "vitamin_c": 22.27,
-          "vitamin_d": 0,
-          "vitamin_e": 3.84,
-          "vitamin_k": 8.96,
-          "calcium": 108.03,
-          "copper": 0.36,
-          "iron": 3.39,
-          "magnesium": 89.39,
-          "manganese": 1.65,
-          "phosphorus": 259.64,
-          "potassium": 445.53,
-          "selenium": 17.52,
-          "sodium": 428.53,
-          "zinc": 1.83
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/breakfast-quesadilla-peanut-butter-raspberries-maple-syrup/27251",
-      "altVariants": [
-        {
-          "id": 27251,
-          "recipe_id": 3060,
-          "group_label": "Default",
-          "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "published_recipe_uuid": "68db7c58-9fd0-4164-ba66-25fd054516bd",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381276000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5,
-            1
-          ],
-          "ingredient_ids": [
-            187,
-            239,
-            101,
-            104,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            120,
-            10,
-            20
-          ],
-          "average_rating": 0.62,
-          "rating_count": 23,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27250,
-          "recipe_id": 3060,
-          "group_label": "Default",
-          "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "published_recipe_uuid": "82b025d5-f95f-46b3-aed2-b5160bec904c",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381276000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5,
-            1
-          ],
-          "ingredient_ids": [
-            187,
-            239,
-            101,
-            104,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            60,
-            5,
-            10
-          ],
-          "average_rating": 0.62,
-          "rating_count": 23,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27252,
-          "recipe_id": 3060,
-          "group_label": "Default",
-          "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "published_recipe_uuid": "4f058c24-4e98-4d8b-943e-1e3ba413ca34",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381276000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5,
-            1
-          ],
-          "ingredient_ids": [
-            187,
-            239,
-            101,
-            104,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            180,
-            15,
-            30
-          ],
-          "average_rating": 0.62,
-          "rating_count": 23,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27255,
-          "recipe_id": 3060,
-          "group_label": "Default",
-          "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "published_recipe_uuid": "1d573f0d-e195-4db8-a2e3-aafd81e64478",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381275000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5,
-            1
-          ],
-          "ingredient_ids": [
-            187,
-            239,
-            101,
-            104,
-            129
-          ],
-          "ingredient_amounts": [
-            6,
-            3,
-            180,
-            15,
-            30
-          ],
-          "average_rating": 0.62,
-          "rating_count": 23,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27254,
-          "recipe_id": 3060,
-          "group_label": "Default",
-          "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "published_recipe_uuid": "3fcd3333-3214-438f-8556-bb1ed4a24813",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381275000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5,
-            1
-          ],
-          "ingredient_ids": [
-            187,
-            239,
-            101,
-            104,
-            129
-          ],
-          "ingredient_amounts": [
-            4,
-            2,
-            120,
-            10,
-            20
-          ],
-          "average_rating": 0.62,
-          "rating_count": 23,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        },
-        {
-          "id": 27253,
-          "recipe_id": 3060,
-          "group_label": "Default",
-          "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
-          "published_recipe_uuid": "96900c03-2058-4ab1-b25e-315dfb6dfb0a",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1699381275000,
-          "allowed_type_ids": [
-            4,
-            6,
-            1,
-            3,
-            2
-          ],
-          "violated_restriction_ids": [
-            5,
-            1
-          ],
-          "ingredient_ids": [
-            187,
-            239,
-            101,
-            104,
-            129
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            60,
-            5,
-            10
-          ],
-          "average_rating": 0.62,
-          "rating_count": 23,
-          "variety_tag_ids": [
-
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "breakfast",
-          "is_promoted": true,
-          "recipe_category_id": 6,
-          "cooking_tip": null,
-          "blurb": null
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Breakfast",
-        "description": null,
-        "keywords": [
-
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 27251,
+  "recipe_id": 3060,
+  "serving_count": 4,
+  "cooking_minutes": 20,
+  "name": "Breakfast Quesadilla with Peanut Butter, Raspberries & Maple Syrup",
+  "slug": "breakfast-quesadilla-peanut-butter-raspberries-maple-syrup",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/thumbnail_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3060/presentation_6324d155-bc59-4d1b-98c1-f07e98db4b0c.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "breakfast-quesadilla-peanut-butter-raspberries-maple-syrup",
-    "variantId": "27251"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 18,
+      "name": "spatula",
+      "slug": "spatula"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 438926,
+      "primary_message": "Wash and dry raspberries.",
+      "secondary_message": "2 (6 oz) pkgs raspberries"
+    },
+    {
+      "id": 438927,
+      "primary_message": "Preheat a large skillet over medium heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 438928,
+      "primary_message": "While the skillet heats up, lay tortillas on a flat surface and spread peanut butter on one half of each tortilla. Top with raspberries and drizzle with maple syrup; fold in half to close.",
+      "secondary_message": "4 large flour tortillas\n½ cup natural peanut butter\n2 tsp pure maple syrup"
+    },
+    {
+      "id": 438929,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, place assembled quesadillas in the skillet and cook, flipping halfway through, until golden on both sides, 5-6 minutes. Remove to a plate.",
+      "secondary_message": "4 tsp virgin coconut oil"
+    },
+    {
+      "id": 438930,
+      "primary_message": "To serve, cut each quesadilla into wedges and divide between plates. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 470546,
+      "quantity": "4",
+      "ingredient_name": "large flour tortillas"
+    },
+    {
+      "id": 470547,
+      "quantity": "2 (6 oz) pkgs",
+      "ingredient_name": "raspberries"
+    },
+    {
+      "id": 470543,
+      "quantity": "",
+      "ingredient_name": "natural peanut butter"
+    },
+    {
+      "id": 470544,
+      "quantity": "",
+      "ingredient_name": "pure maple syrup"
+    },
+    {
+      "id": 470545,
+      "quantity": "",
+      "ingredient_name": "virgin coconut oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 470.57,
+    "alcohol": 0,
+    "ash": 3.13,
+    "caffeine": 0,
+    "water": 94.05,
+    "carbs": 51.17,
+    "fiber": 9.57,
+    "starch": 27.85,
+    "sugars": 9.86,
+    "fructose": 2.03,
+    "galactose": 0,
+    "glucose": 1.76,
+    "lactose": 0,
+    "maltose": 2.25,
+    "sucrose": 3.81,
+    "sugar_alcohol": 0,
+    "fat": 25.56,
+    "monounsaturated": 10.57,
+    "polyunsaturated": 6.42,
+    "omega_3": 0.14,
+    "omega_6": 6.25,
+    "saturated": 7.27,
+    "transfats": 0.76,
+    "cholesterol": 0,
+    "protein": 13.73,
+    "alanine": 0.49,
+    "arginine": 1.15,
+    "aspartic_acid": 1.19,
+    "cystine": 0.21,
+    "glutamic_acid": 3.39,
+    "glycine": 0.67,
+    "histidine": 0.32,
+    "isoleucine": 0.46,
+    "leucine": 0.87,
+    "lysine": 0.41,
+    "methionine": 0.19,
+    "phenylalanine": 0.67,
+    "proline": 0.95,
+    "serine": 0.65,
+    "threonine": 0.42,
+    "tryptophan": 0.14,
+    "tyrosine": 0.48,
+    "valine": 0.55,
+    "b1_thiamine": 0.48,
+    "b2_riboflavin": 0.19,
+    "b3_niacin": 7.19,
+    "b5_pantothenic_acid": 0.84,
+    "b6_pyridoxine": 0.16,
+    "b12_cobalamin": 0,
+    "choline": 36.03,
+    "folate": 141.55,
+    "vitamin_a": 28.05,
+    "vitamin_c": 22.27,
+    "vitamin_d": 0,
+    "vitamin_e": 3.84,
+    "vitamin_k": 8.96,
+    "calcium": 108.03,
+    "copper": 0.36,
+    "iron": 3.39,
+    "magnesium": 89.39,
+    "manganese": 1.65,
+    "phosphorus": 259.64,
+    "potassium": 445.53,
+    "selenium": 17.52,
+    "sodium": 428.53,
+    "zinc": 1.83
+  }
 }

@@ -1,840 +1,305 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 16197,
-        "recipe_id": 1906,
-        "serving_count": 4,
-        "cooking_minutes": 40,
-        "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
-        "slug": "romaine-salad-crispy-smoked-salmon-egg-lemon-caper-dressing",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-        "cookwares": [
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 37,
-            "name": "citrus juicer (optional)",
-            "slug": "citrus-juicer"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 3,
-            "name": "garlic press (optional)",
-            "slug": "garlic-press"
-          },
-          {
-            "id": 52,
-            "name": "grater (optional)",
-            "slug": "grater"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 14,
-            "name": "small saucepan",
-            "slug": "small-saucepan"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          },
-          {
-            "id": 42,
-            "name": "whisk or fork",
-            "slug": "whisk-or-fork"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 265451,
-            "primary_message": "Place eggs in a small saucepan, cover with water, and bring to a boil. Reduce heat to a simmer and cook for 8 minutes. Drain hot water and add ice or run under cold water to cool.",
-            "secondary_message": "4 eggs"
-          },
-          {
-            "id": 265452,
-            "primary_message": "Meanwhile, wash and dry the fresh produce.",
-            "secondary_message": "1 lemon\n1 bunch radish\n2 tomatoes\n2 avocados\n2 heads romaine lettuce"
-          },
-          {
-            "id": 265453,
-            "primary_message": "Zest and juice lemon into a large bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 265454,
-            "primary_message": "Peel and mince garlic; add to the bowl with the lemon zest.",
-            "secondary_message": "2 cloves garlic"
-          },
-          {
-            "id": 265455,
-            "primary_message": "Mince capers; add to the bowl along with cream, mayo, Dijon, honey, salt, and pepper. Whisk to combine the dressing and set aside.",
-            "secondary_message": "1 tbsp capers\n2 fl oz (¼ cup) heavy whipping cream\n⅓ cup mayonnaise\n4 tsp Dijon mustard\n2 tsp honey\n½ tsp salt\n¼ tsp black pepper"
-          },
-          {
-            "id": 265456,
-            "primary_message": "Preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 265457,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, add smoked salmon slices to the skillet in a single layer; cook, flipping once, until crispy, about 4 minutes. Remove to a paper towel-lined plate and set aside.",
-            "secondary_message": "2 tbsp extra virgin olive oil\n2 (4 oz) pkgs smoked salmon"
-          },
-          {
-            "id": 265458,
-            "primary_message": "Meanwhile, peel, halve, and thinly slice shallot; add to the bowl with the dressing.",
-            "secondary_message": "1 shallot"
-          },
-          {
-            "id": 265459,
-            "primary_message": "Trim and thinly slice radishes; add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 265460,
-            "primary_message": "Medium dice tomatoes and add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 265461,
-            "primary_message": "Halve avocados and remove pits; scoop out the flesh and medium dice. Add to the bowl.",
-            "secondary_message": null
-          },
-          {
-            "id": 265462,
-            "primary_message": "Chop or tear lettuce into bite-sized pieces; add to the bowl and toss to combine the salad.",
-            "secondary_message": null
-          },
-          {
-            "id": 265463,
-            "primary_message": "Peel and slice eggs crosswise into thin rounds. Chop or tear crispy smoked salmon into bite-sized pieces.",
-            "secondary_message": null
-          },
-          {
-            "id": 265464,
-            "primary_message": "To serve, divide salad between plates or bowls; top with eggs and crispy smoked salmon. Enjoy!",
-            "secondary_message": null
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 280036,
-            "quantity": "2",
-            "ingredient_name": "avocados"
-          },
-          {
-            "id": 280026,
-            "quantity": "1 tbsp",
-            "ingredient_name": "capers"
-          },
-          {
-            "id": 280034,
-            "quantity": "4",
-            "ingredient_name": "eggs"
-          },
-          {
-            "id": 280027,
-            "quantity": "2 cloves",
-            "ingredient_name": "garlic"
-          },
-          {
-            "id": 280040,
-            "quantity": "2 fl oz",
-            "ingredient_name": "heavy whipping cream"
-          },
-          {
-            "id": 280037,
-            "quantity": "1",
-            "ingredient_name": "lemon"
-          },
-          {
-            "id": 280042,
-            "quantity": "1 bunch",
-            "ingredient_name": "radish"
-          },
-          {
-            "id": 280028,
-            "quantity": "2 heads",
-            "ingredient_name": "romaine lettuce"
-          },
-          {
-            "id": 280035,
-            "quantity": "1",
-            "ingredient_name": "shallot"
-          },
-          {
-            "id": 280041,
-            "quantity": "2 (4 oz) pkgs",
-            "ingredient_name": "smoked salmon"
-          },
-          {
-            "id": 280038,
-            "quantity": "2",
-            "ingredient_name": "tomatoes"
-          },
-          {
-            "id": 280030,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 280033,
-            "quantity": "",
-            "ingredient_name": "Dijon mustard"
-          },
-          {
-            "id": 280029,
-            "quantity": "",
-            "ingredient_name": "extra virgin olive oil"
-          },
-          {
-            "id": 280032,
-            "quantity": "",
-            "ingredient_name": "honey"
-          },
-          {
-            "id": 280039,
-            "quantity": "",
-            "ingredient_name": "mayonnaise"
-          },
-          {
-            "id": 280031,
-            "quantity": "",
-            "ingredient_name": "salt"
-          }
-        ],
-        "nutrition": {
-          "energy": 655.17,
-          "alcohol": 0.01,
-          "ash": 7.62,
-          "caffeine": 0,
-          "water": 591.28,
-          "carbs": 30.44,
-          "fiber": 15.55,
-          "starch": 3.58,
-          "sugars": 11.9,
-          "fructose": 5.52,
-          "galactose": 0.21,
-          "glucose": 4.65,
-          "lactose": 0.42,
-          "maltose": 0.05,
-          "sucrose": 0.98,
-          "sugar_alcohol": 0,
-          "fat": 52.18,
-          "monounsaturated": 23.41,
-          "polyunsaturated": 14.46,
-          "omega_3": 1.86,
-          "omega_6": 12.31,
-          "saturated": 11.32,
-          "transfats": 0.31,
-          "cholesterol": 210.76,
-          "protein": 23.81,
-          "alanine": 1.31,
-          "arginine": 1.34,
-          "aspartic_acid": 2.53,
-          "cystine": 0.3,
-          "glutamic_acid": 3.68,
-          "glycine": 1.01,
-          "histidine": 0.6,
-          "isoleucine": 1.07,
-          "leucine": 1.82,
-          "lysine": 1.79,
-          "methionine": 0.59,
-          "phenylalanine": 1.09,
-          "proline": 0.93,
-          "serine": 1.21,
-          "threonine": 0.98,
-          "tryptophan": 0.27,
-          "tyrosine": 0.75,
-          "valine": 1.28,
-          "b1_thiamine": 0.38,
-          "b2_riboflavin": 0.67,
-          "b3_niacin": 6.08,
-          "b5_pantothenic_acid": 3.28,
-          "b6_pyridoxine": 0.88,
-          "b12_cobalamin": 2.29,
-          "choline": 198.44,
-          "folate": 561.79,
-          "vitamin_a": 1264.47,
-          "vitamin_c": 46.2,
-          "vitamin_d": 42.85,
-          "vitamin_e": 5.92,
-          "vitamin_k": 383.91,
-          "calcium": 189.7,
-          "copper": 0.6,
-          "iron": 5.61,
-          "magnesium": 108.41,
-          "manganese": 0.92,
-          "phosphorus": 381.27,
-          "potassium": 1769.3,
-          "selenium": 47.38,
-          "sodium": 1303.33,
-          "zinc": 2.56
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/romaine-salad-crispy-smoked-salmon-egg-lemon-caper-dressing/16197",
-      "altVariants": [
-        {
-          "id": 16198,
-          "recipe_id": 1906,
-          "group_label": "Default",
-          "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "published_recipe_uuid": "823e7f85-c9b6-4e4d-b36e-ad3dd476556e",
-          "fallback_published_recipe_uuids": [
-            "03b64838-a362-4c86-ba0f-2a07ac39852c"
-          ],
-          "first_published_at": 1632235866000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            121,
-            24,
-            316,
-            192,
-            343,
-            25,
-            144,
-            342,
-            260,
-            72,
-            117,
-            47,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            6,
-            3,
-            3,
-            1.5,
-            1.5,
-            3,
-            2,
-            3,
-            3,
-            2.5,
-            30,
-            45,
-            15,
-            135,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This dish brings together a few simple, quality ingredients together to create something wonderful"
-        },
-        {
-          "id": 16197,
-          "recipe_id": 1906,
-          "group_label": "Default",
-          "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "published_recipe_uuid": "4e8155df-de88-4386-b51c-8453dd1e23ed",
-          "fallback_published_recipe_uuids": [
-            "dd61340e-934c-4132-bd48-6549ec1941ef"
-          ],
-          "first_published_at": 1632235866000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            121,
-            24,
-            316,
-            192,
-            343,
-            25,
-            144,
-            342,
-            260,
-            72,
-            117,
-            47,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            2,
-            2,
-            1,
-            1,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            20,
-            30,
-            10,
-            90,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This dish brings together a few simple, quality ingredients together to create something wonderful"
-        },
-        {
-          "id": 16196,
-          "recipe_id": 1906,
-          "group_label": "Default",
-          "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "published_recipe_uuid": "a0ea91df-dcca-4057-82d4-ab4eacff64e8",
-          "fallback_published_recipe_uuids": [
-            "8ae782d3-7f32-4d41-843b-88484932641f"
-          ],
-          "first_published_at": 1632235866000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            121,
-            24,
-            316,
-            192,
-            343,
-            25,
-            144,
-            342,
-            260,
-            72,
-            117,
-            47,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            1,
-            1,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            10,
-            15,
-            5,
-            45,
-            1.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This dish brings together a few simple, quality ingredients together to create something wonderful"
-        },
-        {
-          "id": 16201,
-          "recipe_id": 1906,
-          "group_label": "Default",
-          "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "published_recipe_uuid": "2c1d310f-598a-446a-808c-2d09db99ab46",
-          "fallback_published_recipe_uuids": [
-            "23e1b585-2f9c-4837-8697-8a6822ab5ec3"
-          ],
-          "first_published_at": 1632235865000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            121,
-            24,
-            316,
-            192,
-            343,
-            25,
-            144,
-            342,
-            260,
-            72,
-            117,
-            47,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            3,
-            1.5,
-            6,
-            3,
-            89,
-            1.5,
-            1.5,
-            3,
-            2,
-            3,
-            3,
-            2.5,
-            30,
-            45,
-            15,
-            135,
-            3.75
-          ],
-          "average_rating": 0.75,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This dish brings together a few simple, quality ingredients together to create something wonderful"
-        },
-        {
-          "id": 16199,
-          "recipe_id": 1906,
-          "group_label": "Default",
-          "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "published_recipe_uuid": "44a85203-444d-41a1-86ad-ac57848267f5",
-          "fallback_published_recipe_uuids": [
-            "ce881d17-324d-41db-8853-c41e8475d841"
-          ],
-          "first_published_at": 1632235865000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            121,
-            24,
-            316,
-            192,
-            343,
-            25,
-            144,
-            342,
-            260,
-            72,
-            117,
-            47,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            1,
-            0.5,
-            2,
-            1,
-            30,
-            0.5,
-            0.5,
-            1,
-            0.5,
-            1,
-            1,
-            0.625,
-            10,
-            15,
-            5,
-            45,
-            1.25
-          ],
-          "average_rating": 0.75,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This dish brings together a few simple, quality ingredients together to create something wonderful"
-        },
-        {
-          "id": 16200,
-          "recipe_id": 1906,
-          "group_label": "Default",
-          "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
-          "published_recipe_uuid": "fc38a499-482a-43fd-8415-5bf29ead17bb",
-          "fallback_published_recipe_uuids": [
-            "5db43bb4-35b4-431f-8286-72afec130314"
-          ],
-          "first_published_at": 1632235864000,
-          "allowed_type_ids": [
-            4,
-            7,
-            5,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            14,
-            13,
-            11,
-            10,
-            2,
-            3
-          ],
-          "ingredient_ids": [
-            183,
-            15,
-            121,
-            24,
-            316,
-            192,
-            343,
-            25,
-            144,
-            342,
-            260,
-            72,
-            117,
-            47,
-            103,
-            267,
-            88
-          ],
-          "ingredient_amounts": [
-            2,
-            1,
-            4,
-            2,
-            59,
-            1,
-            1,
-            2,
-            1,
-            2,
-            2,
-            1.25,
-            20,
-            30,
-            10,
-            90,
-            2.5
-          ],
-          "average_rating": 0.75,
-          "rating_count": 9,
-          "variety_tag_ids": [
-            20
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "dinner",
-          "is_promoted": true,
-          "recipe_category_id": 5,
-          "cooking_tip": null,
-          "blurb": "This dish brings together a few simple, quality ingredients together to create something wonderful"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Dinner",
-        "description": "This dish brings together a few simple, quality ingredients together to create something wonderful",
-        "keywords": [
-          "Main-Course Salads"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 16197,
+  "recipe_id": 1906,
+  "serving_count": 4,
+  "cooking_minutes": 40,
+  "name": "Romaine Salad with Crispy Smoked Salmon, Egg & Lemon-Caper Dressing",
+  "slug": "romaine-salad-crispy-smoked-salmon-egg-lemon-caper-dressing",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/thumbnail_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1906/presentation_73abfc49-a892-46f1-b710-99d4d1e6cff7.jpeg",
+  "cookwares": [
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "romaine-salad-crispy-smoked-salmon-egg-lemon-caper-dressing",
-    "variantId": "16197"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 37,
+      "name": "citrus juicer (optional)",
+      "slug": "citrus-juicer"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 3,
+      "name": "garlic press (optional)",
+      "slug": "garlic-press"
+    },
+    {
+      "id": 52,
+      "name": "grater (optional)",
+      "slug": "grater"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 14,
+      "name": "small saucepan",
+      "slug": "small-saucepan"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    },
+    {
+      "id": 42,
+      "name": "whisk or fork",
+      "slug": "whisk-or-fork"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 265451,
+      "primary_message": "Place eggs in a small saucepan, cover with water, and bring to a boil. Reduce heat to a simmer and cook for 8 minutes. Drain hot water and add ice or run under cold water to cool.",
+      "secondary_message": "4 eggs"
+    },
+    {
+      "id": 265452,
+      "primary_message": "Meanwhile, wash and dry the fresh produce.",
+      "secondary_message": "1 lemon\n1 bunch radish\n2 tomatoes\n2 avocados\n2 heads romaine lettuce"
+    },
+    {
+      "id": 265453,
+      "primary_message": "Zest and juice lemon into a large bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 265454,
+      "primary_message": "Peel and mince garlic; add to the bowl with the lemon zest.",
+      "secondary_message": "2 cloves garlic"
+    },
+    {
+      "id": 265455,
+      "primary_message": "Mince capers; add to the bowl along with cream, mayo, Dijon, honey, salt, and pepper. Whisk to combine the dressing and set aside.",
+      "secondary_message": "1 tbsp capers\n2 fl oz (¼ cup) heavy whipping cream\n⅓ cup mayonnaise\n4 tsp Dijon mustard\n2 tsp honey\n½ tsp salt\n¼ tsp black pepper"
+    },
+    {
+      "id": 265456,
+      "primary_message": "Preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 265457,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Working in batches, add smoked salmon slices to the skillet in a single layer; cook, flipping once, until crispy, about 4 minutes. Remove to a paper towel-lined plate and set aside.",
+      "secondary_message": "2 tbsp extra virgin olive oil\n2 (4 oz) pkgs smoked salmon"
+    },
+    {
+      "id": 265458,
+      "primary_message": "Meanwhile, peel, halve, and thinly slice shallot; add to the bowl with the dressing.",
+      "secondary_message": "1 shallot"
+    },
+    {
+      "id": 265459,
+      "primary_message": "Trim and thinly slice radishes; add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 265460,
+      "primary_message": "Medium dice tomatoes and add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 265461,
+      "primary_message": "Halve avocados and remove pits; scoop out the flesh and medium dice. Add to the bowl.",
+      "secondary_message": null
+    },
+    {
+      "id": 265462,
+      "primary_message": "Chop or tear lettuce into bite-sized pieces; add to the bowl and toss to combine the salad.",
+      "secondary_message": null
+    },
+    {
+      "id": 265463,
+      "primary_message": "Peel and slice eggs crosswise into thin rounds. Chop or tear crispy smoked salmon into bite-sized pieces.",
+      "secondary_message": null
+    },
+    {
+      "id": 265464,
+      "primary_message": "To serve, divide salad between plates or bowls; top with eggs and crispy smoked salmon. Enjoy!",
+      "secondary_message": null
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 280036,
+      "quantity": "2",
+      "ingredient_name": "avocados"
+    },
+    {
+      "id": 280026,
+      "quantity": "1 tbsp",
+      "ingredient_name": "capers"
+    },
+    {
+      "id": 280034,
+      "quantity": "4",
+      "ingredient_name": "eggs"
+    },
+    {
+      "id": 280027,
+      "quantity": "2 cloves",
+      "ingredient_name": "garlic"
+    },
+    {
+      "id": 280040,
+      "quantity": "2 fl oz",
+      "ingredient_name": "heavy whipping cream"
+    },
+    {
+      "id": 280037,
+      "quantity": "1",
+      "ingredient_name": "lemon"
+    },
+    {
+      "id": 280042,
+      "quantity": "1 bunch",
+      "ingredient_name": "radish"
+    },
+    {
+      "id": 280028,
+      "quantity": "2 heads",
+      "ingredient_name": "romaine lettuce"
+    },
+    {
+      "id": 280035,
+      "quantity": "1",
+      "ingredient_name": "shallot"
+    },
+    {
+      "id": 280041,
+      "quantity": "2 (4 oz) pkgs",
+      "ingredient_name": "smoked salmon"
+    },
+    {
+      "id": 280038,
+      "quantity": "2",
+      "ingredient_name": "tomatoes"
+    },
+    {
+      "id": 280030,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 280033,
+      "quantity": "",
+      "ingredient_name": "Dijon mustard"
+    },
+    {
+      "id": 280029,
+      "quantity": "",
+      "ingredient_name": "extra virgin olive oil"
+    },
+    {
+      "id": 280032,
+      "quantity": "",
+      "ingredient_name": "honey"
+    },
+    {
+      "id": 280039,
+      "quantity": "",
+      "ingredient_name": "mayonnaise"
+    },
+    {
+      "id": 280031,
+      "quantity": "",
+      "ingredient_name": "salt"
+    }
+  ],
+  "nutrition": {
+    "energy": 655.17,
+    "alcohol": 0.01,
+    "ash": 7.62,
+    "caffeine": 0,
+    "water": 591.28,
+    "carbs": 30.44,
+    "fiber": 15.55,
+    "starch": 3.58,
+    "sugars": 11.9,
+    "fructose": 5.52,
+    "galactose": 0.21,
+    "glucose": 4.65,
+    "lactose": 0.42,
+    "maltose": 0.05,
+    "sucrose": 0.98,
+    "sugar_alcohol": 0,
+    "fat": 52.18,
+    "monounsaturated": 23.41,
+    "polyunsaturated": 14.46,
+    "omega_3": 1.86,
+    "omega_6": 12.31,
+    "saturated": 11.32,
+    "transfats": 0.31,
+    "cholesterol": 210.76,
+    "protein": 23.81,
+    "alanine": 1.31,
+    "arginine": 1.34,
+    "aspartic_acid": 2.53,
+    "cystine": 0.3,
+    "glutamic_acid": 3.68,
+    "glycine": 1.01,
+    "histidine": 0.6,
+    "isoleucine": 1.07,
+    "leucine": 1.82,
+    "lysine": 1.79,
+    "methionine": 0.59,
+    "phenylalanine": 1.09,
+    "proline": 0.93,
+    "serine": 1.21,
+    "threonine": 0.98,
+    "tryptophan": 0.27,
+    "tyrosine": 0.75,
+    "valine": 1.28,
+    "b1_thiamine": 0.38,
+    "b2_riboflavin": 0.67,
+    "b3_niacin": 6.08,
+    "b5_pantothenic_acid": 3.28,
+    "b6_pyridoxine": 0.88,
+    "b12_cobalamin": 2.29,
+    "choline": 198.44,
+    "folate": 561.79,
+    "vitamin_a": 1264.47,
+    "vitamin_c": 46.2,
+    "vitamin_d": 42.85,
+    "vitamin_e": 5.92,
+    "vitamin_k": 383.91,
+    "calcium": 189.7,
+    "copper": 0.6,
+    "iron": 5.61,
+    "magnesium": 108.41,
+    "manganese": 0.92,
+    "phosphorus": 381.27,
+    "potassium": 1769.3,
+    "selenium": 47.38,
+    "sodium": 1303.33,
+    "zinc": 2.56
+  }
 }

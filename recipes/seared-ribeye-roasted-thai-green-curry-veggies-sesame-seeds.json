@@ -1,655 +1,240 @@
 {
-  "props": {
-    "pageProps": {
-      "publishedRecipe": {
-        "id": 24575,
-        "recipe_id": 2764,
-        "serving_count": 4,
-        "cooking_minutes": 30,
-        "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
-        "slug": "seared-ribeye-roasted-thai-green-curry-veggies-sesame-seeds",
-        "units": "US",
-        "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-        "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-        "cookwares": [
-          {
-            "id": 90,
-            "name": "aluminum foil",
-            "slug": "aluminum-foil"
-          },
-          {
-            "id": 33,
-            "name": "baking sheet pan",
-            "slug": "baking-sheet-pan"
-          },
-          {
-            "id": 2,
-            "name": "chef's knife",
-            "slug": "chef-s-knife"
-          },
-          {
-            "id": 11,
-            "name": "colander",
-            "slug": "colander"
-          },
-          {
-            "id": 1,
-            "name": "cutting board",
-            "slug": "cutting-board"
-          },
-          {
-            "id": 22,
-            "name": "measuring cups",
-            "slug": "measuring-cups"
-          },
-          {
-            "id": 5,
-            "name": "measuring spoons",
-            "slug": "measuring-spoons"
-          },
-          {
-            "id": 23,
-            "name": "mixing bowls",
-            "slug": "mixing-bowls"
-          },
-          {
-            "id": 91,
-            "name": "nonstick skillet",
-            "slug": "nonstick-skillet"
-          },
-          {
-            "id": 34,
-            "name": "oven mitts",
-            "slug": "oven-mitts"
-          },
-          {
-            "id": 13,
-            "name": "stirring spoon",
-            "slug": "stirring-spoon"
-          },
-          {
-            "id": 35,
-            "name": "tongs",
-            "slug": "tongs"
-          }
-        ],
-        "instructions": [
-          {
-            "id": 397089,
-            "primary_message": "Preheat oven to 450°F.",
-            "secondary_message": null
-          },
-          {
-            "id": 397090,
-            "primary_message": "Place curry paste, water, oil, sesame seeds, and spices in a large bowl. Stir to combine the marinade. ",
-            "secondary_message": "¼ cup Thai curry paste, green\n¼ cup water\n3 tbsp toasted sesame oil\n2 tsp sesame seeds\n½ tsp salt\n½ tsp black pepper\n¼ tsp crushed red pepper"
-          },
-          {
-            "id": 397091,
-            "primary_message": "Wash, dry, trim, and seed bell peppers; large dice. Add to the bowl with the marinade along with the broccoli and mushrooms; stir to coat.",
-            "secondary_message": "2 red bell peppers\n1 (18 oz) bag broccoli florets\n2 (8 oz) pkg sliced white mushrooms"
-          },
-          {
-            "id": 397092,
-            "primary_message": "Transfer veggies to a large baking sheet pan and spread out in an even layer. Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until veggies are fork-tender, 12-15 minutes. Remove from oven. ",
-            "secondary_message": null
-          },
-          {
-            "id": 397093,
-            "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
-            "secondary_message": null
-          },
-          {
-            "id": 397094,
-            "primary_message": "While the skillet heats up, pat steak dry with paper towels and place on a plate; season with salt and pepper on both sides. ",
-            "secondary_message": "1 ½ lb ribeye steak\n1 tsp salt\n½ tsp black pepper"
-          },
-          {
-            "id": 397095,
-            "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate, loosely cover with aluminum foil, and set aside to rest, 5 minutes.",
-            "secondary_message": "2 tsp toasted sesame oil"
-          },
-          {
-            "id": 397096,
-            "primary_message": "Thinly slice steak against the grain.",
-            "secondary_message": null
-          },
-          {
-            "id": 397097,
-            "primary_message": "To serve, divide steak and veggies between plates; sprinkle veggies with more sesame seeds. Enjoy!",
-            "secondary_message": "2 tsp sesame seeds"
-          }
-        ],
-        "ingredients": [
-          {
-            "id": 424266,
-            "quantity": "1 (18 oz) bag",
-            "ingredient_name": "broccoli florets"
-          },
-          {
-            "id": 424262,
-            "quantity": "2",
-            "ingredient_name": "red bell peppers"
-          },
-          {
-            "id": 424264,
-            "quantity": "1 ½ lb",
-            "ingredient_name": "ribeye steak"
-          },
-          {
-            "id": 424267,
-            "quantity": "2 (8 oz) pkg",
-            "ingredient_name": "sliced white mushrooms"
-          },
-          {
-            "id": 424265,
-            "quantity": "¼ cup",
-            "ingredient_name": "Thai curry paste, green"
-          },
-          {
-            "id": 424259,
-            "quantity": "",
-            "ingredient_name": "black pepper"
-          },
-          {
-            "id": 424260,
-            "quantity": "",
-            "ingredient_name": "crushed red pepper"
-          },
-          {
-            "id": 424261,
-            "quantity": "",
-            "ingredient_name": "salt"
-          },
-          {
-            "id": 424263,
-            "quantity": "",
-            "ingredient_name": "sesame seeds"
-          },
-          {
-            "id": 424258,
-            "quantity": "",
-            "ingredient_name": "toasted sesame oil"
-          }
-        ],
-        "nutrition": {
-          "energy": 676.55,
-          "alcohol": 0,
-          "ash": 6.27,
-          "caffeine": 0,
-          "water": 377.45,
-          "carbs": 20.39,
-          "fiber": 6.67,
-          "starch": 0.24,
-          "sugars": 7.37,
-          "fructose": 2.41,
-          "galactose": 0,
-          "glucose": 3.47,
-          "lactose": 0.27,
-          "maltose": 0.27,
-          "sucrose": 0.14,
-          "sugar_alcohol": 0,
-          "fat": 50.68,
-          "monounsaturated": 21.69,
-          "polyunsaturated": 8.06,
-          "omega_3": 0.21,
-          "omega_6": 7.83,
-          "saturated": 17.4,
-          "transfats": 2.12,
-          "cholesterol": 115.67,
-          "protein": 40.12,
-          "alanine": 2.34,
-          "arginine": 2.57,
-          "aspartic_acid": 3.9,
-          "cystine": 0.39,
-          "glutamic_acid": 6.45,
-          "glycine": 1.81,
-          "histidine": 1.32,
-          "isoleucine": 1.68,
-          "leucine": 3.05,
-          "lysine": 3.3,
-          "methionine": 0.96,
-          "phenylalanine": 1.56,
-          "proline": 1.68,
-          "serine": 1.61,
-          "threonine": 1.75,
-          "tryptophan": 0.45,
-          "tyrosine": 1.3,
-          "valine": 2.04,
-          "b1_thiamine": 0.42,
-          "b2_riboflavin": 1.08,
-          "b3_niacin": 13.57,
-          "b5_pantothenic_acid": 3.44,
-          "b6_pyridoxine": 1.22,
-          "b12_cobalamin": 3.02,
-          "choline": 117.68,
-          "folate": 135.96,
-          "vitamin_a": 826.95,
-          "vitamin_c": 197.29,
-          "vitamin_d": 10.43,
-          "vitamin_e": 2.51,
-          "vitamin_k": 137.77,
-          "calcium": 94.91,
-          "copper": 0.59,
-          "iron": 5.57,
-          "magnesium": 88.58,
-          "manganese": 0.62,
-          "phosphorus": 437.35,
-          "potassium": 1282.32,
-          "selenium": 54.57,
-          "sodium": 869.7,
-          "zinc": 9.52
-        }
-      },
-      "canonicalVariantUrl": "https://www.mealime.com/recipes/seared-ribeye-roasted-thai-green-curry-veggies-sesame-seeds/24575",
-      "altVariants": [
-        {
-          "id": 24575,
-          "recipe_id": 2764,
-          "group_label": "Default",
-          "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "published_recipe_uuid": "92fdc89f-0b44-42aa-a347-ae89b5e5c97f",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1681221434000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            428,
-            150,
-            307,
-            450,
-            402,
-            72,
-            85,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            1.5,
-            2,
-            60,
-            5,
-            1.25,
-            7.5,
-            20,
-            55
-          ],
-          "average_rating": 0.667,
-          "rating_count": 3,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Short on time but don't want to compromise on flavor? We've got you covered"
-        },
-        {
-          "id": 24574,
-          "recipe_id": 2764,
-          "group_label": "Default",
-          "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "published_recipe_uuid": "d5a94bfe-b8e6-483f-96d6-8fcb7d722a30",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1681221434000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            428,
-            150,
-            307,
-            450,
-            402,
-            72,
-            85,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.75,
-            1,
-            30,
-            2.5,
-            0.625,
-            3.75,
-            10,
-            27.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 3,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Short on time but don't want to compromise on flavor? We've got you covered"
-        },
-        {
-          "id": 24576,
-          "recipe_id": 2764,
-          "group_label": "Default",
-          "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 2,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "published_recipe_uuid": "efaf8d0f-b1db-41a0-8533-36b6e2d18648",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1681221434000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            428,
-            150,
-            307,
-            450,
-            402,
-            72,
-            85,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            2.25,
-            3,
-            90,
-            7.5,
-            2.5,
-            11.25,
-            30,
-            82.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 3,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Short on time but don't want to compromise on flavor? We've got you covered"
-        },
-        {
-          "id": 24579,
-          "recipe_id": 2764,
-          "group_label": "Default",
-          "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
-          "position": 2,
-          "serving_count": 6,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "published_recipe_uuid": "6cc33617-6aea-4398-b9b0-42d9851d8c39",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1681221433000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            428,
-            150,
-            307,
-            450,
-            402,
-            72,
-            85,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1.5,
-            3,
-            1.02,
-            3,
-            90,
-            7.5,
-            2.5,
-            11.25,
-            30,
-            82.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 3,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Short on time but don't want to compromise on flavor? We've got you covered"
-        },
-        {
-          "id": 24578,
-          "recipe_id": 2764,
-          "group_label": "Default",
-          "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
-          "position": 1,
-          "serving_count": 4,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "published_recipe_uuid": "e1ba0b20-b92e-40f2-86a4-b5d45c062396",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1681221433000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            428,
-            150,
-            307,
-            450,
-            402,
-            72,
-            85,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            1,
-            2,
-            0.68,
-            2,
-            60,
-            5,
-            1.25,
-            7.5,
-            20,
-            55
-          ],
-          "average_rating": 0.667,
-          "rating_count": 3,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Short on time but don't want to compromise on flavor? We've got you covered"
-        },
-        {
-          "id": 24577,
-          "recipe_id": 2764,
-          "group_label": "Default",
-          "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
-          "position": 0,
-          "serving_count": 2,
-          "unit_family_id": 1,
-          "is_pro": false,
-          "is_secret": false,
-          "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
-          "published_recipe_uuid": "f1724256-1c71-4c9a-ab02-0209940340b8",
-          "fallback_published_recipe_uuids": [
-
-          ],
-          "first_published_at": 1681221434000,
-          "allowed_type_ids": [
-            7,
-            1,
-            3
-          ],
-          "violated_restriction_ids": [
-            12,
-            10
-          ],
-          "ingredient_ids": [
-            428,
-            150,
-            307,
-            450,
-            402,
-            72,
-            85,
-            88,
-            181,
-            51
-          ],
-          "ingredient_amounts": [
-            0.5,
-            1,
-            0.34,
-            1,
-            30,
-            2.5,
-            0.625,
-            3.75,
-            10,
-            27.5
-          ],
-          "average_rating": 0.667,
-          "rating_count": 3,
-          "variety_tag_ids": [
-            14
-          ],
-          "cuisine_tag_ids": [
-
-          ],
-          "ruleset": "simple",
-          "is_promoted": true,
-          "recipe_category_id": 4,
-          "cooking_tip": null,
-          "blurb": "Short on time but don't want to compromise on flavor? We've got you covered"
-        }
-      ],
-      "schemaMetadata": {
-        "category": "Simple",
-        "description": "Short on time but don't want to compromise on flavor? We've got you covered",
-        "keywords": [
-          "Steaks"
-        ],
-        "cuisine": "",
-        "reviewCount": null,
-        "reviewScore": null
-      }
+  "id": 24575,
+  "recipe_id": 2764,
+  "serving_count": 4,
+  "cooking_minutes": 30,
+  "name": "Seared Ribeye & Roasted Thai Green Curry Veggies with Sesame Seeds",
+  "slug": "seared-ribeye-roasted-thai-green-curry-veggies-sesame-seeds",
+  "units": "US",
+  "thumbnail_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/thumbnail_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
+  "presentation_image_url": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2764/presentation_a50547e7-4476-4ee5-8015-73c0210cfbb6.jpeg",
+  "cookwares": [
+    {
+      "id": 90,
+      "name": "aluminum foil",
+      "slug": "aluminum-foil"
     },
-    "__N_SSG": true
-  },
-  "page": "/recipes/[slug]/[variantId]",
-  "query": {
-    "slug": "seared-ribeye-roasted-thai-green-curry-veggies-sesame-seeds",
-    "variantId": "24575"
-  },
-  "buildId": "pU7Y38dVOt_HwOo9m5O2E",
-  "isFallback": false,
-  "gsp": true,
-  "scriptLoader": [
-
-  ]
+    {
+      "id": 33,
+      "name": "baking sheet pan",
+      "slug": "baking-sheet-pan"
+    },
+    {
+      "id": 2,
+      "name": "chef's knife",
+      "slug": "chef-s-knife"
+    },
+    {
+      "id": 11,
+      "name": "colander",
+      "slug": "colander"
+    },
+    {
+      "id": 1,
+      "name": "cutting board",
+      "slug": "cutting-board"
+    },
+    {
+      "id": 22,
+      "name": "measuring cups",
+      "slug": "measuring-cups"
+    },
+    {
+      "id": 5,
+      "name": "measuring spoons",
+      "slug": "measuring-spoons"
+    },
+    {
+      "id": 23,
+      "name": "mixing bowls",
+      "slug": "mixing-bowls"
+    },
+    {
+      "id": 91,
+      "name": "nonstick skillet",
+      "slug": "nonstick-skillet"
+    },
+    {
+      "id": 34,
+      "name": "oven mitts",
+      "slug": "oven-mitts"
+    },
+    {
+      "id": 13,
+      "name": "stirring spoon",
+      "slug": "stirring-spoon"
+    },
+    {
+      "id": 35,
+      "name": "tongs",
+      "slug": "tongs"
+    }
+  ],
+  "instructions": [
+    {
+      "id": 397089,
+      "primary_message": "Preheat oven to 450°F.",
+      "secondary_message": null
+    },
+    {
+      "id": 397090,
+      "primary_message": "Place curry paste, water, oil, sesame seeds, and spices in a large bowl. Stir to combine the marinade. ",
+      "secondary_message": "¼ cup Thai curry paste, green\n¼ cup water\n3 tbsp toasted sesame oil\n2 tsp sesame seeds\n½ tsp salt\n½ tsp black pepper\n¼ tsp crushed red pepper"
+    },
+    {
+      "id": 397091,
+      "primary_message": "Wash, dry, trim, and seed bell peppers; large dice. Add to the bowl with the marinade along with the broccoli and mushrooms; stir to coat.",
+      "secondary_message": "2 red bell peppers\n1 (18 oz) bag broccoli florets\n2 (8 oz) pkg sliced white mushrooms"
+    },
+    {
+      "id": 397092,
+      "primary_message": "Transfer veggies to a large baking sheet pan and spread out in an even layer. Place baking sheet in the oven (it doesn't have to be fully heated) and roast, stirring halfway through, until veggies are fork-tender, 12-15 minutes. Remove from oven. ",
+      "secondary_message": null
+    },
+    {
+      "id": 397093,
+      "primary_message": "Meanwhile, preheat a large skillet over medium-high heat.",
+      "secondary_message": null
+    },
+    {
+      "id": 397094,
+      "primary_message": "While the skillet heats up, pat steak dry with paper towels and place on a plate; season with salt and pepper on both sides. ",
+      "secondary_message": "1 ½ lb ribeye steak\n1 tsp salt\n½ tsp black pepper"
+    },
+    {
+      "id": 397095,
+      "primary_message": "Once the skillet is hot, add oil and swirl to coat the bottom. Add steak and cook until desired doneness, 2-5 minutes per side. Transfer to a clean plate, loosely cover with aluminum foil, and set aside to rest, 5 minutes.",
+      "secondary_message": "2 tsp toasted sesame oil"
+    },
+    {
+      "id": 397096,
+      "primary_message": "Thinly slice steak against the grain.",
+      "secondary_message": null
+    },
+    {
+      "id": 397097,
+      "primary_message": "To serve, divide steak and veggies between plates; sprinkle veggies with more sesame seeds. Enjoy!",
+      "secondary_message": "2 tsp sesame seeds"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 424266,
+      "quantity": "1 (18 oz) bag",
+      "ingredient_name": "broccoli florets"
+    },
+    {
+      "id": 424262,
+      "quantity": "2",
+      "ingredient_name": "red bell peppers"
+    },
+    {
+      "id": 424264,
+      "quantity": "1 ½ lb",
+      "ingredient_name": "ribeye steak"
+    },
+    {
+      "id": 424267,
+      "quantity": "2 (8 oz) pkg",
+      "ingredient_name": "sliced white mushrooms"
+    },
+    {
+      "id": 424265,
+      "quantity": "¼ cup",
+      "ingredient_name": "Thai curry paste, green"
+    },
+    {
+      "id": 424259,
+      "quantity": "",
+      "ingredient_name": "black pepper"
+    },
+    {
+      "id": 424260,
+      "quantity": "",
+      "ingredient_name": "crushed red pepper"
+    },
+    {
+      "id": 424261,
+      "quantity": "",
+      "ingredient_name": "salt"
+    },
+    {
+      "id": 424263,
+      "quantity": "",
+      "ingredient_name": "sesame seeds"
+    },
+    {
+      "id": 424258,
+      "quantity": "",
+      "ingredient_name": "toasted sesame oil"
+    }
+  ],
+  "nutrition": {
+    "energy": 676.55,
+    "alcohol": 0,
+    "ash": 6.27,
+    "caffeine": 0,
+    "water": 377.45,
+    "carbs": 20.39,
+    "fiber": 6.67,
+    "starch": 0.24,
+    "sugars": 7.37,
+    "fructose": 2.41,
+    "galactose": 0,
+    "glucose": 3.47,
+    "lactose": 0.27,
+    "maltose": 0.27,
+    "sucrose": 0.14,
+    "sugar_alcohol": 0,
+    "fat": 50.68,
+    "monounsaturated": 21.69,
+    "polyunsaturated": 8.06,
+    "omega_3": 0.21,
+    "omega_6": 7.83,
+    "saturated": 17.4,
+    "transfats": 2.12,
+    "cholesterol": 115.67,
+    "protein": 40.12,
+    "alanine": 2.34,
+    "arginine": 2.57,
+    "aspartic_acid": 3.9,
+    "cystine": 0.39,
+    "glutamic_acid": 6.45,
+    "glycine": 1.81,
+    "histidine": 1.32,
+    "isoleucine": 1.68,
+    "leucine": 3.05,
+    "lysine": 3.3,
+    "methionine": 0.96,
+    "phenylalanine": 1.56,
+    "proline": 1.68,
+    "serine": 1.61,
+    "threonine": 1.75,
+    "tryptophan": 0.45,
+    "tyrosine": 1.3,
+    "valine": 2.04,
+    "b1_thiamine": 0.42,
+    "b2_riboflavin": 1.08,
+    "b3_niacin": 13.57,
+    "b5_pantothenic_acid": 3.44,
+    "b6_pyridoxine": 1.22,
+    "b12_cobalamin": 3.02,
+    "choline": 117.68,
+    "folate": 135.96,
+    "vitamin_a": 826.95,
+    "vitamin_c": 197.29,
+    "vitamin_d": 10.43,
+    "vitamin_e": 2.51,
+    "vitamin_k": 137.77,
+    "calcium": 94.91,
+    "copper": 0.59,
+    "iron": 5.57,
+    "magnesium": 88.58,
+    "manganese": 0.62,
+    "phosphorus": 437.35,
+    "potassium": 1282.32,
+    "selenium": 54.57,
+    "sodium": 869.7,
+    "zinc": 9.52
+  }
 }

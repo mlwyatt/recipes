@@ -3,6 +3,7 @@ const grid = document.getElementById('grid');
 const pager = document.getElementById('pager');
 const count = document.getElementById('count');
 const qInput = document.getElementById('q');
+const favInput = document.getElementById('favorite');
 
 let all = [];
 let filtered = [];
@@ -10,29 +11,51 @@ let filtered = [];
 // State lives in the URL: index.html?q=beef&p=2
 const params = () => new URLSearchParams(location.search);
 const getQ = () => params().get('q') ?? '';
+const getFavoriteFlag = () => params().get('favorite') === 'true';
 const getPage = () => Math.max(1, parseInt(params().get('p'), 10) || 1);
 
-function setUrl(q, p, replace = false) {
+function setUrl(q, favorite, p, replace = false) {
   const sp = new URLSearchParams();
-  if (q) sp.set('q', q);
-  if (p > 1) sp.set('p', p);
+
+  if (q) {
+    sp.set('q', q);
+  }
+
+  if (favorite) {
+    sp.set('favorite', favorite);
+  }
+
+  if (p > 1) {
+    sp.set('p', p);
+  }
+
   const url = location.pathname + (sp.toString() ? `?${sp}` : '');
+
   history[replace ? 'replaceState' : 'pushState'](null, '', url);
 }
 
-function applyFilter(q) {
+function applyFilter(q, favorite) {
   const terms = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
-  filtered = !terms.length
-    ? all
-    : all.filter((r) => {
-        const hay = [r.title, ...r.ingredients, ...r.cookware].join(' ').toLowerCase();
-        return terms.every((t) => hay.includes(t));
-      });
+
+  if ( terms.length === 0 ) {
+    filtered = all.filter((r) => !favorite || r.favorite);
+  }
+  else {
+    filtered = all.filter((r) => {
+      const hay = [r.title, ...r.ingredients, ...r.cookware].join(' ').toLowerCase();
+
+      return terms.every((t) => hay.includes(t)) && (!favorite || r.favorite);
+    });
+  }
+
 }
 
 function render() {
   const q = getQ();
-  applyFilter(q);
+  const favorite = getFavoriteFlag();
+
+  applyFilter(q, favorite);
+
   const pages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const page = Math.min(getPage(), pages);
   const slice = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
@@ -61,19 +84,23 @@ function render() {
 pager.addEventListener('click', (e) => {
   const p = parseInt(e.target.dataset.p, 10);
   if (!p) return;
-  setUrl(getQ(), p);
+  setUrl(getQ(), getFavoriteFlag(), p);
   render();
   window.scrollTo(0, 0);
 });
 
 let timer;
-qInput.addEventListener('input', () => {
+
+const handleFilterChange = () => {
   clearTimeout(timer);
   timer = setTimeout(() => {
-    setUrl(qInput.value.trim(), 1, true); // new query resets to page 1
+    setUrl(qInput.value.trim(), favInput.checked, 1, true); // new query resets to page 1
     render();
   }, 150);
-});
+};
+
+qInput.addEventListener('input', handleFilterChange);
+favInput.addEventListener('change', handleFilterChange);
 
 window.addEventListener('popstate', render);
 

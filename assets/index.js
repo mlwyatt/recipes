@@ -44,8 +44,11 @@ function render() {
     ? slice.map((r) => `
         <a class="card" href="show.html?id=${encodeURIComponent(r.id)}">
           ${r.image ? `<img loading="lazy" src="${esc(r.image)}" alt="">` : '<div class="noimg"></div>'}
-          <h3>${esc(r.title)}</h3>
-          <span>${esc(r.cooking_minutes)}</span>
+          <h3>
+            <span class="card-favorite">${r.favorite ? 'star' : ''}</span>
+            ${esc(r.title)}
+          </h3>
+          <span class="card-minutes">${esc(r.cooking_minutes)} minutes</span>
         </a>`).join('')
     : '<p class="muted">No matches.</p>';
 

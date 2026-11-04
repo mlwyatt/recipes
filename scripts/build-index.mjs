@@ -13,6 +13,7 @@ const index = readdirSync('recipes')
 
     return {
       id,
+      favorite: data.favorite === true,
       cooking_minutes: data.cooking_minutes,
       title: data.name,
       ingredients: (data.ingredients ?? []).map(name).filter(Boolean),

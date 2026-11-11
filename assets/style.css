@@ -58,3 +58,229 @@ main { max-width: 1100px; margin: 0 auto; padding: 1rem; }
 .check input:checked { background: var(--accent); border-color: var(--accent); }
 .check input:checked::after { transform: rotate(45deg) scale(1); }
 .check input:disabled { opacity: .4; cursor: default; }
+
+/* ---- Planning additions: append to assets/style.css ---- */
+/* Uses the .check checkbox style from earlier. */
+
+.top .plan-link {
+  margin-left: auto;
+  padding: .35rem .75rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.top .plan-link:hover {
+  border-color: var(--accent);
+}
+
+.badge {
+  display: inline-block;
+  min-width: 1.25rem;
+  padding: 0 .4rem;
+  margin-left: .35rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: .75rem;
+  line-height: 1.25rem;
+  text-align: center;
+}
+
+.badge[hidden] {
+  display: none;
+}
+
+.btn {
+  padding: .4rem .9rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--fg);
+  font: inherit;
+  font-size: .9rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-color: var(--accent);
+}
+
+.btn.danger:hover {
+  border-color: #c0392b;
+  color: #c0392b;
+}
+
+/* Index cards: link and button are siblings inside a div (a button inside an <a> is invalid HTML). */
+.card>a {
+  display: block;
+  text-decoration: none;
+}
+
+.card-foot {
+  padding: 0 .75rem .75rem;
+}
+
+.add {
+  width: 100%;
+  padding: .4rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--fg);
+  font: inherit;
+  font-size: .9rem;
+  cursor: pointer;
+}
+
+.add:hover {
+  border-color: var(--accent);
+}
+
+.add.on {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* Plan page */
+.planner h1 {
+  margin-top: 0;
+}
+
+.plan-cols {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr);
+  gap: 2rem;
+  align-items: start;
+}
+
+.plan-cols[hidden] {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .plan-cols {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sec-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: .6rem;
+}
+
+.sec-head h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.tools {
+  display: flex;
+  gap: .5rem;
+  margin-bottom: .75rem;
+}
+
+.meals,
+.shopping {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.meal {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding: .5rem;
+  margin-bottom: .5rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.meal img,
+.meal .noimg {
+  flex: none;
+  width: 56px;
+  height: 56px;
+  aspect-ratio: 1;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.meal a,
+.meal>span {
+  flex: 1;
+  min-width: 0;
+}
+
+.meal a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.meal a:hover {
+  color: var(--accent);
+}
+
+.meal .x {
+  flex: none;
+  width: 2rem;
+  height: 2rem;
+  border: 0;
+  border-radius: 8px;
+  background: none;
+  color: var(--muted);
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.meal .x:hover {
+  color: #c0392b;
+}
+
+.shopping {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.item {
+  padding: .6rem .8rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.item:last-child {
+  border-bottom: 0;
+}
+
+.item .check {
+  width: 100%;
+}
+
+.qty {
+  font-weight: 600;
+}
+
+.from {
+  display: block;
+  margin-left: 1.65rem;
+  font-size: .8rem;
+}
+
+.item.done .qty,
+.item.done .nm {
+  color: var(--muted);
+  text-decoration: line-through;
+}
+
+.item.done .from {
+  opacity: .6;
+}

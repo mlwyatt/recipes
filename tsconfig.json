@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "noUncheckedIndexedAccess": true,
+    "strictFunctionTypes": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "allowSyntheticDefaultImports": true,
+    "declaration": false,
+    "allowUnreachableCode": true,
+    "noImplicitOverride": false,
+    "noFallthroughCasesInSwitch": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es2022"
+    ],
+    "noEmitOnError": true,
+    "strict": true,
+    "target": "es6",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "node_modules"
+      ]
+    }
+  },
+  "include": [
+    "assets/**/*.js"
+  ]
+}

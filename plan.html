@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meal plan</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="index.html">Recipes</a>
+    <a class="plan-link" href="plan.html">Plan <span class="badge" data-plan-count hidden></span></a>
+  </header>
+  <main class="planner">
+    <h1>Meal plan</h1>
+    <p id="empty" class="muted" hidden>Nothing planned yet. <a href="index.html">Browse recipes</a> and tap Add.</p>
+
+    <div id="plan-cols" class="plan-cols" hidden>
+      <section>
+        <div class="sec-head">
+          <h2>Meals <span id="meal-count" class="muted"></span></h2>
+          <button id="clear" class="btn danger" type="button">Clear plan</button>
+        </div>
+        <ul id="meals" class="meals"></ul>
+      </section>
+
+      <section>
+        <div class="sec-head">
+          <h2>Shopping list</h2>
+          <span id="progress" class="muted"></span>
+        </div>
+        <div class="tools">
+          <button id="uncheck" class="btn" type="button">Uncheck all</button>
+          <button id="copy" class="btn" type="button">Copy list</button>
+        </div>
+        <ul id="shopping" class="shopping"></ul>
+      </section>
+    </div>
+  </main>
+  <script src="assets/common.js"></script>
+  <script src="assets/plan-store.js"></script>
+  <script src="assets/shopping.js"></script>
+  <script src="assets/plan.js"></script>
+</body>
+</html>

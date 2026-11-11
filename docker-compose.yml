@@ -1,0 +1,27 @@
+services:
+  web: &web
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      RAILS_ENV: development
+      EDITOR: ${EDITOR:-}
+    build: .
+    image: "recipes:${RECIPES_TAG:-1}"
+    volumes:
+      - .:/Recipes
+      - node_modules:/Recipes/node_modules
+      - bundle:/usr/local/bundle
+    command: scripts/run_server.sh
+    ports:
+      - "8000:8000"
+    # tini as PID 1: reaps zombies, forwards SIGTERM
+    init: true
+    tty: true
+    stdin_open: true
+  devcontainer:
+    <<: *web
+    profiles:
+      - devcontainer
+volumes:
+  bundle:
+  node_modules:

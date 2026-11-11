@@ -1,20 +1,66 @@
+// @ts-check
+
+/**
+ * @typedef {Object} Cookware
+ * @property {number} id
+ * @property {string} name
+ * @property {string} slug
+ */
+
+/**
+ * @typedef {Object} Instruction
+ * @property {number} id
+ * @property {string} primary_message
+ * @property {string | null} secondary_message
+ */
+
+/**
+ * @typedef {Object} Ingredient
+ * @property {number} id
+ * @property {string} quantity
+ * @property {string} ingredient_name
+ */
+
+/**
+ * @typedef {Object} Recipe
+ * @property {number} id
+ * @property {boolean} favorite
+ * @property {number} cooking_minutes
+ * @property {string} name
+ * @property {Array<Cookware>} cookwares
+ * @property {Array<Instruction>} instructions
+ * @property {Array<Ingredient>} ingredients
+ */
+
+/**
+ * @typedef {Object} IndexRecipe
+ * @property {string} id
+ * @property {boolean} favorite
+ * @property {number} cooking_minutes
+ * @property {string} title
+ * @property {string} image
+ * @property {Array<string>} cookware
+ * @property {Array<string>} ingredients
+ */
+
 const el = document.getElementById('recipe');
 const id = new URLSearchParams(location.search).get('id');
 
 // Only allow simple slugs so ?id= can't be used to fetch arbitrary paths.
-if (!id || !/^[\w.-]+$/.test(id)) {
+if ( !id || !/^[\w.-]+$/.test(id) ) {
   el.innerHTML = '<p class="muted">No recipe specified.</p>';
-} else {
+}
+else {
   Promise.all([
     fetch(`recipes/${id}.json`).then((r) => { if (!r.ok) throw 0; return r.json(); }),
     fetch('index.json').then((r) => r.json()).catch(() => []),
   ])
-    .then(([r, index]) => show(r, index.find((x) => x.id === id)))
+    .then((/* @type {[Recipe, Array<IndexRecipe>]} */ [r, index]) => show(r, index.find((/** @type {IndexRecipe} */ item) => item.id === id)))
     .catch(() => { el.innerHTML = '<p class="muted">Recipe not found.</p>'; });
 }
 
 function list(items, tag = 'ul') {
-  return `<${tag}>${(items ?? []).map((i) => `<li>${esc(label(i))}</li>`).join('')}</${tag}>`;
+  return `<${tag}>${(items ?? []).map((item) => `<li>${esc(label(item))}</li>`).join('')}</${tag}>`;
 }
 
 function show(r, meta) {
@@ -43,7 +89,11 @@ function show(r, meta) {
     </div>`;
 
   // "Back" keeps the search/page the user came from, when available.
-  if (document.referrer.startsWith(location.origin) && /index\.html|\/$|\?/.test(document.referrer)) {
-    document.getElementById('back').href = document.referrer;
+  if ( document.referrer.startsWith(location.origin) && /index\.html|\/$|\?/.test(document.referrer) ) {
+    const link = document.getElementById('back');
+
+    if ( link instanceof HTMLAnchorElement ) {
+      link.href = document.referrer;
+    }
   }
 }

@@ -1,3 +1,5 @@
+// @ts-check
+
 const PAGE_SIZE = 24;
 const grid = document.getElementById('grid');
 const pager = document.getElementById('pager');
@@ -65,14 +67,19 @@ function render() {
 
   grid.innerHTML = slice.length
     ? slice.map((r) => `
-        <a class="card" href="show.html?id=${encodeURIComponent(r.id)}">
-          ${r.image ? `<img loading="lazy" src="${esc(r.image)}" alt="">` : '<div class="noimg"></div>'}
-          <h3>
-            <span class="card-favorite">${r.favorite ? 'star' : ''}</span>
-            ${esc(r.title)}
-          </h3>
-          <span class="card-minutes">${esc(r.cooking_minutes)} minutes</span>
-        </a>`).join('')
+        <div class="card">
+          <a href="show.html?id=${encodeURIComponent(r.id)}">
+            ${r.image ? `<img loading="lazy" src="${esc(r.image)}" alt="">` : '<div class="noimg"></div>'}
+            <h3>
+              <span class="card-favorite card-icon">${r.favorite ? 'star' : ''}</span>
+              ${esc(r.title)}
+            </h3>
+            </a>
+          <div class="card-foot">
+            <span class="card-minutes">${esc(r.cooking_minutes)} minutes</span>
+            <button class="card-icon card-add add" data-add="${esc(r.id)}" type="button">add</button>
+          </div>
+        </div>`).join('')
     : '<p class="muted">No matches.</p>';
 
   pager.innerHTML = pages > 1 ? `
@@ -108,3 +115,20 @@ fetch('index.json')
   .then((r) => r.json())
   .then((data) => { all = data; render(); })
   .catch(() => { grid.innerHTML = '<p class="muted">Could not load index.json.</p>'; });
+
+
+function syncAdd() {
+  grid.querySelectorAll('[data-add]').forEach((b) => {
+    const on = Plan.has(b.dataset.add);
+    b.classList.toggle('on', on);
+    b.textContent = on ? 'check' : 'add';
+    b.setAttribute('aria-pressed', on);
+  });
+}
+
+grid.addEventListener('click', ({target}) => {
+  const b = target.closest('[data-add]');
+  if (b) Plan.toggle(b.dataset.add);
+});
+
+Plan.onChange(syncAdd);

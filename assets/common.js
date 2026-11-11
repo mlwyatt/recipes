@@ -1,12 +1,22 @@
+// @ts-check
+
 // Shared helpers.
-window.esc = (s) =>
-  String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+window.esc = (/** @type {string} */ str) =>
+  String(str ?? '')
+  .replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char] ?? ''));
 
 // Normalize "string or object" entries into a display string.
-window.label = (x) => {
-  if (typeof x === 'string') return x;
-  if (!x || typeof x !== 'object') return '';
-  const qty = [x.quantity ?? x.amount, x.unit].filter((v) => v !== undefined && v !== null && v !== '').join(' ');
-  const nm = x.name ?? x.item ?? x.ingredient_name ?? x.primary_message ?? '';
+window.label = (/** @type {string} */ toLabel) => {
+  if ( typeof toLabel === 'string' ) {
+    return toLabel;
+  }
+
+  if ( !toLabel || typeof toLabel !== 'object' ) {
+    return '';
+  }
+
+  const qty = [toLabel.quantity ?? toLabel.amount, toLabel.unit].filter((value) => value !== undefined && value !== null && value !== '').join(' ');
+  const nm = toLabel.name ?? toLabel.item ?? toLabel.ingredient_name ?? toLabel.primary_message ?? '';
+
   return [qty, nm].filter(Boolean).join(' ');
 };

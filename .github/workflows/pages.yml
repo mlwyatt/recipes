@@ -27,7 +27,7 @@ jobs:
       - name: Assemble site
         run: |
           mkdir _site
-          cp -r index.html show.html index.json assets recipes images _site/
+          cp -r index.html show.html plan.html index.json assets recipes images _site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
